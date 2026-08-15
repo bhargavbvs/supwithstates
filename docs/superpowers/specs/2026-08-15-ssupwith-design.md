@@ -164,6 +164,21 @@ effectively invisible. Card text follows the framing rules in §8 exactly — "d
 "crimes" — since the card travels further than the page and will be seen by people who never
 click through.
 
+### Highlights band (v1, required)
+
+A row of swipeable cards on `/`, surfacing a handful of computed extremes — highest declared
+assets, most declared cases, narrowest 2024 margin, youngest MLA. Gives a first-time visitor a
+reason to click past the map, and is the cheapest engagement feature available.
+
+Two rules:
+
+1. **Computed only, never hand-picked.** Every card is the mechanical output of a script running
+   over the dataset, not an editorial choice of which MLAs to feature. Selection is the one thing
+   this site cannot afford to be seen doing — arithmetic is defensible, curation isn't.
+2. **Static cards, not an auto-scrolling ticker.** Motion that the user can't stop fails
+   accessibility requirements and is hard to tap on a phone. A horizontally swipeable row gets
+   the same discovery without either problem.
+
 ## 7. Representative data model
 
 One JSON file per constituency under `content/states/andhra/representatives/`.
@@ -179,6 +194,7 @@ One JSON file per constituency under `content/states/andhra/representatives/`.
   },
   "representative": {
     "name": "S. Savitha",
+    "election": "2024",              // which affidavit this record is from — enables v2 term comparisons
     "elected_party": "TDP",          // party contested on, per affidavit — never changes
     "current_party": "TDP",          // updated on defection; null if independent
     "party_changed": null,           // { "date": "...", "from": "...", "source_url": "..." }
@@ -416,6 +432,23 @@ district drill-down.
 - **v4** — Public evidence/correction *submissions* (publisher model, legal review first). The
   v1 corrections channel is a contact address; this is a submission flow, which is a different
   legal posture.
+- **v2+ candidates:**
+  - **Civic quiz**, generated from the dataset ("do you know who represents you?", "which
+    district is your constituency in?", "what does an MLA actually do?"). Needs an audience to be
+    worth building, so not before v1 ships. Framing must point at the civic-literacy gap, not at
+    the criminal-case data — turning declared cases into a guessing game would undercut every
+    framing rule in §8 and make a carefully neutral site look like a gotcha page.
+  - **2019 term comparison.** MyNeta publishes `AndhraPradesh2019` in the same format, so the
+    same import pipeline applies. Unlocks the most compelling comparison available in this
+    dataset — how a re-elected MLA's declared assets changed across one term, which is exactly
+    the kind of figure ADR itself highlights. The `election` field on every representative record
+    (§7) exists specifically to make this a data addition later, not a schema migration.
+  - **Full historical MLA rosters, pre-2003:** considered and rejected. Wikipedia is a tertiary
+    source and citing it undermines a site whose credibility rests on primary-source traceability;
+    pre-2003 affidavits mostly don't exist (mandatory disclosure began after the Supreme Court's
+    2003 ruling), so there would be name and party only, nothing the site is built to show; and no
+    2029 voting decision turns on who held a seat in the 1990s. The 2019 comparison above captures
+    the genuinely useful slice of "history" without this cost.
 - **later** — Telangana (Congress Six Guarantees); possibly a collector contact directory.
 
 ## 15. Open questions

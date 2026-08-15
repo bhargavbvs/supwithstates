@@ -83,7 +83,8 @@ src/
   geo-lookup.js                    point-in-polygon (pure, no deps)
   search.js                        constituency name search (pure)
   format.js                        currency, numbers, framing-compliant case labels
-  views/home.js                    map + stats strip + search
+  highlights.js                    computed extremes for the highlights band (pure)
+  views/home.js                    map + stats strip + highlights + search
   views/district.js                constituencies within a district
   views/constituency.js            representative profile
   views/static.js                  methodology + about
@@ -296,6 +297,7 @@ const valid = {
   constituency: { number: 123, name: 'Penukonda', district: 'Sri Sathya Sai', reserved: null },
   representative: {
     name: 'S. Savitha',
+    election: '2024',
     elected_party: 'TDP',
     current_party: 'TDP',
     party_changed: null,
@@ -387,6 +389,13 @@ describe('validateRepresentative', () => {
     expect(validateRepresentative(bad, opts))
       .toContain('representative.declared_cases.serious cannot exceed total');
   });
+
+  it('requires election to be a four-digit year', () => {
+    const bad = structuredClone(valid);
+    bad.representative.election = '24';
+    expect(validateRepresentative(bad, opts))
+      .toContain('representative.election must be a four-digit year');
+  });
 });
 ```
 
@@ -419,6 +428,7 @@ export function validateRepresentative(r, { assemblySize }) {
 
   const p = r.representative ?? {};
   if (typeof p.name !== 'string' || !p.name.trim()) e.push('representative.name is required');
+  if (!/^\d{4}$/.test(p.election ?? '')) e.push('representative.election must be a four-digit year');
   if (typeof p.elected_party !== 'string' || !p.elected_party.trim()) {
     e.push('representative.elected_party is required');
   }
@@ -463,7 +473,7 @@ export function validateRepresentative(r, { assemblySize }) {
 - [ ] **Step 4: Run the test and verify it passes**
 
 Run: `npx vitest run tests/validate-representative.test.mjs`
-Expected: PASS, 10 tests
+Expected: PASS, 11 tests
 
 - [ ] **Step 5: Commit**
 
@@ -1014,6 +1024,10 @@ describe('normaliseAffidavit', () => {
     expect(rec.representative.party_changed).toBeNull();
   });
 
+  it('tags the record with the 2024 election year', () => {
+    expect(normaliseAffidavit(row, { retrieved: '2026-08-15' }).representative.election).toBe('2024');
+  });
+
   it('builds a stable slug id', () => {
     expect(normaliseAffidavit(row, { retrieved: '2026-08-15' }).id).toBe('ap-ac-123-penukonda');
   });
@@ -1061,6 +1075,7 @@ export function normaliseAffidavit(row, { retrieved }) {
     },
     representative: {
       name: String(row.candidate ?? '').trim(),
+      election: '2024',
       elected_party: party,
       current_party: party,
       party_changed: null,
@@ -1101,7 +1116,7 @@ export function normaliseAffidavit(row, { retrieved }) {
 - [ ] **Step 4: Run the test and verify it passes**
 
 Run: `npx vitest run tests/normalise-affidavit.test.mjs`
-Expected: PASS, 7 tests
+Expected: PASS, 8 tests
 
 - [ ] **Step 5: Write the import CLI**
 
@@ -2376,7 +2391,211 @@ git commit -m "feat: per-constituency share cards"
 
 ---
 
-## Task 16: Deploy
+## Task 16: Highlights band
+
+Per spec §6 "Highlights band" — computed extremes only, never hand-picked, and static swipeable
+cards rather than an auto-scrolling ticker (motion the user can't stop fails accessibility
+requirements and is hard to tap on a phone).
+
+**Files:**
+- Create: `src/highlights.js`
+- Modify: `src/views/home.js`
+- Test: `tests/highlights.test.mjs`
+
+**Interfaces:**
+- Consumes: `store.all`
+- Produces: `computeHighlights(records) -> { key: string, label: string, name: string, value: string, href: string }[]`
+
+- [ ] **Step 1: Write the failing test**
+
+`tests/highlights.test.mjs`:
+
+```js
+import { describe, it, expect } from 'vitest';
+import { computeHighlights } from '../src/highlights.js';
+
+const rec = (number, name, { assets = 0, cases = 0, margin = 100000, age = 40 } = {}) => ({
+  constituency: { number, name, district: 'D' },
+  representative: { name: `Rep ${number}`, current_party: 'X', declared_cases: { total: cases, serious: 0, convicted: 0 }, assets: { total: assets, movable: 0, immovable: 0, liabilities: 0 }, age_at_election: age },
+  result: { margin }
+});
+
+const recs = [
+  rec(1, 'Alpha', { assets: 1000, cases: 0, margin: 50000, age: 35 }),
+  rec(2, 'Beta', { assets: 90000000, cases: 5, margin: 200, age: 61 }),
+  rec(3, 'Gamma', { assets: 500, cases: 2, margin: 90000, age: 28 })
+];
+
+describe('computeHighlights', () => {
+  it('finds highest declared assets', () => {
+    const h = computeHighlights(recs).find((x) => x.key === 'highest_assets');
+    expect(h.name).toBe('Beta');
+  });
+
+  it('finds most declared cases', () => {
+    const h = computeHighlights(recs).find((x) => x.key === 'most_cases');
+    expect(h.name).toBe('Beta');
+  });
+
+  it('finds narrowest margin', () => {
+    const h = computeHighlights(recs).find((x) => x.key === 'narrowest_margin');
+    expect(h.name).toBe('Beta');
+  });
+
+  it('finds youngest MLA at election', () => {
+    const h = computeHighlights(recs).find((x) => x.key === 'youngest');
+    expect(h.name).toBe('Gamma');
+  });
+
+  it('links each card to its constituency profile', () => {
+    const h = computeHighlights(recs).find((x) => x.key === 'highest_assets');
+    expect(h.href).toBe('#/c/2');
+  });
+
+  it('returns an empty array for no records rather than throwing', () => {
+    expect(computeHighlights([])).toEqual([]);
+  });
+});
+```
+
+- [ ] **Step 2: Run the test and verify it fails**
+
+Run: `npx vitest run tests/highlights.test.mjs`
+Expected: FAIL — cannot resolve `../src/highlights.js`
+
+- [ ] **Step 3: Write the implementation**
+
+`src/highlights.js`:
+
+```js
+import { formatRupees, formatDeclaredCases } from './format.js';
+
+const extremeBy = (records, keyFn, better) =>
+  records.reduce((best, r) => (best === null || better(keyFn(r), keyFn(best)) ? r : best), null);
+
+export function computeHighlights(records) {
+  if (!records.length) return [];
+
+  const cards = [
+    {
+      key: 'highest_assets',
+      label: 'Highest declared assets',
+      pick: extremeBy(records, (r) => r.representative.assets.total, (a, b) => a > b),
+      value: (r) => formatRupees(r.representative.assets.total)
+    },
+    {
+      key: 'most_cases',
+      label: 'Most declared criminal cases',
+      pick: extremeBy(records, (r) => r.representative.declared_cases.total, (a, b) => a > b),
+      value: (r) => formatDeclaredCases(r.representative.declared_cases).headline
+    },
+    {
+      key: 'narrowest_margin',
+      label: 'Narrowest 2024 margin',
+      pick: extremeBy(records, (r) => r.result.margin, (a, b) => a < b),
+      value: (r) => `${r.result.margin.toLocaleString('en-IN')} votes`
+    },
+    {
+      key: 'youngest',
+      label: 'Youngest MLA at election',
+      pick: extremeBy(records, (r) => r.representative.age_at_election ?? Infinity, (a, b) => a < b),
+      value: (r) => `${r.representative.age_at_election} years`
+    }
+  ];
+
+  return cards
+    .filter((c) => c.pick)
+    .map((c) => ({
+      key: c.key,
+      label: c.label,
+      name: c.pick.constituency.name,
+      value: c.value(c.pick),
+      href: `#/c/${c.pick.constituency.number}`
+    }));
+}
+```
+
+- [ ] **Step 4: Run the test and verify it passes**
+
+Run: `npx vitest run tests/highlights.test.mjs`
+Expected: PASS, 6 tests
+
+- [ ] **Step 5: Wire into the home view**
+
+In `src/views/home.js`, add a highlights section to the template and populate it after data loads:
+
+```js
+import { computeHighlights } from '../highlights.js';
+```
+
+Add `<section id="highlights" class="highlights"></section>` to the `el.innerHTML` template,
+placed between the stats strip and the search box. After `store.load()` resolves (home already
+runs after `store.load()` in `main.js`), render:
+
+```js
+const highlights = computeHighlights(store.all);
+el.querySelector('#highlights').innerHTML = highlights.map((h) => `
+  <a class="highlight-card" href="${h.href}">
+    <span class="hl-label">${h.label}</span>
+    <span class="hl-name">${h.name}</span>
+    <span class="hl-value">${h.value}</span>
+  </a>`).join('');
+```
+
+- [ ] **Step 6: Style as a horizontally swipeable row, not a ticker**
+
+In `src/style.css`:
+
+```css
+.highlights {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 4px;
+}
+.highlight-card {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px 16px;
+  border-radius: 10px;
+  background: var(--panel, #17171a);
+  text-decoration: none;
+}
+.hl-label { font-size: 12px; opacity: 0.7; }
+.hl-name { font-weight: 700; }
+.hl-value { font-size: 14px; }
+```
+
+No `animation` or `transform` auto-play — the row only moves in response to user scroll/swipe,
+satisfying the no-uncontrollable-motion rule from spec §6.
+
+- [ ] **Step 7: Verify manually**
+
+Run: `npm run dev`
+Expected: four cards render between the stats strip and search; swiping/dragging scrolls them
+horizontally; nothing moves on its own; tapping a card opens that constituency's profile.
+
+- [ ] **Step 8: Verify the framing guard still passes**
+
+Run: `npx vitest run tests/framing.test.mjs`
+Expected: PASS — highlight labels reuse `formatDeclaredCases`, so wording stays compliant.
+
+- [ ] **Step 9: Commit**
+
+```bash
+git add src/highlights.js src/views/home.js src/style.css tests/highlights.test.mjs
+git commit -m "feat: computed highlights band on the home page"
+```
+
+---
+
+## Task 17: Deploy
 
 **Files:**
 - Create: `vercel.json`
@@ -2458,11 +2677,12 @@ git commit -m "chore: deploy configuration"
 | §6 find my constituency (search + geolocation) | 12, 13 |
 | §6 corrections channel | 11, 14 |
 | §6 share cards | 15 |
-| §7 representative schema incl. `elected_party`/`current_party` | 2, 6 |
-| §8 framing rules | 4 (encoded + guarded), 11, 15 |
+| §6 highlights band (computed, static, non-ticker) | 16 |
+| §7 representative schema incl. `elected_party`/`current_party`/`election` | 2, 6 |
+| §8 framing rules | 4 (encoded + guarded), 11, 15, 16 |
 | §8 photo licensing | 2 |
 | §10 validator rules | 2, 3 |
-| §12 stack and performance budgets | 5, 7, 16 |
+| §12 stack and performance budgets | 5, 7, 17 |
 | §13 risks — corrections, attribution, ECI authority | 11, 14 |
 
 **Gaps found and accepted:**
@@ -2477,9 +2697,13 @@ git commit -m "chore: deploy configuration"
 3. **Audit trail (spec §11)** is git hygiene rather than code — one data change per commit, with
    a reason. No task implements it because there is nothing to build; it is a working practice
    from Task 6 onward.
+4. **`election` field (spec §7, added for the v2 term-comparison hook)** is validated (Task 2)
+   and set by the importer (Task 6), but nothing in v1 reads it — by design, since it exists
+   solely so a 2019 dataset can be added later without touching the 174 existing files.
 
 **Type consistency:** `validateRepresentative(rec, { assemblySize })` is called with that exact
 option shape in Tasks 3 and 6. `formatDeclaredCases` returns `{ headline, serious, convicted,
-disclaimer }` and is destructured consistently in Tasks 10, 11, and 15. `store.slugify` is
-defined in Task 8 and used in Tasks 9 and 11. `findFeatureAt(pt, fc)` and
-`searchConstituencies(query, records, limit)` match their call sites.
+disclaimer }` and is destructured consistently in Tasks 10, 11, 15, and 16. `store.slugify` is
+defined in Task 8 and used in Tasks 9 and 11. `findFeatureAt(pt, fc)`,
+`searchConstituencies(query, records, limit)`, and `computeHighlights(records)` match their call
+sites.
