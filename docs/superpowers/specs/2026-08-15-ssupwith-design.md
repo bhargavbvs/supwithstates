@@ -121,7 +121,8 @@ only start it once AP is stable and self-maintaining.
 ### Site structure
 
 - **`/`** — AP district map + stats strip
-  (`175 constituencies · 174 profiled · 79% with declared cases · ₹11,323 cr declared assets`).
+  (`175 constituencies · 174 profiled · 79% with declared cases · ₹11,323 cr declared assets`),
+  plus **"find my constituency"** — see below.
 - **`/d/<district>`** — district view: constituencies within, each with its representative.
 - **`/c/<constituency>`** — representative profile. Fixed order: identity → **mandatory affidavit
   disclaimer** → education → declared cases (pending and convicted shown separately) → assets and
@@ -129,6 +130,39 @@ only start it once AP is stable and self-maintaining.
 - **`/methodology`** — where data comes from, what "declared criminal case" means and does not
   mean, correction process. **Written before launch, not after the first complaint.**
 - **`/about`** — who runs this, that it is unfunded, and any political affiliation.
+
+### Find my constituency (v1, required)
+
+Most people do not know their assembly constituency's name or number, and AC boundaries do not
+follow district intuition. Without this, a visitor cannot complete the one task they came for,
+and the map alone does not solve it.
+
+- **Name search** across all 175 constituencies.
+- **"Locate me"** — browser geolocation, point-in-polygon against the AC GeoJSON already loaded.
+  One tap to *"you're in Penukonda, here's your MLA."*
+
+Geolocation is requested on user action only, never on page load, and coordinates are never sent
+anywhere — the lookup is entirely client-side against local polygons.
+
+### Corrections (v1, required)
+
+A named contact address on **every profile page** and on `/methodology`, inviting corrections
+with a pointer to the ECI affidavit as the authority.
+
+This is v1, not a later phase. The site publishes personal data about 174 named individuals; the
+first person to find an error must have a route that is not a legal notice. It is also, in
+practice, the main way errors will surface. This is a *publisher* correction channel — not user
+comments, which remain out of scope (§13).
+
+### Share cards (v1, required)
+
+Static Open Graph images generated per constituency at build time — e.g.
+*"Penukonda — 3 declared cases · ₹5.7 cr declared assets."*
+
+v1's value is shareability, and in AP that means WhatsApp, where a link without a preview card is
+effectively invisible. Card text follows the framing rules in §8 exactly — "declared," never
+"crimes" — since the card travels further than the page and will be seen by people who never
+click through.
 
 ## 7. Representative data model
 
@@ -145,7 +179,9 @@ One JSON file per constituency under `content/states/andhra/representatives/`.
   },
   "representative": {
     "name": "S. Savitha",
-    "party": "TDP",
+    "elected_party": "TDP",          // party contested on, per affidavit — never changes
+    "current_party": "TDP",          // updated on defection; null if independent
+    "party_changed": null,           // { "date": "...", "from": "...", "source_url": "..." }
     "term_start": "2024-06",
     "age_at_election": 46,
     "profession": "Agriculture",
@@ -195,6 +231,12 @@ One JSON file per constituency under `content/states/andhra/representatives/`.
 All figures are **as declared in a self-sworn affidavit**. Nothing is computed, inferred, or
 editorialised. This is a presentation layer over public record — that is the entire legal and
 credibility posture.
+
+**On party fields:** the affidavit records the party a candidate was *elected* on, which drifts
+as defections occur — a live concern in AP, where YSRCP holds only 11 seats. `elected_party` is
+affidavit fact and is immutable; `current_party` is maintained separately and any change requires
+a dated `source_url`. Splitting these costs nothing now and is painful to retrofit across 174
+files later.
 
 ## 8. ⚠️ Framing of criminal case data — non-negotiable
 
@@ -332,6 +374,24 @@ Inherited from ANDOLAN, which shipped and is actively maintained (171 entries):
 - **No database.** Static JSON fetched at runtime.
 - **Vercel Hobby** hosting.
 - Build merges `content/states/<state>/**` → `public/data.json` (generated, gitignored).
+- Build generates per-constituency OG images.
+
+### Performance budget
+
+The target device is a mid-range Android on mobile data, not a laptop — so this is a correctness
+requirement, not an optimisation.
+
+| Asset | Budget |
+|---|---|
+| District GeoJSON (26) | ≤ 150 KB |
+| Constituency GeoJSON (175) | ≤ 500 KB |
+| Representative data (all 174) | ≤ 300 KB |
+| Initial JS | ≤ 100 KB gzipped (excl. MapLibre) |
+
+ECI-derived AC polygons run to several megabytes at full resolution. **Simplify with mapshaper
+as a build step and fail the build if a budget is exceeded** — otherwise this regresses silently,
+since it is invisible on a development machine. Load constituency geometry lazily, only on
+district drill-down.
 
 ## 13. Risks
 
@@ -349,10 +409,13 @@ Inherited from ANDOLAN, which shipped and is actively maintained (171 entries):
 
 ## 14. Phases
 
-- **v1** — AP district map → constituency → representative profiles. This spec.
+- **v1** — AP district map → constituency → representative profiles, with constituency search
+  and geolocation, a corrections channel, and share cards. This spec.
 - **v2** — Promise tracker (§9), linked from each MLA via their party.
 - **v3** — Telugu.
-- **v4** — Corrections/evidence submissions (publisher model, legal review first).
+- **v4** — Public evidence/correction *submissions* (publisher model, legal review first). The
+  v1 corrections channel is a contact address; this is a submission flow, which is a different
+  legal posture.
 - **later** — Telangana (Congress Six Guarantees); possibly a collector contact directory.
 
 ## 15. Open questions
