@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-39-peddapuram",
+  "constituency": { "number": 39, "name": "Peddapuram", "district": "Kakinada", "reserved": null },
+  "representative": {
+    "name": "China Rajappa Nimmakayala",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 71,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.A., SKBR College, Amalapuram, 1978" },
+    "declared_cases": {
+      "total": 17,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Only 1 of 17 cases qualifies (IPC 494, marrying again during the lifetime of a spouse, max 7yr, alongside 188/506/114/511/34 and SC/ST POA Act/Disaster Management Act citations); the rest are CrPC 151 or minor public-order sections. No charges framed, zero convictions."
+    },
+    "assets": { "movable": 10445141, "immovable": 18500000, "total": 28945141, "liabilities": 1799800 }
+  },
+  "result": { "votes": 105685, "margin": 40451, "runner_up": "Davuluri Dorababu", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=269",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-70-nuzvid",
+  "constituency": { "number": 70, "name": "Nuzvid", "district": "Eluru", "reserved": null },
+  "representative": {
+    "name": "Kolusu Partha Sarathy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Agriculture and Politician",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, St. Joseph Junior College, Hyderabad; B.Tech discontinued, CBIT, Hyderabad" },
+    "declared_cases": {
+      "total": 5,
+      "serious": 2,
+      "convicted": 2,
+      "note": "Serious = at least one section/offence carries a maximum sentence of 5+ years. Of 3 pending cases (143/188/341/149; 177 with RPA 1951; 147/341/353/427/149 with Police Act 32), none individually qualify. Separately, 2 FERA/FEMA Act convictions (Section 57 of FERA 1973; Sections 8(3),8(4),49,56,68(1) of FERA/FEMA) from 25 Jul 2012 are counted as serious given the substantial penalties those provisions carry; both convictions are under appeal with sentence and conviction stayed, SLP pending before the Supreme Court."
+    },
+    "assets": { "movable": 88496791, "immovable": 111750991, "total": 200247782, "liabilities": 12641086 }
+  },
+  "result": { "votes": 108229, "margin": 12378, "runner_up": "Meka Venkata Pratap Apparao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=355",
+    "retrieved": "2026-08-16"
+  }
+}

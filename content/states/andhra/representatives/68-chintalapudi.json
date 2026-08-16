@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-68-chintalapudi",
+  "constituency": { "number": 68, "name": "Chintalapudi", "district": "Eluru", "reserved": "SC" },
+  "representative": {
+    "name": "Roshan Kumar Songa",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 44,
+    "profession": "Senior Manager (IT)",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MCA, Osmania University, 2003" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": { "movable": 41388733, "immovable": 13900000, "total": 55288733, "liabilities": 0 }
+  },
+  "result": { "votes": 120126, "margin": 27766, "runner_up": "Kambham Vijaya Raju", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=194",
+    "retrieved": "2026-08-16"
+  }
+}

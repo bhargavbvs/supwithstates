@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-54-kovvur",
+  "constituency": { "number": 54, "name": "Kovvur", "district": "East Godavari", "reserved": "SC" },
+  "representative": {
+    "name": "Muppidi Venkateswara Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Advocate",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "Master of Social Work, Nagarjuna University, 2008" },
+    "declared_cases": { "total": 10, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 10 cases (CrPC 151 or minor IPC 143/188/269/271/290/341/504/506/149/34 combinations) qualify. No charges framed, zero convictions." },
+    "assets": { "movable": 3791879, "immovable": 9556560, "total": 13348439, "liabilities": 4962197 }
+  },
+  "result": { "votes": 92743, "margin": 33946, "runner_up": "Talari Venkat Rao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=330",
+    "retrieved": "2026-08-16"
+  }
+}
