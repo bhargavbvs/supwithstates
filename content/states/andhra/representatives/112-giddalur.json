@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-112-giddalur",
+  "constituency": { "number": 112, "name": "Giddalur", "district": "Prakasam", "reserved": null },
+  "representative": {
+    "name": "Muthumula Ashok Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Board of Intermediate Education, Sri Vivekananda Junior College, Giddalur, 1985" },
+    "declared_cases": { "total": 2, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Case 1 (S.C. 5/2019, sections 120B/143/341/435/149) includes IPC 435 (mischief by fire/explosive, max 7 years) and qualifies; the Andhra Pradesh government ordered withdrawal of prosecution and the High Court granted an interim stay in 2021. Case 2 (Cr.No.220/2023, sections 143/188/341/149) does not qualify. Charges are not framed in either case; zero convictions." },
+    "assets": { "movable": 65344121, "immovable": 43923800, "total": 109267921, "liabilities": 0 }
+  },
+  "result": { "votes": 98463, "margin": 973, "runner_up": "Kunduru Nagarjuna Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=157",
+    "retrieved": "2026-08-16"
+  }
+}

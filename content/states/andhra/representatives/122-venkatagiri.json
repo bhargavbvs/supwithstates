@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-122-venkatagiri",
+  "constituency": { "number": 122, "name": "Venkatagiri", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "representative": {
+    "name": "Kurugondla Ramakrishna",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Politics, Transport and Logistics Business",
+    "photo": null,
+    "education": { "level": "5th Pass", "detail": "Elementary School, Pathanalapadu Village, Dakkili Mandal, Tirupati district, 1967-1972" },
+    "declared_cases": { "total": 12, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Two of the 12 pending cases qualify: FIR 14/2024 (Venkatagiri PS) includes IPC 431 (mischief affecting a public road/bridge, max 5 years) with the Prevention of Damage to Public Property Act; and FIR 153/2023 (Venkatagiri PS) includes IPC 307 (attempt to murder) and 326B (voluntarily causing hurt by acid), among other sections. The remaining 10 cases involve sections such as 143, 341, 149, 188, 269-271 and election-related offences (171C, 171H), none of which independently qualify. Charges are not framed in any case; zero convictions." },
+    "assets": { "movable": 217349993, "immovable": 871800000, "total": 1089149993, "liabilities": 145014000 }
+  },
+  "result": { "votes": 104398, "margin": 16294, "runner_up": "Nedurumalli Ramkumar Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2365",
+    "retrieved": "2026-08-16"
+  }
+}

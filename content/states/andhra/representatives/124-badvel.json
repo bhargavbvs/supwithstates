@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-124-badvel",
+  "constituency": { "number": 124, "name": "Badvel", "district": "YSR Kadapa", "reserved": "SC" },
+  "representative": {
+    "name": "Dasari Sudha",
+    "election": "2024",
+    "elected_party": "YSRCP",
+    "current_party": "YSRCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Doctor (Gynecologist)",
+    "photo": null,
+    "education": { "level": "Graduate Professional", "detail": "MBBS DGO, Kurnool Medical College, Kurnool, 1999" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": { "movable": 14075594, "immovable": 5200000, "total": 19275594, "liabilities": 0 }
+  },
+  "result": { "votes": 90410, "margin": 18567, "runner_up": "Bojja Roshanna", "runner_up_party": "BJP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=187",
+    "retrieved": "2026-08-16"
+  }
+}

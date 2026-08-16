@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-120-gudur",
+  "constituency": { "number": 120, "name": "Gudur", "district": "Tirupati", "reserved": "SC" },
+  "representative": {
+    "name": "Pasam Sunil Kumar",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": { "level": "Doctorate", "detail": "Ph.D in Adult Education, Sri Venkateswara University, 2021" },
+    "declared_cases": { "total": 14, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 14 pending cases qualify: most are preventive proceedings under CrPC Section 151, and the remainder carry IPC sections such as 143, 341, 149, 269, 270, 271, 290 and 188 (unlawful assembly and public-health related offences), none of which reach the 5-year threshold. Charges are not framed in any case; zero convictions." },
+    "assets": { "movable": 33259534, "immovable": 33300000, "total": 66559534, "liabilities": 21329349 }
+  },
+  "result": { "votes": 102675, "margin": 21192, "runner_up": "Meriga Muralidhar", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=236",
+    "retrieved": "2026-08-16"
+  }
+}

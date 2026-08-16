@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-115-atmakur",
+  "constituency": { "number": 115, "name": "Atmakur", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "representative": {
+    "name": "Anam Ramanarayana Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 71,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": { "level": "Graduate Professional", "detail": "LLB, Andhra Pradesh College, Visakhapatnam, 1976; B.Com, V.R. College Nellore, S.V. University, 1973" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (FIR 216/2023, Chinna Bazar PS, Nellore; CC 553/2024) carries IPC sections 143, 341 and 149 (unlawful assembly, wrongful restraint), none of which qualify. Charges are not framed; zero convictions." },
+    "assets": { "movable": 7739405, "immovable": 255000000, "total": 262739405, "liabilities": 2958891 }
+  },
+  "result": { "votes": 91165, "margin": 7576, "runner_up": "Mekapati Vikram Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=172",
+    "retrieved": "2026-08-16"
+  }
+}
