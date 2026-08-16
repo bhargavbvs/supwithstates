@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mandali_Buddha_Prasad_in_August_2015.JPG", "credit": "Strike Eagle", "license": "CC BY-SA 4.0" },
     "education": { "level": "Graduate", "detail": "B.A., New Government College, Hyderabad (Osmania University), 1977" },
     "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
     "assets": { "movable": 3292036, "immovable": 16064000, "total": 19356036, "liabilities": 5933974 }

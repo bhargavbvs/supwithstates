@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 72,
     "profession": "Former Union Minister of State for Railways & Agriculturist",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Shri_Kotla_Jaya_Surya_Prakash_Reddy_taking_charge_as_the_Minister_of_State_for_Railways%2C_in_New_Delhi_on_October_29%2C_2012.jpg", "credit": "Ministry of Railways", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "BA, Nizam College, Osmania University, Hyderabad, 1972-73" },
     "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Cr No. 114/2024, Dhone Town PS; IPC 171E bribery, 188 disobedience to public servant order, 34) does not qualify. 'Charges Framed: No' and zero convictions." },
     "assets": { "movable": 217610905, "immovable": 202858245, "total": 420469150, "liabilities": 9490101 }

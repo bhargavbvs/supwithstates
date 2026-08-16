@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Paritala_Suneetha_%28cropped%29.jpg", "credit": "Ntrtrust", "license": "CC BY-SA 4.0" },
     "education": { "level": "8th Pass", "detail": "8th Std, Government High School (G.V.Z.P.H. School), Dharmavaram, 1983" },
     "declared_cases": { "total": 8, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 8 pending cases (sections spanning IPC 34, 143, 149, 153, 188, 341, and CrPC 151) reach that threshold. No charges framed in any case, no convictions." },
     "assets": { "movable": 11225055, "immovable": 328623820, "total": 339848875, "liabilities": 3174615 }

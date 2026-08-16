@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Politician, Social Worker & Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Sanjeevareddygari_Savitha.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "Bachelor of Arts, S.K. University, Anantapuramu, 1998" },
     "declared_cases": { "total": 10, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. 2 of the 10 pending cases qualify: one (Cr No.37/2010, Penukonda PS; CC No.505/2012) includes IPC 420 (cheating), with charges framed 12 Apr 2016; another (RC0372022A0015/2022, ACB Bangalore PS) is an Anti-Corruption Bureau case under Sections 7, 8 and 12 of the Prevention of Corruption Act, 1988 alongside IPC 120B. The remaining 8 cases involve only public-order/procedural sections (IPC 34/109/143/149/188/341/353/354/379/411/506, CrPC 151, and a Domestic Violence Act protection application) that do not individually meet the threshold; one of these (Cr No.46/2017, Penukonda PS, IPC 354/506) also has charges framed, 19 Mar 2021. No convictions." },
     "assets": { "movable": 62898103, "immovable": 763976140, "total": 826874243, "liabilities": 375475146 }

@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 34,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandaru_Sravani_Sree.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
     "education": { "level": "Post Graduate", "detail": "Masters in Mass Communications, St Francis College for Women, Hyderabad, 2013" },
     "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases (pending or convicted)." },
     "assets": { "movable": 9471642, "immovable": 964062, "total": 10435704, "liabilities": 2259600 }

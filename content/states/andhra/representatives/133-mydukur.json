@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Business and Politician",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Putta_Sudhakar_Yadav_.jpg", "credit": "Npathakamuri", "license": "CC BY-SA 4.0" },
     "education": { "level": "10th Pass", "detail": "S.S.C., Z.P. High School Palugurallapalle, 1978" },
     "declared_cases": { "total": 4, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Cr No. 103/2014 (Chapadu PS, also under the SC/ST Prevention of Atrocities Act) includes IPC 307 (attempt to murder), which qualifies; it is pending with a High Court stay. The other three (Cr No. 155/2023, IPC 427 with Prevention of Damage to Public Property Act, also High Court stay; Cr No. 370/2021, IPC 341/188/34; Cr no. 106/2021, IPC 143/188/189/353/149) do not. All show 'Charges Framed: No' and zero convictions." },
     "assets": { "movable": 820199174, "immovable": 144242130, "total": 964441304, "liabilities": 0 }

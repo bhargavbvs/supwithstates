@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 36,
     "profession": "Business & Cultivation",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/The_Minister_for_Tourism_and_Culture%2C_Andhra_Pradesh%2C_Ms._Bhuma_Akhila_Priya_meeting_the_Minister_of_State_for_Culture_%28IC%29_and_Environment%2C_Forest_%26_Climate_Change%2C_Dr._Mahesh_Sharma%2C_in_New_Delhi_on_October_30%2C_2017_%28cropped%29.jpg", "credit": "Ministry of Culture", "license": "GODL-India" },
     "education": { "level": "Graduate Professional", "detail": "BBM, IIP College, Hyderabad University, 2006-2009" },
     "declared_cases": { "total": 12, "serious": 3, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Three cases qualify: Cr No. 98/2023 (Nandyal Taluk PS, IPC 324/307/120B - attempt to murder); Cr No. 6/2021 (Boyinapalle PS, Hyderabad, IPC 302/395/467/468/471/420 among others - murder, dacoity, forgery of valuable security, cheating); and Cr No. 72/2020 (Chinna Chowk PS, Kadapa, IPC 120B/115/302/34 - murder). The remaining nine cases involve lesser public-order, CrPC 151 preventive, or election-conduct sections that do not carry a 5+ year maximum. All show 'Charges Framed: No' and zero convictions." },
     "assets": { "movable": 127565258, "immovable": 55075000, "total": 182640258, "liabilities": 4961800 }

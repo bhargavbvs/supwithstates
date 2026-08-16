@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 42,
     "profession": "Business and Agriculturist",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mandipalli_Ramprasad_Reddy.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
     "education": { "level": "12th Pass", "detail": "Intermediate, Rayalaseema Junior College, Tirupathi, 1998" },
     "declared_cases": { "total": 5, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Two cases (Crime 273/2023, Punganur Urban PS; Crime 79/2023, Mudivedu PS) include IPC 307 (attempt to murder), which qualifies. The other three (Crime 42/2024; Crime 224/2024; Crime 122/2021, charges framed 17 Oct 2022) involve lesser public-order/election-conduct sections. All show 'Charges Framed: No' except Crime 122/2021, and zero convictions." },
     "assets": { "movable": 34439937, "immovable": 31955000, "total": 66394937, "liabilities": 8712939 }

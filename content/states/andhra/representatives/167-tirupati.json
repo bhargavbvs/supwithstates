@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 72,
     "profession": "Member of Legislative Assembly & Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arani_Srinivasulu_2019-03-19.png", "credit": "Sakshi TV", "license": "CC BY 3.0" },
     "education": { "level": "12th Pass", "detail": "B.A. Degree (Not Completed), 1970-74, PVKN Govt. Degree College, Chittoor (S.V. University, Tirupati)" },
     "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "Candidate declared zero pending criminal cases and zero convictions." },
     "assets": { "movable": 215200501, "immovable": 614252600, "total": 829453101, "liabilities": 8266000 }
