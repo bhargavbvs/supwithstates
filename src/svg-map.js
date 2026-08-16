@@ -124,6 +124,13 @@ export function renderMap(container, { mapData, records, onSelect }) {
 
   const hideTooltip = () => { tooltip.hidden = true; };
 
+  // Once a pointer is captured (below, on every press so drags keep tracking
+  // outside the SVG bounds), pointer/mouse events for it are retargeted to
+  // the capturing element - evt.target stops being the actual <path> under
+  // the cursor and becomes the <svg> itself. Real coordinate hit-testing
+  // sidesteps that instead of trusting evt.target.
+  const pathAt = (clientX, clientY) => document.elementFromPoint(clientX, clientY)?.closest('path.ac') ?? null;
+
   // ---- Pan (drag) and pinch-zoom via Pointer Events ----
   const activePointers = new Map(); // pointerId -> {x, y}
   let dragStart = null; // {x, y, vbx, vby}
@@ -174,7 +181,7 @@ export function renderMap(container, { mapData, records, onSelect }) {
       }
     }
 
-    const path = evt.target.closest('path.ac');
+    const path = pathAt(evt.clientX, evt.clientY);
     if (!path) { hideTooltip(); return; }
     showTooltip(path, evt);
   });
@@ -196,7 +203,7 @@ export function renderMap(container, { mapData, records, onSelect }) {
 
   svg.addEventListener('click', (evt) => {
     if (dragMoved) { dragMoved = false; return; } // a pan/pinch just ended - don't also select
-    const path = evt.target.closest('path.ac');
+    const path = pathAt(evt.clientX, evt.clientY);
     if (!path) return;
     onSelect(Number(path.dataset.acNo));
   });
