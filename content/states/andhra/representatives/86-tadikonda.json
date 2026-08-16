@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-86-tadikonda",
+  "constituency": { "number": 86, "name": "Tadikonda", "district": "Guntur", "reserved": "SC" },
+  "representative": {
+    "name": "Tenali Sravan Kumar",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Ex-MLA; Partner, Sri Venkateshwara Gas Company",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Sc. Marine Biology, 1985; M.A. Education, 1988; Andhra University; LLB, AC College of Law, Guntur, 2018" },
+    "declared_cases": {
+      "total": 8,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Only 1 of 8 cases qualifies (IPC 307, attempt to murder, alongside 147/148/332/427/323/324/342/149 and SC/ST POA Act citations); the rest (unlawful-assembly/wrongful-restraint/public-order sections) top out under 5yr. Charges were framed in one of the non-serious cases; zero convictions."
+    },
+    "assets": { "movable": 14782511, "immovable": 38921960, "total": 53704471, "liabilities": 2279411 }
+  },
+  "result": { "votes": 109585, "margin": 39606, "runner_up": "Mekathoti Suchartha", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=61",
+    "retrieved": "2026-08-16"
+  }
+}

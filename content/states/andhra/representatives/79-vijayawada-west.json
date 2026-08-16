@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-79-vijayawada-west",
+  "constituency": { "number": 79, "name": "Vijayawada West", "district": "NTR", "reserved": null },
+  "representative": {
+    "name": "Yalamanchili Satyanarayana Chowdary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Technocrat, Social Services and Politician",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.E. (Machine Tool Engineering), PSG College of Technology, Bharathiar University, Coimbatore, 1986" },
+    "declared_cases": {
+      "total": 4,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section/offence carries a maximum sentence of 5+ years. 1 of 4 qualifies: a Prevention of Money Laundering Act case (Enforcement Directorate, max 7yr, appeal pending before Telangana High Court). The other 3 (public-order/quarantine/bribery sections) top out under 5yr. No charges framed, zero convictions."
+    },
+    "assets": { "movable": 152777017, "immovable": 72341928, "total": 225118945, "liabilities": 240022 }
+  },
+  "result": { "votes": 105669, "margin": 47032, "runner_up": "Shaik Asif", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=15",
+    "retrieved": "2026-08-16"
+  }
+}

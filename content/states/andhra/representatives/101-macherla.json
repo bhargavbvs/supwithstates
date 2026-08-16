@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-101-macherla",
+  "constituency": { "number": 101, "name": "Macherla", "district": "Palnadu", "reserved": null },
+  "representative": {
+    "name": "Julakanti Brahmananda Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Farmer",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "SSC, ZPHS Veldurthy, 1979" },
+    "declared_cases": {
+      "total": 5,
+      "serious": 3,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. 3 of 5 cases qualify: one involves IPC 364 (kidnapping, max 7yr), two involve IPC 307 (attempt to murder, max life). The other two (wrongful-restraint/public-order sections) top out under 5yr. All 5 remain under investigation with no charges framed; zero convictions."
+    },
+    "assets": { "movable": 3604422, "immovable": 29136000, "total": 32740422, "liabilities": 2868385 }
+  },
+  "result": { "votes": 122413, "margin": 33318, "runner_up": "Pinnelli Ramakrishna Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=32",
+    "retrieved": "2026-08-16"
+  }
+}

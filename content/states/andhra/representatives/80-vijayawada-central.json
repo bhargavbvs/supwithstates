@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-80-vijayawada-central",
+  "constituency": { "number": 80, "name": "Vijayawada Central", "district": "NTR", "reserved": null },
+  "representative": {
+    "name": "Bonda Umamaheswara Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "8th Pass", "detail": "9th Class, BSRK Municipal School, Vijayawada, 1980" },
+    "declared_cases": {
+      "total": 14,
+      "serious": 0,
+      "convicted": 1,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the sections across the 13 pending cases (153A/506/171H/505/188/143/341/34/353/149/290/183/427/120B/504/337) reach that threshold. Charges were framed in one pending case. One case resulted in a conviction (fine of Rs 700 only, 23 Sep 2019)."
+    },
+    "assets": { "movable": 373121588, "immovable": 574961819, "total": 948083407, "liabilities": 311836870 }
+  },
+  "result": { "votes": 130034, "margin": 68886, "runner_up": "Velampalli Srinivasa Rao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=116",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-65-eluru",
+  "constituency": { "number": 65, "name": "Eluru", "district": "Eluru", "reserved": null },
+  "representative": {
+    "name": "Radha Krishnayya Badeti",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 58,
+    "profession": "Aqua Culture & Business",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Com, Sir C.R. Reddy Degree College, Eluru, Andhra University, 1987" },
+    "declared_cases": {
+      "total": 2,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. 1 of 2 cases qualifies (IPC 420/468/471/120B, cheating and forgery for the purpose of cheating, max 7yr); the other (AP Gaming Act Sec 3, 4) doesn't. No charges framed, zero convictions."
+    },
+    "assets": { "movable": 31682708, "immovable": 37800000, "total": 69482708, "liabilities": 8635179 }
+  },
+  "result": { "votes": 111562, "margin": 62388, "runner_up": "Alla Kali Krishna Srinivas", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=316",
+    "retrieved": "2026-08-16"
+  }
+}
