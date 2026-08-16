@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-104-parchur",
+  "constituency": { "number": 104, "name": "Parchur", "district": "Bapatla", "reserved": null },
+  "representative": {
+    "name": "Yeluri Sambasiva Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Sc. (Horticulture), Acharya N.G. Ranga Agricultural University, Hyderabad, 2004" },
+    "declared_cases": {
+      "total": 6,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. None of the 6 cases qualify - all are public-order/unlawful-assembly sections (143/149/188/269/270/290/341/353/324/427/379/506) or election-law (171E/120B tied to RPA 1951 Sec 123(1)), each topping out under 5yr. All 6 cases show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 2679161198,
+      "immovable": 278863239,
+      "total": 2958024437,
+      "liabilities": 68720591
+    }
+  },
+  "result": {
+    "votes": 110575,
+    "margin": 24013,
+    "runner_up": "Yadam Balaji",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=373",
+    "retrieved": "2026-08-16"
+  }
+}

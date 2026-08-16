@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-117-nellore-city",
+  "constituency": { "number": 117, "name": "Nellore City", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "representative": {
+    "name": "Narayana Ponguru",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Social Service",
+    "photo": null,
+    "education": { "level": "Doctorate", "detail": "PhD (Statistics), Sri Venkateswara University, Tirupati, 2002" },
+    "declared_cases": {
+      "total": 8,
+      "serious": 6,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Counted 6 of 8: cases with IPC 420/409-adjacent conspiracy charges, IPC 408 (breach of trust by a clerk/servant, max 7yr), and IPC 306 (abetment of suicide, max 10yr). The other 2 (a 498A/354/323/506 domestic case, and a public-servant/land-records case without a qualifying section) are under 5yr. All 8 cases show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 1795435404,
+      "immovable": 6445316977,
+      "total": 8240752381,
+      "liabilities": 1901734019
+    }
+  },
+  "result": {
+    "votes": 120551,
+    "margin": 72489,
+    "runner_up": "Md Khaleel Ahmed",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=240",
+    "retrieved": "2026-08-16"
+  }
+}

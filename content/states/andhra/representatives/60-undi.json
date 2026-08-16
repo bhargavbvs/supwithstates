@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-60-undi",
+  "constituency": { "number": 60, "name": "Undi", "district": "West Godavari", "reserved": null },
+  "representative": {
+    "name": "Kanumuru Raghu Rama Krishna Raju",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Member of Parliament",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Pharma, Andhra University, Visakhapatnam, 1986" },
+    "declared_cases": {
+      "total": 19,
+      "serious": 10,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Counted 10 of 19: cases involving IPC 365 (kidnapping), 435 (mischief by fire), 420 (cheating, x4 cases), 409 (breach of trust by a public servant), 467/468/471 (forgery of a valuable security), and 124A (sedition). The other 9 (mostly standalone IPC 153A promoting-enmity cases, and defamation-type 500/505) top out under 5yr. All 19 cases show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 314510379,
+      "immovable": 1873202884,
+      "total": 2187713263,
+      "liabilities": 526044123
+    }
+  },
+  "result": {
+    "votes": 116902,
+    "margin": 56777,
+    "runner_up": "PVL Narasimha Raju",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=468",
+    "retrieved": "2026-08-16"
+  }
+}

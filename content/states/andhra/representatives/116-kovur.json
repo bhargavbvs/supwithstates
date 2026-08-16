@@ -1,0 +1,33 @@
+{
+  "id": "ap-ac-116-kovur",
+  "constituency": { "number": 116, "name": "Kovur", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "representative": {
+    "name": "Prashanthi Reddy Vemireddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, S.P.W Junior College, Tirupati, 1982" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": {
+      "movable": 5113780639,
+      "immovable": 2049541626,
+      "total": 7163322265,
+      "liabilities": 2000395998
+    }
+  },
+  "result": {
+    "votes": 130623,
+    "margin": 54583,
+    "runner_up": "Nallapareddy Prasanna Kumar Reddy",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=3",
+    "retrieved": "2026-08-16"
+  }
+}

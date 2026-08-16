@@ -1,0 +1,33 @@
+{
+  "id": "ap-ac-154-kalyandurg",
+  "constituency": { "number": 154, "name": "Kalyandurg", "district": "Ananthapuramu", "reserved": null },
+  "representative": {
+    "name": "Amilineni Surendra Babu",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Business and Social Activities",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "SSC, Board of Secondary Education, Andhra Pradesh, 1983" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": {
+      "movable": 143452084,
+      "immovable": 1750065325,
+      "total": 1893517409,
+      "liabilities": 396974610
+    }
+  },
+  "result": {
+    "votes": 118878,
+    "margin": 37734,
+    "runner_up": "Talari Rangaiah",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-16"
+  }
+}

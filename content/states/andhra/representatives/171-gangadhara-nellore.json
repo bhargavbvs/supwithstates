@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-171-gangadhara-nellore",
+  "constituency": { "number": 171, "name": "Gangadhara Nellore", "district": "Chittoor", "reserved": "SC" },
+  "representative": {
+    "name": "Vadingadu Munaswamy Thomas",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Medical Profession",
+    "photo": null,
+    "education": { "level": "Doctorate", "detail": "PhD (Zoology), Karnataka University, Dharwad, 2000" },
+    "declared_cases": {
+      "total": 5,
+      "serious": 4,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. 4 of 5 cases qualify: two involve IPC 392/397 (robbery, robbery with attempt to cause death/grievous hurt, min 7yr), one involves IPC 307 (attempt to murder, max life), one is a standalone IPC 420 (cheating) case. The remaining case (354C/354D/506(1) - voyeurism/stalking/intimidation) tops out under 5yr at first-offense thresholds. All 5 cases show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 894849060,
+      "immovable": 2165000000,
+      "total": 3059849060,
+      "liabilities": 0
+    }
+  },
+  "result": {
+    "votes": 101176,
+    "margin": 26011,
+    "runner_up": "Kalathuru Krupa Lakshmi",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=318",
+    "retrieved": "2026-08-16"
+  }
+}

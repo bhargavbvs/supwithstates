@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-72-gudivada",
+  "constituency": { "number": 72, "name": "Gudivada", "district": "Krishna", "reserved": null },
+  "representative": {
+    "name": "Venigandla Ramu",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Private Business",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Tech (ECE), RVR & JC College of Engineering, Guntur, 1992" },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. The 1 case (IPC 341/143/188/149, unlawful assembly / wrongful restraint) tops out under 5yr. Shows 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 2086863354,
+      "immovable": 756810571,
+      "total": 2843673925,
+      "liabilities": 166115412
+    }
+  },
+  "result": {
+    "votes": 109980,
+    "margin": 53040,
+    "runner_up": "Kodali Sri Venkateswara Rao (Nani)",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=204",
+    "retrieved": "2026-08-16"
+  }
+}

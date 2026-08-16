@@ -1,0 +1,33 @@
+{
+  "id": "ap-ac-137-kurnool",
+  "constituency": { "number": 137, "name": "Kurnool", "district": "Kurnool", "reserved": null },
+  "representative": {
+    "name": "T.G. Bharath",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MBA, Cardiff University, U.K., 1999" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": {
+      "movable": 830823821,
+      "immovable": 1951971500,
+      "total": 2782795321,
+      "liabilities": 193824896
+    }
+  },
+  "result": {
+    "votes": 91690,
+    "margin": 18876,
+    "runner_up": "A. Md. Imtiaz",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=357",
+    "retrieved": "2026-08-16"
+  }
+}

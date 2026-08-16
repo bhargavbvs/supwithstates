@@ -1,0 +1,33 @@
+{
+  "id": "ap-ac-157-hindupur",
+  "constituency": { "number": 157, "name": "Hindupur", "district": "Sri Sathya Sai", "reserved": null },
+  "representative": {
+    "name": "Nandamuri Balakrishna",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Movie Artiste",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.A., Nizam College, Osmania University, Hyderabad, 1981" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": {
+      "movable": 2830706600,
+      "immovable": 1998974354,
+      "total": 4829680954,
+      "liabilities": 138326856
+    }
+  },
+  "result": {
+    "votes": 107250,
+    "margin": 32597,
+    "runner_up": "Tippe Gowda Narayan Deepika",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=71",
+    "retrieved": "2026-08-16"
+  }
+}
