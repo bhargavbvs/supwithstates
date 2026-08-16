@@ -1,6 +1,8 @@
 node_modules/
 dist/
 public/promises.json
+public/data.json
+public/og/
 .vercel/
 .DS_Store
 .geo-src/
