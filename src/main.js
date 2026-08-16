@@ -17,7 +17,6 @@ const views = {
 
 async function boot() {
   await store.load();
-  document.getElementById('brand').textContent = `ssup with ${store.state.name}`;
   document.title = `ssup with ${store.state.name}`;
   document.getElementById('footer').innerHTML =
     `<a href="#/methodology">Methodology</a> · <a href="#/about">About</a>`;

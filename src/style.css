@@ -46,25 +46,6 @@ a {
   color: var(--accent-ink);
 }
 
-#topbar {
-  padding: 0.85rem 1.25rem;
-  border-bottom: 1px solid var(--line);
-  flex: 0 0 auto;
-  background: var(--panel);
-}
-
-#topbar #brand {
-  font-weight: 800;
-  font-size: 1.1rem;
-  letter-spacing: -0.02em;
-  text-decoration: none;
-  color: var(--ink);
-  background: linear-gradient(90deg, var(--accent-ink), var(--accent));
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-}
-
 #app {
   flex: 1 1 auto;
   padding: 1.5rem 1.25rem;
@@ -91,10 +72,6 @@ a {
 }
 
 /* ---- Home: full-screen map hero ---- */
-
-body[data-view="home"] #topbar {
-  display: none;
-}
 
 body[data-view="home"] #app {
   padding: 0;
