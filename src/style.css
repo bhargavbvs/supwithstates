@@ -92,6 +92,10 @@ a {
 
 /* ---- Home: full-screen map hero ---- */
 
+body[data-view="home"] #topbar {
+  display: none;
+}
+
 body[data-view="home"] #app {
   padding: 0;
   max-width: none;
