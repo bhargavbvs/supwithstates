@@ -567,6 +567,17 @@ section {
   color: var(--muted);
 }
 
+.case-note {
+  margin: 0.75rem 0 0;
+  padding: 0.75rem 0.9rem;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
 .asset-bars {
   display: flex;
   flex-direction: column;

@@ -57,6 +57,7 @@ export function renderConstituency(el, param) {
         <li>${cases.serious}</li>
         <li>${cases.convicted}</li>
       </ul>
+      ${rep.declared_cases.note ? `<p class="case-note">${escapeHtml(rep.declared_cases.note)}</p>` : ''}
     </section>
 
     <section>
