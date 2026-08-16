@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-156-madakasira",
+  "constituency": { "number": 156, "name": "Madakasira", "district": "Sri Sathya Sai", "reserved": "SC" },
+  "representative": {
+    "name": "M.S. Raju",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Social Service",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "Bachelor of Arts, Nagarjuna University, October 2020" },
+    "declared_cases": { "total": 25, "serious": 2, "convicted": 2, "note": "Serious = at least one section carries a maximum sentence of 5+ years. 2 of the 23 pending cases qualify: one (Cr No.209/2015, 1 Town PS Anantapur; CC No.71/2018) includes IPC 307 (attempt to murder) and 364 (kidnapping/abduction to murder); another (Cr No.324/2021, Kuppam PS Chittoor) is charged under Section 3 of the Prevention of Damage to Public Property Act, which carries a maximum of 5 years. The other 21 pending cases involve only public-order/disobedience sections (IPC 34/120B/143/147/149/151(CrPC)/153A/188/228A/295A/341/353/448/505/509 and similar) that individually top out under 5 years. Separately, 2 convictions (both IPC 188, fines of Rs 100 each, 2016) are not serious." },
+    "assets": { "movable": 879767, "immovable": 390000, "total": 1269767, "liabilities": 500000 }
+  },
+  "result": { "votes": 79983, "margin": 351, "runner_up": "Erra Lakkappa", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=1833",
+    "retrieved": "2026-08-16"
+  }
+}

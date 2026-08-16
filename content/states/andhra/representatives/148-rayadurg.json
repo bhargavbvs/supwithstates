@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-148-rayadurg",
+  "constituency": { "number": 148, "name": "Rayadurg", "district": "Ananthapuramu", "reserved": null },
+  "representative": {
+    "name": "Kalava Srinivasulu",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MA, Sri Krishnadevaraya University, Anantapuramu, 1994-96" },
+    "declared_cases": { "total": 19, "serious": 0, "convicted": 4, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 15 pending cases (sections spanning IPC 143, 188, 283, 341, 353, 506, 34, and CrPC 151) reach that threshold; MyNeta flags 1 as 'serious' under its own broader electoral/public-order classification, not the 5-year statutory test used here. Separately, 4 convictions under Railway Act sections 147 and 174A (2013-2016) resulted only in fines, all paid; not counted as serious." },
+    "assets": { "movable": 21823197, "immovable": 56683620, "total": 78506817, "liabilities": 13987780 }
+  },
+  "result": { "votes": 130309, "margin": 41659, "runner_up": "Mettu Govinda Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=242",
+    "retrieved": "2026-08-16"
+  }
+}

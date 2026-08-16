@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-149-uravakonda",
+  "constituency": { "number": 149, "name": "Uravakonda", "district": "Ananthapuramu", "reserved": null },
+  "representative": {
+    "name": "Payyavula Keshav",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": { "level": "Others", "detail": "Post Graduate Diploma in Management, T.A. Pai Management Institute, Manipal, 1987" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Crime No.238/2023, Urvakonda PS, Anantapuramu; IPC 188/341) does not qualify. No charges framed, no convictions." },
+    "assets": { "movable": 125716645, "immovable": 233022000, "total": 358738645, "liabilities": 87149637 }
+  },
+  "result": { "votes": 102046, "margin": 21704, "runner_up": "Y. Visweswara Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=14",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-152-singanamala",
+  "constituency": { "number": 152, "name": "Singanamala", "district": "Ananthapuramu", "reserved": "SC" },
+  "representative": {
+    "name": "Bandaru Sravani Sree",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 34,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "Masters in Mass Communications, St Francis College for Women, Hyderabad, 2013" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases (pending or convicted)." },
+    "assets": { "movable": 9471642, "immovable": 964062, "total": 10435704, "liabilities": 2259600 }
+  },
+  "result": { "votes": 102957, "margin": 8788, "runner_up": "Mannepakula Veeranjaneyulu", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=35",
+    "retrieved": "2026-08-16"
+  }
+}

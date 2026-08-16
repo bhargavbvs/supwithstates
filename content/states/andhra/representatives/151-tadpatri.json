@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-151-tadpatri",
+  "constituency": { "number": 151, "name": "Tadpatri", "district": "Ananthapuramu", "reserved": null },
+  "representative": {
+    "name": "J.C. Ashmit Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Agricultural produce and Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Litt (Marketing), University of St Andrews, Scotland, UK, 2008" },
+    "declared_cases": { "total": 28, "serious": 17, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. 17 of the 28 pending cases include at least one qualifying section: attempt to murder (IPC 307, 3 cases), cheating/forgery sections (IPC 420/467/468/471/472, 14 cases involving alleged fake registration documents and vehicle-related forgery). The other 11 cases involve only public-order/disobedience sections (IPC 143/147/148/149/188/269/285/341/353/427/506, and two Prevention of Money Laundering Act attachment proceedings under Sections 5 & 17) that do not individually meet the threshold. No charges have been framed in any case and there are no convictions." },
+    "assets": { "movable": 260201234, "immovable": 1561170707, "total": 1821371941, "liabilities": 294809384 }
+  },
+  "result": { "votes": 113755, "margin": 27731, "runner_up": "Kethireddy Pedda Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=58",
+    "retrieved": "2026-08-16"
+  }
+}

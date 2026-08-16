@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-147-alur",
+  "constituency": { "number": 147, "name": "Alur", "district": "Kurnool", "reserved": null },
+  "representative": {
+    "name": "Busine Virupakshi",
+    "election": "2024",
+    "elected_party": "YSRCP",
+    "current_party": "YSRCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Agriculture and Ex-Contractor",
+    "photo": null,
+    "education": { "level": "8th Pass", "detail": "9th standard pass, ZPHS School, Chippagiri" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (FIR 68/2024, Aspari PS, Kurnool; IPC 34/188) does not qualify. Charges not yet framed, no convictions." },
+    "assets": { "movable": 15178826, "immovable": 71300000, "total": 86478826, "liabilities": 8418709 }
+  },
+  "result": { "votes": 100264, "margin": 2831, "runner_up": "B. Veerabhadra Gowd", "runner_up_party": "TDP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=70",
+    "retrieved": "2026-08-16"
+  }
+}
