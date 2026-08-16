@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-47-kothapeta",
+  "constituency": { "number": 47, "name": "Kothapeta", "district": "Dr. B.R. Ambedkar Konaseema", "reserved": null },
+  "representative": {
+    "name": "Bandaru Satyananda Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Agriculture and Politician",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Com, VKV Govt. Degree College, Kothapeta, 1984" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 498A, cruelty by husband/relative, max 3yr; IPC 406, breach of trust, max 3yr) tops out under 5yr. No charges framed, zero convictions." },
+    "assets": { "movable": 79593091, "immovable": 60485000, "total": 140078091, "liabilities": 47088068 }
+  },
+  "result": { "votes": 134286, "margin": 56479, "runner_up": "Chirla Jaggi Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=460",
+    "retrieved": "2026-08-16"
+  }
+}

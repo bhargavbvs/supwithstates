@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-85-pedakurapadu",
+  "constituency": { "number": 85, "name": "Pedakurapadu", "district": "Palnadu", "reserved": null },
+  "representative": {
+    "name": "Bhashyam Praveen",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Business / Self Employed",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Sc., Hindu College, Nagarjuna University, 1997" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": { "movable": 34813324, "immovable": 281554490, "total": 316367814, "liabilities": 19157580 }
+  },
+  "result": { "votes": 112957, "margin": 21089, "runner_up": "Namburu Sankara Rao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=462",
+    "retrieved": "2026-08-16"
+  }
+}

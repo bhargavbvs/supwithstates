@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-83-nandigama",
+  "constituency": { "number": 83, "name": "Nandigama", "district": "NTR", "reserved": "SC" },
+  "representative": {
+    "name": "Tangirala Sowmya",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Ex-MLA",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Tech, C.R. Reddy College, Eluru, 2002" },
+    "declared_cases": {
+      "total": 23,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Estimated 2 of 23 cases qualify - the affidavit's section tally includes one IPC 452 charge (house-trespass after preparation for hurt, max 7yr) and one IPC 435 charge (mischief by fire, max 7yr), each appearing once, distinct from the many repeating minor public-order sections (143/188/341/149/34/353/290/153A/505(2)/etc). Charges were framed in 2 of the 23 cases (both non-serious: 153A/504/505(2); 153/143/290/505(2)/149); zero convictions."
+    },
+    "assets": { "movable": 4932000, "immovable": 16500000, "total": 21432000, "liabilities": 1170334 }
+  },
+  "result": { "votes": 102201, "margin": 27395, "runner_up": "Monditoka Jagan Mohana Rao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=343",
+    "retrieved": "2026-08-16"
+  }
+}
