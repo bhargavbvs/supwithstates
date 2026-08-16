@@ -2,7 +2,7 @@ import { store } from '../store.js';
 import { initMap, addConstituencyLayer, addDistrictOutline } from '../map.js';
 import { formatRupees, CASE_DISCLAIMER, escapeHtml } from '../format.js';
 import { searchConstituencies } from '../search.js';
-import { findFeatureAt } from '../geo-lookup.js';
+import { findFeatureAt, boundsOf } from '../geo-lookup.js';
 
 export function renderHome(el) {
   const { state, stats } = store;
@@ -27,10 +27,11 @@ export function renderHome(el) {
       fetch('/geo/districts.geojson').then((r) => r.json()),
       fetch('/geo/constituencies.geojson').then((r) => r.json())
     ]);
-    addDistrictOutline(map, districts);
     addConstituencyLayer(map, constituencies, (props) => {
       window.location.hash = `#/c/${props.AC_NO}`;
     });
+    addDistrictOutline(map, districts);
+    map.fitBounds(boundsOf(constituencies), { padding: 24, duration: 0 });
   });
 
   const slot = el.querySelector('#search-slot');
@@ -47,12 +48,22 @@ export function renderHome(el) {
   const results = slot.querySelector('#results');
 
   input.addEventListener('input', () => {
+    if (!input.value.trim()) {
+      results.innerHTML = '';
+      return;
+    }
+    if (!store.all.length) {
+      results.innerHTML = `<li class="no-data">No constituency data loaded yet.</li>`;
+      return;
+    }
     const hits = searchConstituencies(input.value, store.all);
-    results.innerHTML = hits.map((c) => `
-      <li role="option"><a href="#/c/${c.constituency.number}">
-        <b>${escapeHtml(c.constituency.name)}</b>
-        <span>${escapeHtml(c.constituency.district)} · ${escapeHtml(c.representative.name)}</span>
-      </a></li>`).join('');
+    results.innerHTML = hits.length
+      ? hits.map((c) => `
+          <li role="option"><a href="#/c/${c.constituency.number}">
+            <b>${escapeHtml(c.constituency.name)}</b>
+            <span>${escapeHtml(c.constituency.district)} · ${escapeHtml(c.representative.name)}</span>
+          </a></li>`).join('')
+      : `<li class="no-data">No matches.</li>`;
   });
 
   const status = slot.querySelector('#locate-status');

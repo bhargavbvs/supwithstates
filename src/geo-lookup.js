@@ -25,3 +25,24 @@ export function findFeatureAt(pt, featureCollection) {
   }
   return null;
 }
+
+export function boundsOf(featureCollection) {
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+  const visit = (coords, depth) => {
+    if (depth === 0) {
+      const [x, y] = coords;
+      if (x < minX) minX = x;
+      if (x > maxX) maxX = x;
+      if (y < minY) minY = y;
+      if (y > maxY) maxY = y;
+    } else {
+      for (const c of coords) visit(c, depth - 1);
+    }
+  };
+  for (const f of featureCollection.features ?? []) {
+    const g = f.geometry;
+    if (!g) continue;
+    visit(g.coordinates, g.type === 'MultiPolygon' ? 3 : 2);
+  }
+  return [[minX, minY], [maxX, maxY]];
+}

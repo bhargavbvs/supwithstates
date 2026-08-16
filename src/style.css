@@ -198,6 +198,12 @@ body[data-view="home"] #app {
   background: #f2f5fd;
 }
 
+#results li.no-data {
+  padding: 0.55rem 0.7rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
 #results li a b {
   display: block;
   font-size: 0.9rem;

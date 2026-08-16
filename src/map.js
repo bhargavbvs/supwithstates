@@ -37,7 +37,7 @@ export function addDistrictOutline(map, geojson) {
   map.addSource('district-outline', { type: 'geojson', data: geojson });
   map.addLayer({
     id: 'district-outline-line', type: 'line', source: 'district-outline',
-    paint: { 'line-color': '#8a94a6', 'line-width': 1.4 }
+    paint: { 'line-color': '#1b4fc0', 'line-width': 2 }
   });
 }
 
@@ -47,12 +47,12 @@ export function addConstituencyLayer(map, geojson, onSelect) {
     id: 'constituencies-fill', type: 'fill', source: 'constituencies',
     paint: {
       'fill-color': '#2a6ef2',
-      'fill-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0.42, 0.14]
+      'fill-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0.75, 0.45]
     }
   });
   map.addLayer({
     id: 'constituencies-line', type: 'line', source: 'constituencies',
-    paint: { 'line-color': '#2a6ef2', 'line-width': 0.6, 'line-opacity': 0.6 }
+    paint: { 'line-color': '#ffffff', 'line-width': 1, 'line-opacity': 0.9 }
   });
 
   let hoveredId = null;
