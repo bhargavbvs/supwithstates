@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 71,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_Deputy_Chief_Minister_%26_Home_Minister%2C_Shri_N._Chinarajappa_addressing_at_the_Public_Information_Campaign%2C_at_Yemmiganur%2C_Kurnool_district%2C_Andhra_Pradesh_on_October_09%2C_2015_%28cropped%29.jpg", "credit": "Ministry of Information and Broadcasting", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "B.A., SKBR College, Amalapuram, 1978" },
     "declared_cases": {
       "total": 17,

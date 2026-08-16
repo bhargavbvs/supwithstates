@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 74,
     "profession": "Social Service (Politician)",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_portrait_of_CM_Shri_Nara_Chandrababu_Naidu.jpg", "credit": "Prime Minister's Office", "license": "GODL-India" },
     "education": { "level": "Post Graduate", "detail": "M.A., S.V.U College, Tirupati, 1974" },
     "declared_cases": {
       "total": 19,

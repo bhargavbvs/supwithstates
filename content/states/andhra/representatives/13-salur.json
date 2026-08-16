@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Social Service",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Smt._Gummadi_Sandhya_Rani.jpg", "credit": "Andhra Pradesh Tribal Welfare Department", "license": "Attribution" },
     "education": { "level": "Graduate", "detail": "B.Sc., MR College, Andhra University, 1993" },
     "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (341/283/149/34; CrPC 151; 188/269/270) qualify. All show 'Charges Framed: No' and zero convictions." },
     "assets": { "movable": 8686339, "immovable": 3998432, "total": 12684771, "liabilities": 1856890 }

@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 66,
     "profession": "Politician",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ch._Ayyanna_Patrudu.jpg", "credit": "Mango News", "license": "CC BY 3.0" },
     "education": { "level": "12th Pass", "detail": "Intermediate, Board of Secondary Education, Andhra Pradesh, 1975" },
     "declared_cases": {
       "total": 17,

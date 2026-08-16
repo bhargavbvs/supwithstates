@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 67,
     "profession": "Social Service",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dr._Ponguru_Narayana_%28cropped%29.jpg", "credit": "DrThneed", "license": "CC BY-SA 4.0" },
     "education": { "level": "Doctorate", "detail": "PhD (Statistics), Sri Venkateswara University, Tirupati, 2002" },
     "declared_cases": {
       "total": 8,

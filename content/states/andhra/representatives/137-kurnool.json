@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/T._G._Bharath.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
     "education": { "level": "Post Graduate", "detail": "MBA, Cardiff University, U.K., 1999" },
     "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
     "assets": {

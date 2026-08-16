@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Film Actor",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Shri_Konidela_Pawan_Kalyan.jpg", "credit": "Prime Minister's Office", "license": "GODL-India" },
     "education": { "level": "10th Pass", "detail": "SSLC, St Joseph's English Medium High School, 1984" },
     "declared_cases": {
       "total": 8,

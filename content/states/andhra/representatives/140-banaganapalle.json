@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Business & Politician",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/B._C._Janardhan_Reddy.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "B.A. (Economics, Public Administration, Political Science), Acharya Nagarjuna University, 2017" },
     "declared_cases": {
       "total": 9,

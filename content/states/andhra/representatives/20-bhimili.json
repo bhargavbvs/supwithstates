@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Politics and Public Service",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ganta_Srinivasarao.jpeg", "credit": "Vice President's Secretariat", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "B.Law, Andhra University, 1985; B.Com, Andhra University, 1982" },
     "declared_cases": {
       "total": 3,

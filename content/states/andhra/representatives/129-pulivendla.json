@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Engaged in Politics & Public Service",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Chief_Minister_of_Andhra_Pradesh%2C_Shri_Y.S._Jagan_Mohan_Reddy.jpg", "credit": "Prime Minister's Office", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "B.Com, Pragati Maha Vidyalaya, Osmania University, Hyderabad, 1994" },
     "declared_cases": {
       "total": 29,

@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Agriculture and Politician",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kolusu_Parthasarathy.jpg", "credit": "Abhi.leader", "license": "CC BY-SA 4.0" },
     "education": { "level": "12th Pass", "detail": "Intermediate, St. Joseph Junior College, Hyderabad; B.Tech discontinued, CBIT, Hyderabad" },
     "declared_cases": {
       "total": 5,

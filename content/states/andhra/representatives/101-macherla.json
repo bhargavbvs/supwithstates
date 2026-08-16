@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Farmer",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Julakanti_Brahmananda_Reddy.jpg", "credit": "Srikanth8462", "license": "CC0" },
     "education": { "level": "10th Pass", "detail": "SSC, ZPHS Veldurthy, 1979" },
     "declared_cases": {
       "total": 5,

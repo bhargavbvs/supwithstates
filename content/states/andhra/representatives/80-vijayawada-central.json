@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Umamaheswara_Rao_Bonda.jpg", "credit": "Kdslk", "license": "CC BY 3.0" },
     "education": { "level": "8th Pass", "detail": "9th Class, BSRK Municipal School, Vijayawada, 1980" },
     "declared_cases": {
       "total": 14,

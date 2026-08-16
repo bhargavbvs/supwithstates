@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 56,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dhulipalla_Narendra_Kumar.jpg", "credit": "Juggernaut4AP", "license": "CC BY-SA 4.0" },
     "education": { "level": "Graduate", "detail": "B.Tech, Mysore University, 1989" },
     "declared_cases": {
       "total": 16,

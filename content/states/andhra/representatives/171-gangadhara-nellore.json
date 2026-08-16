@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Medical Profession",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/V_M_Thomas.jpg", "credit": "Satishreddy1990", "license": "CC BY-SA 4.0" },
     "education": { "level": "Doctorate", "detail": "PhD (Zoology), Karnataka University, Dharwad, 2000" },
     "declared_cases": {
       "total": 5,

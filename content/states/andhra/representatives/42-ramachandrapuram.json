@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 46,
     "profession": "Cultivation & Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vasamsetti_Subhash.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "LLB, C.R. Reddy College, Eluru, 2004" },
     "declared_cases": {
       "total": 12,

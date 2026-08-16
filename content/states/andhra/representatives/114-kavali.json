@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Agriculturist, Business & Politics",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/AR212413.jpg", "credit": "Kavalimla", "license": "CC BY-SA 4.0" },
     "education": { "level": "Post Graduate", "detail": "M.Com, S.V. University, Tirupati, 1990" },
     "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
     "assets": {

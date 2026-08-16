@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 61,
     "profession": "Member of Parliament",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Raghu_Rama_Krishna_Raju_%28cropped%29.jpg", "credit": "Ganga Prasad Degala", "license": "CC BY-SA 4.0" },
     "education": { "level": "Post Graduate", "detail": "M.Pharma, Andhra University, Visakhapatnam, 1986" },
     "declared_cases": {
       "total": 19,
