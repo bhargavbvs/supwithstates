@@ -1,6 +1,7 @@
 import { store } from '../store.js';
 import { initMap, addDistrictLayer } from '../map.js';
-import { formatRupees, CASE_DISCLAIMER } from '../format.js';
+import { formatRupees, CASE_DISCLAIMER, escapeHtml } from '../format.js';
+import { searchConstituencies } from '../search.js';
 
 export function renderHome(el) {
   const { state, stats } = store;
@@ -24,5 +25,23 @@ export function renderHome(el) {
       const name = props.DISTRICT ?? props.district;
       window.location.hash = `#/d/${store.slugify(name)}`;
     });
+  });
+
+  const slot = el.querySelector('#search-slot');
+  slot.innerHTML = `
+    <input id="q" type="search" placeholder="Find your constituency, district or MLA"
+           autocomplete="off" aria-label="Find your constituency" />
+    <ul id="results" role="listbox"></ul>
+  `;
+  const input = slot.querySelector('#q');
+  const results = slot.querySelector('#results');
+
+  input.addEventListener('input', () => {
+    const hits = searchConstituencies(input.value, store.all);
+    results.innerHTML = hits.map((c) => `
+      <li role="option"><a href="#/c/${c.constituency.number}">
+        <b>${escapeHtml(c.constituency.name)}</b>
+        <span>${escapeHtml(c.constituency.district)} · ${escapeHtml(c.representative.name)}</span>
+      </a></li>`).join('');
   });
 }
