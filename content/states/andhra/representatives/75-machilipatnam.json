@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Business (Naveena Rice Industries)",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Shri_Ravindra_Kollu.png", "credit": "Government of Andhra Pradesh", "license": "GODL-India" },
     "education": { "level": "Graduate", "detail": "LLB, Hindu Law College, Nagarjuna University" },
     "declared_cases": {
       "total": 15,

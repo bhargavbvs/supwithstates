@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Politician (Doctor, MBBS)",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dr._Dola_Bala_Veeranjaneya_Swamy.jpg", "credit": "Government of Andhra Pradesh", "license": "GODL-India" },
     "education": { "level": "Graduate Professional", "detail": "MBBS, Andhra Medical College, Visakhapatnam, 1997" },
     "declared_cases": { "total": 11, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 11 pending cases reaches that threshold; the most serious sections cited are IPC 353 and IPC 506 (both capped at 2 years), with the rest involving IPC 143/149/188/341/269/270/285/290/34, Section 67 of the IT Act, or CrPC 151. Zero convictions." },
     "assets": { "movable": 5901909, "immovable": 3439440, "total": 9341349, "liabilities": 1601813 }

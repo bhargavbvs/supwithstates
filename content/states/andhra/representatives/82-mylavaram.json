@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Public Service and Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Vasantha_Krishna_Prasad.png", "credit": "iNEWS", "license": "CC BY 3.0" },
     "education": { "level": "10th Pass", "detail": "SSC, Sri Patibandla Sitaramaiah High School, 1985" },
     "declared_cases": {
       "total": 2,

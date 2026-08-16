@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Aqua Culture & Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/%22Badeti_Radha_Krishnayya_Politician_Image%22.jpg", "credit": "Faheem Syed1357", "license": "CC BY-SA 4.0" },
     "education": { "level": "Graduate", "detail": "B.Com, Sir C.R. Reddy Degree College, Eluru, Andhra University, 1987" },
     "declared_cases": {
       "total": 2,

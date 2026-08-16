@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gottipati_Ravi_Kumar.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
     "education": { "level": "12th Pass", "detail": "Intermediate, Vidwan Junior College, Guntur, 1993" },
     "declared_cases": { "total": 8, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 8 cases (public-order/negligence sections up to 188/143/341/290/149/353/269/270) qualify. No charges framed, zero convictions." },
     "assets": { "movable": 154766721, "immovable": 208578800, "total": 363345521, "liabilities": 7080426943 }

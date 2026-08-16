@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Business",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Kondru_Murali_Mohan.jpg", "credit": "Ramkumar27 (Wikimedia Commons uploader, own work)", "license": "CC BY-SA 4.0" },
     "education": { "level": "Post Graduate", "detail": "MBA, Andhra University, Waltair, 1995" },
     "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 341/188/34) tops out under 5yr. Shows 'Charges Framed: No' and zero convictions." },
     "assets": { "movable": 75350399, "immovable": 114813700, "total": 190164099, "liabilities": 104122294 }

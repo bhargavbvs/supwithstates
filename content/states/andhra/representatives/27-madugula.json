@@ -10,7 +10,7 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Politician",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandaru.jpg", "credit": "Eternal Digi", "license": "CC BY-SA 4.0" },
     "education": { "level": "Graduate", "detail": "B.Com, A.M.A.L. College, Anakapalli, 1978" },
     "declared_cases": { "total": 7, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the sections across the 7 cases (153A/505/506/354A/504/509/499/294/120B/323/341/353/500) reach that threshold. All show 'Charges Framed: No' and zero convictions." },
     "assets": { "movable": 3169819, "immovable": 269916000, "total": 273085819, "liabilities": 0 }
