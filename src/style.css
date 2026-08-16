@@ -96,6 +96,46 @@ body[data-view="home"] #app {
   height: 100%;
   max-height: 100%;
   filter: drop-shadow(0 18px 40px rgba(76, 39, 168, 0.18));
+  touch-action: none; /* pan/pinch-zoom is handled manually via Pointer Events */
+  cursor: grab;
+  user-select: none;
+}
+
+#zoom-controls {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+#zoom-controls button {
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--panel-alpha);
+  backdrop-filter: blur(6px);
+  box-shadow: var(--shadow);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  padding: 0;
+}
+
+#zoom-controls button:hover {
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
+#zoom-reset {
+  font-size: 0.85rem;
 }
 
 path.ac {
