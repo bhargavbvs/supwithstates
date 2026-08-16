@@ -19,7 +19,6 @@ export function renderHome(el) {
     <div id="map-overlay">
       <section id="stats">
         <div class="stat"><b>${state.assembly_size}</b><span>constituencies</span></div>
-        <div class="stat"><b>${stats.profiled}</b><span>profiled</span></div>
         <div class="stat"><b>${stats.pctWithDeclaredCases}%</b><span>with declared criminal cases</span></div>
         <div class="stat"><b>${formatRupees(stats.totalAssets)}</b><span>total declared assets</span></div>
       </section>
