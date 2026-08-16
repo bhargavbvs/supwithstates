@@ -1,4 +1,4 @@
-import maplibregl from 'maplibre-gl';
+import { Map as MaplibreMap } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 
 const BASEMAP = {
@@ -15,7 +15,7 @@ const BASEMAP = {
 };
 
 export function initMap(container, { center, zoom }) {
-  return new maplibregl.Map({ container, style: BASEMAP, center, zoom, attributionControl: true });
+  return new MaplibreMap({ container, style: BASEMAP, center, zoom, attributionControl: true });
 }
 
 export function addDistrictLayer(map, geojson, onSelect) {
