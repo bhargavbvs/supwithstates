@@ -1,21 +1,65 @@
+/* Self-hosted variable fonts (OFL) - no CDN. Two files per family, one per
+   Unicode subset; the browser only fetches latin-ext if the page actually
+   renders a character in that range (which it does here - U+20B9 ₹ lives
+   in latin-ext, not the base latin subset). */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/Inter-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("/fonts/Inter-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329,
+    U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url("/fonts/SpaceGrotesk-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url("/fonts/SpaceGrotesk-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329,
+    U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
 :root {
-  --ink: #16131f;
-  --muted: #6b6478;
-  --faint: #9992a3;
-  --line: #e9e3f0;
-  --accent: #6c3ef5;
-  --accent-ink: #4b1fd1;
-  --accent-soft: #efe7fe;
-  --bg: #faf7f2;
+  --ink: #211d1a;
+  --muted: #6b655d;
+  --faint: #75705f;
+  --line: #e7e1d6;
+  --accent: #0f6e5c;
+  --accent-ink: #0b4e42;
+  --accent-soft: #e3f1ee;
+  --highlight: #b84424;
+  --bg: #faf8f4;
   --panel: #ffffff;
   --panel-alpha: rgba(255, 255, 255, 0.92);
-  --shadow: 0 10px 34px rgba(76, 39, 168, 0.16);
+  --shadow: 0 10px 34px rgba(33, 29, 26, 0.14);
   --radius: 18px;
   --radius-sm: 12px;
+  --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
 
   /* Severity scale: color always paired with a text label elsewhere in the
      markup (color-blind safe). -1 = not yet profiled. */
-  --sev--1: #d8d2e0;
+  --sev--1: #ddd6c9;
   --sev-0: #1fa05c;
   --sev-1: #e8a013;
   --sev-2: #e4572e;
@@ -33,13 +77,17 @@ html, body {
 body {
   margin: 0;
   padding: 0;
-  font-family: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+  font-family: var(--font-body);
   line-height: 1.5;
   color: var(--ink);
   background: var(--bg);
   display: flex;
   flex-direction: column;
   min-height: 100dvh;
+}
+
+h1, h2, .big, #stats .stat b, .party-chip, .sev-badge, .sev-tag {
+  font-family: var(--font-display);
 }
 
 a {
@@ -84,7 +132,7 @@ body[data-view="home"] #app {
 #map {
   position: absolute;
   inset: 0;
-  background: linear-gradient(160deg, #f3edff 0%, var(--bg) 55%);
+  background: linear-gradient(160deg, #ebf3f0 0%, var(--bg) 55%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -696,6 +744,10 @@ section {
   margin: 0.6rem 0 0;
   font-size: 0.85rem;
   color: var(--muted);
+}
+
+.margin-note b {
+  color: var(--highlight);
 }
 
 dl {
