@@ -21,3 +21,9 @@ export function formatDeclaredCases({ total, serious, convicted }) {
     disclaimer: CASE_DISCLAIMER
   };
 }
+
+export function escapeHtml(str) {
+  return String(str ?? '').replace(/[&<>"']/g, (c) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+}

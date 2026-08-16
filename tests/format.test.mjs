@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { formatRupees, formatDeclaredCases, CASE_DISCLAIMER } from '../src/format.js';
+import { formatRupees, formatDeclaredCases, escapeHtml, CASE_DISCLAIMER } from '../src/format.js';
 
 describe('formatRupees', () => {
   it('renders crores', () => expect(formatRupees(57300000)).toBe('₹5.73 crore'));
@@ -34,5 +34,18 @@ describe('formatDeclaredCases', () => {
   it('always attaches the disclaimer', () => {
     expect(formatDeclaredCases({ total: 0, serious: 0, convicted: 0 }).disclaimer)
       .toBe(CASE_DISCLAIMER);
+  });
+});
+
+describe('escapeHtml', () => {
+  it('escapes HTML special characters', () => {
+    expect(escapeHtml('<script>alert(1)</script>')).toBe('&lt;script&gt;alert(1)&lt;/script&gt;');
+  });
+  it('escapes quotes and ampersands', () => {
+    expect(escapeHtml(`O'Brien & "Co"`)).toBe('O&#39;Brien &amp; &quot;Co&quot;');
+  });
+  it('handles null/undefined safely', () => {
+    expect(escapeHtml(null)).toBe('');
+    expect(escapeHtml(undefined)).toBe('');
   });
 });

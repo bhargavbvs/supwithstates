@@ -1,5 +1,5 @@
 import { store } from '../store.js';
-import { formatDeclaredCases } from '../format.js';
+import { formatDeclaredCases, escapeHtml } from '../format.js';
 
 export function renderDistrict(el, slug) {
   const list = store.byDistrict(slug);
@@ -13,7 +13,7 @@ export function renderDistrict(el, slug) {
 
   el.innerHTML = `
     <a class="back" href="#/">← All districts</a>
-    <h1>${districtName}</h1>
+    <h1>${escapeHtml(districtName)}</h1>
     <p class="sub">${list.length} constituencies</p>
     <ul class="ac-list">
       ${list.map((c) => {
@@ -21,8 +21,8 @@ export function renderDistrict(el, slug) {
         return `
           <li>
             <a href="#/c/${c.constituency.number}">
-              <b>${c.constituency.name}</b>
-              <span>${c.representative.name} · ${c.representative.current_party}</span>
+              <b>${escapeHtml(c.constituency.name)}</b>
+              <span>${escapeHtml(c.representative.name)} · ${escapeHtml(c.representative.current_party)}</span>
               <small>${cases.headline}</small>
             </a>
           </li>`;
