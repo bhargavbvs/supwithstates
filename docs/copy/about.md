@@ -7,8 +7,9 @@ your assembly constituency in Andhra Pradesh — and what they declared about
 themselves before they got elected.
 
 Every MLA filed a sworn affidavit with the Election Commission before the 2024
-election. That affidavit includes their education, criminal cases, assets, and
-liabilities. It's public record. We just made it easier to find and read.
+election. That affidavit includes their education, declared criminal cases,
+assets, and liabilities. It's public record. We just made it easier to find
+and read.
 
 ## Why does this exist?
 
@@ -21,8 +22,11 @@ every number linked back to its source.
 
 ## Who runs this?
 
-This is an independent, unfunded project. It is not affiliated with any political
-party, government body, media house, or NGO.
+This is an independent, unfunded, non-commercial project run by a solo
+volunteer. **The maintainer is not affiliated with, employed by, or funded by
+any political party, candidate, government body, media house, or NGO.** It
+carries no advertising and does not endorse, oppose, rank, or score any
+representative or party.
 
 The code is open source at
 [github.com/bhargavbvs/supwithstates](https://github.com/bhargavbvs/supwithstates).

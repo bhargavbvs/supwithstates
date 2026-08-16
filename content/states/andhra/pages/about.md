@@ -1,56 +1,55 @@
-# About this site
+# About
 
-## What this is
+## What is this?
 
-This site shows who represents each of Andhra Pradesh's 175 assembly constituencies, and what
-that representative declared about themselves — education, declared criminal cases, assets, and
-liabilities — in their sworn affidavit to the Election Commission of India before the 2024
-election. All of it is public record. This site collects it, links it back to its original
-source, and puts it on a map so it is easier to find.
+**ssup with Andhra** is a free, open-source site that shows you who represents
+your assembly constituency in Andhra Pradesh — and what they declared about
+themselves before they got elected.
 
-## Who runs this site
+Every MLA filed a sworn affidavit with the Election Commission before the 2024
+election. That affidavit includes their education, declared criminal cases,
+assets, and liabilities. It's public record. We just made it easier to find
+and read.
 
-This site is built and maintained by a single independent civic-tech volunteer, referred to
-throughout this site as "the maintainer." There is no organisation, newsroom, or company behind
-it.
+## Why does this exist?
 
-## No political affiliation
+Because knowing your representative's public record shouldn't require digging
+through government PDFs.
 
-**The maintainer is not affiliated with, employed by, or funded by any political party,
-candidate, or government body in Andhra Pradesh.** This site does not endorse, oppose, rank, or
-score any representative or party. Every representative's profile is built from the same public
-data, presented the same way, regardless of party.
+The information is already out there — scattered across ECI filings, ADR reports,
+and news articles. We put it in one place, on a map, in plain language, with
+every number linked back to its source.
 
-## How this site is funded
+## Who runs this?
 
-This site is unfunded and non-commercial. It carries no advertising, and it takes no money from
-any political party, candidate, campaign, or government body. It is run as a volunteer project,
-on its own time, at no cost to visitors.
+This is an independent, unfunded, non-commercial project run by a solo
+volunteer. **The maintainer is not affiliated with, employed by, or funded by
+any political party, candidate, government body, media house, or NGO.** It
+carries no advertising and does not endorse, oppose, rank, or score any
+representative or party.
 
-## Why this site exists
-
-Finding out who your MLA is, and what they declared to the Election Commission, currently means
-digging through scattered PDFs across ECI filings and ADR reports. This site exists to put that
-same public information in one place, in plain language, with every figure linked back to the
-affidavit it came from — so that a voter in Andhra Pradesh does not have to be a researcher to
-read it.
+The code is open source at
+[github.com/bhargavbvs/supwithstates](https://github.com/bhargavbvs/supwithstates).
+Every data change is tracked publicly.
 
 ## What this site is not
 
-- **Not a news site.** It does not publish opinions, editorials, or breaking coverage.
-- **Not a rating system.** Representatives are not scored or ranked against each other.
-- **Not a promise tracker for individual MLAs.** Where promises are tracked, they are the
-  declared promises of a party's manifesto, not this site's judgment of an individual
-  representative's actions in office.
+- **Not a news site.** We don't publish opinions, editorials, or breaking news.
+- **Not a rating system.** We don't score or rank MLAs. We show what they
+  declared.
+- **Not partisan.** Every representative is shown the same way, with the same
+  data, from the same sources. We don't pick and choose.
 
 ## Found an error?
 
-If something on this site is wrong, out of date, or unclear, email
-**[corrections@ssupwithandhra.com](mailto:corrections@ssupwithandhra.com)**. Corrections are
-checked against the original ECI affidavit before anything is changed, and every change is kept
-in this project's public version history.
+Every profile page has a correction link, or you can email
+[corrections@ssupwithandhra.com](mailto:corrections@ssupwithandhra.com).
 
-## Read the methodology
+We take corrections seriously. If something is wrong, we fix it and the change
+shows up in our public commit history.
 
-For the full detail on where every figure comes from, what "declared criminal case" means and
-does not mean, and how corrections are handled, see the [Methodology](#/methodology) page.
+## Read our methodology
+
+For the full details on where every number comes from, what "declared criminal
+cases" means (and doesn't mean), and how we handle corrections, see our
+[Methodology](/methodology) page.

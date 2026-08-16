@@ -6,8 +6,8 @@ Every figure on this site comes from **a sworn affidavit** that each candidate
 filed with the Election Commission of India (ECI) before the 2024 Andhra Pradesh
 assembly election.
 
-Candidates are legally required to disclose their education, criminal cases,
-assets, and liabilities. These affidavits are public record.
+Candidates are legally required to disclose their education, declared criminal
+cases, assets, and liabilities. These affidavits are public record.
 
 We pull the data from two places:
 
@@ -110,3 +110,9 @@ This appears on every profile page, and we repeat it here:
 | [ADR Analysis (PDF)](https://adrindia.org/sites/default/files/Andhra_Pradesh_Assembly_Elections_2024_Criminal_and_Financial_background_details_of_Winning_Candidates_Finalver_English.pdf) | Aggregate statistics and cross-checking |
 | ECI affidavits | The authoritative original source |
 | [Election Commission of India](https://eci.gov.in/) | Official election results |
+
+---
+
+Data on this site was retrieved and cross-checked as of **August 2026**, and is
+updated as new records are added or corrections are verified. See each
+representative's profile for that record's exact source links.
