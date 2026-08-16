@@ -33,3 +33,8 @@ body {
   font-size: 0.85rem;
   color: #666;
 }
+
+#map {
+  height: 420px;
+  margin-top: 1rem;
+}

@@ -3,6 +3,7 @@ dist/
 public/promises.json
 public/data.json
 public/og/
+public/geo/
 .vercel/
 .DS_Store
 .geo-src/

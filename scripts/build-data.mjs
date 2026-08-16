@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync, cpSync } from 'node:fs';
 import { join } from 'node:path';
 import { computeStats } from './lib/compute-stats.mjs';
 import { assertBudget } from './lib/budget.mjs';
@@ -25,5 +25,7 @@ writeFileSync(out, JSON.stringify({
   stats: computeStats(constituencies),
   constituencies
 }));
+
+cpSync(join(stateDir, 'geo'), join(publicDir, 'geo'), { recursive: true });
 
 console.log(`✔ data.json: ${constituencies.length} constituencies, ${assertBudget(out, 300 * 1024)} bytes`);
