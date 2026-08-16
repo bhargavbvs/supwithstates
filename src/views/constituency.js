@@ -29,8 +29,10 @@ export function renderConstituency(el, param) {
   const resultBarWidth = (v) => `${Math.min(100, (v / maxResultVotes) * 100).toFixed(1)}%`;
 
   const photo = rep.photo
-    ? `<img class="photo" src="${escapeHtml(rep.photo.url)}" alt="${escapeHtml(rep.name)}" />
-       <small class="credit">${escapeHtml(rep.photo.credit)} · ${escapeHtml(rep.photo.license)}</small>`
+    ? `<div class="photo-wrap">
+         <img class="photo" src="${escapeHtml(rep.photo.url)}" alt="${escapeHtml(rep.name)}" />
+         <small class="credit">${escapeHtml(rep.photo.credit)} · ${escapeHtml(rep.photo.license)}</small>
+       </div>`
     : `<div class="photo avatar">${escapeHtml(initials(rep.name))}</div>`;
 
   const defected = rep.party_changed

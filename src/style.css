@@ -565,6 +565,12 @@ h2 {
   margin-bottom: 0.75rem;
 }
 
+.photo-wrap {
+  flex: 0 0 auto;
+  width: 76px;
+  text-align: center;
+}
+
 .photo {
   width: 76px;
   height: 76px;
