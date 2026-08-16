@@ -26,6 +26,37 @@ export function findFeatureAt(pt, featureCollection) {
   return null;
 }
 
+function ringArea(ring) {
+  let sum = 0;
+  for (let i = 0; i < ring.length; i++) {
+    const [x1, y1] = ring[i];
+    const [x2, y2] = ring[(i + 1) % ring.length];
+    sum += x1 * y2 - x2 * y1;
+  }
+  return sum / 2;
+}
+
+const WORLD_RING = [[-180, -85], [180, -85], [180, 85], [-180, 85], [-180, -85]];
+
+export function buildOutsideMask(featureCollection) {
+  const outerWinding = Math.sign(ringArea(WORLD_RING));
+  const holes = [];
+  for (const f of featureCollection.features ?? []) {
+    const g = f.geometry;
+    if (!g) continue;
+    const rings = g.type === 'MultiPolygon' ? g.coordinates.flat() : g.coordinates.slice(0, 1);
+    for (const ring of rings) {
+      const winding = Math.sign(ringArea(ring));
+      holes.push(winding === outerWinding ? [...ring].reverse() : ring);
+    }
+  }
+  return {
+    type: 'Feature',
+    properties: {},
+    geometry: { type: 'Polygon', coordinates: [WORLD_RING, ...holes] }
+  };
+}
+
 export function boundsOf(featureCollection) {
   let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
   const visit = (coords, depth) => {

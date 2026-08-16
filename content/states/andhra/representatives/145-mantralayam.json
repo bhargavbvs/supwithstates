@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-145-mantralayam",
+  "constituency": { "number": 145, "name": "Mantralayam", "district": "Kurnool", "reserved": null },
+  "representative": {
+    "name": "Y. Balanagi Reddy",
+    "election": "2024",
+    "elected_party": "YSRCP",
+    "current_party": "YSRCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "SSC, National Institute of Open School, Nandyal, 2010" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 177B(1)(A)/186/188/341 with RPA 1951, AP Prohibition Act, AP RT Act, MV Act) tops out under 5yr. Charges were framed in 2012; no conviction." },
+    "assets": { "movable": 8263348, "immovable": 14701060, "total": 22964408, "liabilities": 7346394 }
+  },
+  "result": { "votes": 87662, "margin": 12805, "runner_up": "N. Raghavendra Reddy", "runner_up_party": "TDP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=175",
+    "retrieved": "2026-08-16"
+  }
+}

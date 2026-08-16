@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-102-yerragondapalem",
+  "constituency": { "number": 102, "name": "Yerragondapalem", "district": "Prakasam", "reserved": "SC" },
+  "representative": {
+    "name": "Chandra Sekhar Tatiparthi",
+    "election": "2024",
+    "elected_party": "YSRCP",
+    "current_party": "YSRCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 44,
+    "profession": "Construction Business and Politics",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.E. (Civil), Muffakham Jah College of Engineering and Technology, Hyderabad, 2000" },
+    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (election-law violations under IPC 171H/171F and CrPC 155(2)) qualify. No charges framed, zero convictions." },
+    "assets": { "movable": 14550083, "immovable": 83219750, "total": 97769833, "liabilities": 40749004 }
+  },
+  "result": { "votes": 91741, "margin": 5200, "runner_up": "Erixion Babu Guduri", "runner_up_party": "TDP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=162",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,8 +1,8 @@
 import { store } from '../store.js';
-import { initMap, addConstituencyLayer, addDistrictOutline } from '../map.js';
+import { initMap, addConstituencyLayer, addDistrictOutline, addOutsideMask } from '../map.js';
 import { formatRupees, CASE_DISCLAIMER, escapeHtml } from '../format.js';
 import { searchConstituencies } from '../search.js';
-import { findFeatureAt, boundsOf } from '../geo-lookup.js';
+import { findFeatureAt, boundsOf, buildOutsideMask } from '../geo-lookup.js';
 
 export function renderHome(el) {
   const { state, stats } = store;
@@ -28,10 +28,12 @@ export function renderHome(el) {
       fetch('/geo/districts.geojson').then((r) => r.json()),
       fetch('/geo/constituencies.geojson').then((r) => r.json())
     ]);
+    addOutsideMask(map, buildOutsideMask(constituencies));
     addConstituencyLayer(map, constituencies, (props) => {
       window.location.hash = `#/c/${props.AC_NO}`;
     });
     addDistrictOutline(map, districts);
+    map.resize();
     map.fitBounds(boundsOf(constituencies), { padding: 24, duration: 0 });
   });
 

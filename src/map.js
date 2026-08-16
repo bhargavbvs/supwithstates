@@ -33,6 +33,14 @@ export function addDistrictLayer(map, geojson, onSelect) {
   map.on('mouseleave', 'districts-fill', () => { map.getCanvas().style.cursor = ''; });
 }
 
+export function addOutsideMask(map, maskFeature) {
+  map.addSource('outside-mask', { type: 'geojson', data: maskFeature });
+  map.addLayer({
+    id: 'outside-mask-fill', type: 'fill', source: 'outside-mask',
+    paint: { 'fill-color': '#e9ecf2', 'fill-opacity': 0.92 }
+  });
+}
+
 export function addDistrictOutline(map, geojson) {
   map.addSource('district-outline', { type: 'geojson', data: geojson });
   map.addLayer({

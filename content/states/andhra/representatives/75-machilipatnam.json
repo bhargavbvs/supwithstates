@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-75-machilipatnam",
+  "constituency": { "number": 75, "name": "Machilipatnam", "district": "Krishna", "reserved": null },
+  "representative": {
+    "name": "Kollu Ravindra",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Business (Naveena Rice Industries)",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "LLB, Hindu Law College, Nagarjuna University" },
+    "declared_cases": {
+      "total": 15,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. 2 of 15 cases qualify: one involves IPC 409 (breach of trust by a public servant, max life, alongside 166/167/120B and a Prevention of Corruption Act citation); one involves IPC 302 (murder, max death/life, alongside 120B/109/34/37). The remaining 13 (public-order/trespass/mischief sections) top out under 5yr. No charges framed, zero convictions."
+    },
+    "assets": { "movable": 19877947, "immovable": 87755880, "total": 107633827, "liabilities": 38792320 }
+  },
+  "result": { "votes": 105044, "margin": 50242, "runner_up": "Pernumatcha Sai Krishnamurthy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=461",
+    "retrieved": "2026-08-16"
+  }
+}
