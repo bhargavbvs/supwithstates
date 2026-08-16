@@ -57,8 +57,25 @@ export function renderMap(container, { mapData, records, onSelect }) {
     vb.y = Math.min(Math.max(vb.y, baseY), maxY);
   }
 
-  function clientToSvgPoint(clientX, clientY) {
+  // The SVG's own box (from CSS) rarely has the same aspect ratio as the
+  // viewBox, so preserveAspectRatio="xMidYMid meet" letterboxes the actual
+  // rendered map inside it. Client<->map coordinate conversion has to use
+  // that inner content rect, not the full CSS box, or pointer math drifts
+  // off-center whenever the two aspect ratios don't match.
+  function contentRect() {
     const rect = svg.getBoundingClientRect();
+    const boxAspect = rect.width / rect.height;
+    const vbAspect = baseW / baseH;
+    if (boxAspect > vbAspect) {
+      const width = rect.height * vbAspect;
+      return { left: rect.left + (rect.width - width) / 2, top: rect.top, width, height: rect.height };
+    }
+    const height = rect.width / vbAspect;
+    return { left: rect.left, top: rect.top + (rect.height - height) / 2, width: rect.width, height };
+  }
+
+  function clientToSvgPoint(clientX, clientY) {
+    const rect = contentRect();
     return {
       x: vb.x + ((clientX - rect.left) / rect.width) * vb.w,
       y: vb.y + ((clientY - rect.top) / rect.height) * vb.h
@@ -147,7 +164,7 @@ export function renderMap(container, { mapData, records, onSelect }) {
       const dy = evt.clientY - dragStart.y;
       if (Math.hypot(dx, dy) > DRAG_THRESHOLD) dragMoved = true;
       if (dragMoved) {
-        const rect = svg.getBoundingClientRect();
+        const rect = contentRect();
         vb.x = dragStart.vbx - dx * (vb.w / rect.width);
         vb.y = dragStart.vby - dy * (vb.h / rect.height);
         clampPan();
@@ -193,7 +210,7 @@ export function renderMap(container, { mapData, records, onSelect }) {
   });
 
   const zoomStep = (factor) => {
-    const rect = svg.getBoundingClientRect();
+    const rect = contentRect();
     zoomAt(rect.left + rect.width / 2, rect.top + rect.height / 2, factor);
   };
   container.querySelector('#zoom-in').addEventListener('click', () => zoomStep(1 / 1.4));
