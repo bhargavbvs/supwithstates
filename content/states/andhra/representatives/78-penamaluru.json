@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-78-penamaluru",
+  "constituency": { "number": 78, "name": "Penamaluru", "district": "Krishna", "reserved": null },
+  "representative": {
+    "name": "Bode Prasad",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Business Builder",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "SSC, Board of Secondary Education, Andhra Pradesh, 1983" },
+    "declared_cases": {
+      "total": 12,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Estimated 2 of 12 cases qualify - the affidavit's section tally includes one IPC 392 charge (robbery, max 10yr) and one IPC 307 charge (attempt to murder, max life), each appearing once, distinct from the many repeating minor public-order sections (149/341/143/188/353/427/etc). No charges framed, zero convictions."
+    },
+    "assets": { "movable": 43671759, "immovable": 402236537, "total": 445908296, "liabilities": 11668385 }
+  },
+  "result": { "votes": 144912, "margin": 59915, "runner_up": "Jogi Ramesh", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=348",
+    "retrieved": "2026-08-16"
+  }
+}

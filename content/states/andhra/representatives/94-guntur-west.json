@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-94-guntur-west",
+  "constituency": { "number": 94, "name": "Guntur West", "district": "Guntur", "reserved": null },
+  "representative": {
+    "name": "Galla Madhavi",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MCA, Osmania University, 2008; B.Sc., Osmania University, 2005" },
+    "declared_cases": { "total": 2, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Neither case (identical sections: IPC 143/341/290/188/171H/171E/149) qualifies. No charges framed, zero convictions." },
+    "assets": { "movable": 96248002, "immovable": 73469215, "total": 169717217, "liabilities": 118477630 }
+  },
+  "result": { "votes": 116067, "margin": 51150, "runner_up": "Vidadala Rajini", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=101",
+    "retrieved": "2026-08-16"
+  }
+}

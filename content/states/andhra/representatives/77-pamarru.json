@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-77-pamarru",
+  "constituency": { "number": 77, "name": "Pamarru", "district": "Krishna", "reserved": "SC" },
+  "representative": {
+    "name": "Kumar Raja Varla",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Director, Yugi Infrastructure Pvt Ltd",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "Master of Information Technology, University of Ballarat, Sydney, Australia, 2006" },
+    "declared_cases": { "total": 10, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 10 cases (CrPC 151 or minor IPC 143/149/188/269/309/341/353/120B/34 combinations) qualify. Charges were framed in one; zero convictions." },
+    "assets": { "movable": 12993627, "immovable": 6700000, "total": 19693627, "liabilities": 2987218 }
+  },
+  "result": { "votes": 94189, "margin": 29690, "runner_up": "Kaile Anil Kumar", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=20",
+    "retrieved": "2026-08-16"
+  }
+}

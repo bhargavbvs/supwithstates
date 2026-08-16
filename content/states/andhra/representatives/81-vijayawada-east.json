@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-81-vijayawada-east",
+  "constituency": { "number": 81, "name": "Vijayawada East", "district": "NTR", "reserved": null },
+  "representative": {
+    "name": "Gadde Rama Mohan",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Sc. Microbiology, Dharwad University, Karnataka, 1978" },
+    "declared_cases": { "total": 8, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 8 cases (CrPC 151 or minor IPC 143/145/186/341/353/427/149/144/148/294(b)/506/352/188/269/270/171H combinations) qualify. Charges were framed in one; zero convictions." },
+    "assets": { "movable": 31766552, "immovable": 135513500, "total": 167280052, "liabilities": 10859702 }
+  },
+  "result": { "votes": 118841, "margin": 49640, "runner_up": "Devineni Avinash", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=88",
+    "retrieved": "2026-08-16"
+  }
+}
