@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-58-narasapuram",
+  "constituency": { "number": 58, "name": "Narasapuram", "district": "West Godavari", "reserved": null },
+  "representative": {
+    "name": "Bommidi Narayana Nayakar",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "SSC, Ravindra Bharathi, Bhimavaram, 1989" },
+    "declared_cases": { "total": 6, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the six pending cases (IPC 143, 147, 149, 186, 188, 290, 341, 353, 34) qualify. All show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 6202638, "immovable": 11185000, "total": 17387638, "liabilities": 17251087 }
+  },
+  "result": { "votes": 94116, "margin": 49738, "runner_up": "Mudunuri Prasad Raju", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=408",
+    "retrieved": "2026-08-16"
+  }
+}

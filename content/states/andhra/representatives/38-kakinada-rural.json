@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-38-kakinada-rural",
+  "constituency": { "number": 38, "name": "Kakinada Rural", "district": "Kakinada", "reserved": null },
+  "representative": {
+    "name": "Pantham Venkateswara Rao",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Agriculture, Contracts and Real Estate",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, Board of Intermediate Education, Andhra Pradesh, 1978-80" },
+    "declared_cases": { "total": 11, "serious": 2, "convicted": 1, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Of 10 pending cases, two qualify: one includes IPC 354 (assault on a woman with intent to outrage modesty, max 5 years) and 384 (extortion); another includes IPC 452 (house-trespass after preparation for hurt/assault, max 7 years). The remaining 8 pending cases involve lesser charges (IPC 143/147/148/149/188/323/324/332/341/353/505(1), CrPC). One case resulted in conviction: IPC 188/269/270/271 (Epidemic Diseases Act/Disaster Management Act violations) with a Rs 500 fine under CrPC 252 — this convicted case does not meet the serious threshold." },
+    "assets": { "movable": 46245379, "immovable": 128300000, "total": 174545379, "liabilities": 63197947 }
+  },
+  "result": { "votes": 134414, "margin": 74086, "runner_up": "Kurasala Kannababu", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=271",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-10-palakonda",
+  "constituency": { "number": 10, "name": "Palakonda", "district": "Parvathipuram Manyam", "reserved": "ST" },
+  "representative": {
+    "name": "Jayakrishna Nimmaka",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Politician",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Sc, Osmania University, 2006" },
+    "declared_cases": { "total": 6, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the six pending cases (IPC 188, 143, 353, 506, 149; CrPC 151 x3) qualify. All show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 8365810, "immovable": 5630810, "total": 13996620, "liabilities": 1260000 }
+  },
+  "result": { "votes": 75208, "margin": 13291, "runner_up": "Viswasarayi Kalavathi", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=1059",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-30-anakapalle",
+  "constituency": { "number": 30, "name": "Anakapalle", "district": "Anakapalli", "reserved": null },
+  "representative": {
+    "name": "Konathala Ramakrishna",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Politician",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Com, A.M.A.L College, Anakapalle (Andhra University)" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases on the affidavit." },
+    "assets": { "movable": 27155071, "immovable": 612381200, "total": 639536271, "liabilities": 0 }
+  },
+  "result": { "votes": 115126, "margin": 65764, "runner_up": "Malasala Bharath Kumar", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=391",
+    "retrieved": "2026-08-16"
+  }
+}

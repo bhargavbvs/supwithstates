@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-31-pendurthi",
+  "constituency": { "number": 31, "name": "Pendurthi", "district": "Anakapalli", "reserved": null },
+  "representative": {
+    "name": "Panchakarla Ramesh Babu",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Politician",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "BA (Political Science), Madurai University, 2011" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases on the affidavit." },
+    "assets": { "movable": 97196895, "immovable": 63563900, "total": 160760795, "liabilities": 70559319 }
+  },
+  "result": { "votes": 149611, "margin": 81870, "runner_up": "Annamreddy Adeep Raj", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2080",
+    "retrieved": "2026-08-16"
+  }
+}
