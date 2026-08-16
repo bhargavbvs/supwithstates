@@ -1,10 +1,16 @@
 import { store } from '../store.js';
-import { formatDeclaredCases, severityOf, partyColor, escapeHtml } from '../format.js';
+import { formatDeclaredCases, severityOf, partyColor, initials, escapeHtml } from '../format.js';
 
 function partyChip(party) {
   if (!party) return '';
   const { bg, text } = partyColor(party);
   return `<span class="party-chip small" style="background:${bg};color:${text}">${escapeHtml(party)}</span>`;
+}
+
+function thumb(rep) {
+  return rep.photo
+    ? `<img class="ac-thumb" src="${escapeHtml(rep.photo.url)}" alt="" loading="lazy" />`
+    : `<div class="ac-thumb avatar">${escapeHtml(initials(rep.name))}</div>`;
 }
 
 export function renderDistrict(el, slug) {
@@ -28,6 +34,7 @@ export function renderDistrict(el, slug) {
         return `
           <li>
             <a href="#/c/${c.constituency.number}">
+              ${thumb(c.representative)}
               <span class="sev-dot sev-${sev}"></span>
               <span class="ac-info">
                 <b>${escapeHtml(c.constituency.name)}</b>

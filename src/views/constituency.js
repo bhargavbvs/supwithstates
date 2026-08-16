@@ -1,8 +1,5 @@
 import { store } from '../store.js';
-import { formatRupees, formatDeclaredCases, severityOf, SEVERITY_LABEL, partyColor, escapeHtml } from '../format.js';
-
-const initials = (name) =>
-  name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
+import { formatRupees, formatDeclaredCases, severityOf, SEVERITY_LABEL, partyColor, initials, escapeHtml } from '../format.js';
 
 function partyChip(party) {
   if (!party) return '';

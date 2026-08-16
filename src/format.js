@@ -58,6 +58,10 @@ export function partyColor(party) {
   return PARTY_COLORS[party] ?? OTHER_PARTY_COLOR;
 }
 
+export function initials(name) {
+  return String(name ?? '').split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
+}
+
 export function escapeHtml(str) {
   return String(str ?? '').replace(/[&<>"']/g, (c) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'

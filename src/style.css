@@ -517,6 +517,26 @@ h2 {
   transform: translateY(-1px);
 }
 
+.ac-thumb {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--panel);
+  box-shadow: 0 0 0 1px var(--line);
+}
+
+.ac-thumb.avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+  font-weight: 800;
+  font-size: 0.72rem;
+}
+
 .ac-list .sev-dot {
   flex: 0 0 auto;
   width: 10px;
