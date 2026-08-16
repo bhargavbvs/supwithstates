@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-16-gajapathinagaram",
+  "constituency": { "number": 16, "name": "Gajapathinagaram", "district": "Vizianagaram", "reserved": null },
+  "representative": {
+    "name": "Kondapalli Srinivas",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Social Service, Politics and Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.S. Computer Science, Ball State University, USA" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 188) tops out under 5yr. No charges framed, zero convictions." },
+    "assets": { "movable": 35076501, "immovable": 120700000, "total": 155776501, "liabilities": 14975487 }
+  },
+  "result": { "votes": 98051, "margin": 25301, "runner_up": "Botcha Appalanarasayya", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=97",
+    "retrieved": "2026-08-16"
+  }
+}

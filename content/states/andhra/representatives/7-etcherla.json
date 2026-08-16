@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-7-etcherla",
+  "constituency": { "number": 7, "name": "Etcherla", "district": "Srikakulam", "reserved": null },
+  "representative": {
+    "name": "Eswara Rao Nadukuditi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Com, Andhra University, Visakhapatnam, 1995" },
+    "declared_cases": {
+      "total": 4,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. 2 of 4 cases qualify - both involve IPC 307 (attempt to murder, max life; one alongside IPC 325, grievous hurt, max 7yr). The other two (447/506/34/109) top out under 5yr. Charges were framed in 2 of the 4 (both non-serious ones); zero convictions in any case."
+    },
+    "assets": { "movable": 115025920, "immovable": 259700731, "total": 374726651, "liabilities": 67115805 }
+  },
+  "result": { "votes": 112770, "margin": 29089, "runner_up": "Gorle Kiran Kumar", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=1033",
+    "retrieved": "2026-08-16"
+  }
+}

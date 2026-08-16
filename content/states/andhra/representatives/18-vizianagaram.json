@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-18-vizianagaram",
+  "constituency": { "number": 18, "name": "Vizianagaram", "district": "Vizianagaram", "reserved": null },
+  "representative": {
+    "name": "Aditi Vijayalakshmi Gajapathi Raju Pusapati",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Home Maker",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.A. Psychology, Andhra University, Visakhapatnam, 2013" },
+    "declared_cases": { "total": 2, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Neither case (332/285/283/341/353/34; and a standalone CrPC 151 case) qualifies. Charges were framed in one (the non-serious 332/285/etc case); zero convictions in either." },
+    "assets": { "movable": 605560274, "immovable": 171378801, "total": 776939075, "liabilities": 0 }
+  },
+  "result": { "votes": 121241, "margin": 60609, "runner_up": "Kolagatla Veerabhadra Swamy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=470",
+    "retrieved": "2026-08-16"
+  }
+}

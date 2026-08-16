@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-5-srikakulam",
+  "constituency": { "number": 5, "name": "Srikakulam", "district": "Srikakulam", "reserved": null },
+  "representative": {
+    "name": "Gondu Shankar",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Business and Cultivation",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.E. (Civil), Bangalore University, 1998" },
+    "declared_cases": { "total": 7, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 7 cases qualify - all are CrPC 151 (preventive arrest) or minor IPC 188/341/143/149 public-order sections. All show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 31817465, "immovable": 83241793, "total": 115059258, "liabilities": 13869099 }
+  },
+  "result": { "votes": 117091, "margin": 52521, "runner_up": "Dharmana Prasada Rao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=381",
+    "retrieved": "2026-08-16"
+  }
+}

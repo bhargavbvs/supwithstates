@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-27-madugula",
+  "constituency": { "number": 27, "name": "Madugula", "district": "Anakapalli", "reserved": null },
+  "representative": {
+    "name": "Bandaru Satyanarayana Murthy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Politician",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Com, A.M.A.L. College, Anakapalli, 1978" },
+    "declared_cases": { "total": 7, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the sections across the 7 cases (153A/505/506/354A/504/509/499/294/120B/323/341/353/500) reach that threshold. All show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 3169819, "immovable": 269916000, "total": 273085819, "liabilities": 0 }
+  },
+  "result": { "votes": 91869, "margin": 28026, "runner_up": "E. Anuradha", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2677",
+    "retrieved": "2026-08-16"
+  }
+}

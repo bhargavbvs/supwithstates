@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-20-bhimili",
+  "constituency": { "number": 20, "name": "Bhimili", "district": "Visakhapatnam", "reserved": null },
+  "representative": {
+    "name": "Ganta Srinivasa Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Politics and Public Service",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Law, Andhra University, 1985; B.Com, Andhra University, 1982" },
+    "declared_cases": {
+      "total": 3,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. 1 of 3 cases qualifies (IPC 307, attempt to murder, alongside 147/148/332/447/188/149); the other two (153A/285/34/188; and 171E/511, bribery/attempt) top out under 5yr. Charges were framed in one of the non-serious cases (171E/511); zero convictions in any."
+    },
+    "assets": { "movable": 117020060, "immovable": 127087150, "total": 244107210, "liabilities": 16090225 }
+  },
+  "result": { "votes": 176230, "margin": 92401, "runner_up": "Muttamsetti Srinivasa Rao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=29",
+    "retrieved": "2026-08-16"
+  }
+}

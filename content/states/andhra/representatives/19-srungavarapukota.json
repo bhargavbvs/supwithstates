@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-19-srungavarapukota",
+  "constituency": { "number": 19, "name": "Srungavarapukota", "district": "Vizianagaram", "reserved": null },
+  "representative": {
+    "name": "Kolla Lalitha Kumari",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Agriculture & Social Service",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, Govt Junior College, Srungavarapukota, 1987" },
+    "declared_cases": { "total": 5, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 5 cases qualify - all are CrPC 151 or minor IPC 188/283 sections. All show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 11495392, "immovable": 46625000, "total": 58120392, "liabilities": 7973000 }
+  },
+  "result": { "votes": 111026, "margin": 38790, "runner_up": "Kadubandi Srinivasa Rao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=467",
+    "retrieved": "2026-08-16"
+  }
+}
