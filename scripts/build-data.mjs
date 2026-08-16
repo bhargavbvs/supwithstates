@@ -20,10 +20,18 @@ const constituencies = existsSync(repDir)
       .sort((a, b) => a.constituency.number - b.constituency.number)
   : [];
 
+const pagesDir = join(stateDir, 'pages');
+const pages = existsSync(pagesDir)
+  ? Object.fromEntries(readdirSync(pagesDir)
+      .filter((f) => f.endsWith('.md'))
+      .map((f) => [f.replace(/\.md$/, ''), readFileSync(join(pagesDir, f), 'utf8')]))
+  : {};
+
 const out = join(publicDir, 'data.json');
 writeFileSync(out, JSON.stringify({
   state,
   stats: computeStats(constituencies),
+  pages,
   constituencies
 }));
 

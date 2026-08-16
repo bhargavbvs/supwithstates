@@ -9,6 +9,7 @@ export const store = {
   },
   get state() { return data.state; },
   get stats() { return data.stats; },
+  get pages() { return data.pages; },
   get all() { return data.constituencies; },
   byNumber(n) {
     return data.constituencies.find((c) => c.constituency.number === Number(n)) ?? null;
