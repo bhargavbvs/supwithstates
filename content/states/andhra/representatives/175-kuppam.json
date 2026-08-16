@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-175-kuppam",
+  "constituency": { "number": 175, "name": "Kuppam", "district": "Chittoor", "reserved": null },
+  "representative": {
+    "name": "Chandrababu Naidu Nara",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 74,
+    "profession": "Social Service (Politician)",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.A., S.V.U College, Tirupati, 1974" },
+    "declared_cases": {
+      "total": 19,
+      "serious": 9,
+      "convicted": 0,
+      "note": "Serious = at least one IPC section in the case carries a maximum sentence of 5+ years, per the standard threshold used to define serious/heinous offences under Indian election-disclosure law. Classified case-by-case from the 19 cases and their IPC sections listed on the MyNeta affidavit page (source below); ADR's own summary figure (32) counts individual charge-sections, not cases, so it isn't directly usable for a case count."
+    },
+    "assets": {
+      "movable": 8104229047,
+      "immovable": 1214141609,
+      "total": 9318370656,
+      "liabilities": 103810775
+    }
+  },
+  "result": {
+    "votes": 121929,
+    "margin": 48006,
+    "runner_up": "Krishna Raghava Jayendra Bharath",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=108",
+    "retrieved": "2026-08-16"
+  }
+}
