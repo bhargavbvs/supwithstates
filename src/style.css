@@ -57,15 +57,11 @@
   --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
   --font-body: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
 
-  /* Severity scale: color always paired with a text label elsewhere in the
-     markup (color-blind safe). -1 = not yet profiled. Earthy/muted family
-     to match the rest of the palette, but darkened from the initial
-     proposal where needed - the original pastel versions failed WCAG AA
-     (2.4-3.1:1) against the white text these badges use. */
-  --sev--1: #7e745f;
-  --sev-0: #438068;
-  --sev-1: #f4a261;
-  --sev-2: #c6482e;
+  /* Severity scale: Soothing modern palette. Earthy/muted family. */
+  --sev--1: #e0e1dd;
+  --sev-0: #81b29a;
+  --sev-1: #f2cc8f;
+  --sev-2: #e07a5f;
   --sev-3: #9e2a2b;
 }
 
@@ -189,7 +185,7 @@ body[data-view="home"] #app {
 }
 
 path.ac {
-  stroke: #ffffff;
+  stroke: var(--bg);
   stroke-width: 0.6;
   cursor: pointer;
   transition: filter 120ms ease, transform 120ms ease;
@@ -249,9 +245,9 @@ path.district-line {
   opacity: 1;
 }
 
-.sev-tag.sev--1 { background: var(--sev--1); color: #fff; }
-.sev-tag.sev-0 { background: var(--sev-0); color: #fff; }
-.sev-tag.sev-1 { background: var(--sev-1); color: #3a2900; }
+.sev-tag.sev--1 { background: var(--sev--1); color: var(--ink); }
+.sev-tag.sev-0 { background: var(--sev-0); color: var(--ink); }
+.sev-tag.sev-1 { background: var(--sev-1); color: var(--ink); }
 .sev-tag.sev-2 { background: var(--sev-2); color: #fff; }
 .sev-tag.sev-3 { background: var(--sev-3); color: #fff; }
 
