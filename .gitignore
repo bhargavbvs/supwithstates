@@ -7,3 +7,5 @@ public/geo/
 .vercel/
 .DS_Store
 .geo-src/
+.vercel
+.env*

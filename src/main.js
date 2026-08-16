@@ -24,6 +24,7 @@ async function boot() {
 
   onRouteChange(({ view, param }) => {
     app.innerHTML = '';
+    document.body.dataset.view = views[view] ? view : 'home';
     (views[view] ?? renderHome)(app, param);
     window.scrollTo(0, 0);
   });
