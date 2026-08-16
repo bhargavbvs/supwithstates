@@ -3,3 +3,4 @@ dist/
 public/promises.json
 .vercel/
 .DS_Store
+.geo-src/
