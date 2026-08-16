@@ -1,5 +1,11 @@
 import { store } from '../store.js';
-import { formatDeclaredCases, severityOf, escapeHtml } from '../format.js';
+import { formatDeclaredCases, severityOf, partyColor, escapeHtml } from '../format.js';
+
+function partyChip(party) {
+  if (!party) return '';
+  const { bg, text } = partyColor(party);
+  return `<span class="party-chip small" style="background:${bg};color:${text}">${escapeHtml(party)}</span>`;
+}
 
 export function renderDistrict(el, slug) {
   const list = store.byDistrict(slug);
@@ -25,7 +31,7 @@ export function renderDistrict(el, slug) {
               <span class="sev-dot sev-${sev}"></span>
               <span class="ac-info">
                 <b>${escapeHtml(c.constituency.name)}</b>
-                <span>${escapeHtml(c.representative.name)} · ${escapeHtml(c.representative.current_party)}</span>
+                <span>${escapeHtml(c.representative.name)} ${partyChip(c.representative.current_party)}</span>
                 <small>${cases.headline}</small>
               </span>
             </a>

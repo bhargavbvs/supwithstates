@@ -43,6 +43,21 @@ export const SEVERITY_LABEL = {
   3: 'Has a conviction'
 };
 
+// Verified against each party's brand color and WCAG 2.1 contrast
+// (docs/design/references.md, Part 2 — minimum 4.5:1 for normal text).
+const PARTY_COLORS = {
+  TDP: { bg: '#FFED00', text: '#111827' },
+  YSRCP: { bg: '#1569C7', text: '#FFFFFF' },
+  JSP: { bg: '#D81E24', text: '#FFFFFF' },
+  BJP: { bg: '#FF9933', text: '#111827' },
+  INC: { bg: '#00BFFF', text: '#0F172A' }
+};
+const OTHER_PARTY_COLOR = { bg: '#475569', text: '#FFFFFF' };
+
+export function partyColor(party) {
+  return PARTY_COLORS[party] ?? OTHER_PARTY_COLOR;
+}
+
 export function escapeHtml(str) {
   return String(str ?? '').replace(/[&<>"']/g, (c) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { formatRupees, formatDeclaredCases, escapeHtml, CASE_DISCLAIMER } from '../src/format.js';
+import { formatRupees, formatDeclaredCases, escapeHtml, partyColor, CASE_DISCLAIMER } from '../src/format.js';
 
 describe('formatRupees', () => {
   it('renders crores', () => expect(formatRupees(57300000)).toBe('₹5.73 crore'));
@@ -34,6 +34,18 @@ describe('formatDeclaredCases', () => {
   it('always attaches the disclaimer', () => {
     expect(formatDeclaredCases({ total: 0, serious: 0, convicted: 0 }).disclaimer)
       .toBe(CASE_DISCLAIMER);
+  });
+});
+
+describe('partyColor', () => {
+  it('returns known party colors', () => {
+    expect(partyColor('TDP')).toEqual({ bg: '#FFED00', text: '#111827' });
+    expect(partyColor('YSRCP')).toEqual({ bg: '#1569C7', text: '#FFFFFF' });
+  });
+
+  it('falls back to a neutral color for unknown/independent parties', () => {
+    expect(partyColor('Independent')).toEqual({ bg: '#475569', text: '#FFFFFF' });
+    expect(partyColor(null)).toEqual({ bg: '#475569', text: '#FFFFFF' });
   });
 });
 

@@ -1,8 +1,14 @@
 import { store } from '../store.js';
-import { formatRupees, formatDeclaredCases, severityOf, SEVERITY_LABEL, escapeHtml } from '../format.js';
+import { formatRupees, formatDeclaredCases, severityOf, SEVERITY_LABEL, partyColor, escapeHtml } from '../format.js';
 
 const initials = (name) =>
   name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
+
+function partyChip(party) {
+  if (!party) return '';
+  const { bg, text } = partyColor(party);
+  return `<span class="party-chip" style="background:${bg};color:${text}">${escapeHtml(party)}</span>`;
+}
 
 export function renderConstituency(el, param) {
   const rec = store.byNumber(param);
@@ -17,6 +23,10 @@ export function renderConstituency(el, param) {
   const districtSlug = store.slugify(ac.district);
   const maxAsset = Math.max(rep.assets.movable, rep.assets.immovable, 1);
   const barWidth = (v) => `${Math.min(100, (v / maxAsset) * 100).toFixed(1)}%`;
+
+  const runnerUpVotes = result.votes - result.margin;
+  const maxResultVotes = Math.max(result.votes, runnerUpVotes, 1);
+  const resultBarWidth = (v) => `${Math.min(100, (v / maxResultVotes) * 100).toFixed(1)}%`;
 
   const photo = rep.photo
     ? `<img class="photo" src="${escapeHtml(rep.photo.url)}" alt="${escapeHtml(rep.name)}" />
@@ -36,7 +46,8 @@ export function renderConstituency(el, param) {
       <div>
         <h1>${escapeHtml(rep.name)}</h1>
         <p class="sub">${escapeHtml(ac.name)} (AC ${ac.number})${ac.reserved ? ` · ${escapeHtml(ac.reserved)}` : ''}
-           · ${escapeHtml(rep.current_party)}${rep.profession ? ` · ${escapeHtml(rep.profession)}` : ''}</p>
+           ${rep.profession ? ` · ${escapeHtml(rep.profession)}` : ''}</p>
+        ${partyChip(rep.current_party)}
       </div>
     </header>
     <span class="sev-badge sev-${sev}">${escapeHtml(SEVERITY_LABEL[sev])}</span>
@@ -86,8 +97,24 @@ export function renderConstituency(el, param) {
 
     <section>
       <h2>2024 result</h2>
-      <p>${escapeHtml(result.votes.toLocaleString('en-IN'))} votes ·
-         margin ${escapeHtml(result.margin.toLocaleString('en-IN'))}</p>
+      <div class="result-bars">
+        <div class="result-bar winner">
+          <div class="result-label">
+            <span>${escapeHtml(rep.name)} ${partyChip(rep.current_party)}</span>
+            <span>${escapeHtml(result.votes.toLocaleString('en-IN'))}</span>
+          </div>
+          <span class="track"><span class="fill" style="width:${resultBarWidth(result.votes)}"></span></span>
+        </div>
+        ${result.runner_up ? `
+        <div class="result-bar runner-up">
+          <div class="result-label">
+            <span>${escapeHtml(result.runner_up)} ${partyChip(result.runner_up_party)}</span>
+            <span>${escapeHtml(runnerUpVotes.toLocaleString('en-IN'))}</span>
+          </div>
+          <span class="track"><span class="fill" style="width:${resultBarWidth(runnerUpVotes)}"></span></span>
+        </div>` : ''}
+      </div>
+      <p class="margin-note">Won by <b>${escapeHtml(result.margin.toLocaleString('en-IN'))}</b> votes</p>
     </section>
 
     <section class="sources">

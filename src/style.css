@@ -540,6 +540,24 @@ h2 {
 .sev-badge.sev-2 { background: #fbe4dc; color: #b6431f; }
 .sev-badge.sev-3 { background: #f6dde2; color: #7d1526; }
 
+.party-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-top: 0.3rem;
+}
+
+.party-chip.small {
+  padding: 0.12rem 0.5rem;
+  font-size: 0.68rem;
+  margin-top: 0;
+  vertical-align: middle;
+}
+
 .defection {
   font-size: 0.85rem;
   background: #fff7e6;
@@ -550,9 +568,12 @@ h2 {
 }
 
 section {
-  margin: 1.4rem 0;
-  padding-top: 1.1rem;
-  border-top: 1px solid var(--line);
+  margin: 1rem 0;
+  padding: 1.1rem 1.2rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 1px 3px rgba(22, 19, 31, 0.04);
 }
 
 .big {
@@ -609,6 +630,51 @@ section {
 
 .asset-bar.liabilities .fill {
   background: linear-gradient(90deg, #b6431f, #e4572e);
+}
+
+.result-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  margin: 0.6rem 0 0;
+}
+
+.result-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.result-bar .result-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+}
+
+.result-bar .track {
+  height: 10px;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+}
+
+.result-bar .fill {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent-ink), var(--accent));
+}
+
+.result-bar.runner-up .fill {
+  background: var(--faint);
+}
+
+.margin-note {
+  margin: 0.6rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
 }
 
 dl {
