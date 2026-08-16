@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-21-visakhapatnam-east",
+  "constituency": { "number": 21, "name": "Visakhapatnam East", "district": "Visakhapatnam", "reserved": null },
+  "representative": {
+    "name": "Velagapudi Ramakrishna Babu",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Public Service",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Sc. (Ag), Gorakhpur University, 1981" },
+    "declared_cases": { "total": 4, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Sections across the 4 cases (153A/188/269/353/341/34) don't reach that threshold. Charges were framed in one (FIR 158/2019); zero convictions." },
+    "assets": { "movable": 39651452, "immovable": 201046500, "total": 240697952, "liabilities": 24567653 }
+  },
+  "result": { "votes": 132047, "margin": 70877, "runner_up": "M.V.V. Satyanarayana", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=114",
+    "retrieved": "2026-08-16"
+  }
+}

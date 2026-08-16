@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-23-visakhapatnam-north",
+  "constituency": { "number": 23, "name": "Visakhapatnam North", "district": "Visakhapatnam", "reserved": null },
+  "representative": {
+    "name": "Penmetsa Vishnu Kumar Raju",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.E. (Civil), Andhra University, 1983" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 171/188/341) tops out under 5yr. Charges were framed (08 May 2019); zero convictions." },
+    "assets": { "movable": 43982685, "immovable": 1018353150, "total": 1062335835, "liabilities": 74004748 }
+  },
+  "result": { "votes": 108801, "margin": 47534, "runner_up": "Kammila Kannaparaju", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2684",
+    "retrieved": "2026-08-16"
+  }
+}

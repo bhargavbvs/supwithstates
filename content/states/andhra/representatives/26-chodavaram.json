@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-26-chodavaram",
+  "constituency": { "number": 26, "name": "Chodavaram", "district": "Anakapalli", "reserved": null },
+  "representative": {
+    "name": "Kalidindi Surya Naga Sanyasi Raju",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.A., B.L., Andhra University, 1992" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 506/201/353/342/188/143/149) tops out under 5yr. No charges framed, zero convictions." },
+    "assets": { "movable": 14816000, "immovable": 313500000, "total": 328316000, "liabilities": 42240000 }
+  },
+  "result": { "votes": 109651, "margin": 42189, "runner_up": "Karanam Dharmasri", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=200",
+    "retrieved": "2026-08-16"
+  }
+}
