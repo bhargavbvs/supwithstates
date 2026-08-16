@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-131-jammalamadugu",
+  "constituency": { "number": 131, "name": "Jammalamadugu", "district": "YSR Kadapa", "reserved": null },
+  "representative": {
+    "name": "Adinarayana Reddy Chadipirala",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MSc, Kanpur University, Kanpur, 1980" },
+    "declared_cases": { "total": 4, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Cr No. 130/2020 (Jammalamadugu PS) includes IPC 307 (attempt to murder), which qualifies. The other three (Cr No. 239/2020 IPC 188/34; Cr No. 92/2021 IPC 342/506/34, charges framed 20 Feb 2024; Cr No. 65/2023 IPC 294/504/505(2)/506) do not. Zero convictions." },
+    "assets": { "movable": 58018824, "immovable": 29521200, "total": 87540024, "liabilities": 13013500 }
+  },
+  "result": { "votes": 109640, "margin": 17191, "runner_up": "Mule Sudheer Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-16"
+  }
+}

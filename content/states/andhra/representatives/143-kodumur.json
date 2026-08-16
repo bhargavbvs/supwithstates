@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-143-kodumur",
+  "constituency": { "number": 143, "name": "Kodumur", "district": "Kurnool", "reserved": "SC" },
+  "representative": {
+    "name": "Boggula Dastagiri",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 39,
+    "profession": "Advocate",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "LLM, Sri Krishnadevaraya University, Anantapuram, 2018" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "Affidavit declares no criminal cases." },
+    "assets": { "movable": 10734000, "immovable": 8500000, "total": 19234000, "liabilities": 0 }
+  },
+  "result": { "votes": 101703, "margin": 21583, "runner_up": "Adimulapu Sathish", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=31",
+    "retrieved": "2026-08-16"
+  }
+}

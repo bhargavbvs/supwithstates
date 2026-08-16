@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-128-rayachoti",
+  "constituency": { "number": 128, "name": "Rayachoti", "district": "Annamayya", "reserved": null },
+  "representative": {
+    "name": "Mandipalli Ramprasad Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Business and Agriculturist",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, Rayalaseema Junior College, Tirupathi, 1998" },
+    "declared_cases": { "total": 5, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Two cases (Crime 273/2023, Punganur Urban PS; Crime 79/2023, Mudivedu PS) include IPC 307 (attempt to murder), which qualifies. The other three (Crime 42/2024; Crime 224/2024; Crime 122/2021, charges framed 17 Oct 2022) involve lesser public-order/election-conduct sections. All show 'Charges Framed: No' except Crime 122/2021, and zero convictions." },
+    "assets": { "movable": 34439937, "immovable": 31955000, "total": 66394937, "liabilities": 8712939 }
+  },
+  "result": { "votes": 95925, "margin": 2495, "runner_up": "Gadikota Srikanth Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=87",
+    "retrieved": "2026-08-16"
+  }
+}

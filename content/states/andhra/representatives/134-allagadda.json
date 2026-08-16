@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-134-allagadda",
+  "constituency": { "number": 134, "name": "Allagadda", "district": "Nandyal", "reserved": null },
+  "representative": {
+    "name": "Akhila Priya Bhuma",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 36,
+    "profession": "Business & Cultivation",
+    "photo": null,
+    "education": { "level": "Graduate Professional", "detail": "BBM, IIP College, Hyderabad University, 2006-2009" },
+    "declared_cases": { "total": 12, "serious": 3, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Three cases qualify: Cr No. 98/2023 (Nandyal Taluk PS, IPC 324/307/120B - attempt to murder); Cr No. 6/2021 (Boyinapalle PS, Hyderabad, IPC 302/395/467/468/471/420 among others - murder, dacoity, forgery of valuable security, cheating); and Cr No. 72/2020 (Chinna Chowk PS, Kadapa, IPC 120B/115/302/34 - murder). The remaining nine cases involve lesser public-order, CrPC 151 preventive, or election-conduct sections that do not carry a 5+ year maximum. All show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 127565258, "immovable": 55075000, "total": 182640258, "liabilities": 4961800 }
+  },
+  "result": { "votes": 98881, "margin": 12037, "runner_up": "Gangula Brijendra Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=167",
+    "retrieved": "2026-08-16"
+  }
+}

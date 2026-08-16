@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-142-pattikonda",
+  "constituency": { "number": 142, "name": "Pattikonda", "district": "Kurnool", "reserved": null },
+  "representative": {
+    "name": "K.E. Shyam Kumar",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MBA, Institute of Computer and Business Management, Hyderabad, 2001" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "Affidavit declares no criminal cases." },
+    "assets": { "movable": 102935037, "immovable": 57402940, "total": 160337977, "liabilities": 13926800 }
+  },
+  "result": { "votes": 98849, "margin": 14211, "runner_up": "Kangati Sreedevi", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=126",
+    "retrieved": "2026-08-16"
+  }
+}
