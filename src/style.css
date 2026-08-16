@@ -57,12 +57,12 @@
   --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
   --font-body: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
 
-  /* Severity scale: Soothing modern palette. Earthy/muted family. */
-  --sev--1: #e0e1dd;
-  --sev-0: #81b29a;
-  --sev-1: #f2cc8f;
-  --sev-2: #e07a5f;
-  --sev-3: #9e2a2b;
+  /* Severity scale: Vibrant Material Design inspired */
+  --sev--1: #e0e0e0;
+  --sev-0: #26a69a;
+  --sev-1: #ffca28;
+  --sev-2: #f4511e;
+  --sev-3: #b71c1c;
 }
 
 * {
@@ -246,7 +246,7 @@ path.district-line {
 }
 
 .sev-tag.sev--1 { background: var(--sev--1); color: var(--ink); }
-.sev-tag.sev-0 { background: var(--sev-0); color: var(--ink); }
+.sev-tag.sev-0 { background: var(--sev-0); color: #fff; }
 .sev-tag.sev-1 { background: var(--sev-1); color: var(--ink); }
 .sev-tag.sev-2 { background: var(--sev-2); color: #fff; }
 .sev-tag.sev-3 { background: var(--sev-3); color: #fff; }
