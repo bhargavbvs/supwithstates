@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-172-chittoor",
+  "constituency": { "number": 172, "name": "Chittoor", "district": "Chittoor", "reserved": null },
+  "representative": {
+    "name": "Gurajala Jagan Mohan",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Business and Social Service Activities",
+    "photo": null,
+    "education": { "level": "5th Pass", "detail": "6th Std, Kings English Medium High School, Chittoor, 1995" },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. The 1 case (IPC 506/504/120B/149/447) tops out under 5yr; it is at the investigation stage, not charge-sheeted. Zero convictions."
+    },
+    "assets": {
+      "movable": 175980803,
+      "immovable": 1248957080,
+      "total": 1424937883,
+      "liabilities": 386662078
+    }
+  },
+  "result": {
+    "votes": 88066,
+    "margin": 14604,
+    "runner_up": "M.C. Vijayananda Reddy",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=34",
+    "retrieved": "2026-08-16"
+  }
+}

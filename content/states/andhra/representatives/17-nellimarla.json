@@ -1,0 +1,33 @@
+{
+  "id": "ap-ac-17-nellimarla",
+  "constituency": { "number": 17, "name": "Nellimarla", "district": "Vizianagaram", "reserved": null },
+  "representative": {
+    "name": "Lokam Naga Madhavi",
+    "election": "2024",
+    "elected_party": "Janasena Party",
+    "current_party": "Janasena Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "M.Sc. Computer Science, Kent State University, USA, 1995" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": {
+      "movable": 2490167819,
+      "immovable": 421578030,
+      "total": 2911745849,
+      "liabilities": 53975352
+    }
+  },
+  "result": {
+    "votes": 109915,
+    "margin": 39829,
+    "runner_up": "Baddukonda Appalanaidu",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=398",
+    "retrieved": "2026-08-16"
+  }
+}

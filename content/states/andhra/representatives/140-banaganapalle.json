@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-140-banaganapalle",
+  "constituency": { "number": 140, "name": "Banaganapalle", "district": "Nandyal", "reserved": null },
+  "representative": {
+    "name": "Bobbala Chinnolla Janardhan Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Business & Politician",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.A. (Economics, Public Administration, Political Science), Acharya Nagarjuna University, 2017" },
+    "declared_cases": {
+      "total": 9,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Only 1 of 9 cases qualifies, the one carrying IPC 307 (attempt to murder, max life); the rest (wrongful restraint, trespass, mischief, rioting-type sections) top out under 5yr. All 9 cases show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 581172290,
+      "immovable": 937998069,
+      "total": 1519170359,
+      "liabilities": 233609704
+    }
+  },
+  "result": {
+    "votes": 110603,
+    "margin": 25566,
+    "runner_up": "Katasani Rami Reddy",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=158",
+    "retrieved": "2026-08-16"
+  }
+}
