@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-87-mangalagiri",
+  "constituency": { "number": 87, "name": "Mangalagiri", "district": "Guntur", "reserved": null },
+  "representative": {
+    "name": "Nara Lokesh",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Social Service (Politician)",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MBA, Stanford University, USA, 2008" },
+    "declared_cases": {
+      "total": 17,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Only 2 of 17 cases qualify: one with IPC 420 + Prevention of Corruption Act 13(2), one with IPC 307 (attempt to murder). The rest are minor public-order/traffic-type sections under 5yr. All 17 cases show 'Charges Framed: No' and zero convictions on the affidavit."
+    },
+    "assets": {
+      "movable": 3940965338,
+      "immovable": 1480801696,
+      "total": 5421767034,
+      "liabilities": 184923996
+    }
+  },
+  "result": {
+    "votes": 167710,
+    "margin": 91413,
+    "runner_up": "Murugudu Lavanya",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=47",
+    "retrieved": "2026-08-16"
+  }
+}

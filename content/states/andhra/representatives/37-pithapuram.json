@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-37-pithapuram",
+  "constituency": { "number": 37, "name": "Pithapuram", "district": "Kakinada", "reserved": null },
+  "representative": {
+    "name": "Konidala Pawan Kalyan",
+    "election": "2024",
+    "elected_party": "Janasena Party",
+    "current_party": "Janasena Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Film Actor",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "SSLC, St Joseph's English Medium High School, 1984" },
+    "declared_cases": {
+      "total": 8,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. None of the 8 cases qualify - all are defamation (IPC 499/500/501), public-order (153/153A/504/505/506) or a minor traffic case (279/337), each topping out under 5yr. All 8 cases show 'Charges Framed: No' and zero convictions on the affidavit."
+    },
+    "assets": {
+      "movable": 461797612,
+      "immovable": 1183602811,
+      "total": 1645400423,
+      "liabilities": 658444703
+    }
+  },
+  "result": {
+    "votes": 134394,
+    "margin": 70279,
+    "runner_up": "Vanga Geetha",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=272",
+    "retrieved": "2026-08-16"
+  }
+}

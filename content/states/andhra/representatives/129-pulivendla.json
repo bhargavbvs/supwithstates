@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-129-pulivendla",
+  "constituency": { "number": 129, "name": "Pulivendla", "district": "YSR Kadapa", "reserved": null },
+  "representative": {
+    "name": "YS Jagan Mohan Reddy",
+    "election": "2024",
+    "elected_party": "YSRCP",
+    "current_party": "YSRCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Engaged in Politics & Public Service",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Com, Pragati Maha Vidyalaya, Osmania University, Hyderabad, 1994" },
+    "declared_cases": {
+      "total": 29,
+      "serious": 20,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Counted: 9 PMLA (money-laundering, Section 4, max 7yr) cases and 11 CBI corruption cases (IPC 409/420/468 and/or Prevention of Corruption Act charges, each max 5-7yr+). The remaining 9 cases (defamation, minor IPC, Representation of People Act Sec 125, a traffic offence, etc.) top out under 5yr. All 29 cases show 'Charges Framed: No' and zero convictions on the affidavit."
+    },
+    "assets": {
+      "movable": 6506676710,
+      "immovable": 1069827071,
+      "total": 7576503781,
+      "liabilities": 370485457
+    }
+  },
+  "result": {
+    "votes": 116315,
+    "margin": 61687,
+    "runner_up": "B. Tech Ravi",
+    "runner_up_party": "TDP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=178",
+    "retrieved": "2026-08-16"
+  }
+}

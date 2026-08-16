@@ -1,0 +1,38 @@
+{
+  "id": "ap-ac-126-kadapa",
+  "constituency": { "number": 126, "name": "Kadapa", "district": "YSR Kadapa", "reserved": null },
+  "representative": {
+    "name": "Madhavi Reddappa Gari",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": "Agriculture, Business & Social Activities",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.A., Osmania University, Hyderabad, 1995" },
+    "declared_cases": {
+      "total": 4,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. One of 4 cases qualifies (IPC 452, house-trespass after preparation for hurt/assault, max 7yr); the other three (188/171H/186/323) top out under 5yr. All 4 cases show 'Charges Framed: No' and zero convictions on the affidavit."
+    },
+    "assets": {
+      "movable": 571363384,
+      "immovable": 3309692400,
+      "total": 3881055784,
+      "liabilities": 832470678
+    }
+  },
+  "result": {
+    "votes": 90988,
+    "margin": 18860,
+    "runner_up": "Amzath Basha Shak Bepari",
+    "runner_up_party": "YSRCP"
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=457",
+    "retrieved": "2026-08-16"
+  }
+}
