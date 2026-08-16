@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "ssupwithstates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "npm run build:data && vite",
+    "build": "npm run validate && npm run build:data && vite build && npm run build:og",
+    "build:data": "node scripts/build-data.mjs",
+    "build:og": "node scripts/build-og.mjs",
+    "validate": "node scripts/validate.mjs",
+    "geo": "node scripts/simplify-geo.mjs",
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "maplibre-gl": "^6.3.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.6",
+    "vitest": "^3.2.7"
+  }
+}

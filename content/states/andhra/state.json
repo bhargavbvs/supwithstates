@@ -1,0 +1,19 @@
+{
+  "slug": "andhra",
+  "name": "Andhra Pradesh",
+  "domain": "ssupwithandhra.com",
+  "assembly_size": 175,
+  "district_count": 26,
+  "term": { "start": "2024-06", "end": "2029-06" },
+  "government": {
+    "coalition": "NDA",
+    "parties": ["TDP", "JSP", "BJP"]
+  },
+  "sources": {
+    "go_portal": "https://goir.ap.gov.in/",
+    "myneta": "https://www.myneta.info/AndhraPradesh2024/",
+    "adr_analysis": "https://adrindia.org/sites/default/files/Andhra_Pradesh_Assembly_Elections_2024_Criminal_and_Financial_background_details_of_Winning_Candidates_Finalver_English.pdf"
+  },
+  "contact": { "corrections": "corrections@ssupwithandhra.com" },
+  "map": { "center": [80.0, 15.9], "zoom": 6 }
+}
