@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-162-thamballapalle",
+  "constituency": { "number": 162, "name": "Thamballapalle", "district": "Annamayya", "reserved": null },
+  "representative": {
+    "name": "Peddireddy Dwarakanatha Reddy",
+    "election": "2024",
+    "elected_party": "YSRCP",
+    "current_party": "YSRCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Salary Income & Agriculturalist",
+    "photo": null,
+    "education": { "level": "8th Pass", "detail": "9th Class, ZP High School, Sodum" },
+    "declared_cases": { "total": 2, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Both pending cases qualify: Crime No. 43/2018 (Somala PS) includes IPC 354 (assault/criminal force to a woman with intent to outrage her modesty, max 5 years) along with 147/148/153A; Crime No. 73/2013 (Sodum PS) includes IPC 307 (attempt to murder). Charges were framed in the first case (18 Feb 2019); not yet framed in the second. Zero convictions." },
+    "assets": { "movable": 5560313, "immovable": 289000000, "total": 294560313, "liabilities": 9943841 }
+  },
+  "result": { "votes": 94136, "margin": 10103, "runner_up": "D. Jayachandra Reddy", "runner_up_party": "TDP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=44",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-166-chandragiri",
+  "constituency": { "number": 166, "name": "Chandragiri", "district": "Tirupati", "reserved": null },
+  "representative": {
+    "name": "Pulivarthi Venkata Mani Prasad",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "10th Pass, Loyal Boarding School, Vinukonda, Guntur, 1987" },
+    "declared_cases": { "total": 31, "serious": 4, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. 4 of 31 pending cases qualify: FIR 79/2023 (Mudiveedu) and FIR 166/2022 (Puthalapattu) each include IPC 307 (attempt to murder); FIR 324/2021 (Kuppam) and FIR 485/2021 (Chittoor) each include Prevention of Damage to Public Property Act Sec 3 (max 5 years). The remaining cases are largely repeated sections under IPC 143/188/269/270/271/341/353 tied to protest/agitation-related incidents, none exceeding a 5-year maximum. Zero convictions; FIR 81/2019 shows charges framed (26 Sep 2023)." },
+    "assets": { "movable": 40790908, "immovable": 132485000, "total": 173275908, "liabilities": 549124556 }
+  },
+  "result": { "votes": 143667, "margin": 43852, "runner_up": "Chevireddy Mohit Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=94",
+    "retrieved": "2026-08-16"
+  }
+}

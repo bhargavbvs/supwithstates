@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-170-nagari",
+  "constituency": { "number": 170, "name": "Nagari", "district": "Chittoor", "reserved": null },
+  "representative": {
+    "name": "Gali Bhanu Prakash",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "Master of Science, University of Bridgeport, USA, 2000; B.E., M.J. College of Engineering, Osmania University, Hyderabad, 1997" },
+    "declared_cases": { "total": 10, "serious": 3, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Crime No. 211/2023 and Crime No. 222/2023 (Nagari PS) each include IPC 354 (assault/criminal force to a woman with intent to outrage her modesty, max 5 years); PCR 07/2013 (ED Bangalore) is a Prevention of Money Laundering Act Sec 3 & 4 case (max 7 years). The remaining 7 cases involve Representation of the People Act Sec 171F/127A, IPC 290, 336/337/506, 148/188/269/270/271/149, 269, and 499 (defamation), none exceeding a 5-year maximum. Zero convictions." },
+    "assets": { "movable": 42961934, "immovable": 198698100, "total": 241660034, "liabilities": 71736031 }
+  },
+  "result": { "votes": 107797, "margin": 45004, "runner_up": "R. K. Roja", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-16"
+  }
+}

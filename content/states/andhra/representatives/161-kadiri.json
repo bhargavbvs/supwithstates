@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-161-kadiri",
+  "constituency": { "number": 161, "name": "Kadiri", "district": "Sri Sathya Sai", "reserved": null },
+  "representative": {
+    "name": "Kandikunta Venkata Prasad",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Graduate Professional", "detail": "B.Tech, Bapuji Institute of Engineering & Technology, Davangere, Karnataka" },
+    "declared_cases": { "total": 21, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Of 21 pending cases, 2 qualify: Cr.No 92/2023 (Kadiri Town PS) includes IPC 307 (attempt to murder) and SC/ST (POA) Act Sec 3(1)(r)(s); Cr.No 38/2019 includes IPC 435 (mischief by fire, max 7 years). The remaining 19 cases involve sections such as IPC 143/147/148/149/188/341/353 with maximum sentences under 5 years. Zero convictions; no charges shown as framed." },
+    "assets": { "movable": 17479598, "immovable": 19500000, "total": 36979598, "liabilities": 7969385 }
+  },
+  "result": { "votes": 103610, "margin": 6265, "runner_up": "B. S. Maqbool Ahmed", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=125",
+    "retrieved": "2026-08-16"
+  }
+}

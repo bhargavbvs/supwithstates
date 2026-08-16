@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-169-satyavedu",
+  "constituency": { "number": 169, "name": "Satyavedu", "district": "Tirupati", "reserved": "SC" },
+  "representative": {
+    "name": "Koneti Adimulam",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "Bachelor of Arts, S.V. Arts College, Tirupati (affiliated to Sri Venkateswara University, Tirupati), 1975" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "Candidate declared zero pending criminal cases and zero convictions." },
+    "assets": { "movable": 3568917, "immovable": 6050000, "total": 9618917, "liabilities": 0 }
+  },
+  "result": { "votes": 85471, "margin": 3739, "runner_up": "Nukathoti Rajesh", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=444",
+    "retrieved": "2026-08-16"
+  }
+}

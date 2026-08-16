@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-168-srikalahasti",
+  "constituency": { "number": 168, "name": "Srikalahasti", "district": "Tirupati", "reserved": null },
+  "representative": {
+    "name": "Bojjala Venkata Sudhir Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 44,
+    "profession": "Property Consultant",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "Master of Business Administration, Bharathi Institute of Higher Education and Research (Deemed University), Selaiyur, Chennai, 2005" },
+    "declared_cases": { "total": 15, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. FIR 18/2024 (Srikalahasti I) includes IPC 365 (kidnapping/abducting with intent to secretly confine, max 7 years) and qualifies. FIR 138/2023 cites an SC/ST (POA) Act section and FIR 303/2021 cites a Rights of Persons with Disabilities Act section; the maximum sentence attached to those specific clauses is not clear from the affidavit text, so they were not counted as serious. The remaining 12 cases involve IPC 143/188/269/270/271/283/341/353/506 with maximum sentences under 5 years. Zero convictions." },
+    "assets": { "movable": 50777442, "immovable": 94666994, "total": 145444436, "liabilities": 86765441 }
+  },
+  "result": { "votes": 121565, "margin": 43304, "runner_up": "Biyyapu Madhusudhan Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=122",
+    "retrieved": "2026-08-16"
+  }
+}

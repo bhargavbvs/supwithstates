@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-160-dharmavaram",
+  "constituency": { "number": 160, "name": "Dharmavaram", "district": "Sri Sathya Sai", "reserved": null },
+  "representative": {
+    "name": "Satya Kumar Yadav",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Social Service & BJP National Secretary",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "Master of Business Administration with Specialization in Human Resource Management, Institute of Technology and Management, Chennai (in association with Southern New Hampshire University, USA), 2013" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "Candidate declared zero pending criminal cases and zero convictions." },
+    "assets": { "movable": 59364434, "immovable": 51070525, "total": 110434959, "liabilities": 21455924 }
+  },
+  "result": { "votes": 106544, "margin": 3734, "runner_up": "Kethireddy Venkatarami Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=315",
+    "retrieved": "2026-08-16"
+  }
+}

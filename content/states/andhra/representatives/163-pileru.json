@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-163-pileru",
+  "constituency": { "number": 163, "name": "Pileru", "district": "Annamayya", "reserved": null },
+  "representative": {
+    "name": "Nallari Kishore Kumar Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "Bachelor of Arts (B.A.), Nizam College, Hyderabad, 1990" },
+    "declared_cases": { "total": 6, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. 2 of 6 pending cases include IPC 307 (attempt to murder): one also cites IPC 120B (criminal conspiracy); the other includes Arms Act Sec 25(1-B). The remaining 4 cases involve IPC 188, 171H, 143/269/270/149 (with Epidemic Diseases Act sections), and a CrPC 151 preventive matter, none exceeding a 5-year maximum. Zero convictions." },
+    "assets": { "movable": 31319532, "immovable": 142837500, "total": 174157032, "liabilities": 92223950 }
+  },
+  "result": { "votes": 105582, "margin": 25081, "runner_up": "Chinthala Ramachandra Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=160",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-174-palamaner",
+  "constituency": { "number": 174, "name": "Palamaner", "district": "Chittoor", "reserved": null },
+  "representative": {
+    "name": "N. Amarnath Reddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Cultivation & Business",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Com., V.V. Puram College, Bangalore University, 1980" },
+    "declared_cases": { "total": 24, "serious": 3, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. FIR 79/2023 and FIR 74/2023 (Mudivedu PS) each include IPC 307 (attempt to murder); FIR 324/2021 (Kuppam Urban PS) includes Prevention of Damage to Public Property Act Sec 3 (max 5 years). The remaining 21 cases involve IPC 143/147/148/153/153A/188/269/270/290/341/353/427/447/506 and repeated CrPC 151 preventive matters, none exceeding a 5-year maximum. Zero convictions." },
+    "assets": { "movable": 189380374, "immovable": 124445500, "total": 313825874, "liabilities": 124347710 }
+  },
+  "result": { "votes": 123232, "margin": 20122, "runner_up": "N. Venkate Gowda", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=120",
+    "retrieved": "2026-08-16"
+  }
+}

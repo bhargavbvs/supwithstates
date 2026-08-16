@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-164-madanapalle",
+  "constituency": { "number": 164, "name": "Madanapalle", "district": "Annamayya", "reserved": null },
+  "representative": {
+    "name": "Mohammed Shahjahan Basha",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Transport Business",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "S.S.C., Arogyavaram English Medium High School, Arogyavaram, 1984-85" },
+    "declared_cases": { "total": 10, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. FIR 92/2018 (I Town PS) includes IPC 457 (house-breaking by night to commit an offence, max 14 years); FIR 79/2023 (Mudivedu PS) includes IPC 307 (attempt to murder) along with 120B. The other 8 cases involve sections such as IPC 143/147/341/188/171H and CrPC 151 with maximum sentences under 5 years. Zero convictions." },
+    "assets": { "movable": 17143945, "immovable": 80550000, "total": 97693945, "liabilities": 25316210 }
+  },
+  "result": { "votes": 97980, "margin": 5509, "runner_up": "Nisar Ahmed", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=23",
+    "retrieved": "2026-08-16"
+  }
+}
