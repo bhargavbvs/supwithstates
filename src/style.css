@@ -58,12 +58,15 @@
   --font-body: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
 
   /* Severity scale: color always paired with a text label elsewhere in the
-     markup (color-blind safe). -1 = not yet profiled. */
-  --sev--1: #ddd6c9;
-  --sev-0: #1fa05c;
-  --sev-1: #e8a013;
-  --sev-2: #e4572e;
-  --sev-3: #a11d33;
+     markup (color-blind safe). -1 = not yet profiled. Earthy/muted family
+     to match the rest of the palette, but darkened from the initial
+     proposal where needed - the original pastel versions failed WCAG AA
+     (2.4-3.1:1) against the white text these badges use. */
+  --sev--1: #7e745f;
+  --sev-0: #438068;
+  --sev-1: #f4a261;
+  --sev-2: #c6482e;
+  --sev-3: #9e2a2b;
 }
 
 * {
@@ -246,7 +249,7 @@ path.district-line {
   opacity: 1;
 }
 
-.sev-tag.sev--1 { background: var(--sev--1); color: #4a4457; }
+.sev-tag.sev--1 { background: var(--sev--1); color: #fff; }
 .sev-tag.sev-0 { background: var(--sev-0); color: #fff; }
 .sev-tag.sev-1 { background: var(--sev-1); color: #3a2900; }
 .sev-tag.sev-2 { background: var(--sev-2); color: #fff; }
@@ -281,6 +284,7 @@ path.district-line {
   height: 9px;
   border-radius: 50%;
   background: var(--sev-color, var(--sev-0));
+  border: 1px solid rgba(0, 0, 0, 0.12);
 }
 
 #map-legend .dot.d--1::before { background: var(--sev--1); }
@@ -518,6 +522,7 @@ h2 {
   width: 10px;
   height: 10px;
   border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.12);
 }
 
 .ac-list .sev-dot.sev--1 { background: var(--sev--1); }
