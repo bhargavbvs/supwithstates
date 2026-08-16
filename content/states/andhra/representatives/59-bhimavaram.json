@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-59-bhimavaram",
+  "constituency": { "number": 59, "name": "Bhimavaram", "district": "West Godavari", "reserved": null },
+  "representative": {
+    "name": "Pulaparthi Ramanjaneyulu",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, Hindu College, Machilipatnam, Krishna District, 1970-72" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
+    "assets": { "movable": 52058572, "immovable": 348465000, "total": 400523572, "liabilities": 2406664 }
+  },
+  "result": { "votes": 130424, "margin": 66974, "runner_up": "Grandhi Srinivas", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2098",
+    "retrieved": "2026-08-16"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-76-avanigadda",
+  "constituency": { "number": 76, "name": "Avanigadda", "district": "Krishna", "reserved": null },
+  "representative": {
+    "name": "Mandali Buddha Prasad",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.A., New Government College, Hyderabad (Osmania University), 1977" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
+    "assets": { "movable": 3292036, "immovable": 16064000, "total": 19356036, "liabilities": 5933974 }
+  },
+  "result": { "votes": 113460, "margin": 46434, "runner_up": "Simhadri Ramesh Babu", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2662",
+    "retrieved": "2026-08-16"
+  }
+}

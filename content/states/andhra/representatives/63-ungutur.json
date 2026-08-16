@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-63-ungutur",
+  "constituency": { "number": 63, "name": "Ungutur", "district": "Eluru", "reserved": null },
+  "representative": {
+    "name": "Patsamatla Dharmaraju",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "Secondary School Certificate, S J N P High School, Pedanindrakolanu, 1995" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
+    "assets": { "movable": 129947772, "immovable": 213039543, "total": 342987315, "liabilities": 216804823 }
+  },
+  "result": { "votes": 108894, "margin": 44945, "runner_up": "Puppala Srinivasa Rao (Vasubabu)", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=402",
+    "retrieved": "2026-08-16"
+  }
+}

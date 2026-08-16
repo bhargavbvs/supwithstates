@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-106-chirala",
+  "constituency": { "number": 106, "name": "Chirala", "district": "Bapatla", "reserved": null },
+  "representative": {
+    "name": "Madduluri Mala Kondaiah",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Business, Agriculture & Service",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Com, VMRF Deemed University, Salem, Tamil Nadu, 1978-81" },
+    "declared_cases": { "total": 8, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Case 7 (Cr No 123/2018, Law & Order PS Bhimunipatnam; CC No 352/2018, 15th Metropolitan Magistrate) includes IPC 420 (cheating), which carries a maximum of 7 years and qualifies as serious; it shows 'Charges Framed: Yes' (16 Dec 2019) but no conviction. Case 3 also cites IPC 198 (using a false certificate as genuine), whose maximum sentence depends on the underlying proceeding and was not counted toward 'serious' given that ambiguity. The remaining cases involve IPC 143/149/188/149/290/341, CrPC 151, or Section 138 of the Negotiable Instruments Act, all capped at 2 years or less. Zero convictions." },
+    "assets": { "movable": 14669600, "immovable": 194817505, "total": 209487105, "liabilities": 71967057 }
+  },
+  "result": { "votes": 72700, "margin": 20984, "runner_up": "Karanam Venkatesh", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=197",
+    "retrieved": "2026-08-16"
+  }
+}

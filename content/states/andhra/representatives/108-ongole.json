@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-108-ongole",
+  "constituency": { "number": 108, "name": "Ongole", "district": "Prakasam", "reserved": null },
+  "representative": {
+    "name": "Damacharla Janardhana Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": "Politician, Business",
+    "photo": null,
+    "education": { "level": "Graduate Professional", "detail": "B.Tech, P.E.S. Institute of Technology, Bangalore, 1998" },
+    "declared_cases": { "total": 18, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 18 pending cases reaches that threshold; the most substantive sections involved (IPC 353, 384, 224, 448, 427, 147, 506) each cap out at 2-3 years, and several entries cite only CrPC 151 (a preventive-detention provision, not a charge) or Section 138 of the Negotiable Instruments Act. Zero convictions; one case (Cr No 38/2023, II AJFCM Ongole) shows 'Charges Framed: Yes' (05 May 2023)." },
+    "assets": { "movable": 221808233, "immovable": 922224342, "total": 1144032575, "liabilities": 333565231 }
+  },
+  "result": { "votes": 118800, "margin": 34026, "runner_up": "Balineni Srinivasa Reddy", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=369",
+    "retrieved": "2026-08-16"
+  }
+}

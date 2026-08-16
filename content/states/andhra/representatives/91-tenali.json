@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-91-tenali",
+  "constituency": { "number": 91, "name": "Tenali", "district": "Guntur", "reserved": null },
+  "representative": {
+    "name": "Nadendla Manohar",
+    "election": "2024",
+    "elected_party": "JSP",
+    "current_party": "JSP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Consultation, Social Service",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MBA, Osmania University, 1985-87" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
+    "assets": { "movable": 40100604, "immovable": 188855000, "total": 228955604, "liabilities": 44441091 }
+  },
+  "result": { "votes": 123961, "margin": 48112, "runner_up": "Annabathuni Siva Kumar", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=802",
+    "retrieved": "2026-08-16"
+  }
+}

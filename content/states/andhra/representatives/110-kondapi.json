@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-110-kondapi",
+  "constituency": { "number": 110, "name": "Kondapi", "district": "Prakasam", "reserved": "SC" },
+  "representative": {
+    "name": "Dola Sree Bala Veeranjaneya Swamy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Politician (Doctor, MBBS)",
+    "photo": null,
+    "education": { "level": "Graduate Professional", "detail": "MBBS, Andhra Medical College, Visakhapatnam, 1997" },
+    "declared_cases": { "total": 11, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 11 pending cases reaches that threshold; the most serious sections cited are IPC 353 and IPC 506 (both capped at 2 years), with the rest involving IPC 143/149/188/341/269/270/285/290/34, Section 67 of the IT Act, or CrPC 151. Zero convictions." },
+    "assets": { "movable": 5901909, "immovable": 3439440, "total": 9341349, "liabilities": 1601813 }
+  },
+  "result": { "votes": 116674, "margin": 24756, "runner_up": "Audimulapu Suresh", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=328",
+    "retrieved": "2026-08-16"
+  }
+}
