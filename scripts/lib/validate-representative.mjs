@@ -21,6 +21,9 @@ export function validateRepresentative(r, { assemblySize }) {
   if (typeof p.elected_party !== 'string' || !p.elected_party.trim()) {
     e.push('representative.elected_party is required');
   }
+  if (p.current_party !== null && (typeof p.current_party !== 'string' || !p.current_party.trim())) {
+    e.push('representative.current_party must be a non-empty string or null');
+  }
 
   if (p.party_changed != null) {
     const pc = p.party_changed;

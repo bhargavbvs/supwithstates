@@ -107,4 +107,17 @@ describe('validateRepresentative', () => {
     expect(validateRepresentative(bad, opts))
       .toContain('representative.election must be a four-digit year');
   });
+
+  it('requires current_party to be a non-empty string or null', () => {
+    const bad = structuredClone(valid);
+    bad.representative.current_party = '';
+    expect(validateRepresentative(bad, opts))
+      .toContain('representative.current_party must be a non-empty string or null');
+  });
+
+  it('accepts current_party being null (independent)', () => {
+    const ok = structuredClone(valid);
+    ok.representative.current_party = null;
+    expect(validateRepresentative(ok, opts)).toEqual([]);
+  });
 });
