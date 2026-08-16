@@ -45,8 +45,8 @@ We show three separate numbers for every representative:
 - **Convictions** — cases where a court has found the person guilty. This is
   always shown separately and is never mixed into the total count.
 
-We never call anyone a "criminal." We never use the words "crimes" or "crime
-rate." We report what was declared.
+We describe only what was declared, in the candidate's own affidavit language —
+never a label for the person, and never a rate or aggregate summary of it.
 
 ---
 

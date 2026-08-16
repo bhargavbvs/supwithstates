@@ -20,9 +20,12 @@ function walk(dir, out = []) {
 }
 
 describe('framing rules (spec §8)', () => {
-  it('no banned criminal-case terminology anywhere in src/ or content/', () => {
+  // docs/copy/ is user-facing site copy staged by the Gemini track before being
+  // merged into content/. The rest of docs/ (specs, plans) legitimately quotes
+  // the banned terms to define the rule itself, so it stays out of scope.
+  it('no banned criminal-case terminology anywhere in src/, content/, or docs/copy/', () => {
     const offenders = [];
-    for (const file of [...walk('src'), ...walk('content')]) {
+    for (const file of [...walk('src'), ...walk('content'), ...walk('docs/copy')]) {
       const text = readFileSync(file, 'utf8');
       for (const pattern of BANNED) {
         if (pattern.test(text)) offenders.push(`${file} matches ${pattern}`);
