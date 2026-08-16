@@ -2,6 +2,7 @@ import { store } from '../store.js';
 import { initMap, addDistrictLayer } from '../map.js';
 import { formatRupees, CASE_DISCLAIMER, escapeHtml } from '../format.js';
 import { searchConstituencies } from '../search.js';
+import { findFeatureAt } from '../geo-lookup.js';
 
 export function renderHome(el) {
   const { state, stats } = store;
@@ -32,6 +33,8 @@ export function renderHome(el) {
     <input id="q" type="search" placeholder="Find your constituency, district or MLA"
            autocomplete="off" aria-label="Find your constituency" />
     <ul id="results" role="listbox"></ul>
+    <button id="locate" type="button">Use my location</button>
+    <p id="locate-status" role="status"></p>
   `;
   const input = slot.querySelector('#q');
   const results = slot.querySelector('#results');
@@ -43,5 +46,28 @@ export function renderHome(el) {
         <b>${escapeHtml(c.constituency.name)}</b>
         <span>${escapeHtml(c.constituency.district)} · ${escapeHtml(c.representative.name)}</span>
       </a></li>`).join('');
+  });
+
+  const status = slot.querySelector('#locate-status');
+  slot.querySelector('#locate').addEventListener('click', () => {
+    if (!navigator.geolocation) {
+      status.textContent = 'Location is not available in this browser.';
+      return;
+    }
+    status.textContent = 'Finding your constituency…';
+    navigator.geolocation.getCurrentPosition(
+      async ({ coords }) => {
+        const geo = await fetch('/geo/constituencies.geojson').then((r) => r.json());
+        const hit = findFeatureAt([coords.longitude, coords.latitude], geo);
+        if (!hit) {
+          status.textContent = 'You appear to be outside this state. Try searching instead.';
+          return;
+        }
+        status.textContent = '';
+        window.location.hash = `#/c/${hit.properties.AC_NO}`;
+      },
+      () => { status.textContent = 'Location permission denied. Try searching instead.'; },
+      { enableHighAccuracy: false, timeout: 10000 }
+    );
   });
 }
