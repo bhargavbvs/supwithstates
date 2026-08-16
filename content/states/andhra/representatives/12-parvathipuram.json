@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-12-parvathipuram",
+  "constituency": { "number": 12, "name": "Parvathipuram", "district": "Parvathipuram Manyam", "reserved": "SC" },
+  "representative": {
+    "name": "Bonela Vijaya Chandra",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 39,
+    "profession": "Social Worker and Business",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "B.Tech, Andhra University, 2009" },
+    "declared_cases": { "total": 2, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Neither case (IPC 188 with RPA 1951 Sec 127A(1); IPC 448/506/509/34 with SC/ST POA Act) has a base IPC section reaching that threshold. Both show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 21159416, "immovable": 8000000, "total": 29159416, "liabilities": 19855821 }
+  },
+  "result": { "votes": 83905, "margin": 24414, "runner_up": "Alajangi Jogarao", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=137",
+    "retrieved": "2026-08-16"
+  }
+}

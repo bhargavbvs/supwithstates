@@ -1,0 +1,28 @@
+{
+  "id": "ap-ac-3-tekkali",
+  "constituency": { "number": 3, "name": "Tekkali", "district": "Srikakulam", "reserved": null },
+  "representative": {
+    "name": "Atchannaidu Kinjarapu",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Politician and Farmer",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, 1988; B.Sc discontinued, V.S. Krishna College, Visakhapatnam, 1991" },
+    "declared_cases": {
+      "total": 13,
+      "serious": 4,
+      "convicted": 0,
+      "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. 4 of 13 cases qualify: two involve IPC 307 (attempt to murder, one alongside 326, grievous hurt by dangerous weapons); one involves IPC 409/420/468/471 (breach of trust by a public servant, cheating, forgery); one is a standalone Anti-Corruption-Bureau case under IPC 409/420. The other 9 (mostly unlawful-assembly/wrongful-restraint/public-order sections) top out under 5yr. Charges have been framed in 3 of the 13 (all non-serious ones, per section 153/153A/143); zero convictions in any case."
+    },
+    "assets": { "movable": 66031258, "immovable": 105159500, "total": 171190758, "liabilities": 37940153 }
+  },
+  "result": { "votes": 107923, "margin": 34435, "runner_up": "Duvvada Srinivas", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=384",
+    "retrieved": "2026-08-16"
+  }
+}

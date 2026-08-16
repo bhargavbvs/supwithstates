@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-9-rajam",
+  "constituency": { "number": 9, "name": "Rajam", "district": "Srikakulam", "reserved": "SC" },
+  "representative": {
+    "name": "Kondru Murali Mohan",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": null,
+    "education": { "level": "Post Graduate", "detail": "MBA, Andhra University, Waltair, 1995" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 341/188/34) tops out under 5yr. Shows 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 75350399, "immovable": 114813700, "total": 190164099, "liabilities": 104122294 }
+  },
+  "result": { "votes": 94385, "margin": 20722, "runner_up": "Tale Rajesh", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=135",
+    "retrieved": "2026-08-16"
+  }
+}

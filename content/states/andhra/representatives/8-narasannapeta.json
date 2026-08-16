@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-8-narasannapeta",
+  "constituency": { "number": 8, "name": "Narasannapeta", "district": "Srikakulam", "reserved": null },
+  "representative": {
+    "name": "Baggu Ramanamurthy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": { "level": "10th Pass", "detail": "SSC, ZP High School, Budithi" },
+    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "assets": { "movable": 12395230, "immovable": 40562500, "total": 52957730, "liabilities": 6325983 }
+  },
+  "result": { "votes": 99951, "margin": 29371, "runner_up": "Dharmana Krishna Das", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=153",
+    "retrieved": "2026-08-16"
+  }
+}

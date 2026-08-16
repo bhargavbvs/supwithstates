@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-1-ichchapuram",
+  "constituency": { "number": 1, "name": "Ichchapuram", "district": "Srikakulam", "reserved": null },
+  "representative": {
+    "name": "Ashok Bendalam",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Practicing Doctor",
+    "photo": null,
+    "education": { "level": "Graduate", "detail": "BDS, NTR University of Health Sciences, Vijayawada, 2009" },
+    "declared_cases": { "total": 2, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Neither case (CrPC 151; IPC 188 with Epidemic Diseases Act / Disaster Management Act) qualifies. Both show 'Charges Framed: No' and zero convictions." },
+    "assets": { "movable": 7637500, "immovable": 9700000, "total": 17337500, "liabilities": 3342304 }
+  },
+  "result": { "votes": 110612, "margin": 39783, "runner_up": "Piriya Vijaya", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2372",
+    "retrieved": "2026-08-16"
+  }
+}

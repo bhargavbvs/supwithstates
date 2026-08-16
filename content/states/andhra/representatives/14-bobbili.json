@@ -1,0 +1,23 @@
+{
+  "id": "ap-ac-14-bobbili",
+  "constituency": { "number": 14, "name": "Bobbili", "district": "Vizianagaram", "reserved": null },
+  "representative": {
+    "name": "R.V.S.K.K. Ranga Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": { "level": "12th Pass", "detail": "Intermediate, St. Michael's Academy, Chennai, 1998" },
+    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 188) tops out under 5yr. Pending, not charge-sheeted; zero convictions." },
+    "assets": { "movable": 42812558, "immovable": 172226000, "total": 215038558, "liabilities": 57000000 }
+  },
+  "result": { "votes": 112366, "margin": 44648, "runner_up": "Sambangi Venkata China Appalanaidu", "runner_up_party": "YSRCP" },
+  "source": {
+    "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=192",
+    "retrieved": "2026-08-16"
+  }
+}
