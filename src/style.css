@@ -477,6 +477,11 @@ h2 {
   color: var(--muted);
 }
 
+.ac-list .party-chip {
+  display: inline-flex;
+  margin-top: 0.3rem;
+}
+
 .ac-list small {
   display: block;
   font-size: 0.78rem;
