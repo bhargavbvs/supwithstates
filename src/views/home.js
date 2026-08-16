@@ -22,6 +22,7 @@ export function renderHome(el) {
   `;
 
   const map = initMap('map', store.state.map);
+  map.on('error', (e) => console.error('MAP ERROR', e.error?.message ?? e));
   map.on('load', async () => {
     const [districts, constituencies] = await Promise.all([
       fetch('/geo/districts.geojson').then((r) => r.json()),
