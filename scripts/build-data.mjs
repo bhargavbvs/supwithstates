@@ -3,6 +3,7 @@ import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync, cpSync
 import { join } from 'node:path';
 import { computeStats } from './lib/compute-stats.mjs';
 import { assertBudget } from './lib/budget.mjs';
+import { projectGeo } from './lib/project-geo.mjs';
 
 const STATE = process.env.STATE ?? 'andhra';
 const stateDir = new URL(`../content/states/${STATE}/`, import.meta.url).pathname;
@@ -28,4 +29,10 @@ writeFileSync(out, JSON.stringify({
 
 cpSync(join(stateDir, 'geo'), join(publicDir, 'geo'), { recursive: true });
 
+const constituenciesFc = JSON.parse(readFileSync(join(stateDir, 'geo', 'constituencies.geojson'), 'utf8'));
+const districtsFc = JSON.parse(readFileSync(join(stateDir, 'geo', 'districts.geojson'), 'utf8'));
+const mapOut = join(publicDir, 'geo', 'ap-map.json');
+writeFileSync(mapOut, JSON.stringify(projectGeo(constituenciesFc, districtsFc)));
+
 console.log(`✔ data.json: ${constituencies.length} constituencies, ${assertBudget(out, 300 * 1024)} bytes`);
+console.log(`✔ ap-map.json: ${assertBudget(mapOut, 400 * 1024)} bytes`);

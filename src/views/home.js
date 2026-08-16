@@ -1,14 +1,21 @@
 import { store } from '../store.js';
-import { initMap, addConstituencyLayer, addDistrictOutline, addOutsideMask } from '../map.js';
+import { renderMap, loadMapData } from '../svg-map.js';
 import { formatRupees, CASE_DISCLAIMER, escapeHtml } from '../format.js';
 import { searchConstituencies } from '../search.js';
-import { findFeatureAt, boundsOf, buildOutsideMask } from '../geo-lookup.js';
+import { findFeatureAt } from '../geo-lookup.js';
 
 export function renderHome(el) {
   const { state, stats } = store;
 
   el.innerHTML = `
     <div id="map"></div>
+    <div id="map-legend">
+      <span class="dot d-0">No cases</span>
+      <span class="dot d-1">Declared</span>
+      <span class="dot d-2">Serious</span>
+      <span class="dot d-3">Convicted</span>
+      <span class="dot d--1">Not yet profiled</span>
+    </div>
     <div id="map-overlay">
       <section id="stats">
         <div class="stat"><b>${state.assembly_size}</b><span>constituencies</span></div>
@@ -21,20 +28,12 @@ export function renderHome(el) {
     </div>
   `;
 
-  const map = initMap('map', store.state.map);
-  map.on('error', (e) => console.error('MAP ERROR', e.error?.message ?? e));
-  map.on('load', async () => {
-    const [districts, constituencies] = await Promise.all([
-      fetch('/geo/districts.geojson').then((r) => r.json()),
-      fetch('/geo/constituencies.geojson').then((r) => r.json())
-    ]);
-    addOutsideMask(map, buildOutsideMask(constituencies));
-    addConstituencyLayer(map, constituencies, (props) => {
-      window.location.hash = `#/c/${props.AC_NO}`;
+  loadMapData().then((mapData) => {
+    renderMap(el.querySelector('#map'), {
+      mapData,
+      records: store.all,
+      onSelect: (acNo) => { window.location.hash = `#/c/${acNo}`; }
     });
-    addDistrictOutline(map, districts);
-    map.resize();
-    map.fitBounds(boundsOf(constituencies), { padding: 24, duration: 0 });
   });
 
   const slot = el.querySelector('#search-slot');

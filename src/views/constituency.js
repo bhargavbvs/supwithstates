@@ -1,5 +1,5 @@
 import { store } from '../store.js';
-import { formatRupees, formatDeclaredCases, escapeHtml } from '../format.js';
+import { formatRupees, formatDeclaredCases, severityOf, SEVERITY_LABEL, escapeHtml } from '../format.js';
 
 const initials = (name) =>
   name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
@@ -13,7 +13,10 @@ export function renderConstituency(el, param) {
 
   const { constituency: ac, representative: rep, result, source } = rec;
   const cases = formatDeclaredCases(rep.declared_cases);
+  const sev = severityOf(rep.declared_cases);
   const districtSlug = store.slugify(ac.district);
+  const maxAsset = Math.max(rep.assets.movable, rep.assets.immovable, 1);
+  const barWidth = (v) => `${Math.min(100, (v / maxAsset) * 100).toFixed(1)}%`;
 
   const photo = rep.photo
     ? `<img class="photo" src="${escapeHtml(rep.photo.url)}" alt="${escapeHtml(rep.name)}" />
@@ -36,6 +39,7 @@ export function renderConstituency(el, param) {
            · ${escapeHtml(rep.current_party)}${rep.profession ? ` · ${escapeHtml(rep.profession)}` : ''}</p>
       </div>
     </header>
+    <span class="sev-badge sev-${sev}">${escapeHtml(SEVERITY_LABEL[sev])}</span>
     ${defected}
 
     <p class="disclaimer">${cases.disclaimer}</p>
@@ -57,11 +61,25 @@ export function renderConstituency(el, param) {
 
     <section>
       <h2>Declared assets</h2>
-      <dl>
-        <dt>Movable</dt><dd>${formatRupees(rep.assets.movable)}</dd>
-        <dt>Immovable</dt><dd>${formatRupees(rep.assets.immovable)}</dd>
+      <div class="asset-bars">
+        <div class="asset-bar">
+          <span>Movable</span>
+          <span class="track"><span class="fill" style="width:${barWidth(rep.assets.movable)}"></span></span>
+          <span>${formatRupees(rep.assets.movable)}</span>
+        </div>
+        <div class="asset-bar">
+          <span>Immovable</span>
+          <span class="track"><span class="fill" style="width:${barWidth(rep.assets.immovable)}"></span></span>
+          <span>${formatRupees(rep.assets.immovable)}</span>
+        </div>
+        <div class="asset-bar liabilities">
+          <span>Liabilities</span>
+          <span class="track"><span class="fill" style="width:${barWidth(rep.assets.liabilities)}"></span></span>
+          <span>${formatRupees(rep.assets.liabilities)}</span>
+        </div>
+      </div>
+      <dl style="margin-top: 0.9rem">
         <dt>Total</dt><dd><b>${formatRupees(rep.assets.total)}</b></dd>
-        <dt>Liabilities</dt><dd>${formatRupees(rep.assets.liabilities)}</dd>
       </dl>
     </section>
 
