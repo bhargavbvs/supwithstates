@@ -1,0 +1,35 @@
+{
+  "id": "deepam-cylinders",
+  "promise_set": "nda-2024",
+  "parties": [
+    "TDP",
+    "JSP",
+    "BJP"
+  ],
+  "headline": "3 free gas cylinders annually",
+  "original_text": "Deepam Scheme: Provision of three free cooking gas cylinders annually to every household.",
+  "original_source": {
+    "label": "NDA Manifesto 2024",
+    "url": "https://ap.gov.in"
+  },
+  "explainer": "Subsidizes cooking gas for all eligible households.",
+  "category": "welfare",
+  "beneficiaries": "All eligible households",
+  "status": "in_progress",
+  "status_since": "2024-11-01",
+  "status_reason": "The Deepam 2.0 scheme was launched on November 1, 2024, rolling out the distribution of 3 free LPG cylinders.",
+  "evidence": [
+    {
+      "date": "2024-06-12",
+      "type": "official",
+      "label": "Manifesto pledge",
+      "url": "https://ap.gov.in"
+    },
+    {
+      "date": "2024-11-01",
+      "type": "news",
+      "label": "Deepam 2.0 Launch",
+      "url": "https://www.thehindu.com/"
+    }
+  ]
+}

@@ -4,6 +4,7 @@ import { renderHome } from './views/home.js';
 import { renderDistrict } from './views/district.js';
 import { renderConstituency } from './views/constituency.js';
 import { renderStatic } from './views/static.js';
+import { renderPromises } from './views/promises.js';
 
 const app = document.getElementById('app');
 
@@ -11,6 +12,7 @@ const views = {
   home: renderHome,
   district: renderDistrict,
   constituency: renderConstituency,
+  promises: renderPromises,
   methodology: (el, p) => renderStatic(el, 'methodology'),
   about: (el, p) => renderStatic(el, 'about')
 };

@@ -27,12 +27,28 @@ const pages = existsSync(pagesDir)
       .map((f) => [f.replace(/\.md$/, ''), readFileSync(join(pagesDir, f), 'utf8')]))
   : {};
 
+const promiseSetsDir = join(stateDir, 'promise-sets');
+const promiseSets = existsSync(promiseSetsDir)
+  ? readdirSync(promiseSetsDir)
+      .filter((f) => f.endsWith('.json'))
+      .map((f) => JSON.parse(readFileSync(join(promiseSetsDir, f), 'utf8')))
+  : [];
+
+const promisesDir = join(stateDir, 'promises');
+const promises = existsSync(promisesDir)
+  ? readdirSync(promisesDir)
+      .filter((f) => f.endsWith('.json'))
+      .map((f) => JSON.parse(readFileSync(join(promisesDir, f), 'utf8')))
+  : [];
+
 const out = join(publicDir, 'data.json');
 writeFileSync(out, JSON.stringify({
   state,
   stats: computeStats(constituencies),
   pages,
-  constituencies
+  constituencies,
+  promiseSets,
+  promises
 }));
 
 cpSync(join(stateDir, 'geo'), join(publicDir, 'geo'), { recursive: true });

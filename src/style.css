@@ -1153,3 +1153,185 @@ dd {
     grid-template-columns: 70px 1fr auto;
   }
 }
+
+/* ---- Header & Nav ---- */
+#site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  background: var(--panel);
+  border-bottom: 1px solid var(--line);
+  z-index: 10;
+  position: relative;
+}
+
+#site-header .logo {
+  font-family: var(--font-display);
+  font-weight: 700;
+  color: var(--accent-ink);
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+#site-header nav {
+  display: flex;
+  gap: 1rem;
+}
+
+#site-header nav a {
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+#site-header nav a:hover {
+  color: var(--accent-ink);
+}
+
+/* ---- Promises Tracker ---- */
+.tracker-header {
+  margin-bottom: 1.5rem;
+}
+
+.promises-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.promise-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+}
+
+.promise-head {
+  margin-bottom: 1rem;
+}
+
+.promise-headline {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.promise-headline h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  letter-spacing: -0.01em;
+  font-family: var(--font-display);
+}
+
+.status-chip {
+  flex: 0 0 auto;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: var(--line);
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.status-chip.not_started { background: var(--sev--1); color: #fff; }
+.status-chip.announced { background: #3b82f6; color: #fff; }
+.status-chip.in_progress { background: var(--sev-1); color: #3a2900; }
+.status-chip.delivered { background: var(--sev-0); color: #fff; }
+.status-chip.diluted { background: var(--sev-2); color: #fff; }
+.status-chip.stalled { background: var(--sev-3); color: #fff; }
+
+.category-tag {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--faint);
+  font-weight: 700;
+}
+
+.promise-body {
+  margin-bottom: 1.5rem;
+}
+
+.explainer {
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.original-text blockquote {
+  margin: 0.5rem 0 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg);
+  border-left: 3px solid var(--line);
+  color: var(--muted);
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+.status-reason {
+  font-size: 0.9rem;
+  background: var(--accent-soft);
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-sm);
+  color: var(--accent-ink);
+}
+
+.status-reason .since {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  opacity: 0.8;
+}
+
+.promise-evidence h4 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: var(--faint);
+  letter-spacing: 0.05em;
+  margin: 0 0 0.5rem;
+}
+
+.promise-evidence ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.evidence-item {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  font-size: 0.85rem;
+}
+
+.evidence-item .ev-date {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  flex: 0 0 85px;
+}
+
+.evidence-item .ev-label a {
+  text-decoration: none;
+}
+
+.evidence-item .ev-label a:hover {
+  text-decoration: underline;
+}
+
+.evidence-item .tag {
+  font-size: 0.65rem;
+  padding: 0.1rem 0.4rem;
+  background: var(--line);
+  border-radius: 4px;
+  color: var(--muted);
+  text-transform: uppercase;
+}

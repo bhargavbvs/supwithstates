@@ -11,6 +11,8 @@ export const store = {
   get stats() { return data.stats; },
   get pages() { return data.pages; },
   get all() { return data.constituencies; },
+  get promises() { return data.promises ?? []; },
+  get promiseSets() { return data.promiseSets ?? []; },
   byNumber(n) {
     return data.constituencies.find((c) => c.constituency.number === Number(n)) ?? null;
   },

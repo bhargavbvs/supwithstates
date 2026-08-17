@@ -1,0 +1,29 @@
+{
+  "id": "annadata-sukhibhava",
+  "promise_set": "nda-2024",
+  "parties": [
+    "TDP",
+    "JSP",
+    "BJP"
+  ],
+  "headline": "₹20,000 per year for farmers",
+  "original_text": "Annadata Sukhibhava: An annual financial assistance of ₹20,000 to every farmer.",
+  "original_source": {
+    "label": "NDA Manifesto 2024",
+    "url": "https://ap.gov.in"
+  },
+  "explainer": "Direct cash transfer to farmers to help with agricultural input costs.",
+  "category": "agriculture",
+  "beneficiaries": "Farmers in AP",
+  "status": "not_started",
+  "status_since": "2024-06-12",
+  "status_reason": "Pending rollout.",
+  "evidence": [
+    {
+      "date": "2024-06-12",
+      "type": "official",
+      "label": "Manifesto pledge",
+      "url": "https://ap.gov.in"
+    }
+  ]
+}

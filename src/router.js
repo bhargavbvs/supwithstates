@@ -5,6 +5,7 @@ export function parseRoute(hash) {
   const [head, param = null] = path.split('/');
   if (head === 'd' && param) return { view: 'district', param };
   if (head === 'c' && param) return { view: 'constituency', param };
+  if (head === 'promises') return { view: 'promises', param: null };
   if (head === 'methodology') return { view: 'methodology', param: null };
   if (head === 'about') return { view: 'about', param: null };
   return { view: 'home', param: null };

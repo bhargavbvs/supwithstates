@@ -1,0 +1,35 @@
+{
+  "id": "free-bus-women",
+  "promise_set": "nda-2024",
+  "parties": [
+    "TDP",
+    "JSP",
+    "BJP"
+  ],
+  "headline": "Free bus travel for women",
+  "original_text": "Free travel for women in state-run RTC buses under the Super Six guarantees.",
+  "original_source": {
+    "label": "NDA Manifesto 2024",
+    "url": "https://ap.gov.in"
+  },
+  "explainer": "Women across Andhra Pradesh can travel for free in standard state-run buses.",
+  "category": "transport",
+  "beneficiaries": "All women in AP",
+  "status": "delivered",
+  "status_since": "2025-08-15",
+  "status_reason": "The Stree Shakti scheme was launched on August 15, 2025, providing free travel for women in APSRTC buses.",
+  "evidence": [
+    {
+      "date": "2024-06-12",
+      "type": "news",
+      "label": "News report of announcement",
+      "url": "https://www.thehindu.com/"
+    },
+    {
+      "date": "2025-08-15",
+      "type": "official",
+      "label": "Stree Shakti Launch",
+      "url": "https://ap.gov.in"
+    }
+  ]
+}
