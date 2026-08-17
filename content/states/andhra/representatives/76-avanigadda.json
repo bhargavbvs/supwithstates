@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-76-avanigadda",
-  "constituency": { "number": 76, "name": "Avanigadda", "district": "Krishna", "reserved": null },
+  "constituency": {
+    "number": 76,
+    "name": "Avanigadda",
+    "district": "Krishna",
+    "reserved": null
+  },
   "representative": {
     "name": "Mandali Buddha Prasad",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Agriculture",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mandali_Buddha_Prasad_in_August_2015.JPG", "credit": "Strike Eagle", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Graduate", "detail": "B.A., New Government College, Hyderabad (Osmania University), 1977" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
-    "assets": { "movable": 3292036, "immovable": 16064000, "total": 19356036, "liabilities": 5933974 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mandali_Buddha_Prasad_in_August_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Strike Eagle",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mandali_Buddha_Prasad_in_August_2015.JPG"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., New Government College, Hyderabad (Osmania University), 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases in the candidate's 2024 affidavit."
+    },
+    "assets": {
+      "movable": 3292036,
+      "immovable": 16064000,
+      "total": 19356036,
+      "liabilities": 5933974
+    }
   },
-  "result": { "votes": 113460, "margin": 46434, "runner_up": "Simhadri Ramesh Babu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 113460,
+    "margin": 46434,
+    "runner_up": "Simhadri Ramesh Babu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2662",
     "retrieved": "2026-08-16"

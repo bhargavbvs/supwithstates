@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-39-peddapuram",
-  "constituency": { "number": 39, "name": "Peddapuram", "district": "Kakinada", "reserved": null },
+  "constituency": {
+    "number": 39,
+    "name": "Peddapuram",
+    "district": "Kakinada",
+    "reserved": null
+  },
   "representative": {
     "name": "China Rajappa Nimmakayala",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 71,
     "profession": "Cultivation",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_Deputy_Chief_Minister_%26_Home_Minister%2C_Shri_N._Chinarajappa_addressing_at_the_Public_Information_Campaign%2C_at_Yemmiganur%2C_Kurnool_district%2C_Andhra_Pradesh_on_October_09%2C_2015_%28cropped%29.jpg", "credit": "Ministry of Information and Broadcasting", "license": "GODL-India" },
-    "education": { "level": "Graduate", "detail": "B.A., SKBR College, Amalapuram, 1978" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_Deputy_Chief_Minister_%26_Home_Minister%2C_Shri_N._Chinarajappa_addressing_at_the_Public_Information_Campaign%2C_at_Yemmiganur%2C_Kurnool_district%2C_Andhra_Pradesh_on_October_09%2C_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Ministry of Information and Broadcasting",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Deputy_Chief_Minister_%26_Home_Minister,_Shri_N._Chinarajappa_addressing_at_the_Public_Information_Campaign,_at_Yemmiganur,_Kurnool_district,_Andhra_Pradesh_on_October_09,_2015_(cropped).jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., SKBR College, Amalapuram, 1978"
+    },
     "declared_cases": {
       "total": 17,
       "serious": 1,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Only 1 of 17 cases qualifies (IPC 494, marrying again during the lifetime of a spouse, max 7yr, alongside 188/506/114/511/34 and SC/ST POA Act/Disaster Management Act citations); the rest are CrPC 151 or minor public-order sections. No charges framed, zero convictions."
     },
-    "assets": { "movable": 10445141, "immovable": 18500000, "total": 28945141, "liabilities": 1799800 }
+    "assets": {
+      "movable": 10445141,
+      "immovable": 18500000,
+      "total": 28945141,
+      "liabilities": 1799800
+    }
   },
-  "result": { "votes": 105685, "margin": 40451, "runner_up": "Davuluri Dorababu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 105685,
+    "margin": 40451,
+    "runner_up": "Davuluri Dorababu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=269",
     "retrieved": "2026-08-16"

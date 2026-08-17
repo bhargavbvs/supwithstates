@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-155-raptadu",
-  "constituency": { "number": 155, "name": "Raptadu", "district": "Ananthapuramu", "reserved": null },
+  "constituency": {
+    "number": 155,
+    "name": "Raptadu",
+    "district": "Ananthapuramu",
+    "reserved": null
+  },
   "representative": {
     "name": "Paritala Sunithamma",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Agriculture",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Paritala_Suneetha_%28cropped%29.jpg", "credit": "Ntrtrust", "license": "CC BY-SA 4.0" },
-    "education": { "level": "8th Pass", "detail": "8th Std, Government High School (G.V.Z.P.H. School), Dharmavaram, 1983" },
-    "declared_cases": { "total": 8, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 8 pending cases (sections spanning IPC 34, 143, 149, 153, 188, 341, and CrPC 151) reach that threshold. No charges framed in any case, no convictions." },
-    "assets": { "movable": 11225055, "immovable": 328623820, "total": 339848875, "liabilities": 3174615 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Paritala_Suneetha_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Ntrtrust",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paritala_Suneetha_(cropped).jpg"
+    },
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Std, Government High School (G.V.Z.P.H. School), Dharmavaram, 1983"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 8 pending cases (sections spanning IPC 34, 143, 149, 153, 188, 341, and CrPC 151) reach that threshold. No charges framed in any case, no convictions."
+    },
+    "assets": {
+      "movable": 11225055,
+      "immovable": 328623820,
+      "total": 339848875,
+      "liabilities": 3174615
+    }
   },
-  "result": { "votes": 116140, "margin": 23329, "runner_up": "Thopudurthi Prakash Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 116140,
+    "margin": 23329,
+    "runner_up": "Thopudurthi Prakash Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=248",
     "retrieved": "2026-08-16"

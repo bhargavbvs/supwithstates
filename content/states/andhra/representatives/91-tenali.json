@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-91-tenali",
-  "constituency": { "number": 91, "name": "Tenali", "district": "Guntur", "reserved": null },
+  "constituency": {
+    "number": 91,
+    "name": "Tenali",
+    "district": "Guntur",
+    "reserved": null
+  },
   "representative": {
     "name": "Nadendla Manohar",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Consultation, Social Service",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nadendla_Manohar_AP_Speaker.jpg", "credit": "Gpsatsangi", "license": "CC BY-SA 3.0" },
-    "education": { "level": "Post Graduate", "detail": "MBA, Osmania University, 1985-87" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
-    "assets": { "movable": 40100604, "immovable": 188855000, "total": 228955604, "liabilities": 44441091 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nadendla_Manohar_AP_Speaker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Gpsatsangi",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nadendla_Manohar_AP_Speaker.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, Osmania University, 1985-87"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases in the candidate's 2024 affidavit."
+    },
+    "assets": {
+      "movable": 40100604,
+      "immovable": 188855000,
+      "total": 228955604,
+      "liabilities": 44441091
+    }
   },
-  "result": { "votes": 123961, "margin": 48112, "runner_up": "Annabathuni Siva Kumar", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 123961,
+    "margin": 48112,
+    "runner_up": "Annabathuni Siva Kumar",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=802",
     "retrieved": "2026-08-16"

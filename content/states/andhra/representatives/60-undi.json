@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-60-undi",
-  "constituency": { "number": 60, "name": "Undi", "district": "West Godavari", "reserved": null },
+  "constituency": {
+    "number": 60,
+    "name": "Undi",
+    "district": "West Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Kanumuru Raghu Rama Krishna Raju",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 61,
     "profession": "Member of Parliament",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Raghu_Rama_Krishna_Raju_%28cropped%29.jpg", "credit": "Ganga Prasad Degala", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Post Graduate", "detail": "M.Pharma, Andhra University, Visakhapatnam, 1986" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Raghu_Rama_Krishna_Raju_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Ganga Prasad Degala",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Raghu_Rama_Krishna_Raju_(cropped).jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Pharma, Andhra University, Visakhapatnam, 1986"
+    },
     "declared_cases": {
       "total": 19,
       "serious": 10,

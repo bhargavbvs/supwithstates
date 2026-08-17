@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-42-ramachandrapuram",
-  "constituency": { "number": 42, "name": "Ramachandrapuram", "district": "Dr. B.R. Ambedkar Konaseema", "reserved": null },
+  "constituency": {
+    "number": 42,
+    "name": "Ramachandrapuram",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "reserved": null
+  },
   "representative": {
     "name": "Vasamsetti Subash",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 46,
     "profession": "Cultivation & Business",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vasamsetti_Subhash.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
-    "education": { "level": "Graduate", "detail": "LLB, C.R. Reddy College, Eluru, 2004" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vasamsetti_Subhash.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Election Commission of India",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vasamsetti_Subhash.jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "LLB, C.R. Reddy College, Eluru, 2004"
+    },
     "declared_cases": {
       "total": 12,
       "serious": 6,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. 6 of 12 cases qualify: four involve IPC 307 (attempt to murder), two of those also carry 435/436 (mischief by fire, max 7yr-life) or 452 (house-trespass after preparation for hurt, max 7yr); one is a standalone IPC 420 (cheating, max 7yr) case; one is a corruption case under IPC 120B/307/452/436 with SC/ST POA Act. The rest (wrongful restraint, unlawful assembly, minor disobedience sections) top out under 5yr. Charges have been framed in 5 of the 12 cases (a mix of serious and non-serious); zero convictions in any."
     },
-    "assets": { "movable": 4335494, "immovable": 14000000, "total": 18335494, "liabilities": 2566793 }
+    "assets": {
+      "movable": 4335494,
+      "immovable": 14000000,
+      "total": 18335494,
+      "liabilities": 2566793
+    }
   },
-  "result": { "votes": 97652, "margin": 26291, "runner_up": "Pilli Suryaprakash", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 97652,
+    "margin": 26291,
+    "runner_up": "Pilli Suryaprakash",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=267",
     "retrieved": "2026-08-16"

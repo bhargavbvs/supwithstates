@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-139-nandyal",
-  "constituency": { "number": 139, "name": "Nandyal", "district": "Nandyal", "reserved": null },
+  "constituency": {
+    "number": 139,
+    "name": "Nandyal",
+    "district": "Nandyal",
+    "reserved": null
+  },
   "representative": {
     "name": "Nasyam Mohammed Farook",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 73,
     "profession": "Business and Politics",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sri_N._M._D._Farooq.jpg", "credit": "Andhra Pradesh State Minorities Finance Corporation, Government of Andhra Pradesh", "license": "GODL-India" },
-    "education": { "level": "10th Pass", "detail": "Matriculation, Municipal High School, Nandyal" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 3, "note": "Serious = at least one section carries a maximum sentence of 5+ years. No case qualifies: all three are convictions (29 Jul 2016, Judicial First Class Magistrate for Railways, Guntur) under Railway Act Sec. 174(a) (traveling without proper pass/ticket), each resulting only in a Rs 500 fine, no appeal filed. No cases are currently pending." },
-    "assets": { "movable": 125335000, "immovable": 116500000, "total": 241835000, "liabilities": 0 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sri_N._M._D._Farooq.jpg",
+      "credit": "Andhra Pradesh State Minorities Finance Corporation, Government of Andhra Pradesh",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sri_N._M._D._Farooq.jpg"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation, Municipal High School, Nandyal"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 3,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. No case qualifies: all three are convictions (29 Jul 2016, Judicial First Class Magistrate for Railways, Guntur) under Railway Act Sec. 174(a) (traveling without proper pass/ticket), each resulting only in a Rs 500 fine, no appeal filed. No cases are currently pending."
+    },
+    "assets": {
+      "movable": 125335000,
+      "immovable": 116500000,
+      "total": 241835000,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 103075, "margin": 12333, "runner_up": "Silpa Ravi Chandra Kishore Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 103075,
+    "margin": 12333,
+    "runner_up": "Silpa Ravi Chandra Kishore Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=129",
     "retrieved": "2026-08-16"

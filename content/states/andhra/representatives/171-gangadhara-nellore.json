@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-171-gangadhara-nellore",
-  "constituency": { "number": 171, "name": "Gangadhara Nellore", "district": "Chittoor", "reserved": "SC" },
+  "constituency": {
+    "number": 171,
+    "name": "Gangadhara Nellore",
+    "district": "Chittoor",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Vadingadu Munaswamy Thomas",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Medical Profession",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/V_M_Thomas.jpg", "credit": "Satishreddy1990", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Doctorate", "detail": "PhD (Zoology), Karnataka University, Dharwad, 2000" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/V_M_Thomas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Satishreddy1990",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:V_M_Thomas.jpg"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "PhD (Zoology), Karnataka University, Dharwad, 2000"
+    },
     "declared_cases": {
       "total": 5,
       "serious": 4,

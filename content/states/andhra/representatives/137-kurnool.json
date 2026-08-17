@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-137-kurnool",
-  "constituency": { "number": 137, "name": "Kurnool", "district": "Kurnool", "reserved": null },
+  "constituency": {
+    "number": 137,
+    "name": "Kurnool",
+    "district": "Kurnool",
+    "reserved": null
+  },
   "representative": {
     "name": "T.G. Bharath",
     "election": "2024",
@@ -10,9 +15,22 @@
     "term_start": "2024-06",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/T._G._Bharath.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
-    "education": { "level": "Post Graduate", "detail": "MBA, Cardiff University, U.K., 1999" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/T._G._Bharath.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Election Commission of India",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T._G._Bharath.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, Cardiff University, U.K., 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
     "assets": {
       "movable": 830823821,
       "immovable": 1951971500,

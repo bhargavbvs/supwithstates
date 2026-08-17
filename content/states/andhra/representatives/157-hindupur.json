@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-157-hindupur",
-  "constituency": { "number": 157, "name": "Hindupur", "district": "Sri Sathya Sai", "reserved": null },
+  "constituency": {
+    "number": 157,
+    "name": "Hindupur",
+    "district": "Sri Sathya Sai",
+    "reserved": null
+  },
   "representative": {
     "name": "Nandamuri Balakrishna",
     "election": "2024",
@@ -10,9 +15,22 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Movie Artiste",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Padma_Bhushan_Award_to_Shri_Nandamuri_Balakrishna_at_the_Rashtrapati_Bhavan_%28cropped%29.jpg", "credit": "President's Secretariat", "license": "GODL-India" },
-    "education": { "level": "Graduate", "detail": "B.A., Nizam College, Osmania University, Hyderabad, 1981" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Padma_Bhushan_Award_to_Shri_Nandamuri_Balakrishna_at_the_Rashtrapati_Bhavan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "President's Secretariat",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Padma_Bhushan_Award_to_Shri_Nandamuri_Balakrishna_at_the_Rashtrapati_Bhavan_(cropped).jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., Nizam College, Osmania University, Hyderabad, 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
     "assets": {
       "movable": 2830706600,
       "immovable": 1998974354,

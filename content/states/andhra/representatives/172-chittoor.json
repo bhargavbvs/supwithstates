@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-172-chittoor",
-  "constituency": { "number": 172, "name": "Chittoor", "district": "Chittoor", "reserved": null },
+  "constituency": {
+    "number": 172,
+    "name": "Chittoor",
+    "district": "Chittoor",
+    "reserved": null
+  },
   "representative": {
     "name": "Gurajala Jagan Mohan",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Business and Social Service Activities",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gurajala-Jagan-Mohan-Interview-2017.jpg", "credit": "SravanSuhas", "license": "CC0 1.0" },
-    "education": { "level": "5th Pass", "detail": "6th Std, Kings English Medium High School, Chittoor, 1995" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gurajala-Jagan-Mohan-Interview-2017.jpg",
+      "credit": "SravanSuhas",
+      "license": "CC0 1.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gurajala-Jagan-Mohan-Interview-2017.jpg"
+    },
+    "education": {
+      "level": "5th Pass",
+      "detail": "6th Std, Kings English Medium High School, Chittoor, 1995"
+    },
     "declared_cases": {
       "total": 1,
       "serious": 0,

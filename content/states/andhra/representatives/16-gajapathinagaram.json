@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-16-gajapathinagaram",
-  "constituency": { "number": 16, "name": "Gajapathinagaram", "district": "Vizianagaram", "reserved": null },
+  "constituency": {
+    "number": 16,
+    "name": "Gajapathinagaram",
+    "district": "Vizianagaram",
+    "reserved": null
+  },
   "representative": {
     "name": "Kondapalli Srinivas",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Social Service, Politics and Business",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kondapalli_Srinivas_at_CII_Partnership_Summit_2025%2C_Visakhapatnam.jpg", "credit": "Saiphani02", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Post Graduate", "detail": "M.S. Computer Science, Ball State University, USA" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 188) tops out under 5yr. No charges framed, zero convictions." },
-    "assets": { "movable": 35076501, "immovable": 120700000, "total": 155776501, "liabilities": 14975487 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kondapalli_Srinivas_at_CII_Partnership_Summit_2025%2C_Visakhapatnam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Saiphani02",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kondapalli_Srinivas_at_CII_Partnership_Summit_2025,_Visakhapatnam.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. Computer Science, Ball State University, USA"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 188) tops out under 5yr. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 35076501,
+      "immovable": 120700000,
+      "total": 155776501,
+      "liabilities": 14975487
+    }
   },
-  "result": { "votes": 98051, "margin": 25301, "runner_up": "Botcha Appalanarasayya", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 98051,
+    "margin": 25301,
+    "runner_up": "Botcha Appalanarasayya",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=97",
     "retrieved": "2026-08-16"

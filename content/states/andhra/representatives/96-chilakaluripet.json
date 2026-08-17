@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-96-chilakaluripet",
-  "constituency": { "number": 96, "name": "Chilakaluripet", "district": "Palnadu", "reserved": null },
+  "constituency": {
+    "number": 96,
+    "name": "Chilakaluripet",
+    "district": "Palnadu",
+    "reserved": null
+  },
   "representative": {
     "name": "Prathipati Pullarao",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Business",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Prattipati_Pulla_Rao_on_December_29%2C_2014_%28cropped%29.jpg", "credit": "Ministry of Information & Broadcasting (Government of India)", "license": "GODL-India" },
-    "education": { "level": "Graduate", "detail": "B.Com, VRS & YRN College, Chirala, 1981" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Prattipati_Pulla_Rao_on_December_29%2C_2014_%28cropped%29.jpg",
+      "credit": "Ministry of Information & Broadcasting (Government of India)",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prattipati_Pulla_Rao_on_December_29,_2014_(cropped).jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, VRS & YRN College, Chirala, 1981"
+    },
     "declared_cases": {
       "total": 13,
       "serious": 3,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. 3 of 13 cases qualify: one involves IPC 435 (mischief by fire, max 7yr); two involve IPC 420 (cheating, max 7yr, one alongside 471 forgery). The remaining 10 (unlawful-assembly/wrongful-restraint/public-order sections) top out under 5yr. No charges framed, zero convictions."
     },
-    "assets": { "movable": 755688171, "immovable": 192194127, "total": 947882298, "liabilities": 407478809 }
+    "assets": {
+      "movable": 755688171,
+      "immovable": 192194127,
+      "total": 947882298,
+      "liabilities": 407478809
+    }
   },
-  "result": { "votes": 111062, "margin": 33262, "runner_up": "Kavati Siva Naga Manohar Naidu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 111062,
+    "margin": 33262,
+    "runner_up": "Kavati Siva Naga Manohar Naidu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=312",
     "retrieved": "2026-08-16"

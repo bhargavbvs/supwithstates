@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-140-banaganapalle",
-  "constituency": { "number": 140, "name": "Banaganapalle", "district": "Nandyal", "reserved": null },
+  "constituency": {
+    "number": 140,
+    "name": "Banaganapalle",
+    "district": "Nandyal",
+    "reserved": null
+  },
   "representative": {
     "name": "Bobbala Chinnolla Janardhan Reddy",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Business & Politician",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/B._C._Janardhan_Reddy.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
-    "education": { "level": "Graduate", "detail": "B.A. (Economics, Public Administration, Political Science), Acharya Nagarjuna University, 2017" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/B._C._Janardhan_Reddy.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Election Commission of India",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:B._C._Janardhan_Reddy.jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Economics, Public Administration, Political Science), Acharya Nagarjuna University, 2017"
+    },
     "declared_cases": {
       "total": 9,
       "serious": 1,

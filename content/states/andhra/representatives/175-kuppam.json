@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-175-kuppam",
-  "constituency": { "number": 175, "name": "Kuppam", "district": "Chittoor", "reserved": null },
+  "constituency": {
+    "number": 175,
+    "name": "Kuppam",
+    "district": "Chittoor",
+    "reserved": null
+  },
   "representative": {
     "name": "Chandrababu Naidu Nara",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 74,
     "profession": "Social Service (Politician)",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_portrait_of_CM_Shri_Nara_Chandrababu_Naidu.jpg", "credit": "Prime Minister's Office", "license": "GODL-India" },
-    "education": { "level": "Post Graduate", "detail": "M.A., S.V.U College, Tirupati, 1974" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_portrait_of_CM_Shri_Nara_Chandrababu_Naidu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_portrait_of_CM_Shri_Nara_Chandrababu_Naidu.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A., S.V.U College, Tirupati, 1974"
+    },
     "declared_cases": {
       "total": 19,
       "serious": 9,

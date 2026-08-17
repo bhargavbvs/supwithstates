@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-88-ponnur",
-  "constituency": { "number": 88, "name": "Ponnur", "district": "Guntur", "reserved": null },
+  "constituency": {
+    "number": 88,
+    "name": "Ponnur",
+    "district": "Guntur",
+    "reserved": null
+  },
   "representative": {
     "name": "Dhulipalla Narendra Kumar",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 56,
     "profession": "Agriculture",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dhulipalla_Narendra_Kumar.jpg", "credit": "Juggernaut4AP", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Graduate", "detail": "B.Tech, Mysore University, 1989" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dhulipalla_Narendra_Kumar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Juggernaut4AP",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dhulipalla_Narendra_Kumar.jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Tech, Mysore University, 1989"
+    },
     "declared_cases": {
       "total": 16,
       "serious": 5,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Estimated 5 of 16 cases qualify - the affidavit's section tally includes single (1x) occurrences of IPC 452 (house-trespass after preparation for hurt, max 7yr), 307 (attempt to murder, max life), 408 (breach of trust by a clerk, max 7yr), 409 (breach of trust by a public servant, max life), and 420 (cheating, max 7yr), each distinct from the heavily-repeated minor public-order sections (341/143/149/188/269/etc, appearing 4-10x each). No charges framed, zero convictions."
     },
-    "assets": { "movable": 41295405, "immovable": 82385772, "total": 123681177, "liabilities": 28455738 }
+    "assets": {
+      "movable": 41295405,
+      "immovable": 82385772,
+      "total": 123681177,
+      "liabilities": 28455738
+    }
   },
-  "result": { "votes": 110410, "margin": 32915, "runner_up": "Ambati Murali Krishna", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 110410,
+    "margin": 32915,
+    "runner_up": "Ambati Murali Krishna",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=463",
     "retrieved": "2026-08-16"

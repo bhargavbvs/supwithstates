@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-146-adoni",
-  "constituency": { "number": 146, "name": "Adoni", "district": "Kurnool", "reserved": null },
+  "constituency": {
+    "number": 146,
+    "name": "Adoni",
+    "district": "Kurnool",
+    "reserved": null
+  },
   "representative": {
     "name": "Podala Venkata Parthasarathi",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 53,
     "profession": "Doctor; Managing Director, Partha Dental Care India Pvt. Ltd. and related dental/cosmetology businesses",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dr_parathasarathi.jpg", "credit": "Drparthabjp", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Post Graduate", "detail": "MDS (Master of Dental Surgery), Pedodontics, Government Dental College, Hyderabad, NTR University of Health Sciences, 1997" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 pending cases (IPC 171F/171H/34/188, all election/public-order related) reach that threshold; MyNeta's own 'serious' flag for this candidate reflects its broader electoral-offence classification, not the 5-year statutory test used here. No charges framed in any case, no convictions." },
-    "assets": { "movable": 171465196, "immovable": 600200000, "total": 771665196, "liabilities": 179893106 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dr_parathasarathi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Drparthabjp",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dr_parathasarathi.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MDS (Master of Dental Surgery), Pedodontics, Government Dental College, Hyderabad, NTR University of Health Sciences, 1997"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 pending cases (IPC 171F/171H/34/188, all election/public-order related) reach that threshold; MyNeta's own 'serious' flag for this candidate reflects its broader electoral-offence classification, not the 5-year statutory test used here. No charges framed in any case, no convictions."
+    },
+    "assets": {
+      "movable": 171465196,
+      "immovable": 600200000,
+      "total": 771665196,
+      "liabilities": 179893106
+    }
   },
-  "result": { "votes": 89929, "margin": 18164, "runner_up": "Y. Sai Prasad Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 89929,
+    "margin": 18164,
+    "runner_up": "Y. Sai Prasad Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=83",
     "retrieved": "2026-08-16"

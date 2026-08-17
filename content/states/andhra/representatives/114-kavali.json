@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-114-kavali",
-  "constituency": { "number": 114, "name": "Kavali", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "constituency": {
+    "number": 114,
+    "name": "Kavali",
+    "district": "Sri Potti Sriramulu Nellore",
+    "reserved": null
+  },
   "representative": {
     "name": "Dagumati Venkata Krishna Reddy",
     "election": "2024",
@@ -10,9 +15,22 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Agriculturist, Business & Politics",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/AR212413.jpg", "credit": "Kavalimla", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Post Graduate", "detail": "M.Com, S.V. University, Tirupati, 1990" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/AR212413.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Kavalimla",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:AR212413.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com, S.V. University, Tirupati, 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
     "assets": {
       "movable": 330572823,
       "immovable": 1202239900,

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-141-dhone",
-  "constituency": { "number": 141, "name": "Dhone", "district": "Nandyal", "reserved": null },
+  "constituency": {
+    "number": 141,
+    "name": "Dhone",
+    "district": "Nandyal",
+    "reserved": null
+  },
   "representative": {
     "name": "Kotla Jaya Surya Prakash Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 72,
     "profession": "Former Union Minister of State for Railways & Agriculturist",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Shri_Kotla_Jaya_Surya_Prakash_Reddy_taking_charge_as_the_Minister_of_State_for_Railways%2C_in_New_Delhi_on_October_29%2C_2012.jpg", "credit": "Ministry of Railways", "license": "GODL-India" },
-    "education": { "level": "Graduate", "detail": "BA, Nizam College, Osmania University, Hyderabad, 1972-73" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Cr No. 114/2024, Dhone Town PS; IPC 171E bribery, 188 disobedience to public servant order, 34) does not qualify. 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 217610905, "immovable": 202858245, "total": 420469150, "liabilities": 9490101 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Shri_Kotla_Jaya_Surya_Prakash_Reddy_taking_charge_as_the_Minister_of_State_for_Railways%2C_in_New_Delhi_on_October_29%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Ministry of Railways",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Shri_Kotla_Jaya_Surya_Prakash_Reddy_taking_charge_as_the_Minister_of_State_for_Railways,_in_New_Delhi_on_October_29,_2012.jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "BA, Nizam College, Osmania University, Hyderabad, 1972-73"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Cr No. 114/2024, Dhone Town PS; IPC 171E bribery, 188 disobedience to public servant order, 34) does not qualify. 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 217610905,
+      "immovable": 202858245,
+      "total": 420469150,
+      "liabilities": 9490101
+    }
   },
-  "result": { "votes": 93523, "margin": 6049, "runner_up": "Buggana Rajendranath Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 93523,
+    "margin": 6049,
+    "runner_up": "Buggana Rajendranath Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=159",
     "retrieved": "2026-08-16"

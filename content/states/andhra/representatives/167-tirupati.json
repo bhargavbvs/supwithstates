@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-167-tirupati",
-  "constituency": { "number": 167, "name": "Tirupati", "district": "Tirupati", "reserved": null },
+  "constituency": {
+    "number": 167,
+    "name": "Tirupati",
+    "district": "Tirupati",
+    "reserved": null
+  },
   "representative": {
     "name": "Arani Srinivasulu",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 72,
     "profession": "Member of Legislative Assembly & Business",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arani_Srinivasulu_2019-03-19.png", "credit": "Sakshi TV", "license": "CC BY 3.0" },
-    "education": { "level": "12th Pass", "detail": "B.A. Degree (Not Completed), 1970-74, PVKN Govt. Degree College, Chittoor (S.V. University, Tirupati)" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "Candidate declared zero pending criminal cases and zero convictions." },
-    "assets": { "movable": 215200501, "immovable": 614252600, "total": 829453101, "liabilities": 8266000 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Arani_Srinivasulu_2019-03-19.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Sakshi TV",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Arani_Srinivasulu_2019-03-19.png"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. Degree (Not Completed), 1970-74, PVKN Govt. Degree College, Chittoor (S.V. University, Tirupati)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Candidate declared zero pending criminal cases and zero convictions."
+    },
+    "assets": {
+      "movable": 215200501,
+      "immovable": 614252600,
+      "total": 829453101,
+      "liabilities": 8266000
+    }
   },
-  "result": { "votes": 124107, "margin": 61956, "runner_up": "Bhumana Abhinay Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 124107,
+    "margin": 61956,
+    "runner_up": "Bhumana Abhinay Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=449",
     "retrieved": "2026-08-16"

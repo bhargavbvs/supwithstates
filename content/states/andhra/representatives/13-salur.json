@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-13-salur",
-  "constituency": { "number": 13, "name": "Salur", "district": "Parvathipuram Manyam", "reserved": "ST" },
+  "constituency": {
+    "number": 13,
+    "name": "Salur",
+    "district": "Parvathipuram Manyam",
+    "reserved": "ST"
+  },
   "representative": {
     "name": "Gummidi Sandhyarani",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Social Service",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Smt._Gummadi_Sandhya_Rani.jpg", "credit": "Andhra Pradesh Tribal Welfare Department", "license": "Attribution" },
-    "education": { "level": "Graduate", "detail": "B.Sc., MR College, Andhra University, 1993" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (341/283/149/34; CrPC 151; 188/269/270) qualify. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 8686339, "immovable": 3998432, "total": 12684771, "liabilities": 1856890 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Smt._Gummadi_Sandhya_Rani.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Andhra Pradesh Tribal Welfare Department",
+      "license": "Attribution",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Smt._Gummadi_Sandhya_Rani.jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc., MR College, Andhra University, 1993"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (341/283/149/34; CrPC 151; 188/269/270) qualify. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 8686339,
+      "immovable": 3998432,
+      "total": 12684771,
+      "liabilities": 1856890
+    }
   },
-  "result": { "votes": 80211, "margin": 13733, "runner_up": "Peedika Rajanna Dora", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 80211,
+    "margin": 13733,
+    "runner_up": "Peedika Rajanna Dora",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=138",
     "retrieved": "2026-08-16"

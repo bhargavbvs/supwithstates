@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-82-mylavaram",
-  "constituency": { "number": 82, "name": "Mylavaram", "district": "NTR", "reserved": null },
+  "constituency": {
+    "number": 82,
+    "name": "Mylavaram",
+    "district": "NTR",
+    "reserved": null
+  },
   "representative": {
     "name": "Vasantha Venkata Krishna Prasad",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Public Service and Business",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Vasantha_Krishna_Prasad.png", "credit": "iNEWS", "license": "CC BY 3.0" },
-    "education": { "level": "10th Pass", "detail": "SSC, Sri Patibandla Sitaramaiah High School, 1985" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Vasantha_Krishna_Prasad.png",
+      "credit": "iNEWS",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vasantha_Krishna_Prasad.png"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC, Sri Patibandla Sitaramaiah High School, 1985"
+    },
     "declared_cases": {
       "total": 2,
       "serious": 2,
       "convicted": 0,
       "note": "Serious = at least one section carries a maximum sentence of 5+ years. Both cases qualify: a Prevention of Money Laundering Act case (Enforcement Directorate, max 7yr) and a CBI corruption case (IPC 120B/420/409, breach of trust by a public servant, max life). No charges framed, zero convictions."
     },
-    "assets": { "movable": 883223376, "immovable": 1005603237, "total": 1888826613, "liabilities": 483424774 }
+    "assets": {
+      "movable": 883223376,
+      "immovable": 1005603237,
+      "total": 1888826613,
+      "liabilities": 483424774
+    }
   },
-  "result": { "votes": 137338, "margin": 42829, "runner_up": "Sarnala Tirapath Rao", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 137338,
+    "margin": 42829,
+    "runner_up": "Sarnala Tirapath Rao",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=344",
     "retrieved": "2026-08-16"

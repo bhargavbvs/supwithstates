@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-34-narsipatnam",
-  "constituency": { "number": 34, "name": "Narsipatnam", "district": "Anakapalli", "reserved": null },
+  "constituency": {
+    "number": 34,
+    "name": "Narsipatnam",
+    "district": "Anakapalli",
+    "reserved": null
+  },
   "representative": {
     "name": "Ayyannapatrudu Chintakayala",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 66,
     "profession": "Politician",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ch._Ayyanna_Patrudu.jpg", "credit": "Mango News", "license": "CC BY 3.0" },
-    "education": { "level": "12th Pass", "detail": "Intermediate, Board of Secondary Education, Andhra Pradesh, 1975" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ch._Ayyanna_Patrudu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Mango News",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ch._Ayyanna_Patrudu.jpg"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, Board of Secondary Education, Andhra Pradesh, 1975"
+    },
     "declared_cases": {
       "total": 17,
       "serious": 1,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Only 1 of 17 cases qualifies (IPC 467, forgery of a valuable security, max life, alongside 464/471/474/120B); the rest are defamation, promoting-enmity, public-order, and quarantine-violation sections (153/153A/354A(i)(iv)/500/504/505/506/509/188/269/270/etc.), each under 5yr, or bare SC/ST Prevention of Atrocities Act citations without a specified serious clause. No cases show 'Charges Framed: Yes'; zero convictions."
     },
-    "assets": { "movable": 59307857, "immovable": 158924700, "total": 218232557, "liabilities": 28673579 }
+    "assets": {
+      "movable": 59307857,
+      "immovable": 158924700,
+      "total": 218232557,
+      "liabilities": 28673579
+    }
   },
-  "result": { "votes": 99849, "margin": 24676, "runner_up": "Petla Uma Sankara Ganesh", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 99849,
+    "margin": 24676,
+    "runner_up": "Petla Uma Sankara Ganesh",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=67",
     "retrieved": "2026-08-16"

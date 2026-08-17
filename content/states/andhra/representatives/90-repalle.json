@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-90-repalle",
-  "constituency": { "number": 90, "name": "Repalle", "district": "Bapatla", "reserved": null },
+  "constituency": {
+    "number": 90,
+    "name": "Repalle",
+    "district": "Bapatla",
+    "reserved": null
+  },
   "representative": {
     "name": "Anagani Satya Prasad",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Business, Agriculture and MLA Salary",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anagani_Satya_Prasad%2C_Revenue_Minister_of_A.P.jpg", "credit": "Department of Survey, Settlements and Land Records, Government of Andhra Pradesh", "license": "GODL-India" },
-    "education": { "level": "Graduate", "detail": "B.Sc., Anwar-ul-uloom Autonomous College, Hyderabad, 1993" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (341/143/149; 341/187/188/109/209/143/149; CrPC 151) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 80604107, "immovable": 124490502, "total": 205094609, "liabilities": 6284770 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anagani_Satya_Prasad%2C_Revenue_Minister_of_A.P.jpg",
+      "credit": "Department of Survey, Settlements and Land Records, Government of Andhra Pradesh",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Anagani_Satya_Prasad,_Revenue_Minister_of_A.P.jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc., Anwar-ul-uloom Autonomous College, Hyderabad, 1993"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (341/143/149; 341/187/188/109/209/143/149; CrPC 151) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 80604107,
+      "immovable": 124490502,
+      "total": 205094609,
+      "liabilities": 6284770
+    }
   },
-  "result": { "votes": 111129, "margin": 39947, "runner_up": "Evuru Ganesh", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 111129,
+    "margin": 39947,
+    "runner_up": "Evuru Ganesh",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=465",
     "retrieved": "2026-08-16"

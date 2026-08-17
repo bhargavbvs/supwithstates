@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-56-achanta",
-  "constituency": { "number": 56, "name": "Achanta", "district": "West Godavari", "reserved": null },
+  "constituency": {
+    "number": 56,
+    "name": "Achanta",
+    "district": "West Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Satyanarayana Pithani",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 71,
     "profession": "Political Service and Cultivation",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pithani_Satyanarayana_i_%28cropped%29.jpg", "credit": "Bathula Ganesh Goud", "license": "CC0" },
-    "education": { "level": "Graduate", "detail": "B.Com, SVKP and Dr. K.S. Raju Arts and Science College, Penugonda, 1977" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 143/290/353/149) tops out under 5yr. No charges framed, zero convictions." },
-    "assets": { "movable": 42851249, "immovable": 99854000, "total": 142705249, "liabilities": 27270000 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pithani_Satyanarayana_i_%28cropped%29.jpg",
+      "credit": "Bathula Ganesh Goud",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pithani_Satyanarayana_i_(cropped).jpg"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, SVKP and Dr. K.S. Raju Arts and Science College, Penugonda, 1977"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 143/290/353/149) tops out under 5yr. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 42851249,
+      "immovable": 99854000,
+      "total": 142705249,
+      "liabilities": 27270000
+    }
   },
-  "result": { "votes": 85402, "margin": 26554, "runner_up": "Cherukuvada Sriranganadha Raju", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 85402,
+    "margin": 26554,
+    "runner_up": "Cherukuvada Sriranganadha Raju",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=89",
     "retrieved": "2026-08-16"

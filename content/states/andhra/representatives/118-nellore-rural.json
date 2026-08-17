@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-118-nellore-rural",
-  "constituency": { "number": 118, "name": "Nellore Rural", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "constituency": {
+    "number": 118,
+    "name": "Nellore Rural",
+    "district": "Sri Potti Sriramulu Nellore",
+    "reserved": null
+  },
   "representative": {
     "name": "Kotamreddy Sridhar Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Real Estate",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kotam_Reddy_Pic.jpg", "credit": "MounikaPrasad", "license": "CC BY-SA 4.0" },
-    "education": { "level": "12th Pass", "detail": "B.Com (Discontinued), Sri Venkateswara University V.R. College, Nellore, 1983-1986" },
-    "declared_cases": { "total": 4, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Two of the 4 pending cases qualify: FIR 30/2023 (Vedayapalem PS) includes IPC 363 (kidnapping, max 7 years); and FIR 3/RCO-CIU-ACB/2018 includes Prevention of Corruption Act Section 13(2)(b) (criminal misconduct, max 10 years), whose closure is pending before the Andhra Pradesh High Court. The other two (FIR 216/2023 sections 143/341/149; FIR 152/2023 sections 353/34) do not qualify. Charges are not framed in any case; zero convictions." },
-    "assets": { "movable": 15542931, "immovable": 8971400, "total": 24514331, "liabilities": 1690213 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kotam_Reddy_Pic.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "MounikaPrasad",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kotam_Reddy_Pic.jpg"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com (Discontinued), Sri Venkateswara University V.R. College, Nellore, 1983-1986"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Two of the 4 pending cases qualify: FIR 30/2023 (Vedayapalem PS) includes IPC 363 (kidnapping, max 7 years); and FIR 3/RCO-CIU-ACB/2018 includes Prevention of Corruption Act Section 13(2)(b) (criminal misconduct, max 10 years), whose closure is pending before the Andhra Pradesh High Court. The other two (FIR 216/2023 sections 143/341/149; FIR 152/2023 sections 353/34) do not qualify. Charges are not framed in any case; zero convictions."
+    },
+    "assets": {
+      "movable": 15542931,
+      "immovable": 8971400,
+      "total": 24514331,
+      "liabilities": 1690213
+    }
   },
-  "result": { "votes": 109975, "margin": 34480, "runner_up": "Adala Prabhakara Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 109975,
+    "margin": 34480,
+    "runner_up": "Adala Prabhakara Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=11",
     "retrieved": "2026-08-16"

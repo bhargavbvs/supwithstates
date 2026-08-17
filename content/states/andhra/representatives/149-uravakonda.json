@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-149-uravakonda",
-  "constituency": { "number": 149, "name": "Uravakonda", "district": "Ananthapuramu", "reserved": null },
+  "constituency": {
+    "number": 149,
+    "name": "Uravakonda",
+    "district": "Ananthapuramu",
+    "reserved": null
+  },
   "representative": {
     "name": "Payyavula Keshav",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Member of Legislative Assembly",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Payyavula_Keshav.jpg", "credit": "Mango News", "license": "CC BY 3.0" },
-    "education": { "level": "Others", "detail": "Post Graduate Diploma in Management, T.A. Pai Management Institute, Manipal, 1987" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Crime No.238/2023, Urvakonda PS, Anantapuramu; IPC 188/341) does not qualify. No charges framed, no convictions." },
-    "assets": { "movable": 125716645, "immovable": 233022000, "total": 358738645, "liabilities": 87149637 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Payyavula_Keshav.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Mango News",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Payyavula_Keshav.jpg"
+    },
+    "education": {
+      "level": "Others",
+      "detail": "Post Graduate Diploma in Management, T.A. Pai Management Institute, Manipal, 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Crime No.238/2023, Urvakonda PS, Anantapuramu; IPC 188/341) does not qualify. No charges framed, no convictions."
+    },
+    "assets": {
+      "movable": 125716645,
+      "immovable": 233022000,
+      "total": 358738645,
+      "liabilities": 87149637
+    }
   },
-  "result": { "votes": 102046, "margin": 21704, "runner_up": "Y. Visweswara Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 102046,
+    "margin": 21704,
+    "runner_up": "Y. Visweswara Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=14",
     "retrieved": "2026-08-16"

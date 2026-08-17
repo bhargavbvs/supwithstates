@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-17-nellimarla",
-  "constituency": { "number": 17, "name": "Nellimarla", "district": "Vizianagaram", "reserved": null },
+  "constituency": {
+    "number": 17,
+    "name": "Nellimarla",
+    "district": "Vizianagaram",
+    "reserved": null
+  },
   "representative": {
     "name": "Lokam Naga Madhavi",
     "election": "2024",
@@ -10,9 +15,22 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Business",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lokam_Naga_Madhavi_at_oath-taking_ceremony_in_2024.png", "credit": "Mango News", "license": "CC BY 3.0" },
-    "education": { "level": "Post Graduate", "detail": "M.Sc. Computer Science, Kent State University, USA, 1995" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lokam_Naga_Madhavi_at_oath-taking_ceremony_in_2024.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Mango News",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lokam_Naga_Madhavi_at_oath-taking_ceremony_in_2024.png"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. Computer Science, Kent State University, USA, 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
     "assets": {
       "movable": 2490167819,
       "immovable": 421578030,

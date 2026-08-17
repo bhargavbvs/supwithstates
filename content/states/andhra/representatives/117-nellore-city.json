@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-117-nellore-city",
-  "constituency": { "number": 117, "name": "Nellore City", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "constituency": {
+    "number": 117,
+    "name": "Nellore City",
+    "district": "Sri Potti Sriramulu Nellore",
+    "reserved": null
+  },
   "representative": {
     "name": "Narayana Ponguru",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 67,
     "profession": "Social Service",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dr._Ponguru_Narayana_%28cropped%29.jpg", "credit": "DrThneed", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Doctorate", "detail": "PhD (Statistics), Sri Venkateswara University, Tirupati, 2002" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dr._Ponguru_Narayana_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "DrThneed",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dr._Ponguru_Narayana_(cropped).jpg"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "PhD (Statistics), Sri Venkateswara University, Tirupati, 2002"
+    },
     "declared_cases": {
       "total": 8,
       "serious": 6,

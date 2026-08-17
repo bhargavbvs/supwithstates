@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-87-mangalagiri",
-  "constituency": { "number": 87, "name": "Mangalagiri", "district": "Guntur", "reserved": null },
+  "constituency": {
+    "number": 87,
+    "name": "Mangalagiri",
+    "district": "Guntur",
+    "reserved": null
+  },
   "representative": {
     "name": "Nara Lokesh",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Social Service (Politician)",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nara_Lokesh_at_CII_Partnership_Summit_2025%2C_Visakhapatnam.jpg", "credit": "Saiphani02", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Post Graduate", "detail": "MBA, Stanford University, USA, 2008" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nara_Lokesh_at_CII_Partnership_Summit_2025%2C_Visakhapatnam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Saiphani02",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nara_Lokesh_at_CII_Partnership_Summit_2025,_Visakhapatnam.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, Stanford University, USA, 2008"
+    },
     "declared_cases": {
       "total": 17,
       "serious": 2,

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-37-pithapuram",
-  "constituency": { "number": 37, "name": "Pithapuram", "district": "Kakinada", "reserved": null },
+  "constituency": {
+    "number": 37,
+    "name": "Pithapuram",
+    "district": "Kakinada",
+    "reserved": null
+  },
   "representative": {
     "name": "Konidala Pawan Kalyan",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Film Actor",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Shri_Konidela_Pawan_Kalyan.jpg", "credit": "Prime Minister's Office", "license": "GODL-India" },
-    "education": { "level": "10th Pass", "detail": "SSLC, St Joseph's English Medium High School, 1984" },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Shri_Konidela_Pawan_Kalyan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Shri_Konidela_Pawan_Kalyan.jpg"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC, St Joseph's English Medium High School, 1984"
+    },
     "declared_cases": {
       "total": 8,
       "serious": 0,

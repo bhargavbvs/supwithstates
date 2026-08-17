@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-30-anakapalle",
-  "constituency": { "number": 30, "name": "Anakapalle", "district": "Anakapalli", "reserved": null },
+  "constituency": {
+    "number": 30,
+    "name": "Anakapalle",
+    "district": "Anakapalli",
+    "reserved": null
+  },
   "representative": {
     "name": "Konathala Ramakrishna",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 67,
     "profession": "Politician",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/KonathalaRamakrishna.png", "credit": "Vampirekin", "license": "CC BY-SA 4.0" },
-    "education": { "level": "Post Graduate", "detail": "M.Com, A.M.A.L College, Anakapalle (Andhra University)" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases on the affidavit." },
-    "assets": { "movable": 27155071, "immovable": 612381200, "total": 639536271, "liabilities": 0 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/KonathalaRamakrishna.png",
+      "credit": "Vampirekin",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:KonathalaRamakrishna.png"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com, A.M.A.L College, Anakapalle (Andhra University)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases on the affidavit."
+    },
+    "assets": {
+      "movable": 27155071,
+      "immovable": 612381200,
+      "total": 639536271,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 115126, "margin": 65764, "runner_up": "Malasala Bharath Kumar", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 115126,
+    "margin": 65764,
+    "runner_up": "Malasala Bharath Kumar",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=391",
     "retrieved": "2026-08-16"

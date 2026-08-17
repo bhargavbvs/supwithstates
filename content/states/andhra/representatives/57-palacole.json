@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-57-palacole",
-  "constituency": { "number": 57, "name": "Palacole", "district": "West Godavari", "reserved": null },
+  "constituency": {
+    "number": 57,
+    "name": "Palacole",
+    "district": "West Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Nimmala Rama Naidu",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Agriculture, Aquaculture; sitting MLA",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sri_Nimmala_Rama_Naidu.png", "credit": "Andhra Pradesh Water Resources Department", "license": "Attribution" },
-    "education": { "level": "Doctorate", "detail": "PhD in Geography, Andhra University, 2005" },
-    "declared_cases": { "total": 20, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. One of the twenty pending cases qualifies, via IPC 506 Part II (criminal intimidation with threat of death/grievous hurt, max 7 years) alongside IPC 323 and SC/ST (Prevention of Atrocities) Act charges. The other nineteen involve lesser charges (IPC 143/147/148/149/188/269/270/271/290/332/341/342/353/427/500/502/504/505(2), CrPC 151) or CrPC 151 preventive proceedings alone. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 18297310, "immovable": 76842000, "total": 95139310, "liabilities": 74135 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sri_Nimmala_Rama_Naidu.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Andhra Pradesh Water Resources Department",
+      "license": "Attribution",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sri_Nimmala_Rama_Naidu.png"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "PhD in Geography, Andhra University, 2005"
+    },
+    "declared_cases": {
+      "total": 20,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. One of the twenty pending cases qualifies, via IPC 506 Part II (criminal intimidation with threat of death/grievous hurt, max 7 years) alongside IPC 323 and SC/ST (Prevention of Atrocities) Act charges. The other nineteen involve lesser charges (IPC 143/147/148/149/188/269/270/271/290/332/341/342/353/427/500/502/504/505(2), CrPC 151) or CrPC 151 preventive proceedings alone. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 18297310,
+      "immovable": 76842000,
+      "total": 95139310,
+      "liabilities": 74135
+    }
   },
-  "result": { "votes": 113114, "margin": 67945, "runner_up": "Gudala Srihari Gopala Rao", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 113114,
+    "margin": 67945,
+    "runner_up": "Gudala Srihari Gopala Rao",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=406",
     "retrieved": "2026-08-16"

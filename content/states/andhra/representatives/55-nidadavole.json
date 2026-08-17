@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-55-nidadavole",
-  "constituency": { "number": 55, "name": "Nidadavole", "district": "East Godavari", "reserved": null },
+  "constituency": {
+    "number": 55,
+    "name": "Nidadavole",
+    "district": "East Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Kandula Durgesh",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Social Service / Politician",
-    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kandula_Durgesh.jpg", "credit": "Election Commission of India", "license": "GODL-India" },
-    "education": { "level": "Post Graduate", "detail": "MA Economics, Andhra University, 1984" },
-    "declared_cases": { "total": 7, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. One of the seven pending cases qualifies, via IPC 354 (assault on a woman with intent to outrage modesty, max 5 years), alongside 147, 323, 506, 384. The remaining six involve lesser charges (IPC 143/147/148/149/188/323/324/332/353/500/34, CrPC 151). Zero convictions." },
-    "assets": { "movable": 67291881, "immovable": 70935000, "total": 138226881, "liabilities": 19382439 }
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kandula_Durgesh.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "credit": "Election Commission of India",
+      "license": "GODL-India",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kandula_Durgesh.jpg"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Economics, Andhra University, 1984"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. One of the seven pending cases qualifies, via IPC 354 (assault on a woman with intent to outrage modesty, max 5 years), alongside 147, 323, 506, 384. The remaining six involve lesser charges (IPC 143/147/148/149/188/323/324/332/353/500/34, CrPC 151). Zero convictions."
+    },
+    "assets": {
+      "movable": 67291881,
+      "immovable": 70935000,
+      "total": 138226881,
+      "liabilities": 19382439
+    }
   },
-  "result": { "votes": 102699, "margin": 33304, "runner_up": "Geddam Srinivas Naidu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 102699,
+    "margin": 33304,
+    "runner_up": "Geddam Srinivas Naidu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=405",
     "retrieved": "2026-08-16"
