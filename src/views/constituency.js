@@ -60,7 +60,10 @@ export function renderConstituency(el, param) {
          <span class="case-chip ${dc.convicted > 0 ? 'chip-convicted' : 'chip-ok'}">${dc.convicted} convicted</span>
          <span class="case-chip chip-neutral">${dc.total} total</span>
        </div>
-       ${dc.note ? `<p class="case-note">${escapeHtml(dc.note)}</p>` : ''}`;
+       ${dc.note ? `<div class="case-note">
+         <p class="case-note-label">How this was classified</p>
+         <p class="case-note-text">${escapeHtml(dc.note)}</p>
+       </div>` : ''}`;
 
   el.innerHTML = `
     <a class="back" href="#/d/${districtSlug}">← ${escapeHtml(ac.district)}</a>

@@ -913,12 +913,15 @@ section {
 }
 
 .net-worth-value {
-  font-size: 1.6rem;
+  font-size: 1.75rem;
   font-weight: 700;
   font-family: var(--font-display);
   letter-spacing: -0.02em;
-  color: var(--ink);
   line-height: 1;
+  background: linear-gradient(90deg, var(--accent-ink), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
 .breakdown {
@@ -931,13 +934,26 @@ section {
 
 .case-note {
   margin: 0.75rem 0 0;
-  padding: 0.75rem 0.9rem;
-  background: var(--bg);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-sm);
+  padding: 0.85rem 1rem;
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+.case-note-label {
+  margin: 0 0 0.35rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent-ink);
+}
+
+.case-note-text {
+  margin: 0;
   font-size: 0.85rem;
-  color: var(--muted);
-  line-height: 1.55;
+  line-height: 1.6;
+  color: var(--ink);
 }
 
 .asset-bars {
