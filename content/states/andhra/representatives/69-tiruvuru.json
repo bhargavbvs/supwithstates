@@ -15,7 +15,7 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": { "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/DCS05315.jpg", "credit": "Chandra Sekhar (photographer, credited as 'Spot Shot'); self-uploaded to Commons by the subject (User:Kolikapudi Srinivasa Rao) as own work", "license": "CC BY-SA 4.0" },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. English Literature, Andhra University, 1994"
