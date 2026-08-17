@@ -42,6 +42,20 @@ function reservedCounts() {
   return orderedCounts(store.all.map((r) => r.constituency.reserved ?? 'General'), RESERVED_ORDER);
 }
 
+// Party chips carry their own brand color via inline custom properties;
+// education/reserved chips have no inherent color, so they fall back to the
+// theme accent (see .filter-chip.active in style.css).
+function chipsMarkup(dim, entries, { colored = false } = {}) {
+  return entries.map(([value, n]) => {
+    const style = colored ? (() => {
+      const { bg, text } = partyColor(value);
+      return ` style="--chip-bg:${bg};--chip-text:${text}"`;
+    })() : '';
+    return `<button type="button" class="filter-chip" data-dim="${dim}" data-value="${escapeHtml(value)}"
+      aria-pressed="false"${style}>${escapeHtml(value)} <span class="count">(${n})</span></button>`;
+  }).join('');
+}
+
 export function renderHome(el) {
   const { state, stats } = store;
   const counts = severityCounts(state);
@@ -55,80 +69,105 @@ export function renderHome(el) {
         <div class="stat"><b>${formatRupeesCompact(stats.totalAssets)}</b><span>total declared assets</span></div>
       </section>
       <p class="disclaimer">${CASE_DISCLAIMER}</p>
+      <div id="filter-panel">
+        <button type="button" id="filters-toggle" aria-expanded="false">Filters<span id="filters-count" hidden></span></button>
+        <div id="filter-groups" hidden>
+          <div class="filter-group">
+            <h3>Party</h3>
+            <div class="chip-row">${chipsMarkup('party', partyCounts(), { colored: true })}</div>
+          </div>
+          <div class="filter-group">
+            <h3>Education</h3>
+            <div class="chip-row">${chipsMarkup('education', educationCounts())}</div>
+          </div>
+          <div class="filter-group">
+            <h3>Reserved status</h3>
+            <div class="chip-row">${chipsMarkup('reserved', reservedCounts())}</div>
+          </div>
+          <button type="button" id="filters-clear" hidden>Clear filters</button>
+        </div>
+      </div>
       <div id="search-slot"></div>
     </div>
   `;
 
-  // Built detached and wired immediately, but only appended into #map once
-  // renderMap() has populated it (renderMap replaces #map's innerHTML, which
-  // would wipe this out if it were there first). #map is the positioned
-  // ancestor both #zoom-controls and this legend need - #app grows taller
-  // than the visible map on mobile (the overlay panel sits below it in
-  // normal flow there), so anchoring to #app instead of #map put the legend
-  // near the bottom of the whole scrollable page rather than pinned to the
-  // map's own corner.
+  // The severity legend is built detached and only appended into #map once
+  // renderMap() has populated it (renderMap replaces #map's innerHTML,
+  // which would wipe this out if it were there first). #map is the
+  // positioned ancestor #zoom-controls and this legend both need - #app
+  // grows taller than the visible map on mobile (the overlay panel sits
+  // below it in normal flow there), so anchoring to #app instead of #map
+  // put the legend near the bottom of the whole scrollable page rather
+  // than pinned to the map's own corner.
   const legend = document.createElement('div');
   legend.id = 'map-legend';
-  legend.innerHTML = `
-    ${[0, 1, 2, 3, -1].map((sev) => `
-      <button type="button" class="dot d${sev === -1 ? '--1' : `-${sev}`}" data-sev="${sev}" aria-pressed="false">
-        ${LEGEND_LABELS[sev]} <span class="count">(${counts[sev]})</span>
-      </button>`).join('')}
-    <button type="button" id="party-toggle" aria-expanded="false">Filter by party ▾</button>
-    <div id="party-row" hidden>
-      ${partyCounts().map(([party, n]) => {
-        const { bg, text } = partyColor(party);
-        return `<button type="button" class="party-dot" data-party="${escapeHtml(party)}" aria-pressed="false"
-          style="--party-bg:${bg};--party-text:${text}">${escapeHtml(party)} <span class="count">(${n})</span></button>`;
-      }).join('')}
-    </div>
-  `;
+  legend.innerHTML = [0, 1, 2, 3, -1].map((sev) => `
+    <button type="button" class="dot d${sev === -1 ? '--1' : `-${sev}`}" data-sev="${sev}" aria-pressed="false">
+      ${LEGEND_LABELS[sev]} <span class="count">(${counts[sev]})</span>
+    </button>`).join('');
 
-  const activeFilters = new Set();
-  const activeParties = new Set();
+  const filters = { severity: new Set(), party: new Set(), education: new Set(), reserved: new Set() };
   let map = null;
 
-  function applyFilter() {
-    map?.setFilter({ severity: activeFilters, party: activeParties });
-    legend.classList.toggle('sev-filtering', activeFilters.size > 0);
-    legend.classList.toggle('party-filtering', activeParties.size > 0);
+  const filtersToggle = el.querySelector('#filters-toggle');
+  const filtersCount = el.querySelector('#filters-count');
+  const filterGroups = el.querySelector('#filter-groups');
+  const filtersClear = el.querySelector('#filters-clear');
+  const filterPanel = el.querySelector('#filter-panel');
+
+  function applyFilters() {
+    map?.setFilter(filters);
+
+    legend.classList.toggle('sev-filtering', filters.severity.size > 0);
     legend.querySelectorAll('.dot').forEach((btn) => {
-      const on = activeFilters.has(Number(btn.dataset.sev));
+      const on = filters.severity.has(Number(btn.dataset.sev));
       btn.classList.toggle('active', on);
       btn.setAttribute('aria-pressed', String(on));
     });
-    legend.querySelectorAll('.party-dot').forEach((btn) => {
-      const on = activeParties.has(btn.dataset.party);
+
+    filterPanel.querySelectorAll('.filter-chip').forEach((btn) => {
+      const on = filters[btn.dataset.dim].has(btn.dataset.value);
       btn.classList.toggle('active', on);
       btn.setAttribute('aria-pressed', String(on));
     });
+
+    const total = filters.severity.size + filters.party.size + filters.education.size + filters.reserved.size;
+    filtersCount.hidden = total === 0;
+    filtersCount.textContent = ` (${total})`;
+    filtersClear.hidden = total === 0;
   }
 
   legend.querySelectorAll('.dot').forEach((btn) => {
     btn.addEventListener('click', () => {
       const sev = Number(btn.dataset.sev);
-      if (activeFilters.has(sev)) activeFilters.delete(sev);
-      else activeFilters.add(sev);
-      applyFilter();
+      if (filters.severity.has(sev)) filters.severity.delete(sev);
+      else filters.severity.add(sev);
+      applyFilters();
     });
   });
 
-  legend.querySelectorAll('.party-dot').forEach((btn) => {
+  filterPanel.querySelectorAll('.filter-chip').forEach((btn) => {
     btn.addEventListener('click', () => {
-      const party = btn.dataset.party;
-      if (activeParties.has(party)) activeParties.delete(party);
-      else activeParties.add(party);
-      applyFilter();
+      const dim = filters[btn.dataset.dim];
+      const value = btn.dataset.value;
+      if (dim.has(value)) dim.delete(value);
+      else dim.add(value);
+      applyFilters();
     });
   });
 
-  const partyToggle = legend.querySelector('#party-toggle');
-  const partyRow = legend.querySelector('#party-row');
-  partyToggle.addEventListener('click', () => {
-    const open = partyRow.hidden;
-    partyRow.hidden = !open;
-    partyToggle.setAttribute('aria-expanded', String(open));
-    partyToggle.textContent = open ? 'Filter by party ▴' : 'Filter by party ▾';
+  filtersToggle.addEventListener('click', () => {
+    const open = filterGroups.hidden;
+    filterGroups.hidden = !open;
+    filtersToggle.setAttribute('aria-expanded', String(open));
+  });
+
+  filtersClear.addEventListener('click', () => {
+    filters.severity.clear();
+    filters.party.clear();
+    filters.education.clear();
+    filters.reserved.clear();
+    applyFilters();
   });
 
   loadMapData().then((mapData) => {
@@ -139,7 +178,7 @@ export function renderHome(el) {
       onSelect: (acNo) => { window.location.hash = `#/c/${acNo}`; }
     });
     mapEl.appendChild(legend);
-    applyFilter();
+    applyFilters();
   });
 
   const slot = el.querySelector('#search-slot');
