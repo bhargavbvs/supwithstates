@@ -58,17 +58,17 @@
   --font-body: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
 
   /* Severity scale: color always paired with a text label elsewhere in the
-     markup (color-blind safe). -1 = not yet profiled. Each step is a
-     genuinely different hue (green -> gold -> red-orange -> wine), not
-     just a darker shade of the same orange - "declared" and "serious"
-     used to both be orange and were hard to tell apart at a glance on a
-     map this dense, which defeated the point. Contrast-checked against
-     the white/#3a2900 text these badges pair with. */
-  --sev--1: #7e745f;
-  --sev-0: #438068;
-  --sev-1: #d9a02a;
-  --sev-2: #c6482e;
-  --sev-3: #9e2a2b;
+     markup (color-blind safe). -1 = not yet profiled. Bold/saturated,
+     matching the vivid green/orange/red reference (a civic-reporting app's
+     status badges) rather than a muted palette - each step is a genuinely
+     different hue (green -> gold -> burnt orange -> deep red), not just a
+     darker shade of the same orange. Contrast-checked against the white/
+     #3a2900 text these badges pair with (>=4.5:1 throughout). */
+  --sev--1: #6b7280;
+  --sev-0: #15803d;
+  --sev-1: #f59e0b;
+  --sev-2: #c2410c;
+  --sev-3: #b91c1c;
 }
 
 * {
@@ -188,6 +188,12 @@ body[data-view="home"] #app {
 
 #zoom-reset {
   font-size: 0.85rem;
+}
+
+#base-layer path {
+  fill: #e4ece8;
+  stroke: none;
+  pointer-events: none;
 }
 
 path.ac {

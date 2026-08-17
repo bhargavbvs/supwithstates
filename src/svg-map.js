@@ -21,12 +21,16 @@ export function renderMap(container, { mapData, records, onSelect }) {
       aria-label="${escapeHtml(c.name)}${rec ? `, ${escapeHtml(rec.representative.name)}` : ''}"></path>`;
   }).join('');
 
+  const districtFills = mapData.districts.map((d) =>
+    `<path d="${d.d}" fill-rule="evenodd"></path>`
+  ).join('');
   const districtPaths = mapData.districts.map((d) =>
     `<path class="district-line" d="${d.d}" fill-rule="evenodd"></path>`
   ).join('');
 
   container.innerHTML = `
     <svg id="ap-svg" viewBox="${mapData.viewBox}" preserveAspectRatio="xMidYMid meet">
+      <g id="base-layer">${districtFills}</g>
       <g id="ac-layer">${paths}</g>
       <g id="district-layer">${districtPaths}</g>
     </svg>
