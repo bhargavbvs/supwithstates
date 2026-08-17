@@ -317,6 +317,11 @@ path.district-line {
   color: var(--ink);
 }
 
+#map-legend .count {
+  color: var(--faint);
+  font-variant-numeric: tabular-nums;
+}
+
 #map-legend .dot::before {
   content: "";
   width: 9px;

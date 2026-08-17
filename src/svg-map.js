@@ -54,11 +54,71 @@ export function renderMap(container, { mapData, records, onSelect }) {
     svg.setAttribute('viewBox', `${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
   }
 
+  function clampVb(v) {
+    const maxX = Math.max(baseX, baseX + baseW - v.w);
+    const maxY = Math.max(baseY, baseY + baseH - v.h);
+    return { ...v, x: Math.min(Math.max(v.x, baseX), maxX), y: Math.min(Math.max(v.y, baseY), maxY) };
+  }
+
   function clampPan() {
-    const maxX = Math.max(baseX, baseX + baseW - vb.w);
-    const maxY = Math.max(baseY, baseY + baseH - vb.h);
-    vb.x = Math.min(Math.max(vb.x, baseX), maxX);
-    vb.y = Math.min(Math.max(vb.y, baseY), maxY);
+    vb = clampVb(vb);
+  }
+
+  // ---- Eased animation (zoom buttons, reset) and momentum (pan release) -
+  // both drive the same vb/applyViewBox state as the direct-manipulation
+  // gestures below, so only one can run at a time.
+  let animFrame = null;
+  function cancelAnimation() {
+    if (animFrame) { cancelAnimationFrame(animFrame); animFrame = null; }
+  }
+
+  function animateTo(target, duration = 240) {
+    cancelAnimation();
+    cancelMomentum();
+    const start = { ...vb };
+    const t0 = performance.now();
+    const step = (now) => {
+      const t = Math.min(1, (now - t0) / duration);
+      const eased = 1 - Math.pow(1 - t, 3); // ease-out cubic
+      vb = {
+        x: start.x + (target.x - start.x) * eased,
+        y: start.y + (target.y - start.y) * eased,
+        w: start.w + (target.w - start.w) * eased,
+        h: start.h + (target.h - start.h) * eased
+      };
+      applyViewBox();
+      animFrame = t < 1 ? requestAnimationFrame(step) : null;
+    };
+    animFrame = requestAnimationFrame(step);
+  }
+
+  // Momentum: after a drag release with real velocity, keep panning and
+  // decay toward a stop instead of cutting off the instant a finger/button
+  // lifts - this is most of what makes a map feel "smooth" versus jerky.
+  let momentumFrame = null;
+  function cancelMomentum() {
+    if (momentumFrame) { cancelAnimationFrame(momentumFrame); momentumFrame = null; }
+  }
+
+  function startMomentum(vx, vy) {
+    // vx/vy are client px/ms from the last ~80ms of drag movement.
+    cancelAnimation();
+    let velX = vx, velY = vy, lastT = performance.now();
+    const frame = (now) => {
+      const dt = Math.min(32, now - lastT); // clamp so a dropped frame can't overshoot
+      lastT = now;
+      const rect = contentRect();
+      vb = clampVb({
+        ...vb,
+        x: vb.x - velX * dt * (vb.w / rect.width),
+        y: vb.y - velY * dt * (vb.h / rect.height)
+      });
+      applyViewBox();
+      velX *= 0.93;
+      velY *= 0.93;
+      momentumFrame = Math.hypot(velX, velY) > 0.003 ? requestAnimationFrame(frame) : null;
+    };
+    momentumFrame = requestAnimationFrame(frame);
   }
 
   // The SVG's own box (from CSS) rarely has the same aspect ratio as the
@@ -86,21 +146,28 @@ export function renderMap(container, { mapData, records, onSelect }) {
     };
   }
 
-  function zoomAt(clientX, clientY, factor) {
+  function zoomTarget(clientX, clientY, factor) {
     const pt = clientToSvgPoint(clientX, clientY);
     const newW = Math.min(baseW, Math.max(minW, vb.w * factor));
     const actual = newW / vb.w;
-    vb.x = pt.x - (pt.x - vb.x) * actual;
-    vb.y = pt.y - (pt.y - vb.y) * actual;
-    vb.w = newW;
-    vb.h = vb.h * actual;
-    clampPan();
+    return clampVb({
+      x: pt.x - (pt.x - vb.x) * actual,
+      y: pt.y - (pt.y - vb.y) * actual,
+      w: newW,
+      h: vb.h * actual
+    });
+  }
+
+  // Direct-manipulation gestures (wheel, pinch, drag) apply instantly -
+  // they're already following the input 1:1, which reads as "smooth" on its
+  // own. Only button-triggered jumps (below) get the eased animation.
+  function zoomAt(clientX, clientY, factor) {
+    vb = zoomTarget(clientX, clientY, factor);
     applyViewBox();
   }
 
   function resetZoom() {
-    vb = { x: baseX, y: baseY, w: baseW, h: baseH };
-    applyViewBox();
+    animateTo({ x: baseX, y: baseY, w: baseW, h: baseH });
   }
 
   const showTooltip = (path, evt) => {
@@ -141,13 +208,17 @@ export function renderMap(container, { mapData, records, onSelect }) {
   let dragMoved = false;
   let pinchStartDist = null;
   let pinchStartW = null;
+  let velocitySamples = []; // {x, y, t} from the last ~80ms of drag, for momentum on release
 
   svg.addEventListener('pointerdown', (evt) => {
+    cancelAnimation();
+    cancelMomentum();
     activePointers.set(evt.pointerId, { x: evt.clientX, y: evt.clientY });
     svg.setPointerCapture(evt.pointerId);
     if (activePointers.size === 1) {
       dragStart = { x: evt.clientX, y: evt.clientY, vbx: vb.x, vby: vb.y };
       dragMoved = false;
+      velocitySamples = [{ x: evt.clientX, y: evt.clientY, t: performance.now() }];
     } else if (activePointers.size === 2) {
       const [a, b] = [...activePointers.values()];
       pinchStartDist = Math.hypot(a.x - b.x, a.y - b.y) || 1;
@@ -175,6 +246,10 @@ export function renderMap(container, { mapData, records, onSelect }) {
       const dy = evt.clientY - dragStart.y;
       if (Math.hypot(dx, dy) > DRAG_THRESHOLD) dragMoved = true;
       if (dragMoved) {
+        const now = performance.now();
+        velocitySamples.push({ x: evt.clientX, y: evt.clientY, t: now });
+        while (velocitySamples.length > 1 && now - velocitySamples[0].t > 80) velocitySamples.shift();
+
         const rect = contentRect();
         vb.x = dragStart.vbx - dx * (vb.w / rect.width);
         vb.y = dragStart.vby - dy * (vb.h / rect.height);
@@ -193,7 +268,19 @@ export function renderMap(container, { mapData, records, onSelect }) {
   const endPointer = (evt) => {
     activePointers.delete(evt.pointerId);
     if (activePointers.size < 2) pinchStartDist = null;
-    if (activePointers.size === 0) dragStart = null;
+    if (activePointers.size === 0) {
+      if (dragMoved && velocitySamples.length > 1) {
+        const first = velocitySamples[0];
+        const last = velocitySamples[velocitySamples.length - 1];
+        const dt = last.t - first.t;
+        if (dt > 0) {
+          const vx = (last.x - first.x) / dt;
+          const vy = (last.y - first.y) / dt;
+          if (Math.hypot(vx, vy) > 0.05) startMomentum(vx, vy);
+        }
+      }
+      dragStart = null;
+    }
   };
   svg.addEventListener('pointerup', endPointer);
   svg.addEventListener('pointercancel', endPointer);
@@ -201,6 +288,8 @@ export function renderMap(container, { mapData, records, onSelect }) {
 
   svg.addEventListener('wheel', (evt) => {
     evt.preventDefault();
+    cancelAnimation();
+    cancelMomentum();
     zoomAt(evt.clientX, evt.clientY, evt.deltaY > 0 ? 1.15 : 1 / 1.15);
     hideTooltip();
   }, { passive: false });
@@ -221,8 +310,10 @@ export function renderMap(container, { mapData, records, onSelect }) {
   });
 
   const zoomStep = (factor) => {
+    cancelMomentum();
     const rect = contentRect();
-    zoomAt(rect.left + rect.width / 2, rect.top + rect.height / 2, factor);
+    const cx = rect.left + rect.width / 2, cy = rect.top + rect.height / 2;
+    animateTo(zoomTarget(cx, cy, factor));
   };
   container.querySelector('#zoom-in').addEventListener('click', () => zoomStep(1 / 1.4));
   container.querySelector('#zoom-out').addEventListener('click', () => zoomStep(1.4));

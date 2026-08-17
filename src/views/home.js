@@ -1,20 +1,29 @@
 import { store } from '../store.js';
 import { renderMap, loadMapData } from '../svg-map.js';
-import { formatRupees, CASE_DISCLAIMER, escapeHtml } from '../format.js';
+import { formatRupees, CASE_DISCLAIMER, severityOf, escapeHtml } from '../format.js';
 import { searchConstituencies } from '../search.js';
 import { findFeatureAt } from '../geo-lookup.js';
 
+const LEGEND_LABELS = { '-1': 'Not yet profiled', 0: 'No cases', 1: 'Declared', 2: 'Serious', 3: 'Convicted' };
+
+function severityCounts(state) {
+  const counts = { '-1': 0, 0: 0, 1: 0, 2: 0, 3: 0 };
+  for (const r of store.all) counts[severityOf(r.representative.declared_cases)]++;
+  counts['-1'] = state.assembly_size - store.all.length;
+  return counts;
+}
+
 export function renderHome(el) {
   const { state, stats } = store;
+  const counts = severityCounts(state);
 
   el.innerHTML = `
     <div id="map"></div>
     <div id="map-legend">
-      <button type="button" class="dot d-0" data-sev="0" aria-pressed="false">No cases</button>
-      <button type="button" class="dot d-1" data-sev="1" aria-pressed="false">Declared</button>
-      <button type="button" class="dot d-2" data-sev="2" aria-pressed="false">Serious</button>
-      <button type="button" class="dot d-3" data-sev="3" aria-pressed="false">Convicted</button>
-      <button type="button" class="dot d--1" data-sev="-1" aria-pressed="false">Not yet profiled</button>
+      ${[0, 1, 2, 3, -1].map((sev) => `
+        <button type="button" class="dot d${sev === -1 ? '--1' : `-${sev}`}" data-sev="${sev}" aria-pressed="false">
+          ${LEGEND_LABELS[sev]} <span class="count">(${counts[sev]})</span>
+        </button>`).join('')}
     </div>
     <div id="map-overlay">
       <section id="stats">
