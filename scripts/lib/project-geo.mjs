@@ -7,8 +7,37 @@ function ringToPath(ring, project) {
   }).join(' ') + ' Z';
 }
 
+// Planar shoelace area of a ring, in raw lng/lat degrees^2 - only used to
+// compare parts of the same MultiPolygon against each other, so no
+// projection is needed.
+function ringArea(ring) {
+  let a = 0;
+  for (let i = 0; i < ring.length - 1; i++) {
+    const [x1, y1] = ring[i];
+    const [x2, y2] = ring[i + 1];
+    a += x1 * y2 - x2 * y1;
+  }
+  return Math.abs(a) / 2;
+}
+
+// Source shapefiles for AP's districts/constituencies occasionally carry a
+// stray sliver polygon alongside the real body of a MultiPolygon (a
+// digitizing artifact, not real disconnected territory - AP has no
+// archipelago districts). Left in, it renders as an unexplained gray shape
+// with no constituency fill over it. Dropping any part under 1% of the
+// MultiPolygon's largest part filters those out without touching genuine
+// single-part geometries.
+function dropSliverParts(polygons) {
+  if (polygons.length < 2) return polygons;
+  const areas = polygons.map((rings) => ringArea(rings[0]));
+  const maxArea = Math.max(...areas);
+  return polygons.filter((_, i) => areas[i] >= maxArea * 0.01);
+}
+
 function geometryToPath(geometry, project) {
-  const polygons = geometry.type === 'MultiPolygon' ? geometry.coordinates : [geometry.coordinates];
+  const polygons = geometry.type === 'MultiPolygon'
+    ? dropSliverParts(geometry.coordinates)
+    : [geometry.coordinates];
   return polygons
     .map((rings) => rings.map((ring) => ringToPath(ring, project)).join(' '))
     .join(' ');
