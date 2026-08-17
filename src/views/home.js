@@ -5,6 +5,8 @@ import { searchConstituencies } from '../search.js';
 import { findFeatureAt } from '../geo-lookup.js';
 
 const LEGEND_LABELS = { '-1': 'Not yet profiled', 0: 'No cases', 1: 'Declared', 2: 'Serious', 3: 'Convicted' };
+const EDUCATION_ORDER = ['5th Pass', '8th Pass', '10th Pass', '12th Pass', 'Graduate', 'Graduate Professional', 'Post Graduate', 'Doctorate', 'Others'];
+const RESERVED_ORDER = ['General', 'SC', 'ST'];
 
 function severityCounts(state) {
   const counts = { '-1': 0, 0: 0, 1: 0, 2: 0, 3: 0 };
@@ -13,8 +15,10 @@ function severityCounts(state) {
   return counts;
 }
 
-// Real parties in the data, largest first - not a fixed guess, so a new
-// party showing up in future data batches appears automatically.
+// Real values in the data, not a fixed guess - a new party (or education
+// level, if ADR ever adds one) shows up automatically. Party is sorted
+// largest-first since there's no natural order; education/reserved have a
+// real ordinal order worth preserving instead.
 function partyCounts() {
   const counts = new Map();
   for (const r of store.all) {
@@ -22,6 +26,20 @@ function partyCounts() {
     if (p) counts.set(p, (counts.get(p) ?? 0) + 1);
   }
   return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+}
+
+function orderedCounts(values, order) {
+  const counts = new Map();
+  for (const v of values) counts.set(v, (counts.get(v) ?? 0) + 1);
+  return order.filter((k) => counts.has(k)).map((k) => [k, counts.get(k)]);
+}
+
+function educationCounts() {
+  return orderedCounts(store.all.map((r) => r.representative.education.level), EDUCATION_ORDER);
+}
+
+function reservedCounts() {
+  return orderedCounts(store.all.map((r) => r.constituency.reserved ?? 'General'), RESERVED_ORDER);
 }
 
 export function renderHome(el) {
