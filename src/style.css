@@ -285,10 +285,11 @@ path.district-line {
   display: flex;
   gap: 0.6rem;
   flex-wrap: wrap;
+  max-width: min(360px, calc(100% - 2rem));
   background: var(--panel-alpha);
   backdrop-filter: blur(6px);
-  border-radius: 999px;
-  padding: 0.5rem 0.9rem;
+  border-radius: var(--radius);
+  padding: 0.6rem 0.9rem;
   box-shadow: var(--shadow);
   font-size: 0.72rem;
   color: var(--muted);
