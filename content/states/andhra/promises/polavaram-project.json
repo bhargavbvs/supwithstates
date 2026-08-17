@@ -1,0 +1,29 @@
+{
+  "id": "polavaram-project",
+  "promise_set": "new-initiatives",
+  "parties": [
+    "TDP",
+    "JSP",
+    "BJP"
+  ],
+  "headline": "Polavaram Project Completion",
+  "original_text": "Expediting the completion of the Polavaram national irrigation project to secure the state's water resources.",
+  "original_source": {
+    "label": "Government Announcement",
+    "url": "https://ap.gov.in"
+  },
+  "explainer": "A multi-purpose irrigation project on the Godavari River to provide drinking water, irrigation, and hydroelectric power.",
+  "category": "infrastructure",
+  "beneficiaries": "Farmers and Citizens",
+  "status": "in_progress",
+  "status_since": "2024-06-12",
+  "status_reason": "Overall project is ~77% complete. Chief Minister has set an accelerated deadline of March 2027 for completion.",
+  "evidence": [
+    {
+      "date": "2026-08-01",
+      "type": "news",
+      "label": "Revised March 2027 Deadline",
+      "url": "https://ap.gov.in"
+    }
+  ]
+}

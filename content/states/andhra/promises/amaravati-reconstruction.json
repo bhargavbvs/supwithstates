@@ -1,0 +1,35 @@
+{
+  "id": "amaravati-reconstruction",
+  "promise_set": "new-initiatives",
+  "parties": [
+    "TDP",
+    "JSP",
+    "BJP"
+  ],
+  "headline": "Amaravati Capital Reconstruction",
+  "original_text": "Resuming the construction and development of Amaravati as the sole, world-class capital city of Andhra Pradesh.",
+  "original_source": {
+    "label": "Government Announcement",
+    "url": "https://ap.gov.in"
+  },
+  "explainer": "The government has abandoned the three-capital model and restarted large-scale infrastructure projects to build out Amaravati's administrative and residential zones.",
+  "category": "infrastructure",
+  "beneficiaries": "Citizens of AP",
+  "status": "in_progress",
+  "status_since": "2024-06-12",
+  "status_reason": "Massive construction is underway with 95% of state housing complete and new arterial roads inaugurated. Targeted for full operation by 2027.",
+  "evidence": [
+    {
+      "date": "2024-06-12",
+      "type": "news",
+      "label": "Reaffirmation of Amaravati",
+      "url": "https://ap.gov.in"
+    },
+    {
+      "date": "2026-08-13",
+      "type": "official",
+      "label": "Seed Access Road (E-3) Inauguration",
+      "url": "https://ap.gov.in"
+    }
+  ]
+}

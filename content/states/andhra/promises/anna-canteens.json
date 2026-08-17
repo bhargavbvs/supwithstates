@@ -1,0 +1,29 @@
+{
+  "id": "anna-canteens",
+  "promise_set": "new-initiatives",
+  "parties": [
+    "TDP",
+    "JSP",
+    "BJP"
+  ],
+  "headline": "Reopening of Anna Canteens",
+  "original_text": "Revival of the Anna Canteen scheme to provide highly subsidized meals to the poor.",
+  "original_source": {
+    "label": "Government Announcement",
+    "url": "https://ap.gov.in"
+  },
+  "explainer": "Anna Canteens offer breakfast, lunch, and dinner to the public at ₹5 per meal to ensure food security for daily wage workers and the poor.",
+  "category": "welfare",
+  "beneficiaries": "General Public",
+  "status": "in_progress",
+  "status_since": "2024-08-15",
+  "status_reason": "The scheme was relaunched on August 15, 2024, and has expanded to 269 operational canteens serving crores of meals.",
+  "evidence": [
+    {
+      "date": "2024-08-15",
+      "type": "official",
+      "label": "Phase 1 Relaunch",
+      "url": "https://ap.gov.in"
+    }
+  ]
+}

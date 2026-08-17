@@ -1191,6 +1191,24 @@ dd {
 }
 
 /* ---- Promises Tracker ---- */
+.page-title {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+.promise-set-section {
+  margin-bottom: 3rem;
+}
+
+.promise-set-section h2 {
+  font-size: 1.4rem;
+  color: var(--ink);
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+  margin-bottom: 0.2rem;
+  text-transform: none;
+}
+
 .tracker-header {
   margin-bottom: 1.5rem;
 }
