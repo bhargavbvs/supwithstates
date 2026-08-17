@@ -227,4 +227,16 @@ export function renderMap(container, { mapData, records, onSelect }) {
   container.querySelector('#zoom-in').addEventListener('click', () => zoomStep(1 / 1.4));
   container.querySelector('#zoom-out').addEventListener('click', () => zoomStep(1.4));
   container.querySelector('#zoom-reset').addEventListener('click', resetZoom);
+
+  // Dims constituencies whose severity isn't in activeSevs (a Set of -1..3).
+  // An empty/falsy set means no filter - everything shows at full opacity.
+  function setFilter(activeSevs) {
+    const hasFilter = activeSevs && activeSevs.size > 0;
+    svg.querySelectorAll('path.ac').forEach((path) => {
+      const match = !hasFilter || activeSevs.has(Number(path.dataset.sev));
+      path.classList.toggle('dimmed', !match);
+    });
+  }
+
+  return { setFilter };
 }

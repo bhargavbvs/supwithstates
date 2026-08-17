@@ -200,8 +200,12 @@ path.ac {
   stroke: #ffffff;
   stroke-width: 0.6;
   cursor: pointer;
-  transition: filter 120ms ease, transform 120ms ease;
+  transition: filter 120ms ease, transform 120ms ease, opacity 150ms ease;
   transform-origin: center;
+}
+
+path.ac.dimmed {
+  opacity: 0.16;
 }
 
 path.ac[data-sev="-1"] { fill: var(--sev--1); }
@@ -284,6 +288,33 @@ path.district-line {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
+  border: none;
+  background: none;
+  padding: 0.15rem 0.3rem;
+  margin: -0.15rem -0.3rem;
+  border-radius: 999px;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  transition: opacity 120ms ease, background 120ms ease;
+}
+
+#map-legend .dot:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+#map-legend .dot:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+#map-legend.filtering .dot:not(.active) {
+  opacity: 0.45;
+}
+
+#map-legend .dot.active {
+  font-weight: 700;
+  color: var(--ink);
 }
 
 #map-legend .dot::before {

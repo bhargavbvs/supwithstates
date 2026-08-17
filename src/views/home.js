@@ -10,11 +10,11 @@ export function renderHome(el) {
   el.innerHTML = `
     <div id="map"></div>
     <div id="map-legend">
-      <span class="dot d-0">No cases</span>
-      <span class="dot d-1">Declared</span>
-      <span class="dot d-2">Serious</span>
-      <span class="dot d-3">Convicted</span>
-      <span class="dot d--1">Not yet profiled</span>
+      <button type="button" class="dot d-0" data-sev="0" aria-pressed="false">No cases</button>
+      <button type="button" class="dot d-1" data-sev="1" aria-pressed="false">Declared</button>
+      <button type="button" class="dot d-2" data-sev="2" aria-pressed="false">Serious</button>
+      <button type="button" class="dot d-3" data-sev="3" aria-pressed="false">Convicted</button>
+      <button type="button" class="dot d--1" data-sev="-1" aria-pressed="false">Not yet profiled</button>
     </div>
     <div id="map-overlay">
       <section id="stats">
@@ -27,12 +27,36 @@ export function renderHome(el) {
     </div>
   `;
 
+  const legend = el.querySelector('#map-legend');
+  const activeFilters = new Set();
+  let map = null;
+
+  function applyFilter() {
+    map?.setFilter(activeFilters);
+    legend.classList.toggle('filtering', activeFilters.size > 0);
+    legend.querySelectorAll('.dot').forEach((btn) => {
+      const on = activeFilters.has(Number(btn.dataset.sev));
+      btn.classList.toggle('active', on);
+      btn.setAttribute('aria-pressed', String(on));
+    });
+  }
+
+  legend.querySelectorAll('.dot').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const sev = Number(btn.dataset.sev);
+      if (activeFilters.has(sev)) activeFilters.delete(sev);
+      else activeFilters.add(sev);
+      applyFilter();
+    });
+  });
+
   loadMapData().then((mapData) => {
-    renderMap(el.querySelector('#map'), {
+    map = renderMap(el.querySelector('#map'), {
       mapData,
       records: store.all,
       onSelect: (acNo) => { window.location.hash = `#/c/${acNo}`; }
     });
+    applyFilter();
   });
 
   const slot = el.querySelector('#search-slot');
