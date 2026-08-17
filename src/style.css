@@ -403,6 +403,11 @@ path.district-line {
   color: var(--party-text);
 }
 
+.party-dot.active .count {
+  color: inherit;
+  opacity: 0.85;
+}
+
 #map-legend.party-filtering .party-dot:not(.active) {
   opacity: 0.55;
 }
