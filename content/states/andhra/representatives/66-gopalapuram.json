@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-66-gopalapuram",
-  "constituency": { "number": 66, "name": "Gopalapuram", "district": "Eluru", "reserved": "SC" },
+  "constituency": {
+    "number": 66,
+    "name": "Gopalapuram",
+    "district": "Eluru",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Maddipati Venkata Raju",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Social Service and Business",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.Sc. (Information Systems), Sri GCSR College, Rajam, 2003" },
-    "declared_cases": { "total": 4, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 4 cases (all combinations of IPC 143/188/290/341/149/153A/504/506) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 5522638, "immovable": 6000000, "total": 11522638, "liabilities": 5663485 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/69ec8049f0b9113ff3835ff7aa431da4f73aa9e4.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=41"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Information Systems), Sri GCSR College, Rajam, 2003"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 4 cases (all combinations of IPC 143/188/290/341/149/153A/504/506) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 5522638,
+      "immovable": 6000000,
+      "total": 11522638,
+      "liabilities": 5663485
+    }
   },
-  "result": { "votes": 114420, "margin": 26784, "runner_up": "Tanet Vanta", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 114420,
+    "margin": 26784,
+    "runner_up": "Tanet Vanta",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=41",
     "retrieved": "2026-08-16"

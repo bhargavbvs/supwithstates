@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-41-kakinada-city",
-  "constituency": { "number": 41, "name": "Kakinada City", "district": "Kakinada", "reserved": null },
+  "constituency": {
+    "number": 41,
+    "name": "Kakinada City",
+    "district": "Kakinada",
+    "reserved": null
+  },
   "representative": {
     "name": "Vanamadi Venkateswara Rao",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Business (Dry Fish)",
-    "photo": null,
-    "education": { "level": "10th Pass", "detail": "SSC, M.S.N Charities, Kakinada, 1979" },
-    "declared_cases": { "total": 13, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Sections across the 13 cases (506/143/188/149/34/353/341/447/290/427/186/270) don't reach that threshold. No charges framed, zero convictions." },
-    "assets": { "movable": 3216631, "immovable": 76178000, "total": 79394631, "liabilities": 0 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/e538942d0ce64c47107a1b03dda9d28b3d3bbe03.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=57"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC, M.S.N Charities, Kakinada, 1979"
+    },
+    "declared_cases": {
+      "total": 13,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Sections across the 13 cases (506/143/188/149/34/353/341/447/290/427/186/270) don't reach that threshold. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 3216631,
+      "immovable": 76178000,
+      "total": 79394631,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 113014, "margin": 56572, "runner_up": "Dwarampudi Chandra Sekhara Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 113014,
+    "margin": 56572,
+    "runner_up": "Dwarampudi Chandra Sekhara Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=57",
     "retrieved": "2026-08-16"

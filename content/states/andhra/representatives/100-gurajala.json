@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-100-gurajala",
-  "constituency": { "number": 100, "name": "Gurajala", "district": "Palnadu", "reserved": null },
+  "constituency": {
+    "number": 100,
+    "name": "Gurajala",
+    "district": "Palnadu",
+    "reserved": null
+  },
   "representative": {
     "name": "Yarapathineni Srinivasa Rao",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Agriculturist and Social Worker",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, SKBR Govt. College, Macherla, 1982" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/7d9e89b7dae226744a75c8fb5e68d21843ae46ca.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=62"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, SKBR Govt. College, Macherla, 1982"
+    },
     "declared_cases": {
       "total": 22,
       "serious": 12,
       "convicted": 0,
       "note": "Serious = at least one section carries a maximum sentence of 5+ years. 12 of 22 cases qualify - all involve IPC 420 (cheating, max 7yr) alongside 448/379 and Prevention of Damage to Public Property/Mines and Minerals Act citations; the remaining 10 (unlawful-trespass/theft cases without 420, or public-order sections) top out under 5yr. No charges framed, zero convictions."
     },
-    "assets": { "movable": 1689555, "immovable": 40000000, "total": 41689555, "liabilities": 4314005 }
+    "assets": {
+      "movable": 1689555,
+      "immovable": 40000000,
+      "total": 41689555,
+      "liabilities": 4314005
+    }
   },
-  "result": { "votes": 128201, "margin": 29486, "runner_up": "Kasu Mahesh Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 128201,
+    "margin": 29486,
+    "runner_up": "Kasu Mahesh Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=62",
     "retrieved": "2026-08-16"

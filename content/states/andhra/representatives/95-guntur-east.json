@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-95-guntur-east",
-  "constituency": { "number": 95, "name": "Guntur East", "district": "Guntur", "reserved": null },
+  "constituency": {
+    "number": 95,
+    "name": "Guntur East",
+    "district": "Guntur",
+    "reserved": null
+  },
   "representative": {
     "name": "Mohammed Naseer Ahmed",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "10th Pass", "detail": "SSC, Sarada Niketan High School" },
-    "declared_cases": { "total": 8, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 8 cases (public-order/negligence/bribery sections up to 143/144/341/290/186/188/285/504/353/149/269/271/34/147/120B/272/273/171H combinations) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 3319199, "immovable": 3631500, "total": 6950699, "liabilities": 0 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/8f8a8a8a19211ec1280c40ac62d7a0542c8f9494.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=287"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC, Sarada Niketan High School"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 8 cases (public-order/negligence/bribery sections up to 143/144/341/290/186/188/285/504/353/149/269/271/34/147/120B/272/273/171H combinations) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 3319199,
+      "immovable": 3631500,
+      "total": 6950699,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 100815, "margin": 31962, "runner_up": "Shaik Noori Fatima", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 100815,
+    "margin": 31962,
+    "runner_up": "Shaik Noori Fatima",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=287",
     "retrieved": "2026-08-16"

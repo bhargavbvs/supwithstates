@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-97-narasaraopet",
-  "constituency": { "number": 97, "name": "Narasaraopet", "district": "Palnadu", "reserved": null },
+  "constituency": {
+    "number": 97,
+    "name": "Narasaraopet",
+    "district": "Palnadu",
+    "reserved": null
+  },
   "representative": {
     "name": "Aravinda Babu Chadalavada",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Medical Practitioner",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.S. Orthopaedics, University of Health Sciences, Vijayawada, 1992" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/a09b491937bb59d0151182d944e19a2d45bca4cb.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=46"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. Orthopaedics, University of Health Sciences, Vijayawada, 1992"
+    },
     "declared_cases": {
       "total": 17,
       "serious": 1,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Only 1 of 17 cases qualifies (IPC 307, attempt to murder, alongside 147/148/324/354/149); the rest (trespass/wrongful-restraint/public-order/minor-assault sections) top out under 5yr. No charges framed, zero convictions."
     },
-    "assets": { "movable": 281695311, "immovable": 141440020, "total": 423135331, "liabilities": 252989590 }
+    "assets": {
+      "movable": 281695311,
+      "immovable": 141440020,
+      "total": 423135331,
+      "liabilities": 252989590
+    }
   },
-  "result": { "votes": 103167, "margin": 19705, "runner_up": "Gopireddy Srinivasa Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 103167,
+    "margin": 19705,
+    "runner_up": "Gopireddy Srinivasa Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=46",
     "retrieved": "2026-08-16"

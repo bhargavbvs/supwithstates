@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-6-amadalavalasa",
-  "constituency": { "number": 6, "name": "Amadalavalasa", "district": "Srikakulam", "reserved": null },
+  "constituency": {
+    "number": 6,
+    "name": "Amadalavalasa",
+    "district": "Srikakulam",
+    "reserved": null
+  },
   "representative": {
     "name": "Koona Ravi Kumar",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Cultivation and Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.E. (Civil), Gulbarga University, 1990" },
-    "declared_cases": { "total": 15, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 15 cases qualify - all are public-order/negligence-type sections (188/143/149/353/506/341/etc) or a negligent-death case (304A, max 2yr), none reaching the threshold. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 73809428, "immovable": 44178200, "total": 117987628, "liabilities": 10163320 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/221e95b76cba033d102c9bb2868133cdabb5146f.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=86"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.E. (Civil), Gulbarga University, 1990"
+    },
+    "declared_cases": {
+      "total": 15,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 15 cases qualify - all are public-order/negligence-type sections (188/143/149/353/506/341/etc) or a negligent-death case (304A, max 2yr), none reaching the threshold. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 73809428,
+      "immovable": 44178200,
+      "total": 117987628,
+      "liabilities": 10163320
+    }
   },
-  "result": { "votes": 88003, "margin": 35032, "runner_up": "Thammineni Seetharam", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 88003,
+    "margin": 35032,
+    "runner_up": "Thammineni Seetharam",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=86",
     "retrieved": "2026-08-16"

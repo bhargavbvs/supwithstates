@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-44-amalapuram",
-  "constituency": { "number": 44, "name": "Amalapuram", "district": "Dr. B.R. Ambedkar Konaseema", "reserved": "SC" },
+  "constituency": {
+    "number": 44,
+    "name": "Amalapuram",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Aithabathula Anandarao",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Advocate, Agriculture and Aquaculture",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.A., 1993; B.L., 1996; Andhra University, Visakhapatnam" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (143/353/149; 341/34; 341/188/34) qualify. Charges were framed in 2 of the 3; zero convictions." },
-    "assets": { "movable": 5490237, "immovable": 52487600, "total": 57977837, "liabilities": 12608748 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/059b98266ed9f4a5c6802581baa966e7a300e7c7.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=54"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A., 1993; B.L., 1996; Andhra University, Visakhapatnam"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (143/353/149; 341/34; 341/188/34) qualify. Charges were framed in 2 of the 3; zero convictions."
+    },
+    "assets": {
+      "movable": 5490237,
+      "immovable": 52487600,
+      "total": 57977837,
+      "liabilities": 12608748
+    }
   },
-  "result": { "votes": 104022, "margin": 38628, "runner_up": "Pinipe Viswarupu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 104022,
+    "margin": 38628,
+    "runner_up": "Pinipe Viswarupu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=54",
     "retrieved": "2026-08-16"

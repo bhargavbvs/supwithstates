@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-107-santhanuthalapadu",
-  "constituency": { "number": 107, "name": "Santhanuthalapadu", "district": "Prakasam", "reserved": "SC" },
+  "constituency": {
+    "number": 107,
+    "name": "Santhanuthalapadu",
+    "district": "Prakasam",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "B. N. Vijay Kumar",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 56,
     "profession": "Social Service / Politician",
-    "photo": null,
-    "education": { "level": "Graduate Professional", "detail": "B.E. (Mechanical), Osmania University, Hyderabad, 1990" },
-    "declared_cases": { "total": 5, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the five pending cases (IPC 341/143/188/149/269/270/34/290, plus Section 32 of the Andhra Pradesh Police Act 1861) carries a maximum sentence of 5+ years; the highest is IPC 270 at 2 years. All show zero convictions; one case shows 'Charges Framed: Yes' (13 Jan 2024)." },
-    "assets": { "movable": 103036804, "immovable": 139725000, "total": 242761804, "liabilities": 122628829 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/d5a684e1e4a7df0f24aa116b367308fc25dcdaed.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=466"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Mechanical), Osmania University, Hyderabad, 1990"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the five pending cases (IPC 341/143/188/149/269/270/34/290, plus Section 32 of the Andhra Pradesh Police Act 1861) carries a maximum sentence of 5+ years; the highest is IPC 270 at 2 years. All show zero convictions; one case shows 'Charges Framed: Yes' (13 Jan 2024)."
+    },
+    "assets": {
+      "movable": 103036804,
+      "immovable": 139725000,
+      "total": 242761804,
+      "liabilities": 122628829
+    }
   },
-  "result": { "votes": 105757, "margin": 30385, "runner_up": "Merugu Nagarjuna", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 105757,
+    "margin": 30385,
+    "runner_up": "Merugu Nagarjuna",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=466",
     "retrieved": "2026-08-16"

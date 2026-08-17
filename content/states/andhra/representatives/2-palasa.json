@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-2-palasa",
-  "constituency": { "number": 2, "name": "Palasa", "district": "Srikakulam", "reserved": null },
+  "constituency": {
+    "number": 2,
+    "name": "Palasa",
+    "district": "Srikakulam",
+    "reserved": null
+  },
   "representative": {
     "name": "Gouthu Sireesha",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MBA (Marketing), Andhra University, 1996" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/333fe0d66346725ff299d67b721df244665a988b.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=130"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA (Marketing), Andhra University, 1996"
+    },
     "declared_cases": {
       "total": 3,
       "serious": 1,
       "convicted": 0,
       "note": "Serious = at least one section carries a maximum sentence of 5+ years. 1 of 3 cases qualifies (IPC 466, forgery of a court record/public register, max 7yr, alongside 464/465/469/471/474/500/505(1)); the other two (447/352/506/34 and 323/34/341/506) top out under 5yr. All 3 cases show 'Charges Framed: No' and zero convictions."
     },
-    "assets": { "movable": 208924345, "immovable": 226167050, "total": 435091395, "liabilities": 737315648 }
+    "assets": {
+      "movable": 208924345,
+      "immovable": 226167050,
+      "total": 435091395,
+      "liabilities": 737315648
+    }
   },
-  "result": { "votes": 101560, "margin": 40350, "runner_up": "Seediri Appalaraju", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 101560,
+    "margin": 40350,
+    "runner_up": "Seediri Appalaraju",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=130",
     "retrieved": "2026-08-16"

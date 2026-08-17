@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-52-jaggampeta",
-  "constituency": { "number": 52, "name": "Jaggampeta", "district": "Kakinada", "reserved": null },
+  "constituency": {
+    "number": 52,
+    "name": "Jaggampeta",
+    "district": "Kakinada",
+    "reserved": null
+  },
   "representative": {
     "name": "Jyothula Nehru",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 73,
     "profession": "Cultivation and Politics",
-    "photo": null,
-    "education": { "level": "8th Pass", "detail": "9th Class, ZP High School, Yeleswaram" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (188/143/341/149 x2; 143/188/269/270/353/34) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 6392969, "immovable": 6000000, "total": 12392969, "liabilities": 13575051 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/c4b9feacf5710622c9aeebbd3d2b6ea1027d3320.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=102"
+    },
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Class, ZP High School, Yeleswaram"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (188/143/341/149 x2; 143/188/269/270/353/34) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 6392969,
+      "immovable": 6000000,
+      "total": 12392969,
+      "liabilities": 13575051
+    }
   },
-  "result": { "votes": 113593, "margin": 52676, "runner_up": "Thota Narasimham", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 113593,
+    "margin": 52676,
+    "runner_up": "Thota Narasimham",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=102",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-35-tuni",
-  "constituency": { "number": 35, "name": "Tuni", "district": "Kakinada", "reserved": null },
+  "constituency": {
+    "number": 35,
+    "name": "Tuni",
+    "district": "Kakinada",
+    "reserved": null
+  },
   "representative": {
     "name": "Divya Yanamala",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 40,
     "profession": "Housewife",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MBA, Osmania University, 2012; B.E. (Electronics and Communication), Osmania University, 2006" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 26980800, "immovable": 66916650, "total": 93897450, "liabilities": 300000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/c07e6ecd4caf1c83314def9f312302f4d78f9783.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=254"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, Osmania University, 2012; B.E. (Electronics and Communication), Osmania University, 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26980800,
+      "immovable": 66916650,
+      "total": 93897450,
+      "liabilities": 300000
+    }
   },
-  "result": { "votes": 97206, "margin": 15177, "runner_up": "Dadisetti Raja", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 97206,
+    "margin": 15177,
+    "runner_up": "Dadisetti Raja",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=254",
     "retrieved": "2026-08-16"

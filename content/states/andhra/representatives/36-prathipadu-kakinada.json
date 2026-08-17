@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-36-prathipadu-kakinada",
-  "constituency": { "number": 36, "name": "Prathipadu", "district": "Kakinada", "reserved": null },
+  "constituency": {
+    "number": 36,
+    "name": "Prathipadu",
+    "district": "Kakinada",
+    "reserved": null
+  },
   "representative": {
     "name": "Varupula Satya Prabha",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 45,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MBA, Andhra University, Visakhapatnam, 2006" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 8361951, "immovable": 19287000, "total": 27648951, "liabilities": 16182632 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/103d167707b0e1d253b134984a5a0ad9ec50db86.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=464"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, Andhra University, Visakhapatnam, 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8361951,
+      "immovable": 19287000,
+      "total": 27648951,
+      "liabilities": 16182632
+    }
   },
-  "result": { "votes": 103002, "margin": 38768, "runner_up": "Varupula Subbarao", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 103002,
+    "margin": 38768,
+    "runner_up": "Varupula Subbarao",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=464",
     "retrieved": "2026-08-16"

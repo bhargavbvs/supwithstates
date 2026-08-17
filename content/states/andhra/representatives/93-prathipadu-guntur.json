@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-93-prathipadu-guntur",
-  "constituency": { "number": 93, "name": "Prathipadu", "district": "Guntur", "reserved": "SC" },
+  "constituency": {
+    "number": 93,
+    "name": "Prathipadu",
+    "district": "Guntur",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Burla Ramanjaneyulu",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Retired IAS Officer & Social Worker",
-    "photo": null,
-    "education": { "level": "Doctorate", "detail": "PhD, Sri Krishnadevaraya University, Anantapuram, 2019" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (143/427; 120B/171H/188/34 with RPA 127A(1); 120B/171E/171H/188/34 with RPA 127A(1)) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 26130970, "immovable": 59300000, "total": 85430970, "liabilities": 3262172 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/7fc7526fc7d46e9de488596c31887bf64ef0b584.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=925"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "PhD, Sri Krishnadevaraya University, Anantapuram, 2019"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 3 cases (143/427; 120B/171H/188/34 with RPA 127A(1); 120B/171E/171H/188/34 with RPA 127A(1)) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 26130970,
+      "immovable": 59300000,
+      "total": 85430970,
+      "liabilities": 3262172
+    }
   },
-  "result": { "votes": 128665, "margin": 42015, "runner_up": "Balasani Kiran Kumar", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 128665,
+    "margin": 42015,
+    "runner_up": "Balasani Kiran Kumar",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=925",
     "retrieved": "2026-08-16"

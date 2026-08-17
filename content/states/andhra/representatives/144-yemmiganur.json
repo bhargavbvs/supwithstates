@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-144-yemmiganur",
-  "constituency": { "number": 144, "name": "Yemmiganur", "district": "Kurnool", "reserved": null },
+  "constituency": {
+    "number": 144,
+    "name": "Yemmiganur",
+    "district": "Kurnool",
+    "reserved": null
+  },
   "representative": {
     "name": "Byreddy Jaya Nageswara Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Doctor",
-    "photo": null,
-    "education": { "level": "Graduate Professional", "detail": "MBBS, Deccan College of Medical Sciences, Hyderabad, NTR University of Health Sciences, Vijayawada, 2004" },
-    "declared_cases": { "total": 5, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Cr No. 61/2024 (Chittoor II Town Urban PS) includes IPC 420 (cheating), 467 and 468 (forgery of a valuable security / forgery for cheating), which qualify. The other four (Cr No. 102/2017, IPC 177; Crl. R.P. No. 9/2018, IPC 506/499/500/120A; C.C. No. 197/2019, NI Act 138 cheque dishonour; Cr.No. 358/2021, CrPC 151) do not. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 64650653, "immovable": 46053636, "total": 110704289, "liabilities": 15416752 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/d494c94f25ec9ddc3d5573642948a7215a75ebf0.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=163"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS, Deccan College of Medical Sciences, Hyderabad, NTR University of Health Sciences, Vijayawada, 2004"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Cr No. 61/2024 (Chittoor II Town Urban PS) includes IPC 420 (cheating), 467 and 468 (forgery of a valuable security / forgery for cheating), which qualify. The other four (Cr No. 102/2017, IPC 177; Crl. R.P. No. 9/2018, IPC 506/499/500/120A; C.C. No. 197/2019, NI Act 138 cheque dishonour; Cr.No. 358/2021, CrPC 151) do not. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 64650653,
+      "immovable": 46053636,
+      "total": 110704289,
+      "liabilities": 15416752
+    }
   },
-  "result": { "votes": 103089, "margin": 15837, "runner_up": "Butta Renuka", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 103089,
+    "margin": 15837,
+    "runner_up": "Butta Renuka",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=163",
     "retrieved": "2026-08-16"

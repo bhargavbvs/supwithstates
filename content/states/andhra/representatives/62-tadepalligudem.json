@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-62-tadepalligudem",
-  "constituency": { "number": 62, "name": "Tadepalligudem", "district": "West Godavari", "reserved": null },
+  "constituency": {
+    "number": 62,
+    "name": "Tadepalligudem",
+    "district": "West Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Bolisetti Srinivas",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Business and Agriculture",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, D R Govt Degree College, Pentapadu, West Godavari District, 1976" },
-    "declared_cases": { "total": 4, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Case 3 (Cr No 1/2012, Tadepalligudem Town PS) includes IPC 506(2) (criminal intimidation with threat of death/grievous hurt), which carries a maximum of 7 years and qualifies as serious. The other pending cases (IPC 342/427/506/109/149; IPC 353; and Sections 3-4 of the AP Gaming Act) involve sections capped at 2 years or less. All four show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 160399893, "immovable": 84921663, "total": 245321556, "liabilities": 192504003 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/af542306d7682ef49f29306efdda81337a1c84c4.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=409"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, D R Govt Degree College, Pentapadu, West Godavari District, 1976"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Case 3 (Cr No 1/2012, Tadepalligudem Town PS) includes IPC 506(2) (criminal intimidation with threat of death/grievous hurt), which carries a maximum of 7 years and qualifies as serious. The other pending cases (IPC 342/427/506/109/149; IPC 353; and Sections 3-4 of the AP Gaming Act) involve sections capped at 2 years or less. All four show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 160399893,
+      "immovable": 84921663,
+      "total": 245321556,
+      "liabilities": 192504003
+    }
   },
-  "result": { "votes": 116443, "margin": 62492, "runner_up": "Kottu Satyanarayana", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 116443,
+    "margin": 62492,
+    "runner_up": "Kottu Satyanarayana",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=409",
     "retrieved": "2026-08-16"

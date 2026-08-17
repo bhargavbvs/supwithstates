@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-45-razole",
-  "constituency": { "number": 45, "name": "Razole", "district": "Dr. B.R. Ambedkar Konaseema", "reserved": "SC" },
+  "constituency": {
+    "number": 45,
+    "name": "Razole",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Deva Varaprasad",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Retired IAS Officer",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.Sc Botany, Andhra University, Visakhapatnam, 1981" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases on the affidavit." },
-    "assets": { "movable": 27064207, "immovable": 56500000, "total": 83564207, "liabilities": 1065943 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/0397ce95b89483cd91f19a9f901d4697cd107c7c.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=264"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc Botany, Andhra University, Visakhapatnam, 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases on the affidavit."
+    },
+    "assets": {
+      "movable": 27064207,
+      "immovable": 56500000,
+      "total": 83564207,
+      "liabilities": 1065943
+    }
   },
-  "result": { "votes": 95514, "margin": 39011, "runner_up": "Gollapalli Surya Rao", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 95514,
+    "margin": 39011,
+    "runner_up": "Gollapalli Surya Rao",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=264",
     "retrieved": "2026-08-16"

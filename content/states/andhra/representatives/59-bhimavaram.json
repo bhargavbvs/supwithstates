@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-59-bhimavaram",
-  "constituency": { "number": 59, "name": "Bhimavaram", "district": "West Godavari", "reserved": null },
+  "constituency": {
+    "number": 59,
+    "name": "Bhimavaram",
+    "district": "West Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Pulaparthi Ramanjaneyulu",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 69,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, Hindu College, Machilipatnam, Krishna District, 1970-72" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
-    "assets": { "movable": 52058572, "immovable": 348465000, "total": 400523572, "liabilities": 2406664 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/89bb4b676a5476f34cf90dcb10436acaa8cd4ab9.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2098"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, Hindu College, Machilipatnam, Krishna District, 1970-72"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases in the candidate's 2024 affidavit."
+    },
+    "assets": {
+      "movable": 52058572,
+      "immovable": 348465000,
+      "total": 400523572,
+      "liabilities": 2406664
+    }
   },
-  "result": { "votes": 130424, "margin": 66974, "runner_up": "Grandhi Srinivas", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 130424,
+    "margin": 66974,
+    "runner_up": "Grandhi Srinivas",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2098",
     "retrieved": "2026-08-16"

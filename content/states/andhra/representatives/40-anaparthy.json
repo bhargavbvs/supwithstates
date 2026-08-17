@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-40-anaparthy",
-  "constituency": { "number": 40, "name": "Anaparthy", "district": "East Godavari", "reserved": null },
+  "constituency": {
+    "number": 40,
+    "name": "Anaparthy",
+    "district": "East Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Ramakrishna Reddy Nallamilli",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.E. (Civil), SRKR Engineering College, Bhimavaram, 1986" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/39de89b7bdb5aac6059cb4f864bfbbaff9af87e6.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2332"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.E. (Civil), SRKR Engineering College, Bhimavaram, 1986"
+    },
     "declared_cases": {
       "total": 32,
       "serious": 1,
       "convicted": 1,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. Only 1 of 32 qualifies (IPC 306, abetment of suicide, max 10yr); the other 31 pending cases (13 Negotiable Instruments Act cheque-bounce cases plus assorted public-order/defamation sections) top out under 5yr. One case (IPC 341/188/268, public nuisance) resulted in a conviction with a Rs 300 fine - no prison sentence."
     },
-    "assets": { "movable": 20843539, "immovable": 15000000, "total": 35843539, "liabilities": 44767663 }
+    "assets": {
+      "movable": 20843539,
+      "immovable": 15000000,
+      "total": 35843539,
+      "liabilities": 44767663
+    }
   },
-  "result": { "votes": 104705, "margin": 20567, "runner_up": "Sathi Suryanarayana Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 104705,
+    "margin": 20567,
+    "runner_up": "Sathi Suryanarayana Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2332",
     "retrieved": "2026-08-16"

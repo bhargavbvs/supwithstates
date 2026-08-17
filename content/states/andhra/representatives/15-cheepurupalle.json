@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-15-cheepurupalle",
-  "constituency": { "number": 15, "name": "Cheepurupalle", "district": "Vizianagaram", "reserved": null },
+  "constituency": {
+    "number": 15,
+    "name": "Cheepurupalle",
+    "district": "Vizianagaram",
+    "reserved": null
+  },
   "representative": {
     "name": "Kalavenkatarao Kimidi",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 71,
     "profession": "Cultivation and Political",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.A., B.L., Andhra University, 1980" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/1e1bea9e30628d6ab9b3b553acccb6fc57624d6f.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=1089"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., B.L., Andhra University, 1980"
+    },
     "declared_cases": {
       "total": 2,
       "serious": 1,
       "convicted": 0,
       "note": "Serious = at least one section carries a maximum sentence of 5+ years. 1 of 2 cases qualifies (IPC 307, attempt to murder, and 326, grievous hurt by dangerous weapons, alongside 427/503/506/323/120B); the other (341/188/34) tops out under 5yr. Both show 'Charges Framed: No' and zero convictions."
     },
-    "assets": { "movable": 34588893, "immovable": 226650400, "total": 261239293, "liabilities": 0 }
+    "assets": {
+      "movable": 34588893,
+      "immovable": 226650400,
+      "total": 261239293,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 88225, "margin": 11971, "runner_up": "Botcha Satyanarayana", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 88225,
+    "margin": 11971,
+    "runner_up": "Botcha Satyanarayana",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=1089",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-136-nandikotkur",
-  "constituency": { "number": 136, "name": "Nandikotkur", "district": "Nandyal", "reserved": "SC" },
+  "constituency": {
+    "number": 136,
+    "name": "Nandikotkur",
+    "district": "Nandyal",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "G Jayasurya",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 42,
     "profession": "Farmer",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Senior Secondary, National Open School, New Delhi, 2022" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 1091615, "immovable": 1100000, "total": 2191615, "liabilities": 159000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/cc64721a79e459641b1181e3d2350b32718e5fc1.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=358"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Senior Secondary, National Open School, New Delhi, 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1091615,
+      "immovable": 1100000,
+      "total": 2191615,
+      "liabilities": 159000
+    }
   },
-  "result": { "votes": 92004, "margin": 9792, "runner_up": "Dara Sudheer", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 92004,
+    "margin": 9792,
+    "runner_up": "Dara Sudheer",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=358",
     "retrieved": "2026-08-16"

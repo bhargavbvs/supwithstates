@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-24-visakhapatnam-west",
-  "constituency": { "number": 24, "name": "Visakhapatnam West", "district": "Visakhapatnam", "reserved": null },
+  "constituency": {
+    "number": 24,
+    "name": "Visakhapatnam West",
+    "district": "Visakhapatnam",
+    "reserved": null
+  },
   "representative": {
     "name": "P.G.V.R. Naidu",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Com, Mrs. A.V.N. College, Andhra University, 1990" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 10514941, "immovable": 386200000, "total": 396714941, "liabilities": 126735370 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/b16e73c4c71261d5db6bb40901345fc1533657c0.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=469"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, Mrs. A.V.N. College, Andhra University, 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10514941,
+      "immovable": 386200000,
+      "total": 396714941,
+      "liabilities": 126735370
+    }
   },
-  "result": { "votes": 90805, "margin": 35184, "runner_up": "Adari Anand", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 90805,
+    "margin": 35184,
+    "runner_up": "Adari Anand",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=469",
     "retrieved": "2026-08-16"

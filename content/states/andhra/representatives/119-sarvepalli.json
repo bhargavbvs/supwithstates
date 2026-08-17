@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-119-sarvepalli",
-  "constituency": { "number": 119, "name": "Sarvepalli", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "constituency": {
+    "number": 119,
+    "name": "Sarvepalli",
+    "district": "Sri Potti Sriramulu Nellore",
+    "reserved": null
+  },
   "representative": {
     "name": "Somireddy Chandra Mohan Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Politician; former Andhra Pradesh Agriculture Minister",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, K.A.C Junior College, Nellore, 1974" },
-    "declared_cases": { "total": 16, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Two of the 16 pending cases qualify: Crime No. 40/2021 (Krishnapatnam Port PS, CC 786/2023) includes IPC 468 (forgery, max 7 years) alongside IT Act sections; and Crime No. 212/2019 (V. Sathram PS) includes IPC 468 as well. The remaining 14 cases involve sections such as 143/341/149 (unlawful assembly), 269/270/271 (public health/quarantine offences), 353, 379, 498A, 506 and 309, none of which independently qualify. Charges are not framed in any case; zero convictions." },
-    "assets": { "movable": 18493166, "immovable": 91820000, "total": 110313167, "liabilities": 3080000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/5d434f91c957fafc35fc1b0801d415a1cf03ba30.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=361"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, K.A.C Junior College, Nellore, 1974"
+    },
+    "declared_cases": {
+      "total": 16,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Two of the 16 pending cases qualify: Crime No. 40/2021 (Krishnapatnam Port PS, CC 786/2023) includes IPC 468 (forgery, max 7 years) alongside IT Act sections; and Crime No. 212/2019 (V. Sathram PS) includes IPC 468 as well. The remaining 14 cases involve sections such as 143/341/149 (unlawful assembly), 269/270/271 (public health/quarantine offences), 353, 379, 498A, 506 and 309, none of which independently qualify. Charges are not framed in any case; zero convictions."
+    },
+    "assets": {
+      "movable": 18493166,
+      "immovable": 91820000,
+      "total": 110313167,
+      "liabilities": 3080000
+    }
   },
-  "result": { "votes": 103278, "margin": 16288, "runner_up": "Kakani Govardhan Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 103278,
+    "margin": 16288,
+    "runner_up": "Kakani Govardhan Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=361",
     "retrieved": "2026-08-16"

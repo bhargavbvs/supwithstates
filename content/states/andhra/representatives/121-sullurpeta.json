@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-121-sullurpeta",
-  "constituency": { "number": 121, "name": "Sullurpeta", "district": "Tirupati", "reserved": "SC" },
+  "constituency": {
+    "number": 121,
+    "name": "Sullurpeta",
+    "district": "Tirupati",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Nelavala Vijayasree",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 37,
     "profession": "Doctor",
-    "photo": null,
-    "education": { "level": "Graduate Professional", "detail": "MBBS, Dr. Y.S.R. University of Health Sciences, Narayana Medical College, Nellore, 2022" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 14169034, "immovable": 20600000, "total": 34769034, "liabilities": 8341370 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/fb6cea52464a4ee887095ebd59439a688f181471.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=235"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS, Dr. Y.S.R. University of Health Sciences, Narayana Medical College, Nellore, 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14169034,
+      "immovable": 20600000,
+      "total": 34769034,
+      "liabilities": 8341370
+    }
   },
-  "result": { "votes": 111048, "margin": 29115, "runner_up": "Kiliveti Sanjeevaiah", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 111048,
+    "margin": 29115,
+    "runner_up": "Kiliveti Sanjeevaiah",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=235",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-22-visakhapatnam-south",
-  "constituency": { "number": 22, "name": "Visakhapatnam South", "district": "Visakhapatnam", "reserved": null },
+  "constituency": {
+    "number": 22,
+    "name": "Visakhapatnam South",
+    "district": "Visakhapatnam",
+    "reserved": null
+  },
   "representative": {
     "name": "Ch. Vamsi Krishna Srinivas",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MA (Politics), Andhra University, 2017" },
-    "declared_cases": { "total": 8, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the eight pending cases (IPC 500 defamation, 505(2) public mischief statements, and six cheque-bounce cases under Section 138 of the Negotiable Instruments Act) qualify. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 75995218, "immovable": 59157450, "total": 135152668, "liabilities": 21171019 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/a1bd434e30d6c5a7667f5eb0018ef23160212297.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2262"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Politics), Andhra University, 2017"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the eight pending cases (IPC 500 defamation, 505(2) public mischief statements, and six cheque-bounce cases under Section 138 of the Negotiable Instruments Act) qualify. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 75995218,
+      "immovable": 59157450,
+      "total": 135152668,
+      "liabilities": 21171019
+    }
   },
-  "result": { "votes": 97868, "margin": 64594, "runner_up": "Vasupalli Ganesh Kumar", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 97868,
+    "margin": 64594,
+    "runner_up": "Vasupalli Ganesh Kumar",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2262",
     "retrieved": "2026-08-16"

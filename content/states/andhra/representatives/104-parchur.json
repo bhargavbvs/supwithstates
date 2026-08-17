@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-104-parchur",
-  "constituency": { "number": 104, "name": "Parchur", "district": "Bapatla", "reserved": null },
+  "constituency": {
+    "number": 104,
+    "name": "Parchur",
+    "district": "Bapatla",
+    "reserved": null
+  },
   "representative": {
     "name": "Yeluri Sambasiva Rao",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.Sc. (Horticulture), Acharya N.G. Ranga Agricultural University, Hyderabad, 2004" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/ed3e9309eb9c18fe7e3b5573bcce7b46fbcb55b8.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=373"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Horticulture), Acharya N.G. Ranga Agricultural University, Hyderabad, 2004"
+    },
     "declared_cases": {
       "total": 6,
       "serious": 0,

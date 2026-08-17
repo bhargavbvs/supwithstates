@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-46-gannavaram",
-  "constituency": { "number": 46, "name": "Gannavaram", "district": "Dr. B.R. Ambedkar Konaseema", "reserved": "SC" },
+  "constituency": {
+    "number": 46,
+    "name": "Gannavaram",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Giddi Satyanarayana",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Retired Employee",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "BA, D.N.R. College, Bhimavaram (Andhra University), 1984-1987" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases on the affidavit." },
-    "assets": { "movable": 3639632, "immovable": 8878000, "total": 12517632, "liabilities": 1617619 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/84172c5ce5b89b7e634e9735cb5aebbfeb565965.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2661"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "BA, D.N.R. College, Bhimavaram (Andhra University), 1984-1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases on the affidavit."
+    },
+    "assets": {
+      "movable": 3639632,
+      "immovable": 8878000,
+      "total": 12517632,
+      "liabilities": 1617619
+    }
   },
-  "result": { "votes": 96108, "margin": 33367, "runner_up": "Vipparthi Venugopalarao", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 96108,
+    "margin": 33367,
+    "runner_up": "Vipparthi Venugopalarao",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2661",
     "retrieved": "2026-08-16"

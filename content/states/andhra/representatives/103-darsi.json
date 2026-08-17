@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-103-darsi",
-  "constituency": { "number": 103, "name": "Darsi", "district": "Prakasam", "reserved": null },
+  "constituency": {
+    "number": 103,
+    "name": "Darsi",
+    "district": "Prakasam",
+    "reserved": null
+  },
   "representative": {
     "name": "Buchepalli Siva Prasad Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Doctor, Agriculturalist, Engaged in Politics and Public Service",
-    "photo": null,
-    "education": { "level": "Graduate Professional", "detail": "MBBS, Sri Ramachandra Medical College, Chennai, 2004" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
-    "assets": { "movable": 121654980, "immovable": 290436000, "total": 412090980, "liabilities": 11000000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/e682bd75a1edc17d79d3cfebf83202056a40ff06.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=4"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS, Sri Ramachandra Medical College, Chennai, 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases in the candidate's 2024 affidavit."
+    },
+    "assets": {
+      "movable": 121654980,
+      "immovable": 290436000,
+      "total": 412090980,
+      "liabilities": 11000000
+    }
   },
-  "result": { "votes": 101889, "margin": 2456, "runner_up": "Gottipati Lakshmi", "runner_up_party": "TDP" },
+  "result": {
+    "votes": 101889,
+    "margin": 2456,
+    "runner_up": "Gottipati Lakshmi",
+    "runner_up_party": "TDP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=4",
     "retrieved": "2026-08-16"

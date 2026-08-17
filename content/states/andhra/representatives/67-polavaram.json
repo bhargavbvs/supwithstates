@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-67-polavaram",
-  "constituency": { "number": 67, "name": "Polavaram", "district": "Eluru", "reserved": "ST" },
+  "constituency": {
+    "number": 67,
+    "name": "Polavaram",
+    "district": "Eluru",
+    "reserved": "ST"
+  },
   "representative": {
     "name": "Chirri Balaraju",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 36,
     "profession": "Agriculture",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.A., Kakatiya University, 2008-2010" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases in the candidate's 2024 affidavit." },
-    "assets": { "movable": 1733164, "immovable": 3493500, "total": 5226664, "liabilities": 1157946 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/3d0b0a409ef4d876296bf12090475c8cb41fb9a3.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=399"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., Kakatiya University, 2008-2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases in the candidate's 2024 affidavit."
+    },
+    "assets": {
+      "movable": 1733164,
+      "immovable": 3493500,
+      "total": 5226664,
+      "liabilities": 1157946
+    }
   },
-  "result": { "votes": 101453, "margin": 7935, "runner_up": "Tellam Rajya Lakshmi", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 101453,
+    "margin": 7935,
+    "runner_up": "Tellam Rajya Lakshmi",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=399",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-64-denduluru",
-  "constituency": { "number": 64, "name": "Denduluru", "district": "Eluru", "reserved": null },
+  "constituency": {
+    "number": 64,
+    "name": "Denduluru",
+    "district": "Eluru",
+    "reserved": null
+  },
   "representative": {
     "name": "Chintamaneni Prabhakar",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Cultivation, Politician & Public Service",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, Sir C.R.R. College, Eluru, 1986" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/91d73dbc3665b2bbcf6ec612a01e2cba69c8e10c.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=201"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, Sir C.R.R. College, Eluru, 1986"
+    },
     "declared_cases": {
       "total": 90,
       "serious": 13,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. This candidate's affidavit lists 90 pending cases spanning 1999-2024; 89 were individually reviewed (the 90th's detail could not be independently retrieved, though the affidavit's own header confirms 90 total). Of the 89 reviewed, 13 qualify as serious, involving sections such as IPC 307 (attempt to murder, x3), 409 (breach of trust by a public servant), 364/363 (kidnapping, x2), 371 (habitual dealing in slaves), 395 (dacoity), 452 (house-trespass after preparation for hurt), 376 (rape), 326 (grievous hurt by dangerous weapons), 195A (threatening a witness), 388 (extortion by threat of accusation), and 431 (mischief by injury to a public road/bridge, max exactly 5yr). The remaining ~76 are public-order, trespass, and CrPC 151 preventive-arrest entries under 5yr, or SC/ST Prevention of Atrocities Act citations without a specified serious clause. No cases show 'Charges Framed: Yes'; zero convictions."
     },
-    "assets": { "movable": 30216229, "immovable": 508281300, "total": 538497529, "liabilities": 18180461 }
+    "assets": {
+      "movable": 30216229,
+      "immovable": 508281300,
+      "total": 538497529,
+      "liabilities": 18180461
+    }
   },
-  "result": { "votes": 107287, "margin": 26266, "runner_up": "Kotaru Abbaya Chowdary", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 107287,
+    "margin": 26266,
+    "runner_up": "Kotaru Abbaya Chowdary",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=201",
     "retrieved": "2026-08-16"

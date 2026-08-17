@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-154-kalyandurg",
-  "constituency": { "number": 154, "name": "Kalyandurg", "district": "Ananthapuramu", "reserved": null },
+  "constituency": {
+    "number": 154,
+    "name": "Kalyandurg",
+    "district": "Ananthapuramu",
+    "reserved": null
+  },
   "representative": {
     "name": "Amilineni Surendra Babu",
     "election": "2024",
@@ -10,9 +15,22 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Business and Social Activities",
-    "photo": null,
-    "education": { "level": "10th Pass", "detail": "SSC, Board of Secondary Education, Andhra Pradesh, 1983" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/a30354f40e058998892f2bf36ce749232974d53d.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=103"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC, Board of Secondary Education, Andhra Pradesh, 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
     "assets": {
       "movable": 143452084,
       "immovable": 1750065325,

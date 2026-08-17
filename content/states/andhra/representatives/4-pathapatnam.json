@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-4-pathapatnam",
-  "constituency": { "number": 4, "name": "Pathapatnam", "district": "Srikakulam", "reserved": null },
+  "constituency": {
+    "number": 4,
+    "name": "Pathapatnam",
+    "district": "Srikakulam",
+    "reserved": null
+  },
   "representative": {
     "name": "Mamidi Govinda Rao",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Agriculture and Business",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, Govt Junior College, Narsipatnam, 1991" },
-    "declared_cases": { "total": 2, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Both cases are Negotiable Instruments Act 138/142 (cheque dishonour, max 2yr), neither qualifies. Zero convictions." },
-    "assets": { "movable": 21346806, "immovable": 57831360, "total": 79178166, "liabilities": 36317000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/ddea7cb6b60ce8f05ad502783dc4f9e1003e533b.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=133"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, Govt Junior College, Narsipatnam, 1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Both cases are Negotiable Instruments Act 138/142 (cheque dishonour, max 2yr), neither qualifies. Zero convictions."
+    },
+    "assets": {
+      "movable": 21346806,
+      "immovable": 57831360,
+      "total": 79178166,
+      "liabilities": 36317000
+    }
   },
-  "result": { "votes": 89452, "margin": 26527, "runner_up": "Reddy Shanthi", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 89452,
+    "margin": 26527,
+    "runner_up": "Reddy Shanthi",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=133",
     "retrieved": "2026-08-16"

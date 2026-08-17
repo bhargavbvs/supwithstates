@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-48-mandapeta",
-  "constituency": { "number": 48, "name": "Mandapeta", "district": "Dr. B.R. Ambedkar Konaseema", "reserved": null },
+  "constituency": {
+    "number": 48,
+    "name": "Mandapeta",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "reserved": null
+  },
   "representative": {
     "name": "Jogeswara Rao V",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 69,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Com, Andhra University, Waltair, 1974" },
-    "declared_cases": { "total": 6, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 6 cases (five are CrPC 151; one is IPC 341/34) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 234927348, "immovable": 458357585, "total": 693284933, "liabilities": 67290573 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/ea6aab76acc90f9e80fb1deae0b97741e79d30aa.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=261"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, Andhra University, Waltair, 1974"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 6 cases (five are CrPC 151; one is IPC 341/34) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 234927348,
+      "immovable": 458357585,
+      "total": 693284933,
+      "liabilities": 67290573
+    }
   },
-  "result": { "votes": 116309, "margin": 44435, "runner_up": "Thota Trimurthulu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 116309,
+    "margin": 44435,
+    "runner_up": "Thota Trimurthulu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=261",
     "retrieved": "2026-08-16"

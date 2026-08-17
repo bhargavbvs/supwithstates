@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-92-bapatla",
-  "constituency": { "number": 92, "name": "Bapatla", "district": "Bapatla", "reserved": null },
+  "constituency": {
+    "number": 92,
+    "name": "Bapatla",
+    "district": "Bapatla",
+    "reserved": null
+  },
   "representative": {
     "name": "Narendra Varma Raju Vegesana",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "10th Pass", "detail": "SSC, Govt Junior College, Pittalavanipalem, 1985" },
-    "declared_cases": { "total": 9, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 9 cases (CrPC 151 or minor IPC 506/188/143/149/341/505/353/147/109 combinations) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 850158359, "immovable": 244683519, "total": 1094841878, "liabilities": 273628532 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/ec6ec474921b5951a150e043ee25bf843ec82b06.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=59"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC, Govt Junior College, Pittalavanipalem, 1985"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 9 cases (CrPC 151 or minor IPC 506/188/143/149/341/505/353/147/109 combinations) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 850158359,
+      "immovable": 244683519,
+      "total": 1094841878,
+      "liabilities": 273628532
+    }
   },
-  "result": { "votes": 90626, "margin": 27768, "runner_up": "Kona Raghupathi", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 90626,
+    "margin": 27768,
+    "runner_up": "Kona Raghupathi",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=59",
     "retrieved": "2026-08-16"

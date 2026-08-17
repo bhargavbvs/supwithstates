@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-11-kurupam",
-  "constituency": { "number": 11, "name": "Kurupam", "district": "Parvathipuram Manyam", "reserved": "ST" },
+  "constituency": {
+    "number": 11,
+    "name": "Kurupam",
+    "district": "Parvathipuram Manyam",
+    "reserved": "ST"
+  },
   "representative": {
     "name": "Jagadeeswari Thoyaka",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 39,
     "profession": "Housewife",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Sc. (B.Z.C.), DBK College, Parvathipuram, 2013" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. All 3 cases are CrPC 151 (preventive arrest), which doesn't qualify. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 2537000, "immovable": 675000, "total": 3212000, "liabilities": 1800000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/3d5b49170fea35bc062f73ef9b324e2798684259.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=334"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. (B.Z.C.), DBK College, Parvathipuram, 2013"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. All 3 cases are CrPC 151 (preventive arrest), which doesn't qualify. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 2537000,
+      "immovable": 675000,
+      "total": 3212000,
+      "liabilities": 1800000
+    }
   },
-  "result": { "votes": 83355, "margin": 23500, "runner_up": "Pamula Pushpa Sreevani", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 83355,
+    "margin": 23500,
+    "runner_up": "Pamula Pushpa Sreevani",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=334",
     "retrieved": "2026-08-16"

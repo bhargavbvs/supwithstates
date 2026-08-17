@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-84-jaggayyapeta",
-  "constituency": { "number": 84, "name": "Jaggayyapeta", "district": "NTR", "reserved": null },
+  "constituency": {
+    "number": 84,
+    "name": "Jaggayyapeta",
+    "district": "NTR",
+    "reserved": null
+  },
   "representative": {
     "name": "Rajagopal Sreeram",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Politician",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Com, SGS College, Andhra University, 1984" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 143/341/149) tops out under 5yr. No charges framed, zero convictions." },
-    "assets": { "movable": 21171472, "immovable": 20172000, "total": 41343472, "liabilities": 9969188 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/bbd7ed6f007eafd6728e323139c7cbeb56d2dbb7.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=45"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, SGS College, Andhra University, 1984"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 143/341/149) tops out under 5yr. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 21171472,
+      "immovable": 20172000,
+      "total": 41343472,
+      "liabilities": 9969188
+    }
   },
-  "result": { "votes": 98479, "margin": 15977, "runner_up": "Samineni Udayabhanu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 98479,
+    "margin": 15977,
+    "runner_up": "Samineni Udayabhanu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=45",
     "retrieved": "2026-08-16"

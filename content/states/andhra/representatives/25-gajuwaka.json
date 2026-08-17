@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-25-gajuwaka",
-  "constituency": { "number": 25, "name": "Gajuwaka", "district": "Visakhapatnam", "reserved": null },
+  "constituency": {
+    "number": 25,
+    "name": "Gajuwaka",
+    "district": "Visakhapatnam",
+    "reserved": null
+  },
   "representative": {
     "name": "Palla Srinivas Rao",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Civil Consultancy",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MBA, Andhra University, 1995; M.Tech (Structural Engineering), Andhra University, 1998" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Sections across the 3 cases (34/269/188/271/336/143/283/353) don't reach that threshold. No charges framed, zero convictions." },
-    "assets": { "movable": 8058095, "immovable": 335352717, "total": 343410812, "liabilities": 23422121 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/ad5453a511cbf7e5dbf9a7b91ab057f0a36e5a8b.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=454"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, Andhra University, 1995; M.Tech (Structural Engineering), Andhra University, 1998"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Sections across the 3 cases (34/269/188/271/336/143/283/353) don't reach that threshold. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 8058095,
+      "immovable": 335352717,
+      "total": 343410812,
+      "liabilities": 23422121
+    }
   },
-  "result": { "votes": 157703, "margin": 95235, "runner_up": "Gudivada Amarnath", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 157703,
+    "margin": 95235,
+    "runner_up": "Gudivada Amarnath",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=454",
     "retrieved": "2026-08-16"

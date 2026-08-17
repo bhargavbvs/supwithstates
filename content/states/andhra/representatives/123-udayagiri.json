@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-123-udayagiri",
-  "constituency": { "number": 123, "name": "Udayagiri", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "constituency": {
+    "number": 123,
+    "name": "Udayagiri",
+    "district": "Sri Potti Sriramulu Nellore",
+    "reserved": null
+  },
   "representative": {
     "name": "Kakarla Suresh",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Software Consultant",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Tech, Nagarjuna University, Guntur, 1993" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (FIR 30/2024, Jaladanki PS) carries IPC sections 171H, 188, 283 and 341 along with Section 32 of the Police Act, none of which qualify. Charges are not framed; zero convictions." },
-    "assets": { "movable": 96485185, "immovable": 182517844, "total": 279003029, "liabilities": 32882000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/325cf10db22314f76dc92eda0d046a5545d041c0.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=241"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Tech, Nagarjuna University, Guntur, 1993"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (FIR 30/2024, Jaladanki PS) carries IPC sections 171H, 188, 283 and 341 along with Section 32 of the Police Act, none of which qualify. Charges are not framed; zero convictions."
+    },
+    "assets": {
+      "movable": 96485185,
+      "immovable": 182517844,
+      "total": 279003029,
+      "liabilities": 32882000
+    }
   },
-  "result": { "votes": 101537, "margin": 9621, "runner_up": "Mekapati Rajagopal Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 101537,
+    "margin": 9621,
+    "runner_up": "Mekapati Rajagopal Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=241",
     "retrieved": "2026-08-16"

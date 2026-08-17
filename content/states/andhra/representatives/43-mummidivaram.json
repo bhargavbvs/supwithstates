@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-43-mummidivaram",
-  "constituency": { "number": 43, "name": "Mummidivaram", "district": "Dr. B.R. Ambedkar Konaseema", "reserved": null },
+  "constituency": {
+    "number": 43,
+    "name": "Mummidivaram",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "reserved": null
+  },
   "representative": {
     "name": "Datla Subba Raju",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, S.K.B.R. College, Amalapuram, 1990" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (AP Gaming Act Sections 3 and 4) doesn't qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 65612824, "immovable": 330615000, "total": 396227824, "liabilities": 177424418 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/dea3519b202485dfe0a63fca0f412149d9ccc453.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=431"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, S.K.B.R. College, Amalapuram, 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (AP Gaming Act Sections 3 and 4) doesn't qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 65612824,
+      "immovable": 330615000,
+      "total": 396227824,
+      "liabilities": 177424418
+    }
   },
-  "result": { "votes": 118687, "margin": 38736, "runner_up": "Ponnada Venkata Satish Kumar", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 118687,
+    "margin": 38736,
+    "runner_up": "Ponnada Venkata Satish Kumar",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=431",
     "retrieved": "2026-08-16"

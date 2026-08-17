@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-127-kodur",
-  "constituency": { "number": 127, "name": "Kodur", "district": "Annamayya", "reserved": "SC" },
+  "constituency": {
+    "number": 127,
+    "name": "Kodur",
+    "district": "Annamayya",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Arava Sreedhar",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 27,
     "profession": "Agriculture, Politics, Sarpanch",
-    "photo": null,
-    "education": { "level": "Graduate Professional", "detail": "B.Tech, Rajiv Gandhi Memorial College of Engineering, Nandyal" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Cr No 166/2021, Obulavari Palli PS; CC No 303/2021, JMFC Railway Kodur) carries IPC sections 323 (voluntarily causing hurt) and 34, neither of which qualifies. Charges were framed on 29 September 2022; zero convictions." },
-    "assets": { "movable": 2358358, "immovable": 2200000, "total": 4558358, "liabilities": 882152 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/18a792531e62ce2787fe888a7163700cd78ca4c3.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=1358"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech, Rajiv Gandhi Memorial College of Engineering, Nandyal"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Cr No 166/2021, Obulavari Palli PS; CC No 303/2021, JMFC Railway Kodur) carries IPC sections 323 (voluntarily causing hurt) and 34, neither of which qualifies. Charges were framed on 29 September 2022; zero convictions."
+    },
+    "assets": {
+      "movable": 2358358,
+      "immovable": 2200000,
+      "total": 4558358,
+      "liabilities": 882152
+    }
   },
-  "result": { "votes": 78594, "margin": 11101, "runner_up": "Koramutla Srinivasulu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 78594,
+    "margin": 11101,
+    "runner_up": "Koramutla Srinivasulu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=1358",
     "retrieved": "2026-08-16"

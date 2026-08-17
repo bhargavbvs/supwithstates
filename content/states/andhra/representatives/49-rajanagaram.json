@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-49-rajanagaram",
-  "constituency": { "number": 49, "name": "Rajanagaram", "district": "East Godavari", "reserved": null },
+  "constituency": {
+    "number": 49,
+    "name": "Rajanagaram",
+    "district": "East Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Bathula Balaramakrishna",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Business (Man-Power Agency, Proprietary Concern)",
-    "photo": null,
-    "education": { "level": "8th Pass", "detail": "Passed 9th Class, ZPH High School, Gadarada, 1988-89" },
-    "declared_cases": { "total": 3, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the three pending cases (IPC 143, 341, 149, 188, 290) qualify. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 198091435, "immovable": 217094846, "total": 415186281, "liabilities": 172933023 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/485f611be5192a8b0e476aaf5d3bd255a397aada.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=260"
+    },
+    "education": {
+      "level": "8th Pass",
+      "detail": "Passed 9th Class, ZPH High School, Gadarada, 1988-89"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the three pending cases (IPC 143, 341, 149, 188, 290) qualify. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 198091435,
+      "immovable": 217094846,
+      "total": 415186281,
+      "liabilities": 172933023
+    }
   },
-  "result": { "votes": 105995, "margin": 34049, "runner_up": "Jakkampudi Raja", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 105995,
+    "margin": 34049,
+    "runner_up": "Jakkampudi Raja",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=260",
     "retrieved": "2026-08-16"

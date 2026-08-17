@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-28-araku-valley",
-  "constituency": { "number": 28, "name": "Araku Valley", "district": "Alluri Sitharama Raju", "reserved": "ST" },
+  "constituency": {
+    "number": 28,
+    "name": "Araku Valley",
+    "district": "Alluri Sitharama Raju",
+    "reserved": "ST"
+  },
   "representative": {
     "name": "Regam Matyalingam",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 57,
     "profession": "Retired Teacher",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.A. Sociology, T.T.C., Andhra University" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 506/341/323/509/34) tops out under 5yr. Pending, no charges framed, zero convictions." },
-    "assets": { "movable": 2190049, "immovable": 1010000, "total": 3200049, "liabilities": 176716 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/335472b5f94129fda06a547d6ac6c42788ae68c4.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=171"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Sociology, T.T.C., Andhra University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The 1 case (IPC 506/341/323/509/34) tops out under 5yr. Pending, no charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 2190049,
+      "immovable": 1010000,
+      "total": 3200049,
+      "liabilities": 176716
+    }
   },
-  "result": { "votes": 65658, "margin": 31877, "runner_up": "Pangi Rajarao", "runner_up_party": "BJP" },
+  "result": {
+    "votes": 65658,
+    "margin": 31877,
+    "runner_up": "Pangi Rajarao",
+    "runner_up_party": "BJP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=171",
     "retrieved": "2026-08-16"

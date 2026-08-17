@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-71-gannavaram",
-  "constituency": { "number": 71, "name": "Gannavaram", "district": "Krishna", "reserved": null },
+  "constituency": {
+    "number": 71,
+    "name": "Gannavaram",
+    "district": "Krishna",
+    "reserved": null
+  },
   "representative": {
     "name": "Yarlagadda Venkata Rao",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Sc., Nagarjuna University, 1998" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/77dea1b657fe77373bbbd812fcc5d4a4361a599b.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=39"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc., Nagarjuna University, 1998"
+    },
     "declared_cases": {
       "total": 9,
       "serious": 2,

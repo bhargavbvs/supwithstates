@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-68-chintalapudi",
-  "constituency": { "number": 68, "name": "Chintalapudi", "district": "Eluru", "reserved": "SC" },
+  "constituency": {
+    "number": 68,
+    "name": "Chintalapudi",
+    "district": "Eluru",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Roshan Kumar Songa",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Senior Manager (IT)",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MCA, Osmania University, 2003" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 41388733, "immovable": 13900000, "total": 55288733, "liabilities": 0 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/90b56d9cb94abf841750c941af4c6bc77ef88435.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=194"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MCA, Osmania University, 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41388733,
+      "immovable": 13900000,
+      "total": 55288733,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 120126, "margin": 27766, "runner_up": "Kambham Vijaya Raju", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 120126,
+    "margin": 27766,
+    "runner_up": "Kambham Vijaya Raju",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=194",
     "retrieved": "2026-08-16"

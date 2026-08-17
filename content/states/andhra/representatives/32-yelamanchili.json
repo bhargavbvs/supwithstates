@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-32-yelamanchili",
-  "constituency": { "number": 32, "name": "Yelamanchili", "district": "Anakapalli", "reserved": null },
+  "constituency": {
+    "number": 32,
+    "name": "Yelamanchili",
+    "district": "Anakapalli",
+    "reserved": null
+  },
   "representative": {
     "name": "Sundarapu Vijay Kumar",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Others", "detail": "Diploma in Electronics & Communication Engineering (DECE), T.G.L.G. Polytechnic, Adoni, 1995-1998" },
-    "declared_cases": { "total": 8, "serious": 3, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Three of the eight pending cases qualify: one includes IPC 307 (attempt to murder) and IPC 325 (grievous hurt); one includes IPC 467/468/408/420 (forgery of a valuable security, forgery for cheating, criminal breach of trust by a servant, and cheating); and one includes IPC 307 again alongside rioting charges. The remaining five involve lesser charges (e.g. IPC 323, 341, 353, 406, 506, CrPC 151). All eight show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 49388989, "immovable": 24030000, "total": 73418989, "liabilities": 18934612 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/f2c734f1f7c23cb1454faf54ff168281c49d8f01.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=211"
+    },
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Electronics & Communication Engineering (DECE), T.G.L.G. Polytechnic, Adoni, 1995-1998"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": 3,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Three of the eight pending cases qualify: one includes IPC 307 (attempt to murder) and IPC 325 (grievous hurt); one includes IPC 467/468/408/420 (forgery of a valuable security, forgery for cheating, criminal breach of trust by a servant, and cheating); and one includes IPC 307 again alongside rioting charges. The remaining five involve lesser charges (e.g. IPC 323, 341, 353, 406, 506, CrPC 151). All eight show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 49388989,
+      "immovable": 24030000,
+      "total": 73418989,
+      "liabilities": 18934612
+    }
   },
-  "result": { "votes": 109443, "margin": 48956, "runner_up": "Kanna Babu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 109443,
+    "margin": 48956,
+    "runner_up": "Kanna Babu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=211",
     "retrieved": "2026-08-16"

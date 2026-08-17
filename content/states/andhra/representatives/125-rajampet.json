@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-125-rajampet",
-  "constituency": { "number": 125, "name": "Rajampet", "district": "YSR Kadapa", "reserved": null },
+  "constituency": {
+    "number": 125,
+    "name": "Rajampet",
+    "district": "YSR Kadapa",
+    "reserved": null
+  },
   "representative": {
     "name": "Akepati Amarnath Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Politician and Agriculturist",
-    "photo": null,
-    "education": { "level": "12th Pass", "detail": "Intermediate, Government Junior College, Rajampet, 1979" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 6182460, "immovable": 33500000, "total": 39682460, "liabilities": 519476 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/238bd16bc420797303a5aa7828367c5e4982107b.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=21"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, Government Junior College, Rajampet, 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6182460,
+      "immovable": 33500000,
+      "total": 39682460,
+      "liabilities": 519476
+    }
   },
-  "result": { "votes": 92609, "margin": 7016, "runner_up": "Sugavasi Subrahmanyam", "runner_up_party": "TDP" },
+  "result": {
+    "votes": 92609,
+    "margin": 7016,
+    "runner_up": "Sugavasi Subrahmanyam",
+    "runner_up_party": "TDP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=21",
     "retrieved": "2026-08-16"

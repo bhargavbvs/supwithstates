@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-126-kadapa",
-  "constituency": { "number": 126, "name": "Kadapa", "district": "YSR Kadapa", "reserved": null },
+  "constituency": {
+    "number": 126,
+    "name": "Kadapa",
+    "district": "YSR Kadapa",
+    "reserved": null
+  },
   "representative": {
     "name": "Madhavi Reddappa Gari",
     "election": "2024",
@@ -10,8 +15,16 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Agriculture, Business & Social Activities",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.A., Osmania University, Hyderabad, 1995" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/8edc3601bfffaa9109ffa63faf3a73a4f503b477.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=457"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., Osmania University, Hyderabad, 1995"
+    },
     "declared_cases": {
       "total": 4,
       "serious": 1,

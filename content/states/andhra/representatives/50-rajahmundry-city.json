@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-50-rajahmundry-city",
-  "constituency": { "number": 50, "name": "Rajahmundry City", "district": "East Godavari", "reserved": null },
+  "constituency": {
+    "number": 50,
+    "name": "Rajahmundry City",
+    "district": "East Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Adireddy Srinivas",
     "election": "2024",
@@ -10,17 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 42,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.E., Madras University, 2003" },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/a4a0b9a61675523c2fdbd45369e1b7624155eaeb.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=259"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.E., Madras University, 2003"
+    },
     "declared_cases": {
       "total": 8,
       "serious": 1,
       "convicted": 0,
       "note": "Serious = at least one section in the case carries a maximum sentence of 5+ years. 1 of 8 cases qualifies (IPC 420/409/477A/120B, cheating, breach of trust by a public servant, and falsification of accounts, alongside a state anti-profiteering act citation); the rest (unlawful-assembly/public-order/mischief sections) top out under 5yr. Charges were framed in one of the non-serious cases; zero convictions in any."
     },
-    "assets": { "movable": 138748832, "immovable": 449452552, "total": 588201384, "liabilities": 168266759 }
+    "assets": {
+      "movable": 138748832,
+      "immovable": 449452552,
+      "total": 588201384,
+      "liabilities": 168266759
+    }
   },
-  "result": { "votes": 123291, "margin": 71404, "runner_up": "Margani Bharath Ram", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 123291,
+    "margin": 71404,
+    "runner_up": "Margani Bharath Ram",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=259",
     "retrieved": "2026-08-16"

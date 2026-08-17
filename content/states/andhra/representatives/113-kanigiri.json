@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-113-kanigiri",
-  "constituency": { "number": 113, "name": "Kanigiri", "district": "Prakasam", "reserved": null },
+  "constituency": {
+    "number": 113,
+    "name": "Kanigiri",
+    "district": "Prakasam",
+    "reserved": null
+  },
   "representative": {
     "name": "Mukku Ugra Narasimha Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Business and Politics",
-    "photo": null,
-    "education": { "level": "Graduate Professional", "detail": "MBBS, Kuvempu University, J.J.M. Medical College, Davanagere, 2000" },
-    "declared_cases": { "total": 4, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 4 pending cases qualify: one (Cr.No 255/2021) carries IPC sections 143/188/290/341/149, and the other three are preventive proceedings under CrPC Sections 107 and 151 with no IPC sections applied. Charges are not framed in any case; zero convictions." },
-    "assets": { "movable": 69766894, "immovable": 110322000, "total": 180088894, "liabilities": 68913536 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/d41493f9b1276525b337129c734433e0f67693b2.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=326"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS, Kuvempu University, J.J.M. Medical College, Davanagere, 2000"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 4 pending cases qualify: one (Cr.No 255/2021) carries IPC sections 143/188/290/341/149, and the other three are preventive proceedings under CrPC Sections 107 and 151 with no IPC sections applied. Charges are not framed in any case; zero convictions."
+    },
+    "assets": {
+      "movable": 69766894,
+      "immovable": 110322000,
+      "total": 180088894,
+      "liabilities": 68913536
+    }
   },
-  "result": { "votes": 107045, "margin": 14604, "runner_up": "Daddala Narayana Yadav", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 107045,
+    "margin": 14604,
+    "runner_up": "Daddala Narayana Yadav",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=326",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-51-rajahmundry-rural",
-  "constituency": { "number": 51, "name": "Rajahmundry Rural", "district": "East Godavari", "reserved": null },
+  "constituency": {
+    "number": 51,
+    "name": "Rajahmundry Rural",
+    "district": "East Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Butchaiah Choudary Gorantla",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 78,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Sc., Government Arts and Science College, Rajahmundry, Andhra University, 1967" },
-    "declared_cases": { "total": 2, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Neither case (188/341/353/34 with Epidemic Disease Act; 143/353/188/269/270/34 with Epidemic Disease Act) qualifies. No charges framed, zero convictions." },
-    "assets": { "movable": 63949307, "immovable": 208109900, "total": 272059207, "liabilities": 26773323 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/793a8f5000d03199f67f0565b8a9b0393511cddf.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=256"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc., Government Arts and Science College, Rajahmundry, Andhra University, 1967"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Neither case (188/341/353/34 with Epidemic Disease Act; 143/353/188/269/270/34 with Epidemic Disease Act) qualifies. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 63949307,
+      "immovable": 208109900,
+      "total": 272059207,
+      "liabilities": 26773323
+    }
   },
-  "result": { "votes": 129060, "margin": 64090, "runner_up": "Gopalakrishna Chelluboyina", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 129060,
+    "margin": 64090,
+    "runner_up": "Gopalakrishna Chelluboyina",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=256",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-150-guntakal",
-  "constituency": { "number": 150, "name": "Guntakal", "district": "Ananthapuramu", "reserved": null },
+  "constituency": {
+    "number": 150,
+    "name": "Guntakal",
+    "district": "Ananthapuramu",
+    "reserved": null
+  },
   "representative": {
     "name": "Jayaram Gummanur",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 56,
     "profession": "Social Service; previously MLA of Alur constituency",
-    "photo": null,
-    "education": { "level": "8th Pass", "detail": "SSLC appeared 1984, Municipal Boys High School, Bellary, Karnataka" },
-    "declared_cases": { "total": 1, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Cr No.31/2024, II Town PS Guntakal; IPC 188) does not qualify. No charges framed, no convictions." },
-    "assets": { "movable": 2481849, "immovable": 15500000, "total": 17981849, "liabilities": 0 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/5f0f7ddb43efbc3ff16fae94f86e9be099fbca93.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=309"
+    },
+    "education": {
+      "level": "8th Pass",
+      "detail": "SSLC appeared 1984, Municipal Boys High School, Bellary, Karnataka"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (Cr No.31/2024, II Town PS Guntakal; IPC 188) does not qualify. No charges framed, no convictions."
+    },
+    "assets": {
+      "movable": 2481849,
+      "immovable": 15500000,
+      "total": 17981849,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 101700, "margin": 6826, "runner_up": "Y. Venkatarama Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 101700,
+    "margin": 6826,
+    "runner_up": "Y. Venkatarama Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=309",
     "retrieved": "2026-08-16"

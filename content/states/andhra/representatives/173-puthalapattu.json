@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-173-puthalapattu",
-  "constituency": { "number": 173, "name": "Puthalapattu", "district": "Chittoor", "reserved": "SC" },
+  "constituency": {
+    "number": 173,
+    "name": "Puthalapattu",
+    "district": "Chittoor",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Kalikiri Murali Mohan",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 45,
     "profession": "Journalist",
-    "photo": null,
-    "education": { "level": "Doctorate", "detail": "Ph.D in Commerce, Sri Venkateswara University, Tirupati, 2013" },
-    "declared_cases": { "total": 11, "serious": 7, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. 6 of 11 pending cases (CC No. 1853/1855/1856/1857/1858/1699 of 2023) each cite Prevention of Damage to Public Property Act Sec 3 (max 5 years) alongside IPC 341/427/353/506/109; these six cases share near-identical section sets and appear to stem from a single incident recorded as separate case numbers. P.R.C No. 05/2024 cites IPC 304(2) (culpable homicide not amounting to murder, max 10 years). The remaining 4 cases involve IPC 341/188/143/186/505(1)(b)/506 and a CrPC 151 matter, none exceeding a 5-year maximum. Zero convictions. Given the volume of similarly-worded PDPPA cases, this classification is flagged for reviewer double-check." },
-    "assets": { "movable": 10737916, "immovable": 4000000, "total": 14737916, "liabilities": 0 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/43c0dddb7f9eb39c7d68fb5564498ad6f7511047.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=119"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D in Commerce, Sri Venkateswara University, Tirupati, 2013"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": 7,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. 6 of 11 pending cases (CC No. 1853/1855/1856/1857/1858/1699 of 2023) each cite Prevention of Damage to Public Property Act Sec 3 (max 5 years) alongside IPC 341/427/353/506/109; these six cases share near-identical section sets and appear to stem from a single incident recorded as separate case numbers. P.R.C No. 05/2024 cites IPC 304(2) (culpable homicide not amounting to murder, max 10 years). The remaining 4 cases involve IPC 341/188/143/186/505(1)(b)/506 and a CrPC 151 matter, none exceeding a 5-year maximum. Zero convictions. Given the volume of similarly-worded PDPPA cases, this classification is flagged for reviewer double-check."
+    },
+    "assets": {
+      "movable": 10737916,
+      "immovable": 4000000,
+      "total": 14737916,
+      "liabilities": 0
+    }
   },
-  "result": { "votes": 102137, "margin": 15634, "runner_up": "M. Suneel Kumar", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 102137,
+    "margin": 15634,
+    "runner_up": "M. Suneel Kumar",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=119",
     "retrieved": "2026-08-16"

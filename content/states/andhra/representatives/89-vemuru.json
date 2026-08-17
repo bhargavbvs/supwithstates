@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-89-vemuru",
-  "constituency": { "number": 89, "name": "Vemuru", "district": "Bapatla", "reserved": "SC" },
+  "constituency": {
+    "number": 89,
+    "name": "Vemuru",
+    "district": "Bapatla",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Ananda Babu Nakka",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Advocate",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "LLB, Andhra University, Waltair, 1995" },
-    "declared_cases": { "total": 10, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 10 cases (public-order/trespass/negligence sections up to 143/188/149/120B/353/34/341/269/283/270/271/447/427/324/332/336/337/323/504/506/109) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 12862554, "immovable": 34574000, "total": 47436554, "liabilities": 2013543 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/bdc013c6ec810a8669775a797834c357cea0cbbd.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=296"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "LLB, Andhra University, Waltair, 1995"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 10 cases (public-order/trespass/negligence sections up to 143/188/149/120B/353/34/341/269/283/270/271/447/427/324/332/336/337/323/504/506/109) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 12862554,
+      "immovable": 34574000,
+      "total": 47436554,
+      "liabilities": 2013543
+    }
   },
-  "result": { "votes": 94922, "margin": 22021, "runner_up": "Varikuti Ashok Babu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 94922,
+    "margin": 22021,
+    "runner_up": "Varikuti Ashok Babu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=296",
     "retrieved": "2026-08-16"

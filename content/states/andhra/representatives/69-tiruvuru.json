@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-69-tiruvuru",
-  "constituency": { "number": 69, "name": "Tiruvuru", "district": "NTR", "reserved": "SC" },
+  "constituency": {
+    "number": 69,
+    "name": "Tiruvuru",
+    "district": "NTR",
+    "reserved": "SC"
+  },
   "representative": {
     "name": "Kolikapudi Srinivasa Rao",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Self Employed",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.A. English Literature, Andhra University, 1994" },
-    "declared_cases": { "total": 10, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the sections listed (171H/153A/505(2)/115/181/506/188/143/34/290/120B/109/286/149/323/355/353) reach that threshold. No charges framed, zero convictions." },
-    "assets": { "movable": 8288000, "immovable": 9000000, "total": 17288000, "liabilities": 1100000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/1fe0c231590b8804f0271435b6543e444e3951f4.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=342"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. English Literature, Andhra University, 1994"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the sections listed (171H/153A/505(2)/115/181/506/188/143/34/290/120B/109/286/149/323/355/353) reach that threshold. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 8288000,
+      "immovable": 9000000,
+      "total": 17288000,
+      "liabilities": 1100000
+    }
   },
-  "result": { "votes": 100719, "margin": 21874, "runner_up": "Nallagatla Swamy Das", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 100719,
+    "margin": 21874,
+    "runner_up": "Nallagatla Swamy Das",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=342",
     "retrieved": "2026-08-16"

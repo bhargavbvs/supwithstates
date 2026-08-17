@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-61-tanuku",
-  "constituency": { "number": 61, "name": "Tanuku", "district": "West Godavari", "reserved": null },
+  "constituency": {
+    "number": 61,
+    "name": "Tanuku",
+    "district": "West Godavari",
+    "reserved": null
+  },
   "representative": {
     "name": "Arimilli Radha Krishna",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "M.Sc. Computers, Nagarjuna University, 1997" },
-    "declared_cases": { "total": 7, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 7 cases (CrPC 151 or minor IPC 142/341/323/188/149/143/186/353) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 104591249, "immovable": 185295900, "total": 289887149, "liabilities": 12627286 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/a39a09835e03c4951310b5a6d4243bcc2ea31a16.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2566"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. Computers, Nagarjuna University, 1997"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 7 cases (CrPC 151 or minor IPC 142/341/323/188/149/143/186/353) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 104591249,
+      "immovable": 185295900,
+      "total": 289887149,
+      "liabilities": 12627286
+    }
   },
-  "result": { "votes": 129547, "margin": 72121, "runner_up": "Karumuri Venkata Nageswara Rao", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 129547,
+    "margin": 72121,
+    "runner_up": "Karumuri Venkata Nageswara Rao",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2566",
     "retrieved": "2026-08-16"

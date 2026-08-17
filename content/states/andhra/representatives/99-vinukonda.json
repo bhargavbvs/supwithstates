@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-99-vinukonda",
-  "constituency": { "number": 99, "name": "Vinukonda", "district": "Palnadu", "reserved": null },
+  "constituency": {
+    "number": 99,
+    "name": "Vinukonda",
+    "district": "Palnadu",
+    "reserved": null
+  },
   "representative": {
     "name": "Gonuguntla Venkata Siva Sita Rama Anjaneyulu",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Business",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Sc., J.K.C. College, Guntur, Acharya Nagarjuna University, 1987" },
-    "declared_cases": { "total": 18, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 18 cases (CrPC 151 or public-order/trespass/negligence sections up to 188/504/143/447/379/506/34/341/147/149/353/269/270/290/283/342/186) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 509918835, "immovable": 1190708416, "total": 1700627251, "liabilities": 299900000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/ba2684fe86b1235c542d6c1ae2d7b89ff1620fc7.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=64"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc., J.K.C. College, Guntur, Acharya Nagarjuna University, 1987"
+    },
+    "declared_cases": {
+      "total": 18,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 18 cases (CrPC 151 or public-order/trespass/negligence sections up to 188/504/143/447/379/506/34/341/147/149/353/269/270/290/283/342/186) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 509918835,
+      "immovable": 1190708416,
+      "total": 1700627251,
+      "liabilities": 299900000
+    }
   },
-  "result": { "votes": 131438, "margin": 30267, "runner_up": "Bolla Brahma Naidu", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 131438,
+    "margin": 30267,
+    "runner_up": "Bolla Brahma Naidu",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=64",
     "retrieved": "2026-08-16"

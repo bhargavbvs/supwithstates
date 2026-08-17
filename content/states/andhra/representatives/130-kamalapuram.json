@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-130-kamalapuram",
-  "constituency": { "number": 130, "name": "Kamalapuram", "district": "YSR Kadapa", "reserved": null },
+  "constituency": {
+    "number": 130,
+    "name": "Kamalapuram",
+    "district": "YSR Kadapa",
+    "reserved": null
+  },
   "representative": {
     "name": "Putha Krishna Chaitanya Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 42,
     "profession": "Business and Agriculture",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MSc Information Technology and Business, Middlesex University, UK, 2005" },
-    "declared_cases": { "total": 3, "serious": 2, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. FIR 42/2024 (Kamalapuram PS) includes IPC 307 (attempt to murder) and FIR 61/2009 (Pendlimarry, Kadapa) includes IPC 326 (grievous hurt by dangerous weapons), both qualifying. FIR 178/2021 (IPC 353/34) does not. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 194793194, "immovable": 27060000, "total": 221853194, "liabilities": 59691239 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/5a522f620797b26b11942589a19d4affdb1bb92b.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=325"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MSc Information Technology and Business, Middlesex University, UK, 2005"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": 2,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. FIR 42/2024 (Kamalapuram PS) includes IPC 307 (attempt to murder) and FIR 61/2009 (Pendlimarry, Kadapa) includes IPC 326 (grievous hurt by dangerous weapons), both qualifying. FIR 178/2021 (IPC 353/34) does not. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 194793194,
+      "immovable": 27060000,
+      "total": 221853194,
+      "liabilities": 59691239
+    }
   },
-  "result": { "votes": 95207, "margin": 25357, "runner_up": "Pochimareddy Ravindranath Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 95207,
+    "margin": 25357,
+    "runner_up": "Pochimareddy Ravindranath Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=325",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-53-rampachodavaram",
-  "constituency": { "number": 53, "name": "Rampachodavaram", "district": "Alluri Sitharama Raju", "reserved": "ST" },
+  "constituency": {
+    "number": 53,
+    "name": "Rampachodavaram",
+    "district": "Alluri Sitharama Raju",
+    "reserved": "ST"
+  },
   "representative": {
     "name": "Miriyala Sirisha Devi",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 30,
     "profession": "Ex-Anganwadi Worker",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.Ed, Andhra University, 2015" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
-    "assets": { "movable": 1438968, "immovable": 545000, "total": 1983968, "liabilities": 1067500 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/44a28e9e0bfbfffd4086026f8b7e8ee6d93bd347.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=276"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Ed, Andhra University, 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1438968,
+      "immovable": 545000,
+      "total": 1983968,
+      "liabilities": 1067500
+    }
   },
-  "result": { "votes": 90087, "margin": 9139, "runner_up": "Nagulapalli Dhanalaxmi", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 90087,
+    "margin": 9139,
+    "runner_up": "Nagulapalli Dhanalaxmi",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=276",
     "retrieved": "2026-08-16"

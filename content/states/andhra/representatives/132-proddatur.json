@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-132-proddatur",
-  "constituency": { "number": 132, "name": "Proddatur", "district": "YSR Kadapa", "reserved": null },
+  "constituency": {
+    "number": 132,
+    "name": "Proddatur",
+    "district": "YSR Kadapa",
+    "reserved": null
+  },
   "representative": {
     "name": "Nandyala Varadarajula Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 82,
     "profession": "Agriculture",
-    "photo": null,
-    "education": { "level": "10th Pass", "detail": "S.S.L.C., Annebisent Municipal High School, Proddatur, 1959" },
-    "declared_cases": { "total": 6, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the six pending cases (sections include IPC 143, 341, 352, 353, 384, 427, 447, 448, 506, 509, 171C, 171H, 279, 290) carry a maximum sentence of 5+ years. All show 'Charges Framed: No' and zero convictions." },
-    "assets": { "movable": 115613834, "immovable": 114078000, "total": 229691834, "liabilities": 3946000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/2ac98fca5e076146e5d440ad21b1b4e1696e93d5.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=76"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "S.S.L.C., Annebisent Municipal High School, Proddatur, 1959"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the six pending cases (sections include IPC 143, 341, 352, 353, 384, 427, 447, 448, 506, 509, 171C, 171H, 279, 290) carry a maximum sentence of 5+ years. All show 'Charges Framed: No' and zero convictions."
+    },
+    "assets": {
+      "movable": 115613834,
+      "immovable": 114078000,
+      "total": 229691834,
+      "liabilities": 3946000
+    }
   },
-  "result": { "votes": 106712, "margin": 22744, "runner_up": "Rachamallu Siva Prasad Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 106712,
+    "margin": 22744,
+    "runner_up": "Rachamallu Siva Prasad Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=76",
     "retrieved": "2026-08-16"

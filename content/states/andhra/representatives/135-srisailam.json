@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-135-srisailam",
-  "constituency": { "number": 135, "name": "Srisailam", "district": "Nandyal", "reserved": null },
+  "constituency": {
+    "number": 135,
+    "name": "Srisailam",
+    "district": "Nandyal",
+    "reserved": null
+  },
   "representative": {
     "name": "Budda Rajasekhara Reddy",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 57,
     "profession": "Agriculturist",
-    "photo": null,
-    "education": { "level": "Graduate", "detail": "B.A., Osmania College, Kurnool" },
-    "declared_cases": { "total": 4, "serious": 0, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 4 cases (504/506; 143/341/149; 324/506/34; CrPC 151) qualify. No charges framed, zero convictions." },
-    "assets": { "movable": 14686498, "immovable": 22016200, "total": 36702698, "liabilities": 8849999 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/273959bfce4668ad7315c258e77640f072e9ee3e.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=24"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., Osmania College, Kurnool"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": 0,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. None of the 4 cases (504/506; 143/341/149; 324/506/34; CrPC 151) qualify. No charges framed, zero convictions."
+    },
+    "assets": {
+      "movable": 14686498,
+      "immovable": 22016200,
+      "total": 36702698,
+      "liabilities": 8849999
+    }
   },
-  "result": { "votes": 81699, "margin": 6385, "runner_up": "Silpa Chakrapani Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 81699,
+    "margin": 6385,
+    "runner_up": "Silpa Chakrapani Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=24",
     "retrieved": "2026-08-16"

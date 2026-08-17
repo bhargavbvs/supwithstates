@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-109-kandukur",
-  "constituency": { "number": 109, "name": "Kandukur", "district": "Sri Potti Sriramulu Nellore", "reserved": null },
+  "constituency": {
+    "number": 109,
+    "name": "Kandukur",
+    "district": "Sri Potti Sriramulu Nellore",
+    "reserved": null
+  },
   "representative": {
     "name": "Inturi Nageswara Rao",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Business & Cultivation",
-    "photo": null,
-    "education": { "level": "10th Pass", "detail": "SSC, Z.P.H. School (B), Kandukur, 1990-91" },
-    "declared_cases": { "total": 11, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. Case 7 (Crime No.203/2022, Kandukur Town PS; SC Spl. No.71/2023, VII Addl. District & Sessions Judge Court, Ongole) includes IPC 304 Part II (culpable homicide not amounting to murder), alongside Sections 3 & 5 of the SC/ST (Prevention of Atrocities) Act; IPC 304(II) carries up to 10 years and qualifies as serious. Charges are not yet framed and there is no conviction on this or any other case. The other ten cases involve sections such as IPC 143/149/188/341/506/283/286/171E and CrPC 151/107, none reaching the 5-year threshold." },
-    "assets": { "movable": 73817712, "immovable": 59543270, "total": 133360982, "liabilities": 87217644 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/0c6b11f3a077b8f8e86c7692d6805644a6b97052.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=367"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC, Z.P.H. School (B), Kandukur, 1990-91"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. Case 7 (Crime No.203/2022, Kandukur Town PS; SC Spl. No.71/2023, VII Addl. District & Sessions Judge Court, Ongole) includes IPC 304 Part II (culpable homicide not amounting to murder), alongside Sections 3 & 5 of the SC/ST (Prevention of Atrocities) Act; IPC 304(II) carries up to 10 years and qualifies as serious. Charges are not yet framed and there is no conviction on this or any other case. The other ten cases involve sections such as IPC 143/149/188/341/506/283/286/171E and CrPC 151/107, none reaching the 5-year threshold."
+    },
+    "assets": {
+      "movable": 73817712,
+      "immovable": 59543270,
+      "total": 133360982,
+      "liabilities": 87217644
+    }
   },
-  "result": { "votes": 109173, "margin": 18558, "runner_up": "Burra Madhusudhan Rao", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 109173,
+    "margin": 18558,
+    "runner_up": "Burra Madhusudhan Rao",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=367",
     "retrieved": "2026-08-16"

@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-165-punganur",
-  "constituency": { "number": 165, "name": "Punganur", "district": "Chittoor", "reserved": null },
+  "constituency": {
+    "number": 165,
+    "name": "Punganur",
+    "district": "Chittoor",
+    "reserved": null
+  },
   "representative": {
     "name": "Peddireddi Ramachandra Reddy",
     "election": "2024",
@@ -10,9 +15,22 @@
     "term_start": "2024-06",
     "age_at_election": 71,
     "profession": "MLA & Agriculturalist",
-    "photo": null,
-    "education": { "level": "Doctorate", "detail": "MA, PhD, Sri Venkateswara University, 1975" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": null },
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/fb865f2dca78a4df0aca0dd70c19feb22a894131.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=440"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "MA, PhD, Sri Venkateswara University, 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": null
+    },
     "assets": {
       "movable": 251514889,
       "immovable": 2102500000,

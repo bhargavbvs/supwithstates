@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-153-anantapur-urban",
-  "constituency": { "number": 153, "name": "Anantapur Urban", "district": "Ananthapuramu", "reserved": null },
+  "constituency": {
+    "number": 153,
+    "name": "Anantapur Urban",
+    "district": "Ananthapuramu",
+    "reserved": null
+  },
   "representative": {
     "name": "Daggupati Venkateswara Prasad",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 48,
     "profession": "Business and Agriculturist",
-    "photo": null,
-    "education": { "level": "Others", "detail": "Diploma in Mechanical Engineering, Vasavi Polytechnic College, Banaganapalli, Kurnool District, 1995" },
-    "declared_cases": { "total": 1, "serious": 1, "convicted": 0, "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (FIR 56/2015, Rapathadu PS, Anantapuramu; PRC No.16/2019) includes IPC 302 (murder) and IPC 307 (attempt to murder) alongside 147/148/149/120B, so it qualifies as serious. No charges have been framed; an interim stay from the Andhra Pradesh High Court (order dated 20-12-2023) is in effect. No convictions." },
-    "assets": { "movable": 193576363, "immovable": 337560000, "total": 531136363, "liabilities": 51594253 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/6b174aad38a9cb38ecd2a2f5a8cee5bf3acb8200.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=184"
+    },
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Mechanical Engineering, Vasavi Polytechnic College, Banaganapalli, Kurnool District, 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": 1,
+      "convicted": 0,
+      "note": "Serious = at least one section carries a maximum sentence of 5+ years. The single pending case (FIR 56/2015, Rapathadu PS, Anantapuramu; PRC No.16/2019) includes IPC 302 (murder) and IPC 307 (attempt to murder) alongside 147/148/149/120B, so it qualifies as serious. No charges have been framed; an interim stay from the Andhra Pradesh High Court (order dated 20-12-2023) is in effect. No convictions."
+    },
+    "assets": {
+      "movable": 193576363,
+      "immovable": 337560000,
+      "total": 531136363,
+      "liabilities": 51594253
+    }
   },
-  "result": { "votes": 103334, "margin": 23023, "runner_up": "Anantha Venkatarami Reddy", "runner_up_party": "YSRCP" },
+  "result": {
+    "votes": 103334,
+    "margin": 23023,
+    "runner_up": "Anantha Venkatarami Reddy",
+    "runner_up_party": "YSRCP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=184",
     "retrieved": "2026-08-16"

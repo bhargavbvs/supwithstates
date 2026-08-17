@@ -1,6 +1,11 @@
 {
   "id": "ap-ac-29-paderu",
-  "constituency": { "number": 29, "name": "Paderu", "district": "Alluri Sitharama Raju", "reserved": "ST" },
+  "constituency": {
+    "number": 29,
+    "name": "Paderu",
+    "district": "Alluri Sitharama Raju",
+    "reserved": "ST"
+  },
   "representative": {
     "name": "Matsyarasa Visweswara Raju",
     "election": "2024",
@@ -10,12 +15,35 @@
     "term_start": "2024-06",
     "age_at_election": 38,
     "profession": "Advocate",
-    "photo": null,
-    "education": { "level": "Post Graduate", "detail": "MA, Andhra Pradesh University, Visakhapatnam, 2008; LLB, Andhra University, Visakhapatnam, 2011" },
-    "declared_cases": { "total": 0, "serious": 0, "convicted": 0, "note": "No declared criminal cases on the affidavit." },
-    "assets": { "movable": 5098365, "immovable": 0, "total": 5098365, "liabilities": 120000 }
+    "photo": {
+      "url": "https://myneta.info/images_candidate/andhrapradesh2024/359bc44c7d28a4f4b6bd265f9e81b9eaf2f7b71f.jpg",
+      "credit": "MyNeta / Election Commission of India",
+      "license": "Fair Use (Educational)",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=142"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA, Andhra Pradesh University, Visakhapatnam, 2008; LLB, Andhra University, Visakhapatnam, 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": 0,
+      "convicted": 0,
+      "note": "No declared criminal cases on the affidavit."
+    },
+    "assets": {
+      "movable": 5098365,
+      "immovable": 0,
+      "total": 5098365,
+      "liabilities": 120000
+    }
   },
-  "result": { "votes": 68170, "margin": 19338, "runner_up": "Giddi Eswari", "runner_up_party": "TDP" },
+  "result": {
+    "votes": 68170,
+    "margin": 19338,
+    "runner_up": "Giddi Eswari",
+    "runner_up_party": "TDP"
+  },
   "source": {
     "myneta_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=142",
     "retrieved": "2026-08-16"
