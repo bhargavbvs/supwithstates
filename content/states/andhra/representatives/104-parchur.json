@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/ed3e9309eb9c18fe7e3b5573bcce7b46fbcb55b8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=373"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. (Horticulture), Acharya N.G. Ranga Agricultural University, Hyderabad, 2004"

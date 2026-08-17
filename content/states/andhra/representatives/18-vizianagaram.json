@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Home Maker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/3a20b482fab78f3a32a85528232d4546a28cf6c5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=470"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Psychology, Andhra University, Visakhapatnam, 2013"

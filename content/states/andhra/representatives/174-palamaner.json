@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Cultivation & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/c46af48faff40d0fb715fcfeddc3232e758ae4e3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=120"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com., V.V. Puram College, Bangalore University, 1980"

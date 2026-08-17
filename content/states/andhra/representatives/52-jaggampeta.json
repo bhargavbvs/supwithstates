@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 73,
     "profession": "Cultivation and Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/c4b9feacf5710622c9aeebbd3d2b6ea1027d3320.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=102"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Class, ZP High School, Yeleswaram"

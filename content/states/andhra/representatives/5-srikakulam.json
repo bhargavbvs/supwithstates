@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Business and Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/b3f5a97e09fbf489fa8d2e5211436b0c110a5051.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=381"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.E. (Civil), Bangalore University, 1998"

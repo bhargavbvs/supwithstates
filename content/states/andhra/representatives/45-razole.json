@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Retired IAS Officer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/0397ce95b89483cd91f19a9f901d4697cd107c7c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=264"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc Botany, Andhra University, Visakhapatnam, 1981"

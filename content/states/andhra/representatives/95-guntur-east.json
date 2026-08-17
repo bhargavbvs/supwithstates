@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/8f8a8a8a19211ec1280c40ac62d7a0542c8f9494.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=287"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC, Sarada Niketan High School"

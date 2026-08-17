@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 78,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/793a8f5000d03199f67f0565b8a9b0393511cddf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=256"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc., Government Arts and Science College, Rajahmundry, Andhra University, 1967"

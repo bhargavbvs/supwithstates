@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/a0d77884125c3e8cab914c512e34c20ae693e078.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=160"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (B.A.), Nizam College, Hyderabad, 1990"

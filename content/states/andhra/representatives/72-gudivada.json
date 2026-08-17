@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Private Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/3be8b5f58646a5acd551981a5e138a0e3ca4af1d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=204"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Tech (ECE), RVR & JC College of Engineering, Guntur, 1992"

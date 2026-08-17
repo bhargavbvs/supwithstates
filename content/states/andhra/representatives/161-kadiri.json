@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 57,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/0a57084ed40f8486fa2f112561333e7a7eea9b4b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=125"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech, Bapuji Institute of Engineering & Technology, Davangere, Karnataka"

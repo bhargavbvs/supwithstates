@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 37,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/fb6cea52464a4ee887095ebd59439a688f181471.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=235"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS, Dr. Y.S.R. University of Health Sciences, Narayana Medical College, Nellore, 2022"

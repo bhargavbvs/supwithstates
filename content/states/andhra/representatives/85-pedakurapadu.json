@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Business / Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/346a0876e5d31f6c55be43780b59df9d89337a57.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=462"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc., Hindu College, Nagarjuna University, 1997"

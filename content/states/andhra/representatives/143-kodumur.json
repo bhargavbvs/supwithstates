@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 39,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/89f1c06b00d469d5bd0790824224b3a1825f3f22.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=31"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLM, Sri Krishnadevaraya University, Anantapuram, 2018"

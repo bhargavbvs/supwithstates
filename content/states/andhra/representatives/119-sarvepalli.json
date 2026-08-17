@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Politician; former Andhra Pradesh Agriculture Minister",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/5d434f91c957fafc35fc1b0801d415a1cf03ba30.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=361"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate, K.A.C Junior College, Nellore, 1974"

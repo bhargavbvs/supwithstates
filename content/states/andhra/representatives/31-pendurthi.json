@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/59bd56c5025da951953ab274eb85a054a600f0c6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=2080"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA (Political Science), Madurai University, 2011"

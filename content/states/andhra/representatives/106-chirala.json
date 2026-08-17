@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Business, Agriculture & Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/7a2cdace2b79b4d8e33d472fd657bca047a48424.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=197"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com, VMRF Deemed University, Salem, Tamil Nadu, 1978-81"

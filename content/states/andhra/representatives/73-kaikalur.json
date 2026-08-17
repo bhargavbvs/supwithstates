@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 76,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/24e4a329e21d93f4b088870cb7a2556aaa99325d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=323"
+    },
     "education": {
       "level": "Graduate",
       "detail": "M.B.B.S., Rangaraya Medical College, Kakinada, 1972"

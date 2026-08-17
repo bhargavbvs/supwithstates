@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Advocate, Agriculture and Aquaculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/059b98266ed9f4a5c6802581baa966e7a300e7c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=54"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A., 1993; B.L., 1996; Andhra University, Visakhapatnam"

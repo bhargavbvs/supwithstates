@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Transport Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/19687497562d76a932f0bb67a78d4cba5213502f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=23"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "S.S.C., Arogyavaram English Medium High School, Arogyavaram, 1984-85"

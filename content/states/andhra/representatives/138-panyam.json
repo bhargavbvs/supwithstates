@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Politician, Ex-MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/a1b528df21aba7e817b0740f027b28a4c52c5b53.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=60"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA, Government Degree College, Nandikotkur, Sri Krishnadevaraya University, Anantapur, 1990"

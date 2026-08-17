@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/bdc013c6ec810a8669775a797834c357cea0cbbd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=296"
+    },
     "education": {
       "level": "Graduate",
       "detail": "LLB, Andhra University, Waltair, 1995"

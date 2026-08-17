@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/e230b51fb0e1742e666d98853d7bd6d2b7a92851.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "http://myneta.info/AndhraPradesh2024/candidate.php?candidate_id=114"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. (Ag), Gorakhpur University, 1981"

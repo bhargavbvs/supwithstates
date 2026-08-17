@@ -15,7 +15,12 @@
     "term_start": "2024-06",
     "age_at_election": 36,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/AndhraPradesh2024/3d0b0a409ef4d876296bf12090475c8cb41fb9a3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/AndhraPradesh2024/candidate.php?candidate_id=399"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A., Kakatiya University, 2008-2010"
