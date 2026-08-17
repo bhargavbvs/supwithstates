@@ -17,8 +17,11 @@ export function renderMap(container, { mapData, records, onSelect }) {
     const rec = byNumber.get(c.ac_no);
     const sev = severityOf(rec?.representative.declared_cases);
     const party = rec?.representative.current_party ?? '';
+    const education = rec?.representative.education.level ?? '';
+    const reserved = rec ? (rec.constituency.reserved ?? 'General') : '';
     return `<path class="ac" data-ac-no="${c.ac_no}" d="${c.d}" fill-rule="evenodd"
-      data-sev="${sev}" data-party="${escapeHtml(party)}" tabindex="0" role="button"
+      data-sev="${sev}" data-party="${escapeHtml(party)}" data-education="${escapeHtml(education)}"
+      data-reserved="${escapeHtml(reserved)}" tabindex="0" role="button"
       aria-label="${escapeHtml(c.name)}${rec ? `, ${escapeHtml(rec.representative.name)}` : ''}"></path>`;
   }).join('');
 
@@ -338,19 +341,26 @@ export function renderMap(container, { mapData, records, onSelect }) {
   container.querySelector('#zoom-out').addEventListener('click', () => zoomStep(1.4));
   container.querySelector('#zoom-reset').addEventListener('click', resetZoom);
 
-  // Dims constituencies whose severity isn't in activeSevs (a Set of -1..3).
-  // An empty/falsy set means no filter - everything shows at full opacity.
-  // A constituency must match BOTH an active severity filter and an active
-  // party filter when both are in use (AND, not OR, across the two
-  // dimensions) - e.g. "Serious" + "TDP" shows only TDP seats with a
-  // serious declared case, not every TDP seat plus every serious one.
-  function setFilter(activeSevs, activeParties) {
-    const hasSevFilter = activeSevs && activeSevs.size > 0;
-    const hasPartyFilter = activeParties && activeParties.size > 0;
+  // filters = { severity: Set<-1..3>, party: Set<string>, education: Set<string>,
+  // reserved: Set<string> }. A constituency must match every dimension that
+  // has an active filter (AND across dimensions - "Serious" + "TDP" shows
+  // only TDP seats with a serious case, not every TDP seat plus every
+  // serious one) but any value within a dimension's own set (OR within a
+  // dimension - "TDP" + "YSRCP" shows seats from either party). An empty/
+  // missing Set for a dimension means that dimension isn't filtering.
+  function setFilter(filters) {
+    const dims = [
+      ['severity', (path) => Number(path.dataset.sev)],
+      ['party', (path) => path.dataset.party],
+      ['education', (path) => path.dataset.education],
+      ['reserved', (path) => path.dataset.reserved]
+    ];
     svg.querySelectorAll('path.ac').forEach((path) => {
-      const sevMatch = !hasSevFilter || activeSevs.has(Number(path.dataset.sev));
-      const partyMatch = !hasPartyFilter || activeParties.has(path.dataset.party);
-      path.classList.toggle('dimmed', !(sevMatch && partyMatch));
+      const matches = dims.every(([key, getValue]) => {
+        const active = filters?.[key];
+        return !active || active.size === 0 || active.has(getValue(path));
+      });
+      path.classList.toggle('dimmed', !matches);
     });
   }
 

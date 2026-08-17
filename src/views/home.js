@@ -71,7 +71,7 @@ export function renderHome(el) {
   let map = null;
 
   function applyFilter() {
-    map?.setFilter(activeFilters, activeParties);
+    map?.setFilter({ severity: activeFilters, party: activeParties });
     legend.classList.toggle('sev-filtering', activeFilters.size > 0);
     legend.classList.toggle('party-filtering', activeParties.size > 0);
     legend.querySelectorAll('.dot').forEach((btn) => {
