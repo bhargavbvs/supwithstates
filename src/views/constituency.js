@@ -42,7 +42,7 @@ export function renderConstituency(el, param) {
 
     <header class="profile-head">
       ${photo}
-      <div>
+      <div class="profile-id">
         <h1>${escapeHtml(rep.name)}</h1>
         <p class="sub">${escapeHtml(ac.name)} (AC ${ac.number})${ac.reserved ? ` · ${escapeHtml(ac.reserved)}` : ''}
            ${rep.profession ? ` · ${escapeHtml(rep.profession)}` : ''}</p>

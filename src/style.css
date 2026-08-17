@@ -267,6 +267,16 @@ path.district-line {
 .sev-tag.sev-2 { background: var(--sev-2); color: #fff; }
 .sev-tag.sev-3 { background: var(--sev-3); color: #fff; }
 
+#map-tooltip .tap-hint {
+  display: block;
+  margin-top: 0.4rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  font-size: 0.72rem;
+  font-weight: 600;
+  opacity: 0.9;
+}
+
 #map-legend {
   position: absolute;
   right: 1rem;
@@ -629,6 +639,10 @@ h2 {
   margin-bottom: 0.75rem;
 }
 
+.profile-id {
+  min-width: 0;
+}
+
 .photo-wrap {
   flex: 0 0 auto;
   width: 76px;
@@ -909,10 +923,6 @@ dd {
   #locate {
     padding: 0.65rem 1rem;
     font-size: 0.9rem;
-  }
-
-  .profile-head {
-    flex-wrap: wrap;
   }
 }
 

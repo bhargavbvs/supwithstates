@@ -170,7 +170,7 @@ export function renderMap(container, { mapData, records, onSelect }) {
     animateTo({ x: baseX, y: baseY, w: baseW, h: baseH });
   }
 
-  const showTooltip = (path, evt) => {
+  const showTooltip = (path, evt, { tapHint = false } = {}) => {
     const acNo = Number(path.dataset.acNo);
     const c = mapData.constituencies.find((x) => x.ac_no === acNo);
     const rec = byNumber.get(acNo);
@@ -180,6 +180,7 @@ export function renderMap(container, { mapData, records, onSelect }) {
       <span>${escapeHtml(c.district)}</span>
       ${rec ? `<span>${escapeHtml(rec.representative.name)} · ${escapeHtml(rec.representative.current_party ?? 'Independent')}</span>` : ''}
       <span class="sev-tag sev-${sev}">${SEVERITY_LABEL[sev]}</span>
+      ${tapHint ? `<span class="tap-hint">Tap again to view profile</span>` : ''}
     `;
     tooltip.hidden = false;
     positionTooltip(evt);
@@ -209,8 +210,11 @@ export function renderMap(container, { mapData, records, onSelect }) {
   let pinchStartDist = null;
   let pinchStartW = null;
   let velocitySamples = []; // {x, y, t} from the last ~80ms of drag, for momentum on release
+  let lastPointerType = 'mouse';
+  let previewedAcNo = null; // touch only: which constituency's tooltip is showing as a tap-preview
 
   svg.addEventListener('pointerdown', (evt) => {
+    lastPointerType = evt.pointerType || 'mouse';
     cancelAnimation();
     cancelMomentum();
     activePointers.set(evt.pointerId, { x: evt.clientX, y: evt.clientY });
@@ -297,8 +301,22 @@ export function renderMap(container, { mapData, records, onSelect }) {
   svg.addEventListener('click', (evt) => {
     if (dragMoved) { dragMoved = false; return; } // a pan/pinch just ended - don't also select
     const path = pathAt(evt.clientX, evt.clientY);
-    if (!path) return;
-    onSelect(Number(path.dataset.acNo));
+    if (!path) { previewedAcNo = null; hideTooltip(); return; }
+    const acNo = Number(path.dataset.acNo);
+
+    // Touch has no real hover, so a tap would otherwise flash the tooltip
+    // for an instant before immediately navigating away - not enough time
+    // to actually read it. First tap on a constituency previews it instead
+    // (same info a mouse hover would show); tapping that same one again, or
+    // the hint inside the tooltip, navigates.
+    if (lastPointerType === 'touch' && previewedAcNo !== acNo) {
+      previewedAcNo = acNo;
+      showTooltip(path, evt, { tapHint: true });
+      return;
+    }
+
+    previewedAcNo = null;
+    onSelect(acNo);
   });
 
   svg.addEventListener('keydown', (evt) => {

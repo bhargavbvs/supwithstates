@@ -19,12 +19,6 @@ export function renderHome(el) {
 
   el.innerHTML = `
     <div id="map"></div>
-    <div id="map-legend">
-      ${[0, 1, 2, 3, -1].map((sev) => `
-        <button type="button" class="dot d${sev === -1 ? '--1' : `-${sev}`}" data-sev="${sev}" aria-pressed="false">
-          ${LEGEND_LABELS[sev]} <span class="count">(${counts[sev]})</span>
-        </button>`).join('')}
-    </div>
     <div id="map-overlay">
       <section id="stats">
         <div class="stat"><b>${state.assembly_size}</b><span>constituencies</span></div>
@@ -36,7 +30,21 @@ export function renderHome(el) {
     </div>
   `;
 
-  const legend = el.querySelector('#map-legend');
+  // Built detached and wired immediately, but only appended into #map once
+  // renderMap() has populated it (renderMap replaces #map's innerHTML, which
+  // would wipe this out if it were there first). #map is the positioned
+  // ancestor both #zoom-controls and this legend need - #app grows taller
+  // than the visible map on mobile (the overlay panel sits below it in
+  // normal flow there), so anchoring to #app instead of #map put the legend
+  // near the bottom of the whole scrollable page rather than pinned to the
+  // map's own corner.
+  const legend = document.createElement('div');
+  legend.id = 'map-legend';
+  legend.innerHTML = [0, 1, 2, 3, -1].map((sev) => `
+    <button type="button" class="dot d${sev === -1 ? '--1' : `-${sev}`}" data-sev="${sev}" aria-pressed="false">
+      ${LEGEND_LABELS[sev]} <span class="count">(${counts[sev]})</span>
+    </button>`).join('');
+
   const activeFilters = new Set();
   let map = null;
 
@@ -60,11 +68,13 @@ export function renderHome(el) {
   });
 
   loadMapData().then((mapData) => {
-    map = renderMap(el.querySelector('#map'), {
+    const mapEl = el.querySelector('#map');
+    map = renderMap(mapEl, {
       mapData,
       records: store.all,
       onSelect: (acNo) => { window.location.hash = `#/c/${acNo}`; }
     });
+    mapEl.appendChild(legend);
     applyFilter();
   });
 
