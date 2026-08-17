@@ -642,9 +642,14 @@ h1 {
 }
 
 h2 {
-  font-size: 1rem;
-  margin: 0 0 0.4rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 0.75rem;
 }
+
 
 .sub {
   color: var(--muted);
@@ -757,19 +762,20 @@ h2 {
 
 .photo-wrap {
   flex: 0 0 auto;
-  width: 76px;
+  width: 96px;
   text-align: center;
 }
 
 .photo {
-  width: 76px;
-  height: 76px;
+  width: 96px;
+  height: 96px;
   border-radius: 50%;
   object-fit: cover;
   flex: 0 0 auto;
   border: 3px solid var(--panel);
   box-shadow: 0 0 0 2px var(--line);
 }
+
 
 .photo.avatar {
   display: flex;
@@ -778,7 +784,9 @@ h2 {
   background: var(--accent-soft);
   color: var(--accent-ink);
   font-weight: 800;
+  font-size: 1.1rem;
 }
+
 
 .credit {
   display: block;
@@ -847,9 +855,70 @@ section {
 }
 
 .big {
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  margin: 0 0 0.4rem;
+  margin: 0 0 0.6rem;
+}
+
+/* Cases section */
+.cases-zero {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #157a45;
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin: 0;
+  padding: 0.5rem 0;
+}
+
+.case-chips {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 0.1rem 0 0.75rem;
+}
+
+.case-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: var(--font-display);
+}
+
+.chip-ok   { background: #e5f7ec; color: #157a45; }
+.chip-serious { background: #fbe4dc; color: #b6431f; }
+.chip-convicted { background: #f6dde2; color: #7d1526; }
+.chip-neutral { background: var(--bg); color: var(--muted); border: 1px solid var(--line); }
+
+/* Net worth headline */
+.net-worth-headline {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.net-worth-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.net-worth-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  line-height: 1;
 }
 
 .breakdown {
@@ -857,6 +926,8 @@ section {
   padding-left: 1.1rem;
   color: var(--muted);
 }
+
+
 
 .case-note {
   margin: 0.75rem 0 0;
@@ -922,6 +993,25 @@ section {
   gap: 0.6rem;
   font-size: 0.85rem;
 }
+
+.result-votes {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  white-space: nowrap;
+}
+
+.vote-share {
+  display: inline-block;
+  background: var(--bg);
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.1rem 0.4rem;
+}
+
 
 .result-bar .track {
   height: 10px;
