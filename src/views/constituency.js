@@ -110,7 +110,6 @@ export function renderConstituency(el, param) {
       </div>
       <dl style="margin-top: 0.9rem">
         <dt>Total assets</dt><dd>${formatRupees(rep.assets.total)}</dd>
-        <dt>Net worth</dt><dd><b>${formatRupees(netWorth)}</b></dd>
       </dl>
     </section>
 
