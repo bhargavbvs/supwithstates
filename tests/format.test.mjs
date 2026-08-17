@@ -1,11 +1,20 @@
 import { describe, it, expect } from 'vitest';
-import { formatRupees, formatDeclaredCases, escapeHtml, partyColor, CASE_DISCLAIMER } from '../src/format.js';
+import { formatRupees, formatRupeesCompact, formatDeclaredCases, escapeHtml, partyColor, CASE_DISCLAIMER } from '../src/format.js';
 
 describe('formatRupees', () => {
   it('renders crores', () => expect(formatRupees(57300000)).toBe('₹5.73 crore'));
   it('renders lakhs', () => expect(formatRupees(250000)).toBe('₹2.50 lakh'));
   it('renders small amounts in full', () => expect(formatRupees(4500)).toBe('₹4,500'));
   it('renders zero', () => expect(formatRupees(0)).toBe('₹0'));
+});
+
+describe('formatRupeesCompact', () => {
+  it('rounds large crore totals with a comma and no decimals', () => {
+    expect(formatRupeesCompact(114152811113)).toBe('₹11,415 Cr');
+  });
+  it('falls back to formatRupees below one crore', () => {
+    expect(formatRupeesCompact(250000)).toBe('₹2.50 lakh');
+  });
 });
 
 describe('formatDeclaredCases', () => {

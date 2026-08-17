@@ -9,6 +9,16 @@ export function formatRupees(n) {
   return `₹${n.toLocaleString('en-IN')}`;
 }
 
+// A whole-crore, comma-separated form for large aggregate totals (e.g. the
+// home page's statewide sum) - "₹11415.28 crore" is needless precision at
+// that scale and wraps to two lines in a narrow stat card; "₹11,415 Cr"
+// doesn't.
+export function formatRupeesCompact(n) {
+  if (!Number.isFinite(n)) return '—';
+  if (n >= 1e7) return `₹${Math.round(n / 1e7).toLocaleString('en-IN')} Cr`;
+  return formatRupees(n);
+}
+
 const plural = (n, word) => `${n} ${word}${n === 1 ? '' : 's'}`;
 
 export function formatDeclaredCases({ total, serious, convicted }) {

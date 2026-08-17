@@ -318,7 +318,7 @@ path.district-line {
   outline-offset: 1px;
 }
 
-#map-legend.filtering .dot:not(.active) {
+#map-legend.sev-filtering .dot:not(.active) {
   opacity: 0.45;
 }
 
@@ -339,6 +339,71 @@ path.district-line {
   border-radius: 50%;
   background: var(--sev-color, var(--sev-0));
   border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+#party-toggle {
+  display: inline-flex;
+  align-items: center;
+  border: none;
+  background: none;
+  padding: 0.15rem 0.3rem;
+  margin: -0.15rem -0.3rem;
+  border-radius: 999px;
+  font: inherit;
+  font-weight: 600;
+  color: var(--accent-ink);
+  cursor: pointer;
+  transition: background 120ms ease;
+}
+
+#party-toggle:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+#party-toggle:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+#party-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  width: 100%;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--line);
+}
+
+.party-dot {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  border: 1.5px solid var(--line);
+  background: var(--panel);
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  font: inherit;
+  font-weight: 700;
+  font-size: 0.68rem;
+  color: var(--muted);
+  cursor: pointer;
+  transition: opacity 120ms ease, background 120ms ease, color 120ms ease, border-color 120ms ease;
+}
+
+.party-dot:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.party-dot.active {
+  background: var(--party-bg);
+  border-color: transparent;
+  color: var(--party-text);
+}
+
+#map-legend.party-filtering .party-dot:not(.active) {
+  opacity: 0.55;
 }
 
 #map-legend .dot.d--1::before { background: var(--sev--1); }
@@ -364,7 +429,9 @@ path.district-line {
 #stats {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 0.7rem 0.9rem;
+  gap: 0.6rem 0.7rem;
+  margin: 0;
+  padding: 0.85rem 0.9rem;
 }
 
 #stats .stat {
@@ -391,6 +458,10 @@ path.district-line {
   font-size: 0.72rem;
   color: var(--faint);
   margin: 0.7rem 0 0.9rem;
+}
+
+#map-overlay .disclaimer {
+  margin: 0.6rem 0 0.7rem;
 }
 
 #search-slot {

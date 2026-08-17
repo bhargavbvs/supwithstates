@@ -16,8 +16,9 @@ export function renderMap(container, { mapData, records, onSelect }) {
   const paths = mapData.constituencies.map((c) => {
     const rec = byNumber.get(c.ac_no);
     const sev = severityOf(rec?.representative.declared_cases);
+    const party = rec?.representative.current_party ?? '';
     return `<path class="ac" data-ac-no="${c.ac_no}" d="${c.d}" fill-rule="evenodd"
-      data-sev="${sev}" tabindex="0" role="button"
+      data-sev="${sev}" data-party="${escapeHtml(party)}" tabindex="0" role="button"
       aria-label="${escapeHtml(c.name)}${rec ? `, ${escapeHtml(rec.representative.name)}` : ''}"></path>`;
   }).join('');
 
@@ -339,11 +340,17 @@ export function renderMap(container, { mapData, records, onSelect }) {
 
   // Dims constituencies whose severity isn't in activeSevs (a Set of -1..3).
   // An empty/falsy set means no filter - everything shows at full opacity.
-  function setFilter(activeSevs) {
-    const hasFilter = activeSevs && activeSevs.size > 0;
+  // A constituency must match BOTH an active severity filter and an active
+  // party filter when both are in use (AND, not OR, across the two
+  // dimensions) - e.g. "Serious" + "TDP" shows only TDP seats with a
+  // serious declared case, not every TDP seat plus every serious one.
+  function setFilter(activeSevs, activeParties) {
+    const hasSevFilter = activeSevs && activeSevs.size > 0;
+    const hasPartyFilter = activeParties && activeParties.size > 0;
     svg.querySelectorAll('path.ac').forEach((path) => {
-      const match = !hasFilter || activeSevs.has(Number(path.dataset.sev));
-      path.classList.toggle('dimmed', !match);
+      const sevMatch = !hasSevFilter || activeSevs.has(Number(path.dataset.sev));
+      const partyMatch = !hasPartyFilter || activeParties.has(path.dataset.party);
+      path.classList.toggle('dimmed', !(sevMatch && partyMatch));
     });
   }
 

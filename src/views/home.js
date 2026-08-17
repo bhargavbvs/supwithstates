@@ -1,6 +1,6 @@
 import { store } from '../store.js';
 import { renderMap, loadMapData } from '../svg-map.js';
-import { formatRupees, CASE_DISCLAIMER, severityOf, escapeHtml } from '../format.js';
+import { formatRupeesCompact, CASE_DISCLAIMER, severityOf, partyColor, escapeHtml } from '../format.js';
 import { searchConstituencies } from '../search.js';
 import { findFeatureAt } from '../geo-lookup.js';
 
@@ -13,6 +13,17 @@ function severityCounts(state) {
   return counts;
 }
 
+// Real parties in the data, largest first - not a fixed guess, so a new
+// party showing up in future data batches appears automatically.
+function partyCounts() {
+  const counts = new Map();
+  for (const r of store.all) {
+    const p = r.representative.current_party;
+    if (p) counts.set(p, (counts.get(p) ?? 0) + 1);
+  }
+  return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+}
+
 export function renderHome(el) {
   const { state, stats } = store;
   const counts = severityCounts(state);
@@ -23,7 +34,7 @@ export function renderHome(el) {
       <section id="stats">
         <div class="stat"><b>${state.assembly_size}</b><span>constituencies</span></div>
         <div class="stat"><b>${stats.pctWithDeclaredCases}%</b><span>with declared criminal cases</span></div>
-        <div class="stat"><b>${formatRupees(stats.totalAssets)}</b><span>total declared assets</span></div>
+        <div class="stat"><b>${formatRupeesCompact(stats.totalAssets)}</b><span>total declared assets</span></div>
       </section>
       <p class="disclaimer">${CASE_DISCLAIMER}</p>
       <div id="search-slot"></div>
@@ -40,19 +51,36 @@ export function renderHome(el) {
   // map's own corner.
   const legend = document.createElement('div');
   legend.id = 'map-legend';
-  legend.innerHTML = [0, 1, 2, 3, -1].map((sev) => `
-    <button type="button" class="dot d${sev === -1 ? '--1' : `-${sev}`}" data-sev="${sev}" aria-pressed="false">
-      ${LEGEND_LABELS[sev]} <span class="count">(${counts[sev]})</span>
-    </button>`).join('');
+  legend.innerHTML = `
+    ${[0, 1, 2, 3, -1].map((sev) => `
+      <button type="button" class="dot d${sev === -1 ? '--1' : `-${sev}`}" data-sev="${sev}" aria-pressed="false">
+        ${LEGEND_LABELS[sev]} <span class="count">(${counts[sev]})</span>
+      </button>`).join('')}
+    <button type="button" id="party-toggle" aria-expanded="false">Filter by party ▾</button>
+    <div id="party-row" hidden>
+      ${partyCounts().map(([party, n]) => {
+        const { bg, text } = partyColor(party);
+        return `<button type="button" class="party-dot" data-party="${escapeHtml(party)}" aria-pressed="false"
+          style="--party-bg:${bg};--party-text:${text}">${escapeHtml(party)} <span class="count">(${n})</span></button>`;
+      }).join('')}
+    </div>
+  `;
 
   const activeFilters = new Set();
+  const activeParties = new Set();
   let map = null;
 
   function applyFilter() {
-    map?.setFilter(activeFilters);
-    legend.classList.toggle('filtering', activeFilters.size > 0);
+    map?.setFilter(activeFilters, activeParties);
+    legend.classList.toggle('sev-filtering', activeFilters.size > 0);
+    legend.classList.toggle('party-filtering', activeParties.size > 0);
     legend.querySelectorAll('.dot').forEach((btn) => {
       const on = activeFilters.has(Number(btn.dataset.sev));
+      btn.classList.toggle('active', on);
+      btn.setAttribute('aria-pressed', String(on));
+    });
+    legend.querySelectorAll('.party-dot').forEach((btn) => {
+      const on = activeParties.has(btn.dataset.party);
       btn.classList.toggle('active', on);
       btn.setAttribute('aria-pressed', String(on));
     });
@@ -65,6 +93,24 @@ export function renderHome(el) {
       else activeFilters.add(sev);
       applyFilter();
     });
+  });
+
+  legend.querySelectorAll('.party-dot').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const party = btn.dataset.party;
+      if (activeParties.has(party)) activeParties.delete(party);
+      else activeParties.add(party);
+      applyFilter();
+    });
+  });
+
+  const partyToggle = legend.querySelector('#party-toggle');
+  const partyRow = legend.querySelector('#party-row');
+  partyToggle.addEventListener('click', () => {
+    const open = partyRow.hidden;
+    partyRow.hidden = !open;
+    partyToggle.setAttribute('aria-expanded', String(open));
+    partyToggle.textContent = open ? 'Filter by party ▴' : 'Filter by party ▾';
   });
 
   loadMapData().then((mapData) => {
