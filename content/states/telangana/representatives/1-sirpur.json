@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-1-sirpur",
+  "constituency": {
+    "number": 1,
+    "name": "Sirpur",
+    "district": "Komarram Bheem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr.Palvai Harish Babu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Doctor, Paediatric Orthopaedic Surgeon",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bb9e743621635e6661dd738aadbf27e7577411f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=312"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. Orthopedics from Sri Ramachandra University, Chennai 2010"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7650000,
+      "immovable": 34300000,
+      "total": 41950000,
+      "liabilities": 1600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=312",
+    "retrieved": "2026-08-26"
+  }
+}

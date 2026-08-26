@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-26-karimnagar",
+  "constituency": {
+    "number": 26,
+    "name": "Karimnagar",
+    "district": "Karimnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gangula Kamalakar",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Politician and Businessmen",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/45ce438fd37b5174ae8aa0ee686310229f59fb81.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=121"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech.,(Civil) KITS Ram Tek of Maharashtra State 1986-1990"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 202089462,
+      "immovable": 148720000,
+      "total": 350809467,
+      "liabilities": 5064273
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-26"
+  }
+}

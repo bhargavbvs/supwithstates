@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-112-khammam",
+  "constituency": {
+    "number": 112,
+    "name": "Khammam",
+    "district": "Khammam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tummala Nageswara Rao",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/9591a286300d56484f6f0cdfd5204f88b03d315d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=131"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, Osmania University 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39772567,
+      "immovable": 139080000,
+      "total": 178852568,
+      "liabilities": 8156736
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=131",
+    "retrieved": "2026-08-26"
+  }
+}

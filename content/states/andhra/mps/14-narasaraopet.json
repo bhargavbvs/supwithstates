@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-14-narasaraopet",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Narasaraopet",
+    "reserved": null,
+    "assembly_segments": [
+      "Pedakurapadu",
+      "Gurajala",
+      "Macherla",
+      "Sattenapalle",
+      "Vinukonda",
+      "Narasaraopet",
+      "Chilakaluripet"
+    ]
+  },
+  "representative": {
+    "name": "Lavu Srikrishna Devarayalu",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Educationalist",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f4fd7f0ac03a429c21f72d9e6873290b563f94cc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5116"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Of Technology From Andhra University Visakhapatnam In 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 65871496,
+      "immovable": 500676970,
+      "total": 566548466,
+      "liabilities": 68088135
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5116",
+    "retrieved": "2026-08-26"
+  }
+}

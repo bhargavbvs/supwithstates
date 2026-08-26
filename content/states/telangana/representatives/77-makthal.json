@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-77-makthal",
+  "constituency": {
+    "number": 77,
+    "name": "Makthal",
+    "district": "Narayanpet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vakiti Srihari",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/09eda67e35f8c5bb8b70a65e6f33eef28649d29a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=177"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5190543,
+      "immovable": 10100000,
+      "total": 13240543,
+      "liabilities": 4180000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=177",
+    "retrieved": "2026-08-26"
+  }
+}

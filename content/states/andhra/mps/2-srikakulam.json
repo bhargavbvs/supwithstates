@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-2-srikakulam",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Srikakulam",
+    "reserved": null,
+    "assembly_segments": [
+      "Ichchapuram",
+      "Palasa",
+      "Pathapatnam",
+      "Tekkali",
+      "Narasannapeta",
+      "Amadalavalasa",
+      "Srikakulam"
+    ]
+  },
+  "representative": {
+    "name": "Kinjarapu Rammohan Naidu",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 36,
+    "profession": "Public Representative",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/caa46bb2fb7d5e38494155c4173776bfb8e834d1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6620"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A from lsland University, New York USA - Year of completion - 2011."
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 67890126,
+      "immovable": 165183430,
+      "total": 233073561,
+      "liabilities": 29863912
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6620",
+    "retrieved": "2026-08-26"
+  }
+}

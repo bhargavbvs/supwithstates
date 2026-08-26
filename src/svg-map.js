@@ -1,10 +1,16 @@
 import { severityOf, SEVERITY_LABEL, escapeHtml } from './format.js';
+import { store } from './store.js';
 
-let mapDataCache = null;
+// Keyed by state: a single slot handed the second state the first one's
+// outline, which is a map of somewhere else with the right names on it.
+const mapDataCache = new Map();
 
 export async function loadMapData() {
-  if (!mapDataCache) mapDataCache = await fetch('/geo/ap-map.json').then((r) => r.json());
-  return mapDataCache;
+  const slug = store.slug;
+  if (!mapDataCache.has(slug)) {
+    mapDataCache.set(slug, await fetch(`/geo/${slug}-map.json`).then((r) => r.json()));
+  }
+  return mapDataCache.get(slug);
 }
 
 const DRAG_THRESHOLD = 6; // px of pointer movement before a press counts as a pan, not a tap

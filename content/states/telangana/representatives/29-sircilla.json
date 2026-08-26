@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-29-sircilla",
+  "constituency": {
+    "number": 29,
+    "name": "Sircilla",
+    "district": "Rajanna Sircilla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalvakuntla Taraka Rama Rao",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture And Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bb1acc4e6ed40991703496e228aa9161f4dd4550.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=309"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A From University New York U.S.A 2000, M.Sc from Pune University, pune in 1998"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 350102961,
+      "immovable": 183071000,
+      "total": 533173961,
+      "liabilities": 119980331
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=309",
+    "retrieved": "2026-08-26"
+  }
+}

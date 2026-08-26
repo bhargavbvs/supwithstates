@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-89-huzurnagar",
+  "constituency": {
+    "number": 89,
+    "name": "Huzurnagar",
+    "district": "Suriyapet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Uttam Kumar Reddy Nalamada",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Politician - Member of Parliament",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/8affd3c15179952f38acf9cdbfa961c0e361b957.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=96"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor Science (B.Sc.) From National Defense Academy in the year 1981 and Weapons Employment Course in College of AIR Warfare in the year 1985"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13251843,
+      "immovable": 46685869,
+      "total": 59937719,
+      "liabilities": 8568468
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=96",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-76-devarkadra",
+  "constituency": {
+    "number": 76,
+    "name": "Devarkadra",
+    "district": "Mahabubnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gavinolla Madhusudan Reddy (Gmr)",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Advocate",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bf7e1526afd3c48fe86f7803099ddff28d06aeb3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=68"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A L.L.B From Padala Ram Reddy Law Collage HYD 1998"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14014000,
+      "immovable": 32000000,
+      "total": 46014000,
+      "liabilities": 11300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=68",
+    "retrieved": "2026-08-26"
+  }
+}

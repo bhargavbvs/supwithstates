@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-35-narayankhed",
+  "constituency": {
+    "number": 35,
+    "name": "Narayankhed",
+    "district": "Sangareddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Patlolla Sanjeeva Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Doctor",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/8346c84afc78a34a6ba42dc9bda417fcfbe168a7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=569"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Bangalore Medical College, Banglore in 1985, Diploma in Child Health (JNMC Balgaon) in 1992"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5902763,
+      "immovable": 30600000,
+      "total": 36502763,
+      "liabilities": 17540347
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=569",
+    "retrieved": "2026-08-26"
+  }
+}

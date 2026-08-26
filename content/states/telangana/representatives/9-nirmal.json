@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-9-nirmal",
+  "constituency": {
+    "number": 9,
+    "name": "Nirmal",
+    "district": "Nirmal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Alleti Maheshwar Reddy",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/e56bf351e7b5deeda027179e76f5a171c3783993.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=246"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from Osmania University HYD in the year 1990"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 50429532,
+      "immovable": 278000000,
+      "total": 328429532,
+      "liabilities": 66515930
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=246",
+    "retrieved": "2026-08-26"
+  }
+}

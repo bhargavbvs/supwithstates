@@ -20,6 +20,6 @@ function mdToHtml(md) {
 export function renderStatic(el, page) {
   const md = store.pages?.[page];
   el.innerHTML = md
-    ? `<a class="back" href="#/">← Map</a><article class="prose">${mdToHtml(md)}</article>`
-    : `<p class="empty">Page not found. <a href="#/">Back to map</a></p>`;
+    ? `<a class="back" href="${store.href()}">← Map</a><article class="prose">${mdToHtml(md)}</article>`
+    : `<p class="empty">Page not found. <a href="${store.href()}">Back to map</a></p>`;
 }

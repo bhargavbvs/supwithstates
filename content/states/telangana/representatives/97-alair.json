@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-97-alair",
+  "constituency": {
+    "number": 97,
+    "name": "Alair",
+    "district": "Yadadri Bhuvanagiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ilaiah Beerla",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Business Real Estate",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/a8b1480c66d056bea863c0e5cf3fc77795cc4bd0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=9"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from SLNS Degree College, Bhongir affilated to Osmania University in 2000"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 38761149,
+      "immovable": 67878030,
+      "total": 106639179,
+      "liabilities": 31777480
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=9",
+    "retrieved": "2026-08-26"
+  }
+}

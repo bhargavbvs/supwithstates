@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-13-guntur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Guntur",
+    "reserved": null,
+    "assembly_segments": [
+      "Tadikonda",
+      "Mangalagiri",
+      "Guntur East",
+      "Ponnur",
+      "Tenali",
+      "Guntur West",
+      "Prathipadu"
+    ]
+  },
+  "representative": {
+    "name": "Dr Chandra Sekhar Pemmasani",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/9ec00301b7ae773f0d73b6a8dfca6d169743c6bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5106"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.D. Internal Medicine at Geisinger Medical Center in Daaville, Pennsylvania USA in Yr- 2005 & MBBS From NTR University of Health Sciences, Andhra Pradesh, Year-1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 54113027797,
+      "immovable": 1068246752,
+      "total": 57054727538,
+      "liabilities": 10380000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5106",
+    "retrieved": "2026-08-26"
+  }
+}

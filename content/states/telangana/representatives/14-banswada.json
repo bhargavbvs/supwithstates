@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-14-banswada",
+  "constituency": {
+    "number": 14,
+    "name": "Banswada",
+    "district": "Kamareddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Srinivas Reddy Parige (Pocharam)",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Agriculture and Public Service",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/da90d3cd30f6c5a8476c772f72b4e53de9e279dd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=29"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.E (Dis-Continued) From Nagarjuna Engineering College Hyderabad in 1966 to 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11705962,
+      "immovable": 30298728,
+      "total": 42004690,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=29",
+    "retrieved": "2026-08-26"
+  }
+}

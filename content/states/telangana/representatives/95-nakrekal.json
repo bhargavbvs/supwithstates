@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-95-nakrekal",
+  "constituency": {
+    "number": 95,
+    "name": "Nakrekal",
+    "district": "Nalgonda",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vemula Veeresham",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Agriculture & Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/1c8a74e95fafd68d321e83df3df07a15f66b764c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=223"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Political Science) Dr.BR Ambedkar Open University 2017"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10618359,
+      "immovable": 63217500,
+      "total": 73835859,
+      "liabilities": 3244568
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=223",
+    "retrieved": "2026-08-26"
+  }
+}

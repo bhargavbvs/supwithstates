@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-92-nalgonda",
+  "constituency": {
+    "number": 92,
+    "name": "Nalgonda",
+    "district": "Nalgonda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Komati Reddy Venkat Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Agricuture, Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bc4fde92989d1f56d14701821203a245f62025f3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=226"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From N.B. Science College, Pathargatti Hyderabad 1982"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 115469513,
+      "immovable": 290077500,
+      "total": 395547013,
+      "liabilities": 64477630
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=226",
+    "retrieved": "2026-08-26"
+  }
+}

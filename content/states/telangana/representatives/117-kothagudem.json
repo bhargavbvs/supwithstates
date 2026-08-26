@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-117-kothagudem",
+  "constituency": {
+    "number": 117,
+    "name": "Kothagudem",
+    "district": "Bhadradri Kothagudem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kunamneni Sambasiva Rao",
+    "election": "2023",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Social Service",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/5976f3b515f2cc0f4f6d459071600cf6cf8c527a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=156"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor Of Arts Andhra University 1974-77"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10739376,
+      "immovable": 11500000,
+      "total": 23339376,
+      "liabilities": 432246
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=156",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-67-chandrayangutta",
+  "constituency": {
+    "number": 67,
+    "name": "Chandrayangutta",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akbar Uddin Owaisi",
+    "election": "2023",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/e3ab3d12f94ae67c9dc7b4765e0e00cfe928c251.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1166"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "MBBS Discontinued from Rajiv Gandhi Medical Sciences , Karnataka State, Intermediate in 1988 from St. Marys Junior College Himayat Nagar Hyd"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 88769246,
+      "immovable": 89000000,
+      "total": 187769246,
+      "liabilities": 59920554
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1166",
+    "retrieved": "2026-08-26"
+  }
+}

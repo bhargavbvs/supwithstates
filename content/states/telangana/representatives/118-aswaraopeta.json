@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-118-aswaraopeta",
+  "constituency": {
+    "number": 118,
+    "name": "Aswaraopeta",
+    "district": "Bhadradri Kothagudem",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Adinarayana Jare",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Agriculture And Social Service",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/f67e2d3f5799ec636118a51f79d30f56b038b651.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=143"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc (Maths) 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3497652,
+      "immovable": 2200000,
+      "total": 5697652,
+      "liabilities": 1701088
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=143",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-57-musheerabad",
+  "constituency": {
+    "number": 57,
+    "name": "Musheerabad",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Muta Gopal",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "MLA & Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/574a8659adc43804045535371df5c97c61eee40a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=215"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Potitical science) from Vinayaka Mission university, Tamilnadu completed in the year 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13351473,
+      "immovable": 54664512,
+      "total": 67665985,
+      "liabilities": 4725956
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=215",
+    "retrieved": "2026-08-26"
+  }
+}

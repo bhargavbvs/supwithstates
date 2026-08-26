@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-6-khanapur",
+  "constituency": {
+    "number": 6,
+    "name": "Khanapur",
+    "district": "Nirmal",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vedma Bhojju",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 37,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/ba3725c73009f5ff55f4ce3535990e3fd5a3eae0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=135"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Distance Education Acharya Nagarajuna University in 2017, LLB from PMR Law College Hyderabad, Osmania University in 2018"
+    },
+    "declared_cases": {
+      "total": 52,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2430000,
+      "immovable": 0,
+      "total": 2430000,
+      "liabilities": 2190386
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=135",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -21,12 +21,18 @@ export function formatRupeesCompact(n) {
 
 const plural = (n, word) => `${n} ${word}${n === 1 ? '' : 's'}`;
 
-export function formatDeclaredCases({ total, serious, convicted }) {
+export function formatDeclaredCases({ total, serious, serious_declared: seriousDeclared, convicted }) {
   return {
     headline: total === 0
       ? 'No declared criminal cases'
       : plural(total, 'declared criminal case'),
-    serious: `${serious} serious`,
+    // ADR publishes a count for some elections and, for others, only the
+    // list of who has declared such a case. Where the count is not
+    // published this says so instead of printing a number nobody stated.
+    serious: Number.isFinite(serious)
+      ? `${serious} serious`
+      : (seriousDeclared === true ? 'serious case declared' : 'none serious'),
+    seriousKnown: Number.isFinite(serious),
     convicted: plural(convicted, 'conviction'),
     disclaimer: CASE_DISCLAIMER
   };
@@ -38,9 +44,11 @@ export function formatDeclaredCases({ total, serious, convicted }) {
 // 1 = has declared cases (none serious), 0 = no declared cases.
 export function severityOf(declaredCases) {
   if (!declaredCases) return -1; // no data yet
-  const { total, serious, convicted } = declaredCases;
+  const { total, serious, serious_declared: seriousDeclared, convicted } = declaredCases;
   if (convicted > 0) return 3;
-  if (serious > 0) return 2;
+  // ADR publishes a per-member count for some elections and only the list
+  // of names for others. Both say the same thing about this member.
+  if (serious > 0 || seriousDeclared === true) return 2;
   if (total > 0) return 1;
   return 0;
 }

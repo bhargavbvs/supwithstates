@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-61-jubilee-hills",
+  "constituency": {
+    "number": 61,
+    "name": "Jubilee Hills",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Maganti Gopinath",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Polictical Service/Member of Legislative Assembly",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/37aa8812a529f1fc897fa45f5f6ee51f0f9223f5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=109"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate in Venkateswara Tutorials , Hyderabad Completed in the Year 1980 (Board of Intermediate Education)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 57342479,
+      "immovable": 141960800,
+      "total": 199303309,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=109",
+    "retrieved": "2026-08-26"
+  }
+}

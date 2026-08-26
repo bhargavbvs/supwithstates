@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-94-bhongir",
+  "constituency": {
+    "number": 94,
+    "name": "Bhongir",
+    "district": "Yadadri Bhuvanagiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kumbam Anil Kumar Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Developer & Builder",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/e47ee98901c1de54f04c2db23e1eec96722f73f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=39"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E (Civil Engineering) GCT Madras University 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 676473808,
+      "immovable": 1470073000,
+      "total": 2118494530,
+      "liabilities": 130060000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=39",
+    "retrieved": "2026-08-26"
+  }
+}

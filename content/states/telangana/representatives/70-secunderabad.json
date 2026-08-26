@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-70-secunderabad",
+  "constituency": {
+    "number": 70,
+    "name": "Secunderabad",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Padma Rao. T",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/4d31ed0f09275a6c529168ad3ba5fa63eb421009.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=292"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "lntermediate First Year 1975 Government Junior College, S.P. Road, Secunderabad."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27676499,
+      "immovable": 5648000,
+      "total": 33324499,
+      "liabilities": 1407000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=292",
+    "retrieved": "2026-08-26"
+  }
+}

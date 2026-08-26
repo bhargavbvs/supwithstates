@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-63-nampally",
+  "constituency": {
+    "number": 63,
+    "name": "Nampally",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohammed Majid Hussain",
+    "election": "2023",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Corporator (Mehdipatnam)",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/5254d526500fb3a7b2de08a7b1712ccf851a4991.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=231"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BCA from Anwar UI Uloom College of Arts, Commerce and Science, Osmania University in 2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14371608,
+      "immovable": 10798500,
+      "total": 25170108,
+      "liabilities": 1688662
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=231",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-25-chittoor",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 25,
+    "name": "Chittoor",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Chandragiri",
+      "Nagari",
+      "Puthalapattu",
+      "Gangadhara Nellore",
+      "Palamaner",
+      "Chittoor",
+      "Kuppam"
+    ]
+  },
+  "representative": {
+    "name": "Daggumalla Prasada Rao",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Retired Central Government Employee",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/467d38373f9a3541ad2c2fb2f8e5a8b31344b06b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5104"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from V.R.S & Y.R.N. College, Chirala (Andhra University) in the year 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 186985265,
+      "immovable": 197508500,
+      "total": 384493765,
+      "liabilities": 80279565
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5104",
+    "retrieved": "2026-08-26"
+  }
+}

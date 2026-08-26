@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-107-waradhanapet",
+  "constituency": {
+    "number": 107,
+    "name": "Waradhanapet",
+    "district": "Hanumakonda",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "K.R.Nagaraj.K",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Retired Employee & Social Service",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/558de6773df5697caa915d073e9c2190e0d86dd3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=334"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., Arts & Science Collect, from Hanumakonda, Kakatiya University in 1987-88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14750000,
+      "immovable": 65000000,
+      "total": 80750000,
+      "liabilities": 2040032
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=334",
+    "retrieved": "2026-08-26"
+  }
+}

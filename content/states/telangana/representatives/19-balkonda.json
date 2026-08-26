@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-19-balkonda",
+  "constituency": {
+    "number": 19,
+    "name": "Balkonda",
+    "district": "Nizamabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prashanth Reddy Vemula",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Business & Profession",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/78eca193665e8761bc6bc60191ef175b62a2761c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=26"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (CIVIL) From Gulbarga University, Karnataka 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 117676992,
+      "immovable": 230000000,
+      "total": 347676992,
+      "liabilities": 34393873
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=26",
+    "retrieved": "2026-08-26"
+  }
+}

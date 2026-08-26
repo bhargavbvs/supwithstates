@@ -1,62 +1,94 @@
 #!/usr/bin/env node
+// One bundle per state, plus the index the switcher reads.
+//
+// This built a single data.json for whichever state STATE happened to
+// name, and the app fetched it from a fixed path — which is why there was
+// only ever one state. Every state under content/states/ is built now,
+// and the app asks for the one it is showing.
 import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync, cpSync } from 'node:fs';
 import { join } from 'node:path';
 import { computeStats } from './lib/compute-stats.mjs';
 import { assertBudget } from './lib/budget.mjs';
 import { projectGeo } from './lib/project-geo.mjs';
 
-const STATE = process.env.STATE ?? 'andhra';
-const stateDir = new URL(`../content/states/${STATE}/`, import.meta.url).pathname;
+const contentDir = new URL('../content/states/', import.meta.url).pathname;
 const publicDir = new URL('../public/', import.meta.url).pathname;
-mkdirSync(publicDir, { recursive: true });
+const dataDir = join(publicDir, 'data');
+const geoDir = join(publicDir, 'geo');
+mkdirSync(dataDir, { recursive: true });
+mkdirSync(geoDir, { recursive: true });
 
-const state = JSON.parse(readFileSync(join(stateDir, 'state.json'), 'utf8'));
+const readAll = (dir) => (existsSync(dir)
+  ? readdirSync(dir).filter((f) => f.endsWith('.json'))
+      .map((f) => JSON.parse(readFileSync(join(dir, f), 'utf8')))
+  : []);
 
-const repDir = join(stateDir, 'representatives');
-const constituencies = existsSync(repDir)
-  ? readdirSync(repDir)
-      .filter((f) => f.endsWith('.json'))
-      .map((f) => JSON.parse(readFileSync(join(repDir, f), 'utf8')))
-      .sort((a, b) => a.constituency.number - b.constituency.number)
-  : [];
+const only = process.env.STATE;
+const slugs = readdirSync(contentDir, { withFileTypes: true })
+  .filter((d) => d.isDirectory() && existsSync(join(contentDir, d.name, 'state.json')))
+  .map((d) => d.name)
+  .filter((slug) => !only || slug === only)
+  .sort();
 
-const pagesDir = join(stateDir, 'pages');
-const pages = existsSync(pagesDir)
-  ? Object.fromEntries(readdirSync(pagesDir)
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => [f.replace(/\.md$/, ''), readFileSync(join(pagesDir, f), 'utf8')]))
-  : {};
+const index = [];
 
-const promiseSetsDir = join(stateDir, 'promise-sets');
-const promiseSets = existsSync(promiseSetsDir)
-  ? readdirSync(promiseSetsDir)
-      .filter((f) => f.endsWith('.json'))
-      .map((f) => JSON.parse(readFileSync(join(promiseSetsDir, f), 'utf8')))
-  : [];
+for (const slug of slugs) {
+  const stateDir = join(contentDir, slug);
+  const state = JSON.parse(readFileSync(join(stateDir, 'state.json'), 'utf8'));
 
-const promisesDir = join(stateDir, 'promises');
-const promises = existsSync(promisesDir)
-  ? readdirSync(promisesDir)
-      .filter((f) => f.endsWith('.json'))
-      .map((f) => JSON.parse(readFileSync(join(promisesDir, f), 'utf8')))
-  : [];
+  const constituencies = readAll(join(stateDir, 'representatives'))
+    .sort((a, b) => a.constituency.number - b.constituency.number);
+  // The members of parliament for the same ground. A constituency knows
+  // which parliamentary seat it sits in — the map carries that — so a
+  // reader who has found their MLA is one line away from their MP.
+  const mps = readAll(join(stateDir, 'mps'))
+    .sort((a, b) => a.constituency.number - b.constituency.number);
 
-const out = join(publicDir, 'data.json');
-writeFileSync(out, JSON.stringify({
-  state,
-  stats: computeStats(constituencies),
-  pages,
-  constituencies,
-  promiseSets,
-  promises
-}));
+  const pagesDir = join(stateDir, 'pages');
+  const pages = existsSync(pagesDir)
+    ? Object.fromEntries(readdirSync(pagesDir).filter((f) => f.endsWith('.md'))
+        .map((f) => [f.replace(/\.md$/, ''), readFileSync(join(pagesDir, f), 'utf8')]))
+    : {};
 
-cpSync(join(stateDir, 'geo'), join(publicDir, 'geo'), { recursive: true });
+  const promiseSets = readAll(join(stateDir, 'promise-sets'));
+  const promises = readAll(join(stateDir, 'promises'));
 
-const constituenciesFc = JSON.parse(readFileSync(join(stateDir, 'geo', 'constituencies.geojson'), 'utf8'));
-const districtsFc = JSON.parse(readFileSync(join(stateDir, 'geo', 'districts.geojson'), 'utf8'));
-const mapOut = join(publicDir, 'geo', 'ap-map.json');
-writeFileSync(mapOut, JSON.stringify(projectGeo(constituenciesFc, districtsFc)));
+  // Which parliamentary seat each constituency sits in, straight off the
+  // map so the two can never disagree.
+  const acFc = JSON.parse(readFileSync(join(stateDir, 'geo', 'constituencies.geojson'), 'utf8'));
+  const pcOf = {};
+  for (const f of acFc.features) {
+    if (f.properties.PC_NO != null) pcOf[Number(f.properties.AC_NO)] = Number(f.properties.PC_NO);
+  }
 
-console.log(`✔ data.json: ${constituencies.length} constituencies, ${assertBudget(out, 300 * 1024)} bytes`);
-console.log(`✔ ap-map.json: ${assertBudget(mapOut, 400 * 1024)} bytes`);
+  const out = join(dataDir, `${slug}.json`);
+  writeFileSync(out, JSON.stringify({
+    state,
+    stats: computeStats(constituencies),
+    pages,
+    constituencies,
+    mps,
+    pcOf,
+    promiseSets,
+    promises,
+  }));
+
+  cpSync(join(stateDir, 'geo'), join(geoDir, slug), { recursive: true });
+  const districtsFc = JSON.parse(readFileSync(join(stateDir, 'geo', 'districts.geojson'), 'utf8'));
+  const mapOut = join(geoDir, `${slug}-map.json`);
+  writeFileSync(mapOut, JSON.stringify(projectGeo(acFc, districtsFc)));
+
+  index.push({
+    slug, name: state.name, assembly_size: state.assembly_size,
+    profiled: constituencies.length, mps: mps.length,
+  });
+
+  console.log(`✔ ${slug}: ${constituencies.length} constituencies, ${mps.length} MPs, `
+    + `${assertBudget(out, 400 * 1024)} bytes; map ${assertBudget(mapOut, 400 * 1024)} bytes`);
+}
+
+// Alphabetical, so the switcher does not reorder itself when a state is
+// added.
+index.sort((a, b) => a.name.localeCompare(b.name));
+writeFileSync(join(dataDir, 'states.json'), JSON.stringify(index));
+console.log(`✔ states.json: ${index.map((s) => s.name).join(', ')}`);

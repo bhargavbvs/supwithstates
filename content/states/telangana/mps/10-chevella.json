@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-10-chevella",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Chevella",
+    "reserved": null,
+    "assembly_segments": [
+      "Vicarabad",
+      "Chevella",
+      "Serilingampally",
+      "Tandur",
+      "Rajendranagar",
+      "Pargi",
+      "Maheswaram"
+    ]
+  },
+  "representative": {
+    "name": "Konda Vishweshwar Reddy",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Business, Engineer",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/af1e2ff6ff2f0d58527577b1e4e78a4b76e7a7ed.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5226"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelors in Electrical Engineering, University of Madras, Guindy, Chennai, Passed in 1983 (MS Electrical Engineering, NJIT, New Jersey, USA, 1985)"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 44909989462,
+      "immovable": 781400236,
+      "total": 45682222094,
+      "liabilities": 138336195
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5226",
+    "retrieved": "2026-08-26"
+  }
+}

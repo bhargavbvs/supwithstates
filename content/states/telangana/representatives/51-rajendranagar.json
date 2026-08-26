@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-51-rajendranagar",
+  "constituency": {
+    "number": 51,
+    "name": "Rajendranagar",
+    "district": "Ranga Reddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T. Prakash Goud",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Politician & Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bf9bd2614094f3a2f1e44aba41d9e1b56f5ec79d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=277"
+    },
+    "education": {
+      "level": "5th Pass",
+      "detail": "Primary Education"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3477063717,
+      "immovable": 102172000,
+      "total": 181507981,
+      "liabilities": 584000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=277",
+    "retrieved": "2026-08-26"
+  }
+}

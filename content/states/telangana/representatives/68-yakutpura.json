@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-68-yakutpura",
+  "constituency": {
+    "number": 68,
+    "name": "Yakutpura",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaffar Hussain",
+    "election": "2023",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Politician & Businessman",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/d0d76d12f5b2cd63e5ef41460e61f6b3748d17e4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=347"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "Crescent High School, Osmania Matric, Board of Secondary Education A.P. in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31604592,
+      "immovable": 301990000,
+      "total": 333604592,
+      "liabilities": 7735000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=347",
+    "retrieved": "2026-08-26"
+  }
+}

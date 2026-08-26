@@ -1,11 +1,20 @@
-# ssup with Andhra
+# ssup with states
 
-A fast, state-agnostic constituency lookup site — search or geolocate to find your Andhra Pradesh assembly constituency, its representative, and district context, with sourced, framing-compliant data.
+A fast constituency lookup — search, tap the map or use your location to find
+your assembly constituency, the member who holds it, and the member of
+parliament for the seat it sits inside, with every figure taken from a sworn
+affidavit and linked back to it.
+
+**States covered:** Andhra Pradesh (175 assembly seats, 25 Lok Sabha seats) and
+Telangana (119 and 17). The switcher in the header moves between them; the state
+leads the address, so `#/telangana/c/9` is a link anyone can open.
 
 ## Features
 
-- District map with stats strip and drill-down to constituencies
-- Constituency profile pages with representative info and cited sources
+- A district map per state, with a stats strip and drill-down to constituencies
+- Constituency profiles: declared cases, assets, education, and the sources
+- Members of parliament, with the assembly segments inside each seat
+- A state switcher, with each state's own map, members, pages and promises
 - Search by constituency name, district, or representative
 - Client-side geolocation to find your constituency
 - Data pipeline with validation (duplicate checks, schema rules, banned-terms guard) and simplified geo assets under enforced size budgets
@@ -37,11 +46,21 @@ npm run dev
 ## Project structure
 
 - `src/` — app source (router, views, map, search, geolocation, formatting)
-- `content/states/` — per-state source content (currently Andhra Pradesh)
+- `content/states/<slug>/` — per-state source content: `state.json`, the
+  `representatives/` and `mps/` records, `geo/`, `pages/`, `promises/`
 - `scripts/` — data build, geo simplification, and validation tooling
 - `tests/` — test suite
 - `docs/` — project docs
 
+## Adding a state
+
+1. `content/states/<slug>/state.json` — the manifest (validated).
+2. `STATE=<slug> npm run geo` — boundaries into `content/states/<slug>/geo/`.
+3. `node scripts/crawl-myneta.mjs <MyNetaSlug>` — the affidavits, cached on disk.
+4. `node scripts/build-state-records.mjs <slug>` and `--mps` — the records.
+5. `node scripts/add-myneta-photos.mjs content/states/<slug>/representatives`.
+6. `npm run validate && npm run build` — everything is picked up automatically.
+
 ## Status
 
-Not yet deployed — no hosting/Vercel configuration in the repo yet.
+Deployed on Vercel.

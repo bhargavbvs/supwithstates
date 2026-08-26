@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-1-araku",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Araku",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Kurupam",
+      "Palakonda",
+      "Parvathipuram",
+      "Salur",
+      "Araku Valley",
+      "Paderu",
+      "Rampachodavaram"
+    ]
+  },
+  "representative": {
+    "name": "Gumma Thanuja Rani",
+    "election": "2024",
+    "elected_party": "YSRCP",
+    "current_party": "YSRCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 31,
+    "profession": "Medical Doctor",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d11c243ea5115b1002105b2f4ec93cba9f093145.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5099"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Medical Doctor in Profession \"General Medicine\" From The International Higher School of Medicine, Bishkek Kyrgyzstan, Year-2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1754677,
+      "immovable": 600000,
+      "total": 2354678,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5099",
+    "retrieved": "2026-08-26"
+  }
+}

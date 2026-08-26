@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-38-zahirabad",
+  "constituency": {
+    "number": 38,
+    "name": "Zahirabad",
+    "district": "Sangareddy",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Koninty Manik Rao",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Retired Govt. Employee (RTO) and MLA for 038 Zahirabad Constituency",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/fec9ec8a4441f43c5436923d71d958675147f861.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=355"
+    },
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Automobile and Mechanical engineering from Govt. Polytechnic Masabtank Hyderabad in the year 1977& 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12904274,
+      "immovable": 33449159,
+      "total": 46353433,
+      "liabilities": 3617226
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=355",
+    "retrieved": "2026-08-26"
+  }
+}

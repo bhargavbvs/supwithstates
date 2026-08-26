@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-32-husnabad",
+  "constituency": {
+    "number": 32,
+    "name": "Husnabad",
+    "district": "Siddipet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ponnam Prabhakar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Public Service & Advocate",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/2639ef93bbb08ea765b3bbf56fd0a7491b72eb4a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=89"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Arts (Political Science) From Osmania University Year 1996"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13639096,
+      "immovable": 104692698,
+      "total": 118331467,
+      "liabilities": 7500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=89",
+    "retrieved": "2026-08-26"
+  }
+}

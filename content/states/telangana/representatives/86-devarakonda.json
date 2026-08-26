@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-86-devarakonda",
+  "constituency": {
+    "number": 86,
+    "name": "Devarakonda",
+    "district": "Nalgonda",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Balu Naik Nenavath",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture & Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/c049c3f3eab887d407709b7c926a6c1e1d7b03d9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=65"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. MKR Govt. Degree College Devarakonda year 1996"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2574164,
+      "immovable": 319026,
+      "total": 2893192,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=65",
+    "retrieved": "2026-08-26"
+  }
+}

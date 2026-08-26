@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-53-chevella",
+  "constituency": {
+    "number": 53,
+    "name": "Chevella",
+    "district": "Ranga Reddy",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kale Yadaiah",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "MLA and Farmer",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/d9482efdacfa84e8f6e91d86bcaedd886b75a6c3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=57"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate at Government Junior College, Marpally Village and Marpally Mandal of Rangareddy District in 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12817008,
+      "immovable": 3650621,
+      "total": 16467634,
+      "liabilities": 1930651
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=57",
+    "retrieved": "2026-08-26"
+  }
+}

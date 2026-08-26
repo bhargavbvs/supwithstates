@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-15-bapatla",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Bapatla",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Vemuru",
+      "Addanki",
+      "Repalle",
+      "Parchur",
+      "Bapatla",
+      "Chirala",
+      "Santhanuthalapadu"
+    ]
+  },
+  "representative": {
+    "name": "Krishna Prasad Tenneti",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Retired IPS Officer",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/5a3c128add6ae2077564bb1fdc28f8d25c2d8ab0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5102"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters in Business Administration From Indian Institute of Management, Ahmedabad, (IIMA), Year-1983-85 & LLB From Osmania University, Year-2014-2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32882544,
+      "immovable": 119875000,
+      "total": 155757943,
+      "liabilities": 19400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5102",
+    "retrieved": "2026-08-26"
+  }
+}

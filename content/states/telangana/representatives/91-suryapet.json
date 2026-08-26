@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-91-suryapet",
+  "constituency": {
+    "number": 91,
+    "name": "Suryapet",
+    "district": "Suriyapet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Guntakandla Jagadish Reddy",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/e543f1a315dc6c6044fed05ae310026e8a38bcbb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=313"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.L. Siddhartha Law College, Vijayawada, Nagarjuna in 1986-89"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 65406586,
+      "immovable": 44763687,
+      "total": 110170275,
+      "liabilities": 33024170
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=313",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-41-dubbak",
+  "constituency": {
+    "number": 41,
+    "name": "Dubbak",
+    "district": "Siddipet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kotta Prabhakar Reddy",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Member of parliament",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/af412a1f7054b2ff102b13485774d9b2d92933c1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=75"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Govt Degree College Siddipet, Osmania University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 166966429,
+      "immovable": 1807117700,
+      "total": 1974084129,
+      "liabilities": 128044753
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=75",
+    "retrieved": "2026-08-26"
+  }
+}

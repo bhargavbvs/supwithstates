@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-119-bhadrachalam",
+  "constituency": {
+    "number": 119,
+    "name": "Bhadrachalam",
+    "district": "Bhadradri Kothagudem",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Tellam Venkata Rao",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Doctor",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/1bd9c1cfd2f208a1f38ae879f7dbc04c53d4649a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=34"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Surgery SVS Medical College, Mahaboobnagar Dr. NTR University of Health Science in 2011"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4872548,
+      "immovable": 9900000,
+      "total": 14579895,
+      "liabilities": 8910544
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=34",
+    "retrieved": "2026-08-26"
+  }
+}

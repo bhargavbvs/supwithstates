@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-84-shadnagar",
+  "constituency": {
+    "number": 84,
+    "name": "Shadnagar",
+    "district": "Ranga Reddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K Shankaraiah",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "AGRICULTURE AND BUSINESS",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/0a9a73a17f8658bc65795485b6595b6c57f1e022.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=303"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "BACHELOR OF ARTS FROM CITY COLLEGE, OSMANIA UNIVERSITY IN 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22600000,
+      "immovable": 83106874,
+      "total": 105706874,
+      "liabilities": 7200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=303",
+    "retrieved": "2026-08-26"
+  }
+}

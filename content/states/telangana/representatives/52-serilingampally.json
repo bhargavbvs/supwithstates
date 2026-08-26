@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-52-serilingampally",
+  "constituency": {
+    "number": 52,
+    "name": "Serilingampally",
+    "district": "Ranga Reddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arekapudi Gandhi",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "MLA & Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/ae47b614a004ed5a368f86e24e9adfa568568ca6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=298"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass from PVC ZP High School, Rudrapaka (V), Nandiwada (Mdl), Krishna Dist, Andhra Pradesh in 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 76937822,
+      "immovable": 774531000,
+      "total": 851468823,
+      "liabilities": 18268334
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=298",
+    "retrieved": "2026-08-26"
+  }
+}

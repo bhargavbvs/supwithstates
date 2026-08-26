@@ -17,14 +17,14 @@ export function renderDistrict(el, slug) {
   const list = store.byDistrict(slug);
 
   if (!list.length) {
-    el.innerHTML = `<p class="empty">No constituencies found. <a href="#/">Back to map</a></p>`;
+    el.innerHTML = `<p class="empty">No constituencies found. <a href="${store.href()}">Back to map</a></p>`;
     return;
   }
 
   const districtName = list[0].constituency.district;
 
   el.innerHTML = `
-    <a class="back" href="#/">← Map</a>
+    <a class="back" href="${store.href()}">← Map</a>
     <h1>${escapeHtml(districtName)}</h1>
     <p class="sub">${list.length} constituencies</p>
     <ul class="ac-list">
@@ -33,7 +33,7 @@ export function renderDistrict(el, slug) {
         const sev = severityOf(c.representative.declared_cases);
         return `
           <li>
-            <a href="#/c/${c.constituency.number}">
+            <a href="${store.href(`c/${c.constituency.number}`)}">
               ${thumb(c.representative)}
               <span class="sev-dot sev-${sev}"></span>
               <span class="ac-info">

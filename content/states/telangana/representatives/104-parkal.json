@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-104-parkal",
+  "constituency": {
+    "number": 104,
+    "name": "Parkal",
+    "district": "Warangal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Revuri Prakash Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Business and Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/6cf0782e063ad083cbe47fed08a2dd2f4ecca69d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=263"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Govt. Junior College, Sirpur Kaghaz Nagar, Adilabad District in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29722930,
+      "immovable": 63532400,
+      "total": 93666331,
+      "liabilities": 2853612
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=263",
+    "retrieved": "2026-08-26"
+  }
+}

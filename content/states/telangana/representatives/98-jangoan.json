@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-98-jangoan",
+  "constituency": {
+    "number": 98,
+    "name": "Jangoan",
+    "district": "Siddipet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Palla Rajeshwar Reddy",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Academician & Member of Legislative Counil",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/0c15ff58ad8c38a9cc44b892f7704da30d515e62.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=106"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy (Ph.D) in Physics From Osmania University In 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 116381916,
+      "immovable": 108014870,
+      "total": 224396786,
+      "liabilities": 50068732
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=106",
+    "retrieved": "2026-08-26"
+  }
+}

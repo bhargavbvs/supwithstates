@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-93-munugode",
+  "constituency": {
+    "number": 93,
+    "name": "Munugode",
+    "district": "Nalgonda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Komatireddy Raj Gopal Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/fe41203d0f39ab88c350b19b6fc042af51fe0e08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=211"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (External) Osmania University, Hyderabad 1992"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3015535078,
+      "immovable": 1568404037,
+      "total": 4583939115,
+      "liabilities": 41436400
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=211",
+    "retrieved": "2026-08-26"
+  }
+}

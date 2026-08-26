@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-5-anakapalle",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Anakapalle",
+    "reserved": null,
+    "assembly_segments": [
+      "Madugula",
+      "Chodavaram",
+      "Pendurthi",
+      "Anakapalle",
+      "Narsipatnam",
+      "Yelamanchili",
+      "Payakaraopet"
+    ]
+  },
+  "representative": {
+    "name": "C.M.Ramesh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 58,
+    "profession": "Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f685752df24767870f48eb1ca42959e3ae82852f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5268"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Board of Intermediate Education AP in 1983, SSC from MPHS School,Vasanthapet, Poddutur, Kadapa Dist. AP in 1981"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 519255400,
+      "immovable": 4456769596,
+      "total": 4976024996,
+      "liabilities": 1019477007
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5268",
+    "retrieved": "2026-08-26"
+  }
+}

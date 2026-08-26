@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-110-pinapaka",
+  "constituency": {
+    "number": 110,
+    "name": "Pinapaka",
+    "district": "Bhadradri Kothagudem",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Payam Venkateswarlu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Social Worker & Agriculture, Pensioner",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/7dc7b336c158f8928e32db72b3e77a50d35048ba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=272"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate in 1992, Grdauation (Discontinue) From Govt. Junior College Manuguru."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7610716,
+      "immovable": 63417250,
+      "total": 71027966,
+      "liabilities": 801600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=272",
+    "retrieved": "2026-08-26"
+  }
+}

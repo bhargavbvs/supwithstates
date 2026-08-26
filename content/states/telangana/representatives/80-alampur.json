@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-80-alampur",
+  "constituency": {
+    "number": 80,
+    "name": "Alampur",
+    "district": "Jogulamba Gadwal",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vijayudu",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/92df300f104bd334ff04622116a10a204f85d051.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=853"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC Passed"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 170537,
+      "immovable": 5350000,
+      "total": 5970537,
+      "liabilities": 180000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=853",
+    "retrieved": "2026-08-26"
+  }
+}

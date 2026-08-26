@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-96-thungathurthi",
+  "constituency": {
+    "number": 96,
+    "name": "Thungathurthi",
+    "district": "Suriyapet",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mandula Samel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/54c64179382efc8cce572331b7e1061bf2e63978.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=320"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, AP Intermediate, Inter at Govt College Bhonagiri, Yadadri Bhonagiri (Education) 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2528660,
+      "immovable": 33400000,
+      "total": 35928660,
+      "liabilities": 8475000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=320",
+    "retrieved": "2026-08-26"
+  }
+}

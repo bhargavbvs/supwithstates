@@ -39,8 +39,19 @@ export function validateRepresentative(r, { assemblySize }) {
   }
 
   const dc = p.declared_cases ?? {};
-  for (const key of ['total', 'serious', 'convicted']) {
+  for (const key of ['total', 'convicted']) {
     if (!isNum(dc[key])) e.push(`representative.declared_cases.${key} must be an explicit number`);
+  }
+  // `serious` is ADR's count where ADR publishes one. For Telangana and
+  // for the Lok Sabha it publishes only the list of who has declared such
+  // a case, not how many each has — so a record there says which of the
+  // two things is known and never guesses the other. A null with no flag
+  // beside it would just be a missing number, and that is still an error.
+  if (!isNum(dc.serious) && typeof dc.serious_declared !== 'boolean') {
+    e.push('representative.declared_cases.serious must be a number, or null with serious_declared true/false');
+  }
+  if (dc.serious === null && dc.serious_declared === true && !dc.note) {
+    e.push('representative.declared_cases.note must say why the count is absent');
   }
   if (isNum(dc.total) && isNum(dc.serious) && dc.serious > dc.total) {
     e.push('representative.declared_cases.serious cannot exceed total');

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-36-andole",
+  "constituency": {
+    "number": 36,
+    "name": "Andole",
+    "district": "Sangareddy",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "C. Damodar Rajanarsimha",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/4b7911391ca5f5c2a269b35fc2662756f3bf978c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=359"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering in civil from College of Engineering Osmania University in the Year 1982."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 100321153,
+      "immovable": 366308806,
+      "total": 466629963,
+      "liabilities": 143523584
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=359",
+    "retrieved": "2026-08-26"
+  }
+}

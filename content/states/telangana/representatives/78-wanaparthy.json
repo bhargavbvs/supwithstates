@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-78-wanaparthy",
+  "constituency": {
+    "number": 78,
+    "name": "Wanaparthy",
+    "district": "Wanparti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Megha Reddy Tudi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Employee (CorporateSalary) & Mandal Praja Parishad President",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/4ad9cba802be7040da420e6db19037006f241f6a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=332"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc.( Discontinue) from Government Degree College, Wanaparthy in 1993-1995"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 45900707,
+      "immovable": 140787000,
+      "total": 186687709,
+      "liabilities": 36534928
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=332",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-23-ramagundam",
+  "constituency": {
+    "number": 23,
+    "name": "Ramagundam",
+    "district": "Peddapalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Makkan Singh Raj Thakur",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/84f309f1fe4db86c5c4eb05bf05cedf153c7aa8b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=281"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Board of Secondary School Certificate Passed in 1982-83 from ZPHS Ramagundam"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2938190,
+      "immovable": 42200000,
+      "total": 45138190,
+      "liabilities": 15270000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=281",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-109-mulug",
+  "constituency": {
+    "number": 109,
+    "name": "Mulug",
+    "district": "Mulugu",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Danasari Anasuya Seethakka",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/9beac7d3cc9c2d59152a4744f927062ed2a5ed1e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=208"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "PHD from Osmania University Year 2022"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 483669,
+      "immovable": 7800000,
+      "total": 8283669,
+      "liabilities": 2474764
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=208",
+    "retrieved": "2026-08-26"
+  }
+}

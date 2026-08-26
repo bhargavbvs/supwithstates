@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-46-kukatpalle",
+  "constituency": {
+    "number": 46,
+    "name": "Kukatpalle",
+    "district": "Medchal_malkajgiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhavaram Krishna Rao",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture and Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/ff47b606fe1f44240c77bd91b22eb5790374b99b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=158"
+    },
+    "education": {
+      "level": "8th Pass",
+      "detail": "School secondary Certificate (SSC) Board of Secondary Education. ZP High School Kukatpally- (Discontinued)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7690357,
+      "immovable": 58223900,
+      "total": 65914257,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=158",
+    "retrieved": "2026-08-26"
+  }
+}

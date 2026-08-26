@@ -2,6 +2,7 @@ node_modules/
 dist/
 public/promises.json
 public/data.json
+public/data/
 public/og/
 public/geo/
 .vercel/
@@ -10,3 +11,4 @@ public/geo/
 .vercel
 .env*
 .claude/
+.myneta-src/

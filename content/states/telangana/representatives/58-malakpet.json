@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-58-malakpet",
+  "constituency": {
+    "number": 58,
+    "name": "Malakpet",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ahmed Bin Abdullah Balala",
+    "election": "2023",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "politician & Businessman",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/096b9aea75436a167d32d4161fca542ad60854c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=179"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC From St.Pauls High School Himayatnagar Board of Secondary Education Year 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 92232139,
+      "immovable": 154433200,
+      "total": 237119989,
+      "liabilities": 96388159
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=179",
+    "retrieved": "2026-08-26"
+  }
+}

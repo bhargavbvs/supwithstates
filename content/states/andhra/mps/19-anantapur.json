@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-19-anantapur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 19,
+    "name": "Anantapur",
+    "reserved": null,
+    "assembly_segments": [
+      "Guntakal",
+      "Uravakonda",
+      "Tadpatri",
+      "Rayadurg",
+      "Singanamala",
+      "Anantapur Urban",
+      "Kalyandurg"
+    ]
+  },
+  "representative": {
+    "name": "Ambica G Lakshminarayana Valmiki",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/bfa17acd338ed095f3eecba63a3bd00f3a06e5d1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5097"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Nagarjuna University, Nagarjuna Nagar in 1990"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12740055,
+      "immovable": 34800000,
+      "total": 47540056,
+      "liabilities": 2119559
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5097",
+    "retrieved": "2026-08-26"
+  }
+}

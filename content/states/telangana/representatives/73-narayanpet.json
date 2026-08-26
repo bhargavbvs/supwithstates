@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-73-narayanpet",
+  "constituency": {
+    "number": 73,
+    "name": "Narayanpet",
+    "district": "Narayanpet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chittem Parnika Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 30,
+    "profession": "Student Post Graduation",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/9f080e756872af25900cfe16a085a8149bb8a2a2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=236"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS From Dr. NTR University of Health Sciences Year 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33598288,
+      "immovable": 0,
+      "total": 33420393,
+      "liabilities": 2763636
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=236",
+    "retrieved": "2026-08-26"
+  }
+}

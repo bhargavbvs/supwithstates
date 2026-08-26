@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-10-mudhole",
+  "constituency": {
+    "number": 10,
+    "name": "Mudhole",
+    "district": "Nirmal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Rao Pawar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/01ca62e97e8371ea08652044f8258251af9b744e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=206"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Osmaia University, Dharmavant Science & Arts College, Yakutpur, Hyderabad in 1976"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 87901182,
+      "immovable": 190024610,
+      "total": 277925792,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=206",
+    "retrieved": "2026-08-26"
+  }
+}

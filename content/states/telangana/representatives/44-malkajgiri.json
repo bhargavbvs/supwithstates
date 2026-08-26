@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-44-malkajgiri",
+  "constituency": {
+    "number": 44,
+    "name": "Malkajgiri",
+    "district": "Medchal_malkajgiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Marri Rajashekar Reddy",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/65cdcf55dbb40a04dfdb633102a7b59170dbe24e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=183"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Passed From MPC Wesly Junior College Secunderabad in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 173203208,
+      "immovable": 788308825,
+      "total": 970080333,
+      "liabilities": 81132657
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=183",
+    "retrieved": "2026-08-26"
+  }
+}

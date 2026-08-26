@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-75-jadcherla",
+  "constituency": {
+    "number": 75,
+    "name": "Jadcherla",
+    "district": "Mahabubnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anirudh Reddy Janampalli",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Social Work",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/76388b0a68954345487b9da9e68be075ada6a8b1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=102"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. Tech Computer Science and Engineering from Jawharlal Nehru Technological University in 2002"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 131585667,
+      "immovable": 354156470,
+      "total": 485742143,
+      "liabilities": 109600795
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=102",
+    "retrieved": "2026-08-26"
+  }
+}

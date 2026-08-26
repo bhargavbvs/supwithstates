@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-7-amalapuram",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Amalapuram",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Kothapeta",
+      "Mummidivaram",
+      "Mandapeta",
+      "Ramachandrapuram",
+      "Gannavaram",
+      "Amalapuram",
+      "Razole"
+    ]
+  },
+  "representative": {
+    "name": "G M Harish (Balayogi)",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 33,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3ad577e1f3a470f03f46be642ba5fb99e9de5174.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5300"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelors of Business Management from GITAM University in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27497128,
+      "immovable": 77892000,
+      "total": 105389128,
+      "liabilities": 199712
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5300",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-85-kollapur",
+  "constituency": {
+    "number": 85,
+    "name": "Kollapur",
+    "district": "Wanparti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jupally Krishna Rao",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Politician and Social Worker",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/10e80f7090c2977902e7ec6db648da2d19327558.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=151"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Osmania University Hyderabad"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7802832,
+      "immovable": 18084000,
+      "total": 31889171,
+      "liabilities": 15000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=151",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-87-nagarjuna-sagar",
+  "constituency": {
+    "number": 87,
+    "name": "Nagarjuna Sagar",
+    "district": "Nalgonda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kunduru Jayaveer",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Business And Public Services",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/a498462809cd547ef8f9d38f122ce034e5a45791.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=217"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science in Financial Engineering with Polytechnic Institute of New York University New York United States 2008"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 344869884,
+      "immovable": 25091250,
+      "total": 369961134,
+      "liabilities": 88985000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=217",
+    "retrieved": "2026-08-26"
+  }
+}

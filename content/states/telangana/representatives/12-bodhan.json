@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-12-bodhan",
+  "constituency": {
+    "number": 12,
+    "name": "Bodhan",
+    "district": "Nizamabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P. Sudarshan Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Business And Pension",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/8b625147433b2f5591b2431e08fbac03fa29f69f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=48"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Bachelor of Arts Discontinued From Osmania University 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 689860983,
+      "immovable": 422177587,
+      "total": 1099778224,
+      "liabilities": 158880797
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=48",
+    "retrieved": "2026-08-26"
+  }
+}

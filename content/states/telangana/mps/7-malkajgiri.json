@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-7-malkajgiri",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Malkajgiri",
+    "reserved": null,
+    "assembly_segments": [
+      "Medchal",
+      "Quthbullapur",
+      "Malkajgiri",
+      "Kukatpalle",
+      "Uppal",
+      "Secunderabad Cantt.",
+      "Lal Bahadur Nagar"
+    ]
+  },
+  "representative": {
+    "name": "Eatala Rajender",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/dfd2ddacda4d7e03ef0811c5e2e5fd2f54b8c634.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5238"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc from Osmania University, Year of Pass 1984"
+    },
+    "declared_cases": {
+      "total": 45,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 5,
+      "note": null
+    },
+    "assets": {
+      "movable": 267295011,
+      "immovable": 272884000,
+      "total": 540178712,
+      "liabilities": 204157213
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5238",
+    "retrieved": "2026-08-26"
+  }
+}

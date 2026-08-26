@@ -10,11 +10,15 @@ function partyChip(party) {
 export function renderConstituency(el, param) {
   const rec = store.byNumber(param);
   if (!rec) {
-    el.innerHTML = `<p class="empty">Constituency not found. <a href="#/">Back to map</a></p>`;
+    el.innerHTML = `<p class="empty">Constituency not found. <a href="${store.href()}">Back to map</a></p>`;
     return;
   }
 
   const { constituency: ac, representative: rep, result, source } = rec;
+  // Not every election has published votes. Telangana 2023 and the 2024
+  // Lok Sabha do not, anywhere this project can reach, so those records
+  // carry no result block and the section below is left out rather than
+  // filled with a margin nobody counted.
   const cases = formatDeclaredCases(rep.declared_cases);
   const sev = severityOf(rep.declared_cases);
   const districtSlug = store.slugify(ac.district);
@@ -25,11 +29,14 @@ export function renderConstituency(el, param) {
   const barWidth = (v) => `${Math.min(100, (v / maxAsset) * 100).toFixed(1)}%`;
 
   // --- Election result ---
-  const totalVotes = result.votes + (result.votes - result.margin);
-  const runnerUpVotes = result.votes - result.margin;
+  // Which member of parliament answers for the same ground.
+  const mp = store.mpFor(ac.number);
+
+  const totalVotes = result ? result.votes + (result.votes - result.margin) : 0;
+  const runnerUpVotes = result ? result.votes - result.margin : 0;
   const winnerShare = totalVotes > 0 ? ((result.votes / totalVotes) * 100).toFixed(1) : null;
   const runnerShare = totalVotes > 0 ? ((runnerUpVotes / totalVotes) * 100).toFixed(1) : null;
-  const maxResultVotes = Math.max(result.votes, runnerUpVotes, 1);
+  const maxResultVotes = Math.max(result?.votes ?? 0, runnerUpVotes, 1);
   const resultBarWidth = (v) => `${Math.min(100, (v / maxResultVotes) * 100).toFixed(1)}%`;
 
   // --- Party ring color ---
@@ -56,7 +63,7 @@ export function renderConstituency(el, param) {
     ? `<p class="cases-zero">✓ No declared criminal cases in this candidate's affidavit.</p>`
     : `<p class="big">${escapeHtml(cases.headline)}</p>
        <div class="case-chips">
-         <span class="case-chip ${dc.serious > 0 ? 'chip-serious' : 'chip-ok'}">${dc.serious} serious</span>
+         <span class="case-chip ${dc.serious > 0 || dc.serious_declared === true ? 'chip-serious' : 'chip-ok'}">${escapeHtml(cases.serious)}</span>
          <span class="case-chip ${dc.convicted > 0 ? 'chip-convicted' : 'chip-ok'}">${dc.convicted} convicted</span>
          <span class="case-chip chip-neutral">${dc.total} total</span>
        </div>
@@ -66,7 +73,7 @@ export function renderConstituency(el, param) {
        </div>` : ''}`;
 
   el.innerHTML = `
-    <a class="back" href="#/d/${districtSlug}">← ${escapeHtml(ac.district)}</a>
+    <a class="back" href="${store.href(`d/${districtSlug}`)}">← ${escapeHtml(ac.district)}</a>
 
     <header class="profile-head">
       ${photo}
@@ -122,8 +129,9 @@ export function renderConstituency(el, param) {
       ${rep.education.detail ? `<p class="detail">${escapeHtml(rep.education.detail)}</p>` : ''}
     </section>
 
+    ${result ? `
     <section>
-      <h2>2024 election result</h2>
+      <h2>${escapeHtml(rep.election)} election result</h2>
       <div class="result-bars">
         <div class="result-bar winner">
           <div class="result-label">
@@ -142,7 +150,24 @@ export function renderConstituency(el, param) {
         </div>` : ''}
       </div>
       <p class="margin-note">Won by <b>${escapeHtml(result.margin.toLocaleString('en-IN'))}</b> votes</p>
-    </section>
+    </section>` : ''}
+
+    ${mp ? `
+    <section class="also-mp">
+      <h2>In Parliament</h2>
+      <p class="sub">This constituency is part of the ${escapeHtml(mp.constituency.name)}
+         Lok Sabha seat.</p>
+      <a class="mp-card" href="${store.href(`mps/${mp.constituency.number}`)}">
+        ${mp.representative.photo
+    ? `<img class="mp-avatar" src="${escapeHtml(mp.representative.photo.url)}" alt="" loading="lazy" />`
+    : `<span class="mp-avatar">${escapeHtml(initials(mp.representative.name))}</span>`}
+        <span class="mp-id">
+          <b>${escapeHtml(mp.representative.name)}</b>
+          ${partyChip(mp.representative.current_party)}
+          <span class="mp-meta">${escapeHtml(mp.constituency.name)} · elected ${escapeHtml(mp.representative.election)}</span>
+        </span>
+      </a>
+    </section>` : ''}
 
     <section class="sources">
       <h2>Sources</h2>

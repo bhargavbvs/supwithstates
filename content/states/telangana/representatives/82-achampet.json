@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-82-achampet",
+  "constituency": {
+    "number": 82,
+    "name": "Achampet",
+    "district": "Nagarkurnool",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Chikkudu Vamshi Krishna",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Doctor",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/ce781f883abd181bce8747272ec7b32be65fd8ae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=2293"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Surgery (General Surgeon) of Omania Univercity September 1997"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19256369,
+      "immovable": 28401687,
+      "total": 46958056,
+      "liabilities": 45358095
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=2293",
+    "retrieved": "2026-08-26"
+  }
+}

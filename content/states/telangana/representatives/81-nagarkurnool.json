@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-81-nagarkurnool",
+  "constituency": {
+    "number": 81,
+    "name": "Nagarkurnool",
+    "district": "Nagarkurnool",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Kuchkulla Rajesh Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Profession Dental Doctor (Master of Dental Surgery)",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/2c883a509a4cc2ae4e30cc8bafdbca42766ccf09.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=220"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Dental Surgery (MDS) From Bapuji Dental College, Rajivgandhi University, Karnataka"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41906043,
+      "immovable": 249667700,
+      "total": 291573743,
+      "liabilities": 12000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=220",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-33-siddipet",
+  "constituency": {
+    "number": 33,
+    "name": "Siddipet",
+    "district": "Siddipet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thanneeru Harish Rao",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculturalist",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/2b95828a3192c81f1981253c5528037329a6ed42.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=304"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Kakatiya University and completed the course in the year 1995"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 140905196,
+      "immovable": 102001540,
+      "total": 242906736,
+      "liabilities": 115001122
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=304",
+    "retrieved": "2026-08-26"
+  }
+}

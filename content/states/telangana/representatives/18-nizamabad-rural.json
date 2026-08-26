@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-18-nizamabad-rural",
+  "constituency": {
+    "number": 18,
+    "name": "Nizamabad (Rural)",
+    "district": "Nizamabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhoopathi Reddy Rekulapally",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Doctor",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/110b5be8ff33579502124fdcf71f3ada169f1e45.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=248"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MS (Ortho) from Osmania Medical College, University of Health Sciences, Vijayawada in 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18412300,
+      "immovable": 581000000,
+      "total": 599412300,
+      "liabilities": 14790316
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=248",
+    "retrieved": "2026-08-26"
+  }
+}

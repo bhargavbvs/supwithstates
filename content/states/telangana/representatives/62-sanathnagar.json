@@ -1,0 +1,41 @@
+{
+  "id": "tg-ac-62-sanathnagar",
+  "constituency": {
+    "number": 62,
+    "name": "Sanathnagar",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Talasani Srinivas Yadav",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Politician and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Tagores Home Junior College in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 212387108,
+      "immovable": 536714372,
+      "total": 749101480,
+      "liabilities": 138894574
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=283",
+    "retrieved": "2026-08-26"
+  }
+}

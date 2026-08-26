@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-1-adilabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Adilabad",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Boath",
+      "Adilabad",
+      "Asifabad",
+      "Sirpur",
+      "Khanapur",
+      "Mudhole",
+      "Nirmal"
+    ]
+  },
+  "representative": {
+    "name": "Godam Nagesh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f5f5415f443dfd1c3b7eb37f540042134120cdb2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5395"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA , 1993 M.Ed. 1991 in Osmania University Hyderabad"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5024833,
+      "immovable": 25892000,
+      "total": 30916833,
+      "liabilities": 2901575
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5395",
+    "retrieved": "2026-08-26"
+  }
+}

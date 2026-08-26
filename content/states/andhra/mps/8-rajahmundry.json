@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-8-rajahmundry",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Rajahmundry",
+    "reserved": null,
+    "assembly_segments": [
+      "Rajanagaram",
+      "Gopalapuram",
+      "Kovvur",
+      "Anaparthy",
+      "Rajahmundry City",
+      "Rajahmundry Rural",
+      "Nidadavole"
+    ]
+  },
+  "representative": {
+    "name": "Daggubati Purandheshwari",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Public Service",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c473638bc9180deab3eeb22f16a372c3e6ca6cba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5122"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "Diploma in Gemology, Gemological in Mumbai of India 1996, B.A (Litt) SIET Womens Chennai 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 120125642,
+      "immovable": 497015504,
+      "total": 625041146,
+      "liabilities": 69860440
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5122",
+    "retrieved": "2026-08-26"
+  }
+}

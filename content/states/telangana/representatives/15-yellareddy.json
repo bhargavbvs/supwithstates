@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-15-yellareddy",
+  "constituency": {
+    "number": 15,
+    "name": "Yellareddy",
+    "district": "Kamareddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madan Mohan Rao. K",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/cb4a79d111390f80745459d3abe4631d52484aef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=353"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MS (Agri) from NG Rana Agriculture University, University Campus, Hyderabad in 1996, Graduation from The Warton Business School in 2017"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 303402269,
+      "immovable": 423125055,
+      "total": 726527339,
+      "liabilities": 91686436
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=353",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-4-nizamabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Nizamabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Jagtial",
+      "Koratla",
+      "Armur",
+      "Balkonda",
+      "Bodhan",
+      "Nizamabad (Rural)",
+      "Nizamabad (Urban)"
+    ]
+  },
+  "representative": {
+    "name": "Arvind Dharmapuri",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Member of Parliament",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c0be805bf20113ebbdfa58d154e7db5a6504109f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5246"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Political Science) from Janardhan Rai Nagar Rajasthan Vidyapeeth 2018"
+    },
+    "declared_cases": {
+      "total": 22,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 600858071,
+      "immovable": 498162200,
+      "total": 1099020273,
+      "liabilities": 306681918
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5246",
+    "retrieved": "2026-08-26"
+  }
+}

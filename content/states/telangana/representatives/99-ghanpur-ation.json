@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-99-ghanpur-ation",
+  "constituency": {
+    "number": 99,
+    "name": "Ghanpur Ation)",
+    "district": "Jangoan",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kadiyam Srihari",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "MLC",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/b305cd6ea4f0d3f85f6d80023d436d145f605a2d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=84"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc (Chemistry) From Osmania University Hyderabad in the Year 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10638623,
+      "immovable": 35727200,
+      "total": 45987825,
+      "liabilities": 5664573
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=84",
+    "retrieved": "2026-08-26"
+  }
+}

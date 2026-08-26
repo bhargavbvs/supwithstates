@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-10-eluru",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Eluru",
+    "reserved": null,
+    "assembly_segments": [
+      "Polavaram",
+      "Chintalapudi",
+      "Nuzvid",
+      "Denduluru",
+      "Ungutur",
+      "Eluru",
+      "Kaikalur"
+    ]
+  },
+  "representative": {
+    "name": "Putta Mahesh Kumar",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 36,
+    "profession": "Business & Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/df35084272aaaaa0103c0d9bf2e31458189f6799.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5105"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech From Jawahar Lal Technological University Hydrabad In 2010"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 486144620,
+      "immovable": 234707095,
+      "total": 720851715,
+      "liabilities": 200430056
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5105",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-17-nandyal",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Nandyal",
+    "reserved": null,
+    "assembly_segments": [
+      "Srisailam",
+      "Nandikotkur",
+      "Panyam",
+      "Dhone",
+      "Nandyal",
+      "Banaganapalle",
+      "Allagadda"
+    ]
+  },
+  "representative": {
+    "name": "Dr Byreddy Shabari",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 40,
+    "profession": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d603e16b1fb949bcfb72cd568cf724b393921ee0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5114"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD-Radio Diagnosis from Dr.NTR University of Health Sciences, Andhra Pradesh, PG Degree in yr- 2013"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 36205853,
+      "immovable": 111425196,
+      "total": 147631050,
+      "liabilities": 32033423
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5114",
+    "retrieved": "2026-08-26"
+  }
+}

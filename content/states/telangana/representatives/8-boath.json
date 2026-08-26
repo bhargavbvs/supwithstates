@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-8-boath",
+  "constituency": {
+    "number": 8,
+    "name": "Boath",
+    "district": "Adilabad",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Anil Jadhav",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Agriculture and ZPTC",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/fce07d4276dc693bf65ca6918605f0e8bbb4593a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=43"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., Govt. Degree College Nirmal. UGD-PEd., (Physical Education Teacher) Govt. Physical Education College, Domalguda, Hydrabad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12468615,
+      "immovable": 6850000,
+      "total": 19318616,
+      "liabilities": 2849360
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=43",
+    "retrieved": "2026-08-26"
+  }
+}

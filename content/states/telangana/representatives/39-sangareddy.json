@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-39-sangareddy",
+  "constituency": {
+    "number": 39,
+    "name": "Sangareddy",
+    "district": "Sangareddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chinta Prabhakar",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Chairman,Telangana State Handloom Development Corporation & Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/78aa6710aad2b01eaf4645313ba1e4aee92e1fcd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=286"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC Passed from Govt High School Sadaivpet in the year 1975-76 From Board of Secondary Education AP Hyderabad."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14514802,
+      "immovable": 6772980,
+      "total": 21287582,
+      "liabilities": 700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=286",
+    "retrieved": "2026-08-26"
+  }
+}

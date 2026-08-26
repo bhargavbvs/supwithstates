@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-101-dornakal",
+  "constituency": {
+    "number": 101,
+    "name": "Dornakal",
+    "district": "Mahabubabad",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jatoth Ram Chander Naik",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Doctor M.B.B.S M.S",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/02b718c5f185bf27ebfdfcaab87e8657896c91ec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=74"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.B.S From Osmania Medical College, Year-1998 & M.S. (General) From Osmania Medical College, Year-2001"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 22153193,
+      "immovable": 100134100,
+      "total": 118617593,
+      "liabilities": 55613703
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=74",
+    "retrieved": "2026-08-26"
+  }
+}

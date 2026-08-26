@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-2-chennur",
+  "constituency": {
+    "number": 2,
+    "name": "Chennur",
+    "district": "Mancherial",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gaddam Vivekanand",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/e77c82de8f13bbeb265fecc40982a0e345d4e472.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=56"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Osmania Medical College, Telangana in 1981"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3807638171,
+      "immovable": 2259148700,
+      "total": 6066786871,
+      "liabilities": 442052948
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=56",
+    "retrieved": "2026-08-26"
+  }
+}

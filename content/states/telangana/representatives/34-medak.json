@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-34-medak",
+  "constituency": {
+    "number": 34,
+    "name": "Medak",
+    "district": "Medak",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mynampally Rohith",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 26,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/f28ec135ba59d40f1b389e0fcca00dc21a455c0a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=196"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS- from NTR University of Health Science in yr- 2020"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 38651926,
+      "immovable": 103101600,
+      "total": 141753525,
+      "liabilities": 8904325
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=196",
+    "retrieved": "2026-08-26"
+  }
+}

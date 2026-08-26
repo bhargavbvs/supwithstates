@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-3-vizianagaram",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Vizianagaram",
+    "reserved": null,
+    "assembly_segments": [
+      "Rajam",
+      "Bobbili",
+      "Gajapathinagaram",
+      "Etcherla",
+      "Cheepurupalle",
+      "Nellimarla",
+      "Vizianagaram"
+    ]
+  },
+  "representative": {
+    "name": "Appalanaidu Kalisetti",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Agriculturist",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/48298bf3d7341cc1a19728704949fe14a71bd10b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5132"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Andhra University in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12268207,
+      "immovable": 50096980,
+      "total": 62365187,
+      "liabilities": 21236714
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5132",
+    "retrieved": "2026-08-26"
+  }
+}

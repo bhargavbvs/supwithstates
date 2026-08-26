@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-11-mahbubnagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Mahbubnagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Kodangal",
+      "Shadnagar",
+      "Jadcherla",
+      "Narayanpet",
+      "Mahbubnagar",
+      "Makthal",
+      "Devarkadra"
+    ]
+  },
+  "representative": {
+    "name": "Aruna. D. K",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Agriculture and Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6c5c97146e7676057f5ea4e112855f8ea6280af4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5236"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Madapati Hanumanthu Rao Grils High School Narayanaguda, Hyderabad up to Secondary School Certificate (SSC) Year 1973-74, RBVR Womens Collage Narayanaguda Hyderabad"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 264789861,
+      "immovable": 406780000,
+      "total": 667569871,
+      "liabilities": 16132434
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5236",
+    "retrieved": "2026-08-26"
+  }
+}

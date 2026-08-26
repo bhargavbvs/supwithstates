@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-8-secunderabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Secunderabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Sanathnagar",
+      "Secunderabad",
+      "Amberpet",
+      "Jubilee Hills",
+      "Musheerabad",
+      "Nampally",
+      "Khairatabad"
+    ]
+  },
+  "representative": {
+    "name": "G. Kishan Reddy",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Social Service",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/969091a0758f3cbb6559fc6aa13c7b741cb23ea8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5251"
+    },
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Tool Designs (1975-78) (Central institute of Tool Designs, Balanagar, Hyderabad)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 83577528,
+      "immovable": 108664823,
+      "total": 192241721,
+      "liabilities": 16300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5251",
+    "retrieved": "2026-08-26"
+  }
+}

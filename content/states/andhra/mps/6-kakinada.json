@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-6-kakinada",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 6,
+    "name": "Kakinada",
+    "reserved": null,
+    "assembly_segments": [
+      "Tuni",
+      "Prathipadu",
+      "Jaggampeta",
+      "Pithapuram",
+      "Peddapuram",
+      "Kakinada Rural",
+      "Kakinada City"
+    ]
+  },
+  "representative": {
+    "name": "Tangella Uday Srinivas (Tea Time Uday)",
+    "election": "2024",
+    "elected_party": "Janasena Party",
+    "current_party": "Janasena Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 38,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/7444b23ac531cffbe80438c01ed963449a00f486.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5302"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Passed Yaer - 2003 from Board of Intermediate Education Andhra Pradesh, Bachelor of Technology (Discontinued)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 284430762,
+      "immovable": 29104850,
+      "total": 311535620,
+      "liabilities": 36210120
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5302",
+    "retrieved": "2026-08-26"
+  }
+}

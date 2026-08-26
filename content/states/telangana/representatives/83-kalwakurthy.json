@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-83-kalwakurthy",
+  "constituency": {
+    "number": 83,
+    "name": "Kalwakurthy",
+    "district": "Ranga Reddy",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narayan Reddy Kasireddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/795744e8e9b5ce328b6e809c5cf253b2d092c49f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=117"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Technology, Vinayak Mision University (Mechanical Engineering)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 270408564,
+      "immovable": 365485214,
+      "total": 635893778,
+      "liabilities": 68702352
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=117",
+    "retrieved": "2026-08-26"
+  }
+}

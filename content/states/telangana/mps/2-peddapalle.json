@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-2-peddapalle",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Peddapalle",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Bellampalle",
+      "Mancherial",
+      "Dharmapuri",
+      "Chennur",
+      "Manthani",
+      "Ramagundam",
+      "Peddapalle"
+    ]
+  },
+  "representative": {
+    "name": "Vamsi Krishna Gaddam",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 35,
+    "profession": "Director",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b6f68ca9a98f65e580a19fef75bb6912fc2ab9f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5248"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science and Management Purdue University USA 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 199369756,
+      "immovable": 41705407,
+      "total": 240976163,
+      "liabilities": 1803070
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5248",
+    "retrieved": "2026-08-26"
+  }
+}

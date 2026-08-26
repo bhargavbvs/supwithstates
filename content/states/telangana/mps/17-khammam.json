@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-17-khammam",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Khammam",
+    "reserved": null,
+    "assembly_segments": [
+      "Kothagudem",
+      "Aswaraopeta",
+      "Wyra",
+      "Palair",
+      "Khammam",
+      "Sathupalle",
+      "Madhira"
+    ]
+  },
+  "representative": {
+    "name": "Ramasahayam Raghuram Reddy",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c760fc41eb4eac2164545bcf00fc859702f8f14e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5716"
+    },
+    "education": {
+      "level": "Others",
+      "detail": "Post Graduate Diploma of Proficiency (Associate Member) from The International Export Association England in the Year- 1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 310778099,
+      "immovable": 271992438,
+      "total": 582770537,
+      "liabilities": 95482677
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5716",
+    "retrieved": "2026-08-26"
+  }
+}

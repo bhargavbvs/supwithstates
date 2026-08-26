@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-16-mahabubabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 16,
+    "name": "Mahabubabad",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Bhadrachalam",
+      "Mulug",
+      "Pinapaka",
+      "Narsampet",
+      "Mahabubabad",
+      "Yellandu",
+      "Dornakal"
+    ]
+  },
+  "representative": {
+    "name": "Balram Naik Porika",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "POLITICIAN",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/7fbc07f96dfed6cea06dde671427836f28053c48.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5297"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC BOARD OF SECONDARY EDUCATION- 1983"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4919101,
+      "immovable": 25000000,
+      "total": 29919101,
+      "liabilities": 25246063
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5297",
+    "retrieved": "2026-08-26"
+  }
+}

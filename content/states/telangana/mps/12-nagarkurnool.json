@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-12-nagarkurnool",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 12,
+    "name": "Nagarkurnool",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Kalwakurthy",
+      "Achampet",
+      "Nagarkurnool",
+      "Wanaparthy",
+      "Kollapur",
+      "Gadwal",
+      "Alampur"
+    ]
+  },
+  "representative": {
+    "name": "Dr.Mallu Ravi",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 73,
+    "profession": "Politician/Social Services",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/bc6130aeb973e2df9cf741f772caac58f6858549.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5241"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S., DLO from Gandhi Medical College, Osmania University in 1981-82"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 258222066,
+      "immovable": 264993750,
+      "total": 523215816,
+      "liabilities": 47868830
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5241",
+    "retrieved": "2026-08-26"
+  }
+}

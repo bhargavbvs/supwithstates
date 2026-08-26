@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-65-goshamahal",
+  "constituency": {
+    "number": 65,
+    "name": "Goshamahal",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T. Raja Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Ex MLA",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/8b905dc776d36b74f1abb2f7a2d8be2841334400.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=87"
+    },
+    "education": {
+      "level": "Literate",
+      "detail": "Educated (Informally educated)"
+    },
+    "declared_cases": {
+      "total": 87,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 25062948,
+      "immovable": 11681941,
+      "total": 40744889,
+      "liabilities": 1360455
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=87",
+    "retrieved": "2026-08-26"
+  }
+}

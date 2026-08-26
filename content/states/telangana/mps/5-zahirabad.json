@@ -1,0 +1,55 @@
+{
+  "id": "tg-pc-5-zahirabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Zahirabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Banswada",
+      "Jukkal",
+      "Yellareddy",
+      "Kamareddy",
+      "Narayankhed",
+      "Andole",
+      "Zahirabad"
+    ]
+  },
+  "representative": {
+    "name": "Suresh Kumar Shetkar",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/4c127c381a47c397678e562b65020c0df0c4271c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5254"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Agriculture, Marathwada Agricultural University Parbhani, Maharashtra- 1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32000325,
+      "immovable": 75711400,
+      "total": 107711726,
+      "liabilities": 6447400
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5254",
+    "retrieved": "2026-08-26"
+  }
+}

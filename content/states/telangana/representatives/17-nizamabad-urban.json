@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-17-nizamabad-urban",
+  "constituency": {
+    "number": 17,
+    "name": "Nizamabad (Urban)",
+    "district": "Nizamabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhanpal Suryanarayana",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Business & Rental Income",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/f988afd808358ae3d041d8f6b42bfb2aa673eb08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=252"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Mandhumalancha degree Coloege Bodhan Osmania University 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 166668000,
+      "immovable": 105905059,
+      "total": 272573559,
+      "liabilities": 102092028
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=252",
+    "retrieved": "2026-08-26"
+  }
+}

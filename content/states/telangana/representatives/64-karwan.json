@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-64-karwan",
+  "constituency": {
+    "number": 64,
+    "name": "Karwan",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kausar Mohiuddin",
+    "election": "2023",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Politician",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/08019d4e25d1065baa99ed7c71b9d8a9f529ffb2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1428"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from Anwar Ul Uloom High School, State Board of Secondary Education AP Hyderabad in 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7962417,
+      "immovable": 15700000,
+      "total": 23662417,
+      "liabilities": 839374
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1428",
+    "retrieved": "2026-08-26"
+  }
+}

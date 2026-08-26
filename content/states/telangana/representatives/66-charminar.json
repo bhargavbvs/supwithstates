@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-66-charminar",
+  "constituency": {
+    "number": 66,
+    "name": "Charminar",
+    "district": "Hyderabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mir Zulfeqar Ali",
+    "election": "2023",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/cbe7e00e1a9a254c9a37229477e493928cd01141.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=148"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from City Science College, Hyderabad, Board of Intermediate Education, A.P. Hyderabad in 1977"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12368471,
+      "immovable": 89000000,
+      "total": 101368471,
+      "liabilities": 19713115
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=148",
+    "retrieved": "2026-08-26"
+  }
+}

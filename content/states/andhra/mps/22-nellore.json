@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-22-nellore",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 22,
+    "name": "Nellore",
+    "reserved": null,
+    "assembly_segments": [
+      "Kandukur",
+      "Udayagiri",
+      "Kavali",
+      "Atmakur",
+      "Kovur",
+      "Nellore City",
+      "Nellore Rural"
+    ]
+  },
+  "representative": {
+    "name": "Prabhakar Reddy Vemireddy",
+    "election": "2024",
+    "elected_party": "TDP",
+    "current_party": "TDP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/2e1be941c11813751e475df5423b538c52d5ef08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5118"
+    },
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Economics from Loyola College, Chennai University of Madras in 1976"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5113780639,
+      "immovable": 2049541666,
+      "total": 7163322265,
+      "liabilities": 2002620798
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5118",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-11-armur",
+  "constituency": {
+    "number": 11,
+    "name": "Armur",
+    "district": "Nizamabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Paidi Rakesh Reddy",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture and Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/4db7c71616ebb6381cb370794588f0132683f028.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=17"
+    },
+    "education": {
+      "level": "5th Pass",
+      "detail": "VIII Class from Z.P. H.S. Boys, Armoor Dist. Nizamabad, discontinued in 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 96838992,
+      "immovable": 116058385,
+      "total": 212897377,
+      "liabilities": 82442418
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=17",
+    "retrieved": "2026-08-26"
+  }
+}

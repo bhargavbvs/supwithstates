@@ -1,0 +1,55 @@
+{
+  "id": "ap-pc-9-narsapuram",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Narsapuram",
+    "reserved": null,
+    "assembly_segments": [
+      "Tadepalligudem",
+      "Tanuku",
+      "Achanta",
+      "Undi",
+      "Bhimavaram",
+      "Palacole",
+      "Narasapuram"
+    ]
+  },
+  "representative": {
+    "name": "Bhupathi Raju Srinivasa Varma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Business Income",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/8022df32165b87ba5f8a7a6ec4bccd3590fb41f2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5273"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Politics) from Andhra University in 1999, M.L.I.Sc. from Annamalia University Chidambaram in 1993,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16337648,
+      "immovable": 56507200,
+      "total": 71664809,
+      "liabilities": 16926961
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5273",
+    "retrieved": "2026-08-26"
+  }
+}

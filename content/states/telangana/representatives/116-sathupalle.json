@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-116-sathupalle",
+  "constituency": {
+    "number": 116,
+    "name": "Sathupalle",
+    "district": "Khammam",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Matta Ragamayee",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Doctor",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/c64ba83b358941d2f5b73cd4faffb465b3d8f064.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=290"
+    },
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S. in Siddhardha Medical College, NTR UHS, Vijayawada A.P. in 1989 to 1997, and DTCD Completed at Karnool Medical College, SVU in 2006 to 2009"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17513997,
+      "immovable": 12477000,
+      "total": 19241001,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=290",
+    "retrieved": "2026-08-26"
+  }
+}

@@ -7,8 +7,10 @@ export function computeStats(records) {
   for (const r of records) {
     const dc = r.representative.declared_cases;
     if (dc.total > 0) withDeclaredCases++;
-    if (dc.serious > 0) withSeriousCases++;
-    totalAssets += r.representative.assets.total;
+    // Counted the same either way: a member ADR names on its serious
+    // list has declared one, whether or not the number is published.
+    if (dc.serious > 0 || dc.serious_declared === true) withSeriousCases++;
+    totalAssets += r.representative.assets.total ?? 0;
   }
 
   return {

@@ -175,7 +175,7 @@ export function renderHome(el) {
     map = renderMap(mapEl, {
       mapData,
       records: store.all,
-      onSelect: (acNo) => { window.location.hash = `#/c/${acNo}`; }
+      onSelect: (acNo) => { window.location.hash = store.href(`c/${acNo}`); }
     });
     mapEl.appendChild(legend);
     applyFilters();
@@ -206,7 +206,7 @@ export function renderHome(el) {
     const hits = searchConstituencies(input.value, store.all);
     results.innerHTML = hits.length
       ? hits.map((c) => `
-          <li role="option"><a href="#/c/${c.constituency.number}">
+          <li role="option"><a href="${store.href(`c/${c.constituency.number}`)}">
             <b>${escapeHtml(c.constituency.name)}</b>
             <span>${escapeHtml(c.constituency.district)} · ${escapeHtml(c.representative.name)}</span>
           </a></li>`).join('')
@@ -222,14 +222,14 @@ export function renderHome(el) {
     status.textContent = 'Finding your constituency…';
     navigator.geolocation.getCurrentPosition(
       async ({ coords }) => {
-        const geo = await fetch('/geo/constituencies.geojson').then((r) => r.json());
+        const geo = await fetch(`/geo/${store.slug}/constituencies.geojson`).then((r) => r.json());
         const hit = findFeatureAt([coords.longitude, coords.latitude], geo);
         if (!hit) {
           status.textContent = 'You appear to be outside this state. Try searching instead.';
           return;
         }
         status.textContent = '';
-        window.location.hash = `#/c/${hit.properties.AC_NO}`;
+        window.location.hash = store.href(`c/${hit.properties.AC_NO}`);
       },
       () => { status.textContent = 'Location permission denied. Try searching instead.'; },
       { enableHighAccuracy: false, timeout: 10000 }

@@ -1,0 +1,33 @@
+{
+  "slug": "telangana",
+  "name": "Telangana",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 119,
+  "district_count": 33,
+  "term": {
+    "start": "2023-12",
+    "end": "2028-12"
+  },
+  "government": {
+    "coalition": "INC",
+    "parties": [
+      "INC"
+    ]
+  },
+  "sources": {
+    "go_portal": "https://goir.telangana.gov.in/",
+    "myneta": "https://www.myneta.info/Telangana2023/",
+    "adr_serious_list": "https://www.myneta.info/Telangana2023/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      79.0,
+      17.9
+    ],
+    "zoom": 6
+  }
+}

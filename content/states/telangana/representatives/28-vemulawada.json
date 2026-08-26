@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-28-vemulawada",
+  "constituency": {
+    "number": 28,
+    "name": "Vemulawada",
+    "district": "Rajanna Sircilla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aadi Srinivas",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Politics, Business",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/1722bdaefd2bc9ed32d3be2a994ebb529008953b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=326"
+    },
+    "education": {
+      "level": "Others",
+      "detail": "ITI (Industrial Training Institute) from Govt ITI College Nizamabad 1985-86"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10347700,
+      "immovable": 28500000,
+      "total": 38847701,
+      "liabilities": 1766212
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=326",
+    "retrieved": "2026-08-26"
+  }
+}

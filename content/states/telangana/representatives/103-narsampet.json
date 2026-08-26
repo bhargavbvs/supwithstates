@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-103-narsampet",
+  "constituency": {
+    "number": 103,
+    "name": "Narsampet",
+    "district": "Warangal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Donthi Madhava Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/f9043bc2623a4bac81bf1d1ed286e69bfbcb7fa3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=239"
+    },
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate in 1976 from Government Junior College, Narsampet"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 28606607,
+      "immovable": 150800000,
+      "total": 179331609,
+      "liabilities": 1400313
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=239",
+    "retrieved": "2026-08-26"
+  }
+}

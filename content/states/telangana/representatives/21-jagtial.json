@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-21-jagtial",
+  "constituency": {
+    "number": 21,
+    "name": "Jagtial",
+    "district": "Jagtial",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Sanjay",
+    "election": "2023",
+    "elected_party": "BRS",
+    "current_party": "BRS",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Medical Practitioner & Member of Lagislatie Assembly",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/b28d949312e523f303bfded0cf7a4b1e17216d74.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=103"
+    },
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate Degree, DOMS (Ophthalmology) at JJM Medical College, Davanagere from University of Mysore, Karnataka in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43075489,
+      "immovable": 113620000,
+      "total": 156695489,
+      "liabilities": 11616066
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-26"
+  }
+}

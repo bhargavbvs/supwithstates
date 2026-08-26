@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-56-tandur",
+  "constituency": {
+    "number": 56,
+    "name": "Tandur",
+    "district": "Vikarabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B. Manohar Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Business & Agriculture",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/fcb26e89ea7c29a544b3214fdcaa30e01f4d6266.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=317"
+    },
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC ZPHS Kulkacharla, Parigi Vikarabad Dist"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31276391,
+      "immovable": 654830824,
+      "total": 661453215,
+      "liabilities": 79524014
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=317",
+    "retrieved": "2026-08-26"
+  }
+}

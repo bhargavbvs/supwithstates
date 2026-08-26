@@ -1,0 +1,46 @@
+{
+  "id": "tg-ac-54-pargi",
+  "constituency": {
+    "number": 54,
+    "name": "Pargi",
+    "district": "Vikarabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tammannagari Ram Mohan Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Business and Educationist",
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/32338468a0ac108d8ace9f17bb4494d2a2d248f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=260"
+    },
+    "education": {
+      "level": "Doctorate",
+      "detail": "PH.d From Osmania University 2023, MBA From Osmania University 1990,"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42816031,
+      "immovable": 405300000,
+      "total": 448116034,
+      "liabilities": 45492863
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=260",
+    "retrieved": "2026-08-26"
+  }
+}
