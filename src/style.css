@@ -198,7 +198,11 @@ body[data-view="home"] #app {
 
 path.ac {
   stroke: #ffffff;
-  stroke-width: 0.6;
+  stroke-width: 0.8;
+  /* Zoom here rewrites the viewBox, so without this a stroke measured in
+     map units gets drawn eight times thicker at full zoom - the borders
+     stop being lines and start eating the constituencies they separate. */
+  vector-effect: non-scaling-stroke;
   cursor: pointer;
   transition: filter 120ms ease, transform 120ms ease, opacity 150ms ease;
   transform-origin: center;
@@ -222,8 +226,10 @@ path.ac:focus-visible {
 
 path.district-line {
   fill: none;
-  stroke: rgba(22, 19, 31, 0.28);
-  stroke-width: 1.4;
+  stroke: rgba(22, 19, 31, 0.45);
+  stroke-width: 1.6;
+  vector-effect: non-scaling-stroke;
+  stroke-linejoin: round;
   pointer-events: none;
 }
 

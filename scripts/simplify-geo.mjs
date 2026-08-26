@@ -9,6 +9,61 @@ mkdirSync(OUT, { recursive: true });
 
 const mapshaper = (args) => execFileSync('npx', ['-y', 'mapshaper', ...args], { stdio: 'inherit' });
 
+// District outlines are cut from the constituencies, not from the district
+// shapefile — even though we hold that shapefile and use it to decide which
+// district each constituency is in.
+//
+// The two sets are different surveys of the same ground, drawn at different
+// times to different tolerances, and simplifying each on its own moves their
+// coastlines and borders apart by a little more. Measured on the committed
+// files, Telangana's constituencies covered 2,943 km² that its districts did
+// not, and Andhra's districts covered 3,102 km² that its constituencies did
+// not — so the outline drawn over the fills landed inside the colour in one
+// state and outside it in the other, and district lines cut through the
+// middle of constituencies that in fact sit wholly inside one district.
+//
+// Dissolving the finished, already-simplified constituencies by the district
+// they were joined to makes every district border a run of constituency
+// borders by construction. The two layers cannot drift, because they are the
+// same lines. What it costs: a district's edge is now the edge of the seats
+// in it, which is what this map is actually about — you click a
+// constituency, and the darker line tells you where its district ends.
+function districtsFromConstituencies(out) {
+  mapshaper([
+    `${out}constituencies.geojson`,
+    '-dissolve', 'district',
+    '-filter-fields', 'district',
+    '-o', 'format=geojson', 'precision=0.0001', `${out}districts.geojson`,
+  ]);
+}
+
+/** Every constituency must have landed in a district before the dissolve:
+ *  one that did not would come out as a district named `undefined`. */
+function assertPlaced(path) {
+  const fc = JSON.parse(readFileSync(path, 'utf8'));
+  const orphans = fc.features.filter((f) => !f.properties.district);
+  if (orphans.length) {
+    throw new Error(`no district for ${orphans.map((f) => `${f.properties.AC_NO} ${f.properties.AC_NAME}`).join(', ')}`);
+  }
+}
+
+// DISTRICTS_ONLY=1 re-cuts the district outlines from the constituencies
+// already on disk and stops.
+//
+// Worth having because rebuilding a state's constituencies is not free:
+// mapshaper's simplification is not stable across versions, so a rebuild
+// today moves vertices on a file that has been checked seat by seat against
+// the records — and Andhra's carries PC_NO/PC_NAME patched on afterwards,
+// which the rebuild's field filter would drop. When the only thing that
+// needs to change is the district layer, changing only the district layer
+// is the smaller and safer act.
+if (process.env.DISTRICTS_ONLY) {
+  assertPlaced(`${OUT}constituencies.geojson`);
+  districtsFromConstituencies(OUT);
+  console.log('districts.geojson     ', assertBudget(`${OUT}districts.geojson`, 200 * 1024), 'bytes');
+  process.exit(0);
+}
+
 // Telangana's assembly boundaries are not in a file of their own here.
 // They are inside the national set, still filed under ANDHRA PRADESH,
 // because that set predates the 2014 bifurcation: undivided Andhra's
@@ -21,14 +76,6 @@ const mapshaper = (args) => execFileSync('npx', ['-y', 'mapshaper', ...args], { 
 // parliamentary seat each one sits in — the link a reader needs to go
 // from their MLA to their MP, and one nothing else here holds.
 if (STATE === 'telangana') {
-  mapshaper([
-    '.geo-src/india-districts.geojson',
-    '-filter', 'state === "TELANGANA"',
-    '-filter-fields', 'district',
-    '-simplify', '6%', 'keep-shapes',
-    '-o', 'format=geojson', 'precision=0.0001', `${OUT}districts.geojson`,
-  ]);
-
   mapshaper([
     '-i', '.geo-src/india-districts.geojson', '.geo-src/national-ac.geojson', 'combine-files',
     '-rename-layers', 'districts,ac',
@@ -63,6 +110,9 @@ if (STATE === 'telangana') {
     console.log(`placed by hand: ${orphans.map((f) => f.properties.AC_NAME).join(', ')}`);
   }
 
+  assertPlaced(acPath);
+  districtsFromConstituencies(OUT);
+
   console.log('districts.geojson     ', assertBudget(`${OUT}districts.geojson`, 200 * 1024), 'bytes');
   console.log('constituencies.geojson', assertBudget(`${OUT}constituencies.geojson`, 500 * 1024), 'bytes');
   process.exit(0);
@@ -78,15 +128,6 @@ if (STATE === 'telangana') {
 //     are junk placeholder records with AC_NO === "0" (empty AC_NAME, visibility: "0") — filtered out
 //     to reach the correct 175.
 
-// Districts: filter to the state, keep only name, simplify hard.
-mapshaper([
-  '.geo-src/india-districts.geojson',
-  '-filter', 'state === "ANDHRA PRADESH"',
-  '-filter-fields', 'district',
-  '-simplify', '6%', 'keep-shapes',
-  '-o', 'format=geojson', 'precision=0.0001', `${OUT}districts.geojson`
-]);
-
 // Constituencies: the AC source's own DIST_NAME field predates the 2022 district reorganisation
 // (13 old districts vs the current 26), so instead of trusting it we spatially join each AC polygon
 // against the current district polygons (point-method: match each AC's interior point to the
@@ -101,6 +142,15 @@ mapshaper([
   '-simplify', 'target=ac', '5%', 'keep-shapes',
   '-o', 'target=ac', 'format=geojson', 'precision=0.0001', `${OUT}constituencies.geojson`
 ]);
+
+// The Andhra source carries the assembly seat and nothing above it, so the
+// parliamentary seat is patched on afterwards from the national set. It has
+// to run here: the pass above keeps only the fields it names, so a rebuild
+// that skipped this would quietly drop every constituency's MP.
+execFileSync('node', ['scripts/add-pc-fields.mjs'], { stdio: 'inherit' });
+
+assertPlaced(`${OUT}constituencies.geojson`);
+districtsFromConstituencies(OUT);
 
 console.log('districts.geojson     ', assertBudget(`${OUT}districts.geojson`, 150 * 1024), 'bytes');
 console.log('constituencies.geojson', assertBudget(`${OUT}constituencies.geojson`, 500 * 1024), 'bytes');
