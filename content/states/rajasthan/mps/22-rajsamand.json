@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-22-rajsamand",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 22,
+    "name": "Rajsamand",
+    "reserved": null,
+    "assembly_segments": [
+      "Degana",
+      "Merta",
+      "Jaitaran",
+      "Beawar",
+      "Bhim",
+      "Kumbhalgarh",
+      "Rajsamand",
+      "Nathdwara"
+    ]
+  },
+  "representative": {
+    "name": "Mahima Kumari Mewar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Income from Sarvritu Horticulture Farmers pvt ltd",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from Shriram Ladies College Delhi 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11376000,
+      "immovable": 0,
+      "total": 11376000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2577",
+    "retrieved": "2026-08-27"
+  }
+}

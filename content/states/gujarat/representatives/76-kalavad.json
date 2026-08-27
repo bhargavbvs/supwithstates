@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-76-kalavad",
+  "constituency": {
+    "number": 76,
+    "name": "Kalavad",
+    "district": "Jamnagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Chavda Meghjibhai Amarabhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Farmer And Commission agent",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from PD Malaviya Commerce College Rajkot (Saurashtra University Rajkot)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5729762,
+      "immovable": 9900000,
+      "total": 15629762,
+      "liabilities": 3379200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5345",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-9-krishnagiri",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Krishnagiri",
+    "reserved": null,
+    "assembly_segments": [
+      "Hosur",
+      "Veppanahalli",
+      "Thalli",
+      "Bargur",
+      "Krishnagiri",
+      "Uthangarai"
+    ]
+  },
+  "representative": {
+    "name": "Gopinath K",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14905500,
+      "immovable": 108500000,
+      "total": 123405500,
+      "liabilities": 104198082
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1531",
+    "retrieved": "2026-08-27"
+  }
+}

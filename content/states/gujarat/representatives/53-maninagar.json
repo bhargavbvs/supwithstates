@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-53-maninagar",
+  "constituency": {
+    "number": 53,
+    "name": "Maninagar",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amul Bhatt",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Chemical Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.SC (Chemistry) From Gujarat University Year-1981-82"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54907735,
+      "immovable": 14200000,
+      "total": 69107735,
+      "liabilities": 9892716
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6274",
+    "retrieved": "2026-08-27"
+  }
+}

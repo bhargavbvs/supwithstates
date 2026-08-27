@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-70-gingee",
+  "constituency": {
+    "number": 70,
+    "name": "Gingee",
+    "district": "Viluppuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ganeshkumar A",
+    "election": "2026",
+    "elected_party": "Pattali Makkal Katchi",
+    "current_party": "Pattali Makkal Katchi",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Business and Trustee of Educational Institution",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy (Ph.D) From Anna University 2023 & Master of Engineering (Mechanical Engineering) From Anna University 2015, Bachelor of Engineering (Mechinal Engineering) Anna University 2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28426925,
+      "immovable": 115361190,
+      "total": 143788115,
+      "liabilities": 10424919
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1161",
+    "retrieved": "2026-08-27"
+  }
+}

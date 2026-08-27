@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Educationalist",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/f4fd7f0ac03a429c21f72d9e6873290b563f94cc.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5116"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor Of Technology From Andhra University Visakhapatnam In 2006"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5116",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

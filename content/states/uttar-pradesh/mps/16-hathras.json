@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-16-hathras",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 16,
+    "name": "Hathras",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Iglas",
+      "Chharra",
+      "Sikandra Rao",
+      "Hathras",
+      "Sadabad"
+    ]
+  },
+  "representative": {
+    "name": "Anoop Pradhan Balmiki",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 44,
+    "profession": "MLA and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary School Examination Year 2020 NIOS"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6131186,
+      "immovable": 35232766,
+      "total": 41363952,
+      "liabilities": 17100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3697",
+    "retrieved": "2026-08-27"
+  }
+}

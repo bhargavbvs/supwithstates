@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-5-mayurbhanj",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Mayurbhanj",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Rairangpur",
+      "Saraskana",
+      "Bangriposi",
+      "Jashipur",
+      "Morada",
+      "Baripada",
+      "Udala"
+    ]
+  },
+  "representative": {
+    "name": "Naba Charan Majhi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Social Service & MLA Odisha",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Utkal University from Rairangpur College, Rairangpur"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3407000,
+      "immovable": 4000000,
+      "total": 7407000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9392",
+    "retrieved": "2026-08-27"
+  }
+}

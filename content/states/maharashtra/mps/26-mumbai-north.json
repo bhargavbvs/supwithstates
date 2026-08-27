@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-26-mumbai-north",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 26,
+    "name": "Mumbai North",
+    "reserved": null,
+    "assembly_segments": [
+      "Dahisar",
+      "Borivali",
+      "Magathane",
+      "Charkop",
+      "Kandivali East",
+      "Malad West"
+    ]
+  },
+  "representative": {
+    "name": "Piyush Goyal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Chartered Accountant, Presently Cabinet Minister In Government Of India",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Chartered Accountant From The Institute of Chartered Accountants of India In The Year 1987, LLB From Government Law College University of Mumbai In The Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 898656447,
+      "immovable": 210858000,
+      "total": 1109514447,
+      "liabilities": 142265061
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7093",
+    "retrieved": "2026-08-27"
+  }
+}

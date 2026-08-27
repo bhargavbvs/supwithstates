@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-35-baramati",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 35,
+    "name": "Baramati",
+    "reserved": null,
+    "assembly_segments": [
+      "Bhor",
+      "Daund",
+      "Khadakwasala",
+      "Purandar",
+      "Baramati",
+      "Indapur"
+    ]
+  },
+  "representative": {
+    "name": "Supriya Sule",
+    "election": "2024",
+    "elected_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "current_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Agriculture And Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From Jai Hind College Mumbai, Mumbai University In The Year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1522476417,
+      "immovable": 138157342,
+      "total": 1665186348,
+      "liabilities": 5500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4316",
+    "retrieved": "2026-08-27"
+  }
+}

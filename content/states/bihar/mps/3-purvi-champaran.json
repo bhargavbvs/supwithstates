@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-3-purvi-champaran",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Purvi Champaran",
+    "reserved": null,
+    "assembly_segments": [
+      "Motihari",
+      "Harsidhi",
+      "Govindganj",
+      "Kalyanpur",
+      "Pipra",
+      "Kesaria"
+    ]
+  },
+  "representative": {
+    "name": "Radha Mohan Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 74,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation (Art) From Bihar University Muzaffarpur, Munshi Singh College Motihari Year 1971"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26645415,
+      "immovable": 26020000,
+      "total": 42965416,
+      "liabilities": 2941310
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7856",
+    "retrieved": "2026-08-27"
+  }
+}

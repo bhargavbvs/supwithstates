@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-18-ganderbal",
+  "constituency": {
+    "number": 18,
+    "name": "Ganderbal",
+    "district": "Ganderbal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Omar Abdullah",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Sydenham College of Commerce and Economics Mumbai"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5524430,
+      "immovable": 0,
+      "total": 5524430,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=363",
+    "retrieved": "2026-08-27"
+  }
+}

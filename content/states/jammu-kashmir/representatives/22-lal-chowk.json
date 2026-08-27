@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-22-lal-chowk",
+  "constituency": {
+    "number": 22,
+    "name": "Lal Chowk",
+    "district": "Srinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sheikh Ahsan Ahmed",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Construction Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Sociology from Madurai Kamraj University in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11925345,
+      "immovable": 55500000,
+      "total": 67424054,
+      "liabilities": 10214019
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=375",
+    "retrieved": "2026-08-27"
+  }
+}

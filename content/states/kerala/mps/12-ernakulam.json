@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-12-ernakulam",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 12,
+    "name": "Ernakulam",
+    "reserved": null,
+    "assembly_segments": [
+      "Paravur",
+      "Vypeen",
+      "Kalamassery",
+      "Ernakulam",
+      "Thrikkakara",
+      "Thripunithura",
+      "Kochi"
+    ]
+  },
+  "representative": {
+    "name": "Hibi Eden",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 40,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce, Sacred Heart College Thevara Mahatham Gandhi University 2003-2004"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 11100695,
+      "immovable": 22900000,
+      "total": 34000696,
+      "liabilities": 4454363
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3093",
+    "retrieved": "2026-08-27"
+  }
+}

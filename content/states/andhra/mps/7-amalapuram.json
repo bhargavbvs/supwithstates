@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 33,
     "profession": "Agriculture",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/3ad577e1f3a470f03f46be642ba5fb99e9de5174.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5300"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelors of Business Management from GITAM University in 2011"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5300",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

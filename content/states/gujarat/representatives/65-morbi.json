@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-65-morbi",
+  "constituency": {
+    "number": 65,
+    "name": "Morbi",
+    "district": "Morbi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amrutiya Kantilal Shivlal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Farmer, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "F.Y.B.A From Dr. Babasaheb Ambedkar University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29663390,
+      "immovable": 62694642,
+      "total": 92358032,
+      "liabilities": 33286579
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4993",
+    "retrieved": "2026-08-27"
+  }
+}

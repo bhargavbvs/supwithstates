@@ -1,0 +1,49 @@
+{
+  "id": "up-pc-27-shahjahanpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 27,
+    "name": "Shahjahanpur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Powayan",
+      "Katra",
+      "Tilhar",
+      "Shahjahanpur",
+      "Dadraul",
+      "Jalalabad"
+    ]
+  },
+  "representative": {
+    "name": "Arun Kumar Sagar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Public Representative (MP) Salary, Allowances and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th pass in 2008 from Ramsaran singh School Fulsanda Bijnor"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7820300,
+      "immovable": 50497150,
+      "total": 58317453,
+      "liabilities": 2521626
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5206",
+    "retrieved": "2026-08-27"
+  }
+}

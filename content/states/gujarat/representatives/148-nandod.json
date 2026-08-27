@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-148-nandod",
+  "constituency": {
+    "number": 148,
+    "name": "Nandod",
+    "district": "Narmada",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Darshna Chandubhai Deshmukh(Vasava)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS, MD (Gynaecologist) From MS University Vadodara Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4828667,
+      "immovable": 32125000,
+      "total": 36953667,
+      "liabilities": 4180000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5068",
+    "retrieved": "2026-08-27"
+  }
+}

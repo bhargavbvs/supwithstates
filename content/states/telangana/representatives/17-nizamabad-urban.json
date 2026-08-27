@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Business & Rental Income",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/f988afd808358ae3d041d8f6b42bfb2aa673eb08.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=252"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Mandhumalancha degree Coloege Bodhan Osmania University 1979"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=252",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

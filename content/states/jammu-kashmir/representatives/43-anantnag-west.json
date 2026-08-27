@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-43-anantnag-west",
+  "constituency": {
+    "number": 43,
+    "name": "Anantnag West",
+    "district": "Anantnag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abdul Majeed Bhat",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Politician, Social Worker, Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Kashmir University in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4243897,
+      "immovable": 55749700,
+      "total": 59993597,
+      "liabilities": 10328953
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=96",
+    "retrieved": "2026-08-27"
+  }
+}

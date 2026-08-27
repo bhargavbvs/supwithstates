@@ -1,0 +1,48 @@
+{
+  "id": "jh-pc-4-chatra",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Chatra",
+    "reserved": null,
+    "assembly_segments": [
+      "Chatra",
+      "Simaria",
+      "Panki",
+      "Latehar",
+      "Manika"
+    ]
+  },
+  "representative": {
+    "name": "Kali Charan Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Ranchi University 1981"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 0,
+      "immovable": 0,
+      "total": 86201641,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7142",
+    "retrieved": "2026-08-27"
+  }
+}

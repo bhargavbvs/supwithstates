@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-169-bardoli",
+  "constituency": {
+    "number": 169,
+    "name": "Bardoli",
+    "district": "Surat",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ishvarbhai Alias Anilbhai Ramanbhai Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Farming & Carting",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "12th Fail (Commerce) From M.B. Vamdot Sarvajanik Highschool, Bardoli Year 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6805555,
+      "immovable": 14850000,
+      "total": 21655555,
+      "liabilities": 2577012
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5408",
+    "retrieved": "2026-08-27"
+  }
+}

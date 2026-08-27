@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-71-vijaypur",
+  "constituency": {
+    "number": 71,
+    "name": "Vijaypur",
+    "district": "Samba",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chander Parkash",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Business (Family Business)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Maticulation in the year 1981 from J&K State Board of School Education Jammu form Govt. High School Khairi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 56883263,
+      "immovable": 220320000,
+      "total": 202602000,
+      "liabilities": 19784000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=827",
+    "retrieved": "2026-08-27"
+  }
+}

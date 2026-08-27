@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-12-purnia",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 12,
+    "name": "Purnia",
+    "reserved": null,
+    "assembly_segments": [
+      "Kasba",
+      "Banmankhi",
+      "Dhamdaha",
+      "Purnia",
+      "Rupauli",
+      "Korha"
+    ]
+  },
+  "representative": {
+    "name": "Rajesh Ranjan Alias Pappu Yadav",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Social Service & Former Public Representative",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate B.N. Mandal University Madhepura 1991"
+    },
+    "declared_cases": {
+      "total": 41,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 15384681,
+      "immovable": 105500000,
+      "total": 120884682,
+      "liabilities": 17236808
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2710",
+    "retrieved": "2026-08-27"
+  }
+}

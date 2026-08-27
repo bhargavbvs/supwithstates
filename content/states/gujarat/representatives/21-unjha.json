@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-21-unjha",
+  "constituency": {
+    "number": 21,
+    "name": "Unjha",
+    "district": "Mahesana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Patel Kiritkumar Keshavlal (K K Patel)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Business & Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E.Civil from (L.D.Engineering College) Gujrat University,Ahmadabad-Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24725795,
+      "immovable": 422295000,
+      "total": 447020795,
+      "liabilities": 146000592
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5188",
+    "retrieved": "2026-08-27"
+  }
+}

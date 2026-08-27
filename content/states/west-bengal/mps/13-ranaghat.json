@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-13-ranaghat",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Ranaghat",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Krishnanagar Dakshin",
+      "Santipur",
+      "Ranaghat Uttar Paschim",
+      "Krishnaganj",
+      "Ranaghat Uttar Purba",
+      "Ranaghat Dakshin",
+      "Chakdaha"
+    ]
+  },
+  "representative": {
+    "name": "Jagannath Sarkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Retd. Teacher",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. in 1987 from , Bachelor of Physical Education in 1984 from Santipur College, Kalyani University"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3048967,
+      "immovable": 19280000,
+      "total": 22328968,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5202",
+    "retrieved": "2026-08-27"
+  }
+}

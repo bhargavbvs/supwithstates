@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-8-jajpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Jajpur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Sukinda",
+      "Korei",
+      "Jajpur",
+      "Dharmasala",
+      "Binjharpur",
+      "Bari",
+      "Barachana"
+    ]
+  },
+  "representative": {
+    "name": "Rabindra Narayan Behera",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Prof Synergy Engineering College Dhenkanal",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D in Computer Science 2005 Under Utkal University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12124837,
+      "immovable": 33600000,
+      "total": 45567092,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9604",
+    "retrieved": "2026-08-27"
+  }
+}

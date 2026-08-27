@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-75-ghazipur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 75,
+    "name": "Ghazipur",
+    "reserved": null,
+    "assembly_segments": [
+      "Jangipur",
+      "Jakhanian",
+      "Saidpur",
+      "Ghazipur",
+      "Zamania"
+    ]
+  },
+  "representative": {
+    "name": "Afzal Ansari",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 70,
+    "profession": "Pension, Rent Income and Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (History) from Post Graduate College, Gorakhpur University in 1978"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 30622219,
+      "immovable": 167100000,
+      "total": 207682224,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9428",
+    "retrieved": "2026-08-27"
+  }
+}

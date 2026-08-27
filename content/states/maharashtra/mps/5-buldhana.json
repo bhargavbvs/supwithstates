@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-5-buldhana",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Buldhana",
+    "reserved": null,
+    "assembly_segments": [
+      "Jalgaon (Jamod)",
+      "Khamgaon",
+      "Buldhana",
+      "Chikhli",
+      "Mehkar",
+      "Sindkhed Raja"
+    ]
+  },
+  "representative": {
+    "name": "Jadhav Prataprao Ganpatrao",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A Part 1 From Nagpur University Shivaji College, Chikhli In The Year 1979"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46535430,
+      "immovable": 117715025,
+      "total": 164260448,
+      "liabilities": 1467110
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1958",
+    "retrieved": "2026-08-27"
+  }
+}

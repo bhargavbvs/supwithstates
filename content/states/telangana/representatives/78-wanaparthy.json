@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Employee (CorporateSalary) & Mandal Praja Parishad President",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/4ad9cba802be7040da420e6db19037006f241f6a.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=332"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "B.Sc.( Discontinue) from Government Degree College, Wanaparthy in 1993-1995"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=332",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

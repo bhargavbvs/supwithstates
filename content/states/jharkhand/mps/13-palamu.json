@@ -1,0 +1,49 @@
+{
+  "id": "jh-pc-13-palamu",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Palamu",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Hussainabad",
+      "Bishrampur",
+      "Bhawanathpur",
+      "Chhatarpur",
+      "Daltonganj",
+      "Garhwa"
+    ]
+  },
+  "representative": {
+    "name": "Vishnu Dayal Ram",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 72,
+    "profession": "Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate History from Patna College Patna University 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15090500,
+      "immovable": 23990616,
+      "total": 39081116,
+      "liabilities": 1237580
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6264",
+    "retrieved": "2026-08-27"
+  }
+}

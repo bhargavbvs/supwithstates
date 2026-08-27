@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-23-bhilwara",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 23,
+    "name": "Bhilwara",
+    "reserved": null,
+    "assembly_segments": [
+      "Asind",
+      "Shahpura",
+      "Hindoli",
+      "Mandal",
+      "Jahazpur",
+      "Sahara",
+      "Mandalgarh",
+      "Bhilwara"
+    ]
+  },
+  "representative": {
+    "name": "Damodar Agarwal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Business, Rent & Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Year 1980, B.Com. Year 1977 From University of Rajasthan Jaipur"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 19191165,
+      "immovable": 52201250,
+      "total": 71392415,
+      "liabilities": 3320600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2743",
+    "retrieved": "2026-08-27"
+  }
+}

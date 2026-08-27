@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/9ec00301b7ae773f0d73b6a8dfca6d169743c6bb.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5106"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "M.D. Internal Medicine at Geisinger Medical Center in Daaville, Pennsylvania USA in Yr- 2005 & MBBS From NTR University of Health Sciences, Andhra Pradesh, Year-1999"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5106",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

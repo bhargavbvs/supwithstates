@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-13-davanagere",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Davanagere",
+    "reserved": null,
+    "assembly_segments": [
+      "Harapanahalli",
+      "Jagalur",
+      "Harihar",
+      "Davanagere North",
+      "Mayakonda",
+      "Davanagere South",
+      "Honnali",
+      "Channagiri"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Prabha Mallikarjun",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Director. Indian Cane Power ltd Shamanur Agro tech Pvt Ltd",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BDS Kuvempu University -1998, PUC PU Board, Karnataka - 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 914151442,
+      "immovable": 1498652464,
+      "total": 2412803910,
+      "liabilities": 247124278
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3393",
+    "retrieved": "2026-08-27"
+  }
+}

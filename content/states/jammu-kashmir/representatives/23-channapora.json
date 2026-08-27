@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-23-channapora",
+  "constituency": {
+    "number": 23,
+    "name": "Channapora",
+    "district": "Badgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mushtaq Guroo",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Business, Politics",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Mechanical Engineering from Institute of Mechanical Engineering India Mumbai in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 63730834,
+      "immovable": 878700000,
+      "total": 942180000,
+      "liabilities": 7067000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=334",
+    "retrieved": "2026-08-27"
+  }
+}

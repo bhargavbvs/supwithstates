@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-72-bishnah",
+  "constituency": {
+    "number": 72,
+    "name": "Bishnah",
+    "district": "Jammu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajeev Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Doctor (Resigned)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS From Tashkent University Russia, Year-1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13570154,
+      "immovable": 24677000,
+      "total": 38242092,
+      "liabilities": 8501880
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=774",
+    "retrieved": "2026-08-27"
+  }
+}

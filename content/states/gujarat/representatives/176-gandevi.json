@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-176-gandevi",
+  "constituency": {
+    "number": 176,
+    "name": "Gandevi",
+    "district": "Navsari",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nareshbhai Maganbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Farming & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From The Dhirubhai M. Desai Agasiwala, H.S. School, Agasi, Year-1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22667827,
+      "immovable": 15450000,
+      "total": 38117827,
+      "liabilities": 4331260
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4948",
+    "retrieved": "2026-08-27"
+  }
+}

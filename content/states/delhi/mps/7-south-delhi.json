@@ -1,0 +1,53 @@
+{
+  "id": "dl-pc-7-south-delhi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "South Delhi",
+    "reserved": null,
+    "assembly_segments": [
+      "Palam",
+      "Bijwasan",
+      "Kalkaji",
+      "Mehrauli",
+      "Tughlakabad",
+      "Ambedkar Nagar",
+      "Badarpur",
+      "Deoli",
+      "Sangam Vihar",
+      "Chhatarpur"
+    ]
+  },
+  "representative": {
+    "name": "Ramvir Singh Bidhuri",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 71,
+    "profession": "Business & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Deshbandu Gupta Collage, Delhi University In 1973"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 238269316,
+      "immovable": 288150625,
+      "total": 526419941,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7907",
+    "retrieved": "2026-08-27"
+  }
+}

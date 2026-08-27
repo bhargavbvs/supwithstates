@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-11-porbandar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Porbandar",
+    "reserved": null,
+    "assembly_segments": [
+      "Porbandar",
+      "Gondal",
+      "Jetpur",
+      "Dhoraji",
+      "Kutiyana",
+      "Manavadar",
+      "Keshod"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Mansukh Mandaviya",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Social Activist, Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. (Political Science) From Bhavnagar University In 2021, M.A. (Political Science) From Bhavnagar University In 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29993405,
+      "immovable": 49511300,
+      "total": 79504705,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3459",
+    "retrieved": "2026-08-27"
+  }
+}

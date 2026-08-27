@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-15-pali",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Pali",
+    "reserved": null,
+    "assembly_segments": [
+      "Osian",
+      "Bhopalgarh",
+      "Bilara",
+      "Sojat",
+      "Pali",
+      "Sumerpur",
+      "Marwar Junction",
+      "Bali"
+    ]
+  },
+  "representative": {
+    "name": "P. P. Chaudhary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 70,
+    "profession": "Parliament & Senior Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB In 1978 from Jodhpur University, Present- Jai Narain Vyas University, Jodhpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43201660,
+      "immovable": 363975000,
+      "total": 407176661,
+      "liabilities": 19486942
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2574",
+    "retrieved": "2026-08-27"
+  }
+}

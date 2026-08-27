@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-73-gondal",
+  "constituency": {
+    "number": 73,
+    "name": "Gondal",
+    "district": "Rajkot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Geetaba Jayrajsinh Jadeja",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC Pass From Mondhiba Girls Highschool Gondal In 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6684633,
+      "immovable": 34800000,
+      "total": 41484633,
+      "liabilities": 750000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5104",
+    "retrieved": "2026-08-27"
+  }
+}

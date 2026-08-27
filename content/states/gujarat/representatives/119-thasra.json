@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-119-thasra",
+  "constituency": {
+    "number": 119,
+    "name": "Thasra",
+    "district": "Kheda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogendrasinh Parmar (Bakabhai)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business & Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor Of Arts From Bhavans College Dakor From April 1993, HSC Year 1990, SSC Year 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31720787,
+      "immovable": 84150000,
+      "total": 115870787,
+      "liabilities": 9141002
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5208",
+    "retrieved": "2026-08-27"
+  }
+}

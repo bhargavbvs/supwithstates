@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-21-hajipur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 21,
+    "name": "Hajipur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Mahua",
+      "Lalganj",
+      "Raja Pakar",
+      "Hajipur",
+      "Mahnar",
+      "Raghopur"
+    ]
+  },
+  "representative": {
+    "name": "Chirag Paswan",
+    "election": "2024",
+    "elected_party": "Lok Janshakti Party(Ram Vilas)",
+    "current_party": "Lok Janshakti Party(Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Tech. Second Semester from Computer Engineering Institute of Engineering and Technology Jhansi, Bundelkhand University Jhansi in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16675873,
+      "immovable": 10200000,
+      "total": 26875873,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7281",
+    "retrieved": "2026-08-27"
+  }
+}

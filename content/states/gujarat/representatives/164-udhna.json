@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-164-udhna",
+  "constituency": {
+    "number": 164,
+    "name": "Udhna",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manubhai M. Patel (Fogwa)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Costruction Contractor",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Shree N.V Patel High School Malikpur (Vad) Taluka Vadanagar Dist Mehsana"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3128013,
+      "immovable": 66051000,
+      "total": 69179013,
+      "liabilities": 251550
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4964",
+    "retrieved": "2026-08-27"
+  }
+}

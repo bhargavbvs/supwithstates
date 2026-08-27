@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-132-dahod",
+  "constituency": {
+    "number": 132,
+    "name": "Dahod",
+    "district": "Dahod",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kanaiyalal Bachubhai Kishori",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. B.Ed., Year 2010 Gujarat University Gandhinagar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -2350988,
+      "immovable": 15065000,
+      "total": 12714012,
+      "liabilities": 228677
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6086",
+    "retrieved": "2026-08-27"
+  }
+}

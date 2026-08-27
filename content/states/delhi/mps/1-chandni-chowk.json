@@ -1,0 +1,53 @@
+{
+  "id": "dl-pc-1-chandni-chowk",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Chandni Chowk",
+    "reserved": null,
+    "assembly_segments": [
+      "Adarsh Nagar",
+      "Shalimar Bagh",
+      "Model Town",
+      "Wazirpur",
+      "Tri Nagar",
+      "Shakur Basti",
+      "Chandni Chowk",
+      "Sadar Bazar",
+      "Ballimaran",
+      "Matia Mahal"
+    ]
+  },
+  "representative": {
+    "name": "Praveen Khandelwal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Business, Social Public life",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Delhi University 1986, B.A From Ramjas College Delhi, in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26239790,
+      "immovable": 90800000,
+      "total": 117039798,
+      "liabilities": 60645586
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7896",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-46-nikol",
+  "constituency": {
+    "number": 46,
+    "name": "Nikol",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagdish Vishwakarma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Business (Textstyle Mashinery Manufactring)Developers Infra Marketing",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "F.Y.B.A.From Gujrat Universtiy,year-1993, 12th From G.E.S.B.March-1991,10th From G.E.S.B. Octomber 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 86462431,
+      "immovable": 204200206,
+      "total": 290662637,
+      "liabilities": 22955513
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6250",
+    "retrieved": "2026-08-27"
+  }
+}

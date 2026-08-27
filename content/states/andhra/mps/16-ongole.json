@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 70,
     "profession": "Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/aa00e82aa5aaf6b1c145b597d9589cca888cb420.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5120"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.Com from V.R. Collage S.V. University, Nellore In 1973"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5120",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

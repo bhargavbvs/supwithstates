@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-8-rafiabad",
+  "constituency": {
+    "number": 8,
+    "name": "Rafiabad",
+    "district": "Baramula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Javid Ahmad Dar",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Ex-MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Jamia Islamia new delhi 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2428000,
+      "immovable": 45700000,
+      "total": 48128000,
+      "liabilities": 2349000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=716",
+    "retrieved": "2026-08-27"
+  }
+}

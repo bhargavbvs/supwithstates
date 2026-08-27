@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-10-bolangir",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Bolangir",
+    "reserved": null,
+    "assembly_segments": [
+      "Birmaharajpur",
+      "Sonepur",
+      "Loisingha",
+      "Patnagarh",
+      "Bolangir",
+      "Kantabanji",
+      "Titlagarh"
+    ]
+  },
+  "representative": {
+    "name": "Sangeeta Kumari Singh Deo",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Politics,Social Service & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A Hons in Polotical Science Jesus & Mary College Chanakyapuri New Delhi 1983 Delhi University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 77848890,
+      "immovable": 595200000,
+      "total": 673060630,
+      "liabilities": 7500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7154",
+    "retrieved": "2026-08-27"
+  }
+}

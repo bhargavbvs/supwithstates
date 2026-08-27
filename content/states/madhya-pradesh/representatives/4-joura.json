@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-4-joura",
+  "constituency": {
+    "number": 4,
+    "name": "Joura",
+    "district": "Morena",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pankaj Upadhyay",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A 2007 from Govt. Art n Commerce College Indore, L.L.B in 2005 from Govt. Law College Indore M.P, Devi Ahilya University Indore"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28327148,
+      "immovable": 35797475,
+      "total": 64124623,
+      "liabilities": 20668506
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=731",
+    "retrieved": "2026-08-27"
+  }
+}

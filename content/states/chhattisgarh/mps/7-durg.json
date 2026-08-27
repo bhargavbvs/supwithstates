@@ -1,0 +1,52 @@
+{
+  "id": "cg-pc-7-durg",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Durg",
+    "reserved": null,
+    "assembly_segments": [
+      "Nawagarh",
+      "Saja",
+      "Bemetara",
+      "Ahiwara",
+      "Patan",
+      "Durg-Rural",
+      "Vaishali Nagar",
+      "Durg City",
+      "Bhilai Nagar"
+    ]
+  },
+  "representative": {
+    "name": "Vijay Baghel",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Farmer and Transporter",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. from Pandit Ravishankar Shukla Unviersity Raipur CG Year 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13316950,
+      "immovable": 41850000,
+      "total": 37162950,
+      "liabilities": 3854273
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3442",
+    "retrieved": "2026-08-27"
+  }
+}

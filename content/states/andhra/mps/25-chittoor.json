@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Retired Central Government Employee",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/467d38373f9a3541ad2c2fb2f8e5a8b31344b06b.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5104"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.A. from V.R.S & Y.R.N. College, Chirala (Andhra University) in the year 1981"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5104",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

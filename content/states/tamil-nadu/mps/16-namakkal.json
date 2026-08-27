@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-16-namakkal",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 16,
+    "name": "Namakkal",
+    "reserved": null,
+    "assembly_segments": [
+      "Sankari",
+      "Rasipuram",
+      "Tiruchengodu",
+      "Senthamangalam",
+      "Namakkal",
+      "Paramathi-Velur"
+    ]
+  },
+  "representative": {
+    "name": "Matheswaran V S",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed From Govt Higher Secondary School, Muthukapatty in the year 1988"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 14697973,
+      "immovable": 32600000,
+      "total": 47297973,
+      "liabilities": 5039079
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=164",
+    "retrieved": "2026-08-27"
+  }
+}

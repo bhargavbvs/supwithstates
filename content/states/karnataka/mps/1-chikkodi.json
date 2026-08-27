@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-1-chikkodi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Chikkodi",
+    "reserved": null,
+    "assembly_segments": [
+      "Kagwad",
+      "Athani",
+      "Nippani",
+      "Kudachi",
+      "Chikkodi-Sadalga",
+      "Raybag",
+      "Hukkeri",
+      "Yemkanmardi"
+    ]
+  },
+  "representative": {
+    "name": "Priyanka Satish Jarkiholi",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 27,
+    "profession": "Business, Managing Director In Companies & Partner In Firms Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Of Business Administarion (MBA), Visvesvaraya Technological University, Belagavi, Karnataka, 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 72913956,
+      "immovable": 18243668,
+      "total": 91157625,
+      "liabilities": 15743768
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4024",
+    "retrieved": "2026-08-27"
+  }
+}

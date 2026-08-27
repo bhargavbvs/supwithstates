@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-113-bhubaneswar-uttar",
+  "constituency": {
+    "number": 113,
+    "name": "Bhubaneswar(Uttar)",
+    "district": "Khordha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Susant Kumar Rout",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Member of Legislative Assembly (Odisha)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graduate Diploma in Marketing Management from Institute of Marketing Management, New Delhi in 1997, HSC from Board or Secondary Education, Orrisa in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 91895979,
+      "immovable": 129925556,
+      "total": 216816709,
+      "liabilities": 81784485
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=607",
+    "retrieved": "2026-08-27"
+  }
+}

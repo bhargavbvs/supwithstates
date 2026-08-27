@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-21-dewas",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 21,
+    "name": "Dewas",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Agar",
+      "Shajapur",
+      "Shujalpur",
+      "Kalapipal",
+      "Dewas",
+      "Sonkatch",
+      "Ashta",
+      "Hatpipliya"
+    ]
+  },
+  "representative": {
+    "name": "Mahendra Singh Solanky",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 40,
+    "profession": "MP",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Indore Institute of Law Indore, Devi Ahilya University Indore in 2006"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6148398,
+      "immovable": 0,
+      "total": 3817399,
+      "liabilities": 2711920
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5160",
+    "retrieved": "2026-08-27"
+  }
+}

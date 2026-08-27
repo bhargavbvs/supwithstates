@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-22-palghar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 22,
+    "name": "Palghar",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Dahanu",
+      "Vikramgad",
+      "Palghar",
+      "Boisar",
+      "Nalasopara",
+      "Vasai"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Hemant Vishnu Savara",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Medical Practitioner (Orthopedic Surgeon)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine and Bachelor of Surgery From University of Mumbai, Year-2001 & Diploma In Orthopedics From CPS Mumbai, Year-2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41627299,
+      "immovable": 39994750,
+      "total": 81622050,
+      "liabilities": 10776056
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7349",
+    "retrieved": "2026-08-27"
+  }
+}

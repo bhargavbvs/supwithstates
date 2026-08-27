@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-57-daskroi",
+  "constituency": {
+    "number": 57,
+    "name": "Daskroi",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babubhai Jamnadas Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 74,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "OLD SSC Shri B R Patel Nutan Fellowship Highschool , Navrangpura, Amhedabad In Year 1967"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16233445,
+      "immovable": 598556484,
+      "total": 614789929,
+      "liabilities": 8167733
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6288",
+    "retrieved": "2026-08-27"
+  }
+}

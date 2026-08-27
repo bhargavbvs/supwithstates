@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-35-karakat",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 35,
+    "name": "Karakat",
+    "reserved": null,
+    "assembly_segments": [
+      "Karakat",
+      "Nokha",
+      "Obra",
+      "Goh",
+      "Dehri",
+      "Nabinagar"
+    ]
+  },
+  "representative": {
+    "name": "Raja Ram Singh",
+    "election": "2024",
+    "elected_party": "CPI(ML)(L)",
+    "current_party": "CPI(ML)(L)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. (Engineering Civil) From BCE Patna University, Year-1983"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7105142,
+      "immovable": 18814800,
+      "total": 25919942,
+      "liabilities": 1900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9587",
+    "retrieved": "2026-08-27"
+  }
+}

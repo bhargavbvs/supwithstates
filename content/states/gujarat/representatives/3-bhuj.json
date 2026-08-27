@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-3-bhuj",
+  "constituency": {
+    "number": 3,
+    "name": "Bhuj",
+    "district": "Kachchh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Keshubhai Shivdas Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Agriculture& Animal husbandry",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass From Desalpar Group Primary School, Desalpar, Tal Bhuj in Year 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6692215,
+      "immovable": 56700000,
+      "total": 63392215,
+      "liabilities": 1024000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4988",
+    "retrieved": "2026-08-27"
+  }
+}

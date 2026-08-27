@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-110-anklav",
+  "constituency": {
+    "number": 110,
+    "name": "Anklav",
+    "district": "Anand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amit Chavda",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Farming,Jaher Jivan",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma In Chemical Engineering From Technical Examination Board, Gujrat State,Gandhinagar-Year April 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8139377,
+      "immovable": 16084601,
+      "total": 24223978,
+      "liabilities": 1543928
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6176",
+    "retrieved": "2026-08-27"
+  }
+}

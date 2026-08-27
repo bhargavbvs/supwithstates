@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-156-mangrol",
+  "constituency": {
+    "number": 156,
+    "name": "Mangrol",
+    "district": "Surat",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ganpatsinh Vestabhai Vasava",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture, Business, Socialservice",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "M.A. Part 1 in 1995, Gujarat University Ahmedabad, B.A. in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39236704,
+      "immovable": 45270000,
+      "total": 84506704,
+      "liabilities": 41767352
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5028",
+    "retrieved": "2026-08-27"
+  }
+}

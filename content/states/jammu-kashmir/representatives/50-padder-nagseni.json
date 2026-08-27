@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-50-padder-nagseni",
+  "constituency": {
+    "number": 50,
+    "name": "Padder-Nagseni",
+    "district": "Kishtwar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunil Kumar Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Persuing Graduation from Lovely Professional University Jalandhar in 2023, 12th from Boys HSS Kishtwar (JKBOSE) in 1994-95"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6877288,
+      "immovable": 29700000,
+      "total": 36565288,
+      "liabilities": 307394
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=124",
+    "retrieved": "2026-08-27"
+  }
+}

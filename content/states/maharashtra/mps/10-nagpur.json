@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-10-nagpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Nagpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Nagpur North",
+      "Nagpur West",
+      "Nagpur East",
+      "Nagpur Central",
+      "Nagpur South West",
+      "Nagpur South"
+    ]
+  },
+  "representative": {
+    "name": "Nitin Jairam Gadkari",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Galgotias University, Uttar Pradesh has confered the honorary degree Doctor of Philosophy- Year - 2023, SRM Institute of Scienc and Technology, Ghaziabad, Uttar Pradesh has confered the honorary degree DOCTOR OF LITERATURE (D.Litt)- 2023"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 35323321,
+      "immovable": 244994000,
+      "total": 280317321,
+      "liabilities": 62230174
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=329",
+    "retrieved": "2026-08-27"
+  }
+}

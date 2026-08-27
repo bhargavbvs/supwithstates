@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-4-guna",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Guna",
+    "reserved": null,
+    "assembly_segments": [
+      "Shivpuri",
+      "Kolaras",
+      "Pichhore",
+      "Bamori",
+      "Chanderi",
+      "Ashok Nagar",
+      "Guna",
+      "Mungaoli"
+    ]
+  },
+  "representative": {
+    "name": "Jyotiraditya M. Scindia",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From Standford University, Graduate School of Business Palo Alto, CA, USA 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 625763478,
+      "immovable": 3621730600,
+      "total": 4247494078,
+      "liabilities": 5476215
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3613",
+    "retrieved": "2026-08-27"
+  }
+}

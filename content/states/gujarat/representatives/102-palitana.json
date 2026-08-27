@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-102-palitana",
+  "constituency": {
+    "number": 102,
+    "name": "Palitana",
+    "district": "Bhavnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhikhabhai Ravajibhai Baraiya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Cultivation in ancestral land",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "SY BA from Bhavnagar University in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2672311,
+      "immovable": 6300000,
+      "total": 8972311,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5566",
+    "retrieved": "2026-08-27"
+  }
+}

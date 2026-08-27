@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-56-bahraich",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 56,
+    "name": "Bahraich",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Balha",
+      "Nanpara",
+      "Matera",
+      "Mahasi",
+      "Bahraich"
+    ]
+  },
+  "representative": {
+    "name": "Anand Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. from Mahatma Gandhi Kashi Vidhyapith Varanasi UP in 2010, MBA From Allahabad University, Allahabad UP In 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29381823,
+      "immovable": 66202354,
+      "total": 92623979,
+      "liabilities": 14126198
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5217",
+    "retrieved": "2026-08-27"
+  }
+}

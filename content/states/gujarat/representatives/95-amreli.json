@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-95-amreli",
+  "constituency": {
+    "number": 95,
+    "name": "Amreli",
+    "district": "Amreli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kaushik Kantibhai Vekariya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 36,
+    "profession": "Farming and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Saurashtra University (K.K. Parekha and Mehta R.P. Vidyalaya, Amreli). Year - 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2690630,
+      "immovable": 33000000,
+      "total": 35690630,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5512",
+    "retrieved": "2026-08-27"
+  }
+}

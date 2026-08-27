@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-122-lunawada",
+  "constituency": {
+    "number": 122,
+    "name": "Lunawada",
+    "district": "Mahisagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gulabsinh Somsinh Chauhan",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Retired Junior Clerk Pension & Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Dahod Arts & Commerce Gujarat University In1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4225357,
+      "immovable": 9800000,
+      "total": 14025357,
+      "liabilities": 497432
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6136",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-34-pune",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 34,
+    "name": "Pune",
+    "reserved": null,
+    "assembly_segments": [
+      "Vadgaon Sheri",
+      "Kothrud",
+      "Shivajinagar",
+      "Kasba Peth",
+      "Pune Cantonment",
+      "Parvati"
+    ]
+  },
+  "representative": {
+    "name": "Murlidhar Mohol",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": "Agriculture And Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Shivaji University Kolhapur Shahu College In The Year October 1999 & HSC From Maharashtra State Secondary And Higher Secondary Education Board Pune Ratnappa Kumbhar College of Commerce In The Year March 1992"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 52676486,
+      "immovable": 182359695,
+      "total": 243244483,
+      "liabilities": 148557874
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6044",
+    "retrieved": "2026-08-27"
+  }
+}

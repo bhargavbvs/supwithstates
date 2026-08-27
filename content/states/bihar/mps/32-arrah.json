@@ -1,0 +1,50 @@
+{
+  "id": "br-pc-32-arrah",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 32,
+    "name": "Arrah",
+    "reserved": null,
+    "assembly_segments": [
+      "Barhara",
+      "Shahpur",
+      "Arrah",
+      "Sandesh",
+      "Jagdishpur",
+      "Agiaon",
+      "Tarari"
+    ]
+  },
+  "representative": {
+    "name": "Sudama Prasad",
+    "election": "2024",
+    "elected_party": "CPI(ML)(L)",
+    "current_party": "CPI(ML)(L)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Bihar MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Maharaja College Arrah 1982"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6991951,
+      "immovable": 5142000,
+      "total": 9098946,
+      "liabilities": 2921615
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9539",
+    "retrieved": "2026-08-27"
+  }
+}

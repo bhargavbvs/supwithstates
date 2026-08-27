@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-120-kapadvanj",
+  "constituency": {
+    "number": 120,
+    "name": "Kapadvanj",
+    "district": "Kheda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Zala Rajeshkumar Maganbhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 35,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Saraswati Mandir, Tal Kadlal, Dist Kheda in Year 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3924889,
+      "immovable": 6649600,
+      "total": 10574489,
+      "liabilities": 8130000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6146",
+    "retrieved": "2026-08-27"
+  }
+}

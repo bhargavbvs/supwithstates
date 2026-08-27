@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-21-koraput",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 21,
+    "name": "Koraput",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Bissam Cuttack",
+      "Gunupur",
+      "Rayagada",
+      "Lakshmipur",
+      "Jeypore",
+      "Koraput",
+      "Pottangi"
+    ]
+  },
+  "representative": {
+    "name": "Saptagiri Sankar Ulaka",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE (Computer Science ) Orissa Engineering College Utkal University 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11358369,
+      "immovable": 59710460,
+      "total": 70956659,
+      "liabilities": 16002929
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5071",
+    "retrieved": "2026-08-27"
+  }
+}

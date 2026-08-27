@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-139-sankheda",
+  "constituency": {
+    "number": 139,
+    "name": "Sankheda",
+    "district": "Chhotaudepur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Abhesinh Motibhai Tadvi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Farming, Social Worker & Kerosene Dealership",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From D B Parekh Highschool Sankheda Chota Udepur Secondary Education Gandhiagar Year 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7487333,
+      "immovable": 32767788,
+      "total": 40255121,
+      "liabilities": 5109721
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5975",
+    "retrieved": "2026-08-27"
+  }
+}

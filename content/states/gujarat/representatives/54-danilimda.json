@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-54-danilimda",
+  "constituency": {
+    "number": 54,
+    "name": "Danilimda",
+    "district": "Ahmadabad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shailesh Manubhai Parmar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Agriculture, Green Loan-Rent, Construction",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed from Hindi sahitya sammelan in 1998"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10933934,
+      "immovable": 315487800,
+      "total": 326421734,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6276",
+    "retrieved": "2026-08-27"
+  }
+}

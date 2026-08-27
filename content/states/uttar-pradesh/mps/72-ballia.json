@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-72-ballia",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 72,
+    "name": "Ballia",
+    "reserved": null,
+    "assembly_segments": [
+      "Bairia",
+      "Phephana",
+      "Zahoorabad",
+      "Ballia Nagar",
+      "Mohammadabad"
+    ]
+  },
+  "representative": {
+    "name": "Sanatan Pandey",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Agriculture & Pension",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Civil Diploma from Govt. Polytechnic Mirzapur in 1980"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1400785,
+      "immovable": 23600000,
+      "total": 24950786,
+      "liabilities": 624502
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9447",
+    "retrieved": "2026-08-27"
+  }
+}

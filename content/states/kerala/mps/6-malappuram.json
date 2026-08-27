@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-6-malappuram",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 6,
+    "name": "Malappuram",
+    "reserved": null,
+    "assembly_segments": [
+      "Kondotty",
+      "Manjeri",
+      "Malappuram",
+      "Vallikunnu",
+      "Vengara",
+      "Mankada",
+      "Perinthalmanna"
+    ]
+  },
+  "representative": {
+    "name": "E.T. Mohammed Basheer",
+    "election": "2024",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 77,
+    "profession": "Parliment Member",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC Passed In 1964 from Imbichi Haji High School Chaliyam"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8094313,
+      "immovable": 10437000,
+      "total": 20252293,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2303",
+    "retrieved": "2026-08-27"
+  }
+}

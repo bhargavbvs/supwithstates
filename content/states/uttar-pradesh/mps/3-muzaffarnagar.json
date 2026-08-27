@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-3-muzaffarnagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Muzaffarnagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Charthawal",
+      "Muzaffar Nagar",
+      "Budhana",
+      "Khatauli",
+      "Sardhana"
+    ]
+  },
+  "representative": {
+    "name": "Harendra Singh Malik",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Agriculture , Business or Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. Meerut University Meerut In Year 1976 Ch.Chhotu Ram P.G.College Muzaffarnagar 1976"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23391738,
+      "immovable": 67389026,
+      "total": 90780765,
+      "liabilities": 1129634
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=286",
+    "retrieved": "2026-08-27"
+  }
+}

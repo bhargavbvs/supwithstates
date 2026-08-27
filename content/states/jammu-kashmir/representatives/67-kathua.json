@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-67-kathua",
+  "constituency": {
+    "number": 67,
+    "name": "Kathua",
+    "district": "Kathua",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Bharat Bhushan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Retd. from Govt. Employment",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS from GMC Jammu in 1994, PG in Journalism from Bhartiya Vidya Bhavan University in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30023134,
+      "immovable": 10200000,
+      "total": 40223135,
+      "liabilities": 2986241
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=916",
+    "retrieved": "2026-08-27"
+  }
+}

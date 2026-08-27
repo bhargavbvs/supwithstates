@@ -1,0 +1,49 @@
+{
+  "id": "up-pc-49-fatehpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 49,
+    "name": "Fatehpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Jahanabad",
+      "Bindki",
+      "Husainganj",
+      "Fatehpur",
+      "Ayah Shah",
+      "Khaga"
+    ]
+  },
+  "representative": {
+    "name": "Naresh Chandra Uttam Patel",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Agriculture, Advocacy, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from P.P.N. Degree College Kanpur University Kanpur in 1978, LLB from DAV College Kanpur University Kanpur in 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23448208,
+      "immovable": 25900000,
+      "total": 49348208,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7595",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-8-ahmedabad-west",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Ahmedabad West",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Amraiwadi",
+      "Jamalpur-Khadia",
+      "Ellisbridge",
+      "Asarwa",
+      "Dariyapur",
+      "Danilimda",
+      "Maninagar"
+    ]
+  },
+  "representative": {
+    "name": "Dineshbhai Makwana (Advocate)",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law From Motilal Nehru Law College Relief Road Gujarat University Ahmedabad In The Year 1994, Bachelor of Arts From Vallabhbhai Arts College Relief Road Gujarat University Ahmedabad In The Year 1990, HSC From Janta Gujarati Higher Secondary Sc Details of P"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 59031886,
+      "immovable": 82737700,
+      "total": 141769586,
+      "liabilities": 13222046
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3735",
+    "retrieved": "2026-08-27"
+  }
+}

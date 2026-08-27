@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-14-kottayam",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Kottayam",
+    "reserved": null,
+    "assembly_segments": [
+      "Piravom",
+      "Kaduthuruthy",
+      "Vaikom",
+      "Pala",
+      "Ettumanoor",
+      "Puthuppally",
+      "Kottayam"
+    ]
+  },
+  "representative": {
+    "name": "Adv K Francis George",
+    "election": "2024",
+    "elected_party": "Kerala Congress",
+    "current_party": "Kerala Congress",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB (Kerala University) - 1978, BA (Bangalore University)- 1974"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 5,
+      "note": null
+    },
+    "assets": {
+      "movable": 14734470,
+      "immovable": 80339160,
+      "total": 95196318,
+      "liabilities": 2800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3137",
+    "retrieved": "2026-08-27"
+  }
+}

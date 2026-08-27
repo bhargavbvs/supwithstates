@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-11-katihar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Katihar",
+    "reserved": null,
+    "assembly_segments": [
+      "Balrampur",
+      "Kadwa",
+      "Katihar",
+      "Pranpur",
+      "Barari",
+      "Manihari"
+    ]
+  },
+  "representative": {
+    "name": "Tariq Anwar",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 73,
+    "profession": "Ex MP and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Science Graduate Commerce College Patna Magadh University Bodh Gaya Year 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40170786,
+      "immovable": 155886393,
+      "total": 196057169,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2239",
+    "retrieved": "2026-08-27"
+  }
+}

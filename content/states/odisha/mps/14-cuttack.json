@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-14-cuttack",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Cuttack",
+    "reserved": null,
+    "assembly_segments": [
+      "Athagarh",
+      "Baramba",
+      "Choudwar-Cuttack",
+      "Barabati-Cuttack",
+      "Banki",
+      "Khandapada",
+      "Cuttack Sadar"
+    ]
+  },
+  "representative": {
+    "name": "Bhartruhari Mahtab",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": "Social Worker, Writer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Degree in Ravenshaw College Cuttack Utkal University in 1978"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 73552798,
+      "immovable": 125500000,
+      "total": 199052798,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8022",
+    "retrieved": "2026-08-27"
+  }
+}

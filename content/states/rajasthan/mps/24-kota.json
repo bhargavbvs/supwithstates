@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-24-kota",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 24,
+    "name": "Kota",
+    "reserved": null,
+    "assembly_segments": [
+      "Keshoraipatan",
+      "Pipalda",
+      "Bundi",
+      "Sangod",
+      "Ladpura",
+      "Kota North",
+      "Kota South",
+      "Ramganj Mandi"
+    ]
+  },
+  "representative": {
+    "name": "Om Birla",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com. from Rajasthan University Jaipur in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51706703,
+      "immovable": 52400000,
+      "total": 106206645,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2567",
+    "retrieved": "2026-08-27"
+  }
+}

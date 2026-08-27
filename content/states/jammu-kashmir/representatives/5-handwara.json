@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-5-handwara",
+  "constituency": {
+    "number": 5,
+    "name": "Handwara",
+    "district": "Kupwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sajad Gani Lone",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir People Conference",
+    "current_party": "Jammu & Kashmir People Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Politician & Business Interests",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc (Economics) Hons from Cardiff University United Kingdom in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14844079,
+      "immovable": 192000000,
+      "total": 207958079,
+      "liabilities": 88484411
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=1023",
+    "retrieved": "2026-08-27"
+  }
+}

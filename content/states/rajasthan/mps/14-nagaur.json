@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-14-nagaur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Nagaur",
+    "reserved": null,
+    "assembly_segments": [
+      "Ladnun",
+      "Nagaur",
+      "Jayal",
+      "Deedwana",
+      "Khinwsar",
+      "Nawan",
+      "Makrana",
+      "Parbatsar"
+    ]
+  },
+  "representative": {
+    "name": "Hanuman Beniwal",
+    "election": "2024",
+    "elected_party": "Rashtriya Loktantrik Party",
+    "current_party": "Rashtriya Loktantrik Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Agriculture, MLA Salary & Allowance",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A, L.L.B. , Rajasthan University , Jaipur 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7010760,
+      "immovable": 1100000,
+      "total": 8110760,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=454",
+    "retrieved": "2026-08-27"
+  }
+}

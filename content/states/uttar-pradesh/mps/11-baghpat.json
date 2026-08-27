@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-11-baghpat",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Baghpat",
+    "reserved": null,
+    "assembly_segments": [
+      "Chhaprauli",
+      "Siwalkhas",
+      "Baraut",
+      "Baghpat",
+      "Modi Nagar"
+    ]
+  },
+  "representative": {
+    "name": "Dr Rajkumar Sangwan",
+    "election": "2024",
+    "elected_party": "Rashtriya Lok Dal",
+    "current_party": "Rashtriya Lok Dal",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Retd. Teacher",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "M.A., Ph.D., History from Chaudhary Charan Singh University Meerut"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 107396,
+      "immovable": 4752030,
+      "total": 4799426,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1808",
+    "retrieved": "2026-08-27"
+  }
+}

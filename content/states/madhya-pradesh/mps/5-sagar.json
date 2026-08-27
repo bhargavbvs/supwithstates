@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-5-sagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Sagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Bina",
+      "Khurai",
+      "Sironj",
+      "Kurwai",
+      "Shamshabad",
+      "Naryoli",
+      "Surkhi",
+      "Sagar"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Lata Wankhede",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. in 2021, M.A. in 2014 from Swami Vivekanand University Sagar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28982267,
+      "immovable": 144502460,
+      "total": 173410882,
+      "liabilities": 13800068
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3547",
+    "retrieved": "2026-08-27"
+  }
+}

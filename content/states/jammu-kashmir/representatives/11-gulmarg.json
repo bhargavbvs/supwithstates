@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-11-gulmarg",
+  "constituency": {
+    "number": 11,
+    "name": "Gulmarg",
+    "district": "Baramula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pirzada Farooq Ahmed Shah",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Retired Government Employee",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering from Regional Engineering College Kahmir University in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5143996,
+      "immovable": 80360000,
+      "total": 85503996,
+      "liabilities": 2500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=722",
+    "retrieved": "2026-08-27"
+  }
+}

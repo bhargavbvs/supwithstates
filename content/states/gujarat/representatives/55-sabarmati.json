@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-55-sabarmati",
+  "constituency": {
+    "number": 55,
+    "name": "Sabarmati",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Patel Harshadbhai Ranchhodbhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Retired Principal, Shree RR Dwivedi High School, Vejalpur, Ahmedabad",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From Gujarat University, Ahmedabad, Year-2017 & M.Ed. From Prakash College Memnagar, Ahmedabad, Gujarat University, Ahmedabad , Year- 1992 & M.Com. From C.U. Shah City Arts & Commerce College Lal Darwaja, Ahmedabd, Gujarat University, Ahmedabad, Year"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30772808,
+      "immovable": 55384828,
+      "total": 86157636,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6279",
+    "retrieved": "2026-08-27"
+  }
+}

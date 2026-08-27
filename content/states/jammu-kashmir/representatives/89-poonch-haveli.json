@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-89-poonch-haveli",
+  "constituency": {
+    "number": 89,
+    "name": "Poonch Haveli",
+    "district": "Punch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajaz Ahmed Jan",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Social Activist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from J&K Board of School Jammu in 1995 through Boys Hr. Sec. School, Poonch"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4687883,
+      "immovable": 22000000,
+      "total": 26687884,
+      "liabilities": 2651439
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=405",
+    "retrieved": "2026-08-27"
+  }
+}

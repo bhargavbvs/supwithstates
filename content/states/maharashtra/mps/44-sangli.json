@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-44-sangli",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 44,
+    "name": "Sangli",
+    "reserved": null,
+    "assembly_segments": [
+      "Khanapur",
+      "Palus-Kadegaon",
+      "Jat",
+      "Tasgaon-Kavathe Mahankal",
+      "Miraj",
+      "Sangli"
+    ]
+  },
+  "representative": {
+    "name": "Vishal (Dada) Prakashbapu Patil",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From H.R. College (Mumbai University) in 2001, ICSE at Campion School, Mumbai in 1996"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 173195670,
+      "immovable": 162777605,
+      "total": 299065726,
+      "liabilities": 82679549
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3856",
+    "retrieved": "2026-08-27"
+  }
+}

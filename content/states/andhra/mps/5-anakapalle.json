@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Politician",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/f685752df24767870f48eb1ca42959e3ae82852f.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5268"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Board of Intermediate Education AP in 1983, SSC from MPHS School,Vasanthapet, Poddutur, Kadapa Dist. AP in 1981"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5268",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

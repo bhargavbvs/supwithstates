@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 38,
     "profession": null,
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/d9ec3c80147a1f19445e735c0740891cf8c107fe.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5125"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Physiotherapy- Sri Venkateswara Institute of Medical Sciences-Tirupati 2004-208"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5125",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

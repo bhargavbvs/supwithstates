@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-38-sultanpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 38,
+    "name": "Sultanpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Isauli",
+      "Sultanpur",
+      "Sadar",
+      "Kadipur",
+      "Lambhua"
+    ]
+  },
+  "representative": {
+    "name": "Rambhual Nishad",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Income From Agricultural Produce & Politician Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate BA from National Degree College Badhalganj Gorakhpur, Gorakhpur University Gorakhpur In 1984"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7105832,
+      "immovable": 30300000,
+      "total": 37405832,
+      "liabilities": 363092
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8073",
+    "retrieved": "2026-08-27"
+  }
+}

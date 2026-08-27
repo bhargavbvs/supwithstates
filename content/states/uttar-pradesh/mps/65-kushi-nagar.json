@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-65-kushi-nagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 65,
+    "name": "Kushi Nagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Khadda",
+      "Padrauna",
+      "Ramkola",
+      "Hata",
+      "Kushinagar"
+    ]
+  },
+  "representative": {
+    "name": "Vijay Kumar Dubay",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate In 1980 from Maharana Pratap Intermediate College Gorakhpur"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8674786,
+      "immovable": 51500000,
+      "total": 60174786,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9114",
+    "retrieved": "2026-08-27"
+  }
+}

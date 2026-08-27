@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-1-kachchh",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Kachchh",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Bhuj",
+      "Abdasa",
+      "Rapar",
+      "Gandhidham",
+      "Anjar",
+      "Mandvi",
+      "Morbi"
+    ]
+  },
+  "representative": {
+    "name": "Chavda Vinod Lakhamshi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Gujarat University Ahmadabad Year 2001, B.Ed From Shet R.D College Mundra Year 2003, L.L.B From Gujarat University Ahmadabad Year 2005, M.A Baba Sheb Ambedkar Open University In Year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22765147,
+      "immovable": 48215000,
+      "total": 70980147,
+      "liabilities": 15605895
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3769",
+    "retrieved": "2026-08-27"
+  }
+}

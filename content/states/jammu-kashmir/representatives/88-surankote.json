@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-88-surankote",
+  "constituency": {
+    "number": 88,
+    "name": "Surankote",
+    "district": "Punch",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Choudhary Mohammed Akram",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE- Civil"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 352205,
+      "immovable": 27000000,
+      "total": 28327205,
+      "liabilities": 400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=402",
+    "retrieved": "2026-08-27"
+  }
+}

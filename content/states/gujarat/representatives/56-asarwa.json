@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-56-asarwa",
+  "constituency": {
+    "number": 56,
+    "name": "Asarwa",
+    "district": "Ahmadabad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Darshna M. Vaghela",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Housewife",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.com in 1997 from womens university mulund"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4090844,
+      "immovable": 23500000,
+      "total": 27590844,
+      "liabilities": 6300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6285",
+    "retrieved": "2026-08-27"
+  }
+}

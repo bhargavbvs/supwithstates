@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-158-kamrej",
+  "constituency": {
+    "number": 158,
+    "name": "Kamrej",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Praful Pansheriya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "M.A.I Political Science From Virnarmad South Gujarat University Year 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26425464,
+      "immovable": 170550500,
+      "total": 196975964,
+      "liabilities": 21966088
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5483",
+    "retrieved": "2026-08-27"
+  }
+}

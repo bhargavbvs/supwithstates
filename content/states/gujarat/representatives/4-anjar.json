@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-4-anjar",
+  "constituency": {
+    "number": 4,
+    "name": "Anjar",
+    "district": "Kachchh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chhanga Trikam Bijal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. from Gujarat University Ahmedabad in 1987, BA from RR Lalan College Bhuj in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7249137,
+      "immovable": 2682262,
+      "total": 9931399,
+      "liabilities": 499406
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5290",
+    "retrieved": "2026-08-27"
+  }
+}

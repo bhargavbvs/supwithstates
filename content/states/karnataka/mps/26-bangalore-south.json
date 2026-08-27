@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-26-bangalore-south",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 26,
+    "name": "Bangalore South",
+    "reserved": null,
+    "assembly_segments": [
+      "Govindraj Nagar",
+      "Vijay Nagar",
+      "Chickpet",
+      "Basavanagudi",
+      "B.T.M Layout",
+      "Padmanaba Nagar",
+      "Jayanagar",
+      "Bommanahalli"
+    ]
+  },
+  "representative": {
+    "name": "Tejasvi Surya",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 33,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LLB., Bangalore Institute of Legal Studies (Affiliated to Bangalore University) Bengaluru 2013"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41030476,
+      "immovable": 0,
+      "total": 41030489,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2629",
+    "retrieved": "2026-08-27"
+  }
+}

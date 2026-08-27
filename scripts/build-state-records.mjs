@@ -12,7 +12,7 @@
 // belongs to). Nothing is invented at the join — a name that cannot be
 // placed is reported and left out, because a record filed under the wrong
 // number is worse than a record that is missing.
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { stateConfig } from './lib/states.mjs';
 
@@ -69,8 +69,16 @@ const full = JSON.parse(readFileSync('content/representatives-full.json', 'utf8'
 const stateDir = `content/states/${STATE}`;
 
 const election = MPS ? 'LokSabha2024' : CONF.assembly;
+// The Lok Sabha was crawled per state for the first two and then once for
+// the whole country, so both file names exist. The per-state file wins
+// where it is present; the national one covers everyone else, and the
+// seats filter below keeps a state to its own members either way.
+const lokSabhaFiles = [
+  `.myneta-src/detail-LokSabha2024-${CONF.myNetaState.replace(/\s+/g, '')}.ndjson`,
+  '.myneta-src/detail-LokSabha2024.ndjson',
+];
 const detailFile = MPS
-  ? `.myneta-src/detail-LokSabha2024-${CONF.myNetaState.replace(/\s+/g, '')}.ndjson`
+  ? (lokSabhaFiles.find((f) => existsSync(f)) ?? lokSabhaFiles[0])
   : `.myneta-src/detail-${CONF.assembly}.ndjson`;
 if (!existsSync(detailFile)) { console.error(`missing ${detailFile} — run scripts/crawl-myneta.mjs first`); process.exit(1); }
 
@@ -93,8 +101,25 @@ const serious = new Set(JSON.parse(readFileSync(`.myneta-src/serious-${election}
 // seventy-fourth is Bihar, which has two different seats both named Pipra,
 // and those are told apart by district in findPlace below.
 const isByeElection = (c) => /BYE\s*ELECTION/i.test(String(c.district ?? ''));
+
+// A by-election row has "BYE ELECTION ON" where its district would be, so
+// it arrives with no district to match on — and without one, Uttarakhand's
+// MANGLORE could not reach the map's "Manglaur" (three edits) and silently
+// failed to place. The general election for the same seat does carry the
+// district, so a by-election borrows it. Left unfixed this shipped the
+// member Manglaur replaced in July 2024 as though he still held the seat.
+const districtOfSeat = new Map();
+for (const c of full.constituencies) {
+  if (c.election === election && !isByeElection(c) && c.district) {
+    districtOfSeat.set(key(c.name), c.district);
+  }
+}
+const districtFor = (c) => (isByeElection(c) ? districtOfSeat.get(key(c.name)) ?? null : c.district);
+// The Lok Sabha files three states under a different string than the
+// assembly does — see lokSabhaState in scripts/lib/states.mjs.
+const houseState = MPS ? (cfg.lokSabhaState ?? CONF.myNetaState) : CONF.myNetaState;
 const seats = full.constituencies
-  .filter((c) => c.election === election && c.winner && (!MPS || c.state === CONF.myNetaState))
+  .filter((c) => c.election === election && c.winner && (!MPS || c.state === houseState))
   .sort((a, b) => (isByeElection(a) ? 1 : 0) - (isByeElection(b) ? 1 : 0)
     || a.constituencyId - b.constituencyId);
 
@@ -118,6 +143,20 @@ const reservedOf = (name) => (/\(\s*SC/i.test(name) ? 'SC' : /\(\s*ST/i.test(nam
 // the tie-break allows the same near-match the names get.
 const findPlace = (name, district) => {
   const k = key(name);
+  // Seats the join cannot reach on its own. Each was checked against the
+  // Election Commission or the state's own district administration before
+  // being written down — see the citations in scripts/lib/states.mjs.
+  // An alias is either a map number, or a number and the name the map
+  // should have carried — Tamil Nadu's AC 70 is labelled "Vandavasi (SC)",
+  // its neighbour's name copied onto it, so without correcting the name
+  // the site would show two different constituencies both called Vandavasi.
+  const alias = cfg.aliases?.[String(name).toUpperCase()];
+  if (alias) {
+    const number = typeof alias === 'number' ? alias : alias.number;
+    const hit = places.find((p) => p.number === number);
+    if (!hit) throw new Error(`${STATE}: alias for "${name}" points at AC ${number}, which is not on the map`);
+    return typeof alias === 'number' ? hit : { ...hit, name: alias.name ?? hit.name };
+  }
   const exact = places.filter((p) => p.key === k);
   if (exact.length === 1) return exact[0];
 
@@ -145,7 +184,13 @@ const findPlace = (name, district) => {
     // The two sources disagree about district names often enough — PURVI
     // CHAMPARAN against PURBA CHAMPARAN, JAIPUR against JAIPUR(GRAMIN) —
     // that this accepts a near match and a containment, not only equality.
-    return pd === d || within(pd, d, 3) || pd.includes(d) || d.includes(pd);
+    // Three edits is a lot on a short name: it turns REWA into MORENA,
+    // two unrelated districts four hundred kilometres apart, and that
+    // false match was one of the candidates blocking Joura. Scale the
+    // tolerance to the length of the word so long names keep their
+    // latitude and short ones do not get any.
+    const cap = Math.min(3, Math.floor(Math.max(pd.length, d.length) / 3));
+    return pd === d || (cap > 0 && within(pd, d, cap)) || pd.includes(d) || d.includes(pd);
   };
 
   // Reservation and district narrow a shortlist; neither is allowed to
@@ -192,22 +237,41 @@ const records = [];
 if (MPS) {
   // A parliamentary seat's number and its assembly segments both come
   // from the map, which carries PC_NO and PC_NAME on every constituency.
+  // A parliamentary seat's number is whichever number most of its assembly
+  // segments carry, not whichever one happens to come first. The national
+  // layer labels one of South Delhi's segments with West Delhi's number, so
+  // taking the first gave two different seats the number 6 and wrote one
+  // over the other. A majority is proof against a single mislabelled
+  // segment in a way that a first sighting is not.
   const byPc = new Map();
   for (const p of places) {
-    if (!byPc.has(key(p.pcName))) {
-      byPc.set(key(p.pcName), { number: p.pcNumber, name: p.pcName, segments: [] });
+    const k = key(p.pcName);
+    if (!byPc.has(k)) byPc.set(k, { name: p.pcName, segments: [], votes: new Map() });
+    const pc = byPc.get(k);
+    pc.segments.push(p.name);
+    pc.votes.set(p.pcNumber, (pc.votes.get(p.pcNumber) ?? 0) + 1);
+  }
+  for (const pc of byPc.values()) {
+    pc.number = [...pc.votes.entries()].sort((a, b) => b[1] - a[1])[0][0];
+  }
+  const claimed = new Map();
+  for (const pc of byPc.values()) {
+    if (claimed.has(pc.number)) {
+      throw new Error(`${STATE}: parliamentary seat ${pc.number} is claimed by both `
+        + `${claimed.get(pc.number)} and ${pc.name}`);
     }
-    byPc.get(key(p.pcName)).segments.push(p.name);
+    claimed.set(pc.number, pc.name);
   }
   for (const seat of seats) {
-    const near = [...byPc.values()].filter((v) => within(key(v.name), key(seat.name)));
-    const pc = byPc.get(key(seat.name)) ?? (near.length === 1 ? near[0] : null);
+    const wanted = key(cfg.pcAliases?.[String(seat.name).toUpperCase()] ?? seat.name);
+    const near = [...byPc.values()].filter((v) => within(key(v.name), wanted));
+    const pc = byPc.get(wanted) ?? (near.length === 1 ? near[0] : null);
     if (!pc) { missing.push(seat.name); continue; }
     records.push({ seat, place: { number: pc.number, name: pc.name, segments: pc.segments } });
   }
 } else {
   for (const seat of seats) {
-    const place = findPlace(seat.name, isByeElection(seat) ? null : seat.district);
+    const place = findPlace(seat.name, districtFor(seat));
     if (!place) { missing.push(seat.name); continue; }
     records.push({ seat, place });
   }
@@ -226,7 +290,11 @@ if (uncrawled.length) {
   process.exit(1);
 }
 
+// Cleared first. Without this a record that stops being produced — a seat
+// renamed, a name that no longer joins — stays on disk from the last run
+// and ships as though it were current.
 const outDir = join(stateDir, MPS ? 'mps' : 'representatives');
+rmSync(outDir, { recursive: true, force: true });
 mkdirSync(outDir, { recursive: true });
 const retrieved = new Date().toISOString().slice(0, 10);
 let written = 0;
@@ -274,6 +342,11 @@ for (const { seat, place } of records) {
       elected_party: w.party,
       current_party: w.party,
       party_changed: null,
+      // MyNeta marks a by-election but does not publish its date, so the
+      // year here stays the year of the assembly this member sits in. The
+      // flag is the part we actually know: that they arrived at a
+      // by-election rather than at the general.
+      ...(isByeElection(seat) ? { by_election: true } : {}),
       term_start: MPS ? '2024-06' : `${seat.year}-12`,
       age_at_election: d.age ?? null,
       profession: d.profession ?? null,
@@ -312,8 +385,9 @@ for (const { seat, place } of records) {
 }
 
 const seatsFilled = new Set(records.map(({ place }) => place.number)).size - noAffidavit.length;
-console.log(`${STATE}${MPS ? ' MPs' : ''}: ${seatsFilled} of ${cfg.seats} seats → ${outDir}`
-  + (written > seatsFilled ? ` (${written - seatsFilled} superseded by a by-election)` : ''));
+console.log(`${STATE}${MPS ? ' MPs' : ''}: ${seatsFilled}${MPS ? '' : ` of ${cfg.seats}`} seats → ${outDir}`
+  + (records.length - noAffidavit.length > seatsFilled
+    ? ` (${records.length - noAffidavit.length - seatsFilled} superseded by a by-election)` : ''));
 if (missing.length) console.log(`  not placed: ${[...new Set(missing)].join(', ')}`);
 if (noAffidavit.length) {
   console.log(`  no affidavit published yet: ${noAffidavit.length}`

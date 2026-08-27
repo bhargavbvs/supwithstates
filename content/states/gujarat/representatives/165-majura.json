@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-165-majura",
+  "constituency": {
+    "number": 165,
+    "name": "Majura",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harsh Ramesh Sanghvi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Diamond Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass From T And T.V Highschool Nanpura Surat Year 31/05/2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 123274927,
+      "immovable": 51000000,
+      "total": 174274927,
+      "liabilities": 83177314
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5423",
+    "retrieved": "2026-08-27"
+  }
+}

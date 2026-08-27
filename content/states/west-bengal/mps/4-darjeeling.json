@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-4-darjeeling",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Darjeeling",
+    "reserved": null,
+    "assembly_segments": [
+      "Kalimpong",
+      "Darjeeling",
+      "Kurseong",
+      "Matigara-Naxalbari",
+      "Siliguri",
+      "Phansidewa",
+      "Chopra"
+    ]
+  },
+  "representative": {
+    "name": "Raju Bista",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 38,
+    "profession": "Managing Director, Surya Roshni Ltd.",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (B.A.) (General) from Manipur University, Duration : 2004 - 2005 to 2006 - 2007"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 293240262,
+      "immovable": 182117003,
+      "total": 475357268,
+      "liabilities": 2794788
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2218",
+    "retrieved": "2026-08-27"
+  }
+}

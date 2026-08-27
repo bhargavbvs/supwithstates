@@ -1,0 +1,74 @@
+{
+  "id": "tr-pc-1-tripura-west",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Tripura West",
+    "reserved": null,
+    "assembly_segments": [
+      "Simna",
+      "Mohanpur",
+      "Bamutia",
+      "Krishnapur",
+      "Mandaibazar",
+      "Barjala",
+      "Khayerpur",
+      "Agartala",
+      "Majlishpur",
+      "Ramnagar",
+      "Banamalipur",
+      "Town Bordowali",
+      "Pratapgarh",
+      "Takarjala",
+      "Suryamaninagar",
+      "Badharghat",
+      "Golaghati",
+      "Kamalasagar",
+      "Bagma",
+      "Bishalgarh",
+      "Charilam",
+      "Boxanagar",
+      "Matarbari",
+      "Nalchar",
+      "Radhakishorepur",
+      "Kakraban-Salgarah",
+      "Sonamura",
+      "Dhanpur",
+      "Santirbazar",
+      "Rajnagar",
+      "Belonia"
+    ]
+  },
+  "representative": {
+    "name": "Biplab Kumar Deb",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A Pass From Tripura University In The Year 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24144886,
+      "immovable": 26228456,
+      "total": 49923347,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1156",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-54-faizabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 54,
+    "name": "Faizabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Dariyabad",
+      "Rudauli",
+      "Bikapur",
+      "Ayodhya",
+      "Milkipur"
+    ]
+  },
+  "representative": {
+    "name": "Awadhesh Prasad",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 79,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLB Lucknow University Lucknow 1968, MA From DAB College Kanpur Year 1966"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11634071,
+      "immovable": 41336000,
+      "total": 52967071,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7190",
+    "retrieved": "2026-08-27"
+  }
+}

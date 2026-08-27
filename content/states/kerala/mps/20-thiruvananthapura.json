@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-20-thiruvananthapura",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 20,
+    "name": "Thiruvananthapura",
+    "reserved": null,
+    "assembly_segments": [
+      "Kazhakoottam",
+      "Parassala",
+      "Vattiyoorkavu",
+      "Thiruvananthapura",
+      "Nemom",
+      "Neyyattinkara",
+      "Kovalam"
+    ]
+  },
+  "representative": {
+    "name": "Shashi Tharoor",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctorate Honoris Causa in History from University of Bucharest, Romania in 2008, Doctor of Letters in International Affairs (Honorary) from University of Puget Soud, USA in 2000, PhD in Law & Diplomacy in 1978, MA in Law & Diplomacy in 1977 from Fletcher"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 493157605,
+      "immovable": 67504621,
+      "total": 560656126,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2313",
+    "retrieved": "2026-08-27"
+  }
+}

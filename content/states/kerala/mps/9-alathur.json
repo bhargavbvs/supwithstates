@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-9-alathur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Alathur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Chittur",
+      "Chelakkara",
+      "Tarur",
+      "Kunnamkulam",
+      "Alathur",
+      "Wadakkanchery",
+      "Nemmara"
+    ]
+  },
+  "representative": {
+    "name": "K.Radhakrishnan",
+    "election": "2024",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Economics, Kerala Varma College, 1985-88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 304637,
+      "immovable": 3710000,
+      "total": 4014637,
+      "liabilities": 406028
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2268",
+    "retrieved": "2026-08-27"
+  }
+}

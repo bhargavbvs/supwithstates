@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-147-karjan",
+  "constituency": {
+    "number": 147,
+    "name": "Karjan",
+    "district": "Vadodara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akshaykumar Ishvarbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc. From Agriculture University Navsari. Year-1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11508867,
+      "immovable": 23152305,
+      "total": 34661172,
+      "liabilities": 1250000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6007",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-19-dahod",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 19,
+    "name": "Dahod",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Jhalod",
+      "Santrampur",
+      "Fatepura",
+      "Limkheda",
+      "Dahod",
+      "Devgadhbaria",
+      "Garbada"
+    ]
+  },
+  "representative": {
+    "name": "Jaswantsinh Sumanbhai Bhabhor",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Social Activist, Agriculture And Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. Ed From Barkatullah College Bhopal In The Year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12709861,
+      "immovable": 35735000,
+      "total": 48404861,
+      "liabilities": 6287842
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3748",
+    "retrieved": "2026-08-27"
+  }
+}

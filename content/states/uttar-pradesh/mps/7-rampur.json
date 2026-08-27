@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-7-rampur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Rampur",
+    "reserved": null,
+    "assembly_segments": [
+      "Suar",
+      "Chamraua",
+      "Bilaspur",
+      "Rampur",
+      "Milak"
+    ]
+  },
+  "representative": {
+    "name": "Mohibbullah",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (JAMIA MILIA ISLAMIA NEW DELHI) 2009"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1005342,
+      "immovable": 3500000,
+      "total": 4505342,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=902",
+    "retrieved": "2026-08-27"
+  }
+}

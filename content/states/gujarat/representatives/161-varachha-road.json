@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-161-varachha-road",
+  "constituency": {
+    "number": 161,
+    "name": "Varachha Road",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kishor Kanani (Kumar)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Social Activity",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass (Shri D.C. Kothari Secondary and Varachha road surat 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10289258,
+      "immovable": 3200000,
+      "total": 13489258,
+      "liabilities": 1025000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5449",
+    "retrieved": "2026-08-27"
+  }
+}

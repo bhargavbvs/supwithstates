@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-7-jhanjharpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Jhanjharpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Khajauli",
+      "Babubarhi",
+      "Laukaha",
+      "Rajnagar",
+      "Phulparas",
+      "Jhanjharpur"
+    ]
+  },
+  "representative": {
+    "name": "Ramprit Mandal",
+    "election": "2024",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Social Service and Politics (MPs salary)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Kisan High School Bynaha in 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4636772,
+      "immovable": 101342000,
+      "total": 105978772,
+      "liabilities": 426593
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3437",
+    "retrieved": "2026-08-27"
+  }
+}

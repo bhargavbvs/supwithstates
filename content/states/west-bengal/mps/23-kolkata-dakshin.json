@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-23-kolkata-dakshin",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 23,
+    "name": "Kolkata Dakshin",
+    "reserved": null,
+    "assembly_segments": [
+      "Kasba",
+      "Behala Purba",
+      "Behala Paschim",
+      "Kolkata Port",
+      "Bhabanipur",
+      "Rashbehari",
+      "Ballygunge"
+    ]
+  },
+  "representative": {
+    "name": "Mala Roy",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Calcutta University in 1976"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10397090,
+      "immovable": 5000000,
+      "total": 15397092,
+      "liabilities": 795517
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9045",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-171-vyara",
+  "constituency": {
+    "number": 171,
+    "name": "Vyara",
+    "district": "Tapi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kokani Mohanbhai Dhedabhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Farming & Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A With Gujarati From Vir Narmad South Gujarat Surat Year 1999, B.Ed From Indira Gandhi National Open University Delhi Year 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 956590,
+      "immovable": 900000,
+      "total": 1856590,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5403",
+    "retrieved": "2026-08-27"
+  }
+}

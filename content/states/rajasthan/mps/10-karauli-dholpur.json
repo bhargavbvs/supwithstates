@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-10-karauli-dholpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Karauli ?dholpur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Todabhim",
+      "Rajakhera",
+      "Bari",
+      "Dholpur",
+      "Hindaun",
+      "Baseri",
+      "Karauli",
+      "Sapotra"
+    ]
+  },
+  "representative": {
+    "name": "Bhajan Lal Jatav",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Agriculture work, Business, Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Rajasthan Secondary Board, Rajasthan Ajmer In 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13547184,
+      "immovable": 19735000,
+      "total": 33282184,
+      "liabilities": 18978157
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=451",
+    "retrieved": "2026-08-27"
+  }
+}

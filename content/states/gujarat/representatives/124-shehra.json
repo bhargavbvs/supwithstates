@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-124-shehra",
+  "constituency": {
+    "number": 124,
+    "name": "Shehra",
+    "district": "Panch Mahals",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ahir(Bharvad) Jethabhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 72,
+    "profession": "Farming, Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B A Pass From Gujarat University Year May 2005, HSC Pass From Shrimati S J Dave Sarvajanik Highschool Shehera Year March 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 87912503,
+      "immovable": 98030000,
+      "total": 185942503,
+      "liabilities": 51741028
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6127",
+    "retrieved": "2026-08-27"
+  }
+}

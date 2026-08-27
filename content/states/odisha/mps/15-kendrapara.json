@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-15-kendrapara",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Kendrapara",
+    "reserved": null,
+    "assembly_segments": [
+      "Aul",
+      "Rajanagar",
+      "Salipur",
+      "Kendrapara",
+      "Mahanga",
+      "Patkura",
+      "Mahakalapada"
+    ]
+  },
+  "representative": {
+    "name": "Baijayant Panda",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Social Service, Politics and Business/Corporate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B Tech Passed from Michigan Technological University (Houghton, United States) in 1985"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1216013384,
+      "immovable": 264865324,
+      "total": 1480878708,
+      "liabilities": 9850836
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9427",
+    "retrieved": "2026-08-27"
+  }
+}

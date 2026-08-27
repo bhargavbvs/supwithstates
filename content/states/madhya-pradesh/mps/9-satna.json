@@ -1,0 +1,50 @@
+{
+  "id": "mp-pc-9-satna",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Satna",
+    "reserved": null,
+    "assembly_segments": [
+      "Chitrakoot",
+      "Raigaon",
+      "Rampur-Baghelan",
+      "Satna",
+      "Nagod",
+      "Amarpatan",
+      "Maihar"
+    ]
+  },
+  "representative": {
+    "name": "Ganesh Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Politics & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Awadhesh Pratap Singh University Rewa in 1986"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 42186128,
+      "immovable": 52495000,
+      "total": 94681128,
+      "liabilities": 22864373
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1836",
+    "retrieved": "2026-08-27"
+  }
+}

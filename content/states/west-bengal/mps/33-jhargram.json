@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-33-jhargram",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 33,
+    "name": "Jhargram",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Nayagram",
+      "Gopiballavpur",
+      "Jhargram",
+      "Garbeta",
+      "Salboni",
+      "Binpur",
+      "Bandwan"
+    ]
+  },
+  "representative": {
+    "name": "Kalipada Saren Kherwal",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": "Retired Bank Employee",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA from Rabindra Bharati University in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3401058,
+      "immovable": 9622178,
+      "total": 13023236,
+      "liabilities": 205892
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7941",
+    "retrieved": "2026-08-27"
+  }
+}

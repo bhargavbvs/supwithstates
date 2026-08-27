@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-17-parbhani",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Parbhani",
+    "reserved": null,
+    "assembly_segments": [
+      "Partur",
+      "Jintur",
+      "Ghansawangi",
+      "Parbhani",
+      "Pathri",
+      "Gangakhed"
+    ]
+  },
+  "representative": {
+    "name": "Jadhav Sanjay ( Bandu ) Haribhau",
+    "election": "2024",
+    "elected_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "current_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Agriculture, Dairy Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "12th Fail From Shri Gurubuddhi Swami (Junior) College Purna Parbhani In The Year 1989"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 34276537,
+      "immovable": 68429986,
+      "total": 102706523,
+      "liabilities": 47495341
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2435",
+    "retrieved": "2026-08-27"
+  }
+}

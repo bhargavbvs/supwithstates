@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-66-deoria",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 66,
+    "name": "Deoria",
+    "reserved": null,
+    "assembly_segments": [
+      "Fazilnagar",
+      "Tamkuhi Raj",
+      "Pathardeva",
+      "Deoria",
+      "Rampur Karkhana"
+    ]
+  },
+  "representative": {
+    "name": "Shashank Mani",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Consultant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From I.M.D. Lausanne, Switzerland, Year-1996 & B.Tech. From IIT, Indina Institute of Technology, Delhi, Year-1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 149840207,
+      "immovable": 104800000,
+      "total": 255540212,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9465",
+    "retrieved": "2026-08-27"
+  }
+}

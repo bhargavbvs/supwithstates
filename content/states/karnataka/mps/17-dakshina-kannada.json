@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-17-dakshina-kannada",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Dakshina Kannada",
+    "reserved": null,
+    "assembly_segments": [
+      "Belthangady",
+      "Moodabidri",
+      "Mangalore City North",
+      "Mangalore City South",
+      "Bantval",
+      "Mangalore",
+      "Sullia",
+      "Puttur"
+    ]
+  },
+  "representative": {
+    "name": "Captain Brijesh Chowta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BSc., St. Aloysius college, mangalore university 2002, Cerftificate course in business management of defence officers in Indian institute of management , indore 2010"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2706365,
+      "immovable": 4350000,
+      "total": 7056365,
+      "liabilities": 962010
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1889",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-62-ramnagar",
+  "constituency": {
+    "number": 62,
+    "name": "Ramnagar",
+    "district": "Udhampur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sunil Bhardwaj",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Professor in Jammu University",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctorate in Business Management from Jammu University 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1113463,
+      "immovable": 4000000,
+      "total": 5017463,
+      "liabilities": 1200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=682",
+    "retrieved": "2026-08-27"
+  }
+}

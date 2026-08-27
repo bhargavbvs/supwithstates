@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-130-jhalod",
+  "constituency": {
+    "number": 130,
+    "name": "Jhalod",
+    "district": "Dahod",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Maheshbhai Somjibhai Bhuriya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Agriculture, Animal husbandry",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th pass in 2002 M.S. High School Gandhinagar Gujarat"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6525128,
+      "immovable": 19625775,
+      "total": 26150903,
+      "liabilities": 2721519
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6094",
+    "retrieved": "2026-08-27"
+  }
+}

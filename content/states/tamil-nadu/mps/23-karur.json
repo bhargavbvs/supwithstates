@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-23-karur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 23,
+    "name": "Karur",
+    "reserved": null,
+    "assembly_segments": [
+      "Aravakurichi",
+      "Karur",
+      "Krishnarayapuram",
+      "Vedasandur",
+      "Manapparai",
+      "Viralimalai"
+    ]
+  },
+  "representative": {
+    "name": "Jothimani. S",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Agriculture and writer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phil. from Annamalai university 2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8092373,
+      "immovable": 7260000,
+      "total": 15352373,
+      "liabilities": 1454722
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1264",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-36-gandhinagar-north",
+  "constituency": {
+    "number": 36,
+    "name": "Gandhinagar(North)",
+    "district": "Gandhinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ritaben Ketankumar Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Builder Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from Gujarat University in Year 2006, PGDCA from Hemchandra North Gujarat University in Year 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 131130267,
+      "immovable": 76351760,
+      "total": 207482027,
+      "liabilities": 15550108
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6215",
+    "retrieved": "2026-08-27"
+  }
+}

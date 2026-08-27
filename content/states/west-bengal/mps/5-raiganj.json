@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-5-raiganj",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Raiganj",
+    "reserved": null,
+    "assembly_segments": [
+      "Islampur",
+      "Goalpokhar",
+      "Chakulia",
+      "Karandighi",
+      "Hemtabad",
+      "Kaliaganj",
+      "Raiganj"
+    ]
+  },
+  "representative": {
+    "name": "Kartick Chandra Paul",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce in the Year 1994, Kaliyaganj College under North Bengal University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17936857,
+      "immovable": 32896000,
+      "total": 50832860,
+      "liabilities": 26816738
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1801",
+    "retrieved": "2026-08-27"
+  }
+}

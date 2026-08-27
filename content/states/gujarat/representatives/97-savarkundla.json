@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-97-savarkundla",
+  "constituency": {
+    "number": 97,
+    "name": "Savarkundla",
+    "district": "Amreli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kaswala Mahesh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business Consulting",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Dr Baba Saheb Ambedkar Open University Year 2019, B.A From Dr Baba Saheb Ambedkar Open University Year 2016, Diploma Automobile Engineer Polytechnic Ahmedabad Year 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36656399,
+      "immovable": 57844287,
+      "total": 94500686,
+      "liabilities": 27982598
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5527",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "hp-pc-3-hamirpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Hamirpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Dehra",
+      "Jaswan-Pragpur",
+      "Sujanpur",
+      "Chintpurni",
+      "Gagret",
+      "Dharampur",
+      "Nadaun",
+      "Hamirpur",
+      "Bhoranj",
+      "Kutlehar",
+      "Barsar",
+      "Ghumarwin",
+      "Haroli",
+      "Bilaspur",
+      "Una",
+      "Jhanduta",
+      "Sri Naina Deviji"
+    ]
+  },
+  "representative": {
+    "name": "Anurag Singh Thakur",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Doaba College, Jalandhar (affiliated to Guru Nanak Dev University, Amritsar), Year- 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 65544328,
+      "immovable": 57119077,
+      "total": 122663406,
+      "liabilities": 14374994
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8760",
+    "retrieved": "2026-08-27"
+  }
+}

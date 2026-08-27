@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-14-kallakurichi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Kallakurichi",
+    "reserved": null,
+    "assembly_segments": [
+      "Rishivandiyam",
+      "Sankarapuram",
+      "Yercaud",
+      "Kallakurichi",
+      "Attur",
+      "Gangavalli"
+    ]
+  },
+  "representative": {
+    "name": "Malaiyarasan D",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Diplomo in Co-operattion Cuddalore - May 1997. M.Com., (Banking and Insurance Management ) Annamalai University Annamalai Nagar , (Chithambaram) - 2020-2021"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1488980,
+      "immovable": 7228000,
+      "total": 8716980,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=133",
+    "retrieved": "2026-08-27"
+  }
+}

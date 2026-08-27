@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-116-nadiad",
+  "constituency": {
+    "number": 116,
+    "name": "Nadiad",
+    "district": "Kheda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Desai Pankajbhai Vinubhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Farming, MLA (Social Worker)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor Of Science From J & J College Of Science Nadiad (Gujarat University Ahmedabad) In Year 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29688638,
+      "immovable": 81111568,
+      "total": 110800206,
+      "liabilities": 8955454
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6155",
+    "retrieved": "2026-08-27"
+  }
+}

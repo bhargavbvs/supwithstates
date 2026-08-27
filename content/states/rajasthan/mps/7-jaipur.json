@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-7-jaipur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Jaipur",
+    "reserved": null,
+    "assembly_segments": [
+      "Vidhyadhar Nagar",
+      "Bagru",
+      "Sanganer",
+      "Malviya Nagar",
+      "Kishan Pole",
+      "Adarsh Nagar",
+      "Hawa Mahal",
+      "Civil Lines"
+    ]
+  },
+  "representative": {
+    "name": "Manju Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Jewellery Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Rajasthan University in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11711853,
+      "immovable": 11950000,
+      "total": 23661843,
+      "liabilities": 4169859
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=417",
+    "retrieved": "2026-08-27"
+  }
+}

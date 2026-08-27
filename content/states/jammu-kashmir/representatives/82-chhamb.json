@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-82-chhamb",
+  "constituency": {
+    "number": 82,
+    "name": "Chhamb",
+    "district": "Jammu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Sharma",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From University of Wales Institute, CARDIFF in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14470588,
+      "immovable": 56585750,
+      "total": 71056338,
+      "liabilities": 1123239
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=935",
+    "retrieved": "2026-08-27"
+  }
+}

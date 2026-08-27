@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-2-mandvi",
+  "constituency": {
+    "number": 2,
+    "name": "Mandvi",
+    "district": "Kachchh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aniruddha Bhailal Dave",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Lawyer And Farming",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MPA From KSKV Kachchh University Year April 2011, LLB From Gujarat University Year October 1995, TYBA From Gujarat University Year April 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 57031946,
+      "immovable": 33665000,
+      "total": 90696946,
+      "liabilities": 5989452
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5270",
+    "retrieved": "2026-08-27"
+  }
+}

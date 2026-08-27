@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-52-jamalpur-khadia",
+  "constituency": {
+    "number": 52,
+    "name": "Jamalpur-Khadia",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Imran Khedawala",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Family Cloth Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th From S.S.C. From Shri N.D. Shukla Navjivan High School In Year-1983"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4974149,
+      "immovable": 10200000,
+      "total": 15174149,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6269",
+    "retrieved": "2026-08-27"
+  }
+}

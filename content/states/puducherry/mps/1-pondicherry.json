@@ -1,0 +1,73 @@
+{
+  "id": "py-pc-1-pondicherry",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Pondicherry",
+    "reserved": null,
+    "assembly_segments": [
+      "Yanam",
+      "Mannadipet",
+      "Oussudu",
+      "Kalapet",
+      "Lawspet",
+      "Indira Nagar",
+      "Kamraj Nagar",
+      "Muthialpet",
+      "Thattanchavady",
+      "Thirubhuvanai",
+      "Raj Bhavan",
+      "Ozhukarai",
+      "Nellithope",
+      "Kadirgamam",
+      "Orleampeth",
+      "Villianur",
+      "Oupalam",
+      "Mudaliarpet",
+      "Ariankuppam",
+      "Mangalam",
+      "Manavely",
+      "Nettapakkam",
+      "Embalam",
+      "Mahe",
+      "Bahour",
+      "Nedungadu",
+      "Karaikal North",
+      "Thirunallar",
+      "Karaikal South",
+      "Neravy- T.R. Pattin"
+    ]
+  },
+  "representative": {
+    "name": "Ve Vaithilingam",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 73,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Madurai Kamaraj University by Distance Education in 1968-1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 100343696,
+      "immovable": 56906000,
+      "total": 157249699,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=531",
+    "retrieved": "2026-08-27"
+  }
+}

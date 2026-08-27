@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-35-rajpora",
+  "constituency": {
+    "number": 35,
+    "name": "Rajpora",
+    "district": "Pulwama",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ghulam Mohi Uddin Mir",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Politician (Ex. MLA)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Mehjoor Memorial Govt. Boys Higher Sec. School Pulwama, JKBOSE In 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 771070,
+      "immovable": 46000000,
+      "total": 46771070,
+      "liabilities": 1573938
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=66",
+    "retrieved": "2026-08-27"
+  }
+}

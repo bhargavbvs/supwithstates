@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-106-gadhada",
+  "constituency": {
+    "number": 106,
+    "name": "Gadhada",
+    "district": "Bhavnagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mahant Shambhunath Tundiya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Gujarat University, Year-1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10111662,
+      "immovable": 37975000,
+      "total": 48086662,
+      "liabilities": 119600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5179",
+    "retrieved": "2026-08-27"
+  }
+}

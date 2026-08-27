@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-47-pahalgam",
+  "constituency": {
+    "number": 47,
+    "name": "Pahalgam",
+    "district": "Anantnag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Altaf Ahmad Wani",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. Mechanical from Islamia Institute of Technology, Bangalore, Course in1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8896544,
+      "immovable": 38672497,
+      "total": 52654465,
+      "liabilities": 6055149
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=111",
+    "retrieved": "2026-08-27"
+  }
+}

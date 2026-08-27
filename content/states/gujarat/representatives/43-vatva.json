@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-43-vatva",
+  "constituency": {
+    "number": 43,
+    "name": "Vatva",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babusinh Sarabhai Jadav",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Business & Computer Job Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC Old (11th) From The Nuera High School Sanand Gujarat Secondary School Certificate Examination Board, Year-1974 & Welder From ITI Kubernagar Naroda, Ahmedabad, Year-1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12729101,
+      "immovable": 1749000,
+      "total": 14478101,
+      "liabilities": 3120721
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6236",
+    "retrieved": "2026-08-27"
+  }
+}

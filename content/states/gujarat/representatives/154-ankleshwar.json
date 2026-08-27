@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-154-ankleshwar",
+  "constituency": {
+    "number": 154,
+    "name": "Ankleshwar",
+    "district": "Bharuch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ishwarsinh Thakorbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "LLB Second Semister From South Gujarat University Year May 2001, B.A From South Gujarat University Surat Year April 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12049011,
+      "immovable": 35838589,
+      "total": 47887600,
+      "liabilities": 7420975
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5081",
+    "retrieved": "2026-08-27"
+  }
+}

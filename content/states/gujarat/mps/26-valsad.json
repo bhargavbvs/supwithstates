@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-26-valsad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 26,
+    "name": "Valsad",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Vansda",
+      "Valsad",
+      "Dangs",
+      "Dharampur",
+      "Pardi",
+      "Kaprada",
+      "Umbergaon"
+    ]
+  },
+  "representative": {
+    "name": "Dhaval Laxmanbhai Patel",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 37,
+    "profession": "Consultancy",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.tech Sadar Vallavbhai National Institute Of Technology Surat in 2008 , M.B.A S.I.U Pune in Year 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24650853,
+      "immovable": 43200000,
+      "total": 67850853,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3502",
+    "retrieved": "2026-08-27"
+  }
+}

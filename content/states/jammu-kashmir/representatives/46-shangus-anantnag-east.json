@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-46-shangus-anantnag-east",
+  "constituency": {
+    "number": 46,
+    "name": "Shangus - Anantnag East",
+    "district": "Anantnag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Reyaz Ahmad Khan",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Lawyer and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc LLB From Unversityof Kashmir 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4391902,
+      "immovable": 49430000,
+      "total": 53660821,
+      "liabilities": 1548600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=231",
+    "retrieved": "2026-08-27"
+  }
+}

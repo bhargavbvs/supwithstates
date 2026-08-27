@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-112-anand",
+  "constituency": {
+    "number": 112,
+    "name": "Anand",
+    "district": "Anand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogesh R. Patel (Bapji)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business, Farming, Rent Income",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC From D.N .High School Anand In Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 105461951,
+      "immovable": 364230000,
+      "total": 469691951,
+      "liabilities": 11379371
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6170",
+    "retrieved": "2026-08-27"
+  }
+}

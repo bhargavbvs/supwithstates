@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-41-ghatlodia",
+  "constituency": {
+    "number": 41,
+    "name": "Ghatlodia",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhupendrabhai Rajnikant Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in civil Engineering in 1982 from Government Polytechnic Ahmedabad, SSC in 1979 from JB Shah Jyoti Higher Secondary Ahmedabad,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36340688,
+      "immovable": 45940000,
+      "total": 82280688,
+      "liabilities": 15310680
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6229",
+    "retrieved": "2026-08-27"
+  }
+}

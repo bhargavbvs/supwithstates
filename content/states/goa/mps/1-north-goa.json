@@ -1,0 +1,63 @@
+{
+  "id": "ga-pc-1-north-goa",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "North Goa",
+    "reserved": null,
+    "assembly_segments": [
+      "Pernem",
+      "Mandrem",
+      "Bicholim",
+      "Tivim",
+      "Poriem",
+      "Valpoi",
+      "Siolim",
+      "Mapusa",
+      "Maem",
+      "Aldona",
+      "Calangute",
+      "Saligao",
+      "Porvorim",
+      "Sanquelim",
+      "Cumbarjua",
+      "Priol",
+      "St. Cruz",
+      "Panaji",
+      "St. Andre",
+      "Taleigao"
+    ]
+  },
+  "representative": {
+    "name": "Shripad Yesso Naik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 71,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate BA From Dempo Collage of Arts and Science Bombay University 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20567671,
+      "immovable": 88115862,
+      "total": 108683533,
+      "liabilities": 508675
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3668",
+    "retrieved": "2026-08-27"
+  }
+}

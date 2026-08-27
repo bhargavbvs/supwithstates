@@ -1,0 +1,53 @@
+{
+  "id": "dl-pc-4-new-delhi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "New Delhi",
+    "reserved": null,
+    "assembly_segments": [
+      "Moti Nagar",
+      "Patel Nagar",
+      "Karol Bagh",
+      "Rajinder Nagar",
+      "New Delhi",
+      "Delhi Cantt",
+      "R.K. Puram",
+      "Kasturba Nagar",
+      "Malviya Nagar",
+      "Greater Kailash"
+    ]
+  },
+  "representative": {
+    "name": "Bansuri Swaraj",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 40,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Studies (M.St.) from St. Catherines College, University of Oxford, UK in 2009, 2007-Barrister-at-Law Honorable Inns of Inner Temple, London U.K."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 371212042,
+      "immovable": 80234486,
+      "total": 192946528,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7901",
+    "retrieved": "2026-08-27"
+  }
+}

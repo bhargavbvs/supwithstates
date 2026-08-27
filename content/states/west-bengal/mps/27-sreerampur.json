@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-27-sreerampur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 27,
+    "name": "Sreerampur",
+    "reserved": null,
+    "assembly_segments": [
+      "Jagatballavpur",
+      "Domjur",
+      "Uttarpara",
+      "Sreerampur",
+      "Champdani",
+      "Chanditala",
+      "Jangipara"
+    ]
+  },
+  "representative": {
+    "name": "Kalyan Banerjee",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Legal Practitioner (Senior Adovate)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B from University of Ranchi in 1976-79"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 270159460,
+      "immovable": 36320000,
+      "total": 305479471,
+      "liabilities": 1360398
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7205",
+    "retrieved": "2026-08-27"
+  }
+}

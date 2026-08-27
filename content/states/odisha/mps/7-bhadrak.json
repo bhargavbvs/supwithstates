@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-7-bhadrak",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Bhadrak",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Soro",
+      "Simulia",
+      "Basudevpur",
+      "Bhandaripokhari",
+      "Bhadrak",
+      "Dhamnagar",
+      "Chandabali"
+    ]
+  },
+  "representative": {
+    "name": "Avimanyu Sethi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Partner Shree Jagannath Gas Agency, Bhadrak",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Utkal University, Vanivihar, Bhubneswar in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37284290,
+      "immovable": 33510000,
+      "total": 70794290,
+      "liabilities": 10659172
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9413",
+    "retrieved": "2026-08-27"
+  }
+}

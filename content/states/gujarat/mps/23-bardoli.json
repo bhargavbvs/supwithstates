@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-23-bardoli",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 23,
+    "name": "Bardoli",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Bardoli",
+      "Mahuva",
+      "Mangrol",
+      "Nizar",
+      "Mandvi",
+      "Kamrej",
+      "Vyara"
+    ]
+  },
+  "representative": {
+    "name": "Parbhubhai Nagarbhai Vasava",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Agriculture And Interest From Bank",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma Computer Application From Bardoli Unique Computer Education In The Year August 2000, Diploma In Mechanical Engineering From Gandhi Engineering College Surat/ Technical Examination Board Gandhinagar In The Year 1993, SSC From Gujarat Secondary Educ"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24238343,
+      "immovable": 20932000,
+      "total": 47003506,
+      "liabilities": 8456474
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3740",
+    "retrieved": "2026-08-27"
+  }
+}

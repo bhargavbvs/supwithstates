@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-19-nilgiris",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 19,
+    "name": "Nilgiris",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Bhavanisagar",
+      "Gudalur",
+      "Udhagamandalam",
+      "Coonoor",
+      "Mettuppalayam",
+      "Avanashi"
+    ]
+  },
+  "representative": {
+    "name": "Raja A",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Advocate & Partner in a Partnership Firm-M/s. Mayuri Law Firm",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law, Madurai Kamaraj University-1987, Bachelor of Science from Bharathidasan University in 1984"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 67094170,
+      "immovable": 2268000,
+      "total": 69362170,
+      "liabilities": 5098271
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1167",
+    "retrieved": "2026-08-27"
+  }
+}

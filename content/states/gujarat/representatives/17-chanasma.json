@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-17-chanasma",
+  "constituency": {
+    "number": 17,
+    "name": "Chanasma",
+    "district": "Patan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thakor Dineshbhai Ataji",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Farming, Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass Sanskar Vidyalay Thaltej Ahmedabad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14464855,
+      "immovable": 37108700,
+      "total": 51573555,
+      "liabilities": 5362079
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5949",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Business and Agriculture",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/92537d743a93b333b9f44deaf0cb8432cd9e9273.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=322"
-    },
+    "photo": null,
     "education": {
       "level": "8th Pass",
       "detail": "9th Class 1981-1982 from DAE School, ECIL, Hydrabad"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=322",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

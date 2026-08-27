@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-142-sayajigunj",
+  "constituency": {
+    "number": 142,
+    "name": "Sayajigunj",
+    "district": "Vadodara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Keyur Narayandas Rokadia",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Civil Engineering , Faculty of Technology and Engineering , The Maharaja Sayajirao University, Vadodara. Year-2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 82818383,
+      "immovable": 24884000,
+      "total": 107702383,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6044",
+    "retrieved": "2026-08-27"
+  }
+}

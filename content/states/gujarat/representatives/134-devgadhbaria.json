@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-134-devgadhbaria",
+  "constituency": {
+    "number": 134,
+    "name": "Devgadhbaria",
+    "district": "Dahod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khabad Bachubhai Maganbhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass From (Old SSC) Sarvajanik Highschool Dhanpur Year 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5907435,
+      "immovable": 3377860,
+      "total": 9285295,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5215",
+    "retrieved": "2026-08-27"
+  }
+}

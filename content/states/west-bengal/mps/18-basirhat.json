@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-18-basirhat",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Basirhat",
+    "reserved": null,
+    "assembly_segments": [
+      "Baduria",
+      "Haroa",
+      "Minakhan",
+      "Sandeshkhali",
+      "Basirhat Dakshin",
+      "Basirhat Uttar",
+      "Hingalganj"
+    ]
+  },
+  "representative": {
+    "name": "Sk Nurul Islam",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Politician and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Alim Passed From Kharki Islamia Senior Madrasah Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10052842,
+      "immovable": 5950000,
+      "total": 16002842,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8990",
+    "retrieved": "2026-08-27"
+  }
+}

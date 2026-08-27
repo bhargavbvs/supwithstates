@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-3-jalgaon",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Jalgaon",
+    "reserved": null,
+    "assembly_segments": [
+      "Amalner",
+      "Jalgaon Rural",
+      "Jalgaon City",
+      "Erandol",
+      "Pachora",
+      "Chalisgaon"
+    ]
+  },
+  "representative": {
+    "name": "Smita Uday Wagh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Business, Amdar Pension, and Rent",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. ( psychological science), A.G. Bendale College, Jalgaon, Pune University, Year - 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30549423,
+      "immovable": 56928000,
+      "total": 87477424,
+      "liabilities": 18576581
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5317",
+    "retrieved": "2026-08-27"
+  }
+}

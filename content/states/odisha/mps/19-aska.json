@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-19-aska",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 19,
+    "name": "Aska",
+    "reserved": null,
+    "assembly_segments": [
+      "Polasara",
+      "Surada",
+      "Kabisuryanagar",
+      "Khalikote",
+      "Aska",
+      "Sanakhemundi",
+      "Hinjili"
+    ]
+  },
+  "representative": {
+    "name": "Anita Subhadarshini",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Coaching And Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post graduate in Political science from Utkal University in the year 1994, Bachelor of Laws from Kalinga Law College under Utkal University Odisha in the year 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15799398,
+      "immovable": 9000000,
+      "total": 24799399,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7158",
+    "retrieved": "2026-08-27"
+  }
+}

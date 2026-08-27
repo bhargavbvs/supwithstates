@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Farmer",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/7f5e5150cd5895fc5f31b8a04d85d3fd4f8c345a.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=329"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From Govt. Junior Collage Tandur Ranga Reddy Dist., Year- 1984"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=329",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

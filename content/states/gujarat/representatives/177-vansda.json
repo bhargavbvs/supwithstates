@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-177-vansda",
+  "constituency": {
+    "number": 177,
+    "name": "Vansda",
+    "district": "Navsari",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Anantkumar Hasmukhbhai Patel",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Veer Narmad South Gujarat University, Surat in 2000 to 2001"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5821514,
+      "immovable": 14000000,
+      "total": 19821514,
+      "liabilities": 1275000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4946",
+    "retrieved": "2026-08-27"
+  }
+}

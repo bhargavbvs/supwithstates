@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-45-jalaun",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 45,
+    "name": "Jalaun",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Madhaugarh",
+      "Kalpi",
+      "Bhognipur",
+      "Orai",
+      "Garautha"
+    ]
+  },
+  "representative": {
+    "name": "Narayan Das Ahirwar",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Advocate & Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB In 1999 from Bundelkhand University Jhansi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4603801,
+      "immovable": 69000000,
+      "total": 73603801,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7173",
+    "retrieved": "2026-08-27"
+  }
+}

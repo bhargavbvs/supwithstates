@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Private Employee",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/8daf5716d84832b5071f4b3772b17095ac134e21.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5252"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "MD, Pathology From Osmania Medical College NTR University of Health Science Hydrabad 2013"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5252",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

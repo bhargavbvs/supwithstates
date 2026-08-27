@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-44-ellisbridge",
+  "constituency": {
+    "number": 44,
+    "name": "Ellisbridge",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amit Shah",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Retired Bank Manager, Social worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1981 from LA Shah College Gujarat University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13310181,
+      "immovable": 18211800,
+      "total": 31521981,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6240",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-20-khanyar",
+  "constituency": {
+    "number": 20,
+    "name": "Khanyar",
+    "district": "Srinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ali Mohammad Sagar",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Social worker, Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B, University of Kashmir"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4872058,
+      "immovable": 70000000,
+      "total": 74872058,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=318",
+    "retrieved": "2026-08-27"
+  }
+}

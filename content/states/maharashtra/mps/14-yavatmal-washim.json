@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-14-yavatmal-washim",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Yavatmal-Washim",
+    "reserved": null,
+    "assembly_segments": [
+      "Karanja",
+      "Ralegaon",
+      "Digras",
+      "Yavatmal",
+      "Washim",
+      "Pusad"
+    ]
+  },
+  "representative": {
+    "name": "Sanjay Uttamrao Deshmukh",
+    "election": "2024",
+    "elected_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "current_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Agriculture, S&D Industries",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B. Com From B B Art And Commerce Science College, Digras Yavatmal, Amravati University Sant Gadge Baba Amravati University In The Yeaar 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48398816,
+      "immovable": 236024122,
+      "total": 284422940,
+      "liabilities": 94874636
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1978",
+    "retrieved": "2026-08-27"
+  }
+}

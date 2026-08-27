@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-61-chenani",
+  "constituency": {
+    "number": 61,
+    "name": "Chenani",
+    "district": "Udhampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balwant Singh Mankotia",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Ex-MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduation in Political Science from IGNOU in the year 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10449546,
+      "immovable": 13128817,
+      "total": 23578363,
+      "liabilities": 3885241
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=907",
+    "retrieved": "2026-08-27"
+  }
+}

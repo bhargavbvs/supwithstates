@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-20-mandya",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 20,
+    "name": "Mandya",
+    "reserved": null,
+    "assembly_segments": [
+      "Nagamangala",
+      "Krishnarajpet",
+      "Maddur",
+      "Mandya",
+      "Melukote",
+      "Krishnarajanagara",
+      "Shrirangapattana",
+      "Malavalli"
+    ]
+  },
+  "representative": {
+    "name": "H.D. Kumaraswamy",
+    "election": "2024",
+    "elected_party": "Janata Dal (Secular)",
+    "current_party": "Janata Dal (Secular)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Social Worker, Politician and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science 1978 - 79 National College Jayanagar Bangalore University"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1022396661,
+      "immovable": 1149932130,
+      "total": 2172328789,
+      "liabilities": 821883134
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2651",
+    "retrieved": "2026-08-27"
+  }
+}

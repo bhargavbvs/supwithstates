@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-16-anand",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 16,
+    "name": "Anand",
+    "reserved": null,
+    "assembly_segments": [
+      "Anand",
+      "Umreth",
+      "Sojitra",
+      "Petlad",
+      "Anklav",
+      "Khambhat",
+      "Borsad"
+    ]
+  },
+  "representative": {
+    "name": "Mitesh Patel (Bakabhai)",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Business/Director (Pvt.Ltd) Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma In Telecommunication Engineering (EL&TC) From Board Of Technical Examination Bangalore In The Year 1986, HSC From Gujarat Secondary And Higher Secondary Education Board In The Year March 1982, SSC From Gujarat Secondary And Higher Secondary Educat"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 58139022,
+      "immovable": 52309802,
+      "total": 110448824,
+      "liabilities": 12855662
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3596",
+    "retrieved": "2026-08-27"
+  }
+}

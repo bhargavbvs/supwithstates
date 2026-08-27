@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-26-damporijo",
+  "constituency": {
+    "number": 26,
+    "name": "Damporijo",
+    "district": "Upper Subansiri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rode Bui",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Class X Pass from All India Secondary School Examination (AISSE), Govt. Higher Secondary School Daporijo in 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13213051,
+      "immovable": 6700000,
+      "total": 19913051,
+      "liabilities": 2077642
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=30",
+    "retrieved": "2026-08-27"
+  }
+}

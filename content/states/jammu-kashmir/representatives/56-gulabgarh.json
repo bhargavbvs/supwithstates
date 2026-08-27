@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-56-gulabgarh",
+  "constituency": {
+    "number": 56,
+    "name": "Gulabgarh",
+    "district": "Riasi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Khurshied Ahmed",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "VRS (Voluntarily retired from Govt. Services)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Technology (B.Tech) from AMICE Ludhiana in 2010, 12th from Govt. Hr. Sec. School Mahore/ BOSE in1987-88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10069354,
+      "immovable": 14768000,
+      "total": 24837354,
+      "liabilities": 475507
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=343",
+    "retrieved": "2026-08-27"
+  }
+}

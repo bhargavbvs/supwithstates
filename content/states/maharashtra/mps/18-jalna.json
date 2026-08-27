@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-18-jalna",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Jalna",
+    "reserved": null,
+    "assembly_segments": [
+      "Sillod",
+      "Bhokardan",
+      "Phulambri",
+      "Badnapur",
+      "Jalna",
+      "Paithan"
+    ]
+  },
+  "representative": {
+    "name": "Kalyan Vaijinathrao Kale",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Social Work, Agriculture & Dairy Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "D.H.M.S. from Bhagwan Homeopathic College, Aurangabad/ Chhatrapati Sambhajinagar, Maharashtra Homeopathic Council, Mumbai in 1985, 10th from Maratha High School, Aurangabad / Chhatrapati Sambhajinagar in 1980"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 223506684,
+      "immovable": 1105700000,
+      "total": 1329206684,
+      "liabilities": 159268881
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5320",
+    "retrieved": "2026-08-27"
+  }
+}

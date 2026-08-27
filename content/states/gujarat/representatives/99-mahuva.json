@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-99-mahuva",
+  "constituency": {
+    "number": 99,
+    "name": "Mahuva",
+    "district": "Bhavnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gohil Shivabhai Jerambhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from Shah M.N. High School In 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12493723,
+      "immovable": 12300000,
+      "total": 24793723,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5171",
+    "retrieved": "2026-08-27"
+  }
+}

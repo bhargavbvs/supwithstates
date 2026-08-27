@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-10-haveri",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Haveri",
+    "reserved": null,
+    "assembly_segments": [
+      "Ron",
+      "Gadag",
+      "Shirahatti",
+      "Haveri",
+      "Hangal",
+      "Byadgi",
+      "Ranibennur",
+      "Hirekerur"
+    ]
+  },
+  "representative": {
+    "name": "Basavaraj Bommai",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "public Servant & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering in Mechanical BVB Engineering College Hubli 580031 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 105476309,
+      "immovable": 434605000,
+      "total": 539504552,
+      "liabilities": 54634074
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3579",
+    "retrieved": "2026-08-27"
+  }
+}

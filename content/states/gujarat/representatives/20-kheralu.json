@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-20-kheralu",
+  "constituency": {
+    "number": 20,
+    "name": "Kheralu",
+    "district": "Mahesana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sardarbhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Engineer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. Civil From Sardar Patel University Vallabh Vidhyanagar Year 1987, HSC From GSEB Gandhinagar Year 1983, SSC From GSEB Gandhinagar 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 78211872,
+      "immovable": 318003000,
+      "total": 396214872,
+      "liabilities": 24999083
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5957",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cg-pc-2-raigarh",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Raigarh",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Jashpur",
+      "Kunkuri",
+      "Pathalgaon",
+      "Lailunga",
+      "Dharamjaigarh",
+      "Kharsia",
+      "Raigarh",
+      "Sarangarh"
+    ]
+  },
+  "representative": {
+    "name": "Radheshyam Rathiya",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Yearly Rs. 540000",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Secondary Education Council, Madhya Pradesh, Bhopal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 615781,
+      "immovable": 10035000,
+      "total": 10650781,
+      "liabilities": 124610
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3425",
+    "retrieved": "2026-08-27"
+  }
+}

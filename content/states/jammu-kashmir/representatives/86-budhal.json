@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-86-budhal",
+  "constituency": {
+    "number": 86,
+    "name": "Budhal",
+    "district": "Rajauri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Javaid Iqbal",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Entrepreneur",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from University of Jammu in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24047981,
+      "immovable": 85799000,
+      "total": 109676000,
+      "liabilities": 4598336
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=473",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-128-halol",
+  "constituency": {
+    "number": 128,
+    "name": "Halol",
+    "district": "Panch Mahals",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaydrathsinhji Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from MS University in Year 1992, B.Com from MS University in Year 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17687641,
+      "immovable": 44790000,
+      "total": 62477641,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6109",
+    "retrieved": "2026-08-27"
+  }
+}

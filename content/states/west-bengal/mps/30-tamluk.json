@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-30-tamluk",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 30,
+    "name": "Tamluk",
+    "reserved": null,
+    "assembly_segments": [
+      "Tamluk",
+      "Panskura Purba",
+      "Moyna",
+      "Nandakumar",
+      "Mahisadal",
+      "Haldia",
+      "Nandigram"
+    ]
+  },
+  "representative": {
+    "name": "Abhijit Gangopadhyay",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Former Judge of The Honble High Court at Calcutta",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B. University College of Law Calcutta University In 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30721151,
+      "immovable": 15534472,
+      "total": 46255624,
+      "liabilities": 5077654
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7912",
+    "retrieved": "2026-08-27"
+  }
+}

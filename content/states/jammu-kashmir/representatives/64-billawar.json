@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-64-billawar",
+  "constituency": {
+    "number": 64,
+    "name": "Billawar",
+    "district": "Kathua",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Kumar Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Construction and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary School Examination Matric"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11185096,
+      "immovable": 67253600,
+      "total": 78438696,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=645",
+    "retrieved": "2026-08-27"
+  }
+}

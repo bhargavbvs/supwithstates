@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-23-mandsour",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 23,
+    "name": "Mandsour",
+    "reserved": null,
+    "assembly_segments": [
+      "Jawad",
+      "Garoth",
+      "Manasa",
+      "Neemuch",
+      "Malhargarh",
+      "Suwasra",
+      "Mandsour",
+      "Jaora"
+    ]
+  },
+  "representative": {
+    "name": "Sudheer Gupta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Parliament Government of India, Agriculture, House Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M. Com From Govt. College, Mansaur(Vikram University Ujjain) In 1981"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 74001639,
+      "immovable": 118883000,
+      "total": 192884642,
+      "liabilities": 58453495
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5064",
+    "retrieved": "2026-08-27"
+  }
+}

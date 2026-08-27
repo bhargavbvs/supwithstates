@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-19-sidhpur",
+  "constituency": {
+    "number": 19,
+    "name": "Sidhpur",
+    "district": "Patan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balvantsinh Chandansinh Rajput",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Business & Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Barkat District University, Bhopal, Madhya Pradesh Year 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2703600414,
+      "immovable": 1022934387,
+      "total": 3726534801,
+      "liabilities": 122533729
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5126",
+    "retrieved": "2026-08-27"
+  }
+}

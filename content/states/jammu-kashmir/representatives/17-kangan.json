@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-17-kangan",
+  "constituency": {
+    "number": 17,
+    "name": "Kangan",
+    "district": "Ganderbal",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mian Mehar Ali",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Indira Gandhi National Open University in 2018"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8067601,
+      "immovable": 48862000,
+      "total": 56929601,
+      "liabilities": 11004294
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=283",
+    "retrieved": "2026-08-27"
+  }
+}

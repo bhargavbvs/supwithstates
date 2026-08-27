@@ -1,0 +1,52 @@
+{
+  "id": "pb-pc-2-amritsar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Amritsar",
+    "reserved": null,
+    "assembly_segments": [
+      "Ajnala",
+      "Raja Sansi",
+      "Majitha",
+      "Attari",
+      "Amritsar West",
+      "Amritsar East",
+      "Amritsar North",
+      "Amritsar Central",
+      "Amritsar South"
+    ]
+  },
+  "representative": {
+    "name": "Gurjeet Singh Aujla",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Self Employeed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Guru Nanak Dev University , Amritsar In 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35283588,
+      "immovable": 18225000,
+      "total": 53508591,
+      "liabilities": 13781750
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8734",
+    "retrieved": "2026-08-27"
+  }
+}

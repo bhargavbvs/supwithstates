@@ -1,0 +1,52 @@
+{
+  "id": "pb-pc-9-faridkot",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Faridkot",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Moga",
+      "Dharamkot",
+      "Nihal Singhwala",
+      "Faridkot",
+      "Bhagha Purana",
+      "Kotkapura",
+      "Jaitu",
+      "Rampura Phul",
+      "Gidderbaha"
+    ]
+  },
+  "representative": {
+    "name": "Sarabjeet Singh Khalsa",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Shop",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed From Guru Nanak Public School Sec-36-D Chandigarh in 94-95"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3308400,
+      "immovable": 7500000,
+      "total": 10808400,
+      "liabilities": 575000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9256",
+    "retrieved": "2026-08-27"
+  }
+}

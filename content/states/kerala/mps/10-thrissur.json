@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-10-thrissur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Thrissur",
+    "reserved": null,
+    "assembly_segments": [
+      "Guruvayoor",
+      "Manalur",
+      "Ollur",
+      "Thrissur",
+      "Nattika",
+      "Puthukkad",
+      "Irinjalakuda"
+    ]
+  },
+  "representative": {
+    "name": "Suresh Gopi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Cinema Artist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A -English From Kerala University, Fathima mamatha National College - Kollam in 1982"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 89067383,
+      "immovable": 96747943,
+      "total": 185815323,
+      "liabilities": 12916425
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2125",
+    "retrieved": "2026-08-27"
+  }
+}

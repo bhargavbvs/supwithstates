@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-181-kaprada",
+  "constituency": {
+    "number": 181,
+    "name": "Kaprada",
+    "district": "Valsad",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jitubhai Harjibhai Chaudhari",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Farming and Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th in 1980 from Bhakat Shri Jalaram New Highschool, Nargol, Tal. Umargaon, Dist. Valsad"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9932282,
+      "immovable": 9403200,
+      "total": 19335482,
+      "liabilities": 457000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4941",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Agriculture and Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/a906d32eea2b051d3f0062d65e899cf1d1ec4ebe.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=161"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "BA - Osmania University (1985)"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=161",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

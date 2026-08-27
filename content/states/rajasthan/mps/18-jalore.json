@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-18-jalore",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Jalore",
+    "reserved": null,
+    "assembly_segments": [
+      "Ahore",
+      "Jalore",
+      "Bhinmal",
+      "Sirohi",
+      "Sanchore",
+      "Raniwara",
+      "Pindwara Abu",
+      "Reodar"
+    ]
+  },
+  "representative": {
+    "name": "Lumbaram",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "LIC Agents and Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from National Open School in 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5287446,
+      "immovable": 14300000,
+      "total": 19587446,
+      "liabilities": 626171
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2557",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-5-sriperumbudur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Sriperumbudur",
+    "reserved": null,
+    "assembly_segments": [
+      "Ambattur",
+      "Maduravoyal",
+      "Sriperumbudur",
+      "Alandur",
+      "Pallavaram",
+      "Tambaram"
+    ]
+  },
+  "representative": {
+    "name": "T R Baalu",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 82,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc,University Of Madras,1989,Chennai"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55115056,
+      "immovable": 402187000,
+      "total": 457302056,
+      "liabilities": 80646000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=184",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-170-mahuva",
+  "constituency": {
+    "number": 170,
+    "name": "Mahuva",
+    "district": "Tapi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mohanbhai Dhanjibhai Dhodiya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass From B T & K L Zaveri Sarvajanik High School, Buhari Year 1972-73"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7118546,
+      "immovable": 12900000,
+      "total": 20018546,
+      "liabilities": 1300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5056",
+    "retrieved": "2026-08-27"
+  }
+}

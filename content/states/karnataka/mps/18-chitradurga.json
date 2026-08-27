@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-18-chitradurga",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Chitradurga",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Molakalmuru",
+      "Holalkere",
+      "Challakere",
+      "Chitradurga",
+      "Pavagada",
+      "Hiriyur",
+      "Sira",
+      "Hosadurga"
+    ]
+  },
+  "representative": {
+    "name": "Govind Makthappa Karjol",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 73,
+    "profession": "Cultivator",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC from SS High School, Vijayapura 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20543596,
+      "immovable": 22700000,
+      "total": 43243598,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1886",
+    "retrieved": "2026-08-27"
+  }
+}

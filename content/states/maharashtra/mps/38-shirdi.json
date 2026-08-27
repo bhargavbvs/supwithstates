@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-38-shirdi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 38,
+    "name": "Shirdi",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Kopargaon",
+      "Shirdi",
+      "Akole",
+      "Shrirampur",
+      "Sangamner",
+      "Nevasa"
+    ]
+  },
+  "representative": {
+    "name": "Bhausaheb Rajaram Wakchaure",
+    "election": "2024",
+    "elected_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "current_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 74,
+    "profession": "Govt. officers Retired",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Pune Vidhyapith, Year-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48000367,
+      "immovable": 44570652,
+      "total": 97519221,
+      "liabilities": 2432000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5331",
+    "retrieved": "2026-08-27"
+  }
+}

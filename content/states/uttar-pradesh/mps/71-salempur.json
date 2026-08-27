@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-71-salempur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 71,
+    "name": "Salempur",
+    "reserved": null,
+    "assembly_segments": [
+      "Bhatpar Rani",
+      "Salempur",
+      "Belthara Road",
+      "Sikanderpur",
+      "Bansdih"
+    ]
+  },
+  "representative": {
+    "name": "Ramashankar Rajbhar",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Sant Vinova University, Gorakhpur University, in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2475514,
+      "immovable": 82010000,
+      "total": 76085514,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9455",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "uk-pc-4-nainital-udhamsingh-nag",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Nainital-Udhamsingh Nag",
+    "reserved": null,
+    "assembly_segments": [
+      "Nainital",
+      "Bhimtal",
+      "Kaladhungi",
+      "Jaspur",
+      "Kashipur",
+      "Bajpur",
+      "Lalkuwa",
+      "Haldwani",
+      "Gadarpur",
+      "Khatima",
+      "Sitarganj",
+      "Rudrapur",
+      "Kichha",
+      "Nanak Matta"
+    ]
+  },
+  "representative": {
+    "name": "Ajay Bhatt",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Salary from India Govt.",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Almora Kumaun University Nainital in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20042088,
+      "immovable": 28689800,
+      "total": 48714988,
+      "liabilities": 1905347
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=997",
+    "retrieved": "2026-08-27"
+  }
+}

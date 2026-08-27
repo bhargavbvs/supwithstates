@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-11-bhandara-gondiya",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Bhandara-Gondiya",
+    "reserved": null,
+    "assembly_segments": [
+      "Gondiya",
+      "Tumsar",
+      "Tirora",
+      "Arjuni Morgaon",
+      "Bhandara",
+      "Sakoli"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Prashant Yadaorao Padole",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Agriculture and Medical Officer in Yadavrao Hospital",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MD (Medicine) From Odesa state University Ukraine in Year 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30718874,
+      "immovable": 113950000,
+      "total": 144668874,
+      "liabilities": 22513000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=313",
+    "retrieved": "2026-08-27"
+  }
+}

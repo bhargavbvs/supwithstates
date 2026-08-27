@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-1-kasaragod",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Kasaragod",
+    "reserved": null,
+    "assembly_segments": [
+      "Ma Njeshwar",
+      "Kasaragod",
+      "Udma",
+      "Kanhangad",
+      "Trikaripur",
+      "Payyannur",
+      "Kalliasseri"
+    ]
+  },
+  "representative": {
+    "name": "Rajmohan Unnithan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 70,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Pre-Degree Course, Bachelor of Arts ( Economics) Course completed during 1976, sree Narayana College, Kollam, University of Kerala"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 15782135,
+      "immovable": 31680000,
+      "total": 32432135,
+      "liabilities": 678829
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2287",
+    "retrieved": "2026-08-27"
+  }
+}

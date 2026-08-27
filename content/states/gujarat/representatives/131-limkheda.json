@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-131-limkheda",
+  "constituency": {
+    "number": 131,
+    "name": "Limkheda",
+    "district": "Dahod",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhabhor Shaileshbhai Sumanbhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Agriculture, Animal Husbandry, Social service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Pass from Sardarpatel university vallabh vidhanagar in 2004, B.A. Pass from Sardarpatel university (N.A. and T.V. Patel arts vidhangar 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7671198,
+      "immovable": 3780000,
+      "total": 11451198,
+      "liabilities": 2807516
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6093",
+    "retrieved": "2026-08-27"
+  }
+}

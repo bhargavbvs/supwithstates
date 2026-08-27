@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-29-khedbrahma",
+  "constituency": {
+    "number": 29,
+    "name": "Khedbrahma",
+    "district": "Sabar Kantha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr.Tushar Amarsinh Chaudhary",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Social Worker & Agriculture & Construction",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S From M.S University Vadodara Gujarat Year-1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17362832,
+      "immovable": 60109554,
+      "total": 77472386,
+      "liabilities": 300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6190",
+    "retrieved": "2026-08-27"
+  }
+}

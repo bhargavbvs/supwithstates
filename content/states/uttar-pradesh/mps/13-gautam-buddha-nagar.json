@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-13-gautam-buddha-nagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Gautam Buddha Nagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Noida",
+      "Dadri",
+      "Sikandrabad",
+      "Jewar",
+      "Khurja"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Mahesh Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 64,
+    "profession": "Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS Delhi University , University College of Medical Science .New Delhi 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 339390758,
+      "immovable": 498818345,
+      "total": 838209103,
+      "liabilities": 22689478
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2512",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "gj-pc-24-surat",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 24,
+    "name": "Surat",
+    "reserved": null,
+    "assembly_segments": [
+      "Surat East",
+      "Surat West",
+      "Karanj",
+      "Varachha Road",
+      "Majura",
+      "Udhna",
+      "Limbayat",
+      "Surat North",
+      "Katargam",
+      "Olpad"
+    ]
+  },
+  "representative": {
+    "name": "Mukeshkumar Chandrakaant Dalal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Textile (Clothing Industry)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A. In 1995 from Veer Narmad South Gujarat University, LLB In 1988 from V.T. Choksi Law College, Veer Narmad South Gujarat University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 77745827,
+      "immovable": 100950000,
+      "total": 178013262,
+      "liabilities": 17957360
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3783",
+    "retrieved": "2026-08-27"
+  }
+}

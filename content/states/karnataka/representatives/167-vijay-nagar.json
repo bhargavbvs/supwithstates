@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-167-vijay-nagar",
+  "constituency": {
+    "number": 167,
+    "name": "Vijay Nagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M Krishnappa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Business and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Sri Jagadguru Renukacharya College, Bangalore University in 1973"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1038257915,
+      "immovable": 1889400000,
+      "total": 2962656915,
+      "liabilities": 771806410
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7380",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-6-rapar",
+  "constituency": {
+    "number": 6,
+    "name": "Rapar",
+    "district": "Kachchh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Virendrasinh Bahadursinh Jadeja",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculture and Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass From Government Secondary School, Lachhau"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22181351,
+      "immovable": 23074800,
+      "total": 45256151,
+      "liabilities": 5078665
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4980",
+    "retrieved": "2026-08-27"
+  }
+}

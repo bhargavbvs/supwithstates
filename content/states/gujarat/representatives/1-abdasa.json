@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-1-abdasa",
+  "constituency": {
+    "number": 1,
+    "name": "Abdasa",
+    "district": "Kachchh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jadeja Pradhyumansinh Mahipatsinh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "4th pass from Viranimoti private school in 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7278913,
+      "immovable": 5745000,
+      "total": 13023913,
+      "liabilities": 1580000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5255",
+    "retrieved": "2026-08-27"
+  }
+}

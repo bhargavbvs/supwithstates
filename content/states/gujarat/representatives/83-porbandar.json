@@ -1,0 +1,42 @@
+{
+  "id": "gj-ac-83-porbandar",
+  "constituency": {
+    "number": 83,
+    "name": "Porbandar",
+    "district": "Porbandar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arjun Devabhai Modhwadia",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Agriculture And Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Gujarat University Ahmedabad In The Year 2015, B.E (Mechanical) From Lukhdhirji Engineering College Morbi Saurashtra University In The Year 1982, 11th From Shri Gujarat Secondary Education Board In The Year 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10232760,
+      "immovable": 31027708,
+      "total": 41260468,
+      "liabilities": 437134
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6765",
+    "retrieved": "2026-08-27"
+  }
+}

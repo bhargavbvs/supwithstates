@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-51-dariyapur",
+  "constituency": {
+    "number": 51,
+    "name": "Dariyapur",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kaushikbhai Sukhlal Jain",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Socialwork and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Gujarat University, Year -1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32949439,
+      "immovable": 44450000,
+      "total": 77399439,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6267",
+    "retrieved": "2026-08-27"
+  }
+}

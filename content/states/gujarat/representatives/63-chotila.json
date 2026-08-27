@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-63-chotila",
+  "constituency": {
+    "number": 63,
+    "name": "Chotila",
+    "district": "Surendranagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chauhan Shamajibhai Bhimajibhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture & Real Estate",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass From Shree Vallabhbhai Patel, Sant Kabir Road, Beri Para, Rajkot, in Year 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10311771,
+      "immovable": 20400000,
+      "total": 30711771,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5123",
+    "retrieved": "2026-08-27"
+  }
+}

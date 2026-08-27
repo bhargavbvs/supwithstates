@@ -1,0 +1,57 @@
+{
+  "id": "uk-pc-5-hardwar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Hardwar",
+    "reserved": null,
+    "assembly_segments": [
+      "Dharampur",
+      "Doiwala",
+      "Jwalapur",
+      "Rishikesh",
+      "B.H.E.L. Ranipu",
+      "Bhagwanpur",
+      "Hardwar",
+      "Pirankaliyar",
+      "Hardwar Rural",
+      "Jhabrera",
+      "Roorkee",
+      "Khanpur",
+      "Laksar",
+      "Manglaur"
+    ]
+  },
+  "representative": {
+    "name": "Trivendra Singh Rawat",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Social Worker, Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "P.G College Jaihrikhal H.N.B.G.U 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16484174,
+      "immovable": 51067865,
+      "total": 67552039,
+      "liabilities": 7500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=277",
+    "retrieved": "2026-08-27"
+  }
+}

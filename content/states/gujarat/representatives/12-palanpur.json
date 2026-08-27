@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-12-palanpur",
+  "constituency": {
+    "number": 12,
+    "name": "Palanpur",
+    "district": "Banas Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aniket Girishbhai Thaker",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Business, Service Center",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from North Gujarat University Patan Year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2801972,
+      "immovable": 2100000,
+      "total": 4901972,
+      "liabilities": 265421
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5935",
+    "retrieved": "2026-08-27"
+  }
+}

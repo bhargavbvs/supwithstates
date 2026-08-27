@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-30-thanjavur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 30,
+    "name": "Thanjavur",
+    "reserved": null,
+    "assembly_segments": [
+      "Thiruvaiyaru",
+      "Thanjavur",
+      "Mannargudi",
+      "Orathanadu",
+      "Pattukkottai",
+      "Peravurani"
+    ]
+  },
+  "representative": {
+    "name": "Murasoli S",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 46,
+    "profession": "Business, Agriculture and Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B- Dr,Ram Manohar Lohia College of Law, Bangalore, Bangalore university, 2008, B.sc.Rajas Serfoji Govt. Arts and Science college, 2001, 12th std, Rajahs Higher Secondary School, Thanjavur, 1997 and 10th std , private, 1194"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13484392,
+      "immovable": 7250000,
+      "total": 20734393,
+      "liabilities": 1713125
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1451",
+    "retrieved": "2026-08-27"
+  }
+}

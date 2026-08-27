@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-10-rajkot",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Rajkot",
+    "reserved": null,
+    "assembly_segments": [
+      "Rajkot South",
+      "Tankara",
+      "Rajkot West",
+      "Wankaner",
+      "Rajkot Rural",
+      "Rajkot East",
+      "Jasdan"
+    ]
+  },
+  "representative": {
+    "name": "Parshottambhai Rupala",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Agriculture & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. From Kamani Science College Amreli Saurashtra University Rajkot and B.Ed. from Shrimati BCJ College of Education. Kembe(Khambhat) Gujarat University in Year 1977"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 115122886,
+      "immovable": 59193787,
+      "total": 174316673,
+      "liabilities": 195000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3595",
+    "retrieved": "2026-08-27"
+  }
+}

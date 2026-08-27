@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-41-dooru",
+  "constituency": {
+    "number": 41,
+    "name": "Dooru",
+    "district": "Anantnag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gulam Ahmad Mir",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Government Degree College Anantnag (University of Kashmir)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19070003,
+      "immovable": 158000000,
+      "total": 177070003,
+      "liabilities": 5941159
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=85",
+    "retrieved": "2026-08-27"
+  }
+}

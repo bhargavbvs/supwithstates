@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "MLA and Farmer",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/d9482efdacfa84e8f6e91d86bcaedd886b75a6c3.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=57"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate at Government Junior College, Marpally Village and Marpally Mandal of Rangareddy District in 1986"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=57",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Agriculture",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/dfd2ddacda4d7e03ef0811c5e2e5fd2f54b8c634.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5238"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.Sc from Osmania University, Year of Pass 1984"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5238",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

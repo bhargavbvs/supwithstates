@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-6-langate",
+  "constituency": {
+    "number": 6,
+    "name": "Langate",
+    "district": "Kupwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khursheed Ahmad Shiekh",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Govt. Employee",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Education from University of Kashmir, Hazaratbal Sgr in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1092592,
+      "immovable": 4756000,
+      "total": 5848592,
+      "liabilities": 3963781
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=785",
+    "retrieved": "2026-08-27"
+  }
+}

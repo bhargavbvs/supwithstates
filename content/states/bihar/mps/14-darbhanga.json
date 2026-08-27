@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-14-darbhanga",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Darbhanga",
+    "reserved": null,
+    "assembly_segments": [
+      "Darbhanga Rural",
+      "Darbhanga",
+      "Alinagar",
+      "Bahadurpur",
+      "Benipur",
+      "Gaura Bauram"
+    ]
+  },
+  "representative": {
+    "name": "Gopal Jee Thakur",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Agriculture & Politics",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hD From LNMU Darbanga Year 2020"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13745497,
+      "immovable": 25333333,
+      "total": 39078830,
+      "liabilities": 6875610
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5055",
+    "retrieved": "2026-08-27"
+  }
+}

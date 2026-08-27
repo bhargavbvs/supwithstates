@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-12-wagoora-kreeri",
+  "constituency": {
+    "number": 12,
+    "name": "Wagoora - Kreeri",
+    "district": "Baramula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Irfan Hafiz Lone",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Advocate and Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B From University of Kashmir Year 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 815201,
+      "immovable": 48225310,
+      "total": 49040511,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=880",
+    "retrieved": "2026-08-27"
+  }
+}

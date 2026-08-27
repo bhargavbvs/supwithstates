@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-22-dindigul",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 22,
+    "name": "Dindigul",
+    "reserved": null,
+    "assembly_segments": [
+      "Oddanchatram",
+      "Palani",
+      "Athoor",
+      "Natham",
+      "Dindigul",
+      "Nilakkottai"
+    ]
+  },
+  "representative": {
+    "name": "Sachithanantham R",
+    "election": "2024",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Social Activist and Small Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From GTN Arts College, Dindigul In 1987-1990"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1197978,
+      "immovable": 1400000,
+      "total": 2597479,
+      "liabilities": 785694
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=834",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gj-ac-26-vijapur",
+  "constituency": {
+    "number": 26,
+    "name": "Vijapur",
+    "district": "Mahesana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. C. J. Chavda",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Occupation of Land And Builder",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Gujarat University Ahmedabad In The Year 1989, LVSC And AH (Veterinary Surgeon) From Gujarat Agriculture University Anand In The Year 1980, SSC From Baroda In The Year 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 68943985,
+      "immovable": 75070000,
+      "total": 144013985,
+      "liabilities": 142453261
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6773",
+    "retrieved": "2026-08-27"
+  }
+}

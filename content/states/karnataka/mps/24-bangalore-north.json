@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-24-bangalore-north",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 24,
+    "name": "Bangalore North",
+    "reserved": null,
+    "assembly_segments": [
+      "Byatarayanapura",
+      "Dasarahalli",
+      "K.R.Pura",
+      "Yeshvanthapura",
+      "Hebbal",
+      "Malleshwaram",
+      "Pulakeshinagar",
+      "Mahalakshmi Layout"
+    ]
+  },
+  "representative": {
+    "name": "Shobha Karandlaje",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Parliamentarian",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Social Services (Social Service) Roshani Nilaya Magalore University 1990. Master of Arts. (Social Service) Correspondence - Open University, Mysore University 1996"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 92366907,
+      "immovable": 46500000,
+      "total": 138866909,
+      "liabilities": 40600640
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2178",
+    "retrieved": "2026-08-27"
+  }
+}

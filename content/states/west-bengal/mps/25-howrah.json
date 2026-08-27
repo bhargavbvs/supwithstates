@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-25-howrah",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 25,
+    "name": "Howrah",
+    "reserved": null,
+    "assembly_segments": [
+      "Bally",
+      "Howrah Uttar",
+      "Howrah Madhya",
+      "Shibpur",
+      "Howrah Dakshin",
+      "Sankrail",
+      "Panchla"
+    ]
+  },
+  "representative": {
+    "name": "Prasun Banerjee",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science Degree from Calcutta University in 1973"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5160133,
+      "immovable": 2900000,
+      "total": 10360134,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7195",
+    "retrieved": "2026-08-27"
+  }
+}

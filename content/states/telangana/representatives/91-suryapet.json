@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Agriculture, Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/e543f1a315dc6c6044fed05ae310026e8a38bcbb.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=313"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "B.L. Siddhartha Law College, Vijayawada, Nagarjuna in 1986-89"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=313",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

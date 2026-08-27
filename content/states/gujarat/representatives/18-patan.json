@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-18-patan",
+  "constituency": {
+    "number": 18,
+    "name": "Patan",
+    "district": "Patan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kiritkumar Chimanlal Patel",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Teacher (Government Job)",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From H. North Gujarat University Patan, Year-2010, LMM From Seth M.N. Law College Patan, H. North Gujarat University Patan Year March 2004"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 28175087,
+      "immovable": 17865000,
+      "total": 46040087,
+      "liabilities": 3083190
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5945",
+    "retrieved": "2026-08-27"
+  }
+}

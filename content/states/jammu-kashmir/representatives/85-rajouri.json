@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-85-rajouri",
+  "constituency": {
+    "number": 85,
+    "name": "Rajouri",
+    "district": "Rajauri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Iftkar Ahmed",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. -LLB from Jammu University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 594149,
+      "immovable": 23500000,
+      "total": 20589149,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=346",
+    "retrieved": "2026-08-27"
+  }
+}

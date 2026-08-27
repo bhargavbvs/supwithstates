@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-27-mumbai-north-west",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 27,
+    "name": "Mumbai North-West",
+    "reserved": null,
+    "assembly_segments": [
+      "Dindoshi",
+      "Goregaon",
+      "Jogeshwari East",
+      "Versova",
+      "Andheri East",
+      "Andheri West"
+    ]
+  },
+  "representative": {
+    "name": "Ravindra Dattaram Waikar",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Business, Government of Maharashtra Salary, Allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science From Patkar College Goregaon West In The Year 1982, SSC From Maharashtra State Secondary And Higher Secondary Education Board Pune Arvind Gandbhir High School In The Year 1975"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 218595526,
+      "immovable": 326454322,
+      "total": 545049854,
+      "liabilities": 44810574
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7481",
+    "retrieved": "2026-08-27"
+  }
+}

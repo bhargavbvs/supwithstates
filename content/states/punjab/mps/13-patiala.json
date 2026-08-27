@@ -1,0 +1,54 @@
+{
+  "id": "pb-pc-13-patiala",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Patiala",
+    "reserved": null,
+    "assembly_segments": [
+      "Dera Bassi",
+      "Rajpura",
+      "Nabha",
+      "Ghanaur",
+      "Dhuri",
+      "Patiala Rural",
+      "Sanour",
+      "Samana",
+      "Sangrur",
+      "Patiala",
+      "Shutrana"
+    ]
+  },
+  "representative": {
+    "name": "Dr Dharamvira Gandhi",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 73,
+    "profession": "Medical Professional",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD (Medicine)from Govt Medical College Patiala, Punjabi University Patiala In 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42666885,
+      "immovable": 42675000,
+      "total": 85341885,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8759",
+    "retrieved": "2026-08-27"
+  }
+}

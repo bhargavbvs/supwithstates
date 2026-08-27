@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-61-limbdi",
+  "constituency": {
+    "number": 61,
+    "name": "Limbdi",
+    "district": "Surendranagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kiritsinh Jitubha Rana",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Joint hotel owner, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th pass from Gujarat secondary education board limbdi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8147937,
+      "immovable": 13200000,
+      "total": 21347937,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4919",
+    "retrieved": "2026-08-27"
+  }
+}

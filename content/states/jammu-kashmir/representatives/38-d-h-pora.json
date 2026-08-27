@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-38-d-h-pora",
+  "constituency": {
+    "number": 38,
+    "name": "D.H. Pora",
+    "district": "Kulgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sakeena Masood",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "3rd Year MBBS from GMC Bhopal, 10+2 from J & K State Board of School Education in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10504787,
+      "immovable": 12000000,
+      "total": 22504787,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

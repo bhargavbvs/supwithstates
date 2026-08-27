@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Agriculture And Politician",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/bb1acc4e6ed40991703496e228aa9161f4dd4550.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=309"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A From University New York U.S.A 2000, M.Sc from Pune University, pune in 1998"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=309",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-39-beed",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 39,
+    "name": "Beed",
+    "reserved": null,
+    "assembly_segments": [
+      "Georai",
+      "Majalgaon",
+      "Ashti",
+      "Beed",
+      "Parli",
+      "Kaij"
+    ]
+  },
+  "representative": {
+    "name": "Bajrang Manohar Sonwane",
+    "election": "2024",
+    "elected_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "current_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Agriculture, Milk Business And Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Dr. Babasaheb Ambedkar Marathawada, Vidhyapith Aurangabad March 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 138827732,
+      "immovable": 182968000,
+      "total": 289278459,
+      "liabilities": 77515217
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5333",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-47-naroda",
+  "constituency": {
+    "number": 47,
+    "name": "Naroda",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kukrani Payal Manojkumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 29,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MD equivalent to MBBS Smolensk Medical university in 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3945884,
+      "immovable": 6500000,
+      "total": 10445884,
+      "liabilities": 4624247
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6253",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Developer & Builder",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/e47ee98901c1de54f04c2db23e1eec96722f73f4.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=39"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E (Civil Engineering) GCT Madras University 1985"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=39",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

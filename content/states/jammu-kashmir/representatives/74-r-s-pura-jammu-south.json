@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-74-r-s-pura-jammu-south",
+  "constituency": {
+    "number": 74,
+    "name": "R.S. Pura - Jammu South",
+    "district": "Jammu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narinder Singh Raina",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D from Forestry in the year 2006 from Dr. Yashwant Singh Parmar, University of Horticultural & Forestry, Nauni Solan, Himachal Pradesh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15144967,
+      "immovable": 24000000,
+      "total": 39144969,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=678",
+    "retrieved": "2026-08-27"
+  }
+}

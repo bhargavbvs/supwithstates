@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-75-dhoraji",
+  "constituency": {
+    "number": 75,
+    "name": "Dhoraji",
+    "district": "Rajkot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Mahendrabhai Padalia",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 70,
+    "profession": "Farming & Pension",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "PH.D From Saurashtra University Year 2003, LLM From Saurashtra University Year 1979, BSC From Saurashtra University From 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51066405,
+      "immovable": 33150000,
+      "total": 84216405,
+      "liabilities": 6036778
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5141",
+    "retrieved": "2026-08-27"
+  }
+}

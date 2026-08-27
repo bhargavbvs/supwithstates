@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-31-kanthi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 31,
+    "name": "Kanthi",
+    "reserved": null,
+    "assembly_segments": [
+      "Chandipur",
+      "Patashpur",
+      "Kanthi Uttar",
+      "Bhagabanpur",
+      "Khejuri",
+      "Kanthi Dakshin",
+      "Ramnagar"
+    ]
+  },
+  "representative": {
+    "name": "Adhikari Soumendu",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Business & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate MA from Vidyasagar University 2010"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10879993,
+      "immovable": 15300000,
+      "total": 26179993,
+      "liabilities": 287970
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7922",
+    "retrieved": "2026-08-27"
+  }
+}

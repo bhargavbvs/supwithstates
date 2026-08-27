@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-4-sheohar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Sheohar",
+    "reserved": null,
+    "assembly_segments": [
+      "Dhaka",
+      "Chiraia",
+      "Riga",
+      "Sheohar",
+      "Madhuban",
+      "Belsand"
+    ]
+  },
+  "representative": {
+    "name": "Lovely Anand",
+    "election": "2024",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Lalit Narayan Mithila University Year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10721057,
+      "immovable": 84000000,
+      "total": 94553723,
+      "liabilities": 3169916
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7890",
+    "retrieved": "2026-08-27"
+  }
+}

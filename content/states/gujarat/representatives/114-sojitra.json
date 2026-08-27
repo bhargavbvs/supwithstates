@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-114-sojitra",
+  "constituency": {
+    "number": 114,
+    "name": "Sojitra",
+    "district": "Anand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Patel Vipulkumar Vinubhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Business, Farming",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC From B B Patel High School Dabhoi Year 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15525667,
+      "immovable": 7519000,
+      "total": 23044667,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6163",
+    "retrieved": "2026-08-27"
+  }
+}

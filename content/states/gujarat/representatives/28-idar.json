@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-28-idar",
+  "constituency": {
+    "number": 28,
+    "name": "Idar",
+    "district": "Sabar Kantha",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramanlal Ishwarlal Vora",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 70,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from vivekanand Arts College ahemdabad, gujarat university in 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8030295,
+      "immovable": 14920000,
+      "total": 22950295,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5192",
+    "retrieved": "2026-08-27"
+  }
+}

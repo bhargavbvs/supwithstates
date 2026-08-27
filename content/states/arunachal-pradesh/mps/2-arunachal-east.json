@@ -1,0 +1,70 @@
+{
+  "id": "ar-pc-2-arunachal-east",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Arunachal East",
+    "reserved": null,
+    "assembly_segments": [
+      "Anini",
+      "Tuting-Yinkgkiong",
+      "Mariyang-Geku",
+      "Dambuk",
+      "Roing",
+      "Hauyuliang",
+      "Pangin",
+      "Tezu",
+      "Mebo",
+      "Pasighat East",
+      "Pasighat West",
+      "Nari-Koyu",
+      "Chowkham",
+      "Namsai",
+      "Bordumsa-Diyum",
+      "Miao",
+      "Lekang",
+      "Nampong",
+      "Changlang North",
+      "Changlang South",
+      "Namsang",
+      "Khonsa East",
+      "Kanubari",
+      "Borduria- Bagapani",
+      "Khonsa West",
+      "Longding-Pumao",
+      "Pongchou-Wakka"
+    ]
+  },
+  "representative": {
+    "name": "Tapir Gao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": "Political Leader, Ex-M.P.",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Political Science from Arunachal University in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25707706,
+      "immovable": 124830000,
+      "total": 150537706,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=257",
+    "retrieved": "2026-08-27"
+  }
+}

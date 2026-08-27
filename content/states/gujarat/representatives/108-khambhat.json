@@ -1,0 +1,42 @@
+{
+  "id": "gj-ac-108-khambhat",
+  "constituency": {
+    "number": 108,
+    "name": "Khambhat",
+    "district": "Anand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chiragkumar Arvindbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Contractor, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From GSEB Shrimati K D Patel Highschool Ralej In The Year March 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 34074843,
+      "immovable": 37778000,
+      "total": 71852843,
+      "liabilities": 254289
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6757",
+    "retrieved": "2026-08-27"
+  }
+}

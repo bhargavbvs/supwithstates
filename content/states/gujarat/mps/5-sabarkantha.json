@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-5-sabarkantha",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Sabarkantha",
+    "reserved": null,
+    "assembly_segments": [
+      "Khedbrahma",
+      "Bhiloda",
+      "Idar",
+      "Himatnagar",
+      "Modasa",
+      "Prantij",
+      "Bayad"
+    ]
+  },
+  "representative": {
+    "name": "Shobhanaben Mahendrasinh Baraiya",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Housewife, Agriculture & Retired Teacher",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Sahitya Sudhakar (BA Hindi Level) Second Section Examination in 2014, 12th Pass from Gujarat Secondary Education Board, Gandhinagar in Year 1994, PTC from Buniyadi Adhyapan Pravin Pramanpatra in Year 1990, 10th from Gujarat Secondary Education Board in Y"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15939723,
+      "immovable": 16629000,
+      "total": 31828842,
+      "liabilities": 12744653
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3782",
+    "retrieved": "2026-08-27"
+  }
+}

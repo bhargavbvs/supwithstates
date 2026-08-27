@@ -1,0 +1,48 @@
+{
+  "id": "tn-pc-38-tirunelveli",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 38,
+    "name": "Tirunelveli",
+    "reserved": null,
+    "assembly_segments": [
+      "Tirunelveli",
+      "Ambasamudram",
+      "Nanguneri",
+      "Palayamkottai",
+      "Radhapuram"
+    ]
+  },
+  "representative": {
+    "name": "Robert Bruce C",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.L. - Ambedkar Law University 1986, M.L. - Madras University 2023"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33462888,
+      "immovable": 59200000,
+      "total": 92662888,
+      "liabilities": 1022299
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1480",
+    "retrieved": "2026-08-27"
+  }
+}

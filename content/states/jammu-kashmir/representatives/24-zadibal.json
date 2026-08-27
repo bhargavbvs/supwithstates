@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-24-zadibal",
+  "constituency": {
+    "number": 24,
+    "name": "Zadibal",
+    "district": "Srinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tanvir Sadiq",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BITM in year 2003 (Bachelor of Information Technology and Management through Utkal University, Bhubaneswar, Orissa."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14137063,
+      "immovable": 30700000,
+      "total": 44837063,
+      "liabilities": 3665291
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=324",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-20-coimbatore",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 20,
+    "name": "Coimbatore",
+    "reserved": null,
+    "assembly_segments": [
+      "Kavundampalayam",
+      "Sulur",
+      "Palladam",
+      "Coimbatore(North)",
+      "Singanallur",
+      "Coimbatore(South)"
+    ]
+  },
+  "representative": {
+    "name": "Ganapathy Rajkumar P",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 58,
+    "profession": "Agriculture and Small Scale Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D In Journalism & Mass Communication In 2015 From Bharathiar University, Coimbatore, M.A. In 1988 From PSG Collage of Arts & Science Collage, Coimbatore"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 30952605,
+      "immovable": 849945000,
+      "total": 890397608,
+      "liabilities": 33284669
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1352",
+    "retrieved": "2026-08-27"
+  }
+}

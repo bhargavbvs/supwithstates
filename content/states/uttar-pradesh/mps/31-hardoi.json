@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-31-hardoi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 31,
+    "name": "Hardoi",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Shahabad",
+      "Gopamau",
+      "Sawaijpur",
+      "Hardoi",
+      "Sandi"
+    ]
+  },
+  "representative": {
+    "name": "Jai Prakash",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": "Salary , Agriculture , Gas Agancy",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From Lucknow University in 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 88524607,
+      "immovable": 215450000,
+      "total": 303974608,
+      "liabilities": 52512655
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5076",
+    "retrieved": "2026-08-27"
+  }
+}

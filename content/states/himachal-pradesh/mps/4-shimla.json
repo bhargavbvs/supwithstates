@@ -1,0 +1,60 @@
+{
+  "id": "hp-pc-4-shimla",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Shimla",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Rohru",
+      "Arki",
+      "Theog",
+      "Shimla Rural",
+      "Nalagarh",
+      "Jubbal-Kotkhai",
+      "Kasumpti",
+      "Shimla",
+      "Solan",
+      "Chopal",
+      "Doon",
+      "Kasauli",
+      "Pachhad",
+      "Sri Renukaji",
+      "Shillai",
+      "Nahan",
+      "Paonta Sahib"
+    ]
+  },
+  "representative": {
+    "name": "Suresh Kumar Kashyap",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Public Representative As Member Of Parliament , Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master In Philosophy In Public Administration From H.P University Shimla In 2008, M.A. Tourism Management through IGNOU New Delhi, in the year of 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12798026,
+      "immovable": 32126968,
+      "total": 44442736,
+      "liabilities": 5105342
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8766",
+    "retrieved": "2026-08-27"
+  }
+}

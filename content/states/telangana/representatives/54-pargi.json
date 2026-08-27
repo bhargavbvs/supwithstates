@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Business and Educationist",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/32338468a0ac108d8ace9f17bb4494d2a2d248f9.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=260"
-    },
+    "photo": null,
     "education": {
       "level": "Doctorate",
       "detail": "PH.d From Osmania University 2023, MBA From Osmania University 1990,"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=260",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

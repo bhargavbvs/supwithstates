@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-3-sambalpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Sambalpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Kuchinda",
+      "Rengali",
+      "Deogarh",
+      "Sambalpur",
+      "Rairakhol",
+      "Chhendipada",
+      "Athamallik"
+    ]
+  },
+  "representative": {
+    "name": "Dharmendra Pradhan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts(Anthropology) from Utkal University, Vani Vihar, Bhubaneswar,Odisha yr- 1990"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 46194190,
+      "immovable": 23025000,
+      "total": 69219190,
+      "liabilities": 5337781
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8053",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-5-sitamarhi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Sitamarhi",
+    "reserved": null,
+    "assembly_segments": [
+      "Parihar",
+      "Bathnaha",
+      "Sursand",
+      "Sitamarhi",
+      "Bajpatti",
+      "Runnisaidpur"
+    ]
+  },
+  "representative": {
+    "name": "Devesh Chandra Thakur",
+    "election": "2024",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 71,
+    "profession": "Social Service, Agriculture & Director of a Private Firm",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from I.L.S, Pune University Maharashtra in 1976"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 57365389,
+      "immovable": 32000000,
+      "total": 88465387,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7129",
+    "retrieved": "2026-08-27"
+  }
+}

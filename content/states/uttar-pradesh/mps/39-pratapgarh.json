@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-39-pratapgarh",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 39,
+    "name": "Pratapgarh",
+    "reserved": null,
+    "assembly_segments": [
+      "Rampur Khas",
+      "Pratapgarh",
+      "Patti",
+      "Bishwavnathganj",
+      "Raniganj"
+    ]
+  },
+  "representative": {
+    "name": "Shiv Pal Singh Patel (Dr. S P Singh)",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Salary, Pension, Business, Agriculture & Other",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MSC From D.A.V. Collage, Kanpur, Kanpur University Kanpur In 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 162330367,
+      "immovable": 304046000,
+      "total": 466376372,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8331",
+    "retrieved": "2026-08-27"
+  }
+}

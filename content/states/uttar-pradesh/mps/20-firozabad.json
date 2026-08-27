@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-20-firozabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 20,
+    "name": "Firozabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Jasrana",
+      "Tundla",
+      "Shikohabad",
+      "Sirsaganj",
+      "Firozabad"
+    ]
+  },
+  "representative": {
+    "name": "Akshaya Yadav",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 37,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA from Amity University Noida in 2008, UP"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 315845989,
+      "immovable": 1045866757,
+      "total": 1364348650,
+      "liabilities": 116561358
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3481",
+    "retrieved": "2026-08-27"
+  }
+}

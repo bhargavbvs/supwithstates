@@ -1,0 +1,52 @@
+{
+  "id": "hr-pc-10-faridabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Faridabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Tigaon",
+      "Badkhal",
+      "Faridabad",
+      "Faridabad Nit",
+      "Prithla",
+      "Ballabhgarh",
+      "Hathin",
+      "Palwal",
+      "Hodal"
+    ]
+  },
+  "representative": {
+    "name": "Krishan Pal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Meerut University, Meerut in 1986, B.A. from P. Jawahar Lal Neharu University Faridabad in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 220877244,
+      "immovable": 404938599,
+      "total": 625815843,
+      "liabilities": 39847200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8425",
+    "retrieved": "2026-08-27"
+  }
+}

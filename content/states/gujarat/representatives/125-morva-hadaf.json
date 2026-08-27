@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-125-morva-hadaf",
+  "constituency": {
+    "number": 125,
+    "name": "Morva Hadaf",
+    "district": "Panch Mahals",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Suthar Nimishaben Manharsinh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Socialwork,Housework ,Farming",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "S.Y.B.A. From Political Science ,Dr. Babasaheb Ambedkar Open University,Gujrat March-2021, KOPA From ITI Technical & Bord Amreli,Year-June-2006,Diploma In electrical Enginner(First Class)From TEBGS,Gandhinagar,Year-2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4906527,
+      "immovable": 720000,
+      "total": 5626527,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6129",
+    "retrieved": "2026-08-27"
+  }
+}

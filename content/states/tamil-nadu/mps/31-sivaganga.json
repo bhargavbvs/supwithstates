@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-31-sivaganga",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 31,
+    "name": "Sivaganga",
+    "reserved": null,
+    "assembly_segments": [
+      "Thirumayam",
+      "Tiruppattur",
+      "Alangudi",
+      "Karaikudi",
+      "Sivaganga",
+      "Manamadurai"
+    ]
+  },
+  "representative": {
+    "name": "Karti P Chidambaram",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Arts (Law) from Cambridge University, U.K 1995 & BBA From University of Texas, Austin, U.S.A., Year-1993"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 425310428,
+      "immovable": 537433621,
+      "total": 962744048,
+      "liabilities": 319544125
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=181",
+    "retrieved": "2026-08-27"
+  }
+}

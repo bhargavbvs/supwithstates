@@ -1,0 +1,60 @@
+{
+  "id": "hp-pc-2-mandi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Mandi",
+    "reserved": null,
+    "assembly_segments": [
+      "Lahaul & Spiti",
+      "Bharmour",
+      "Manali",
+      "Kullu",
+      "Darang",
+      "Jogindernagar",
+      "Kinnaur",
+      "Banjar",
+      "Mandi",
+      "Sarkaghat",
+      "Seraj",
+      "Balh",
+      "Rampur",
+      "Nachan",
+      "Anni",
+      "Sundernagar",
+      "Karsog"
+    ]
+  },
+  "representative": {
+    "name": "Kangna Ranaut",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 37,
+    "profession": "Actor, Producer & Director",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass (Senior School Certificate Examination) From DAV Model School Sec-15A, Chandigarh in 2003"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 287344238,
+      "immovable": 629287000,
+      "total": 916631239,
+      "liabilities": 173886641
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8764",
+    "retrieved": "2026-08-27"
+  }
+}

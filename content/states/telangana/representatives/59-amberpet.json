@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Advocte & MLA",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/f0f3f0cb19ed71d97f3ba98004cc44a51bf8ba3e.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=12"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B from Faculty of Law Delhi University in the Year 1986"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=12",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

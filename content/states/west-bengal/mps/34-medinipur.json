@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-34-medinipur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 34,
+    "name": "Medinipur",
+    "reserved": null,
+    "assembly_segments": [
+      "Egra",
+      "Dantan",
+      "Keshiary",
+      "Kharagpur Sadar",
+      "Narayangarh",
+      "Kharagpur",
+      "Medinipur"
+    ]
+  },
+  "representative": {
+    "name": "June Maliah",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Professional Actor, Social Worker and Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary School Examination From Central Board of Secondary Education (CBSE), Open School, Yr of Passing -1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36153667,
+      "immovable": 29864968,
+      "total": 66018642,
+      "liabilities": 17920737
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7950",
+    "retrieved": "2026-08-27"
+  }
+}

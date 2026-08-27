@@ -1,0 +1,49 @@
+{
+  "id": "jh-pc-8-ranchi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Ranchi",
+    "reserved": null,
+    "assembly_segments": [
+      "Kanke",
+      "Khijri",
+      "Hatia",
+      "Silli",
+      "Ranchi",
+      "Ichagarh"
+    ]
+  },
+  "representative": {
+    "name": "Sanjay Seth",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Sitting Member of Parliament (Lok Sabha)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law RU in 1983"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16302085,
+      "immovable": 7850000,
+      "total": 24152085,
+      "liabilities": 3244306
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8561",
+    "retrieved": "2026-08-27"
+  }
+}

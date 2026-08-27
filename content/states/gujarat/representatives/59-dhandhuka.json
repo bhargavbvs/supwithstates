@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-59-dhandhuka",
+  "constituency": {
+    "number": 59,
+    "name": "Dhandhuka",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalubhai Rupabhai Dabhi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Farming & Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Saraswati School, Dholka, Year-1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3934129,
+      "immovable": 14456452,
+      "total": 18390581,
+      "liabilities": 2131564
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6292",
+    "retrieved": "2026-08-27"
+  }
+}

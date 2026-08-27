@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/84f309f1fe4db86c5c4eb05bf05cedf153c7aa8b.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=281"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "Board of Secondary School Certificate Passed in 1982-83 from ZPHS Ramagundam"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=281",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

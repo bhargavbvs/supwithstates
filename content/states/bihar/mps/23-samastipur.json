@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-23-samastipur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 23,
+    "name": "Samastipur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Hayaghat",
+      "Kalyanpur",
+      "Warisnagar",
+      "Samastipur",
+      "Rosera",
+      "Kusheshwar Asthan"
+    ]
+  },
+  "representative": {
+    "name": "Shambhavi",
+    "election": "2024",
+    "elected_party": "Lok Janshakti Party(Ram Vilas)",
+    "current_party": "Lok Janshakti Party(Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 25,
+    "profession": "Self Employed Professional",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Sociology) From Delhi School of Economics (University of Delhi) In 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22244767,
+      "immovable": 23161950,
+      "total": 45406719,
+      "liabilities": 17250997
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5057",
+    "retrieved": "2026-08-27"
+  }
+}

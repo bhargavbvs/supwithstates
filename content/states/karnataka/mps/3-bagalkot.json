@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-3-bagalkot",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Bagalkot",
+    "reserved": null,
+    "assembly_segments": [
+      "Jamkhandi",
+      "Terdal",
+      "Bilgi",
+      "Mudhol",
+      "Bagalkot",
+      "Hungund",
+      "Badami",
+      "Nargund"
+    ]
+  },
+  "representative": {
+    "name": "Gaddigoudar Parvatgouda Chandangouda",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 72,
+    "profession": "Farmer and lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA year 1972 Basaveshwara Kala Mahavidyalaya Bagalot(KVV Dharwad). LLb year 1975 Raja Lakkammagowda Law college Balgaum(KVV Dharwada)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14054750,
+      "immovable": 61800000,
+      "total": 75855750,
+      "liabilities": 24446219
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3930",
+    "retrieved": "2026-08-27"
+  }
+}

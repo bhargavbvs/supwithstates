@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-60-dasada",
+  "constituency": {
+    "number": 60,
+    "name": "Dasada",
+    "district": "Surendranagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "P.K.Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Civil Engineering From Govt. Polytechnic College, Rajkot"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1895468,
+      "immovable": 7240000,
+      "total": 9135468,
+      "liabilities": 1290574
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5308",
+    "retrieved": "2026-08-27"
+  }
+}

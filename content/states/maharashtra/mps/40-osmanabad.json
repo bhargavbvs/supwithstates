@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-40-osmanabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 40,
+    "name": "Osmanabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Paranda",
+      "Osmanabad",
+      "Barshi",
+      "Tuljapur",
+      "Ausa",
+      "Umarga"
+    ]
+  },
+  "representative": {
+    "name": "Omprakash Bhupalsinh Alias Pavan Rajenimbalkar",
+    "election": "2024",
+    "elected_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "current_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 40,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering ( Information Technology), Sinhgad College of Engineering Pune, University of Pune, Ganeshkhind, Pune - 411007"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 22343468,
+      "immovable": 52981820,
+      "total": 75325549,
+      "liabilities": 251709
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3849",
+    "retrieved": "2026-08-27"
+  }
+}

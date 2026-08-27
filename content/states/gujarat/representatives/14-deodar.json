@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-14-deodar",
+  "constituency": {
+    "number": 14,
+    "name": "Deodar",
+    "district": "Banas Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Keshaji Shivaji Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Shri Vividhlakshi Vidyamandir, Palanpur, Gujarat Secondary Education Board, Gandhinagar. Year-1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3051239,
+      "immovable": 730000,
+      "total": 3781239,
+      "liabilities": 1005943
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5944",
+    "retrieved": "2026-08-27"
+  }
+}

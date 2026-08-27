@@ -169,38 +169,100 @@ if (CONF.geoSource !== 'ap-ac' && CONF.geoSource !== 'undivided-andhra') {
   const acFilter = CONF.acFile
     ? '+AC_NO > 0'
     : `ST_NAME===${JSON.stringify(CONF.geoState)} && +AC_NO > 0`;
-  const RAW = `${OUT}.constituencies.raw.geojson`;
+
+  // Some states store one constituency as several polygons — Manipur files
+  // Andro three times, Kerala files Kothamangalam twice — and those have to
+  // be dissolved back into one seat before anything is asked of them.
+  //
+  // But only those. A dissolve rebuilds the topology and splits arcs, which
+  // adds vertices rather than removing them: on Jammu & Kashmir, whose
+  // ninety numbers are already unique, dissolving took a 5% simplification
+  // from 31,243 vertices to 48,869. So it runs only where there is
+  // something to merge.
+  const source = JSON.parse(readFileSync(acFile, 'utf8'));
+  const field = Object.entries(CONF.acFields ?? {}).find(([, to]) => to === 'AC_NO')?.[0] ?? 'AC_NO';
+  const acNumbers = source.features
+    .filter((f) => (CONF.acFile ? true : f.properties.ST_NAME === CONF.geoState))
+    .map((f) => Number(f.properties[field]))
+    .filter((n) => n > 0);
+  const needsDissolve = new Set(acNumbers).size !== acNumbers.length;
+
+  // Not every layer carries the parliamentary seat. The national one does,
+  // which is where the link from an MLA to their MP comes from; the
+  // Election Commission's per-election files do not. Asking mapshaper to
+  // keep a field that is not there is an error, so the list is built from
+  // what the source actually has.
+  const pcField = Object.entries(CONF.acFields ?? {}).find(([, to]) => to === 'PC_NO')?.[0] ?? 'PC_NO';
+  const hasPc = source.features.some((f) => f.properties[pcField] != null);
+  const keepFields = ['AC_NO', 'AC_NAME', 'district', ...(hasPc ? ['PC_NO', 'PC_NAME'] : [])].join(',');
+  const dissolveCopy = ['AC_NAME', ...(hasPc ? ['PC_NO', 'PC_NAME'] : [])].join(',');
+
+  // The district each constituency sits in is a lookup, not a geometry
+  // operation, so it is worked out once on the full-resolution shapes and
+  // then carried across as a property.
+  //
+  // It cannot be done the obvious way — join first, simplify after —
+  // because putting both layers in one dataset gives them a shared arc
+  // pool and mapshaper splits arcs where the two sets of boundaries
+  // cross, which densified Jammu & Kashmir from 178,943 vertices to
+  // 227,645 before a single point had been removed. It cannot be done the
+  // other way either: simplifying first moves a constituency's interior
+  // point, and at 5% that pushed Yanam, Pathankot, Cuddalore and
+  // Dimapur-II far enough to fall outside the district that contains
+  // them. So the join runs on the untouched geometry and only its answer
+  // travels.
+  const LOOKUP = `${OUT}.districts.csv`;
   mapshaper([
     '-i', '.geo-src/india-districts.geojson', acFile, 'combine-files',
     '-rename-layers', 'districts,ac',
+    ...(CONF.acFields
+      ? ['-rename-fields', 'target=ac',
+        Object.entries(CONF.acFields).map(([from, to]) => `${to}=${from}`).join(',')]
+      : []),
     '-filter', 'target=districts', `state===${JSON.stringify(CONF.districtState)}`,
     '-filter', 'target=ac', acFilter,
-    '-dissolve', 'target=ac', 'AC_NO', 'copy-fields=AC_NAME,PC_NO,PC_NAME',
+    ...(needsDissolve ? ['-dissolve', 'target=ac', 'AC_NO', `copy-fields=${dissolveCopy}`] : []),
     '-join', 'target=ac', 'source=districts', 'point-method', 'fields=district',
-    '-filter-fields', 'target=ac', 'fields=AC_NO,AC_NAME,district,PC_NO,PC_NAME',
-    '-o', 'target=ac', 'format=geojson', RAW,
+    '-filter-fields', 'target=ac', 'fields=AC_NO,district',
+    '-o', 'target=ac', 'format=csv', LOOKUP,
   ]);
+  const districtOf = new Map();
+  const rows = readFileSync(LOOKUP, 'utf8').trim().split('\n').slice(1);
+  for (const row of rows) {
+    const [no, ...rest] = row.split(',');
+    districtOf.set(Number(no), rest.join(',').replace(/^"|"$/g, '').trim());
+  }
+  rmSync(LOOKUP, { force: true });
 
   const MAP_BUDGET = 400 * 1024;
-  const STEPS = ['5%', '3%', '2%', '1.5%', '1%', '0.6%'];
+  const STEPS = ['5%', '3%', '2%', '1.5%', '1%', '0.6%', '0.3%'];
   let used = null;
   let mapBytes = 0;
   for (const pct of STEPS) {
     mapshaper([
-      RAW, '-simplify', pct, 'keep-shapes',
+      acFile,
+      ...(CONF.acFields
+        ? ['-rename-fields', Object.entries(CONF.acFields).map(([from, to]) => `${to}=${from}`).join(',')]
+        : []),
+      '-filter', acFilter,
+      ...(needsDissolve ? ['-dissolve', 'AC_NO', `copy-fields=${dissolveCopy}`] : []),
+      '-simplify', pct, 'keep-shapes',
+      '-filter-fields', `fields=${keepFields.replace(',district', '')}`,
       '-o', 'format=geojson', 'precision=0.0001', `${OUT}constituencies.geojson`,
     ]);
+
+    const built = JSON.parse(readFileSync(`${OUT}constituencies.geojson`, 'utf8'));
+    for (const f of built.features) f.properties.district = districtOf.get(Number(f.properties.AC_NO));
+    writeFileSync(`${OUT}constituencies.geojson`, JSON.stringify(built));
+
     used = pct;
     assertPlaced(`${OUT}constituencies.geojson`);
     districtsFromConstituencies(OUT);
-    const map = projectGeo(
-      JSON.parse(readFileSync(`${OUT}constituencies.geojson`, 'utf8')),
-      JSON.parse(readFileSync(`${OUT}districts.geojson`, 'utf8')),
-    );
-    mapBytes = Buffer.byteLength(JSON.stringify(map));
+    mapBytes = Buffer.byteLength(JSON.stringify(projectGeo(
+      built, JSON.parse(readFileSync(`${OUT}districts.geojson`, 'utf8')),
+    )));
     if (mapBytes <= MAP_BUDGET) break;
   }
-  rmSync(RAW, { force: true });
 
   const fc = JSON.parse(readFileSync(`${OUT}constituencies.geojson`, 'utf8'));
   const numbers = fc.features.map((f) => Number(f.properties.AC_NO));

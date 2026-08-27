@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-72-jasdan",
+  "constituency": {
+    "number": 72,
+    "name": "Jasdan",
+    "district": "Rajkot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kunvarjibhai Mohanbhai Bavaliya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed From Gujarat University Ahmedabad Year 1979, B.Sc From Sir P.P. Institute Of Science Bhavnagar (Saurashtra Univerisity) Year 1977-78, Old SSC Year 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8748639,
+      "immovable": 15665000,
+      "total": 24413639,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5138",
+    "retrieved": "2026-08-27"
+  }
+}

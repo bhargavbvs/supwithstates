@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-3-churu",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Churu",
+    "reserved": null,
+    "assembly_segments": [
+      "Nohar",
+      "Bhadra",
+      "Sadulpur",
+      "Taranagar",
+      "Sardarshahar",
+      "Churu",
+      "Ratangarh",
+      "Sujangarh"
+    ]
+  },
+  "representative": {
+    "name": "Rahul Kaswan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com 1999 Delhi University PGDM National Institute of Sales 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30022981,
+      "immovable": 23300000,
+      "total": 53322989,
+      "liabilities": 24417448
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=395",
+    "retrieved": "2026-08-27"
+  }
+}

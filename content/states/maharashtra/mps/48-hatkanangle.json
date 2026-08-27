@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-48-hatkanangle",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 48,
+    "name": "Hatkanangle",
+    "reserved": null,
+    "assembly_segments": [
+      "Shirala",
+      "Shahuwadi",
+      "Islampur",
+      "Hatkanangle",
+      "Shirol",
+      "Ichalkaranji"
+    ]
+  },
+  "representative": {
+    "name": "Dhairyasheel Sambhajirao Mane",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A Yashvantarao chavan Open University Nashik in Year 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9330759,
+      "immovable": 35801000,
+      "total": 45131759,
+      "liabilities": 21975671
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3537",
+    "retrieved": "2026-08-27"
+  }
+}

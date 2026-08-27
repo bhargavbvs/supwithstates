@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-29-betul",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 29,
+    "name": "Betul",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Timarni",
+      "Harda",
+      "Ghoradongri",
+      "Harsud",
+      "Amla",
+      "Bhainsdehi",
+      "Betul",
+      "Multai"
+    ]
+  },
+  "representative": {
+    "name": "Durgadas (D. D.) Uikey",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Retired, MP",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Barkatullah University Bhopal In 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8288801,
+      "immovable": 10200000,
+      "total": 18487232,
+      "liabilities": 1182315
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1830",
+    "retrieved": "2026-08-27"
+  }
+}

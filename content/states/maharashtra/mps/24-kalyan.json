@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-24-kalyan",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 24,
+    "name": "Kalyan",
+    "reserved": null,
+    "assembly_segments": [
+      "Kalyan East",
+      "Ulhasnagar",
+      "Mumbra-Kalwa",
+      "Kalyan Rural",
+      "Dombivali",
+      "Ambernath"
+    ]
+  },
+  "representative": {
+    "name": "Dr Shrikant Eknath Shinde",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 37,
+    "profession": "Doctor, Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Surgery Orthopedics From Dr. D Y Patil University Navi Mumbai In The Year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 81508812,
+      "immovable": 67700000,
+      "total": 149208812,
+      "liabilities": 66320443
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7216",
+    "retrieved": "2026-08-27"
+  }
+}

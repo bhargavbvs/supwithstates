@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-34-virudhunagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 34,
+    "name": "Virudhunagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Thirumangalam",
+      "Thiruparankundram",
+      "Virudhunagar",
+      "Aruppukkottai",
+      "Sivakasi",
+      "Sattur"
+    ]
+  },
+  "representative": {
+    "name": "Manickam Tagore B",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": "Advocate Profession & Law Consultancy",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Bangalore University in 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8614188,
+      "immovable": 53249863,
+      "total": 61719802,
+      "liabilities": 9500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=230",
+    "retrieved": "2026-08-27"
+  }
+}

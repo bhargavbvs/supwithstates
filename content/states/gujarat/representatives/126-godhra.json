@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-126-godhra",
+  "constituency": {
+    "number": 126,
+    "name": "Godhra",
+    "district": "Panch Mahals",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C.K.Raulji",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Farming, Business, Broker, President JCR Education Trust",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "TYB.Com From Timba Godhra Gujarat University Year 1975, Old SSC From PM Patel Highschool Year 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41150020,
+      "immovable": 93197618,
+      "total": 134347638,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6122",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-115-matar",
+  "constituency": {
+    "number": 115,
+    "name": "Matar",
+    "district": "Kheda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalpeshbhai Ashabhai Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Farming & Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "3rd Pass From Primary School Bhalada Year 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 937704,
+      "immovable": 10700000,
+      "total": 11637704,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6159",
+    "retrieved": "2026-08-27"
+  }
+}

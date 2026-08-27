@@ -1,0 +1,42 @@
+{
+  "id": "gj-ac-24-kadi",
+  "constituency": {
+    "number": 24,
+    "name": "Kadi",
+    "district": "Mahesana",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajendrakumar (Rajubhai) Daneshwar Chavda",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Retired",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A 1979 Gujarat University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2020583,
+      "immovable": 1400000,
+      "total": 3420583,
+      "liabilities": 46000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6793",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-29-khansahib",
+  "constituency": {
+    "number": 29,
+    "name": "Khansahib",
+    "district": "Badgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saif Ud Din Bhat",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Political Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from University of Kashmir in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6916000,
+      "immovable": 165415000,
+      "total": 172316000,
+      "liabilities": 1575764
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=387",
+    "retrieved": "2026-08-27"
+  }
+}

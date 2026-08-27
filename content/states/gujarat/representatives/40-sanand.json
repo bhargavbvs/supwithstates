@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-40-sanand",
+  "constituency": {
+    "number": 40,
+    "name": "Sanand",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kanubhai Karamshibhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Farming &Business (Petrol Pump)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th(H.S.C),From Holy Family English School,Year-2003-04"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14377022,
+      "immovable": 205600000,
+      "total": 219977022,
+      "liabilities": 3681401
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6227",
+    "retrieved": "2026-08-27"
+  }
+}

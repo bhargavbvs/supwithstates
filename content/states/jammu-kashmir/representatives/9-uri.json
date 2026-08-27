@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-9-uri",
+  "constituency": {
+    "number": 9,
+    "name": "Uri",
+    "district": "Baramula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sajjad Shafi",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS From Govt. Medical College Jammu, Year-1996-97"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6830838,
+      "immovable": 55500000,
+      "total": 62658838,
+      "liabilities": 689191
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=717",
+    "retrieved": "2026-08-27"
+  }
+}

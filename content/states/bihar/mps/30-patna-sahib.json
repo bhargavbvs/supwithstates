@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-30-patna-sahib",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 30,
+    "name": "Patna Sahib",
+    "reserved": null,
+    "assembly_segments": [
+      "Digha",
+      "Bankipur",
+      "Patna Sahib",
+      "Kumhrar",
+      "Fatuha",
+      "Bakhtiarpur"
+    ]
+  },
+  "representative": {
+    "name": "Ravi Shankar Prasad",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Senior Advocate, Supreme Court of India",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LL.B. from Patna Law College Patna University Year 1976-79 & M.A. From Patna College Patna University Year 1974-76"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 330761338,
+      "immovable": 75337000,
+      "total": 406098345,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9505",
+    "retrieved": "2026-08-27"
+  }
+}

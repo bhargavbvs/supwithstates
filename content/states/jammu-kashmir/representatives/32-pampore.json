@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-32-pampore",
+  "constituency": {
+    "number": 32,
+    "name": "Pampore",
+    "district": "Pulwama",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hasnain Masoodi",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Senior Advocate (Supreme court of India ) Former Member Parliament",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM, Harvard University, Cambridge Masschusetts"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3632174,
+      "immovable": 74000000,
+      "total": 91132174,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=15",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Politician and Architect",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/07a5935032e1baec981a1a3d7a43158850300b36.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=137"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Architecture (B. Arch.,) Jawaharlal Neharu Technological University, Hyderabad in the year 1985-90"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=137",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

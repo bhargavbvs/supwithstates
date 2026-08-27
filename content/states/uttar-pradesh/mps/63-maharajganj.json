@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-63-maharajganj",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 63,
+    "name": "Maharajganj",
+    "reserved": null,
+    "assembly_segments": [
+      "Nautanwa",
+      "Siswa",
+      "Maharajganj",
+      "Pharenda",
+      "Paniyra"
+    ]
+  },
+  "representative": {
+    "name": "Pankaj Chaudhary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Shivpati, Inter College, Shohartgarh, Siddharthnagar in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 57587009,
+      "immovable": 361423600,
+      "total": 419010509,
+      "liabilities": 38247129
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8774",
+    "retrieved": "2026-08-27"
+  }
+}

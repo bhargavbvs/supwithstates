@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-33-tral",
+  "constituency": {
+    "number": 33,
+    "name": "Tral",
+    "district": "Pulwama",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rafiq Ahmad Naik",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir Peoples Democratic Party",
+    "current_party": "Jammu & Kashmir Peoples Democratic Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc in 1986 from SP College Srinagar Kashmir University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4705842,
+      "immovable": 87500000,
+      "total": 92205842,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=58",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-107-botad",
+  "constituency": {
+    "number": 107,
+    "name": "Botad",
+    "district": "Botad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Makwana Umeshbhai Naranbhai",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Construction and General Trading",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed From Bhavnagar University Bhavnagar Year 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6017847,
+      "immovable": 2500000,
+      "total": 8517847,
+      "liabilities": 2803689
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5604",
+    "retrieved": "2026-08-27"
+  }
+}

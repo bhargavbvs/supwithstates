@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Social Worker,Poltician, Agriculture & Z.P. Chairperson",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/ee05126aa155d6ff41e16ce8277d696ae3ba5557.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=350"
-    },
+    "photo": null,
     "education": {
       "level": "5th Pass",
       "detail": "Primary Education"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=350",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-117-mehmedabad",
+  "constituency": {
+    "number": 117,
+    "name": "Mehmedabad",
+    "district": "Kheda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arjunsinh Udesinh Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Sanchalay Deendayal Grahak Bhandar, Vathwadi Taluka, Mehmdabad Kheda",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Gujarat University In 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7592062,
+      "immovable": 866000,
+      "total": 8458062,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6154",
+    "retrieved": "2026-08-27"
+  }
+}

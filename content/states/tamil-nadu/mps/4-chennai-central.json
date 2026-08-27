@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-4-chennai-central",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Chennai Central",
+    "reserved": null,
+    "assembly_segments": [
+      "Villivakkam",
+      "Harbour",
+      "Anna Nagar",
+      "Egmore",
+      "Chepauk-Thiruvalliken",
+      "Thousand Lights"
+    ]
+  },
+  "representative": {
+    "name": "Dayanidhi Maran",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Salaried",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "HSLC at Don Bosco Matriculation higher scondary school Egmore Chennai completed in 1985 and Graduated in Bachelor of Arts Economics from Loyola College, Madras University Chennai completed in 1989"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 125424841,
+      "immovable": 45345196,
+      "total": 170770037,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1043",
+    "retrieved": "2026-08-27"
+  }
+}

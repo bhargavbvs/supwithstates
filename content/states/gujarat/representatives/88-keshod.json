@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-88-keshod",
+  "constituency": {
+    "number": 88,
+    "name": "Keshod",
+    "district": "Junagadh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devabhai Punjabhai Malam",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "4th Pass Galsi Primary School"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2246640,
+      "immovable": 43323000,
+      "total": 45569640,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4937",
+    "retrieved": "2026-08-27"
+  }
+}

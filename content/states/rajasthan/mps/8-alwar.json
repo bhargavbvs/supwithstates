@@ -1,0 +1,47 @@
+{
+  "id": "rj-pc-8-alwar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Alwar",
+    "reserved": null,
+    "assembly_segments": [
+      "Tijara",
+      "Behror",
+      "Kishangarh Bas",
+      "Mundawar"
+    ]
+  },
+  "representative": {
+    "name": "Bhupender Yadav",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Public Life, Political Activity",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1993 from Govt College Ajmer , University of Ajmer"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19886037,
+      "immovable": 3350000,
+      "total": 23236037,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=360",
+    "retrieved": "2026-08-27"
+  }
+}

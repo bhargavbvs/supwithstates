@@ -1,0 +1,79 @@
+{
+  "id": "ml-pc-1-shillong",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Shillong",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Jirang",
+      "Mawhati",
+      "Nongpoh",
+      "Umsning",
+      "Mairang",
+      "Rambrai Jyrngam",
+      "Umroi",
+      "Mawthadraishan",
+      "Nartiang",
+      "Mawshynrut",
+      "Sohing",
+      "Mawryngkneng",
+      "Raliang",
+      "Mawlai",
+      "Pynthorumkhrah",
+      "Nongstoin",
+      "North Shillong",
+      "East Shillong",
+      "West Shillong",
+      "Mylliem",
+      "South Shillong",
+      "Nongthymmai",
+      "Jowai",
+      "Mawphlang",
+      "Nongkrem",
+      "Mawkynrew",
+      "Mawsynram",
+      "Sutnga-Saipung",
+      "Khliehriat",
+      "Sohra",
+      "Mawkyrwat",
+      "Amlarem",
+      "Pynursla",
+      "Ranikor",
+      "Shella",
+      "Mowkaiaw"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Ricky Andrew J. Syngkon",
+    "election": "2024",
+    "elected_party": "Voice of the People Party",
+    "current_party": "Voice of the People Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Assistant professor",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctrate of Philosophy In Economics, School Of Economics Management And information Sciences, North Eastern Hill University2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4378410,
+      "immovable": 8750000,
+      "total": 13128411,
+      "liabilities": 443048
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=344",
+    "retrieved": "2026-08-27"
+  }
+}

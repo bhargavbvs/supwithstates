@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-35-purulia",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 35,
+    "name": "Purulia",
+    "reserved": null,
+    "assembly_segments": [
+      "Balarampur",
+      "Baghmundi",
+      "Joypur",
+      "Purulia",
+      "Manbazar",
+      "Kashipur",
+      "Para"
+    ]
+  },
+  "representative": {
+    "name": "Jyotirmay Singh Mahato",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 39,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from Rourkela Law College, Sambalpur University 2012"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 595229,
+      "immovable": 0,
+      "total": 595229,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7961",
+    "retrieved": "2026-08-27"
+  }
+}

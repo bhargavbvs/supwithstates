@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-51-bhadarwah",
+  "constituency": {
+    "number": 51,
+    "name": "Bhadarwah",
+    "district": "Doda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Daleep Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Contractor",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From J&K BOSE in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6015779,
+      "immovable": 5090000,
+      "total": 20331129,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=126",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "BUSINESS",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/a351c52b431734424a95ddedac455cc43bf41ece.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=203"
-    },
+    "photo": null,
     "education": {
       "level": "Others",
       "detail": "ITI (Diesel Mechanic) in 1986 from Asian ITI College"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=203",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

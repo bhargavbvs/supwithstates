@@ -1,0 +1,42 @@
+{
+  "id": "gj-ac-85-manavadar",
+  "constituency": {
+    "number": 85,
+    "name": "Manavadar",
+    "district": "Junagadh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvindbhai Jinabhai Ladani",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture And Social Activist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "F.Y.B. Com From MT Dhamsaniya College Rajkot Saurashtra University In The Year 1982, HSC From Saurashtra Highschool Rajkot Gujarat Higher Secondary Education Board Gandhinagar In The Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 102932,
+      "immovable": 9810000,
+      "total": 9912932,
+      "liabilities": 352000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6761",
+    "retrieved": "2026-08-27"
+  }
+}

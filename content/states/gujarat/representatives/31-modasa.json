@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-31-modasa",
+  "constituency": {
+    "number": 31,
+    "name": "Modasa",
+    "district": "Arvalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhikhusinhji Chatursinhji Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Farming-Animal Husbandry-Developers",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Old SSC (11th) From Gujarat Secondary Education Board 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7874986,
+      "immovable": 36500000,
+      "total": 44374986,
+      "liabilities": 22201402
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6201",
+    "retrieved": "2026-08-27"
+  }
+}

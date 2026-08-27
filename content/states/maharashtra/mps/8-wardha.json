@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-8-wardha",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Wardha",
+    "reserved": null,
+    "assembly_segments": [
+      "Morshi",
+      "Arvi",
+      "Wardha",
+      "Dhamangaon Railway",
+      "Deoli",
+      "Hinganghat"
+    ]
+  },
+  "representative": {
+    "name": "Amar Sharadrao Kale",
+    "election": "2024",
+    "elected_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "current_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Ex MLA, Arvi",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Bachelor Of Arts From Fergusson College Pune, Bachelor Of Arts Part II, Nagpur University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45427744,
+      "immovable": 60747300,
+      "total": 106175044,
+      "liabilities": 29504353
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1969",
+    "retrieved": "2026-08-27"
+  }
+}

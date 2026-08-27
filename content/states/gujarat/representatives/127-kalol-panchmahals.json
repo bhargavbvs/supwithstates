@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-127-kalol-panchmahals",
+  "constituency": {
+    "number": 127,
+    "name": "Kalol (Panchmahals)",
+    "district": "Panch Mahals",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Fatesinh Vakhatsinh Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Farming & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Nutan High School Gundi Ghoghamba In Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2850000,
+      "immovable": 3800000,
+      "total": 6650000,
+      "liabilities": 695000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6114",
+    "retrieved": "2026-08-27"
+  }
+}

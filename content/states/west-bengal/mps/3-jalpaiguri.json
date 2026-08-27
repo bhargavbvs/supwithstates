@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-3-jalpaiguri",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Jalpaiguri",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Mekliganj",
+      "Dhupguri",
+      "Maynaguri",
+      "Jalpaiguri",
+      "Rajganj",
+      "Dabgram-Phulbari",
+      "Mal"
+    ]
+  },
+  "representative": {
+    "name": "Dr Jayanta Kumar Roy",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Doctor/Parliamentarian/Singer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Doctor of Medicine Community Medicine From West Bengal University of Health Science Course Year 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7736558,
+      "immovable": 12100000,
+      "total": 19356558,
+      "liabilities": 56196
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=970",
+    "retrieved": "2026-08-27"
+  }
+}

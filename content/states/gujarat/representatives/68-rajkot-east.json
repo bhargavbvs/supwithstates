@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-68-rajkot-east",
+  "constituency": {
+    "number": 68,
+    "name": "Rajkot East",
+    "district": "Rajkot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Uday Kangad",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass From Murlidhar High School, Rajkot in Year 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15441686,
+      "immovable": 82500000,
+      "total": 97941686,
+      "liabilities": 15989530
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5003",
+    "retrieved": "2026-08-27"
+  }
+}

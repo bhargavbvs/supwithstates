@@ -1,0 +1,75 @@
+{
+  "id": "mn-pc-1-inner-manipur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Inner Manipur",
+    "reserved": null,
+    "assembly_segments": [
+      "Khundrakpam",
+      "Sekmai",
+      "Heingang",
+      "Lamlai",
+      "Lamsang",
+      "Thangmeiband",
+      "Khurai",
+      "Wangkhei",
+      "Uripok",
+      "Patsoi",
+      "Konthoujam",
+      "Khetrigao",
+      "Andro",
+      "Yaiskul",
+      "Keisamthong",
+      "Thongju",
+      "Singjamei",
+      "Naoriya Pakhanglak*",
+      "Langthabal",
+      "Keirao",
+      "Wangoi",
+      "Oinam",
+      "Wangkhem",
+      "Nambol",
+      "Lilong",
+      "Thoubal",
+      "Mayang Imphal",
+      "Bishenpur",
+      "Thanga",
+      "Moirang",
+      "Kumbi",
+      "Sagolband"
+    ]
+  },
+  "representative": {
+    "name": "Angomcha Bimol Akoijam",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Associate Professor, JNU, New Delhi",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctorate of Philosophy From University of Delhi In 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7171555,
+      "immovable": 2496000,
+      "total": 9767556,
+      "liabilities": 3484121
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=337",
+    "retrieved": "2026-08-27"
+  }
+}

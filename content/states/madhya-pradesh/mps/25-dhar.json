@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-25-dhar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 25,
+    "name": "Dhar",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Badnawar",
+      "Sardarpur",
+      "Dhar",
+      "Dr. Ambedkar Nagar-Mhow",
+      "Gandhwani",
+      "Dharampuri",
+      "Manawar",
+      "Kukshi"
+    ]
+  },
+  "representative": {
+    "name": "Savitri Thakur",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Agriculture, Rent, Frenchise Income, Pension of former MP",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Urdu Education Board in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16232544,
+      "immovable": 36875000,
+      "total": 53107546,
+      "liabilities": 6963601
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5162",
+    "retrieved": "2026-08-27"
+  }
+}

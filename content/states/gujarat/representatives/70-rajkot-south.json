@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-70-rajkot-south",
+  "constituency": {
+    "number": 70,
+    "name": "Rajkot South",
+    "district": "Rajkot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rameshbhai Virjibhai Tilala",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass from Shrishpar Primary School In 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 193643705,
+      "immovable": 1564256000,
+      "total": 1757899705,
+      "liabilities": 86884866
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5011",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-15-salem",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Salem",
+    "reserved": null,
+    "assembly_segments": [
+      "Omalur",
+      "Edappadi",
+      "Salem (West)",
+      "Salem (North)",
+      "Veerapandi",
+      "Salem (South)"
+    ]
+  },
+  "representative": {
+    "name": "Selvaganapathi T M",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Agriculturist, Real estate, Money Lender",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A, Jawaharlal Nehru university, Delhi, 1981 and LLB Delhi university, 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 136811974,
+      "immovable": 617210000,
+      "total": 754021976,
+      "liabilities": 280309918
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=176",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-129-fatepura",
+  "constituency": {
+    "number": 129,
+    "name": "Fatepura",
+    "district": "Dahod",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Katara Rameshbhai Bhurabhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Agriculture Diploma from Vasana MArgia, dist. Kheda year 1996/97"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12288096,
+      "immovable": 470000,
+      "total": 12758096,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6101",
+    "retrieved": "2026-08-27"
+  }
+}

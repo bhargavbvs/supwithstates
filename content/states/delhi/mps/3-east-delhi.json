@@ -1,0 +1,53 @@
+{
+  "id": "dl-pc-3-east-delhi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "East Delhi",
+    "reserved": null,
+    "assembly_segments": [
+      "Shahdara",
+      "Gandhi Nagar",
+      "Vishwas Nagar",
+      "Krishna Nagar",
+      "Jangpura",
+      "Laxmi Nagar",
+      "Patparganj",
+      "Kondli",
+      "Trilokpuri",
+      "Okhla"
+    ]
+  },
+  "representative": {
+    "name": "Harsh Malhotra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Printing Press (Director)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Delhi University in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13324014,
+      "immovable": 27500000,
+      "total": 40824015,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7899",
+    "retrieved": "2026-08-27"
+  }
+}

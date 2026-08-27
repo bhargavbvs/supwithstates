@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-25-jhalawar-baran",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 25,
+    "name": "Jhalawar-Baran",
+    "reserved": null,
+    "assembly_segments": [
+      "Anta",
+      "Kishanganj",
+      "Baran?atru",
+      "Chhabra",
+      "Khanpur",
+      "Jhalrapatan",
+      "Dag",
+      "Manohar Thana"
+    ]
+  },
+  "representative": {
+    "name": "Dushyant Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA( Hotel Administration) From Johnson & Wales University , USA In 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 110270565,
+      "immovable": 279037975,
+      "total": 389308540,
+      "liabilities": 86593973
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2013",
+    "retrieved": "2026-08-27"
+  }
+}

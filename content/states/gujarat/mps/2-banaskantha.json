@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-2-banaskantha",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Banaskantha",
+    "reserved": null,
+    "assembly_segments": [
+      "Tharad",
+      "Deesa",
+      "Vav",
+      "Dhanera",
+      "Danta",
+      "Deodar",
+      "Palanpur"
+    ]
+  },
+  "representative": {
+    "name": "Geniben Nagaji Thakor",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Agriculture, Housewife And Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Jain Vishwabharti Institute Ladnun (Distance Education Programe) In The Year 2020"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4146691,
+      "immovable": 4387273,
+      "total": 8533965,
+      "liabilities": 627886
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3453",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-92-kodinar",
+  "constituency": {
+    "number": 92,
+    "name": "Kodinar",
+    "district": "Gir Somnath",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pradyuman Ganubhai Vaja",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Doctor - Retd. Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS, DGO, MD LLB, LLM in 2022, MD in 1995 Gujarat University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24035891,
+      "immovable": 32300000,
+      "total": 56335891,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5221",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-18-panchmahal",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Panchmahal",
+    "reserved": null,
+    "assembly_segments": [
+      "Lunawada",
+      "Morva Hadaf",
+      "Balasinor",
+      "Shehra",
+      "Thasra",
+      "Godhra",
+      "Kalol"
+    ]
+  },
+  "representative": {
+    "name": "Rajpalsinh Mahendrasinh Jadav",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Social Worker/Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. Second Year from SP Patel Arts College Simaliya Dhodhamba Panchmahal Gujarat University in 2003, 12th Pass From Shri Prakash Secondary And Higher Secondary School Simliya Bariya In The Year 2000, 10th Pass From MM Gandhi Highschool Karoli, Kalol Panc"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8996500,
+      "immovable": 13050000,
+      "total": 22046500,
+      "liabilities": 439992
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3430",
+    "retrieved": "2026-08-27"
+  }
+}

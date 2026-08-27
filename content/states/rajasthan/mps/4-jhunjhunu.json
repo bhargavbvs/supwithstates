@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-4-jhunjhunu",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Jhunjhunu",
+    "reserved": null,
+    "assembly_segments": [
+      "Pilani",
+      "Mandawa",
+      "Surajgarh",
+      "Jhunjhunu",
+      "Fatehpur",
+      "Khetri",
+      "Nawalgarh",
+      "Udaipurwati"
+    ]
+  },
+  "representative": {
+    "name": "Brijendra Singh Ola",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Political Science) from Rajasthan University Jaipur 1974, LLB From Rajasthan University Jaipur 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 84786629,
+      "immovable": 75525000,
+      "total": 160284000,
+      "liabilities": 32710000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=444",
+    "retrieved": "2026-08-27"
+  }
+}

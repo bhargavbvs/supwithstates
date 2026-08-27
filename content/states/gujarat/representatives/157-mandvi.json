@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-157-mandvi",
+  "constituency": {
+    "number": 157,
+    "name": "Mandvi",
+    "district": "Tapi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kunvarjibhai Narsinhbhai Halpati",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "D.B.Ed Pass From Gujarat State Examination Board, Ahmedabad Year 1991, B.A Pass From South Gujarat University Surat Year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6617614,
+      "immovable": 4163260,
+      "total": 10780874,
+      "liabilities": 2749374
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5258",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-25-khagaria",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 25,
+    "name": "Khagaria",
+    "reserved": null,
+    "assembly_segments": [
+      "Simri Bakhtiarpur",
+      "Hasanpur",
+      "Alauli",
+      "Beldaur",
+      "Khagaria",
+      "Parbatta"
+    ]
+  },
+  "representative": {
+    "name": "Rajesh Verma",
+    "election": "2024",
+    "elected_party": "Lok Janshakti Party(Ram Vilas)",
+    "current_party": "Lok Janshakti Party(Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 31,
+    "profession": "Business and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor or Engineering from Rajiv Gandhi Proudyogiki Vishwa Vidyalaya Bhopal, in the year of 2014"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48894409,
+      "immovable": 5000000,
+      "total": 53894412,
+      "liabilities": 40745130
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3633",
+    "retrieved": "2026-08-27"
+  }
+}

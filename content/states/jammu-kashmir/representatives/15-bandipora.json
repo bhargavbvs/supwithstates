@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-15-bandipora",
+  "constituency": {
+    "number": 15,
+    "name": "Bandipora",
+    "district": "Bandipura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nizam Uddin Bhat",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 77,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LLB From University of Kashmir in 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 812896,
+      "immovable": 22755000,
+      "total": 23567896,
+      "liabilities": 2379934
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=902",
+    "retrieved": "2026-08-27"
+  }
+}

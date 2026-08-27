@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-11-sidhi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Sidhi",
+    "reserved": null,
+    "assembly_segments": [
+      "Chitrangi",
+      "Sihawal",
+      "Churhat",
+      "Sidhi",
+      "Dhauhani",
+      "Beohari",
+      "Devsar",
+      "Singrauli"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Rajesh Mishra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": "Dental Surgeon ( Pvt Practice)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Pol Sci). IGNOU New Delhi December 2022"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27008061,
+      "immovable": 117000000,
+      "total": 144008066,
+      "liabilities": 18427959
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1",
+    "retrieved": "2026-08-27"
+  }
+}

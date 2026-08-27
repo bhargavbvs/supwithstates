@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-10-baharampur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Baharampur",
+    "reserved": null,
+    "assembly_segments": [
+      "Burwan",
+      "Kandi",
+      "Bharatpur",
+      "Rejinagar",
+      "Beldanga",
+      "Baharampur",
+      "Naoda"
+    ]
+  },
+  "representative": {
+    "name": "Pathan Yusuf",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass from MES High School, Nagarwada, Vadodara, Gujarat-390001."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 243023875,
+      "immovable": 215635350,
+      "total": 456304016,
+      "liabilities": 119670558
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5183",
+    "retrieved": "2026-08-27"
+  }
+}

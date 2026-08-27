@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-54-ramban",
+  "constituency": {
+    "number": 54,
+    "name": "Ramban",
+    "district": "Ramban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arjun Singh Raju",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA., LLB from Barkatullah University Bhopal in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3469649,
+      "immovable": 4500000,
+      "total": 7969649,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=145",
+    "retrieved": "2026-08-27"
+  }
+}

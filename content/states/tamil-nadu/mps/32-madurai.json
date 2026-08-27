@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-32-madurai",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 32,
+    "name": "Madurai",
+    "reserved": null,
+    "assembly_segments": [
+      "Melur",
+      "Madurai East",
+      "Madurai West",
+      "Madurai North",
+      "Madurai Central",
+      "Madurai South"
+    ]
+  },
+  "representative": {
+    "name": "Venkatesan S",
+    "election": "2024",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Writer, Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "+2 (Higher Secondary) Muthukula Thevar Higher Secondary School, Thiruparangkundram 1988"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19896634,
+      "immovable": 640000,
+      "total": 20536639,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1568",
+    "retrieved": "2026-08-27"
+  }
+}

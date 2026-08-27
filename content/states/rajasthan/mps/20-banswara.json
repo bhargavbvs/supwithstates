@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-20-banswara",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 20,
+    "name": "Banswara",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Dungarpur",
+      "Ghatol",
+      "Sagwara",
+      "Chorasi",
+      "Garhi",
+      "Banswara",
+      "Bagidora",
+      "Kushalgarh"
+    ]
+  },
+  "representative": {
+    "name": "Raj Kumar Roat",
+    "election": "2024",
+    "elected_party": "Bharat Adivasi Party",
+    "current_party": "Bharat Adivasi Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 31,
+    "profession": "MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. from Rajasthan University Jaipur in 2015"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2966679,
+      "immovable": 8385000,
+      "total": 11731679,
+      "liabilities": 2971833
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1771",
+    "retrieved": "2026-08-27"
+  }
+}

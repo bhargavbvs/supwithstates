@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "Profession Dental Doctor (Master of Dental Surgery)",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/2c883a509a4cc2ae4e30cc8bafdbca42766ccf09.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=220"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Dental Surgery (MDS) From Bapuji Dental College, Rajivgandhi University, Karnataka"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=220",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-26-central-shalteng",
+  "constituency": {
+    "number": 26,
+    "name": "Central Shalteng",
+    "district": "Srinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tariq Hameed Karra",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from University of Kashmir 1979-1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4867570,
+      "immovable": 1475400000,
+      "total": 1484417570,
+      "liabilities": 1268938
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=526",
+    "retrieved": "2026-08-27"
+  }
+}

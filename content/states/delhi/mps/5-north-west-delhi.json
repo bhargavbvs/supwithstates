@@ -1,0 +1,53 @@
+{
+  "id": "dl-pc-5-north-west-delhi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "North West Delhi",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Nerela",
+      "Bawana",
+      "Mundka",
+      "Badli",
+      "Rohini",
+      "Rithala",
+      "Kirari",
+      "Mangol Puri",
+      "Sultan Pur Majra",
+      "Nangloi Jat"
+    ]
+  },
+  "representative": {
+    "name": "Yogender Chandoliya",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (Pol. Science and History) from Swami Vivekanand Subharti University UP Meerut 2022"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6123480,
+      "immovable": 21500000,
+      "total": 27623483,
+      "liabilities": 938900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7905",
+    "retrieved": "2026-08-27"
+  }
+}

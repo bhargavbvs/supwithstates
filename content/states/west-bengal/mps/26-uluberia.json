@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-26-uluberia",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 26,
+    "name": "Uluberia",
+    "reserved": null,
+    "assembly_segments": [
+      "Uluberia Purba",
+      "Uluberia Uttar",
+      "Uluberia Dakshin",
+      "Shyampur",
+      "Bagnan",
+      "Amta",
+      "Udaynarayanpur"
+    ]
+  },
+  "representative": {
+    "name": "Sajda Ahmed",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Social Service, Member of parliament & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A , From Univerty of Calcutta, 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38042023,
+      "immovable": 7000000,
+      "total": 44042025,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7200",
+    "retrieved": "2026-08-27"
+  }
+}

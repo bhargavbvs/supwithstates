@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-4-lolab",
+  "constituency": {
+    "number": 4,
+    "name": "Lolab",
+    "district": "Kupwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Qaysar Jamshaid Lone",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Social Activist/ Politician/ Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Forestry DDR FTI Haldwani, U.K. Year-2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12201000,
+      "immovable": 80741000,
+      "total": 92915000,
+      "liabilities": 3900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=593",
+    "retrieved": "2026-08-27"
+  }
+}

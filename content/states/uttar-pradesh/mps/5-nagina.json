@@ -1,0 +1,47 @@
+{
+  "id": "up-pc-5-nagina",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Nagina",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Najibabad",
+      "Nagina",
+      "Dhampur",
+      "Nehtaur"
+    ]
+  },
+  "representative": {
+    "name": "Chandrashekhar",
+    "election": "2024",
+    "elected_party": "Aazad Samaj Party (Kanshi Ram)",
+    "current_party": "Aazad Samaj Party (Kanshi Ram)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 36,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Hemwati Nandan Bahuguna Garhwal University Year 2012"
+    },
+    "declared_cases": {
+      "total": 36,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3386579,
+      "immovable": 600000,
+      "total": 3986581,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=39",
+    "retrieved": "2026-08-27"
+  }
+}

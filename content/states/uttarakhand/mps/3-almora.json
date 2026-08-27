@@ -1,0 +1,57 @@
+{
+  "id": "uk-pc-3-almora",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Almora",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Dharchula",
+      "Kapkote",
+      "Bageshwar",
+      "Salt",
+      "Dwarahat",
+      "Gangolihat",
+      "Someshwar",
+      "Didihat",
+      "Ranikhet",
+      "Almora",
+      "Pithoragarh",
+      "Jageshwar",
+      "Lohaghat",
+      "Champawat"
+    ]
+  },
+  "representative": {
+    "name": "Ajay Tamta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Salary and allowances received as Lok Sabha",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Swami Vivekananda Shubh Bharti University in year 2023 U.P"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4841662,
+      "immovable": 7540000,
+      "total": 12381663,
+      "liabilities": 1909642
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=20",
+    "retrieved": "2026-08-27"
+  }
+}

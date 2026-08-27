@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-178-dharampur",
+  "constituency": {
+    "number": 178,
+    "name": "Dharampur",
+    "district": "Valsad",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Arvind Chhotubhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., From Veer Narmad University,Surat Year-1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15915354,
+      "immovable": 10750000,
+      "total": 26665354,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5372",
+    "retrieved": "2026-08-27"
+  }
+}

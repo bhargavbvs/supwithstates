@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-17-mathura",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Mathura",
+    "reserved": null,
+    "assembly_segments": [
+      "Mant",
+      "Chhata",
+      "Goverdhan",
+      "Baldev",
+      "Mathura"
+    ]
+  },
+  "representative": {
+    "name": "Hemamalini Dharmendra Deol",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 74,
+    "profession": "Actress",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From Sir Padampat Singhania University, Udaipur in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 292543804,
+      "immovable": 2496824423,
+      "total": 2789368227,
+      "liabilities": 79189097
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2797",
+    "retrieved": "2026-08-27"
+  }
+}

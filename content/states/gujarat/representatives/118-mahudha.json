@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-118-mahudha",
+  "constituency": {
+    "number": 118,
+    "name": "Mahudha",
+    "district": "Kheda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjaysinh Vijaysinh Mahida",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass Shree Saraswati School Year-1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11252085,
+      "immovable": 37000000,
+      "total": 48252085,
+      "liabilities": 8046971
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6150",
+    "retrieved": "2026-08-27"
+  }
+}

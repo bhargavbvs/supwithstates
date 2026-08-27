@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Agriculture and ZPTC",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/fce07d4276dc693bf65ca6918605f0e8bbb4593a.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=43"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.A., Govt. Degree College Nirmal. UGD-PEd., (Physical Education Teacher) Govt. Physical Education College, Domalguda, Hydrabad"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=43",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

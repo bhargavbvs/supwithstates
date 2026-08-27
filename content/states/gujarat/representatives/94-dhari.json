@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-94-dhari",
+  "constituency": {
+    "number": 94,
+    "name": "Dhari",
+    "district": "Amreli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kakadiya Jaysukhbhai Vallabhbhai (Kakadiya J.V.)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com Pass From Saurashtra University KK Parekh Commerce College Amreli In Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4424314,
+      "immovable": 33100000,
+      "total": 37524314,
+      "liabilities": 11639519
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5506",
+    "retrieved": "2026-08-27"
+  }
+}

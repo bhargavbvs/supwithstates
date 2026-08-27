@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-28-beerwah",
+  "constituency": {
+    "number": 28,
+    "name": "Beerwah",
+    "district": "Badgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shafi Ahmad Wani",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Medical College Srinagar in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4159000,
+      "immovable": 200000000,
+      "total": 224159000,
+      "liabilities": 800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=441",
+    "retrieved": "2026-08-27"
+  }
+}

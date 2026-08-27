@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-4-raver",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Raver",
+    "reserved": null,
+    "assembly_segments": [
+      "Chopda",
+      "Raver",
+      "Muktainagar",
+      "Bhusawal",
+      "Malkapur",
+      "Jamner"
+    ]
+  },
+  "representative": {
+    "name": "Khadse Raksha Nikhil",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 36,
+    "profession": "Agriculture And Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B. Sc (Computer) From Shrimati G G Khadse College Muktainagar Jalgaon In The Year 2010, HSC From KRT Arts, BH Commerce And AM Science College Nashik In The Year 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 112002645,
+      "immovable": 170035250,
+      "total": 182117790,
+      "liabilities": 7736381
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6921",
+    "retrieved": "2026-08-27"
+  }
+}

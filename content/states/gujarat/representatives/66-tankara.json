@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-66-tankara",
+  "constituency": {
+    "number": 66,
+    "name": "Tankara",
+    "district": "Morbi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Durlabhjibhai Harakhjibhai Dethariya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Business & Farming",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "S.S.C."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50947731,
+      "immovable": 2191101,
+      "total": 53138832,
+      "liabilities": 15127538
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5113",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-80-jamjodhpur",
+  "constituency": {
+    "number": 80,
+    "name": "Jamjodhpur",
+    "district": "Jamnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ahir Hemantbhai Hardasbhai",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Farmer and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11 th Pass From Shree gunda kenvani mandal in2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2554424,
+      "immovable": 23793050,
+      "total": 26347474,
+      "liabilities": 1484154
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4917",
+    "retrieved": "2026-08-27"
+  }
+}

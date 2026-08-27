@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-140-dabhoi",
+  "constituency": {
+    "number": 140,
+    "name": "Dabhoi",
+    "district": "Vadodara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shaileshbhai Kanaiyalal Mehta (Shailesh Sotta)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Partner in Firm doing Real Estate Business, Rent/Lease of Property, Petrol Pump",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Mechnical Engineering, M.S. University, Vadodara. Year-1981"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 131902441,
+      "immovable": 188812500,
+      "total": 320714941,
+      "liabilities": 143620639
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6061",
+    "retrieved": "2026-08-27"
+  }
+}

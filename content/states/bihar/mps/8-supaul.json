@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-8-supaul",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Supaul",
+    "reserved": null,
+    "assembly_segments": [
+      "Chhatapur",
+      "Nirmali",
+      "Triveniganj",
+      "Pipra",
+      "Supaul",
+      "Singheshwar"
+    ]
+  },
+  "representative": {
+    "name": "Dileshwar Kamait",
+    "election": "2024",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 78,
+    "profession": "Agriculture & Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From TP College Madhepura Bhagalpur University 1968"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9901458,
+      "immovable": 26290500,
+      "total": 36191958,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3589",
+    "retrieved": "2026-08-27"
+  }
+}

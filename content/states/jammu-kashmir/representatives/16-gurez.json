@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-16-gurez",
+  "constituency": {
+    "number": 16,
+    "name": "Gurez",
+    "district": "Bandipura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nazir Ahmad Khan",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Business Man",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Kashmir University in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2174733,
+      "immovable": 77744047,
+      "total": 79918780,
+      "liabilities": 28507520
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=607",
+    "retrieved": "2026-08-27"
+  }
+}

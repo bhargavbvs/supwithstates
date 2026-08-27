@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Advocate",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/bf7e1526afd3c48fe86f7803099ddff28d06aeb3.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=68"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A L.L.B From Padala Ram Reddy Law Collage HYD 1998"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=68",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

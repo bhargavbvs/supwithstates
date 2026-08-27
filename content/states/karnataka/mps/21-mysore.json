@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-21-mysore",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 21,
+    "name": "Mysore",
+    "reserved": null,
+    "assembly_segments": [
+      "Madikeri",
+      "Piriyapatna",
+      "Virajpet",
+      "Chamundeshwari",
+      "Hunsur",
+      "Chamaraja",
+      "Narasimharaja",
+      "Krishnaraja"
+    ]
+  },
+  "representative": {
+    "name": "Yaduveer Krishnadatta Chamaraja Wadiyar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 32,
+    "profession": "Company Director",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From (Double Major in Economics & English) from University of Amherst Massachusetts, USA In 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 94688187,
+      "immovable": 0,
+      "total": 94688187,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1900",
+    "retrieved": "2026-08-27"
+  }
+}

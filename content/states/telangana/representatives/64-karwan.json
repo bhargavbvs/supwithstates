@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Politician",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/08019d4e25d1065baa99ed7c71b9d8a9f529ffb2.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1428"
-    },
+    "photo": null,
     "education": {
       "level": "10th Pass",
       "detail": "Matric from Anwar Ul Uloom High School, State Board of Secondary Education AP Hyderabad in 1987"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1428",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-101-gariadhar",
+  "constituency": {
+    "number": 101,
+    "name": "Gariadhar",
+    "district": "Bhavnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudhirbhai Vaghani",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from M D Patel Higher Secondary School Gariadhar in Year 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 703940,
+      "immovable": 1200000,
+      "total": 1903940,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4881",
+    "retrieved": "2026-08-27"
+  }
+}

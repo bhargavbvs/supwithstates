@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-21-mainpuri",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 21,
+    "name": "Mainpuri",
+    "reserved": null,
+    "assembly_segments": [
+      "Mainpuri",
+      "Bhongaon",
+      "Karhal",
+      "Kishani",
+      "Jaswantnagar"
+    ]
+  },
+  "representative": {
+    "name": "Dimple Yadav",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 46,
+    "profession": "Social Work and Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Lucknow University Lucknow Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 143605232,
+      "immovable": 276656776,
+      "total": 420262015,
+      "liabilities": 9985548
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3607",
+    "retrieved": "2026-08-27"
+  }
+}

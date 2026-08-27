@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-18-agra",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Agra",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Jalesar",
+      "Etmadpur",
+      "Agra North",
+      "Agra South",
+      "Agra Cantt."
+    ]
+  },
+  "representative": {
+    "name": "Prof S P Singh Baghel",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From C.C.Singh University, Meerut UP, Year-2004 & M.A. Private From Dr.B.R.A.University, Agra, Year-2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14458687,
+      "immovable": 89900000,
+      "total": 104358691,
+      "liabilities": 5170325
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3493",
+    "retrieved": "2026-08-27"
+  }
+}

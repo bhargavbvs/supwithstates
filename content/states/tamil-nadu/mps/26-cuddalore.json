@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-26-cuddalore",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 26,
+    "name": "Cuddalore",
+    "reserved": null,
+    "assembly_segments": [
+      "Cuddalore",
+      "Panruti",
+      "Neyveli",
+      "Kurinjipadi",
+      "Vriddhachalam",
+      "Tittakudi"
+    ]
+  },
+  "representative": {
+    "name": "M.K. Vishnuprasad",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS ( Bachelor of Medicine and Bachelor of Surgery), Madras Medical College - Chennai 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 89146080,
+      "immovable": 168832500,
+      "total": 251978580,
+      "liabilities": 52721862
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=554",
+    "retrieved": "2026-08-27"
+  }
+}

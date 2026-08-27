@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-90-mendhar",
+  "constituency": {
+    "number": 90,
+    "name": "Mendhar",
+    "district": "Punch",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Javed Ahmed Rana",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Ex. Member Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. LLB from University of Jammu in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18410801,
+      "immovable": 61600000,
+      "total": 79910801,
+      "liabilities": 6812955
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=452",
+    "retrieved": "2026-08-27"
+  }
+}

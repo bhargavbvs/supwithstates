@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Private Employee",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/3787dd10be954208deccdd8632ab77e8810f6f07.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5128"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering in Branch-II Mechanical Engineering in the year 1991 from Arulmigu Meenakshi Amman College Engineering, Kanchipuram, Madras University"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5128",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

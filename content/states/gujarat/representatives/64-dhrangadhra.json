@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-64-dhrangadhra",
+  "constituency": {
+    "number": 64,
+    "name": "Dhrangadhra",
+    "district": "Surendranagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prakashbhai Parsotambhai Varmora",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Salaried & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass From Secondary & Higher Secondary Board, Gandhinagar (RPTP School, Vidyanagar) in Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 129908116,
+      "immovable": 183650000,
+      "total": 313558116,
+      "liabilities": 79085541
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5238",
+    "retrieved": "2026-08-27"
+  }
+}

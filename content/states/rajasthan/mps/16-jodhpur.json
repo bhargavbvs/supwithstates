@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-16-jodhpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 16,
+    "name": "Jodhpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Pokaran",
+      "Phalodi",
+      "Lohawat",
+      "Shergarh",
+      "Luni",
+      "Soorsagar",
+      "Sardarpura",
+      "Jodhpur"
+    ]
+  },
+  "representative": {
+    "name": "Gajendra Singh Shekhawat",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Minister",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Jodhpur Jai Narayan Vyas University Year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 86102657,
+      "immovable": 107000000,
+      "total": 193027658,
+      "liabilities": 26123900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1843",
+    "retrieved": "2026-08-27"
+  }
+}

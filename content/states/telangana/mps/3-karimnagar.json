@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Politician (MP Karimnagar)",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/a6a158ab577f2e7ede600a67abf4e6cc2ad060cc.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5230"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Public Admn.) from Madhurai Kamaraj University, Tamilnadu"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5230",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

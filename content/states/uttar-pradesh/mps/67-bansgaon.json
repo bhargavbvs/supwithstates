@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-67-bansgaon",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 67,
+    "name": "Bansgaon",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Chauri-Chaura",
+      "Bansgaon",
+      "Rudrapur",
+      "Chillupar",
+      "Barhaj"
+    ]
+  },
+  "representative": {
+    "name": "Kamlesh Paswan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "MP, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from D.D.U University Gorakhpur Yaer 2012"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 139991241,
+      "immovable": 221839500,
+      "total": 361830259,
+      "liabilities": 35283210
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8799",
+    "retrieved": "2026-08-27"
+  }
+}

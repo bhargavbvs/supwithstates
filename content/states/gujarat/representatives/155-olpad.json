@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-155-olpad",
+  "constituency": {
+    "number": 155,
+    "name": "Olpad",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukeshbhai Zinabhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Farming And Contractor Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Gujarat Secondary Education Board Gandhinagar Year October 1992 & Draftman Civil From Government Of Gujarat Navyug Industrial Institute Surat Year July 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28218303,
+      "immovable": 20926852,
+      "total": 49145155,
+      "liabilities": 18909886
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5083",
+    "retrieved": "2026-08-27"
+  }
+}

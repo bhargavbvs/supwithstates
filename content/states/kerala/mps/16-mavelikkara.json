@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-16-mavelikkara",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 16,
+    "name": "Mavelikkara",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Kuttanad",
+      "Changanassery",
+      "Chengannur",
+      "Mavelikkara",
+      "Pathanapuram",
+      "Kunnathur",
+      "Kottarakkara"
+    ]
+  },
+  "representative": {
+    "name": "Kodikunnil Suresh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Govt. Law College ,Thiruvananthapuram -1989"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5812324,
+      "immovable": 9500000,
+      "total": 15312324,
+      "liabilities": 880956
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3127",
+    "retrieved": "2026-08-27"
+  }
+}

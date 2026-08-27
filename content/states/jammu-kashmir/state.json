@@ -1,0 +1,25 @@
+{
+  "slug": "jammu-kashmir",
+  "name": "Jammu & Kashmir",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 90,
+  "district_count": 20,
+  "term": {
+    "start": "2024"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/JammuKashmir2024/",
+    "adr_serious_list": "https://www.myneta.info/JammuKashmir2024/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      75.27,
+      33.62
+    ],
+    "zoom": 7
+  }
+}

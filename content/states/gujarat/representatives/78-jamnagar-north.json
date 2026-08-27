@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-78-jamnagar-north",
+  "constituency": {
+    "number": 78,
+    "name": "Jamnagar North",
+    "district": "Jamnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rivasinh Hardevsinh Solanki (Rivaba Ravindrasinh Jadeja)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 32,
+    "profession": "Business And Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "10th Pass From Swami Vivekananda Vidyamandir, Rajkot, Year-2006 , Diploma in Mechanical Aatamiya Collage, Rajkot. Year-2011, And B.E. Mechanical Gujarat Technology University, Ahmadabad, Year-2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 643059222,
+      "immovable": 330500000,
+      "total": 973559222,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5734",
+    "retrieved": "2026-08-27"
+  }
+}

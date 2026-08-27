@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-36-bankura",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 36,
+    "name": "Bankura",
+    "reserved": null,
+    "assembly_segments": [
+      "Raghunathpur",
+      "Saltora",
+      "Chhatna",
+      "Ranibandh",
+      "Raipur",
+      "Taldangra",
+      "Bankura"
+    ]
+  },
+  "representative": {
+    "name": "Arup Chakraborty",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Advocate (Rtd), Member of legislative assembly, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. L.L.B From Ranchi University, in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 81350865,
+      "immovable": 90560845,
+      "total": 171911710,
+      "liabilities": 65685037
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7977",
+    "retrieved": "2026-08-27"
+  }
+}

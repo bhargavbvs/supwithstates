@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-13-deesa",
+  "constituency": {
+    "number": 13,
+    "name": "Deesa",
+    "district": "Banas Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pravinkumar Gordhanji Mali",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com in 2007 from Gujarat University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30039365,
+      "immovable": 26100000,
+      "total": 56139365,
+      "liabilities": 1156899
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5938",
+    "retrieved": "2026-08-27"
+  }
+}

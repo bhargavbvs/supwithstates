@@ -1,0 +1,49 @@
+{
+  "id": "jh-pc-11-khunti",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Khunti",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Khunti",
+      "Tamar",
+      "Torpa",
+      "Simdega",
+      "Kharasawan",
+      "Kolebira"
+    ]
+  },
+  "representative": {
+    "name": "Kali Charan Munda",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Cultivation, Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter From Ranchi University Ranchi In 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2027803,
+      "immovable": 1500000,
+      "total": 5407803,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5153",
+    "retrieved": "2026-08-27"
+  }
+}

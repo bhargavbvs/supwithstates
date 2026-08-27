@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-135-savli",
+  "constituency": {
+    "number": 135,
+    "name": "Savli",
+    "district": "Vadodara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Inamdar Ketanbhai Mahendrabhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Farming & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Savli Highschool, Savli , GSEB Year March 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7142977,
+      "immovable": 30778000,
+      "total": 37920977,
+      "liabilities": 3043470
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5216",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gj-ac-136-vaghodia",
+  "constituency": {
+    "number": 136,
+    "name": "Vaghodia",
+    "district": "Vadodara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dharmendrasinh Vaghela (Bapu)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Social Worker, Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC From Buddha Dev School Raika Vadodara Gujarat Secondary Education Board Gandhinagar In The Year 1984-85"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 845164389,
+      "immovable": 692438202,
+      "total": 1537602591,
+      "liabilities": 383906409
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6772",
+    "retrieved": "2026-08-27"
+  }
+}

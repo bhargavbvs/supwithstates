@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-74-jetpur",
+  "constituency": {
+    "number": 74,
+    "name": "Jetpur",
+    "district": "Rajkot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayeshbhai Vitthalbhai Radadiya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Farming/ Social Work. Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.E Civil (1st Sem Of III) From M.S University Vadodara Year 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 211276101,
+      "immovable": 120667983,
+      "total": 331944084,
+      "liabilities": 183243263
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5343",
+    "retrieved": "2026-08-27"
+  }
+}

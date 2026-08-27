@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-7-arakkonam",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Arakkonam",
+    "reserved": null,
+    "assembly_segments": [
+      "Tiruttani",
+      "Arakkonam",
+      "Katpadi",
+      "Sholingur",
+      "Ranipet",
+      "Arcot"
+    ]
+  },
+  "representative": {
+    "name": "S Jagathratchakan",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 76,
+    "profession": "Social Worker and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th From Government Higher Secondary School, Valudavur-605502 Board High School,1967"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 143709982,
+      "immovable": 390877844,
+      "total": 534587828,
+      "liabilities": 6567670968
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=533",
+    "retrieved": "2026-08-27"
+  }
+}

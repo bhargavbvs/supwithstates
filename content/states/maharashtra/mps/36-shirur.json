@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-36-shirur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 36,
+    "name": "Shirur",
+    "reserved": null,
+    "assembly_segments": [
+      "Junnar",
+      "Ambegaon",
+      "Khed Alandi",
+      "Shirur",
+      "Bhosari",
+      "Hadapsar"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Amol Ramsing Kolhe",
+    "election": "2024",
+    "elected_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "current_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine And Bachelor of Surgery (MBBS) From Seth G S Medical College And KEM Hospital Affiliated To The Maharashtra University of Health Sciences In The Year 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13068508,
+      "immovable": 79595419,
+      "total": 84207251,
+      "liabilities": 44971049
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5327",
+    "retrieved": "2026-08-27"
+  }
+}

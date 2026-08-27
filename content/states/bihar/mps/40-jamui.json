@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-40-jamui",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 40,
+    "name": "Jamui",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Sheikhpura",
+      "Tarapur",
+      "Jamui",
+      "Jhajha",
+      "Sikandra",
+      "Chakai"
+    ]
+  },
+  "representative": {
+    "name": "Arun Bharti",
+    "election": "2024",
+    "elected_party": "Lok Janshakti Party(Ram Vilas)",
+    "current_party": "Lok Janshakti Party(Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Business And Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From Starthclyde Business School University Of Starthclyde United Kingdom, Year-2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49481798,
+      "immovable": 15388500,
+      "total": 64870319,
+      "liabilities": 31204393
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1681",
+    "retrieved": "2026-08-27"
+  }
+}

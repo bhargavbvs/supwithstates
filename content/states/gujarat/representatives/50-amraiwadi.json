@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-50-amraiwadi",
+  "constituency": {
+    "number": 50,
+    "name": "Amraiwadi",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Hasmukh Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Doctor MD Pathologist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD in 1998, MBBS in 1993 from BJMC Medical college Asarwa Amraiwadi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7695913,
+      "immovable": 1000000,
+      "total": 8695913,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6264",
+    "retrieved": "2026-08-27"
+  }
+}

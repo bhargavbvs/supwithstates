@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-4-bijnor",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 4,
+    "name": "Bijnor",
+    "reserved": null,
+    "assembly_segments": [
+      "Purqazi",
+      "Bijnor",
+      "Meerapur",
+      "Chandpur",
+      "Hastinapur"
+    ]
+  },
+  "representative": {
+    "name": "Chandan Chauhan",
+    "election": "2024",
+    "elected_party": "Rashtriya Lok Dal",
+    "current_party": "Rashtriya Lok Dal",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 35,
+    "profession": "Farmer, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A.L.L.B. from Shriram Law College Muzaffarnagar, Chaudhari Charan Singh University Meerut in 2011"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 17711626,
+      "immovable": 60714951,
+      "total": 78426582,
+      "liabilities": 2572810
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=869",
+    "retrieved": "2026-08-27"
+  }
+}

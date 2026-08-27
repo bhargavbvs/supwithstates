@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-68-hiranagar",
+  "constituency": {
+    "number": 68,
+    "name": "Hiranagar",
+    "district": "Kathua",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Legal Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Department of Law, University of Jammu in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6092978,
+      "immovable": 7065000,
+      "total": 13645978,
+      "liabilities": 1450495
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=580",
+    "retrieved": "2026-08-27"
+  }
+}

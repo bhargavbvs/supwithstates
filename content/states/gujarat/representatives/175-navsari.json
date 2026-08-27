@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-175-navsari",
+  "constituency": {
+    "number": 175,
+    "name": "Navsari",
+    "district": "Navsari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Desai Rakesh Gunvantbhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Insurance surveyor, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Automobiles engineer (with in plant training) Techincal examination board gujarat in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11696056,
+      "immovable": 7250000,
+      "total": 18946056,
+      "liabilities": 1790784
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4949",
+    "retrieved": "2026-08-27"
+  }
+}

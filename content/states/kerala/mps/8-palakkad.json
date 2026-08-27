@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-8-palakkad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Palakkad",
+    "reserved": null,
+    "assembly_segments": [
+      "Mannarkkad",
+      "Kongad",
+      "Ottappalam",
+      "Shornur",
+      "Pattambi",
+      "Malampuzha",
+      "Palakkad"
+    ]
+  },
+  "representative": {
+    "name": "V K Sreekandan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Public Worker (Member of Parliament)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (History) from Shobid University, Meerut, 2013"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 4,
+      "note": null
+    },
+    "assets": {
+      "movable": 6583956,
+      "immovable": 11725000,
+      "total": 12421358,
+      "liabilities": 5462812
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2305",
+    "retrieved": "2026-08-27"
+  }
+}

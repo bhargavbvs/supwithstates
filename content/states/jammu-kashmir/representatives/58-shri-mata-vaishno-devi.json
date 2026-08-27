@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-58-shri-mata-vaishno-devi",
+  "constituency": {
+    "number": 58,
+    "name": "Shri Mata Vaishno Devi",
+    "district": "Riasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Baldev Raj Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Business / Politician",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from J&K State Board of School Education Jammu in 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7179006,
+      "immovable": 267500000,
+      "total": 274679006,
+      "liabilities": 27115826
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=429",
+    "retrieved": "2026-08-27"
+  }
+}

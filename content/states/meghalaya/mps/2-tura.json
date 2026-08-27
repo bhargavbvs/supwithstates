@@ -1,0 +1,67 @@
+{
+  "id": "ml-pc-2-tura",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Tura",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Bajengdoba",
+      "Kharkutta",
+      "Mendipathar",
+      "Resubelpara",
+      "Raksamgre",
+      "Tikrikila",
+      "Phulbari",
+      "Rajabala",
+      "Songsak",
+      "Dadenggre",
+      "Rongjeng",
+      "Selsella",
+      "North Tura",
+      "William Nagar",
+      "Rangsakona",
+      "Rongara-Siju",
+      "Ampathi",
+      "Southtura",
+      "Gambegre",
+      "Chokpot",
+      "Mahendraganj",
+      "Salmanpara",
+      "Baghmara",
+      "Dalu"
+    ]
+  },
+  "representative": {
+    "name": "Saleng A Sangma",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "PG(Peace Study) From Martin Luther University In The Year 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18049264,
+      "immovable": 22000000,
+      "total": 40049264,
+      "liabilities": 5708458
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=350",
+    "retrieved": "2026-08-27"
+  }
+}

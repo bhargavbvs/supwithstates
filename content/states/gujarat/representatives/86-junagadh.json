@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-86-junagadh",
+  "constituency": {
+    "number": 86,
+    "name": "Junagadh",
+    "district": "Junagadh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Sukhabhai Koradia",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC (Class 12) From Javahar Vinay Mandir - Shahpur(Sourath), Year-1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 104334178,
+      "immovable": 79738000,
+      "total": 184072178,
+      "liabilities": 23594927
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5025",
+    "retrieved": "2026-08-27"
+  }
+}

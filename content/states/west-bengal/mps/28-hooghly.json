@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-28-hooghly",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 28,
+    "name": "Hooghly",
+    "reserved": null,
+    "assembly_segments": [
+      "Singur",
+      "Chandannagar",
+      "Chunchura",
+      "Balagarh",
+      "Pandua",
+      "Saptagram",
+      "Dhanekhali"
+    ]
+  },
+  "representative": {
+    "name": "Rachna Banerjee",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Actress, TV host",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary- West Bengal Council of Higher Secondary Education in yr- 1992 from National Girls High School, Kolkata"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 197540115,
+      "immovable": 161922775,
+      "total": 355317030,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7209",
+    "retrieved": "2026-08-27"
+  }
+}

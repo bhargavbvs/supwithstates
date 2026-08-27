@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-39-kulgam",
+  "constituency": {
+    "number": 39,
+    "name": "Kulgam",
+    "district": "Kulgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohamad Yousuf Tarigami",
+    "election": "2024",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 75,
+    "profession": "Social Worker and Pensioner",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Under Graduate (Degree College Anantnag)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2053672,
+      "immovable": 14494000,
+      "total": 16547672,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=17",
+    "retrieved": "2026-08-27"
+  }
+}

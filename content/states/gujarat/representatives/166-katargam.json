@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-166-katargam",
+  "constituency": {
+    "number": 166,
+    "name": "Katargam",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinodbhai Amarshibhai Moradiya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Construction Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Gujarat Secondary & Higher Secondary Education Board, Gandhinagar Year March 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21789767,
+      "immovable": 28889601,
+      "total": 50679368,
+      "liabilities": 6041990
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4961",
+    "retrieved": "2026-08-27"
+  }
+}

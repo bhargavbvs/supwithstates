@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-49-bapunagar",
+  "constituency": {
+    "number": 49,
+    "name": "Bapunagar",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dineshsinh Rajendrasinh Kushwaha",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Transport",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th (Technical) From D.A. Patel Technical High School, Year-1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -1541106,
+      "immovable": 66591518,
+      "total": 65050412,
+      "liabilities": 10622295
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6257",
+    "retrieved": "2026-08-27"
+  }
+}

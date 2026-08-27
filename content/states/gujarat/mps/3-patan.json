@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-3-patan",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Patan",
+    "reserved": null,
+    "assembly_segments": [
+      "Kankrej",
+      "Kheralu",
+      "Vadgam",
+      "Sidhpur",
+      "Radhanpur",
+      "Patan",
+      "Chanasma"
+    ]
+  },
+  "representative": {
+    "name": "Dabhi Bharatsinhji Shankarji",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Agriculture, Salary of M.P. and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Gujarat University in Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10266049,
+      "immovable": 58164000,
+      "total": 68430049,
+      "liabilities": 2957861
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3603",
+    "retrieved": "2026-08-27"
+  }
+}

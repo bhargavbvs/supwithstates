@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-38-kalol-gandhinagar",
+  "constituency": {
+    "number": 38,
+    "name": "Kalol (Gandhinagar)",
+    "district": "Gandhinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thakor Laxmanji Punjaji (Bakaji)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "L P Jewellers",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Vakhariya P J Highschool Kalol 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6744200,
+      "immovable": 116500000,
+      "total": 123244200,
+      "liabilities": 2985980
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6115",
+    "retrieved": "2026-08-27"
+  }
+}

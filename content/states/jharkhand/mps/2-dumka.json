@@ -1,0 +1,49 @@
+{
+  "id": "jh-pc-2-dumka",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Dumka",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Jama",
+      "Sikaripara",
+      "Dumka",
+      "Sarath",
+      "Jamtara",
+      "Nala"
+    ]
+  },
+  "representative": {
+    "name": "Nalin Soren",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 76,
+    "profession": "Farmer and Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc. Part I from Sahibganj College, Bhagalpur University in 1969"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16591249,
+      "immovable": 20110000,
+      "total": 36701249,
+      "liabilities": 705299
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9321",
+    "retrieved": "2026-08-27"
+  }
+}

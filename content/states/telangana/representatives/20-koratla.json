@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Doctor",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/daa67bfb5b1971b2e7f8e4d7e88ca164e7ad5e8b.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=152"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "MS. Ortho from JSS Medical College, mysore in 2003 , M.B.B.S BM Patel Medical Collage Bijapoor 1999"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=152",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-44-anantnag",
+  "constituency": {
+    "number": 44,
+    "name": "Anantnag",
+    "district": "Anantnag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Peerzada Mohammad Syed",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Social worker, Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B passed out in the year 1980 from University of Kashmir Srinagar."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5948824,
+      "immovable": 47000000,
+      "total": 52948824,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=217",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "I am Civil Engineer by Profession and Politician by Occupation",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/567a1720f2a977828c415dcbf1a9857499b10028.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=274"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. from Muffakamza College of Engineering Situated at Hyderabad in 1997-2001"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=274",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

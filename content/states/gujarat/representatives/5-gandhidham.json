@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-5-gandhidham",
+  "constituency": {
+    "number": 5,
+    "name": "Gandhidham",
+    "district": "Kachchh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Malti Kishor Maheshwari",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Business (Logistics)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "PGDHRM From KSKV, Bhuj Year 2010 & B.Com From KSKV, Bhuj Year 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4771150,
+      "immovable": 250000,
+      "total": 5021150,
+      "liabilities": 530090
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5124",
+    "retrieved": "2026-08-27"
+  }
+}

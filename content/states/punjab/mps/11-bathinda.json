@@ -1,0 +1,52 @@
+{
+  "id": "pb-pc-11-bathinda",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Bathinda",
+    "reserved": null,
+    "assembly_segments": [
+      "Bhucho Mandi",
+      "Lambi",
+      "Maur",
+      "Bathinda Rural",
+      "Bathinda Urban",
+      "Mansa",
+      "Talwandi Sabo",
+      "Budhlada",
+      "Sardulgarh"
+    ]
+  },
+  "representative": {
+    "name": "Harsimrat Kaur Badal",
+    "election": "2024",
+    "elected_party": "SAD",
+    "current_party": "SAD",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "MP and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from Loreto Convent School, New Delhi in 1980, Diploma in Textile Designing from South Delhi Polytechnic ND 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 668654625,
+      "immovable": 1316529277,
+      "total": 1985183903,
+      "liabilities": 544775134
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8951",
+    "retrieved": "2026-08-27"
+  }
+}

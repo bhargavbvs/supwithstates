@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-27-himatnagar",
+  "constituency": {
+    "number": 27,
+    "name": "Himatnagar",
+    "district": "Sabar Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinendrasinh Dilipsinh Zala",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Lawyer, Farming & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Gujarat University Ahmedabad In 1977, BSC From Gujarat University Ahmedabad In 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18054967,
+      "immovable": 67173000,
+      "total": 85227967,
+      "liabilities": 202491
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6184",
+    "retrieved": "2026-08-27"
+  }
+}

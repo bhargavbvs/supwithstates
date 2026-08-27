@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Agriculture",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/09eda67e35f8c5bb8b70a65e6f33eef28649d29a.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=177"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.A."
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=177",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

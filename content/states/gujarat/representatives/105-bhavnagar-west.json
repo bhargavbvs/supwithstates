@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-105-bhavnagar-west",
+  "constituency": {
+    "number": 105,
+    "name": "Bhavnagar West",
+    "district": "Bhavnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jitendrabhai Savajibhai Vaghani",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Construction ,LIC Agent",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB. From Sheth HJ Law College , Bhavnagar, University, Year -1992 and B.COM From MJ College Of Commerce, Bhavnagar , University Year -1990"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46488493,
+      "immovable": 38793500,
+      "total": 85281993,
+      "liabilities": 21664959
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5063",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-11-dausa",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Dausa",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Thanagazi",
+      "Mahuwa",
+      "Bandikui",
+      "Dausa",
+      "Bassi",
+      "Sikrai",
+      "Chaksu",
+      "Lalsot"
+    ]
+  },
+  "representative": {
+    "name": "Murari Lal Meena",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Salary & Pension of State Government",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering From Govt.Polytechnic College, Alwar, Year 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10664010,
+      "immovable": 125050000,
+      "total": 135714010,
+      "liabilities": 2166932
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=401",
+    "retrieved": "2026-08-27"
+  }
+}

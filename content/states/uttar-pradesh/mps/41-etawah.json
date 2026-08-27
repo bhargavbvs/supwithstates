@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-41-etawah",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 41,
+    "name": "Etawah",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Etawah",
+      "Bharthana",
+      "Dibiyapur",
+      "Auraiya",
+      "Sikandra"
+    ]
+  },
+  "representative": {
+    "name": "Jitendra Kumar Dohare",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 57,
+    "profession": "Agriculture & Contractor & Public Interest",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Abhimanyu Inter College Kailasnagar Jalone 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13250170,
+      "immovable": 49000000,
+      "total": 62250170,
+      "liabilities": 3168054
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5079",
+    "retrieved": "2026-08-27"
+  }
+}

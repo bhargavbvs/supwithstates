@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-37-ahmednagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 37,
+    "name": "Ahmednagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Rahuri",
+      "Shevgaon",
+      "Parner",
+      "Shrigonda",
+      "Ahmednagar",
+      "Karjat Jamkhed"
+    ]
+  },
+  "representative": {
+    "name": "Nilesh Dnyandev Lanke",
+    "election": "2024",
+    "elected_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "current_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 44,
+    "profession": "Agricutlure,Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From YCMOU Nashik Year 2016"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2632350,
+      "immovable": 1922210,
+      "total": 4554561,
+      "liabilities": 17881176
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5328",
+    "retrieved": "2026-08-27"
+  }
+}

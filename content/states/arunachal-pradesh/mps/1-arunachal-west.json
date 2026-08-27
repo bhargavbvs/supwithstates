@@ -1,0 +1,76 @@
+{
+  "id": "ar-pc-1-arunachal-west",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Arunachal West",
+    "reserved": null,
+    "assembly_segments": [
+      "Mechuka",
+      "Rumgong",
+      "Nacho",
+      "Taliha",
+      "Liromoba",
+      "Koloriang",
+      "Along West",
+      "Tali",
+      "Along East",
+      "Daporijo",
+      "Damporijo",
+      "Basar",
+      "Raga",
+      "Nyapin",
+      "Palin",
+      "Likabali",
+      "Bameng",
+      "Chayangtajo",
+      "Mukto",
+      "Yachuli",
+      "Lumla",
+      "Dirang",
+      "Bomdila",
+      "Tawang",
+      "Ziro-Hapoli",
+      "Sagalee",
+      "Doimukh",
+      "Seppa East",
+      "Seppa West",
+      "Thrizino-Buragaon",
+      "Pakke-Kasang",
+      "Itanagar",
+      "Kalaktang"
+    ]
+  },
+  "representative": {
+    "name": "Kiren Rijiju",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Law Faculty of University of Delhi- 1998 , B.A. from Hansraj College (University of Delhi) w.e.f. 01.07.1992 to 30.06.1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22203234,
+      "immovable": 27200000,
+      "total": 49403234,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=251",
+    "retrieved": "2026-08-27"
+  }
+}

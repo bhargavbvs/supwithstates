@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Member of parliament",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/af412a1f7054b2ff102b13485774d9b2d92933c1.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=75"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Govt Degree College Siddipet, Osmania University in 1985"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=75",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

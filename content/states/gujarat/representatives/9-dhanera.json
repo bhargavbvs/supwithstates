@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-9-dhanera",
+  "constituency": {
+    "number": 9,
+    "name": "Dhanera",
+    "district": "Banas Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mavjibhai Maganbhai Desai",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC from Doshi NJ Adarsh HighSchool, Deesa in Year 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 277777491,
+      "immovable": 356875046,
+      "total": 634652537,
+      "liabilities": 184667946
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6300",
+    "retrieved": "2026-08-27"
+  }
+}

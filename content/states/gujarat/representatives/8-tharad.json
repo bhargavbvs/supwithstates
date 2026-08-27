@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-8-tharad",
+  "constituency": {
+    "number": 8,
+    "name": "Tharad",
+    "district": "Banas Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shankarbhai Lagdhirbhai Chaudhary",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Farming, Political & Social Activities",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Dr. Ambedkar Open University Ahmedabad Year 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 98298192,
+      "immovable": 32306508,
+      "total": 130604700,
+      "liabilities": 1592233
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5924",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-6-jaipur-rural",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 6,
+    "name": "Jaipur Rural",
+    "reserved": null,
+    "assembly_segments": [
+      "Kotputli",
+      "Bansur",
+      "Viratnagar",
+      "Shahpura",
+      "Phulera",
+      "Amber",
+      "Jamwa Ramgarh",
+      "Jhotwara"
+    ]
+  },
+  "representative": {
+    "name": "Rao Rajendra Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Business and Social work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Honours Rajasthan University in 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29266352,
+      "immovable": 224866640,
+      "total": 293352992,
+      "liabilities": 20889099
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=436",
+    "retrieved": "2026-08-27"
+  }
+}

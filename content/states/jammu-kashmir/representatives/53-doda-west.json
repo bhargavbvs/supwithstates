@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-53-doda-west",
+  "constituency": {
+    "number": 53,
+    "name": "Doda West",
+    "district": "Doda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shakti Raj Parihar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Politician, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Hr. Sec. (12th) from JKBOSE Session 1988-1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23919438,
+      "immovable": 19343750,
+      "total": 43263188,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=143",
+    "retrieved": "2026-08-27"
+  }
+}

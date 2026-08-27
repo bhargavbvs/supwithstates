@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-81-khambhalia",
+  "constituency": {
+    "number": 81,
+    "name": "Khambhalia",
+    "district": "Devbhumi Dwarka",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ayar Mulubhai Hardasbhai Bera",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th From Gram Panchayat School, Verad,Bhanwad in Year 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53562479,
+      "immovable": 5795900,
+      "total": 59358379,
+      "liabilities": 282478
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5654",
+    "retrieved": "2026-08-27"
+  }
+}

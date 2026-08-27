@@ -1,0 +1,52 @@
+{
+  "id": "hr-pc-9-gurgaon",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Gurgaon",
+    "reserved": null,
+    "assembly_segments": [
+      "Badshahpur",
+      "Pataudi",
+      "Gurgaon",
+      "Sohna",
+      "Rewari",
+      "Bawal",
+      "Nuh",
+      "Ferozepur Jhirka",
+      "Punahana"
+    ]
+  },
+  "representative": {
+    "name": "Rao Inderjit Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 74,
+    "profession": "Agriculture, Social Welfare",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Delhi University, in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 393112901,
+      "immovable": 822309967,
+      "total": 1215422868,
+      "liabilities": 133670844
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8448",
+    "retrieved": "2026-08-27"
+  }
+}

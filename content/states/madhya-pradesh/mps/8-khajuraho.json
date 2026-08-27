@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-8-khajuraho",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Khajuraho",
+    "reserved": null,
+    "assembly_segments": [
+      "Chandla",
+      "Rajnagar",
+      "Panna",
+      "Gunnaor",
+      "Pawai",
+      "Vijayraghavgarh",
+      "Murwara",
+      "Bahoriband"
+    ]
+  },
+  "representative": {
+    "name": "Vishnu Datt Sharma (V.D.Sharma)",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Member of Parliament,Agriculture and Buisness",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science (Agriculture) From Drishi Mahavidhyalay,Gwalior (Jawahar Lal Nehru Krishi Vishwavidyalay,Jabalpur) in Year 1995-1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18446956,
+      "immovable": 30815900,
+      "total": 49262858,
+      "liabilities": 18438272
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2455",
+    "retrieved": "2026-08-27"
+  }
+}

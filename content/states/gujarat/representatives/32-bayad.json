@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-32-bayad",
+  "constituency": {
+    "number": 32,
+    "name": "Bayad",
+    "district": "Arvalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhavalsinh Narendrasinh Zala",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Job (Achary Shri Nutan School)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Gujarat University in 1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10287899,
+      "immovable": 153715000,
+      "total": 164002899,
+      "liabilities": 29869651
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6439",
+    "retrieved": "2026-08-27"
+  }
+}

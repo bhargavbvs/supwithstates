@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-173-dangs",
+  "constituency": {
+    "number": 173,
+    "name": "Dangs",
+    "district": "Dangs",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vijaybhai Rameshbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Farming & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Diploma Mechanic Engineering From Sarkari Polytechnic Bhuj Year 1998 & 10th Pass From Shramjivi Secondary School Valsad Year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10138049,
+      "immovable": 9775150,
+      "total": 19913199,
+      "liabilities": 4412692
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5159",
+    "retrieved": "2026-08-27"
+  }
+}

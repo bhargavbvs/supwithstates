@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-20-berhampur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 20,
+    "name": "Berhampur",
+    "reserved": null,
+    "assembly_segments": [
+      "Mohana",
+      "Chhatrapur",
+      "Digapahandi",
+      "Gopalpur",
+      "Berhampur",
+      "Chikiti",
+      "Paralakhemundi"
+    ]
+  },
+  "representative": {
+    "name": "Dr Pradeep Kumar Panigrahy",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Politician, Social Worker, Advocate & Legal Consultant",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D on Conservation of Biodiversity under International Law with Special reference to law in India from Berhampur University yr- 2003"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 20921033,
+      "immovable": 16900000,
+      "total": 37808128,
+      "liabilities": 38200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5309",
+    "retrieved": "2026-08-27"
+  }
+}

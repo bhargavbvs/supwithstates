@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-36-zainapora",
+  "constituency": {
+    "number": 36,
+    "name": "Zainapora",
+    "district": "Shupiyan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Showkat Hussain Ganie",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from University of Kashmir in year 2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 58700,
+      "immovable": 54000000,
+      "total": 54058700,
+      "liabilities": 1043000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=154",
+    "retrieved": "2026-08-27"
+  }
+}

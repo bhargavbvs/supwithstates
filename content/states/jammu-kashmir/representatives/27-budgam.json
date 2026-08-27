@@ -1,0 +1,42 @@
+{
+  "id": "jk-ac-27-budgam",
+  "constituency": {
+    "number": 27,
+    "name": "Budgam",
+    "district": "Badgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aga Syed Muntazir Mehdi",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir Peoples Democratic Party",
+    "current_party": "Jammu & Kashmir Peoples Democratic Party",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Practicing Advocate at High Court of J&K",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM (Constitution Law) Amity University (2018-2019)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 237453,
+      "immovable": 0,
+      "total": 237453,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=1042",
+    "retrieved": "2026-08-27"
+  }
+}

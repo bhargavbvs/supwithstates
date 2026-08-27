@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-22-etah",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 22,
+    "name": "Etah",
+    "reserved": null,
+    "assembly_segments": [
+      "Kasganj",
+      "Amanpur",
+      "Patiyali",
+      "Marhara",
+      "Etah"
+    ]
+  },
+  "representative": {
+    "name": "Devesh Shakya",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Contractor and Agriculture, Social worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Grduate from K.K. P.G. College Etawah, Chhatrapati Shahu Ji Maharaj University Kanpur in 2005, LLB from Gajendra Smriti College Bidhuna Auraiya, Chhatrapati Shahu Ji Maharaj University Kanpur in 2016"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12958395,
+      "immovable": 22000000,
+      "total": 34061340,
+      "liabilities": 442323
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3703",
+    "retrieved": "2026-08-27"
+  }
+}

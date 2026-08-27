@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-2-belgaum",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Belgaum",
+    "reserved": null,
+    "assembly_segments": [
+      "Arabhavi",
+      "Gokak",
+      "Ramdurg",
+      "Saundatti Yellamma",
+      "Bailhongal",
+      "Belgaum Rural",
+      "Belgaum Uttar",
+      "Belgaum Dakshin"
+    ]
+  },
+  "representative": {
+    "name": "Jagadish Shettar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Lawyer and agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB (special), JSS sakri law vidyalaya, karnataka university hubbali 1980., B.com, jagadguru gangadhar college of commerce, karnataka university, hubbali 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35450979,
+      "immovable": 98365000,
+      "total": 133815982,
+      "liabilities": 7166354
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3421",
+    "retrieved": "2026-08-27"
+  }
+}

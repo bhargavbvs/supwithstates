@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-32-ghatal",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 32,
+    "name": "Ghatal",
+    "reserved": null,
+    "assembly_segments": [
+      "Panskura Paschim",
+      "Sabang",
+      "Pingla",
+      "Debra",
+      "Daspur",
+      "Ghatal",
+      "Keshpur"
+    ]
+  },
+  "representative": {
+    "name": "Adhikari Deepak (Dev)",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 41,
+    "profession": "Professional Actor, Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma In Computer Technology From BV Jawaharlal Nehru Institute Of Technology (Bharatiya Vidhyapeeth) In Year 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 172235069,
+      "immovable": 199112000,
+      "total": 371347069,
+      "liabilities": 29573122
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7933",
+    "retrieved": "2026-08-27"
+  }
+}

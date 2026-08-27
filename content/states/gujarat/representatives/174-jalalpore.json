@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-174-jalalpore",
+  "constituency": {
+    "number": 174,
+    "name": "Jalalpore",
+    "district": "Navsari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R.C.Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Farming & Aqua Cultural",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th , Old S.S.C, From B.U.Master Sarvjanik Highschool & B.D.Patel Higher Secondary School ,Aat, Taluka-Jalalpur, District-Navsari Year-1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12261393,
+      "immovable": 22226832,
+      "total": 34488225,
+      "liabilities": 7856309
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5390",
+    "retrieved": "2026-08-27"
+  }
+}

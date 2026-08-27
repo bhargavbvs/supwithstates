@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-5-sikar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Sikar",
+    "reserved": null,
+    "assembly_segments": [
+      "Lachhmangarh",
+      "Neema Ka Thana",
+      "Sikar",
+      "Dhod",
+      "Khandela",
+      "Srimadhopur",
+      "Danta Ramgarh",
+      "Chomu"
+    ]
+  },
+  "representative": {
+    "name": "Amraram",
+    "election": "2024",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 68,
+    "profession": "Agriculture Work and Pension of former MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from Rajasthan University Jaipur in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 903335,
+      "immovable": 3146773,
+      "total": 4050109,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=476",
+    "retrieved": "2026-08-27"
+  }
+}

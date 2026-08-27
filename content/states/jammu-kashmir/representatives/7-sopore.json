@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-7-sopore",
+  "constituency": {
+    "number": 7,
+    "name": "Sopore",
+    "district": "Baramula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Irshad Rasool Kar",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th BHSS Sopore JKBOSE 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27346775,
+      "immovable": 158300000,
+      "total": 187941000,
+      "liabilities": 14399000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=714",
+    "retrieved": "2026-08-27"
+  }
+}

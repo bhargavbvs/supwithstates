@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-37-bishnupur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 37,
+    "name": "Bishnupur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Barjora",
+      "Onda",
+      "Bishnupur",
+      "Katulpur",
+      "Indus",
+      "Sonamukhi",
+      "Khandaghosh"
+    ]
+  },
+  "representative": {
+    "name": "Khan Saumitra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary 1999, West Bengal Council of Higher Secondary Education"
+    },
+    "declared_cases": {
+      "total": 15,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24495691,
+      "immovable": 8860000,
+      "total": 30855712,
+      "liabilities": 4672966
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7990",
+    "retrieved": "2026-08-27"
+  }
+}

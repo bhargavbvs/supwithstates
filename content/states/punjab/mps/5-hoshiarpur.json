@@ -1,0 +1,52 @@
+{
+  "id": "pb-pc-5-hoshiarpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 5,
+    "name": "Hoshiarpur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Mukerian",
+      "Dasuya",
+      "Urmar",
+      "Sri Hargobindpur (S",
+      "Sham Chaurasi",
+      "Hoshiarpur",
+      "Bholath",
+      "Chabbewal",
+      "Phagwara"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Raj Kumar Chabbewal",
+    "election": "2024",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Medical Profession",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD (Radio-Diagnosis) from Guru Nanak Dev University, Medical College, Amritsar in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 71895394,
+      "immovable": 135800000,
+      "total": 207695398,
+      "liabilities": 84402701
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8884",
+    "retrieved": "2026-08-27"
+  }
+}

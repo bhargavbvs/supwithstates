@@ -1,0 +1,72 @@
+{
+  "id": "tr-pc-2-tripura-east",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Tripura East",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Kadamtala - Kurti",
+      "Bagbassa",
+      "Dharmanagar",
+      "Kailasahar",
+      "Jubarajnagar",
+      "Chandipur",
+      "Panisagar",
+      "Pencharthal",
+      "Fatikroy",
+      "Pabiachhara",
+      "Kamalpur",
+      "Surma",
+      "Asharambari",
+      "Karamchhara",
+      "Kanchanpur",
+      "Khowai",
+      "Ramchandraghat",
+      "Ambassa",
+      "Kalyanpur-Pramodenagar",
+      "Chhawmanu",
+      "Teliamura",
+      "Raima Valley",
+      "Ampinagar",
+      "Amarpur",
+      "Karbook",
+      "Jolaibari",
+      "Hrishyamukh",
+      "Manu",
+      "Sabroom"
+    ]
+  },
+  "representative": {
+    "name": "Kriti Devi Debbarman",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 52,
+    "profession": "Self Employed / Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Rural Managemnet from Institute of Rural Management (IRMA), Anand, Gujrat in 1999, HSLC from Meghalaya Board of Secondary Education in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 58794981,
+      "immovable": 800437950,
+      "total": 859232932,
+      "liabilities": 1525809
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1765",
+    "retrieved": "2026-08-27"
+  }
+}

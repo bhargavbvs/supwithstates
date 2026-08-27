@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-143-akota",
+  "constituency": {
+    "number": 143,
+    "name": "Akota",
+    "district": "Vadodara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chaitanya Makarandbhai Desai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass From Vidyakunj Highschool, Vadodara (Science), Year-1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46533380,
+      "immovable": 39095500,
+      "total": 85628880,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6034",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-16-radhanpur",
+  "constituency": {
+    "number": 16,
+    "name": "Radhanpur",
+    "district": "Patan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lavingji Muljiji Solanki",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "4th Pass"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2960000,
+      "immovable": 3700000,
+      "total": 6660000,
+      "liabilities": 960000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5952",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-80-marh",
+  "constituency": {
+    "number": 80,
+    "name": "Marh",
+    "district": "Jammu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Surinder Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Political Leader",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Govt. High School Gajansoo 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5103817,
+      "immovable": 3200000,
+      "total": 8003000,
+      "liabilities": 488310
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=926",
+    "retrieved": "2026-08-27"
+  }
+}

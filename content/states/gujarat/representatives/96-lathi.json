@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-96-lathi",
+  "constituency": {
+    "number": 96,
+    "name": "Lathi",
+    "district": "Amreli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Janakbhai Talaviya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Murlidhar Cotton Industries",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Gujarat Secondary Board Mangiben Patel Secondary School Surat In Year 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12135657,
+      "immovable": 569250000,
+      "total": 581385657,
+      "liabilities": 41601070
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5519",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-47-hamirpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 47,
+    "name": "Hamirpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Hamirpur",
+      "Rath",
+      "Tindwari",
+      "Mahoba",
+      "Charkhari"
+    ]
+  },
+  "representative": {
+    "name": "Ajendra Singh Lodhi",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10th Pass From Nehru Inter College , Panwadi UP Board In 1987, 12th Pass From Jantantra Inter College , Kulpahad, Up Board 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18390975,
+      "immovable": 32000000,
+      "total": 50237175,
+      "liabilities": 7485000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7179",
+    "retrieved": "2026-08-27"
+  }
+}

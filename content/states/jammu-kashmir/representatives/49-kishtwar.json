@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-49-kishtwar",
+  "constituency": {
+    "number": 49,
+    "name": "Kishtwar",
+    "district": "Kishtwar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shagun Parihar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 29,
+    "profession": "Student (Research Scholar)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Tech. in (Electrical Power Systems) From IK Gujral Punjab Technical University, Year-2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 240074,
+      "immovable": 9000000,
+      "total": 9240074,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=47",
+    "retrieved": "2026-08-27"
+  }
+}

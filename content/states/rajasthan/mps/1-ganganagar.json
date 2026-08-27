@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-1-ganganagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Ganganagar",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Sadulshahar",
+      "Karanpur",
+      "Ganganagar",
+      "Sangaria",
+      "Hanumangarh",
+      "Raisinghnagar",
+      "Pilibanga",
+      "Suratgarh"
+    ]
+  },
+  "representative": {
+    "name": "Kuldeep Indora",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "AGRICULTURAL",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Final in Political science in 1997 non college certificate n0.34148 serial no. 01340 result declared in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26692873,
+      "immovable": 113884059,
+      "total": 137189112,
+      "liabilities": 45517499
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=409",
+    "retrieved": "2026-08-27"
+  }
+}

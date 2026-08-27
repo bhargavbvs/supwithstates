@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-160-surat-north",
+  "constituency": {
+    "number": 160,
+    "name": "Surat North",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kantibhai Himmatbhai Balar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Social Activity",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "4th From Primary School, Shakhpur, Tal. Lathi, Dist. Amreli"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 485837719,
+      "immovable": 54877296,
+      "total": 540715015,
+      "liabilities": 34942639
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5455",
+    "retrieved": "2026-08-27"
+  }
+}

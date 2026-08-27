@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-37-aurangabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 37,
+    "name": "Aurangabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Tikari",
+      "Rafiganj",
+      "Aurangabad",
+      "Gurua",
+      "Kutumba",
+      "Imamganj"
+    ]
+  },
+  "representative": {
+    "name": "Abhay Kumar Sinha",
+    "election": "2024",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Pension (EX MLA)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Gaya College Gaya In 1988"
+    },
+    "declared_cases": {
+      "total": 16,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4668589,
+      "immovable": 103050000,
+      "total": 107718589,
+      "liabilities": 47801483
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1702",
+    "retrieved": "2026-08-27"
+  }
+}

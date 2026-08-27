@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-71-rajkot-rural",
+  "constituency": {
+    "number": 71,
+    "name": "Rajkot Rural",
+    "district": "Rajkot",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bhanuben Manoharbhai Babariya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Corporator- Rajkot Municipal Corporation Ward No 1",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from Kansagara College Rajkot, Saurashtra University, LLB (1st Year Completed) from D.D.K. Law College, Porbandar In 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10789092,
+      "immovable": 17200000,
+      "total": 27989092,
+      "liabilities": 1602000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5016",
+    "retrieved": "2026-08-27"
+  }
+}

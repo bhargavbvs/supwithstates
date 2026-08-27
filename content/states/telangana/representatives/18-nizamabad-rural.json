@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Doctor",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/110b5be8ff33579502124fdcf71f3ada169f1e45.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=248"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "MS (Ortho) from Osmania Medical College, University of Health Sciences, Vijayawada in 1993"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=248",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

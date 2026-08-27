@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-109-borsad",
+  "constituency": {
+    "number": 109,
+    "name": "Borsad",
+    "district": "Anand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Solanki Ramanbhai Bhikhabhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Teacher",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th, Diploma in Agriculture"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2857021,
+      "immovable": 3935000,
+      "total": 6792021,
+      "liabilities": 1250000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5206",
+    "retrieved": "2026-08-27"
+  }
+}

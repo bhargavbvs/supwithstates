@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-48-thakkar-bapanagar",
+  "constituency": {
+    "number": 48,
+    "name": "Thakkar Bapanagar",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kanchanben Vinubhai Radadiya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Shri Pragya Vinay Mandir, Mota Mandvada, Year-1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4018000,
+      "immovable": 33416000,
+      "total": 37434000,
+      "liabilities": 455900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6256",
+    "retrieved": "2026-08-27"
+  }
+}

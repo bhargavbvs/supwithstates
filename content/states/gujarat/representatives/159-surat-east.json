@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-159-surat-east",
+  "constituency": {
+    "number": 159,
+    "name": "Surat East",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvind Shantilal Rana",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Printing Work, Stationery General Provider",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From T And T.V. Sarvajanik High School Year 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29233105,
+      "immovable": 27100000,
+      "total": 56333105,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5089",
+    "retrieved": "2026-08-27"
+  }
+}

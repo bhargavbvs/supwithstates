@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-20-dindori",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 20,
+    "name": "Dindori",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Kalwan",
+      "Nandgaon",
+      "Chandvad",
+      "Dindori",
+      "Niphad",
+      "Yevla"
+    ]
+  },
+  "representative": {
+    "name": "Bhaskar Murlidhar Bhagare",
+    "election": "2024",
+    "elected_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "current_party": "Nationalist Congress Party – Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Job",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M A From KTHM College Nashik Pune University In The Year 1995, B A From K K Wagh College Pimpalgaon Pune University In The Year April 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7758302,
+      "immovable": 9458295,
+      "total": 17450827,
+      "liabilities": 2444480
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7089",
+    "retrieved": "2026-08-27"
+  }
+}

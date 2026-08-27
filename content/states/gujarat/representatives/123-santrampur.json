@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-123-santrampur",
+  "constituency": {
+    "number": 123,
+    "name": "Santrampur",
+    "district": "Mahisagar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Kuberbhai Mansukhbhai Dindor",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Job & Farming",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph. D From Sardar Patel University In Year 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9407545,
+      "immovable": 13282500,
+      "total": 22690045,
+      "liabilities": 5378000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5211",
+    "retrieved": "2026-08-27"
+  }
+}

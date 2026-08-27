@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-137-chhota-udaipur",
+  "constituency": {
+    "number": 137,
+    "name": "Chhota Udaipur",
+    "district": "Chhotaudepur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rajendrasinh Mohansinh Rathva",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Farming, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Diploma In Civil Engineer From Maharashtra State Board Of Technical Education Year June 2002, 12th Pass From Gujarat Higher Secondary Education Board Lalbahadur Shastri Vidyalay Karelibaug Vadodara Year 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36249149,
+      "immovable": 12604460,
+      "total": 48853609,
+      "liabilities": 1870887
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5980",
+    "retrieved": "2026-08-27"
+  }
+}

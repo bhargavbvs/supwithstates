@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-30-bhiloda",
+  "constituency": {
+    "number": 30,
+    "name": "Bhiloda",
+    "district": "Arvalli",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "P.C.Baranda",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Farming & Retired IPS",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "LLB From North Gujarat University 1988 & B.A From Gujarat University April 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9284236,
+      "immovable": 14260000,
+      "total": 23544236,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6197",
+    "retrieved": "2026-08-27"
+  }
+}

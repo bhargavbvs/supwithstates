@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-10-baramulla",
+  "constituency": {
+    "number": 10,
+    "name": "Baramulla",
+    "district": "Baramula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Javid Hassan Baig",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Member of J&K National Conference",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From University of Kashmir, Year-1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 959691,
+      "immovable": 74000000,
+      "total": 75159000,
+      "liabilities": 896000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=720",
+    "retrieved": "2026-08-27"
+  }
+}

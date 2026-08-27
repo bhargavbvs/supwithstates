@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Politics, Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/1722bdaefd2bc9ed32d3be2a994ebb529008953b.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=326"
-    },
+    "photo": null,
     "education": {
       "level": "Others",
       "detail": "ITI (Industrial Training Institute) from Govt ITI College Nizamabad 1985-86"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=326",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

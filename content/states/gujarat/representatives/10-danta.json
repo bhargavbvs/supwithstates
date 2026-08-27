@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-10-danta",
+  "constituency": {
+    "number": 10,
+    "name": "Danta",
+    "district": "Banas Kantha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kantibhai Kalabhai Kharadi",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Agriculture & Social Work",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass from Shivan School, Sarotra, Amirgadh in Year 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7142430,
+      "immovable": 4146200,
+      "total": 11288630,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5930",
+    "retrieved": "2026-08-27"
+  }
+}

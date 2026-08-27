@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-113-petlad",
+  "constituency": {
+    "number": 113,
+    "name": "Petlad",
+    "district": "Anand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamleshbhai Rameshbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S.E , B.ed Pass From Gujarat University Amhedabad In Year 1994-1998 Rajni College Khabat Petlad Education College"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14722728,
+      "immovable": 4000000,
+      "total": 18722728,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6164",
+    "retrieved": "2026-08-27"
+  }
+}

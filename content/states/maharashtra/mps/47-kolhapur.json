@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-47-kolhapur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 47,
+    "name": "Kolhapur",
+    "reserved": null,
+    "assembly_segments": [
+      "Karvir",
+      "Kolhapur North",
+      "Kolhapur South",
+      "Radhanagari",
+      "Kagal",
+      "Chandgad"
+    ]
+  },
+  "representative": {
+    "name": "Chhatrapati Shahu Shahaji",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 76,
+    "profession": "Agriculture & Investor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Indore Christian College(Indore University) in Year 1967"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1669133426,
+      "immovable": 1770920028,
+      "total": 3428668000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3847",
+    "retrieved": "2026-08-27"
+  }
+}

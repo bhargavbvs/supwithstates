@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-111-umreth",
+  "constituency": {
+    "number": 111,
+    "name": "Umreth",
+    "district": "Anand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Govindbhai Raijibhai Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 79,
+    "profession": "Farming, Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass From Chikhodra Kumar School Year 1969"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10268947,
+      "immovable": 12700000,
+      "total": 22968947,
+      "liabilities": 3155553
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6172",
+    "retrieved": "2026-08-27"
+  }
+}

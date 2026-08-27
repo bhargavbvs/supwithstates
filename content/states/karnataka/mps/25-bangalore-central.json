@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-25-bangalore-central",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 25,
+    "name": "Bangalore Central",
+    "reserved": null,
+    "assembly_segments": [
+      "Mahadevapura",
+      "Sarvagnanagar",
+      "Shivajinagar",
+      "C.V. Raman Nagar",
+      "Gandhi Nagar",
+      "Rajaji Nagar",
+      "Shanti Nagar",
+      "Chamrajpet"
+    ]
+  },
+  "representative": {
+    "name": "P C Mohan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Business and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "2nd PUC, Vijaya College, Jayanagar, Bengaluru 560011, 1981"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 148582506,
+      "immovable": 664482701,
+      "total": 813065207,
+      "liabilities": 165694024
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1866",
+    "retrieved": "2026-08-27"
+  }
+}

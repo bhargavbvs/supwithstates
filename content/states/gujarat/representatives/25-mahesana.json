@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-25-mahesana",
+  "constituency": {
+    "number": 25,
+    "name": "Mahesana",
+    "district": "Mahesana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Patel Mukeshkumar D.",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Contractor & Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Of Engineering (Civil) From Maharaj Sayajirav University Vadodara Year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49284230,
+      "immovable": 67150000,
+      "total": 116434230,
+      "liabilities": 29547098
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5971",
+    "retrieved": "2026-08-27"
+  }
+}

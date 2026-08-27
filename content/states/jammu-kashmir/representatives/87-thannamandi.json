@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-87-thannamandi",
+  "constituency": {
+    "number": 87,
+    "name": "Thannamandi",
+    "district": "Rajauri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Muzaffar Iqbal Khan",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Advocate (Supreme Court/High Court)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. & LLB From Jammu University & AMU Aligarh, Year-1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4846832,
+      "immovable": 1000000,
+      "total": 5716832,
+      "liabilities": 1052561
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=312",
+    "retrieved": "2026-08-27"
+  }
+}

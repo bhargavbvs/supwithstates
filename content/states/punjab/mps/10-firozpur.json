@@ -1,0 +1,52 @@
+{
+  "id": "pb-pc-10-firozpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Firozpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Firozpur City",
+      "Firozpur Rural",
+      "Guru Har Sahai",
+      "Muktsar",
+      "Jalalabad",
+      "Fazilka",
+      "Malout",
+      "Balluana",
+      "Abohar"
+    ]
+  },
+  "representative": {
+    "name": "Sher Singh Ghubaya",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Metric from Govt. High School village Lamochar Kalan Tehsil Jalalabad (w) PSEB Mohali, Year 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17336884,
+      "immovable": 73825000,
+      "total": 91161885,
+      "liabilities": 4378382
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8940",
+    "retrieved": "2026-08-27"
+  }
+}

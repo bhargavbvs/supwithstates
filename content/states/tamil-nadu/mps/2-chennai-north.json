@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-2-chennai-north",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Chennai North",
+    "reserved": null,
+    "assembly_segments": [
+      "Tiruvottiyur",
+      "Perambur",
+      "Dr.Radhakrishnan Naga",
+      "Kolathur",
+      "Royapuram",
+      "Thiru-Vi-Ka-Nagar"
+    ]
+  },
+  "representative": {
+    "name": "Dr.Kalanidhi Veeraswamy",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Public Life & Doctor Plastic Surgeon",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. (General Surgery) From Sri Ramachandra Medical College, Tamil Nadu Dr.MGR Medical University, Year-1999 & M.Ch. (Plastic Surgery) From Stanley Medical College, Tamil Nadu Dr. MGR Medical University, Year-2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 322799309,
+      "immovable": 287814757,
+      "total": 610614066,
+      "liabilities": 378414472
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1081",
+    "retrieved": "2026-08-27"
+  }
+}

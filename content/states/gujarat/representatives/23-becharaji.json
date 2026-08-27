@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-23-becharaji",
+  "constituency": {
+    "number": 23,
+    "name": "Becharaji",
+    "district": "Mahesana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Thakor Sukhaji Somaji",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Agriculture & Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Lokseva College B.R.S. Saurashtra University, Year-1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1634190,
+      "immovable": 1750000,
+      "total": 3384190,
+      "liabilities": 381000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5966",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-27-khargone",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 27,
+    "name": "Khargone",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Maheshwar",
+      "Kasrawad",
+      "Rajpur",
+      "Badwani",
+      "Khargone",
+      "Pansemal",
+      "Bhagwanpura",
+      "Sendhawa"
+    ]
+  },
+  "representative": {
+    "name": "Gajendra Singh Patel",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Christian College Indore, Devi Ahiliya University, Indore, Year-2008 & B.A. From, Govt. College Barwani, Devi Ahiliya University, Indore, Year-1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21017946,
+      "immovable": 78807000,
+      "total": 99824946,
+      "liabilities": 4497445
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6416",
+    "retrieved": "2026-08-27"
+  }
+}

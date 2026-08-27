@@ -1,0 +1,83 @@
+{
+  "id": "mz-pc-1-mizoram",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Mizoram",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Serlui",
+      "Tuivawl",
+      "Kolasib",
+      "Hachhek",
+      "Tuirial",
+      "Chalfilh",
+      "Mamit",
+      "Lengteng",
+      "Champhai North",
+      "Aizawl East-I",
+      "Aizawl West-I",
+      "Aizawl North-I",
+      "Dampa",
+      "Aizawl North-Iii (S",
+      "Aizawl North-Ii",
+      "Aizawl West-Ii",
+      "Tawi",
+      "Aizawl East-Ii",
+      "Aizawl South-I",
+      "Aizawl West-Iii",
+      "Aizawl South-Iii (S",
+      "Aizawl South-Ii",
+      "Tuikum",
+      "Champhai South",
+      "Tuichang",
+      "East Tuipui",
+      "Thorang",
+      "Serchhip",
+      "Lunglei West",
+      "Hrangturzo",
+      "Lunglei North",
+      "West Tuipui",
+      "South Tuipui",
+      "Lunglei East",
+      "Lunglei South",
+      "Lawngtlai East",
+      "Tuichawng",
+      "Saiha",
+      "Lawngtlai West",
+      "Palak"
+    ]
+  },
+  "representative": {
+    "name": "Richard Vanlalhmangaiha",
+    "election": "2024",
+    "elected_party": "Zoram Peoples Movement",
+    "current_party": "Zoram Peoples Movement",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 46,
+    "profession": "Partner Three Brothers Enterprise Partnership firm",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce (B.Com), North Eastern Hill University (NEHU), Hrangbana College, Aizawl, Mizoram in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9919233,
+      "immovable": 7000000,
+      "total": 16919233,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=60",
+    "retrieved": "2026-08-27"
+  }
+}

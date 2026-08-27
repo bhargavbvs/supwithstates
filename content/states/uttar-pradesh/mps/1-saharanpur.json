@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-1-saharanpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Saharanpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Behat",
+      "Saharanpur",
+      "Saharanpur Nagar",
+      "Rampur Maniharan",
+      "Deoband"
+    ]
+  },
+  "representative": {
+    "name": "Imran Masood",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "FARMING AND AGRICULTURE",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate in 1987 from HRE College Gangoh Janpad Saharanpur UP Allahabad"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8787346,
+      "immovable": 46715000,
+      "total": 55502166,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=298",
+    "retrieved": "2026-08-27"
+  }
+}

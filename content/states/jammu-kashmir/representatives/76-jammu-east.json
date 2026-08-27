@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-76-jammu-east",
+  "constituency": {
+    "number": 76,
+    "name": "Jammu East",
+    "district": "Jammu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yudhvir Sethi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Politcian, Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bechelor in Commerce from SPMR College of Commerce, Jammu in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30406803,
+      "immovable": 43000000,
+      "total": 73406808,
+      "liabilities": 1612195
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=943",
+    "retrieved": "2026-08-27"
+  }
+}

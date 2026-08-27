@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-18-kollam",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Kollam",
+    "reserved": null,
+    "assembly_segments": [
+      "Punalur",
+      "Chavara",
+      "Kundara",
+      "Kollam",
+      "Chadayamangalam",
+      "Eravipuram",
+      "Chathannoor"
+    ]
+  },
+  "representative": {
+    "name": "N K Premachandran",
+    "election": "2024",
+    "elected_party": "Revolutionary Socialist Party",
+    "current_party": "Revolutionary Socialist Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB Degree, 1985, Govt. Law College, Thiruvananthapuram, University Of Kerala"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7244900,
+      "immovable": 23950000,
+      "total": 31194899,
+      "liabilities": 3800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3132",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "uk-pc-1-tehri-garhwal",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Tehri Garhwal",
+    "reserved": null,
+    "assembly_segments": [
+      "Gangotri",
+      "Purola",
+      "Yamunotri",
+      "Chakrata",
+      "Ghanshali",
+      "Dhanolti",
+      "Pratapnagar",
+      "Vikasnagar",
+      "Mussoorie",
+      "Sahaspur",
+      "Tehri",
+      "Raipur",
+      "Rajpur Road",
+      "Dehradun Cantt."
+    ]
+  },
+  "representative": {
+    "name": "Mala Rajya Lakshmi Shah",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 73,
+    "profession": "M.P, Income From Interest",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Ratna Raje Laxmi College, Kathmandu Nepal 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 553049424,
+      "immovable": 1515700000,
+      "total": 2068739424,
+      "liabilities": 179000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=283",
+    "retrieved": "2026-08-27"
+  }
+}

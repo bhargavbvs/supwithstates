@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-66-jasrota",
+  "constituency": {
+    "number": 66,
+    "name": "Jasrota",
+    "district": "Kathua",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajiv Jasrotia",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Businessman and Social worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1995 from Govt. Degree College Kathua"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75673901,
+      "immovable": 113215350,
+      "total": 188889254,
+      "liabilities": 26270388
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=820",
+    "retrieved": "2026-08-27"
+  }
+}

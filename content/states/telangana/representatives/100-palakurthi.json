@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 26,
     "profession": "Office Manager, Raj Properties and Group, California, USA",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/9cac05ffe9c0145316df7495049a962327da6d8f.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=258"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech From Sreyas Institute of Engineering and Technology, Affiliated to JNTUH, Hyderabad, Year-2018"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=258",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Social Worker & Agriculture, Pensioner",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/7dc7b336c158f8928e32db72b3e77a50d35048ba.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=272"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate in 1992, Grdauation (Discontinue) From Govt. Junior College Manuguru."
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=272",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

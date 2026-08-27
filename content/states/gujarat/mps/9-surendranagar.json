@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-9-surendranagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Surendranagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Dasada",
+      "Viramgam",
+      "Dhrangadhra",
+      "Wadhwan",
+      "Chotila",
+      "Limbdi",
+      "Dhandhuka"
+    ]
+  },
+  "representative": {
+    "name": "Chandubhai Chhaganbhai Shihora",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From (Science) From JNV School Surendranagar Gujarat Secondary Education Board Gandhinagar In The Year 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2952589,
+      "immovable": 2856200,
+      "total": 5808789,
+      "liabilities": 266907
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3501",
+    "retrieved": "2026-08-27"
+  }
+}

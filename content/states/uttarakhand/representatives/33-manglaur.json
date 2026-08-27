@@ -7,35 +7,36 @@
     "reserved": null
   },
   "representative": {
-    "name": "Sarwat Kareem Ansari",
+    "name": "Qazi Mohammad Nizamuddin",
     "election": "2022",
-    "elected_party": "BSP",
-    "current_party": "BSP",
+    "elected_party": "INC",
+    "current_party": "INC",
     "party_changed": null,
+    "by_election": true,
     "term_start": "2022-12",
-    "age_at_election": 65,
-    "profession": "Agriculture",
+    "age_at_election": 49,
+    "profession": "Agriculture, Business",
     "photo": null,
     "education": {
-      "level": "8th Pass",
-      "detail": "8th Pass From Junior High School Mohhalla Dist Mangalore Haridwar"
+      "level": "Graduate",
+      "detail": "B.A. from Ch. Charan Singh University Meerut in 1997"
     },
     "declared_cases": {
-      "total": 2,
+      "total": 3,
       "serious": null,
       "serious_declared": false,
       "convicted": 0,
       "note": null
     },
     "assets": {
-      "movable": 33735470,
-      "immovable": 116900000,
-      "total": 149535470,
-      "liabilities": 0
+      "movable": 2888105,
+      "immovable": 668270073,
+      "total": 671158178,
+      "liabilities": 5128000
     }
   },
   "source": {
-    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=77",
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=775",
     "retrieved": "2026-08-27"
   }
 }

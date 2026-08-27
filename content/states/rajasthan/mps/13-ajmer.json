@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-13-ajmer",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Ajmer",
+    "reserved": null,
+    "assembly_segments": [
+      "Pushkar",
+      "Dudu",
+      "Kishangarh",
+      "Ajmer North",
+      "Nasirabad",
+      "Ajmer South",
+      "Masuda",
+      "Kekri"
+    ]
+  },
+  "representative": {
+    "name": "Bhagirath Choudhary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Board of Rajasthan in 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39376683,
+      "immovable": 94434865,
+      "total": 133811555,
+      "liabilities": 5432413
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2038",
+    "retrieved": "2026-08-27"
+  }
+}

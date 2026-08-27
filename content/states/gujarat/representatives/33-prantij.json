@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-33-prantij",
+  "constituency": {
+    "number": 33,
+    "name": "Prantij",
+    "district": "Sabar Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gajendrasinh Udesinh Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts From Hemchandracharya North Gujarat University Year 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4767141,
+      "immovable": 7420000,
+      "total": 12187141,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6193",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-152-jhagadia",
+  "constituency": {
+    "number": 152,
+    "name": "Jhagadia",
+    "district": "Bharuch",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Riteshkumar Ramanbhai Vasava",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass Shri Indrajeet Vidyalay Umari In Year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14778831,
+      "immovable": 5639048,
+      "total": 20417879,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5627",
+    "retrieved": "2026-08-27"
+  }
+}

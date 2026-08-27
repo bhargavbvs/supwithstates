@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-91-talala",
+  "constituency": {
+    "number": 91,
+    "name": "Talala",
+    "district": "Gir Somnath",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhagabhai Dhanabhai Barad",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Saurashtra University, Chauksi Arts And Commerce Collage-Veravel, Year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 85891289,
+      "immovable": 38848400,
+      "total": 124739689,
+      "liabilities": 8984847
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5689",
+    "retrieved": "2026-08-27"
+  }
+}

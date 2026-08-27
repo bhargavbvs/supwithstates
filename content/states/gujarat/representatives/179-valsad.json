@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-179-valsad",
+  "constituency": {
+    "number": 179,
+    "name": "Valsad",
+    "district": "Valsad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bharatbhai Kikubhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Shivansh Enterpirse, Lubri, Oil and Cement Dealers",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. from South Gujrat University Surat May-1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25379528,
+      "immovable": 6025000,
+      "total": 31404528,
+      "liabilities": 538758
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4944",
+    "retrieved": "2026-08-27"
+  }
+}

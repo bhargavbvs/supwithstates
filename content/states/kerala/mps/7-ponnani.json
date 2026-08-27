@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-7-ponnani",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 7,
+    "name": "Ponnani",
+    "reserved": null,
+    "assembly_segments": [
+      "Tirurangadi",
+      "Kottakkal",
+      "Tanur",
+      "Tirur",
+      "Thavanur",
+      "Thrithala",
+      "Ponnani"
+    ]
+  },
+  "representative": {
+    "name": "Dr. M.P Abdussamad Samadani",
+    "election": "2024",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Ex MP(Rajya Sabha & Lok Sabha) and Ex MLA (Kerala Legislative Assembly)",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy(PHD), JNU, New Delhi 2021, LLB From Govt. Law College Calicut University 2003, MPhil From Calicut University 1986, MA Arts Calicut University 1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3105341,
+      "immovable": 18872000,
+      "total": 21977344,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2310",
+    "retrieved": "2026-08-27"
+  }
+}

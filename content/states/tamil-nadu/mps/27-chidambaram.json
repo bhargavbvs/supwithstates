@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-27-chidambaram",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 27,
+    "name": "Chidambaram",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Bhuvanagiri",
+      "Chidambaram",
+      "Kattumannarkoil",
+      "Jayankondam",
+      "Kunnam",
+      "Ariyalur"
+    ]
+  },
+  "representative": {
+    "name": "Thirumaavalavan Thol",
+    "election": "2024",
+    "elected_party": "Viduthalai Chiruthaigal Katchi",
+    "current_party": "Viduthalai Chiruthaigal Katchi",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 61,
+    "profession": "Ex. Thirumavalavn [Political Party Leader]",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D from Manonmaniam Sundaranar University, Tirunelveli 2018"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20807903,
+      "immovable": 3658500,
+      "total": 24455903,
+      "liabilities": 83969
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=816",
+    "retrieved": "2026-08-27"
+  }
+}

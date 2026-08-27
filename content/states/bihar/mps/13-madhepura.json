@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-13-madhepura",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 13,
+    "name": "Madhepura",
+    "reserved": null,
+    "assembly_segments": [
+      "Madhepura",
+      "Mahishi",
+      "Bihariganj",
+      "Saharsa",
+      "Sonbarsha",
+      "Alamnagar"
+    ]
+  },
+  "representative": {
+    "name": "Dinesh Chandra Yadav",
+    "election": "2024",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 72,
+    "profession": "Politician, Social Work & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Matric in 1967 from MIthu Das High School, Salkhua (Sahrsa), Bihar School Examination Council & Civil Diploma Engineering in 1971 from Govt. Polytechnic Saharsa & State Technical Education Council Bihar, Patna"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30707373,
+      "immovable": 35502000,
+      "total": 66209377,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3423",
+    "retrieved": "2026-08-27"
+  }
+}

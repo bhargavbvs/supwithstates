@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-22-visnagar",
+  "constituency": {
+    "number": 22,
+    "name": "Visnagar",
+    "district": "Mahesana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rushikesh Ganeshbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Business & Farming",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma Civil Engineering From K D Polytechnic Patan April 1982, HSC From Raj P T Patel Science College Vallabh Vidhyanagar Year April 1979, New SSC From B M Patel Highschool Jhalod Year April 1977"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 91286165,
+      "immovable": 66098330,
+      "total": 157384495,
+      "liabilities": 25021456
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5963",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-45-srigufwara-bijbehara",
+  "constituency": {
+    "number": 45,
+    "name": "Srigufwara - Bijbehara",
+    "district": "Anantnag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bashir Ahmad Shah Veeri",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Medical Doctor & Socio Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from GMC Nanded (MS) in 1994, Diploma in Sonography from GMC Jammu in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7450000,
+      "immovable": 18800000,
+      "total": 26250000,
+      "liabilities": 4100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-27"
+  }
+}

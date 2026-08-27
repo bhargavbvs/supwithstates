@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-104-bhavnagar-east",
+  "constituency": {
+    "number": 104,
+    "name": "Bhavnagar East",
+    "district": "Bhavnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sejalben Rajivkumar Pandya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Teaching Coaching",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Bhavnagar University March 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4305247,
+      "immovable": 0,
+      "total": 4305247,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5868",
+    "retrieved": "2026-08-27"
+  }
+}

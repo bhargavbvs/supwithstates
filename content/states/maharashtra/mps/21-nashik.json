@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-21-nashik",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 21,
+    "name": "Nashik",
+    "reserved": null,
+    "assembly_segments": [
+      "Igatpuri",
+      "Deolali",
+      "Nashik East",
+      "Nashik West",
+      "Nashik Central",
+      "Sinnar"
+    ]
+  },
+  "representative": {
+    "name": "Rajabhau (Parag) Prakash Waje",
+    "election": "2024",
+    "elected_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "current_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 59,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B. Com From Pune University In The Year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22346342,
+      "immovable": 136291036,
+      "total": 158637378,
+      "liabilities": 1918865
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7124",
+    "retrieved": "2026-08-27"
+  }
+}

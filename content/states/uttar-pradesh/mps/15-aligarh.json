@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-15-aligarh",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Aligarh",
+    "reserved": null,
+    "assembly_segments": [
+      "Khair",
+      "Atrauli",
+      "Barauli",
+      "Aligarh",
+      "Koil"
+    ]
+  },
+  "representative": {
+    "name": "Satish Kumar Gautam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation in 2023 from Swami Vivekanand Subharti University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18625191,
+      "immovable": 138950000,
+      "total": 160624125,
+      "liabilities": 46570044
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1806",
+    "retrieved": "2026-08-27"
+  }
+}

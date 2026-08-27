@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Polictical Service/Member of Legislative Assembly",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/37aa8812a529f1fc897fa45f5f6ee51f0f9223f5.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=109"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate in Venkateswara Tutorials , Hyderabad Completed in the Year 1980 (Board of Intermediate Education)"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=109",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

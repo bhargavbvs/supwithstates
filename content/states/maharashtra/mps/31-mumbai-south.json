@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-31-mumbai-south",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 31,
+    "name": "Mumbai South",
+    "reserved": null,
+    "assembly_segments": [
+      "Worli",
+      "Shivadi",
+      "Byculla",
+      "Malabar Hill",
+      "Mumbadevi",
+      "Colaba"
+    ]
+  },
+  "representative": {
+    "name": "Arvind Ganpat Sawant",
+    "election": "2024",
+    "elected_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "current_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 72,
+    "profession": "Member of Parliament and Trade Union Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.SC. from Bhavan College, Andheri, Mumbai Year 1975"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43985161,
+      "immovable": 6500000,
+      "total": 50485191,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7097",
+    "retrieved": "2026-08-27"
+  }
+}

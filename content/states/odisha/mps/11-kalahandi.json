@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-11-kalahandi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Kalahandi",
+    "reserved": null,
+    "assembly_segments": [
+      "Nuapada",
+      "Narla",
+      "Khariar",
+      "Bhawanipatna",
+      "Junagarh",
+      "Lanjigarh",
+      "Dharmgarh"
+    ]
+  },
+  "representative": {
+    "name": "Malvika Devi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 43,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons) Psychology from Jesus and Mary College, New Delhi under Delhi University in the Year: 2001 and Post Graduate Diploma in Business Management from Fortune Institute of International Business, New Delhi in the Year: 2003."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15898550,
+      "immovable": 402999500,
+      "total": 418901050,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5174",
+    "retrieved": "2026-08-27"
+  }
+}

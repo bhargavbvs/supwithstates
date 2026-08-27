@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-39-viramgam",
+  "constituency": {
+    "number": 39,
+    "name": "Viramgam",
+    "district": "Ahmadabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hardik Bharatbhai Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 29,
+    "profession": "Social worker & Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Shajanand Commerce College , Gujarat University Year-2013"
+    },
+    "declared_cases": {
+      "total": 22,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2348480,
+      "immovable": 3800000,
+      "total": 6148480,
+      "liabilities": 200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6223",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-11-murshidabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Murshidabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Bhagabangola",
+      "Raninagar",
+      "Murshidabad",
+      "Hariharpara",
+      "Domkal",
+      "Jalangi",
+      "Karimpur"
+    ]
+  },
+  "representative": {
+    "name": "Abu Taher Khan",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Cultivation, Politics and Social service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Pass in 1980 from Hareknagar Abdul Momen Institution, West Bengal Board of Secondary Education."
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4476126,
+      "immovable": 34000000,
+      "total": 38476131,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3377",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-29-mumbai-north-central",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 29,
+    "name": "Mumbai North-Central",
+    "reserved": null,
+    "assembly_segments": [
+      "Chandivali",
+      "Vile Parle",
+      "Vandre West",
+      "Kalina",
+      "Vandre East",
+      "Kurla"
+    ]
+  },
+  "representative": {
+    "name": "Gaikwad Varsha Eknath",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": "Social Service, Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science fro Institute of Science,Mumbai Vidyapeeth In 2000"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39760568,
+      "immovable": 37088088,
+      "total": 76848656,
+      "liabilities": 10160000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7096",
+    "retrieved": "2026-08-27"
+  }
+}

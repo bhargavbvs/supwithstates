@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-133-garbada",
+  "constituency": {
+    "number": 133,
+    "name": "Garbada",
+    "district": "Dahod",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mahendrabhai Bhabhor",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture and Social worker",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th pass in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1852826,
+      "immovable": 300000,
+      "total": 2152826,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6079",
+    "retrieved": "2026-08-27"
+  }
+}

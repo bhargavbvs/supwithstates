@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-2-bhind",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Bhind",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Ater",
+      "Mehgaon",
+      "Bhind",
+      "Gohad",
+      "Lahar",
+      "Sewda",
+      "Datia",
+      "Bhander"
+    ]
+  },
+  "representative": {
+    "name": "Sandhya Ray",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Agriculture, Former MLA Pension & Lok Sabha member honorarium",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Sociology) from Rishi Galav College Morena, Jivaji University Gwalior in 2001, LLB from Govt State Law College Bhopal, Barakatullaha University Bhopal in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20172861,
+      "immovable": 76600000,
+      "total": 96772861,
+      "liabilities": 11400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4175",
+    "retrieved": "2026-08-27"
+  }
+}

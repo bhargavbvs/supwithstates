@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-22-bharuch",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 22,
+    "name": "Bharuch",
+    "reserved": null,
+    "assembly_segments": [
+      "Jambusar",
+      "Bharuch",
+      "Ankleshwar",
+      "Karjan",
+      "Vagra",
+      "Jhagadia",
+      "Dediapada"
+    ]
+  },
+  "representative": {
+    "name": "Mansukhbhai Dhanjibhai Vasava",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 66,
+    "profession": "Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Social Work From Gujarat University Ahmedabad In The Year 1982, Bachelor of Arts From South Gujarat University Surat In The Year 1977/78"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9159808,
+      "immovable": 16340000,
+      "total": 25499808,
+      "liabilities": 1104414
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3455",
+    "retrieved": "2026-08-27"
+  }
+}

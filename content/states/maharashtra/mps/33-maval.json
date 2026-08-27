@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-33-maval",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 33,
+    "name": "Maval",
+    "reserved": null,
+    "assembly_segments": [
+      "Panvel",
+      "Karjat",
+      "Uran",
+      "Maval",
+      "Pimpri",
+      "Chinchwad"
+    ]
+  },
+  "representative": {
+    "name": "Shrirang Appa Chandu Barne",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Agriculture, Brick Factory, Construction Business, Honorarium",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass from Shri Fattechand Jain School Chinchwad SSC Board Pune In 2022"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 167476969,
+      "immovable": 1146564610,
+      "total": 1318591631,
+      "liabilities": 8528711
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5325",
+    "retrieved": "2026-08-27"
+  }
+}

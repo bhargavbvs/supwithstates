@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-70-samba",
+  "constituency": {
+    "number": 70,
+    "name": "Samba",
+    "district": "Samba",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surjeet Singh Slathia",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Pension from J&K Govt. and Salary Private Sh. Sahil Slathia",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculate from JK BOSE at Govt. High School, Gurah Slathia Annual 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 104002529,
+      "immovable": 64445000,
+      "total": 168447529,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=966",
+    "retrieved": "2026-08-27"
+  }
+}

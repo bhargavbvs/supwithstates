@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-167-surat-west",
+  "constituency": {
+    "number": 167,
+    "name": "Surat West",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Purnesh Modi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Cabinet Minister",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Sir V T Choksi Law College, Athvalines, Surat (South Gujarat University) In 1992, B.Com From Navyug College, Rander Road, Surat (South Gujarat University) In 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6038118,
+      "immovable": 13800000,
+      "total": 19838118,
+      "liabilities": 3401428
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4960",
+    "retrieved": "2026-08-27"
+  }
+}

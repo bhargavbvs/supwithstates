@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Ex MLA",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/8b905dc776d36b74f1abb2f7a2d8be2841334400.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=87"
-    },
+    "photo": null,
     "education": {
       "level": "Literate",
       "detail": "Educated (Informally educated)"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=87",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

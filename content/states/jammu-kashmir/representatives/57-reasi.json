@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-57-reasi",
+  "constituency": {
+    "number": 57,
+    "name": "Reasi",
+    "district": "Riasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kuldeep Raj Dubey",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 67,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Middle from Govt. Middle School (Boys) Arnas, Reasi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 93983104,
+      "immovable": 496237000,
+      "total": 590221000,
+      "liabilities": 62775000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=277",
+    "retrieved": "2026-08-27"
+  }
+}

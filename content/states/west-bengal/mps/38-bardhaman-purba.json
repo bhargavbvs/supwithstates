@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-38-bardhaman-purba",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 38,
+    "name": "Bardhaman Purba",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Raina",
+      "Jamalpur",
+      "Kalna",
+      "Memari",
+      "Purbasthali Dakshin",
+      "Purbasthali Uttar",
+      "Katwa"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Sharmila Sarkar",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Doctor, Private Practice (Formerly Govt Servixe)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Doctor of Medicine in Psychiatry in The West Bengal Univeristy of Health Sciences in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48244132,
+      "immovable": 10026000,
+      "total": 54978907,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5087",
+    "retrieved": "2026-08-27"
+  }
+}

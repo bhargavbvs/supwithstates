@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 31,
     "profession": "Medical Doctor",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/d11c243ea5115b1002105b2f4ec93cba9f093145.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5099"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "Medical Doctor in Profession \"General Medicine\" From The International Higher School of Medicine, Bishkek Kyrgyzstan, Year-2017"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5099",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

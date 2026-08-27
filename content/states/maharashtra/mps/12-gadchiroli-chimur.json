@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-12-gadchiroli-chimur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 12,
+    "name": "Gadchiroli-Chimur",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Amgaon",
+      "Armori",
+      "Chimur",
+      "Brahmapuri",
+      "Gadchiroli",
+      "Aheri"
+    ]
+  },
+  "representative": {
+    "name": "Dr. Kirsan Namdeo",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Advocate (V. Retired From Govt. Service)",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D.(Gandhian Thought) from RTM Nagar University, Nagpur In 2010, Master of Business Administration from RTM Nagpur University, Nagpur In 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15326042,
+      "immovable": 44150000,
+      "total": 59476042,
+      "liabilities": 2828488
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=317",
+    "retrieved": "2026-08-27"
+  }
+}

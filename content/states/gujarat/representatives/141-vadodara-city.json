@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-141-vadodara-city",
+  "constituency": {
+    "number": 141,
+    "name": "Vadodara City",
+    "district": "Vadodara",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manisha Vakil",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Service As MLA",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor Of Philosophy (Ph.D) From Parul University Waghodiya, Vadodara Year 2022, Master Of Arts From Indira Gandhi National Open University New Delhi Year June 2008, Bachelor Of Education From Indira Gandhi National Open University New Delhi Year 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12287590,
+      "immovable": 7750000,
+      "total": 20037590,
+      "liabilities": 1836034
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5217",
+    "retrieved": "2026-08-27"
+  }
+}

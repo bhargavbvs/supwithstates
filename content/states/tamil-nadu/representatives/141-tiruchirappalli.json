@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-141-tiruchirappalli",
+  "constituency": {
+    "number": 141,
+    "name": "Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C. Joseph Vijay",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc. (Dropout), Loyola College, Chennai, University of Madras, 1992"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4262028397,
+      "immovable": 2226562010,
+      "total": 6488590407,
+      "liabilities": 76360016
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=380",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 26,
     "profession": "Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/f28ec135ba59d40f1b389e0fcca00dc21a455c0a.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=196"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS- from NTR University of Health Science in yr- 2020"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=196",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

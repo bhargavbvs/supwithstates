@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-149-dediapada",
+  "constituency": {
+    "number": 149,
+    "name": "Dediapada",
+    "district": "Narmada",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chaitarbhai Damjibhai Vasava",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Farming & Labor Contract",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BRS Graduate From Nutan Gram Vidyalay Netrang Bharuch Veer Narmad South Gujarat University Surat Year 2009"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4087000,
+      "immovable": 2000000,
+      "total": 6087000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5183",
+    "retrieved": "2026-08-27"
+  }
+}

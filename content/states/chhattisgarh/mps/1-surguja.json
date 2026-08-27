@@ -1,0 +1,51 @@
+{
+  "id": "cg-pc-1-surguja",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Surguja",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Ramanujganj",
+      "Pratappur",
+      "Bhatgaon",
+      "Samri",
+      "Premnagar",
+      "Lundra",
+      "Ambikapur",
+      "Sitapur"
+    ]
+  },
+  "representative": {
+    "name": "Chintamani Maharaj",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Pensioner, Business, Agriculture, JCB & Tractor Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th in 2014 from Chhattisgarh Sanskrit Vidyamandal, Rampuram C.G."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9907461,
+      "immovable": 31698498,
+      "total": 41298468,
+      "liabilities": 3502647
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3450",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-100-talaja",
+  "constituency": {
+    "number": 100,
+    "name": "Talaja",
+    "district": "Bhavnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gautambhai Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Business, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from Jalaram High school Pithalpur In 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2690522,
+      "immovable": 1390000,
+      "total": 4080522,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5558",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "jh-pc-6-giridih",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 6,
+    "name": "Giridih",
+    "reserved": null,
+    "assembly_segments": [
+      "Giridih",
+      "Dumri",
+      "Tundi",
+      "Gomia",
+      "Baghmara",
+      "Bermo"
+    ]
+  },
+  "representative": {
+    "name": "Chandra Prakash Choudhary",
+    "election": "2024",
+    "elected_party": "AJSU Party",
+    "current_party": "AJSU Party",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Social Service & Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Ramgarh College, Ramgarh, Ranchi University Ranchi in 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16595025,
+      "immovable": 33254157,
+      "total": 49849182,
+      "liabilities": 27031670
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8523",
+    "retrieved": "2026-08-27"
+  }
+}

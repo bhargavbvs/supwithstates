@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-1-nandurbar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Nandurbar",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Akkalkuwa",
+      "Shahada",
+      "Nandurbar",
+      "Shirpur",
+      "Nawapur",
+      "Sakri"
+    ]
+  },
+  "representative": {
+    "name": "Adv Gowaal Kagada Padavi",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 31,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM From Mumbai University In The Year 2017, LLB From Mumbai University In The Year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22438304,
+      "immovable": 47794538,
+      "total": 70170431,
+      "liabilities": 7817614
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6007",
+    "retrieved": "2026-08-27"
+  }
+}

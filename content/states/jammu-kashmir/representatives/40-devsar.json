@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-40-devsar",
+  "constituency": {
+    "number": 40,
+    "name": "Devsar",
+    "district": "Kulgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Peerzada Feroze Ahamad",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Middle Pass through JKBOSE"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2535505,
+      "immovable": 28000000,
+      "total": 30535505,
+      "liabilities": 460000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=79",
+    "retrieved": "2026-08-27"
+  }
+}

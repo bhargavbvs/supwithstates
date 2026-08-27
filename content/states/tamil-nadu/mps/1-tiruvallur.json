@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-1-tiruvallur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Tiruvallur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Ponneri",
+      "Thiruvallur",
+      "Gummidipoondi",
+      "Poonamallee",
+      "Madavaram",
+      "Avadi"
+    ]
+  },
+  "representative": {
+    "name": "Sasikanth Senthil",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 44,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Graduate, Bachelor of Engineering . REC trichy, Bharathidasan University-2000."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6907237,
+      "immovable": 15200000,
+      "total": 22107297,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1464",
+    "retrieved": "2026-08-27"
+  }
+}

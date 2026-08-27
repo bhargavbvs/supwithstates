@@ -1,0 +1,51 @@
+{
+  "id": "od-pc-17-puri",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Puri",
+    "reserved": null,
+    "assembly_segments": [
+      "Jayadev",
+      "Nayagarh",
+      "Pipili",
+      "Ranpur",
+      "Satyabadi",
+      "Puri",
+      "Brahmagiri",
+      "Chilika"
+    ]
+  },
+  "representative": {
+    "name": "Sambit Patra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Surgery from Utkal University, Bhubaneswar in 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9866997,
+      "immovable": 10000000,
+      "total": 19806997,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8026",
+    "retrieved": "2026-08-27"
+  }
+}

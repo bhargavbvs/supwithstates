@@ -1,0 +1,51 @@
+{
+  "id": "cg-pc-10-bastar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Bastar",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Narayanpur",
+      "Kondagaon",
+      "Bastar",
+      "Bijapur",
+      "Chitrakot",
+      "Dantewada",
+      "Jagdalpur",
+      "Konta"
+    ]
+  },
+  "representative": {
+    "name": "Mahesh Kashyap",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Agriculture and Transporting Work",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th from Rashtriy Higher Secondary School, Jagdalpur in 1995-96"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2217309,
+      "immovable": 1750000,
+      "total": 3967309,
+      "liabilities": 34930
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=268",
+    "retrieved": "2026-08-27"
+  }
+}

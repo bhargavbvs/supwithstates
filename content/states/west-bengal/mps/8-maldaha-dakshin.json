@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-8-maldaha-dakshin",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 8,
+    "name": "Maldaha Dakshin",
+    "reserved": null,
+    "assembly_segments": [
+      "Manikchak",
+      "English Bazar",
+      "Mothabari",
+      "Sujapur",
+      "Baisnabnagar",
+      "Farakka",
+      "Samserganj"
+    ]
+  },
+  "representative": {
+    "name": "Isha Khan Choudhury",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 53,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from York University Year 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13395368,
+      "immovable": 1415000,
+      "total": 14810368,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3465",
+    "retrieved": "2026-08-27"
+  }
+}

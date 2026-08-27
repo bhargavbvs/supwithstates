@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-10-dharmapuri",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 10,
+    "name": "Dharmapuri",
+    "reserved": null,
+    "assembly_segments": [
+      "Palacodu",
+      "Pennagaram",
+      "Harur",
+      "Pappireddippatti",
+      "Dharmapuri",
+      "Mettur"
+    ]
+  },
+  "representative": {
+    "name": "Mani. A.",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Agriculture and Legal Profession",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.L., Central Law College, Madras University, Salem 1993"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18283403,
+      "immovable": 74662000,
+      "total": 86564403,
+      "liabilities": 21287262
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-27"
+  }
+}

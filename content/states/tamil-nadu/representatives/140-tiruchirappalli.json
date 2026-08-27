@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-140-tiruchirappalli",
+  "constituency": {
+    "number": 140,
+    "name": "Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K.N.Nehru",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 73,
+    "profession": "Agriculture, Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University Cource (Jamal Mohammed College)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36492750,
+      "immovable": 26757000,
+      "total": 63249750,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=189",
+    "retrieved": "2026-08-27"
+  }
+}

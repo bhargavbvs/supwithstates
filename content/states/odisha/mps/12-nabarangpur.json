@@ -1,0 +1,50 @@
+{
+  "id": "od-pc-12-nabarangpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 12,
+    "name": "Nabarangpur",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Umerkote",
+      "Jharigam",
+      "Dabugam",
+      "Nabarangpur",
+      "Kotpad",
+      "Chitrakonda",
+      "Malkangiri"
+    ]
+  },
+  "representative": {
+    "name": "Balabhadra Majhi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. Engineering(Civli) From REC Rourkela under Sambalpur University 1985"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11181560,
+      "immovable": 68900000,
+      "total": 78863561,
+      "liabilities": 1124732
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6335",
+    "retrieved": "2026-08-27"
+  }
+}

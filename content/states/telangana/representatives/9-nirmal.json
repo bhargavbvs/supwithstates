@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Politician",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/e56bf351e7b5deeda027179e76f5a171c3783993.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=246"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.A from Osmania University HYD in the year 1990"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=246",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

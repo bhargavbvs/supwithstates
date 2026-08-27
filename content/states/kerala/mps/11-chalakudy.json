@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-11-chalakudy",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Chalakudy",
+    "reserved": null,
+    "assembly_segments": [
+      "Chalakudy",
+      "Kaipamangalam",
+      "Kodungallur",
+      "Angamaly",
+      "Aluva",
+      "Perumbavoor",
+      "Kunnathunad"
+    ]
+  },
+  "representative": {
+    "name": "Benny Behanan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 71,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Sreesankara College, Kalady, Kerala University, 1971-1972"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 17602119,
+      "immovable": 17418000,
+      "total": 35020209,
+      "liabilities": 7893411
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2272",
+    "retrieved": "2026-08-27"
+  }
+}

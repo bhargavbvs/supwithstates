@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-15-muzaffarpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Muzaffarpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Aurai",
+      "Bochaha",
+      "Gaighat",
+      "Muzaffarpur",
+      "Kurhani",
+      "Sakra"
+    ]
+  },
+  "representative": {
+    "name": "Raj Bhushan Choudhary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 46,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.D. from Darbhanga Chikitsa Mahavidyalaya, Laheriyasarai"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44554983,
+      "immovable": 160749549,
+      "total": 205295066,
+      "liabilities": 54608134
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7133",
+    "retrieved": "2026-08-27"
+  }
+}

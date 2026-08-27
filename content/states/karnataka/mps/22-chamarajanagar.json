@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-22-chamarajanagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 22,
+    "name": "Chamarajanagar",
+    "reserved": "SC",
+    "assembly_segments": [
+      "T.Narasipur",
+      "Varuna",
+      "Heggadadevankote",
+      "Hanur",
+      "Kollegal",
+      "Nanjangud",
+      "Chamarajanagar",
+      "Gundlupet"
+    ]
+  },
+  "representative": {
+    "name": "Sunil Bose",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Social Service, Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Second Year Pre University Examination, Department of Pre University Education, Govt of Karnataka, Sri Sathya Sai Loka Seva Pre University College, Alike Year of Passing 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30497160,
+      "immovable": 43158000,
+      "total": 78466251,
+      "liabilities": 55678947
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2193",
+    "retrieved": "2026-08-27"
+  }
+}

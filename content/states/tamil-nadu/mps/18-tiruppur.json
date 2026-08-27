@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-18-tiruppur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 18,
+    "name": "Tiruppur",
+    "reserved": null,
+    "assembly_segments": [
+      "Anthiyur",
+      "Bhavani",
+      "Gobichettipalayam",
+      "Perundurai",
+      "Tiruppur (North)",
+      "Tiruppur (South)"
+    ]
+  },
+  "representative": {
+    "name": "K Subbarayan",
+    "election": "2024",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 76,
+    "profession": "Political Work - Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From K.Subramania Chettiar High School, Tiruppur 1965"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 886471,
+      "immovable": 9442556,
+      "total": 10431271,
+      "liabilities": 150462
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=204",
+    "retrieved": "2026-08-27"
+  }
+}

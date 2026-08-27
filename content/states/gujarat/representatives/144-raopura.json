@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-144-raopura",
+  "constituency": {
+    "number": 144,
+    "name": "Raopura",
+    "district": "Vadodara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balkrushna Khanderao Shukla (Balu Shukla)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From Manav Sandadhan , The Maharaja Sayajirao University Vadodara. Year-2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29933575,
+      "immovable": 8985000,
+      "total": 38918575,
+      "liabilities": 2987818
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6032",
+    "retrieved": "2026-08-27"
+  }
+}

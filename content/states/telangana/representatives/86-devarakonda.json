@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Agriculture & Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/c049c3f3eab887d407709b7c926a6c1e1d7b03d9.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=65"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "B.A. MKR Govt. Degree College Devarakonda year 1996"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=65",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

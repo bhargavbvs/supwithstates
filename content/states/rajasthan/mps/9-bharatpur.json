@@ -1,0 +1,55 @@
+{
+  "id": "rj-pc-9-bharatpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Bharatpur",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Kaman",
+      "Alwar Rural",
+      "Ramgarh",
+      "Nagar",
+      "Alwar Urban",
+      "Deeg-Kumher",
+      "Kathumar",
+      "Rajgarh-Laxmangarh",
+      "Nadbai",
+      "Bharatpur",
+      "Weir",
+      "Bayana"
+    ]
+  },
+  "representative": {
+    "name": "Sanjna Jatav",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 26,
+    "profession": "Housewife",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from Maharaja Surajmal Brij University 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2310193,
+      "immovable": 0,
+      "total": 2310193,
+      "liabilities": 715340
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=371",
+    "retrieved": "2026-08-27"
+  }
+}

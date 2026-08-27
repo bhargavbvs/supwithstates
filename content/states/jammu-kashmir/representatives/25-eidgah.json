@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-25-eidgah",
+  "constituency": {
+    "number": 25,
+    "name": "Eidgah",
+    "district": "Srinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mubarik Gul",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 73,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (BA) from Kashmir University in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33346417,
+      "immovable": 54722800,
+      "total": 89709192,
+      "liabilities": 10025
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=282",
+    "retrieved": "2026-08-27"
+  }
+}

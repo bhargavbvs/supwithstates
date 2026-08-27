@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-32-raigad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 32,
+    "name": "Raigad",
+    "reserved": null,
+    "assembly_segments": [
+      "Pen",
+      "Alibag",
+      "Mahad",
+      "Shrivardhan",
+      "Dapoli",
+      "Guhagar"
+    ]
+  },
+  "representative": {
+    "name": "Tatkare Sunil Dattatrey",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 69,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "P.D. Science From JSM College Alibaug Raigad Pune University In The Year 1974-75"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53972373,
+      "immovable": 92276399,
+      "total": 145768773,
+      "liabilities": 114520
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4319",
+    "retrieved": "2026-08-27"
+  }
+}

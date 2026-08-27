@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-78-jammu-west",
+  "constituency": {
+    "number": 78,
+    "name": "Jammu West",
+    "district": "Jammu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvind Gupta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Class from Jammu and Kashmir Board of School Education, Dewan Badrinath Vidya Mandir School in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28517414,
+      "immovable": 6286400,
+      "total": 34823924,
+      "liabilities": 1791209
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=630",
+    "retrieved": "2026-08-27"
+  }
+}

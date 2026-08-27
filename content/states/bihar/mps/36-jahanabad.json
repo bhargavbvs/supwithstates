@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-36-jahanabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 36,
+    "name": "Jahanabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Jehanabad",
+      "Ghosi",
+      "Arwal",
+      "Kurtha",
+      "Makhdumpur",
+      "Atri"
+    ]
+  },
+  "representative": {
+    "name": "Surendra Prasad Yadav",
+    "election": "2024",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 65,
+    "profession": "Business And Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.(Budhist Studies) from MU Bodh Gaya, I.A., B.A.(Pass), BA(Hons)Pali"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42207848,
+      "immovable": 96521600,
+      "total": 138754448,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9601",
+    "retrieved": "2026-08-27"
+  }
+}

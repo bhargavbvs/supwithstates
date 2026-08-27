@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Politician",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/e3ab3d12f94ae67c9dc7b4765e0e00cfe928c251.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1166"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "MBBS Discontinued from Rajiv Gandhi Medical Sciences , Karnataka State, Intermediate in 1988 from St. Marys Junior College Himayat Nagar Hyd"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1166",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

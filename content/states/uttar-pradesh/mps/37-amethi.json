@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-37-amethi",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 37,
+    "name": "Amethi",
+    "reserved": null,
+    "assembly_segments": [
+      "Jagdishpur",
+      "Tiloi",
+      "Gauriganj",
+      "Amethi",
+      "Salon"
+    ]
+  },
+  "representative": {
+    "name": "Kishori Lal",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Punjab University, Chandigarh in 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44268872,
+      "immovable": 70347350,
+      "total": 127688722,
+      "liabilities": 47107338
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7521",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-11-tiruvannamalai",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 11,
+    "name": "Tiruvannamalai",
+    "reserved": null,
+    "assembly_segments": [
+      "Kalasapakkam",
+      "Jolarpet",
+      "Tiruppattur",
+      "Chengam",
+      "Kilpennathur",
+      "Tiruvannamalai"
+    ]
+  },
+  "representative": {
+    "name": "C N Annadurai",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B. Com From Pachaiyappas Arts College, Chennai University In 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 108147911,
+      "immovable": 95538400,
+      "total": 203686311,
+      "liabilities": 19156956
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1155",
+    "retrieved": "2026-08-27"
+  }
+}

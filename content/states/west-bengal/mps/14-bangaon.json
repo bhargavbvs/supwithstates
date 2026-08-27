@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-14-bangaon",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Bangaon",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Kalyani",
+      "Haringhata",
+      "Bagda",
+      "Bangaon Uttar",
+      "Bangaon Dakshin",
+      "Gaighata",
+      "Swarupnagar"
+    ]
+  },
+  "representative": {
+    "name": "Shantanu Thakur",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 42,
+    "profession": "Dharma Guru (Sanghadhipati), Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Karnataka State Open University in 2015, B.A. from University of Calcutta in 2005, Advanced Diploma of Hospitality Management from Carrick Institute of Education Sydney, Australia in 2010"
+    },
+    "declared_cases": {
+      "total": 23,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20459702,
+      "immovable": 21866000,
+      "total": 33411607,
+      "liabilities": 17218000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7112",
+    "retrieved": "2026-08-27"
+  }
+}

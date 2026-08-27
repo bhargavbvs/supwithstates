@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-37-mansa",
+  "constituency": {
+    "number": 37,
+    "name": "Mansa",
+    "district": "Gandhinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayantibhai Somabhai Patel (J.S. Patel)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Farming, Business & Construction",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from Ajol Highschool Ajol Mansa Gandhinagar Year 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1470374800,
+      "immovable": 5142506700,
+      "total": 6612881500,
+      "liabilities": 2338556900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6218",
+    "retrieved": "2026-08-27"
+  }
+}

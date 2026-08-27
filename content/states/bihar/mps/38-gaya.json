@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-38-gaya",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 38,
+    "name": "Gaya",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Belaganj",
+      "Wazirganj",
+      "Gaya Town",
+      "Bodh Gaya",
+      "Barachatti",
+      "Sherghati"
+    ]
+  },
+  "representative": {
+    "name": "Jitan Ram Manjhi",
+    "election": "2024",
+    "elected_party": "Hindustani Awam Morcha (Secular)",
+    "current_party": "Hindustani Awam Morcha (Secular)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 78,
+    "profession": "Public Life and Political Activities",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graudate From Magadh University Bodhgaya in 1966"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1670577,
+      "immovable": 1350000,
+      "total": 3020578,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1678",
+    "retrieved": "2026-08-27"
+  }
+}

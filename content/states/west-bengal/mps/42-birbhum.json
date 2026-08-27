@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-42-birbhum",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 42,
+    "name": "Birbhum",
+    "reserved": null,
+    "assembly_segments": [
+      "Dubrajpur",
+      "Suri",
+      "Sainthia",
+      "Rampurhat",
+      "Hansan",
+      "Nalhati",
+      "Murarai"
+    ]
+  },
+  "representative": {
+    "name": "Satabdi Roy",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Professional Artist, Social Worker and Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Degree from Jogmaya Devi College under Kolkata University and Course was Completed in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46160496,
+      "immovable": 62175000,
+      "total": 109245500,
+      "liabilities": 20171392
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5187",
+    "retrieved": "2026-08-27"
+  }
+}

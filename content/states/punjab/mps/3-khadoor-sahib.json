@@ -1,0 +1,52 @@
+{
+  "id": "pb-pc-3-khadoor-sahib",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 3,
+    "name": "Khadoor Sahib",
+    "reserved": null,
+    "assembly_segments": [
+      "Jandiala",
+      "Baba Bakala",
+      "Tarn Taran",
+      "Khadoor Sahib",
+      "Khem Karan",
+      "Kapurthala",
+      "Sultanpur Lodhi",
+      "Patti",
+      "Zira"
+    ]
+  },
+  "representative": {
+    "name": "Amritpal Singh",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 31,
+    "profession": "Dependent on Parents",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from K G Holy Heart Public School, Pheruman, PSEB in 2008"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1838441,
+      "immovable": 0,
+      "total": 1838440,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9665",
+    "retrieved": "2026-08-27"
+  }
+}

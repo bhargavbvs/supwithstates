@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-1-valmiki-nagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 1,
+    "name": "Valmiki Nagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Ramnagar",
+      "Valmiki Nagar",
+      "Sikta",
+      "Bagaha",
+      "Narkatiaganj",
+      "Lauriya"
+    ]
+  },
+  "representative": {
+    "name": "Sunil Kumar",
+    "election": "2024",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 39,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from M.J.K.College Bettiah Pargana Champaran Year 2005 Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur Bihar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3764190,
+      "immovable": 9000000,
+      "total": 12764194,
+      "liabilities": 6502981
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7846",
+    "retrieved": "2026-08-27"
+  }
+}

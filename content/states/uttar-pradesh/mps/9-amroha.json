@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-9-amroha",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Amroha",
+    "reserved": null,
+    "assembly_segments": [
+      "Dhanaura",
+      "Naugawan Sadat",
+      "Amroha",
+      "Garhmukteshwar",
+      "Hasanpur"
+    ]
+  },
+  "representative": {
+    "name": "Kanwar Singh Tanwar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 63,
+    "profession": "Real Estate, Rent, Bank Interest",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Under Matric From Govt. Higher Secondary School Fatehpur Beri Delhi in 1973-74"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 246998326,
+      "immovable": 1900935000,
+      "total": 2147933326,
+      "liabilities": 19897537
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1807",
+    "retrieved": "2026-08-27"
+  }
+}

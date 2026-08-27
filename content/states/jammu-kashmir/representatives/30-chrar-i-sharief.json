@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-30-chrar-i-sharief",
+  "constituency": {
+    "number": 30,
+    "name": "Chrar-I-Sharief",
+    "district": "Badgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Advocate Abdul Rahim Rather",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 80,
+    "profession": "Agriculturist, Politician, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in political Science from Kashmir University in 1968, LLB from Aligarh Muslim University in 1971, Diploma in Public Administration from ALigarh Muslim University in 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5750385,
+      "immovable": 106700000,
+      "total": 112450385,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=341",
+    "retrieved": "2026-08-27"
+  }
+}

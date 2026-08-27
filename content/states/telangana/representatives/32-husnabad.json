@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Public Service & Advocate",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/2639ef93bbb08ea765b3bbf56fd0a7491b72eb4a.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=89"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Arts (Political Science) From Osmania University Year 1996"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=89",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

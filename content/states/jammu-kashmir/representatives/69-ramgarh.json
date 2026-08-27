@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-69-ramgarh",
+  "constituency": {
+    "number": 69,
+    "name": "Ramgarh",
+    "district": "Samba",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr Devinder Kumar Manyal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Retired from State Govt. Services",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from BLDE Medical College, Bijapur, Karnataka in the year 1996 and Diploma in Orthopaedics in the year 2005 from The College of Physicians and Surgeans of Bombay"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8487937,
+      "immovable": 46459000,
+      "total": 54887000,
+      "liabilities": 5715000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=681",
+    "retrieved": "2026-08-27"
+  }
+}

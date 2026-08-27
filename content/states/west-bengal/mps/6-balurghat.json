@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-6-balurghat",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 6,
+    "name": "Balurghat",
+    "reserved": null,
+    "assembly_segments": [
+      "Itahar",
+      "Kushmandi",
+      "Kumarganj",
+      "Balurghat",
+      "Tapan",
+      "Gangarampur",
+      "Harirampur"
+    ]
+  },
+  "representative": {
+    "name": "Sukanta Majumdar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 44,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D, Year 2018, M.Sc. Year 2005 From North Bengal University,"
+    },
+    "declared_cases": {
+      "total": 16,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8376825,
+      "immovable": 4100000,
+      "total": 12476825,
+      "liabilities": 1125114
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2211",
+    "retrieved": "2026-08-27"
+  }
+}

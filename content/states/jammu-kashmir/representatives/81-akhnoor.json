@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-81-akhnoor",
+  "constituency": {
+    "number": 81,
+    "name": "Akhnoor",
+    "district": "Jammu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mohan Lal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Retd. SSP J&K Police",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc Botany From Jammu University in Year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11748097,
+      "immovable": 23597000,
+      "total": 35248098,
+      "liabilities": 7287577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=634",
+    "retrieved": "2026-08-27"
+  }
+}

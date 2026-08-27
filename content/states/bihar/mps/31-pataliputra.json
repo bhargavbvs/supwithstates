@@ -1,0 +1,49 @@
+{
+  "id": "br-pc-31-pataliputra",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 31,
+    "name": "Pataliputra",
+    "reserved": null,
+    "assembly_segments": [
+      "Danapur",
+      "Maner",
+      "Phulwari",
+      "Bikram",
+      "Masaurhi",
+      "Paliganj"
+    ]
+  },
+  "representative": {
+    "name": "Misha Bharti",
+    "election": "2024",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": "Social Work & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S. from Patna Medical College, Patna University in 2000"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 63899560,
+      "immovable": 38720000,
+      "total": 102619562,
+      "liabilities": 11462479
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9528",
+    "retrieved": "2026-08-27"
+  }
+}

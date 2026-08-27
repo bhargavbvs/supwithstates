@@ -1,0 +1,49 @@
+{
+  "id": "tn-pc-17-erode",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Erode",
+    "reserved": null,
+    "assembly_segments": [
+      "Kumarapalayam",
+      "Erode (West)",
+      "Erode (East)",
+      "Modakkurichi",
+      "Kangayam",
+      "Dharapuram"
+    ]
+  },
+  "representative": {
+    "name": "K E Prakash",
+    "election": "2024",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 47,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A (Eco) College of Arts and Science College Gobichettipalayam 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 52664323,
+      "immovable": 47762565,
+      "total": 100426890,
+      "liabilities": 3953159
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=127",
+    "retrieved": "2026-08-27"
+  }
+}

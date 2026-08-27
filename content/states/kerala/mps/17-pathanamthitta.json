@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-17-pathanamthitta",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Pathanamthitta",
+    "reserved": null,
+    "assembly_segments": [
+      "Poonjar",
+      "Kanjirappally",
+      "Thiruvalla",
+      "Konni",
+      "Ranni",
+      "Aranmula",
+      "Adoor"
+    ]
+  },
+  "representative": {
+    "name": "Anto Antony",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 67,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts, Kerala University - 1978"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 5,
+      "note": null
+    },
+    "assets": {
+      "movable": 3480983,
+      "immovable": 8990873,
+      "total": 12471856,
+      "liabilities": 15673065
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2309",
+    "retrieved": "2026-08-27"
+  }
+}

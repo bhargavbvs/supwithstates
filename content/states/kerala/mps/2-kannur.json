@@ -1,0 +1,50 @@
+{
+  "id": "kl-pc-2-kannur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 2,
+    "name": "Kannur",
+    "reserved": null,
+    "assembly_segments": [
+      "Irikkur",
+      "Taliparamba",
+      "Peravoor",
+      "Mattannur",
+      "Azhikode",
+      "Kannur",
+      "Dharmadam"
+    ]
+  },
+  "representative": {
+    "name": "K. Sudhakaran",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 75,
+    "profession": "Social Worker and Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (History), Govt. Brennen College, Thalassery, 1971-73, LLB- S.D.M Law College, Mangalapuram , 1975-78, Mangalapuram University"
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4098919,
+      "immovable": 58881000,
+      "total": 62979919,
+      "liabilities": 5933624
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2279",
+    "retrieved": "2026-08-27"
+  }
+}

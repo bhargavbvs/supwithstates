@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Business & Social Service",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/01bb0efd01d368e3c0be4dc7dda97a2539a18191.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5294"
-    },
+    "photo": null,
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass Intermediate Board of Intermediate Education Intermediate Public Examination 1997"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5294",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

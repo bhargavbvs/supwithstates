@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-90-somnath",
+  "constituency": {
+    "number": 90,
+    "name": "Somnath",
+    "district": "Gir Somnath",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chudasama Vimalbhai Kanabhai",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Farming & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "T.Y. B.Com Pass From JJK AC Kundaliya College, Rajkot, Year-2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7281827,
+      "immovable": 14850000,
+      "total": 22131827,
+      "liabilities": 1263359
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5679",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mp-pc-26-indore",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 26,
+    "name": "Indore",
+    "reserved": null,
+    "assembly_segments": [
+      "Depalpur",
+      "Sanwer",
+      "Indore-1",
+      "Rau"
+    ]
+  },
+  "representative": {
+    "name": "Shankar Lalwani",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 62,
+    "profession": "MP - Indore Lok Sabha Constituency",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech. From University of Bombay In 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14942411,
+      "immovable": 4580000,
+      "total": 19522412,
+      "liabilities": 1009835
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5163",
+    "retrieved": "2026-08-27"
+  }
+}

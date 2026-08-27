@@ -1,0 +1,50 @@
+{
+  "id": "gj-pc-14-amreli",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 14,
+    "name": "Amreli",
+    "reserved": null,
+    "assembly_segments": [
+      "Lathi",
+      "Amreli",
+      "Gariadhar",
+      "Dhari",
+      "Savarkundla",
+      "Mahuva",
+      "Rajula"
+    ]
+  },
+  "representative": {
+    "name": "Bharatbhai Manubhai Sutariya",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass In The Year 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2780746,
+      "immovable": 5578000,
+      "total": 8378748,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4067",
+    "retrieved": "2026-08-27"
+  }
+}

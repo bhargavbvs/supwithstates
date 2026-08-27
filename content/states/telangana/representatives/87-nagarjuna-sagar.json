@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Business And Public Services",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/a498462809cd547ef8f9d38f122ce034e5a45791.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=217"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science in Financial Engineering with Polytechnic Institute of New York University New York United States 2008"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=217",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

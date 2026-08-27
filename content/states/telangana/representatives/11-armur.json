@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Agriculture and Business",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/4db7c71616ebb6381cb370794588f0132683f028.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=17"
-    },
+    "photo": null,
     "education": {
       "level": "5th Pass",
       "detail": "VIII Class from Z.P. H.S. Boys, Armoor Dist. Nizamabad, discontinued in 1980"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=17",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

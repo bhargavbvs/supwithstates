@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 73,
     "profession": "MLC",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/b305cd6ea4f0d3f85f6d80023d436d145f605a2d.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=84"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc (Chemistry) From Osmania University Hyderabad in the Year 1975"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=84",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

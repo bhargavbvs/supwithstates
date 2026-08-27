@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-31-chadoora",
+  "constituency": {
+    "number": 31,
+    "name": "Chadoora",
+    "district": "Badgam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ali Mohammad Dar",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "P.U.C. from Kashmir University in 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3024014,
+      "immovable": 61000000,
+      "total": 63994014,
+      "liabilities": 5092000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=389",
+    "retrieved": "2026-08-27"
+  }
+}

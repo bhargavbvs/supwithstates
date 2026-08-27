@@ -1,0 +1,42 @@
+{
+  "id": "gj-ac-7-vav",
+  "constituency": {
+    "number": 7,
+    "name": "Vav",
+    "district": "Banas Kantha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thakor Swarupji Sardarji",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "by_election": true,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Agriculture, Business, Social Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from National Open School in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2400771,
+      "immovable": 11924808,
+      "total": 14325579,
+      "liabilities": 4259876
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6784",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-28-mumbai-north-east",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 28,
+    "name": "Mumbai North-East",
+    "reserved": null,
+    "assembly_segments": [
+      "Mulund",
+      "Bhandup West",
+      "Vikhroli",
+      "Ghatkopar East",
+      "Ghatkopar West",
+      "Mankhurd Shivaji Nagar"
+    ]
+  },
+  "representative": {
+    "name": "Sanjay Dina Patil",
+    "election": "2024",
+    "elected_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "current_party": "ShivSena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 55,
+    "profession": "Social Worker,Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Mumbai University Year 1992...,HSC Pass from Mumbai Board Tear 1987,..,SSC from Pune Borad Year 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51158643,
+      "immovable": 1800000,
+      "total": 39911145,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7094",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-30-sitapur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 30,
+    "name": "Sitapur",
+    "reserved": null,
+    "assembly_segments": [
+      "Laharpur",
+      "Sevata",
+      "Biswan",
+      "Sitapur",
+      "Mahmoodabad"
+    ]
+  },
+  "representative": {
+    "name": "Rakesh Rathor",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Business of Readymade Cloths, Saree Shop",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Chatrapati Sahu Ji Maharaj University Kanpur 2022"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4607005,
+      "immovable": 37500000,
+      "total": 42107005,
+      "liabilities": 8288936
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5381",
+    "retrieved": "2026-08-27"
+  }
+}

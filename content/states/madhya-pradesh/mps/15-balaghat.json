@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-15-balaghat",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Balaghat",
+    "reserved": null,
+    "assembly_segments": [
+      "Seoni",
+      "Baihar",
+      "Paraswada",
+      "Barghat",
+      "Balaghat",
+      "Katangi",
+      "Waraseoni",
+      "Lanji"
+    ]
+  },
+  "representative": {
+    "name": "Bharti Pardhi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 56,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. (Home Science) From Rani Durgawati University, Jabalpur 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7088166,
+      "immovable": 51930000,
+      "total": 59018167,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=45",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-162-karanj",
+  "constituency": {
+    "number": 162,
+    "name": "Karanj",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pravinbhai Manjibhai Ghoghari",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Construction And Social Activity",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Shri M.D Patel High/Higher Secondary School, Gariyadhar In Year 1985-86"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14272618,
+      "immovable": 8028020,
+      "total": 22300638,
+      "liabilities": 5448166
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5447",
+    "retrieved": "2026-08-27"
+  }
+}

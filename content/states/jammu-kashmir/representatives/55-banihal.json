@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-55-banihal",
+  "constituency": {
+    "number": 55,
+    "name": "Banihal",
+    "district": "Ramban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sajad Shaheen",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from University of Jammu in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5984339,
+      "immovable": 131500000,
+      "total": 112484339,
+      "liabilities": 628000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=150",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-48-inderwal",
+  "constituency": {
+    "number": 48,
+    "name": "Inderwal",
+    "district": "Kishtwar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Payare Lal Sharma",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Contractor",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th from Govt. Middle School Inderwal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21643450,
+      "immovable": 62437000,
+      "total": 81689000,
+      "liabilities": 75158000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=235",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-79-jamnagar-south",
+  "constituency": {
+    "number": 79,
+    "name": "Jamnagar South",
+    "district": "Jamnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akbari Divyeshbhai Ranchhodbhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Brasparts/Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "SY. B.Com 1998 V.M. Mehta Mun. Arts and Commerce College Bhavnagar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24338273,
+      "immovable": 5508600,
+      "total": 29846873,
+      "liabilities": 14817413
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5753",
+    "retrieved": "2026-08-27"
+  }
+}

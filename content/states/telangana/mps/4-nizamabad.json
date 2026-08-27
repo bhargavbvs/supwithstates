@@ -24,12 +24,7 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Member of Parliament",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/LokSabha2024/c0be805bf20113ebbdfa58d154e7db5a6504109f.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5246"
-    },
+    "photo": null,
     "education": {
       "level": "Post Graduate",
       "detail": "MA (Political Science) from Janardhan Rai Nagar Rajasthan Vidyapeeth 2018"
@@ -50,6 +45,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5246",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

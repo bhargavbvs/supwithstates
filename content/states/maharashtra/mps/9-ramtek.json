@@ -1,0 +1,49 @@
+{
+  "id": "mh-pc-9-ramtek",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 9,
+    "name": "Ramtek",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Ramtek",
+      "Savner",
+      "Katol",
+      "Kamthi",
+      "Hingna",
+      "Umred"
+    ]
+  },
+  "representative": {
+    "name": "Shyamkumar Daulat Barve",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 46,
+    "profession": "Private Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A.(II Year) Form Yashwantrao Chavan Maharashtra Open University, Nashik, Year-2022"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15194952,
+      "immovable": 27700000,
+      "total": 42894953,
+      "liabilities": 16152299
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=675",
+    "retrieved": "2026-08-27"
+  }
+}

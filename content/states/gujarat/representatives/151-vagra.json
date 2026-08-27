@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-151-vagra",
+  "constituency": {
+    "number": 151,
+    "name": "Vagra",
+    "district": "Bharuch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arunsinh Ajitsinh Rana",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Farming, Dairy Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC From Sadanand Vidya Mandir in Year March 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19534389,
+      "immovable": 143916451,
+      "total": 163450840,
+      "liabilities": 6126066
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5074",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-84-nowshera",
+  "constituency": {
+    "number": 84,
+    "name": "Nowshera",
+    "district": "Rajauri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surinder Kumar Choudhary",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir National Conference",
+    "current_party": "Jammu & Kashmir National Conference",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Ex. Member of Legislative Council",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from J&K State Board of School Education in 1987, from Govt. Higher Secondary School Nowshera"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9948717,
+      "immovable": 10400000,
+      "total": 20348445,
+      "liabilities": 56412
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=275",
+    "retrieved": "2026-08-27"
+  }
+}

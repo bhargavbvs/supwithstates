@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-34-dahegam",
+  "constituency": {
+    "number": 34,
+    "name": "Dahegam",
+    "district": "Gandhinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chauhan Balrajsinh Kalyansinh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture, Notri Advocate and MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Siddharth Law College Gandhinagar in Year 1999, B.A from Maniben Bhikhabhai Commerce College in Year Apr 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6400979,
+      "immovable": 5600000,
+      "total": 12000979,
+      "liabilities": 666000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6208",
+    "retrieved": "2026-08-27"
+  }
+}

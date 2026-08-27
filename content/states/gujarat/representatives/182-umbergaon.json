@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-182-umbergaon",
+  "constituency": {
+    "number": 182,
+    "name": "Umbergaon",
+    "district": "Valsad",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Patkar Ramanlal Nanubhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 71,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from J.N.C. High School Maroli in 1965"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2866468,
+      "immovable": 30000000,
+      "total": 32866468,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4940",
+    "retrieved": "2026-08-27"
+  }
+}

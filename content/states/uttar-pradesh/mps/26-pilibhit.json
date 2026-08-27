@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-26-pilibhit",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 26,
+    "name": "Pilibhit",
+    "reserved": null,
+    "assembly_segments": [
+      "Baheri",
+      "Pilibhit",
+      "Barkhera",
+      "Puranpur",
+      "Bisalpur"
+    ]
+  },
+  "representative": {
+    "name": "Jitin Prasada",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 50,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA-International Management Institute,New Delhi 1995-1996, B.Com. Sri Ram Commerce College D.U.1992-1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 98375408,
+      "immovable": 200550000,
+      "total": 298925408,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=899",
+    "retrieved": "2026-08-27"
+  }
+}

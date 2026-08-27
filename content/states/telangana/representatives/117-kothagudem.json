@@ -15,12 +15,7 @@
     "term_start": "2023-12",
     "age_at_election": 67,
     "profession": "Social Service",
-    "photo": {
-      "url": "https://myneta.info/images_candidate/Telangana2023/5976f3b515f2cc0f4f6d459071600cf6cf8c527a.jpg",
-      "credit": "Election Commission of India via MyNeta",
-      "license": "ECI Affidavit Photo",
-      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=156"
-    },
+    "photo": null,
     "education": {
       "level": "Graduate",
       "detail": "Bachelor Of Arts Andhra University 1974-77"
@@ -41,6 +36,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=156",
-    "retrieved": "2026-08-26"
+    "retrieved": "2026-08-27"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-79-jammu-north",
+  "constituency": {
+    "number": 79,
+    "name": "Jammu North",
+    "district": "Jammu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sham Lal Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation in 1978 from Jammu & Kashmir Board of School Education, Jammu"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42028150,
+      "immovable": 158064120,
+      "total": 201365239,
+      "liabilities": 13383740
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=621",
+    "retrieved": "2026-08-27"
+  }
+}

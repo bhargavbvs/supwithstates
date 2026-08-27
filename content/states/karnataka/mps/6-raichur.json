@@ -1,0 +1,51 @@
+{
+  "id": "ka-pc-6-raichur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 6,
+    "name": "Raichur",
+    "reserved": "ST",
+    "assembly_segments": [
+      "Shahapur",
+      "Yadgir",
+      "Shorapur",
+      "Devadurga",
+      "Raichur Rural",
+      "Lingsugur",
+      "Raichur",
+      "Manvi"
+    ]
+  },
+  "representative": {
+    "name": "G. Kumar Naik",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Retired AS Indian Administrative Service.",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Of Engineering, Civil, University Of Vishveshvaraya College Of Engineering, Bengaluru, 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43003504,
+      "immovable": 291125000,
+      "total": 334128505,
+      "liabilities": 50402455
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3585",
+    "retrieved": "2026-08-27"
+  }
+}

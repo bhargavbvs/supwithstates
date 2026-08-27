@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-12-krishnanagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 12,
+    "name": "Krishnanagar",
+    "reserved": null,
+    "assembly_segments": [
+      "Tehatta",
+      "Palashipara",
+      "Kaliganj",
+      "Nakashipara",
+      "Chapra",
+      "Krishnanagar Uttar",
+      "Nabadwip"
+    ]
+  },
+  "representative": {
+    "name": "Mahua Moitra",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 49,
+    "profession": "Public Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts, (Mathematics & Economics), Magna cum Laude, 1998, Mount Holyoke College, Massachusetts, United States of America."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35067162,
+      "immovable": 0,
+      "total": 35067166,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5085",
+    "retrieved": "2026-08-27"
+  }
+}

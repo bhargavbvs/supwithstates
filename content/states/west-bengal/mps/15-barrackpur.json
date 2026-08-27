@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-15-barrackpur",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 15,
+    "name": "Barrackpur",
+    "reserved": null,
+    "assembly_segments": [
+      "Amdanga",
+      "Bijpur",
+      "Naihati",
+      "Bhatpara",
+      "Jagatdal",
+      "Noapara",
+      "Barrackpur"
+    ]
+  },
+  "representative": {
+    "name": "Partha Bhowmick",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 60,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Degree in Commerce from Rishi Bankim Chandra Evening College, University of Calcutta in 1986-1987"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24403961,
+      "immovable": 29831879,
+      "total": 54235841,
+      "liabilities": 11051557
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7118",
+    "retrieved": "2026-08-27"
+  }
+}

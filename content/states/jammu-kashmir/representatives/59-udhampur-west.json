@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-59-udhampur-west",
+  "constituency": {
+    "number": 59,
+    "name": "Udhampur West",
+    "district": "Udhampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pawan Kumar Gupta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. - Civil from Regional Engineering College, Srinagar in 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 86480823,
+      "immovable": 68397836,
+      "total": 154878661,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=574",
+    "retrieved": "2026-08-27"
+  }
+}

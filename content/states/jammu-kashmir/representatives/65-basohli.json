@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-65-basohli",
+  "constituency": {
+    "number": 65,
+    "name": "Basohli",
+    "district": "Kathua",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Darshan Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Transport Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass in 1992 from J&K Board of School Education"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69887223,
+      "immovable": 9700000,
+      "total": 103087223,
+      "liabilities": 45458343
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=579",
+    "retrieved": "2026-08-27"
+  }
+}

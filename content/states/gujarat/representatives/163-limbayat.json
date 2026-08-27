@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-163-limbayat",
+  "constituency": {
+    "number": 163,
+    "name": "Limbayat",
+    "district": "Surat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sangitaben Rajendra Patil",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "MLA, Social service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Yashwantrao chauhan Maharashtra open university Nashik in 2018,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10465611,
+      "immovable": 10601250,
+      "total": 21066861,
+      "liabilities": 4332129
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4966",
+    "retrieved": "2026-08-27"
+  }
+}

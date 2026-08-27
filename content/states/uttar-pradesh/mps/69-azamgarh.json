@@ -1,0 +1,48 @@
+{
+  "id": "up-pc-69-azamgarh",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 69,
+    "name": "Azamgarh",
+    "reserved": null,
+    "assembly_segments": [
+      "Gopalpur",
+      "Sagri",
+      "Mubarakpur",
+      "Azamgarh",
+      "Mehnagar"
+    ]
+  },
+  "representative": {
+    "name": "Dharmendra Yadav",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 45,
+    "profession": "Agriculture, Pension from Lok Sabha",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political Science From Allahabad University in 2004, LLB from Allahabad University in 2002"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21311701,
+      "immovable": 113721094,
+      "total": 135032793,
+      "liabilities": 34245511
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8128",
+    "retrieved": "2026-08-27"
+  }
+}

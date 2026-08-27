@@ -1,0 +1,41 @@
+{
+  "id": "gj-ac-89-mangrol",
+  "constituency": {
+    "number": 89,
+    "name": "Mangrol",
+    "district": "Junagadh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kargatiya Bhagvanjibhai Lakhabhai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Old SSC From C.P. Ed. Amrawati Hanuman Akhada, Year-1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6050000,
+      "immovable": 6500000,
+      "total": 12550000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5794",
+    "retrieved": "2026-08-27"
+  }
+}

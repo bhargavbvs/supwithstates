@@ -1,0 +1,50 @@
+{
+  "id": "wb-pc-19-jaynagar",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 19,
+    "name": "Jaynagar",
+    "reserved": "SC",
+    "assembly_segments": [
+      "Gosaba",
+      "Basanti",
+      "Kultali",
+      "Jaynagar",
+      "Canning Paschim",
+      "Canning Purba",
+      "Magrahat Purba"
+    ]
+  },
+  "representative": {
+    "name": "Pratima Mondal",
+    "election": "2024",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 58,
+    "profession": "Politician (Membar Of Parliament )",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A(History ) From University Of Culcutta In Year 1993, B.ed from Calcutta University in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49970051,
+      "immovable": 19000000,
+      "total": 68970051,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9628",
+    "retrieved": "2026-08-27"
+  }
+}

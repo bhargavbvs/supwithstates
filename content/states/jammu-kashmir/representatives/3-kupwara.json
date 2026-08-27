@@ -1,0 +1,41 @@
+{
+  "id": "jk-ac-3-kupwara",
+  "constituency": {
+    "number": 3,
+    "name": "Kupwara",
+    "district": "Kupwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mir Mohammad Fayaz",
+    "election": "2024",
+    "elected_party": "Jammu & Kashmir Peoples Democratic Party",
+    "current_party": "Jammu & Kashmir Peoples Democratic Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Social worker and Political Leader",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass Higher Secondary School Part II Through JKBOSE 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2685000,
+      "immovable": 5856000,
+      "total": 8541000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=738",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "rj-pc-21-chittorgarh",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 21,
+    "name": "Chittorgarh",
+    "reserved": null,
+    "assembly_segments": [
+      "Kapasan",
+      "Chittorgarh",
+      "Begun",
+      "Mavli",
+      "Vallabhnagar",
+      "Nimbahera",
+      "Bari Sadri",
+      "Pratapgarh"
+    ]
+  },
+  "representative": {
+    "name": "Chandra Prakash Joshi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Social Service as Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B. Year-2022 Mohanlal Sukhadiya University Udaipur, B.Com. Year-1998 Mohanlal Sukhadiya University Udaipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29900504,
+      "immovable": 11072800,
+      "total": 40973304,
+      "liabilities": 8627349
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2025",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "mp-pc-17-hoshangabad",
+  "house": "lok sabha",
+  "constituency": {
+    "number": 17,
+    "name": "Hoshangabad",
+    "reserved": null,
+    "assembly_segments": [
+      "Tendukheda",
+      "Udaipura",
+      "Narsingpur",
+      "Gadarwara",
+      "Pipariya",
+      "Sohagpur",
+      "Hoshangabad",
+      "Seoni-Malwa"
+    ]
+  },
+  "representative": {
+    "name": "Darshan Singh Choudhary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-06",
+    "age_at_election": 48,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Economics From Barkattullaha University Bhopal Year 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 814060,
+      "immovable": 8535000,
+      "total": 9349061,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1833",
+    "retrieved": "2026-08-27"
+  }
+}
