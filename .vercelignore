@@ -1,0 +1,9 @@
+# Local caches. Both are build inputs on this machine and neither is
+# needed to serve the site: the crawl's raw pages (267MB) exist so a
+# parser fix never re-asks MyNeta for anything, and the source
+# shapefiles (104MB) are cut down into content/states/*/geo/ before
+# anything ships. Uploading them aborted the deploy.
+.myneta-src
+.geo-src
+node_modules
+.git
