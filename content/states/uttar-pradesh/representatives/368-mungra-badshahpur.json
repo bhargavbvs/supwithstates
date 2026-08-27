@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-368-mungra-badshahpur",
+  "constituency": {
+    "number": 368,
+    "name": "Mungra Badshahpur",
+    "district": "Jaunpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pankaj",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 36,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Bundel Khand Degree College Jhansi UP in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 210000,
+      "immovable": 2000000,
+      "total": 2210000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4712",
+    "retrieved": "2026-08-27"
+  }
+}

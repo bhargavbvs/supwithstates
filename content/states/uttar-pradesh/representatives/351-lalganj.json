@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-351-lalganj",
+  "constituency": {
+    "number": 351,
+    "name": "Lalganj",
+    "district": "Azamgarh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bechai",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture & Social Woker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Gandhi Inter College Barhar Azamgarh Year-1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4243697,
+      "immovable": 4000000,
+      "total": 8243697,
+      "liabilities": 500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4318",
+    "retrieved": "2026-08-27"
+  }
+}

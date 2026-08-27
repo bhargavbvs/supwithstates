@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-18-rajganj",
+  "constituency": {
+    "number": 18,
+    "name": "Rajganj",
+    "district": "Jalp>iguri",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dinesh Sarkar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass from Ananda Model High School, in 1981"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5444745,
+      "immovable": 10300000,
+      "total": 15744745,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=86",
+    "retrieved": "2026-08-27"
+  }
+}

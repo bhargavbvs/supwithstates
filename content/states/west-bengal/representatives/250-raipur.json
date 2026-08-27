@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-250-raipur",
+  "constituency": {
+    "number": 250,
+    "name": "Raipur",
+    "district": "B>nkura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kshetramohan Hansda",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Standard from Dheko Rajani Kanta High School in 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 596817,
+      "immovable": 4500000,
+      "total": 1676817,
+      "liabilities": 43035
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=317",
+    "retrieved": "2026-08-27"
+  }
+}

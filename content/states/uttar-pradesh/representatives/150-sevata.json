@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-150-sevata",
+  "constituency": {
+    "number": 150,
+    "name": "Sevata",
+    "district": "Sitapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gyan Tiwari",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Agriculture & Business, Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Lucknow University Lucknow in 1990-91"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10183114,
+      "immovable": 50575000,
+      "total": 57928114,
+      "liabilities": 3576617
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2426",
+    "retrieved": "2026-08-27"
+  }
+}

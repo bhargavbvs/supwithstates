@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-226-lalitpur",
+  "constituency": {
+    "number": 226,
+    "name": "Lalitpur",
+    "district": "Lalitpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramratan Kushwaha",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "MLA Salary and Interest Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Bundelkhand University, Jhansi in 1983"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16635787,
+      "immovable": 17542000,
+      "total": 34177788,
+      "liabilities": 1539681
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1804",
+    "retrieved": "2026-08-27"
+  }
+}

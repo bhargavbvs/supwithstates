@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-194-chanditala",
+  "constituency": {
+    "number": 194,
+    "name": "Chanditala",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Swati Khandoker",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Mayurakshi Gramin College, Raniswar, Dumka under Bihar Intermediate Education Council in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10791820,
+      "immovable": 5200000,
+      "total": 13174320,
+      "liabilities": 1200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2908",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-153-behala-purba",
+  "constituency": {
+    "number": 153,
+    "name": "Behala Purba",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sankar Sikder",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering, (B.E) form Regional Engineering College, under Bharathi Dasas University, Tiruchirapalli Tamilnadu in 2003"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6096000,
+      "immovable": 27800000,
+      "total": 33906000,
+      "liabilities": 760000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2678",
+    "retrieved": "2026-08-27"
+  }
+}

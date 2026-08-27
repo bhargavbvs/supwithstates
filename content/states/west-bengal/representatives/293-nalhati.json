@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-293-nalhati",
+  "constituency": {
+    "number": 293,
+    "name": "Nalhati",
+    "district": "B|rbh@m",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Prasad Singh(Raju Singh)",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed in The Year 1987 From Nalhati Vivakananda Vidy Apith Under West Bengal Board of Secondary Education"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8081115,
+      "immovable": 12274230,
+      "total": 20355345,
+      "liabilities": 3480776
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=359",
+    "retrieved": "2026-08-27"
+  }
+}

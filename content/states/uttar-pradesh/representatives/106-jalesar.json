@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-106-jalesar",
+  "constituency": {
+    "number": 106,
+    "name": "Jalesar",
+    "district": "Etah",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sanjeev Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Agriculture, Shop & MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. in 2001 from Govt. Post Graduation College, Jalesar, Dr. Bhimrao Ambedkar University Agra"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9196206,
+      "immovable": 6000000,
+      "total": 13999507,
+      "liabilities": 142107
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1625",
+    "retrieved": "2026-08-27"
+  }
+}

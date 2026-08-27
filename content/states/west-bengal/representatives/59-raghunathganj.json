@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-59-raghunathganj",
+  "constituency": {
+    "number": 59,
+    "name": "Raghunathganj",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akhruzzaman",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Social worker, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.ed-1989 From Calcutta University, LLB 1988 From Calcutta University."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11844342,
+      "immovable": 17221921,
+      "total": 29066365,
+      "liabilities": 616017
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=637",
+    "retrieved": "2026-08-27"
+  }
+}

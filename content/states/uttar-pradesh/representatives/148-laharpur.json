@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-148-laharpur",
+  "constituency": {
+    "number": 148,
+    "name": "Laharpur",
+    "district": "Sitapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Kumar Verma",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculture & Business & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4367862,
+      "immovable": 25100000,
+      "total": 29467862,
+      "liabilities": 4567424
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2403",
+    "retrieved": "2026-08-27"
+  }
+}

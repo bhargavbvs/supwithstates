@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-25-kanth",
+  "constituency": {
+    "number": 25,
+    "name": "Kanth",
+    "district": "Moradabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamal Akhtar",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Former Rajya Sabha Member Former Legislative Assembly Member Uttar Pradesh",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B. & B.A. Jamia Millia Islamia Delhi Year 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12100065,
+      "immovable": 67300000,
+      "total": 78974986,
+      "liabilities": 28200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=908",
+    "retrieved": "2026-08-27"
+  }
+}

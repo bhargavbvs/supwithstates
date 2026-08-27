@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-206-akbarpur-raniya",
+  "constituency": {
+    "number": 206,
+    "name": "Akbarpur-Raniya",
+    "district": "Kanpur Dehat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pratibha Shukla",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Juhari Devi Girls Degree College, Kanpur Nagar in 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16109093,
+      "immovable": 32337633,
+      "total": 46446927,
+      "liabilities": 1534305
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1735",
+    "retrieved": "2026-08-27"
+  }
+}

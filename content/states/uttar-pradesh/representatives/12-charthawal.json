@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-12-charthawal",
+  "constituency": {
+    "number": 12,
+    "name": "Charthawal",
+    "district": "Muzaffarnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pankaj Kumar Malik",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B, D.A.V. College Muzaffarnagar, B.A. From Sanjay Gandhi P.G.College Sarurpur Khurd Meerut .C.C. University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24984082,
+      "immovable": 38812040,
+      "total": 63796123,
+      "liabilities": 4193621
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

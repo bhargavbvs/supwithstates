@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-245-babaganj",
+  "constituency": {
+    "number": 245,
+    "name": "Babaganj",
+    "district": "Pratapgarh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vinod Kumar",
+    "election": "2022",
+    "elected_party": "Jansatta Dal Loktantrik",
+    "current_party": "Jansatta Dal Loktantrik",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate in History From Shahuji Maharaj University Kanpur UP in 2003"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16216703,
+      "immovable": 22000000,
+      "total": 38216704,
+      "liabilities": 8958
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3052",
+    "retrieved": "2026-08-27"
+  }
+}

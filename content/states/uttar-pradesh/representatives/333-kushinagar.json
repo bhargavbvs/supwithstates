@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-333-kushinagar",
+  "constituency": {
+    "number": 333,
+    "name": "Kushinagar",
+    "district": "Kushinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Panchanand Pathak (P.N. Pathak)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Social woker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Gorakhpur University Gorakhpur In Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7597783,
+      "immovable": 22200000,
+      "total": 29797783,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4018",
+    "retrieved": "2026-08-27"
+  }
+}

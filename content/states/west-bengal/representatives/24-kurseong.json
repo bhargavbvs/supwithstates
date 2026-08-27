@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-24-kurseong",
+  "constituency": {
+    "number": 24,
+    "name": "Kurseong",
+    "district": "D>rjiling",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sonam Lama",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Business / Amway",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Kurseong College, University of north Bengal in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2138074,
+      "immovable": 0,
+      "total": 2138076,
+      "liabilities": 738385
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=440",
+    "retrieved": "2026-08-27"
+  }
+}

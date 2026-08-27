@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-382-saiyadraja",
+  "constituency": {
+    "number": 382,
+    "name": "Saiyadraja",
+    "district": "Chandauli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sushil Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Sitaram Singh Ramanand Singh Smarak College, Samenda Azamgarh UP in 2019"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 77062991,
+      "immovable": 142730000,
+      "total": 219793498,
+      "liabilities": 18928899
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4490",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-22-bijnor",
+  "constituency": {
+    "number": 22,
+    "name": "Bijnor",
+    "district": "Bijnor",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suchi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 32,
+    "profession": "MLA and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Food & Nutrition) from M.J.P. Ruhilkhand University Bareilly in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10201760,
+      "immovable": 23628535,
+      "total": 33830301,
+      "liabilities": 616262
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1109",
+    "retrieved": "2026-08-27"
+  }
+}

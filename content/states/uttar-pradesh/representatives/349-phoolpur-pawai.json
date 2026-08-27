@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-349-phoolpur-pawai",
+  "constituency": {
+    "number": 349,
+    "name": "Phoolpur-Pawai",
+    "district": "Azamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramakant",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Member of Parliament Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Highschool Passed From Public Higher Secondary School Sajai KhanJhapur Janpad Azamgarh in 1974"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39109852,
+      "immovable": 51400000,
+      "total": 102209852,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4405",
+    "retrieved": "2026-08-27"
+  }
+}

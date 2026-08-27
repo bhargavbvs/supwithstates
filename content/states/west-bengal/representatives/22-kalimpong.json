@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-22-kalimpong",
+  "constituency": {
+    "number": 22,
+    "name": "Kalimpong",
+    "district": "K>limpong",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bharat Kumar Chetri",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Bihar Regt Centre, Danapur Bihar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4313801,
+      "immovable": 8000000,
+      "total": 12313801,
+      "liabilities": 2565497
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=408",
+    "retrieved": "2026-08-27"
+  }
+}

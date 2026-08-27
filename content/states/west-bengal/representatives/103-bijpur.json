@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-103-bijpur",
+  "constituency": {
+    "number": 103,
+    "name": "Bijpur",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudipta Das",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Passed from Kanchrapara Harnett High School in the year 2002"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 328235,
+      "immovable": 0,
+      "total": 328272,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2148",
+    "retrieved": "2026-08-27"
+  }
+}

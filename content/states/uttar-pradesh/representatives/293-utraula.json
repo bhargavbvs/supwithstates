@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-293-utraula",
+  "constituency": {
+    "number": 293,
+    "name": "Utraula",
+    "district": "Balrampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rampratap Verma Alias Shashikant Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "PG From M.L.K.P.G College Balrampur, Dr Ram Manohar Lohia University Faizabad UP in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15125549,
+      "immovable": 20280000,
+      "total": 35980551,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4126",
+    "retrieved": "2026-08-27"
+  }
+}

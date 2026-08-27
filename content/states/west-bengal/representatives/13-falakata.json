@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-13-falakata",
+  "constituency": {
+    "number": 13,
+    "name": "Falakata",
+    "district": ">l|pur Du>r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dipak Barman",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Headmaster of Deogaon High School, Falakata",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (English) under North Bengal University in 1999,"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8553429,
+      "immovable": 4750000,
+      "total": 13683978,
+      "liabilities": 1689758
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=118",
+    "retrieved": "2026-08-27"
+  }
+}

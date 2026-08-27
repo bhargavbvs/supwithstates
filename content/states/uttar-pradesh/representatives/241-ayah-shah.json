@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-241-ayah-shah",
+  "constituency": {
+    "number": 241,
+    "name": "Ayah Shah",
+    "district": "Fatehpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vikas Gupta",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Agriculture & Business Shyam Motors ( Dealer-Hero Moto Corp. Ltd. )",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate In 2015 from Uttar Pradesh Rajarshi Tandon Open University Prayagraj"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 209297548,
+      "immovable": 114700000,
+      "total": 323997588,
+      "liabilities": 123191949
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2274",
+    "retrieved": "2026-08-27"
+  }
+}

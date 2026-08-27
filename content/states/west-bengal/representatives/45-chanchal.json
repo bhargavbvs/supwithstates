@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-45-chanchal",
+  "constituency": {
+    "number": 45,
+    "name": "Chanchal",
+    "district": "M>ldah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prasun Banerjee",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D from Scholar-Department of Legal Sciences-Techno India University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29854348,
+      "immovable": 10160000,
+      "total": 39214353,
+      "liabilities": 1603109
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=514",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-58-jangipur",
+  "constituency": {
+    "number": 58,
+    "name": "Jangipur",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chitta Mukherjee",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bechelor Of Law From University Of Calcutta In 1978, B.Ed in 1983 from Calcutta University"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 590075,
+      "immovable": 26938500,
+      "total": 27528575,
+      "liabilities": 345207
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=396",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-261-raina",
+  "constituency": {
+    "number": 261,
+    "name": "Raina",
+    "district": "Purba Barddham>n",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Subhash Patra",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Bengali) Burdwan University Passed in the year of 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 691911,
+      "immovable": 0,
+      "total": 691911,
+      "liabilities": 465515
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1982",
+    "retrieved": "2026-08-27"
+  }
+}

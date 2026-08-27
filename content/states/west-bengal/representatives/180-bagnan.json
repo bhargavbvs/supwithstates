@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-180-bagnan",
+  "constituency": {
+    "number": 180,
+    "name": "Bagnan",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arunava Sen",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Business and Member of W.B. Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Deulgram Mankur Bakshi High School under West Bengal Council of Higher Secondary Education in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19380725,
+      "immovable": 25800426,
+      "total": 45181156,
+      "liabilities": 1783930
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1607",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-8-natabari",
+  "constituency": {
+    "number": 8,
+    "name": "Natabari",
+    "district": "Koch Bih>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Girija Shankar Ray",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Social Worker and Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Bachelor of Arts )from Cooch Behar College under North Bengal University in the year 1994"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 745259,
+      "immovable": 4250000,
+      "total": 4995259,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=647",
+    "retrieved": "2026-08-27"
+  }
+}

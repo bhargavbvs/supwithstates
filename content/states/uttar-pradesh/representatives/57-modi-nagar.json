@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-57-modi-nagar",
+  "constituency": {
+    "number": 57,
+    "name": "Modi Nagar",
+    "district": "Ghaziabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Manju Shiwach",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate In Medicine and Surgery Meerut Univeristy In 1987, Diploma In Diploma in Obstetrics and Gynecology From Meerut University In 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39446194,
+      "immovable": 80279110,
+      "total": 139916296,
+      "liabilities": 8932128
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=242",
+    "retrieved": "2026-08-27"
+  }
+}

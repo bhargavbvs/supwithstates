@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-136-jaynagar",
+  "constituency": {
+    "number": 136,
+    "name": "Jaynagar",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Biswanath Das",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in History from Jadavpur University in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9507502,
+      "immovable": 4900000,
+      "total": 14407504,
+      "liabilities": 1602450
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2203",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-88-agra-south",
+  "constituency": {
+    "number": 88,
+    "name": "Agra South",
+    "district": "Agra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogendra Upadhyaya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Salary & Allowances as Member of UP Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (Economics) from Agra University, Agra College, Agra In 1977 & LLB from Agra University, Agra College Agra In 1982"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9422250,
+      "immovable": 36200000,
+      "total": 45622250,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=193",
+    "retrieved": "2026-08-27"
+  }
+}

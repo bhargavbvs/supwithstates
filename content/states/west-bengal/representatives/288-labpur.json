@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-288-labpur",
+  "constituency": {
+    "number": 288,
+    "name": "Labpur",
+    "district": "B|rbh@m",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Debasis Ojha (Haku Da)",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Madhyamik Appeared in the year of 1985 under the West Bengal Board of Secondary Education."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3141250,
+      "immovable": 8400000,
+      "total": 11541252,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=444",
+    "retrieved": "2026-08-27"
+  }
+}

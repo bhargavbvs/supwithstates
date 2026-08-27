@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-173-howrah-dakshin",
+  "constituency": {
+    "number": 173,
+    "name": "Howrah Dakshin",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nandita Chowdhury",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Sec. From Shibpur Hindu Girls School Jogamaya Devi College in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 93717747,
+      "immovable": 170700000,
+      "total": 264416942,
+      "liabilities": 7009495
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2808",
+    "retrieved": "2026-08-27"
+  }
+}

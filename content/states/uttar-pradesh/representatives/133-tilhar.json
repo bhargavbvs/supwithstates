@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-133-tilhar",
+  "constituency": {
+    "number": 133,
+    "name": "Tilhar",
+    "district": "Shahjahanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Salona Kushwaha",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Manager, Alok Pharmaceuticals",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Hindi Sahitya from Arya Mahila Degree College Shahjahanpur in 2002"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42422322,
+      "immovable": 82460000,
+      "total": 124882342,
+      "liabilities": 24615752
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1000",
+    "retrieved": "2026-08-27"
+  }
+}

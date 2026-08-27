@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-211-chandipur",
+  "constituency": {
+    "number": 211,
+    "name": "Chandipur",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pijush Kanti Das",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Private Practice & Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "DGO From Calcutta University in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41916835,
+      "immovable": 63500000,
+      "total": 112089973,
+      "liabilities": 37043125
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=191",
+    "retrieved": "2026-08-27"
+  }
+}

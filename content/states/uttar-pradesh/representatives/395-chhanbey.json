@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-395-chhanbey",
+  "constituency": {
+    "number": 395,
+    "name": "Chhanbey",
+    "district": "Mirzapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rinki Kol",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from University of Allahabad in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5263296,
+      "immovable": 4500000,
+      "total": 9763296,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4885",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-157-gopamau",
+  "constituency": {
+    "number": 157,
+    "name": "Gopamau",
+    "district": "Hardoi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shyam Prakash",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From GF College Shahjahapur Ruhelkhand University in 1983, Intermediate in 1981 from B.H. School Pihani hardoi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5985533,
+      "immovable": 22300000,
+      "total": 28285533,
+      "liabilities": 48594268
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2693",
+    "retrieved": "2026-08-27"
+  }
+}

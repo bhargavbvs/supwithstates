@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-324-sahajanwa",
+  "constituency": {
+    "number": 324,
+    "name": "Sahajanwa",
+    "district": "Gorakhpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Shukla",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Shri Guru Ji Golanalkar School Khorabar Gorakhpur in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29495949,
+      "immovable": 65796696,
+      "total": 92741315,
+      "liabilities": 155104
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3668",
+    "retrieved": "2026-08-27"
+  }
+}

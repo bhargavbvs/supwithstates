@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-232-chandrakona",
+  "constituency": {
+    "number": 232,
+    "name": "Chandrakona",
+    "district": "Paschim Medin|pur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sukanta Dolui",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Peon (Group D) Under W.B Govt. Aided School",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Vidyasagar University Midnapore West Bengal in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 231054,
+      "immovable": 568700,
+      "total": 797754,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=483",
+    "retrieved": "2026-08-27"
+  }
+}

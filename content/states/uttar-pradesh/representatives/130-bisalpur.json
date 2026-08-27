@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-130-bisalpur",
+  "constituency": {
+    "number": 130,
+    "name": "Bisalpur",
+    "district": "Pilibhit",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vivek Kumar Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.L.L.B. From Lucknow University Lucknow in 1999"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4008451,
+      "immovable": 7500000,
+      "total": 10585000,
+      "liabilities": 700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2818",
+    "retrieved": "2026-08-27"
+  }
+}

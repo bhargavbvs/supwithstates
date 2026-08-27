@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-377-zahoorabad",
+  "constituency": {
+    "number": 377,
+    "name": "Zahoorabad",
+    "district": "Ghazipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Om Prakash Rajbhar",
+    "election": "2022",
+    "elected_party": "Suheldev Bharatiya Samaj Party",
+    "current_party": "Suheldev Bharatiya Samaj Party",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Ex Minister, MLA Salary, Allowances and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Baldev Degree College Badagaon Varanasi Year 1983"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6781359,
+      "immovable": 19350000,
+      "total": 26131359,
+      "liabilities": 157510
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4247",
+    "retrieved": "2026-08-27"
+  }
+}

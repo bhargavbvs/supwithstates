@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-143-diamond-harbour",
+  "constituency": {
+    "number": 143,
+    "name": "Diamond Harbour",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Panna Lal Halder",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Legal Advisor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Commerce from University of Calcutta in the year 1970 and Bachelor in Legislative Law from University of Calcutta in the year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7526155,
+      "immovable": 59300000,
+      "total": 66771155,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1840",
+    "retrieved": "2026-08-27"
+  }
+}

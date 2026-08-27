@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-7-dinhata",
+  "constituency": {
+    "number": 7,
+    "name": "Dinhata",
+    "district": "Koch Bih>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Ray",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Passed from Dinhata Soni Devi Jain High School (H.S.) under West Bengal Board of Secondary Education in 1993"
+    },
+    "declared_cases": {
+      "total": 20,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2547499,
+      "immovable": 36000000,
+      "total": 38547499,
+      "liabilities": 971669
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=235",
+    "retrieved": "2026-08-27"
+  }
+}

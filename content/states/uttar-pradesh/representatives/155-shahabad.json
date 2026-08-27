@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-155-shahabad",
+  "constituency": {
+    "number": 155,
+    "name": "Shahabad",
+    "district": "Hardoi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajni Tiwari",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture And MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From Arya Kanya Degree College Hardoi Kanpur University in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9170977,
+      "immovable": 19100000,
+      "total": 28270977,
+      "liabilities": 918240
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2685",
+    "retrieved": "2026-08-27"
+  }
+}

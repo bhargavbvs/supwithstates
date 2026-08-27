@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-96-jasrana",
+  "constituency": {
+    "number": 96,
+    "name": "Jasrana",
+    "district": "Firozabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sachin Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Social Work & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Education) from Dr. Bhimrao Ambedkar University Agra in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 205812060,
+      "immovable": 120700895,
+      "total": 326512955,
+      "liabilities": 28416127
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1670",
+    "retrieved": "2026-08-27"
+  }
+}

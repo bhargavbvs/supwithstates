@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-3-saharanpur-nagar",
+  "constituency": {
+    "number": 3,
+    "name": "Saharanpur Nagar",
+    "district": "Saharanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajeev Gumber",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from UP Board Allahabad SAM Inter College, Saharanpur in 1987"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6557254,
+      "immovable": 17500000,
+      "total": 24057257,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=926",
+    "retrieved": "2026-08-27"
+  }
+}

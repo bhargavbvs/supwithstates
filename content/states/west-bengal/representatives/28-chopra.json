@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-28-chopra",
+  "constituency": {
+    "number": 28,
+    "name": "Chopra",
+    "district": "Uttar Din>jpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hamidul Rahaman",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from West Bengal Board of Secondary Education Year 1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15533331,
+      "immovable": 7200000,
+      "total": 22733331,
+      "liabilities": 1600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=195",
+    "retrieved": "2026-08-27"
+  }
+}

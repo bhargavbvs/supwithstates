@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-280-asansol-dakshin",
+  "constituency": {
+    "number": 280,
+    "name": "Asansol Dakshin",
+    "district": "Paschim Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Agnimitra Paul",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from Banwarilal Bhalotia College, Asansol University of Burdwan in 1994, Passed Fashion Designing Diploma Course from Birla Institute of Libera Arts and Management Science in the year 1997."
+    },
+    "declared_cases": {
+      "total": 23,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 25691301,
+      "immovable": 12875026,
+      "total": 38566327,
+      "liabilities": 12011270
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-27"
+  }
+}

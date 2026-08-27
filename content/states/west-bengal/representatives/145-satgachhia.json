@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-145-satgachhia",
+  "constituency": {
+    "number": 145,
+    "name": "Satgachhia",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Agniswar Naskar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Calcutta University in the Year 2001."
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3377293,
+      "immovable": 25912381,
+      "total": 29289676,
+      "liabilities": 8615096
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2352",
+    "retrieved": "2026-08-27"
+  }
+}

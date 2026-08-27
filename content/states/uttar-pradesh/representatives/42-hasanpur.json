@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-42-hasanpur",
+  "constituency": {
+    "number": 42,
+    "name": "Hasanpur",
+    "district": "Amroha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahendra",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class 8th from Shrimati Sukhdevi Inter College Hasanpur in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3523894,
+      "immovable": 14490000,
+      "total": 18013894,
+      "liabilities": 2160000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=817",
+    "retrieved": "2026-08-27"
+  }
+}

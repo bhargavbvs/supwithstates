@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-49-meerut-south",
+  "constituency": {
+    "number": 49,
+    "name": "Meerut South",
+    "district": "Meerut",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Somendra Singh Tomar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Salary & Agrculture Income",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hd (Physics) From Ch. Charan Singh University in 2005"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6457561,
+      "immovable": 56329300,
+      "total": 62786861,
+      "liabilities": 6396149
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=249",
+    "retrieved": "2026-08-27"
+  }
+}

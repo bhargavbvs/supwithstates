@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-71-beldanga",
+  "constituency": {
+    "number": 71,
+    "name": "Beldanga",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bharat Kumar Jhawar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Business, Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts. University of Calcutta, In the Year 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44678784,
+      "immovable": 64250000,
+      "total": 108931440,
+      "liabilities": 17569744
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=219",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-403-duddhi",
+  "constituency": {
+    "number": 403,
+    "name": "Duddhi",
+    "district": "Sonbhadra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vijay Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Agriculture and Assembly Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Evin Christian College, Allahabad in 1976"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3688919,
+      "immovable": 40532000,
+      "total": 44220920,
+      "liabilities": 4485614
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4936",
+    "retrieved": "2026-08-27"
+  }
+}

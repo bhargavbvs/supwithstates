@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-20-dhampur",
+  "constituency": {
+    "number": 20,
+    "name": "Dhampur",
+    "district": "Bijnor",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Kumar Rana",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From St. Thomas College, Dehradun"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33603610,
+      "immovable": 72500000,
+      "total": 104725336,
+      "liabilities": 5919657
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=905",
+    "retrieved": "2026-08-27"
+  }
+}

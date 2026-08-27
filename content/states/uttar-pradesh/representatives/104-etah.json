@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-104-etah",
+  "constituency": {
+    "number": 104,
+    "name": "Etah",
+    "district": "Etah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vipin Kumar David",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Delhi University in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43703602,
+      "immovable": 92614004,
+      "total": 136317611,
+      "liabilities": 14136021
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1619",
+    "retrieved": "2026-08-27"
+  }
+}

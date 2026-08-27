@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-129-kultali",
+  "constituency": {
+    "number": 129,
+    "name": "Kultali",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ganesh Chandra Mondal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Calcutta University in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73799488,
+      "immovable": 31430000,
+      "total": 105229491,
+      "liabilities": 27049954
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1532",
+    "retrieved": "2026-08-27"
+  }
+}

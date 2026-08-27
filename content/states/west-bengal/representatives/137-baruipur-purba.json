@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-137-baruipur-purba",
+  "constituency": {
+    "number": 137,
+    "name": "Baruipur Purba",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bivas Sardar",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Under Willim Carey University at Meghalaya - India Year 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5548402,
+      "immovable": 7594060,
+      "total": 13142462,
+      "liabilities": 2258845
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2644",
+    "retrieved": "2026-08-27"
+  }
+}

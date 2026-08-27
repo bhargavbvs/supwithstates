@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-14-muzaffar-nagar",
+  "constituency": {
+    "number": 14,
+    "name": "Muzaffar Nagar",
+    "district": "Muzaffarnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kapil Dev Agarwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Advertising Agency",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from Meerut University ( C.C.S.University ) Meerut 1985"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 17522416,
+      "immovable": 13350000,
+      "total": 30872416,
+      "liabilities": 7459272
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=177",
+    "retrieved": "2026-08-27"
+  }
+}

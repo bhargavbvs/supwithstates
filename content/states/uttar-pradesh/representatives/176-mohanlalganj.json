@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-176-mohanlalganj",
+  "constituency": {
+    "number": 176,
+    "name": "Mohanlalganj",
+    "district": "Lucknow",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Amresh Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture, Property Dealer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Shri Satguru Sai College, Rudamau, Madhavganj, Hardoi in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13561397,
+      "immovable": 107700000,
+      "total": 121261397,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2656",
+    "retrieved": "2026-08-27"
+  }
+}

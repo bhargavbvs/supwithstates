@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-23-chandpur",
+  "constituency": {
+    "number": 23,
+    "name": "Chandpur",
+    "district": "Bijnor",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Swami Omvesh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 71,
+    "profession": "Agriculture & MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Agriculture), from Jaat Degree College Baraut, Meerut University in 1972"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19260034,
+      "immovable": 36000000,
+      "total": 55897675,
+      "liabilities": 6000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1107",
+    "retrieved": "2026-08-27"
+  }
+}

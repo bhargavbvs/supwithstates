@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-126-hingalganj",
+  "constituency": {
+    "number": 126,
+    "name": "Hingalganj",
+    "district": "North Twenty-Four Parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rekha Patra",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 32,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "4th Pass From Uttar Bowthakurani F.P School"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 96724,
+      "immovable": 0,
+      "total": 96725,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2797",
+    "retrieved": "2026-08-27"
+  }
+}

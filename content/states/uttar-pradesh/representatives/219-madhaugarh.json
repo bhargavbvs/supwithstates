@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-219-madhaugarh",
+  "constituency": {
+    "number": 219,
+    "name": "Madhaugarh",
+    "district": "Jalaun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mool Chandra Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Principal-Mahnat Krishna Lal Higher Secondary School Anda",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. B.Ed from Bundelkhand University Jhansi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13649595,
+      "immovable": 5672000,
+      "total": 19321555,
+      "liabilities": 2800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1696",
+    "retrieved": "2026-08-27"
+  }
+}

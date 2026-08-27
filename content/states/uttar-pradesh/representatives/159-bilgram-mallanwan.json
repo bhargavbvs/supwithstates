@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-159-bilgram-mallanwan",
+  "constituency": {
+    "number": 159,
+    "name": "Bilgram-Mallanwan",
+    "district": "Hardoi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashish Kumar Singh (Ashu)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Member of bar Council Uttar Pradesh",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From Lucknow University in 2006, LLB From ChatrpatiShauji Maharaj University Kanpur In 2012"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8363565,
+      "immovable": 13676455,
+      "total": 21095393,
+      "liabilities": 539386
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2535",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-169-bally",
+  "constituency": {
+    "number": 169,
+    "name": "Bally",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Kumar Singh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com (Compartmental in Economics) from Umes Chandra College, Calcutta University in the year 1988"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9688810,
+      "immovable": 56400000,
+      "total": 66088811,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2134",
+    "retrieved": "2026-08-27"
+  }
+}

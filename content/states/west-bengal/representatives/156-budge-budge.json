@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-156-budge-budge",
+  "constituency": {
+    "number": 156,
+    "name": "Budge Budge",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Kumar Deb",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 76,
+    "profession": "Lawyer(Advocate) and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Calcutta University Year - 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4696468,
+      "immovable": 0,
+      "total": 4696469,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1972",
+    "retrieved": "2026-08-27"
+  }
+}

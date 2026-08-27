@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-314-dhanghata",
+  "constituency": {
+    "number": 314,
+    "name": "Dhanghata",
+    "district": "Sant Kabir Nagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ganesh Chandra",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 35,
+    "profession": "Agriculture, Retired Govt. Job",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Deen Dayal Upadhaya Gorakhpur University in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 676271,
+      "immovable": 16800000,
+      "total": 17476271,
+      "liabilities": 1534726
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3896",
+    "retrieved": "2026-08-27"
+  }
+}

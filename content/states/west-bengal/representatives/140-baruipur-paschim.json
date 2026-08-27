@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-140-baruipur-paschim",
+  "constituency": {
+    "number": 140,
+    "name": "Baruipur Paschim",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Biman Banerjee",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 77,
+    "profession": "Consultancy (Legal)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Passed M.Com in the year 1968 from Calcutta University and LLB in the year 1970 from Calcutta University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 34167957,
+      "immovable": 3360000,
+      "total": 37149363,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2654",
+    "retrieved": "2026-08-27"
+  }
+}

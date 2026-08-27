@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-65-nabagram",
+  "constituency": {
+    "number": 65,
+    "name": "Nabagram",
+    "district": "Murshid>b>d",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dilip Saha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 64,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "IX Class Passed from Nischintapur High School, Berhampore in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 165896609,
+      "immovable": 264500000,
+      "total": 430396618,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=368",
+    "retrieved": "2026-08-27"
+  }
+}

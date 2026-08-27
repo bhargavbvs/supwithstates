@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-144-mohammdi",
+  "constituency": {
+    "number": 144,
+    "name": "Mohammdi",
+    "district": "Kheri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lokendra Pratap Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Agriculture & Businsse",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Lucknow University in 1986 & Graduate From JF(PG) Degree College Shahjahanpur, Rohailkhand University in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10400042,
+      "immovable": 18700000,
+      "total": 28440042,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2797",
+    "retrieved": "2026-08-27"
+  }
+}

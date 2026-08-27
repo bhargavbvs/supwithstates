@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-191-kadipur",
+  "constituency": {
+    "number": 191,
+    "name": "Kadipur",
+    "district": "Sultanpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajesh Kumar Gautam",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Allahabad University 1999, LLB Lucknow University in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7800041,
+      "immovable": 17699999,
+      "total": 25500040,
+      "liabilities": 2256100
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3558",
+    "retrieved": "2026-08-27"
+  }
+}

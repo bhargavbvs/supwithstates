@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-141-dhaurahra",
+  "constituency": {
+    "number": 141,
+    "name": "Dhaurahra",
+    "district": "Kheri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinod Shankar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Teacher, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate from Yuvraj Datt College, Kanpur University in 1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 634863,
+      "immovable": 20400000,
+      "total": 21034864,
+      "liabilities": 326464
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2777",
+    "retrieved": "2026-08-27"
+  }
+}

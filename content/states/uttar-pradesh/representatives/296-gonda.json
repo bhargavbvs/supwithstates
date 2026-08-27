@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-296-gonda",
+  "constituency": {
+    "number": 296,
+    "name": "Gonda",
+    "district": "Gonda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prateek Bhushan Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 33,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Law From Dr. Rammanohar Lohia Awadh University Faizabad Ayodhya in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17803740,
+      "immovable": 88500000,
+      "total": 106303745,
+      "liabilities": 34349532
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2882",
+    "retrieved": "2026-08-27"
+  }
+}

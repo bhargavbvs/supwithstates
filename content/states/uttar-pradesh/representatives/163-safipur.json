@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-163-safipur",
+  "constituency": {
+    "number": 163,
+    "name": "Safipur",
+    "district": "Unnao",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bamba Lal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Business/Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Vinayaka University Kanyakumari, Tamilnadu in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17064988,
+      "immovable": 178400000,
+      "total": 195464989,
+      "liabilities": 52582973
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2471",
+    "retrieved": "2026-08-27"
+  }
+}

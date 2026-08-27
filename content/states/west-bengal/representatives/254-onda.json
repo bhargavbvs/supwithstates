@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-254-onda",
+  "constituency": {
+    "number": 254,
+    "name": "Onda",
+    "district": "B>nkura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amarnath Shakha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Politicial & Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary Passed from Indian Council for the Open School Certificate Examination Maharahstra in 1998"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 15132819,
+      "immovable": 3552981,
+      "total": 18685801,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=344",
+    "retrieved": "2026-08-27"
+  }
+}

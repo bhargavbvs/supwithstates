@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-282-balha",
+  "constituency": {
+    "number": 282,
+    "name": "Balha",
+    "district": "Bahraich",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Saroj Sonkar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Self Employed and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Lucknow University Year 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4520401,
+      "immovable": 21500000,
+      "total": 28946401,
+      "liabilities": 1228692
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3280",
+    "retrieved": "2026-08-27"
+  }
+}

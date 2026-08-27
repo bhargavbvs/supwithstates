@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-86-etmadpur",
+  "constituency": {
+    "number": 86,
+    "name": "Etmadpur",
+    "district": "Agra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Dharmpal Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. from Raja Balwant Singh College Agra, Agra University in 1994, M.Sc. (Maths) from Raja Balwant Singh College Agra, Agra University in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4939649,
+      "immovable": 66820000,
+      "total": 71759650,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=6",
+    "retrieved": "2026-08-27"
+  }
+}

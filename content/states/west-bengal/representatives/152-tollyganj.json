@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-152-tollyganj",
+  "constituency": {
+    "number": 152,
+    "name": "Tollyganj",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Papia Adhikary",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 64,
+    "profession": "Acting, Director of a Company",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate of Arts in Comparative Literature from Jadavpur University in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19192520,
+      "immovable": 22600000,
+      "total": 41792520,
+      "liabilities": 2223000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1887",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-330-padrauna",
+  "constituency": {
+    "number": 330,
+    "name": "Padrauna",
+    "district": "Kushinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manish Kumar Alias Mantu",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Allahabad University, Allahabad in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7766198,
+      "immovable": 204556760,
+      "total": 212322958,
+      "liabilities": 2228242
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3979",
+    "retrieved": "2026-08-27"
+  }
+}

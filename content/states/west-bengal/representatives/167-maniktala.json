@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-167-maniktala",
+  "constituency": {
+    "number": 167,
+    "name": "Maniktala",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tapas Roy",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Advocate, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from Surendranath Law College C.U. in 1986, Bachelor of Science from St. Pauls College, C.U. in 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32989102,
+      "immovable": 7200000,
+      "total": 40189113,
+      "liabilities": 3200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2840",
+    "retrieved": "2026-08-27"
+  }
+}

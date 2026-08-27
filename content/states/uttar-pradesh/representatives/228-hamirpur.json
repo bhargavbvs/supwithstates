@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-228-hamirpur",
+  "constituency": {
+    "number": 228,
+    "name": "Hamirpur",
+    "district": "Hamirpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Manoj Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Assistant Teacher-Janta College, Ajitmal Auraiya,U.P.",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. in 2005 & M.Sc. in 2002 From Chandrashekhar Azad Agriculture & Technology University, Kanpur, U.P."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6606732,
+      "immovable": 11500000,
+      "total": 18106733,
+      "liabilities": 5373681
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2031",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-347-azamgarh",
+  "constituency": {
+    "number": 347,
+    "name": "Azamgarh",
+    "district": "Azamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Durga Prasad Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Salary, Agriculture & Public Interest",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1991 from Shibli National PG College Azamgarh, Veer Bahadur Singh Purvanchal University, Jaunpur"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10106268,
+      "immovable": 210650613,
+      "total": 224022739,
+      "liabilities": 12811494
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4291",
+    "retrieved": "2026-08-27"
+  }
+}

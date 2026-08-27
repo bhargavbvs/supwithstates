@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-335-ramkola",
+  "constituency": {
+    "number": 335,
+    "name": "Ramkola",
+    "district": "Kushinagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vinay Prakash",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Brick Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate in 1993 Secondary Education Ashok IC Naktaha Mishr Deoria"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1550000,
+      "immovable": 5551800,
+      "total": 7101000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4044",
+    "retrieved": "2026-08-27"
+  }
+}

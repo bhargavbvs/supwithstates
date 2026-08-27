@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-170-sarojini-nagar",
+  "constituency": {
+    "number": 170,
+    "name": "Sarojini Nagar",
+    "district": "Lucknow",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajeshwar Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Retired Joint Director, Enforcement Directorate, New Delhi",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D from Uttar Pradesh Rajarshi Tondon Open University in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23199489,
+      "immovable": 5944315,
+      "total": 102999489,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2632",
+    "retrieved": "2026-08-27"
+  }
+}

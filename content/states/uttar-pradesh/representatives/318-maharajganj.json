@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-318-maharajganj",
+  "constituency": {
+    "number": 318,
+    "name": "Maharajganj",
+    "district": "Mahrajganj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jay Mangal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "MLA Salary, Allowances, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Junior High School From Madhyamika School Maharajganj in 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3661675,
+      "immovable": 13523000,
+      "total": 14834676,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4088",
+    "retrieved": "2026-08-27"
+  }
+}

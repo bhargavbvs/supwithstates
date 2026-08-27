@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-269-purbasthali-uttar",
+  "constituency": {
+    "number": 269,
+    "name": "Purbasthali Uttar",
+    "district": "Purba Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gopal Chattopadhyay",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Assistant Teacher, Nabadwip Dham Vidyapith (High School) Dist. Nadia",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. from Govt. Teachers Training College, Malda in 2009, B.A. from Katwa College in 1997"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9971361,
+      "immovable": 300000,
+      "total": 10271361,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2240",
+    "retrieved": "2026-08-27"
+  }
+}

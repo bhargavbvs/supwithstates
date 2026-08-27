@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-115-badaun",
+  "constituency": {
+    "number": 115,
+    "name": "Badaun",
+    "district": "Budaun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahesh Chandra Gupta",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Market Mela, Agriculture income, Rent, Salary and Pension (State minister/Mla)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Highschool from NA Inter college in 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10373463,
+      "immovable": 43900000,
+      "total": 54273463,
+      "liabilities": 2887978
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=899",
+    "retrieved": "2026-08-27"
+  }
+}

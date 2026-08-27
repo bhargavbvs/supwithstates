@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-201-bharthana",
+  "constituency": {
+    "number": 201,
+    "name": "Bharthana",
+    "district": "Etawah",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Raghvendra Kumar Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Agriculture, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate form N.D. College Shikohabad in 1997"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11788766,
+      "immovable": 9700000,
+      "total": 18946000,
+      "liabilities": 5040000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1638",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-108-barrackpur",
+  "constituency": {
+    "number": 108,
+    "name": "Barrackpur",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kaustuv Bagchi",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 35,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Legum Magister (LLM) From Kakatiya University 2017"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8818773,
+      "immovable": 10000000,
+      "total": 19218773,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1967",
+    "retrieved": "2026-08-27"
+  }
+}

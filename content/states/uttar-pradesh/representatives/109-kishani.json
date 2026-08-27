@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-109-kishani",
+  "constituency": {
+    "number": 109,
+    "name": "Kishani",
+    "district": "Mainpuri",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Eng. Brajesh Katheriya",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Private) from B.D. College, Lalganj, Raebareli, Ch. Shahuji Maharaj University Kanpur in 1997 ,Diploma Engg. Frozgandhi Polytechnic Raibarely 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6621540,
+      "immovable": 14110365,
+      "total": 17461905,
+      "liabilities": 3024906
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1987",
+    "retrieved": "2026-08-27"
+  }
+}

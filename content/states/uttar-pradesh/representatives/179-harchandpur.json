@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-179-harchandpur",
+  "constituency": {
+    "number": 179,
+    "name": "Harchandpur",
+    "district": "Rae Bareli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rahul Rajpoot",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 25,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Babu Jaishankar GP College Chanchi Rai Sumerpur Unnaou Ch.Sahuji Maharaj University Kanpur in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 825000,
+      "immovable": 26700000,
+      "total": 27597000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2325",
+    "retrieved": "2026-08-27"
+  }
+}

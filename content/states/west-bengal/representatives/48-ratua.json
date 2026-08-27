@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-48-ratua",
+  "constituency": {
+    "number": 48,
+    "name": "Ratua",
+    "district": "M>ldah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samar Mukherjee",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 84,
+    "profession": "Social Worker & Pensioner from WBLA & West Bengal Board of Primary Education",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University, Malda College, In 1962"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4379710,
+      "immovable": 1500000,
+      "total": 5693710,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=301",
+    "retrieved": "2026-08-27"
+  }
+}

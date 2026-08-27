@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-393-gyanpur",
+  "constituency": {
+    "number": 393,
+    "name": "Gyanpur",
+    "district": "Bhadohi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vipul Dubey",
+    "election": "2022",
+    "elected_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "current_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Social Worker & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Kashi Naresh University Gyanpur Bhadohi in 2007"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4740572,
+      "immovable": 7100000,
+      "total": 11840572,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4461",
+    "retrieved": "2026-08-27"
+  }
+}

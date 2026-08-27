@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-195-bhojpur",
+  "constituency": {
+    "number": 195,
+    "name": "Bhojpur",
+    "district": "Farrukhabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nagendra Singh Rathour",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture , Business & Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BSc. From Lucknow University Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5617790,
+      "immovable": 12435000,
+      "total": 18052790,
+      "liabilities": 646000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1655",
+    "retrieved": "2026-08-27"
+  }
+}

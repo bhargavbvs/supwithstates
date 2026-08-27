@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-171-lucknow-west",
+  "constituency": {
+    "number": 171,
+    "name": "Lucknow West",
+    "district": "Lucknow",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Armaan Khan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Lucknow University, Shiya Degree College Lucknow-2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14329642,
+      "immovable": 132550000,
+      "total": 146879642,
+      "liabilities": 67103174
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2293",
+    "retrieved": "2026-08-27"
+  }
+}

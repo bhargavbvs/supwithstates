@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-369-machhlishahr",
+  "constituency": {
+    "number": 369,
+    "name": "Machhlishahr",
+    "district": "Jaunpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Ragini",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 31,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS, MD of Thermologist Eye Specialist From AIIMS New Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40413544,
+      "immovable": 67100000,
+      "total": 109188544,
+      "liabilities": 49394118
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4722",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-72-baharampur",
+  "constituency": {
+    "number": 72,
+    "name": "Baharampur",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subrata Maitra (Kanchan)",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Social Worker & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Passed B.Sc from Krishnath College under Calcutta University in 1987"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9818507,
+      "immovable": 4050000,
+      "total": 13827050,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=207",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-353-madhuban",
+  "constituency": {
+    "number": 353,
+    "name": "Madhuban",
+    "district": "Mau",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Bilash Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. in Year-1993,LLB in Year-1996 from Purvanchal University Jaunpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36759454,
+      "immovable": 24200000,
+      "total": 60939454,
+      "liabilities": 7146525
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4624",
+    "retrieved": "2026-08-27"
+  }
+}

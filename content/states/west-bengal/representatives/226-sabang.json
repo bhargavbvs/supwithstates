@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-226-sabang",
+  "constituency": {
+    "number": 226,
+    "name": "Sabang",
+    "district": "Paschim Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amal Kumar Panda",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 72,
+    "profession": "Cultivation and Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Jalchak NN Vidyatan in 1973"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 639732,
+      "immovable": 7200000,
+      "total": 7839732,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=598",
+    "retrieved": "2026-08-27"
+  }
+}

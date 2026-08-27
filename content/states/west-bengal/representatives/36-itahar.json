@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-36-itahar",
+  "constituency": {
+    "number": 36,
+    "name": "Itahar",
+    "district": "Uttar Din>jpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mosaraf Hussen",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Bachelor of Arts, Part-II (General) Examination 2003, Gour Mahavidyalaya under University of North Bengal"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23630454,
+      "immovable": 27935000,
+      "total": 51565457,
+      "liabilities": 8017225
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=389",
+    "retrieved": "2026-08-27"
+  }
+}

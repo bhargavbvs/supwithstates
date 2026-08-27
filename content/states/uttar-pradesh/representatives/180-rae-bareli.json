@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-180-rae-bareli",
+  "constituency": {
+    "number": 180,
+    "name": "Rae Bareli",
+    "district": "Rae Bareli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aditi Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From Duke University USA"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18693224,
+      "immovable": 291160270,
+      "total": 309853494,
+      "liabilities": 36181193
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2338",
+    "retrieved": "2026-08-27"
+  }
+}

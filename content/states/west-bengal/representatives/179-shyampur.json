@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-179-shyampur",
+  "constituency": {
+    "number": 179,
+    "name": "Shyampur",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Hiranmoy Chattopadhyaya (Hiraan)",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Actor, MLA, Councilor, Professional, Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From CMJ University In 2021, Ex-Post Ph.D. Research Fellow-IIT Kharagpur"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 80155003,
+      "immovable": 41200000,
+      "total": 128941624,
+      "liabilities": 22615854
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2320",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-167-purwa",
+  "constituency": {
+    "number": 167,
+    "name": "Purwa",
+    "district": "Unnao",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Kumar Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Business, Salary , Agriculture & Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Year 2014 From Baba Kaludass Inter College, Mau, Uttar Pradesh Allahabad Board"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 62673118,
+      "immovable": 132500000,
+      "total": 195173120,
+      "liabilities": 57700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2505",
+    "retrieved": "2026-08-27"
+  }
+}

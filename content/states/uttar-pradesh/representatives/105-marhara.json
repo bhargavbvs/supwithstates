@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-105-marhara",
+  "constituency": {
+    "number": 105,
+    "name": "Marhara",
+    "district": "Etah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Virendra Singh Lodhi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1995 from J.L.N.P.G. College Etah, Dr. B.R.A.U., Agra"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9590175,
+      "immovable": 17774408,
+      "total": 27364583,
+      "liabilities": 4991201
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2015",
+    "retrieved": "2026-08-27"
+  }
+}

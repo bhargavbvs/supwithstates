@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-243-manbazar",
+  "constituency": {
+    "number": 243,
+    "name": "Manbazar",
+    "district": "Puruliya",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mayna Murmu",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 27,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed the Higher Secondary Examination 2018, under West Bengal Council Of Higher Secondary Education."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 775564,
+      "immovable": 0,
+      "total": 775564,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=155",
+    "retrieved": "2026-08-27"
+  }
+}

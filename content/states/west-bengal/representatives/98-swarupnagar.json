@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-98-swarupnagar",
+  "constituency": {
+    "number": 98,
+    "name": "Swarupnagar",
+    "district": "North Twenty-Four Parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bina Mondal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Social Worker & Ex-Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Batchelor of Arts from Basirhat College in the year of 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21535422,
+      "immovable": 17862000,
+      "total": 39397424,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2296",
+    "retrieved": "2026-08-27"
+  }
+}

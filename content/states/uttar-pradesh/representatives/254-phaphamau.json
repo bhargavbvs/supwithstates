@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-254-phaphamau",
+  "constituency": {
+    "number": 254,
+    "name": "Phaphamau",
+    "district": "Prayagraj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Guru Prasad Maurya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Allahabad University Allahabad in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4068608,
+      "immovable": 10267172,
+      "total": 14335781,
+      "liabilities": 322734
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3239",
+    "retrieved": "2026-08-27"
+  }
+}

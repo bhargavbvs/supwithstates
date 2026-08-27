@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-245-para",
+  "constituency": {
+    "number": 245,
+    "name": "Para",
+    "district": "Puruliya",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Nadiar Chand Bouri",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Assistant Teacher of Poradih Primary School",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Pass from Dubra High (H.S.) School West Bengal Council of Higher Secondary Education in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5362918,
+      "immovable": 1500000,
+      "total": 6862918,
+      "liabilities": 504949
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=340",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-154-behala-paschim",
+  "constituency": {
+    "number": 154,
+    "name": "Behala Paschim",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Indranil Khan",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Doctor Of Medicien (M.D.) from The West Bengal University of Health Sciences in 2017"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28373646,
+      "immovable": 5100000,
+      "total": 33373654,
+      "liabilities": 931175
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2058",
+    "retrieved": "2026-08-27"
+  }
+}

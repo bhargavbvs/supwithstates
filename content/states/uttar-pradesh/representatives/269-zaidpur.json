@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-269-zaidpur",
+  "constituency": {
+    "number": 269,
+    "name": "Zaidpur",
+    "district": "Bara Banki",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gaurav Kumar",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Agriculture, Salary, Allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation in 2018 Maharshi University lucknow"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1654542,
+      "immovable": 1500000,
+      "total": 3154542,
+      "liabilities": 3529137
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3146",
+    "retrieved": "2026-08-27"
+  }
+}

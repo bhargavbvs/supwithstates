@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-380-mughalsarai",
+  "constituency": {
+    "number": 380,
+    "name": "Mughalsarai",
+    "district": "Chandauli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramesh Jaiswal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Law Graduate from Harichandra P.G. College Varanasi in 1995"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8810663,
+      "immovable": 18950000,
+      "total": 27799354,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4470",
+    "retrieved": "2026-08-27"
+  }
+}

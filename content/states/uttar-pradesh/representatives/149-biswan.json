@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-149-biswan",
+  "constituency": {
+    "number": 149,
+    "name": "Biswan",
+    "district": "Sitapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nirmal Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, Business, Ex MLA Pension, Rent From Telephone Exchange",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Kanpur University in 1985"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4290322,
+      "immovable": 40572000,
+      "total": 44862273,
+      "liabilities": 937634
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2414",
+    "retrieved": "2026-08-27"
+  }
+}

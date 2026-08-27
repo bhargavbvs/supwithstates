@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-55-farakka",
+  "constituency": {
+    "number": 55,
+    "name": "Farakka",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Motab Shaikh",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed From Tildanga High School in the year l983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 57068368,
+      "immovable": 113171500,
+      "total": 170239870,
+      "liabilities": 135927098
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1014",
+    "retrieved": "2026-08-27"
+  }
+}

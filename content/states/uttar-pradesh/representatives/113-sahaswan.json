@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-113-sahaswan",
+  "constituency": {
+    "number": 113,
+    "name": "Sahaswan",
+    "district": "Budaun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Brajesh Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Pass from Govt. Inter College Budaun in 1996, High School Pass from Govt. Inter College Budaun in 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5475637,
+      "immovable": 75350000,
+      "total": 80825637,
+      "liabilities": 1274446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=836",
+    "retrieved": "2026-08-27"
+  }
+}

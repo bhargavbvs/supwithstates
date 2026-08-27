@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-246-kunda",
+  "constituency": {
+    "number": 246,
+    "name": "Kunda",
+    "district": "Pratapgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raghuraj Pratap Singh",
+    "election": "2022",
+    "elected_party": "Jansatta Dal Loktantrik",
+    "current_party": "Jansatta Dal Loktantrik",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Lucknow University in 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 157771930,
+      "immovable": 79117000,
+      "total": 236971038,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3040",
+    "retrieved": "2026-08-27"
+  }
+}

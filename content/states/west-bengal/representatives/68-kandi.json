@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-68-kandi",
+  "constituency": {
+    "number": 68,
+    "name": "Kandi",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gargi Das Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "LPG Cooking Gas Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Passed Karnatak State Open University Mysore in 2015"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26432911,
+      "immovable": 135250000,
+      "total": 164074348,
+      "liabilities": 16845972
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=147",
+    "retrieved": "2026-08-27"
+  }
+}

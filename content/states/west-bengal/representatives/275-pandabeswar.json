@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-275-pandabeswar",
+  "constituency": {
+    "number": 275,
+    "name": "Pandabeswar",
+    "district": "Paschim Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jitendra Kumar Tewari",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law (LL.B) SKJ Law College Under Br. Ambedkar University, Majaffarpur, Bihar Year 1999"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4038212,
+      "immovable": 6000000,
+      "total": 10038212,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=161",
+    "retrieved": "2026-08-27"
+  }
+}

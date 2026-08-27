@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-138-canning-paschim",
+  "constituency": {
+    "number": 138,
+    "name": "Canning Paschim",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Paresh Ram Das",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Business & Politican",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com of Commerce(Hons), Passed from Sunrise University in Yr-2015"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2895662,
+      "immovable": 7500000,
+      "total": 10395662,
+      "liabilities": 3458906
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2878",
+    "retrieved": "2026-08-27"
+  }
+}

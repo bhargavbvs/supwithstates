@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-34-kaliaganj",
+  "constituency": {
+    "number": 34,
+    "name": "Kaliaganj",
+    "district": "Uttar Din>jpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Utpal Brahmacharo",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Monastic",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from University of North Bengal in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2319560,
+      "immovable": 2114940,
+      "total": 4434501,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=405",
+    "retrieved": "2026-08-27"
+  }
+}

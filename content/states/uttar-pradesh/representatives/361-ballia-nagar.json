@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-361-ballia-nagar",
+  "constituency": {
+    "number": 361,
+    "name": "Ballia Nagar",
+    "district": "Ballia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Daya Shankar Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Business / Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (Med. History) in 1998 from Lucknow University"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6074393,
+      "immovable": 31600000,
+      "total": 37713393,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3615",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-109-khardaha",
+  "constituency": {
+    "number": 109,
+    "name": "Khardaha",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalyan Chakraborti",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "University Teacher (State Govt. Aided), Service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. Botany From University of Kalyani"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17211299,
+      "immovable": 9100000,
+      "total": 26311299,
+      "liabilities": 6670152
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2551",
+    "retrieved": "2026-08-27"
+  }
+}

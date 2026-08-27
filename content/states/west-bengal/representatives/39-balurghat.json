@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-39-balurghat",
+  "constituency": {
+    "number": 39,
+    "name": "Balurghat",
+    "district": "Dakshin Din>jpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bidyut Kumar Roy",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B. in the year 1989 from Calcutta University (5 Year Course)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8240323,
+      "immovable": 8400000,
+      "total": 15387870,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=217",
+    "retrieved": "2026-08-27"
+  }
+}

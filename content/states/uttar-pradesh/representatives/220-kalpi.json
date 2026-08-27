@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-220-kalpi",
+  "constituency": {
+    "number": 220,
+    "name": "Kalpi",
+    "district": "Jalaun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinod Chaturvedi",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture/Pension/Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (D.V. Degree College Orai) in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5675238,
+      "immovable": 31470000,
+      "total": 37145230,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1698",
+    "retrieved": "2026-08-27"
+  }
+}

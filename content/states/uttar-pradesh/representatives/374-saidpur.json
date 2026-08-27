@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-374-saidpur",
+  "constituency": {
+    "number": 374,
+    "name": "Saidpur",
+    "district": "Ghazipur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ankit Bharti",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 25,
+    "profession": "Income by Tenant, Job Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.B.A. from I.E.C. University, Himachal Pradesh in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6374732,
+      "immovable": 19400000,
+      "total": 25774732,
+      "liabilities": 10797334
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4563",
+    "retrieved": "2026-08-27"
+  }
+}

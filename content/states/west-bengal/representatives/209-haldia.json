@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-209-haldia",
+  "constituency": {
+    "number": 209,
+    "name": "Haldia",
+    "district": "Purba Medin|pur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pradip Kumar Bijali",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Pass from Dumdum Ananda Asram Sarada Vidyapith The West Bengal Council of Rabindra Open Schooling June 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5429671,
+      "immovable": 5000000,
+      "total": 10429671,
+      "liabilities": 3398182
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-27"
+  }
+}

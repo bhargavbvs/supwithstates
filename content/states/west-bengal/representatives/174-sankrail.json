@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-174-sankrail",
+  "constituency": {
+    "number": 174,
+    "name": "Sankrail",
+    "district": "H>ora",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Priya Paul",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "School Teacher & Member of West Bengal Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Geography) from The Global Open University, Nagaland in the year of 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4632295,
+      "immovable": 887406,
+      "total": 5519701,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2379",
+    "retrieved": "2026-08-27"
+  }
+}

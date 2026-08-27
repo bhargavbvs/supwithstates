@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-283-nanpara",
+  "constituency": {
+    "number": 283,
+    "name": "Nanpara",
+    "district": "Bahraich",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Niwas Verma",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate 1991 Awadh University Faizabad U.P."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7550129,
+      "immovable": 24300000,
+      "total": 32258129,
+      "liabilities": 4894858
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3298",
+    "retrieved": "2026-08-27"
+  }
+}

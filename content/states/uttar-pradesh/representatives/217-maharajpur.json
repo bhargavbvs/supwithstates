@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-217-maharajpur",
+  "constituency": {
+    "number": 217,
+    "name": "Maharajpur",
+    "district": "Kanpur Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Mahana",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Politics & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From Kanpur University, Year-1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 82419461,
+      "immovable": 158670632,
+      "total": 241090087,
+      "liabilities": 5124476
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1787",
+    "retrieved": "2026-08-27"
+  }
+}

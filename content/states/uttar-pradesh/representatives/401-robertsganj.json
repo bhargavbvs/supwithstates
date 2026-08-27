@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-401-robertsganj",
+  "constituency": {
+    "number": 401,
+    "name": "Robertsganj",
+    "district": "Sonbhadra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhupesh Chaubey",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "MLA Allowance",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Bhaurao Devras Rajkiya College Dudhi Sonbhadra, Purvanchal University Jaunpur in 1998"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6805779,
+      "immovable": 6500000,
+      "total": 12210118,
+      "liabilities": 2970408
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4827",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-204-panskura-purba",
+  "constituency": {
+    "number": 204,
+    "name": "Panskura Purba",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subrata Maity(Rana)",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Higher Secondary Education in Kola Union High School (H.S.) in 2001 and Diploma in GEMS & Jewellery form Sindhar Institute of Gemology in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40264770,
+      "immovable": 80808874,
+      "total": 118568935,
+      "liabilities": 36837273
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=341",
+    "retrieved": "2026-08-27"
+  }
+}

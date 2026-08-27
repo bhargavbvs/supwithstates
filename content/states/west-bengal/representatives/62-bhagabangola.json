@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-62-bhagabangola",
+  "constituency": {
+    "number": 62,
+    "name": "Bhagabangola",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Reyat Hossain Sarkar",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Zilla Parishad Karmadhakshya, Agriculture & MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Krishnath College Berhampore, Murshidabad University of Calcutta in 1998"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1223016,
+      "immovable": 15919216,
+      "total": 17142232,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=222",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-6-sitai",
+  "constituency": {
+    "number": 6,
+    "name": "Sitai",
+    "district": "Koch Bih>r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sangita Roy",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Social Service & Member of Legislative Assembly Sahayika S.S.K.",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary From Mc William Higher Secondary School, The West Bengal Council of Rabindra Open Schooling in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5245825,
+      "immovable": 2500000,
+      "total": 7745825,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1212",
+    "retrieved": "2026-08-27"
+  }
+}

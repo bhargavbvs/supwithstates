@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-85-krishnanagar-dakshin",
+  "constituency": {
+    "number": 85,
+    "name": "Krishnanagar Dakshin",
+    "district": "Nadia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sadhan Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Examination Shantipur College 2000 (Board of West Bengal Higher Secondary Education)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9937000,
+      "immovable": 17500000,
+      "total": 24220260,
+      "liabilities": 7497000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2096",
+    "retrieved": "2026-08-27"
+  }
+}

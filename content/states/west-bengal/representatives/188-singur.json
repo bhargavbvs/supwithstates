@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-188-singur",
+  "constituency": {
+    "number": 188,
+    "name": "Singur",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arup Kumar Das",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Business Man",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Orthopaedics from University of Calcutta in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18396149,
+      "immovable": 13000000,
+      "total": 39036176,
+      "liabilities": 8409674
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1540",
+    "retrieved": "2026-08-27"
+  }
+}

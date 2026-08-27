@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-89-agra-north",
+  "constituency": {
+    "number": 89,
+    "name": "Agra North",
+    "district": "Agra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Purushottam Khandelwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Loktantra Rakshak Senani Pension & interest from Bank Deposits",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Secondary Education Board UP Maharishi Parsuram Inter College Agra, Year-1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7589777,
+      "immovable": 4200000,
+      "total": 11789777,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=265",
+    "retrieved": "2026-08-27"
+  }
+}

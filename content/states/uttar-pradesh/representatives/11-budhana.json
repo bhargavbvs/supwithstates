@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-11-budhana",
+  "constituency": {
+    "number": 11,
+    "name": "Budhana",
+    "district": "Muzaffarnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajpal Singh Baliyan",
+    "election": "2022",
+    "elected_party": "RLD",
+    "current_party": "RLD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 70,
+    "profession": "Agriculture and MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From Govt. Kisan Inter College Shamli Madhyamik Education Board UP Allahabad"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2207898,
+      "immovable": 11800000,
+      "total": 14007898,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=30",
+    "retrieved": "2026-08-27"
+  }
+}

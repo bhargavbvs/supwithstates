@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-196-chhibramau",
+  "constituency": {
+    "number": 196,
+    "name": "Chhibramau",
+    "district": "Kannauj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Archana Pandey",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Salary , Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Eng Lit.) Allahabad University 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23711857,
+      "immovable": 27137500,
+      "total": 50849357,
+      "liabilities": 911569
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2132",
+    "retrieved": "2026-08-27"
+  }
+}

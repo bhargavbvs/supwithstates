@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-261-allahabad-west",
+  "constituency": {
+    "number": 261,
+    "name": "Allahabad West",
+    "district": "Prayagraj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sidharth Nath Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Member Of Assembly (Minister UP)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Arts Honours) From Delhi University in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43804487,
+      "immovable": 280093398,
+      "total": 323897885,
+      "liabilities": 76035288
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3443",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-38-milak",
+  "constituency": {
+    "number": 38,
+    "name": "Milak",
+    "district": "Rampur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajbala Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Mentha Industry",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in 2005, B. Ed. in 2009 from Ruhelkhand University Barailly"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 73095485,
+      "immovable": 49400000,
+      "total": 122495486,
+      "liabilities": 49153516
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=848",
+    "retrieved": "2026-08-27"
+  }
+}

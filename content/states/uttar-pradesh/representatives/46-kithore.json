@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-46-kithore",
+  "constituency": {
+    "number": 46,
+    "name": "Kithore",
+    "district": "Meerut",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shahid Manzoor",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Farming And Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA History From Meerut Collage, Meerut University in 1983, LLB From Meerut University 1981"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7280464,
+      "immovable": 38000000,
+      "total": 45280464,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=164",
+    "retrieved": "2026-08-27"
+  }
+}

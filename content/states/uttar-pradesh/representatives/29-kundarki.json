@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-29-kundarki",
+  "constituency": {
+    "number": 29,
+    "name": "Kundarki",
+    "district": "Moradabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Zia Ur Rehman",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from C.C.A University, Meerut in 2012, B.A. from Aligarh Muslim University, Aligarh in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2992577,
+      "immovable": 6813640,
+      "total": 9806217,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=914",
+    "retrieved": "2026-08-27"
+  }
+}

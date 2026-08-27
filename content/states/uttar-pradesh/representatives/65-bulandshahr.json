@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-65-bulandshahr",
+  "constituency": {
+    "number": 65,
+    "name": "Bulandshahr",
+    "district": "Bulandshahr",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Kumar Chaudhary",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture & R K Enterprises",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter Pass from Uttar Pradesh Board"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5440000,
+      "immovable": 19500000,
+      "total": 41940000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=290",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-292-gainsari",
+  "constituency": {
+    "number": 292,
+    "name": "Gainsari",
+    "district": "Balrampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Kumar Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.Sc. (Chemistry) Dr. Ram Manohar Lohia University, Year 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18711426,
+      "immovable": 17800000,
+      "total": 36036568,
+      "liabilities": 7834178
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4928",
+    "retrieved": "2026-08-27"
+  }
+}

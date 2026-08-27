@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-36-bilaspur",
+  "constituency": {
+    "number": 36,
+    "name": "Bilaspur",
+    "district": "Rampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Baldev Singh Aulakh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture & MLA Wages",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Economics from Dan Singh Bind College, Kumaun University, Nainital"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3403436,
+      "immovable": 33500000,
+      "total": 36903439,
+      "liabilities": 10636602
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=845",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-242-husainganj",
+  "constituency": {
+    "number": 242,
+    "name": "Husainganj",
+    "district": "Fatehpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Usha Maurya",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Retail Business, Agriculture & MLA Widow Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate in 2005 from Ganesh Shankar Vidyarthi Inter College, Sultanpur Gosh, Khaga, Fatehpur, Madhyamik Shiksha Parishad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3968688,
+      "immovable": 14960000,
+      "total": 18928688,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2852",
+    "retrieved": "2026-08-27"
+  }
+}

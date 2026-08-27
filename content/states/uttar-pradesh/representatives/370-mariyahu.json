@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-370-mariyahu",
+  "constituency": {
+    "number": 370,
+    "name": "Mariyahu",
+    "district": "Jaunpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr R.K. Patel",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Medical Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS, MS From BHU"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16455122,
+      "immovable": 75576870,
+      "total": 92031993,
+      "liabilities": 18403125
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4739",
+    "retrieved": "2026-08-27"
+  }
+}

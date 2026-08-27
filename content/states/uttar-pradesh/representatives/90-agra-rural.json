@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-90-agra-rural",
+  "constituency": {
+    "number": 90,
+    "name": "Agra Rural",
+    "district": "Agra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Baby Rani Maurya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. , B.Ed from agra University 1979-1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12405774,
+      "immovable": 16450000,
+      "total": 28672774,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=87",
+    "retrieved": "2026-08-27"
+  }
+}

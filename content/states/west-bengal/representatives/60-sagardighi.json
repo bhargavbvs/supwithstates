@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-60-sagardighi",
+  "constituency": {
+    "number": 60,
+    "name": "Sagardighi",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bayron Biswas",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Business & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary From Rabindra Mukta School In 2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 173493079,
+      "immovable": 160729131,
+      "total": 334222210,
+      "liabilities": 79649669
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=552",
+    "retrieved": "2026-08-27"
+  }
+}

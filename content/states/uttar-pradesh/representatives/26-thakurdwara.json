@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-26-thakurdwara",
+  "constituency": {
+    "number": 26,
+    "name": "Thakurdwara",
+    "district": "Moradabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Navab Jan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from Govt .Inter College Kaladhungi Nainital In In Year 1978-79"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5080624,
+      "immovable": 66495900,
+      "total": 71576525,
+      "liabilities": 13954320
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=910",
+    "retrieved": "2026-08-27"
+  }
+}

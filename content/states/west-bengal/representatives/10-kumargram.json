@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-10-kumargram",
+  "constituency": {
+    "number": 10,
+    "name": "Kumargram",
+    "district": ">l|pur Du>r",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Manoj Kumar Oraon",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. from Vidyasagar College under Calcutta University in 2003, B.Ed from Eastern Doors, B.Ed. Training College under North Bangal University in 2011"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4306289,
+      "immovable": 1400000,
+      "total": 5706289,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=153",
+    "retrieved": "2026-08-27"
+  }
+}

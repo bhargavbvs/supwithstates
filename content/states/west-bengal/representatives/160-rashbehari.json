@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-160-rashbehari",
+  "constituency": {
+    "number": 160,
+    "name": "Rashbehari",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dasgupta Swapan",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Writer",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy, School of Oriental and African Studies, University of London, 1980."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30800375,
+      "immovable": 50000000,
+      "total": 80800376,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2397",
+    "retrieved": "2026-08-27"
+  }
+}

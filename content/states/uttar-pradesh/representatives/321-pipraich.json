@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-321-pipraich",
+  "constituency": {
+    "number": 321,
+    "name": "Pipraich",
+    "district": "Gorakhpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahendra Pal Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture & Business, MLA Salary & Allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Digvijay Nath Degree College, Gorakhpur University in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9626653,
+      "immovable": 142005759,
+      "total": 151632412,
+      "liabilities": 13759390
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3643",
+    "retrieved": "2026-08-27"
+  }
+}

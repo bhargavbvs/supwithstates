@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-154-sawaijpur",
+  "constituency": {
+    "number": 154,
+    "name": "Sawaijpur",
+    "district": "Hardoi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhavendra Pratap Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculture And Political Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From KA College Kasganj Agra University in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14497801,
+      "immovable": 100465000,
+      "total": 114863189,
+      "liabilities": 2583802
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2717",
+    "retrieved": "2026-08-27"
+  }
+}

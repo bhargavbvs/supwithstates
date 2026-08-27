@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-384-pindra",
+  "constituency": {
+    "number": 384,
+    "name": "Pindra",
+    "district": "Varanasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Awadhesh Kumar Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Teacher Pension / MLA",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hd, Year 1983 , M.A. Year 1978 From Kashi Vidyapith Varanasi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7250438,
+      "immovable": 58004500,
+      "total": 77765098,
+      "liabilities": 3349446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4350",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-141-magrahat-purba",
+  "constituency": {
+    "number": 141,
+    "name": "Magrahat Purba",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sarmistha Purkait",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 33,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Pass in Bengali, University of Calcutta in 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2169129,
+      "immovable": 4347500,
+      "total": 6316629,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2862",
+    "retrieved": "2026-08-27"
+  }
+}

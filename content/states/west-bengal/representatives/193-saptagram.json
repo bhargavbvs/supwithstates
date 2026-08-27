@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-193-saptagram",
+  "constituency": {
+    "number": 193,
+    "name": "Saptagram",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Swaraj Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Business Man",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Pass From Puinan High School For The Year 1996"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10389953,
+      "immovable": 279474004,
+      "total": 289863958,
+      "liabilities": 23879790
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2363",
+    "retrieved": "2026-08-27"
+  }
+}

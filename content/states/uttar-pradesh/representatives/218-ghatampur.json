@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-218-ghatampur",
+  "constituency": {
+    "number": 218,
+    "name": "Ghatampur",
+    "district": "Kanpur Nagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Saroj",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Professional Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Dayanand College of Kanpur Chhatrapati shahuji university"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35730278,
+      "immovable": 111100000,
+      "total": 138137164,
+      "liabilities": 4656000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1910",
+    "retrieved": "2026-08-27"
+  }
+}

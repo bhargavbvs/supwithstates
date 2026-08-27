@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-37-rampur",
+  "constituency": {
+    "number": 37,
+    "name": "Rampur",
+    "district": "Rampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akash Saxena (Honey)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Income from Plant & Machinery",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Govt. Inter College Tanda, Rampur in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25978624,
+      "immovable": 33000000,
+      "total": 58978626,
+      "liabilities": 7800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4873",
+    "retrieved": "2026-08-27"
+  }
+}

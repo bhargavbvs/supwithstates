@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-359-sikanderpur",
+  "constituency": {
+    "number": 359,
+    "name": "Sikanderpur",
+    "district": "Ballia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ziyauddin Rizvi",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Agriculture & Social work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1986 from Gorakhpur University Gorakhpur"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11577356,
+      "immovable": 28825200,
+      "total": 34044557,
+      "liabilities": 1155000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3586",
+    "retrieved": "2026-08-27"
+  }
+}

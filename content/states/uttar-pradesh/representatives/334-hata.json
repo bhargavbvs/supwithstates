@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-334-hata",
+  "constituency": {
+    "number": 334,
+    "name": "Hata",
+    "district": "Kushinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Municipality President, Business & Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate from Buddha PG College Kushinagar, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur in 1998"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3107025,
+      "immovable": 27000000,
+      "total": 30107025,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4032",
+    "retrieved": "2026-08-27"
+  }
+}

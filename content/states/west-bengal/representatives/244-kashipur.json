@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-244-kashipur",
+  "constituency": {
+    "number": 244,
+    "name": "Kashipur",
+    "district": "Puruliya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamala Kanta Hansda",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Assitant Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. In 2010 from Netaji Open University, B.Ed In 2001 from Sponsored Teachers Training College Purulia"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2262973,
+      "immovable": 4200000,
+      "total": 6462974,
+      "liabilities": 1050000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=420",
+    "retrieved": "2026-08-27"
+  }
+}

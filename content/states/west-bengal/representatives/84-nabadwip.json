@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-84-nabadwip",
+  "constituency": {
+    "number": 84,
+    "name": "Nabadwip",
+    "district": "Nadia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Srutisekhar Goswami",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Spritual Speaker/Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA in Political Science from Netaji Subhash Open University in 2007, Bachelor of Law from Chotanagpur law college under Ranchi University 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2087609,
+      "immovable": 4500000,
+      "total": 6587612,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2494",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-249-ranibandh",
+  "constituency": {
+    "number": 249,
+    "name": "Ranibandh",
+    "district": "B>nkura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kshudiram Tudu",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Teacher (State Government Aided School)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Vidyasagar University in 1994, Bachelor of Education from Burdwan University in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1271699,
+      "immovable": 1050000,
+      "total": 2321699,
+      "liabilities": 69950
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=306",
+    "retrieved": "2026-08-27"
+  }
+}

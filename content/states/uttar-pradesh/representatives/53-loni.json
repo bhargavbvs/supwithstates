@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-53-loni",
+  "constituency": {
+    "number": 53,
+    "name": "Loni",
+    "district": "Ghaziabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nandkishor",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Agriculture, Rent and MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA. From SD College Gaziabad Year 2005, LL.B From Meerut College Year 2010 Choudhary Charan Singh University Meerut"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7820688,
+      "immovable": 15971970,
+      "total": 24604367,
+      "liabilities": 35975
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=63",
+    "retrieved": "2026-08-27"
+  }
+}

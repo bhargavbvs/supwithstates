@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-272-haidergarh",
+  "constituency": {
+    "number": 272,
+    "name": "Haidergarh",
+    "district": "Bara Banki",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dinesh Rawat",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 32,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From Secondary Education Board UP College Sadguru Inter College Semrao Barabanki Year 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5193294,
+      "immovable": 1589000,
+      "total": 6778291,
+      "liabilities": 984705
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3161",
+    "retrieved": "2026-08-27"
+  }
+}

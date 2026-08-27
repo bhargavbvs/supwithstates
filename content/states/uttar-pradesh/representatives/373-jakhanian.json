@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-373-jakhanian",
+  "constituency": {
+    "number": 373,
+    "name": "Jakhanian",
+    "district": "Ghazipur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bedi",
+    "election": "2022",
+    "elected_party": "Suheldev Bharatiya Samaj Party",
+    "current_party": "Suheldev Bharatiya Samaj Party",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Avadh University, Faizabad UP In 1993"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4374895,
+      "immovable": 240050000,
+      "total": 246064895,
+      "liabilities": 406745
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4584",
+    "retrieved": "2026-08-27"
+  }
+}

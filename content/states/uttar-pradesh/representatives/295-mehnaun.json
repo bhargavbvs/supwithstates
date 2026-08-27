@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-295-mehnaun",
+  "constituency": {
+    "number": 295,
+    "name": "Mehnaun",
+    "district": "Gonda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinay Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate University Gonda, Dr. Rammanohar Lohiya Awadh University Faizabad Graduate in 1993, From Lal Bahadur Shastri,"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7513345,
+      "immovable": 40200000,
+      "total": 47713345,
+      "liabilities": 4542768
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2870",
+    "retrieved": "2026-08-27"
+  }
+}

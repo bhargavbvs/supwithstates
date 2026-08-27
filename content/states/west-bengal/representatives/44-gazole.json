@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-44-gazole",
+  "constituency": {
+    "number": 44,
+    "name": "Gazole",
+    "district": "M>ldah",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Chinmoy Deb Barman",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Social Work & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA from Rabindra Bharati University Kolkata in 2008"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16855412,
+      "immovable": 200000,
+      "total": 18355412,
+      "liabilities": 995000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=257",
+    "retrieved": "2026-08-27"
+  }
+}

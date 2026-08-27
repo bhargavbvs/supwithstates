@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-277-katehari",
+  "constituency": {
+    "number": 277,
+    "name": "Katehari",
+    "district": "Ambedkar Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lalji Verma",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Agriculture, Dairy & Assembly Member Salary & Allowance",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Agriculture) From Kulbhaskar Ashram College Allahabad/ Kanpur University Kanpur in 1979"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19627259,
+      "immovable": 70637899,
+      "total": 90174093,
+      "liabilities": 3145000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3835",
+    "retrieved": "2026-08-27"
+  }
+}

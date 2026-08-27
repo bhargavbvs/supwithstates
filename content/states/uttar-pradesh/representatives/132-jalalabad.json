@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-132-jalalabad",
+  "constituency": {
+    "number": 132,
+    "name": "Jalalabad",
+    "district": "Shahjahanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hari Prakash Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Advocate, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Law Graduate from Krishna College of Law Bijnor, M.J.P. Ruhelkhand University in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4958822,
+      "immovable": 18053000,
+      "total": 23011823,
+      "liabilities": 1657280
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=997",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-356-mau",
+  "constituency": {
+    "number": 356,
+    "name": "Mau",
+    "district": "Mau",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abbas Ansari",
+    "election": "2022",
+    "elected_party": "Suheldev Bharatiya Samaj Party",
+    "current_party": "Suheldev Bharatiya Samaj Party",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 29,
+    "profession": "Rental Income",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From G.D. Goyanka World School Sohana Gurgaon Haryana in 2011"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11255478,
+      "immovable": 80588000,
+      "total": 91843478,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4595",
+    "retrieved": "2026-08-27"
+  }
+}

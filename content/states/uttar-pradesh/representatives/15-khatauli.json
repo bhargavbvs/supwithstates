@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-15-khatauli",
+  "constituency": {
+    "number": 15,
+    "name": "Khatauli",
+    "district": "Muzaffarnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madan Bhaiya",
+    "election": "2022",
+    "elected_party": "RLD",
+    "current_party": "RLD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Agriculture & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. 1st year from C.C.S University, Meerut"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19787694,
+      "immovable": 140000000,
+      "total": 157032665,
+      "liabilities": 5150000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4859",
+    "retrieved": "2026-08-27"
+  }
+}

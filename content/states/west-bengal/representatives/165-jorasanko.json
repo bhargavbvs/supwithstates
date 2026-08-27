@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-165-jorasanko",
+  "constituency": {
+    "number": 165,
+    "name": "Jorasanko",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Ojha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary From Shree DIDOO Maheshwari Panchayat Vidyalaya in 1989"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21309397,
+      "immovable": 1485000,
+      "total": 22560985,
+      "liabilities": 1489368
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1629",
+    "retrieved": "2026-08-27"
+  }
+}

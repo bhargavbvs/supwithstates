@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-188-sultanpur",
+  "constituency": {
+    "number": 188,
+    "name": "Sultanpur",
+    "district": "Sultanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinod Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Social Work, Advocate (High Court, Lucknow Khand Pith, Lucknow)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from K.N.I.P.S.S. Sultanpur (Dr. Ram Manohar Lohiya Awadh University, Faizabad U.P.) in 1986"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54530162,
+      "immovable": 112139800,
+      "total": 166770272,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3531",
+    "retrieved": "2026-08-27"
+  }
+}

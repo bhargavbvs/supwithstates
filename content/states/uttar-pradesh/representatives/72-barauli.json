@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-72-barauli",
+  "constituency": {
+    "number": 72,
+    "name": "Barauli",
+    "district": "Aligarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thakur Jaiveer Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc in 1985, B.Ed in 1986 & LLB in 1990 from Dharm Samaj College Aligarh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54357511,
+      "immovable": 76396920,
+      "total": 130754430,
+      "liabilities": 6711061
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=98",
+    "retrieved": "2026-08-27"
+  }
+}

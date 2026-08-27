@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-290-mayureswar",
+  "constituency": {
+    "number": 290,
+    "name": "Mayureswar",
+    "district": "B|rbh@m",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dudh Kumar Mondal",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Agriculture and paddy seller",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor in Arts (B.A) from Abhedananda Mahavidyalaya, Sainthia, under Burdwan University in the year 1979"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5430689,
+      "immovable": 6000000,
+      "total": 10887455,
+      "liabilities": 9067
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=475",
+    "retrieved": "2026-08-27"
+  }
+}

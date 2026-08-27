@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-135-shahjahanpur",
+  "constituency": {
+    "number": 135,
+    "name": "Shahjahanpur",
+    "district": "Shahjahanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Kumar Khanna",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Political Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Graduate Law from Lucknow University in 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8265544,
+      "immovable": 9622200,
+      "total": 17887747,
+      "liabilities": 60000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=953",
+    "retrieved": "2026-08-27"
+  }
+}

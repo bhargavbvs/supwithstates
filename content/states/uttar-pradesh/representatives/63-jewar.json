@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-63-jewar",
+  "constituency": {
+    "number": 63,
+    "name": "Jewar",
+    "district": "Gautam Buddha Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhirendra Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (History) from D.A.V College Bulandshahr, Ch. Charan Singh University, Meerut in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30032744,
+      "immovable": 73228370,
+      "total": 103271114,
+      "liabilities": 10299585
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=308",
+    "retrieved": "2026-08-27"
+  }
+}

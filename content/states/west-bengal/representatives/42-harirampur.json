@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-42-harirampur",
+  "constituency": {
+    "number": 42,
+    "name": "Harirampur",
+    "district": "Dakshin Din>jpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Biplab Mitra",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 74,
+    "profession": "Advocate and Minister in West Bengal Government",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from Calcutta University College of Law in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25492520,
+      "immovable": 11700000,
+      "total": 37192523,
+      "liabilities": 63750
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=378",
+    "retrieved": "2026-08-27"
+  }
+}

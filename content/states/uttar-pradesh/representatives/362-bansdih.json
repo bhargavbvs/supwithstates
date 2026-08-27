@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-362-bansdih",
+  "constituency": {
+    "number": 362,
+    "name": "Bansdih",
+    "district": "Ballia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ketakee Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Shri Murli Manohar Post Graduate College, Ballia (Veer Bahadur Singh Purvanchal University, Jaunpur) in 2005"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12884235,
+      "immovable": 7318000,
+      "total": 20350405,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3780",
+    "retrieved": "2026-08-27"
+  }
+}

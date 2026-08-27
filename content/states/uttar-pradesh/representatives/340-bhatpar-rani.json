@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-340-bhatpar-rani",
+  "constituency": {
+    "number": 340,
+    "name": "Bhatpar Rani",
+    "district": "Deoria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sabhakunwar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduae from Madan Mohan Malviya P.G. College Bhatpar Rani Deoria in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4045710,
+      "immovable": 13008000,
+      "total": 16929474,
+      "liabilities": 833709
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3751",
+    "retrieved": "2026-08-27"
+  }
+}

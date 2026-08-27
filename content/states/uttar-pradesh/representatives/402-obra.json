@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-402-obra",
+  "constituency": {
+    "number": 402,
+    "name": "Obra",
+    "district": "Sonbhadra",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sanjeev Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from U.P. Board of Secondary Education, Allahabad in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10741431,
+      "immovable": 38372600,
+      "total": 49285519,
+      "liabilities": 1178000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4847",
+    "retrieved": "2026-08-27"
+  }
+}

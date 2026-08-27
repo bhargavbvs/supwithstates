@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-4-coochbehar-dakshin",
+  "constituency": {
+    "number": 4,
+    "name": "Coochbehar Dakshin",
+    "district": "Koch Bih>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rathindra Bose",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Practicing Chartered Accountant",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Chartered Accountancy from Institute of Chartered Accountants of India in 1990, B.Com from University B.T. and Evening College under North Bengal University in Year 1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 47010090,
+      "immovable": 46500000,
+      "total": 93510100,
+      "liabilities": 31995275
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=228",
+    "retrieved": "2026-08-27"
+  }
+}

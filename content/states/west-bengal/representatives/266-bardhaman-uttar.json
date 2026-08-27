@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-266-bardhaman-uttar",
+  "constituency": {
+    "number": 266,
+    "name": "Bardhaman Uttar",
+    "district": "Purba Barddham>n",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Nisith Kumar Malik",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Primary School Teacher",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Junior Diploma in Engineering and Technical Education (Equivalent to the Higher Secondary School Certificate (10+1) under the Old Regulations Previously Awarded by The West Bengal Board of Secondary Education) (Satish Chandra Silpa Vidyalaya) in 1988"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7013888,
+      "immovable": 1600000,
+      "total": 8613889,
+      "liabilities": 455668
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2825",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-187-isauli",
+  "constituency": {
+    "number": 187,
+    "name": "Isauli",
+    "district": "Sultanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohd Tahir Khan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Pensioner, Agriculture & Land Business & House Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate in 1994 from UP Board S.H.S School Bindwaliya Nonapar Deoria Uttar Pradesh"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6354874,
+      "immovable": 106293000,
+      "total": 54147875,
+      "liabilities": 3561940
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3526",
+    "retrieved": "2026-08-27"
+  }
+}

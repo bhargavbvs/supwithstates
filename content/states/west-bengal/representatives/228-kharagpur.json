@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-228-kharagpur",
+  "constituency": {
+    "number": 228,
+    "name": "Kharagpur",
+    "district": "Paschim Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dinen Roy",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc. Part -I Passed from Midnapore College, Calcutta University in 1974"
+    },
+    "declared_cases": {
+      "total": 17,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32032587,
+      "immovable": 25670280,
+      "total": 57702870,
+      "liabilities": 601901
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=427",
+    "retrieved": "2026-08-27"
+  }
+}

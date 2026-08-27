@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-51-baraut",
+  "constituency": {
+    "number": 51,
+    "name": "Baraut",
+    "district": "Baghpat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishan Pal Malik",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Business, Agriculture, Rent",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School, Muslim Inter College Asara UP Board in 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47232474,
+      "immovable": 75250000,
+      "total": 122482474,
+      "liabilities": 36149000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4",
+    "retrieved": "2026-08-27"
+  }
+}

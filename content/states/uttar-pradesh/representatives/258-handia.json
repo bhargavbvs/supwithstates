@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-258-handia",
+  "constituency": {
+    "number": 258,
+    "name": "Handia",
+    "district": "Prayagraj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hakim Lal Bind",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "HL Timber Jhirihiri Handiya,Prayagraj",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From PG College Handiya ,Allahabad Sambandh Purvanchal University Jaunpur ,In 1999"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11805827,
+      "immovable": 22833333,
+      "total": 34639160,
+      "liabilities": 8795711
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3404",
+    "retrieved": "2026-08-27"
+  }
+}

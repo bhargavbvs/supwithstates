@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-381-sakaldiha",
+  "constituency": {
+    "number": 381,
+    "name": "Sakaldiha",
+    "district": "Chandauli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prabhu Narayan Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, MLA Salary and Allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Sakaldiha Degree College Year 1981"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5331967,
+      "immovable": 8974696,
+      "total": 14290363,
+      "liabilities": 1964501
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4479",
+    "retrieved": "2026-08-27"
+  }
+}

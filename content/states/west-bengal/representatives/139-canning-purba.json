@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-139-canning-purba",
+  "constituency": {
+    "number": 139,
+    "name": "Canning Purba",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md Baharul Islam",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Zilla Parishad Karmadhakshya, Farmer & Consultants",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Pass from Bhangar Mahavidyalaya, Bhangar South 24 Parganas, University of Calcutta in 2007"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5596941,
+      "immovable": 13072000,
+      "total": 18668941,
+      "liabilities": 668265
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2887",
+    "retrieved": "2026-08-27"
+  }
+}

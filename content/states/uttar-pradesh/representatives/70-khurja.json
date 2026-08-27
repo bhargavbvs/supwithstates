@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-70-khurja",
+  "constituency": {
+    "number": 70,
+    "name": "Khurja",
+    "district": "Bulandshahr",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Minakshi Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 32,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Law Graduate from M.J.P. Rohilkhand University, Bareilly In 2012"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6658244,
+      "immovable": 8000000,
+      "total": 14697244,
+      "liabilities": 3650000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=239",
+    "retrieved": "2026-08-27"
+  }
+}

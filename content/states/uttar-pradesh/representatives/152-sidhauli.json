@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-152-sidhauli",
+  "constituency": {
+    "number": 152,
+    "name": "Sidhauli",
+    "district": "Sitapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manish Rawat",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Agriculture,Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Lucknow University In 2005, B.Ed. From Dr Ram Manohar Lohiya Awadh University In 2006"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11683871,
+      "immovable": 29478000,
+      "total": 41161881,
+      "liabilities": 15078459
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2442",
+    "retrieved": "2026-08-27"
+  }
+}

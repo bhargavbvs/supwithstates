@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-192-kaimganj",
+  "constituency": {
+    "number": 192,
+    "name": "Kaimganj",
+    "district": "Farrukhabad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Surabhi",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.D.S. from Dr. B.R. Ambedkar University in 2010, P.G.S.H.M. from I.I.M. Kolkata in 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33882601,
+      "immovable": 46850000,
+      "total": 80732601,
+      "liabilities": 1770000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1860",
+    "retrieved": "2026-08-27"
+  }
+}

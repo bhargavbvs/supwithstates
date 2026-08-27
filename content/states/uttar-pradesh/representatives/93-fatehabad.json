@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-93-fatehabad",
+  "constituency": {
+    "number": 93,
+    "name": "Fatehabad",
+    "district": "Agra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chhotey Lal Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Agriculture, Petrol Pump Business Pension",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Passed , D.A.V Inter College Agra 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3880913,
+      "immovable": 60033480,
+      "total": 63914393,
+      "liabilities": 1137492
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=95",
+    "retrieved": "2026-08-27"
+  }
+}

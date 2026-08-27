@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-319-paniyra",
+  "constituency": {
+    "number": 319,
+    "name": "Paniyra",
+    "district": "Mahrajganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gyanendra Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture, MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Passed From Mahrajganj UP Education Board Allahabad in 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9600282,
+      "immovable": 14000000,
+      "total": 23283282,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4103",
+    "retrieved": "2026-08-27"
+  }
+}

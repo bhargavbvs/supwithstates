@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-87-agra-cantt",
+  "constituency": {
+    "number": 87,
+    "name": "Agra Cantt.",
+    "district": "Agra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. G S Dharmesh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Medical Business and Petrol pump , MLA allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Agra University Agra, S.N. Medical College Agra in 1977, Intermediate in 1970 from SMDD Inter college Nagla vishnu jagner road, Agra"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9597778,
+      "immovable": 34000000,
+      "total": 43597778,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=82",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-59-hapur",
+  "constituency": {
+    "number": 59,
+    "name": "Hapur",
+    "district": "Hapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vijaypal (Aadhti)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Not Given",
+      "detail": null
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3039449,
+      "immovable": 9760000,
+      "total": 12799449,
+      "liabilities": 839998
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=328",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-145-maholi",
+  "constituency": {
+    "number": 145,
+    "name": "Maholi",
+    "district": "Sitapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shashank Trivedi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE From Pune University Maharastra in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6701119,
+      "immovable": 23200000,
+      "total": 29901119,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2382",
+    "retrieved": "2026-08-27"
+  }
+}

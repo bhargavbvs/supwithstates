@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-200-etawah",
+  "constituency": {
+    "number": 200,
+    "name": "Etawah",
+    "district": "Etawah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sarita",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "MLA Salary, Agriculture, Rent , Bank Interest",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Pass in 1984 from Kanpur University, Kanpur UP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16535348,
+      "immovable": 23997000,
+      "total": 39182348,
+      "liabilities": 1200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1636",
+    "retrieved": "2026-08-27"
+  }
+}

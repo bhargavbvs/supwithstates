@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-337-deoria",
+  "constituency": {
+    "number": 337,
+    "name": "Deoria",
+    "district": "Deoria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shalabh Mani Tripathi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Agriculture & Journalism",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From Dr Shakuntala Misra National Rehabilitation University, Lucknow In 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16904351,
+      "immovable": 43530920,
+      "total": 60535299,
+      "liabilities": 1038616
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3714",
+    "retrieved": "2026-08-27"
+  }
+}

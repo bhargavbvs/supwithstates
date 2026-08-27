@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-260-bardhaman-dakshin",
+  "constituency": {
+    "number": 260,
+    "name": "Bardhaman Dakshin",
+    "district": "Purba Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Moumita Biswas Misra",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Legal Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLB From Balasore Law College, Balasore, Odisha, Year-2020 & M.A. from Rabindra Bharati University Kolkata, Year- 2007"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 34366123,
+      "immovable": 12000000,
+      "total": 46366124,
+      "liabilities": 4144944
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2819",
+    "retrieved": "2026-08-27"
+  }
+}

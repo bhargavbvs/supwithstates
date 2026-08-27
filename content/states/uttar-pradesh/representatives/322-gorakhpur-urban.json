@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-322-gorakhpur-urban",
+  "constituency": {
+    "number": 322,
+    "name": "Gorakhpur Urban",
+    "district": "Gorakhpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adityanath",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Salary and Allowances as a Peoples Representative (Former MP and MLA)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from H. N. Bahuguna University, Shrinagar Paurigarhwal in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15494054,
+      "immovable": 0,
+      "total": 15494054,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3801",
+    "retrieved": "2026-08-27"
+  }
+}

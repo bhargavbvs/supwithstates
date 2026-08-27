@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-94-bagda",
+  "constituency": {
+    "number": 94,
+    "name": "Bagda",
+    "district": "North Twenty-Four Parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Soma Thakur",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "Social Worker / Religious activities (Guru Maa)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in History from Rabindra Bharati University in the year of 2014"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8354788,
+      "immovable": 10933000,
+      "total": 19287788,
+      "liabilities": 17218000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2527",
+    "retrieved": "2026-08-27"
+  }
+}

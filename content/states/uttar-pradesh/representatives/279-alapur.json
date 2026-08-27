@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-279-alapur",
+  "constituency": {
+    "number": 279,
+    "name": "Alapur",
+    "district": "Ambedkar Nagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Tribhuwan Dutt",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Ex-MLA U.P., Agriculture, Social Worker, Ex-MP",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter from Rangey Raghav Inter College Hanswar Ambedkar Nagar"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12264808,
+      "immovable": 27400000,
+      "total": 39689413,
+      "liabilities": 10450882
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4238",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-388-varanasi-north",
+  "constituency": {
+    "number": 388,
+    "name": "Varanasi North",
+    "district": "Varanasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravindra Jaiswal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Rent & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com. In Year 1995 & LL.B In Year 1993 From Harish Chandra PG College Varanasi"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 28135630,
+      "immovable": 241735730,
+      "total": 269871362,
+      "liabilities": 7054249
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4380",
+    "retrieved": "2026-08-27"
+  }
+}

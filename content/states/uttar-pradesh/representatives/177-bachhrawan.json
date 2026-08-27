@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-177-bachhrawan",
+  "constituency": {
+    "number": 177,
+    "name": "Bachhrawan",
+    "district": "Rae Bareli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shyam Sunder",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Passed in 1973, Dayanand School Inter College Gokula, UP Allahabad"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1413150,
+      "immovable": 5000000,
+      "total": 6416150,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2316",
+    "retrieved": "2026-08-27"
+  }
+}

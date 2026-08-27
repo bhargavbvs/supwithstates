@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-360-phephana",
+  "constituency": {
+    "number": 360,
+    "name": "Phephana",
+    "district": "Ballia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sangram Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 71,
+    "profession": "Agriculture, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. from Purvanchal University, Jaunpur in 1989, B.Sc in 1982 from Gorakhpur University, Gorakhpur"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4785403,
+      "immovable": 32500000,
+      "total": 37285403,
+      "liabilities": 3210470
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3603",
+    "retrieved": "2026-08-27"
+  }
+}

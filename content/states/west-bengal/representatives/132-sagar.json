@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-132-sagar",
+  "constituency": {
+    "number": 132,
+    "name": "Sagar",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sumanta Mandal",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Asst. Teacher & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science (Honours), Chhatrapati Shahu |i Maharaj University, Kanpur and Passing year of 2009"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2768016,
+      "immovable": 1200000,
+      "total": 3968016,
+      "liabilities": 2350000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2392",
+    "retrieved": "2026-08-27"
+  }
+}

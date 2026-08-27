@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-64-sikandrabad",
+  "constituency": {
+    "number": 64,
+    "name": "Sikandrabad",
+    "district": "Bulandshahr",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lakshmi Raj",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc (Computer Sec.) in (2006), LLB in 2013 from Ch. Charan Singh University Meerut"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2992901,
+      "immovable": 56200000,
+      "total": 59192901,
+      "liabilities": 5582157
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=233",
+    "retrieved": "2026-08-27"
+  }
+}

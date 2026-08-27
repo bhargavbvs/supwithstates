@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-365-shahganj",
+  "constituency": {
+    "number": 365,
+    "name": "Shahganj",
+    "district": "Jaunpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramesh",
+    "election": "2022",
+    "elected_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "current_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Motilal Jhunjhunwala College Mumbai in 1999"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5059132,
+      "immovable": 67080324,
+      "total": 72139456,
+      "liabilities": 43548559
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4686",
+    "retrieved": "2026-08-27"
+  }
+}

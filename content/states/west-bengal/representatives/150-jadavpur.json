@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-150-jadavpur",
+  "constituency": {
+    "number": 150,
+    "name": "Jadavpur",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sarbori Mukherjee",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Artist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Burdwan University in 1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1400115,
+      "immovable": 7200000,
+      "total": 8600117,
+      "liabilities": 5138806
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1815",
+    "retrieved": "2026-08-27"
+  }
+}

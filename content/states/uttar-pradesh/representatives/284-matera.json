@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-284-matera",
+  "constituency": {
+    "number": 284,
+    "name": "Matera",
+    "district": "Bahraich",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mariya",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Agriculture & Property Rent",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from MPL Girls College, Madhyamik Shiksha Parishad, UP in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27823136,
+      "immovable": 105600000,
+      "total": 133563136,
+      "liabilities": 66081496
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3304",
+    "retrieved": "2026-08-27"
+  }
+}

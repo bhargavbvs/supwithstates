@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-194-farrukhabad",
+  "constituency": {
+    "number": 194,
+    "name": "Farrukhabad",
+    "district": "Farrukhabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Major Sunil Dutt Dwivedi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "MLA Salary & Bank Interest",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B, Year 1991, Mumbai University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25926892,
+      "immovable": 14950000,
+      "total": 40876895,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1653",
+    "retrieved": "2026-08-27"
+  }
+}

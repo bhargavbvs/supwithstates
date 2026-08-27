@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-215-kidwai-nagar",
+  "constituency": {
+    "number": 215,
+    "name": "Kidwai Nagar",
+    "district": "Kanpur Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahesh Kumar Trivedi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Agriculture Pension/Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Kanpur University in 1990, Inter Pass from College, Atta in 1987, 10th Pass from M.S.B. Inter College in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24243104,
+      "immovable": 59350000,
+      "total": 83593104,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1776",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-297-katra-bazar",
+  "constituency": {
+    "number": 297,
+    "name": "Katra Bazar",
+    "district": "Gonda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bawan Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From MLK Degree College Balrampur Awadh University Faizabad in 1978"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6450298,
+      "immovable": 50300000,
+      "total": 56750308,
+      "liabilities": 8407078
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2897",
+    "retrieved": "2026-08-27"
+  }
+}

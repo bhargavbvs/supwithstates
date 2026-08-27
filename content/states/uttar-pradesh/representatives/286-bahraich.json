@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-286-bahraich",
+  "constituency": {
+    "number": 286,
+    "name": "Bahraich",
+    "district": "Bahraich",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anupma Jaiswal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "IOC Petrol Pump, Tube Dealership",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (English) from Dr. Ram Manohar Lohia University Ayodhya in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23071873,
+      "immovable": 30900000,
+      "total": 53971873,
+      "liabilities": 176662
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3318",
+    "retrieved": "2026-08-27"
+  }
+}

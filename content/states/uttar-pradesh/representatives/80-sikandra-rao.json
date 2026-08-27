@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-80-sikandra-rao",
+  "constituency": {
+    "number": 80,
+    "name": "Sikandra Rao",
+    "district": "Hathras",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Birendra Singh Rana",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Sadabad Inter College, Sadabad, Madhyamik Shiksha Parishad UP, Allahabad In 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13497072,
+      "immovable": 62650000,
+      "total": 113398881,
+      "liabilities": 2606658
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1691",
+    "retrieved": "2026-08-27"
+  }
+}

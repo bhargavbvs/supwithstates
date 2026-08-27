@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-399-marihan",
+  "constituency": {
+    "number": 399,
+    "name": "Marihan",
+    "district": "Mirzapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rama Shankar Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Agriculture & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from K.B.P.G. College Mirzapur, University-Purvanchal University Jaunpur in 1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24699725,
+      "immovable": 23795000,
+      "total": 48494725,
+      "liabilities": 5730304
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4804",
+    "retrieved": "2026-08-27"
+  }
+}

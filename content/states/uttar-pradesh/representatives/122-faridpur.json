@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-122-faridpur",
+  "constituency": {
+    "number": 122,
+    "name": "Faridpur",
+    "district": "Bareilly",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Prof. Shyam Bihari Lal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Professor, M.J.P.R. Univeristy",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. in 1998 & M.A. in 1989 From M.J.P.R. University, Bareilly, Year"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19443904,
+      "immovable": 40000000,
+      "total": 59443904,
+      "liabilities": 7490002
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=881",
+    "retrieved": "2026-08-27"
+  }
+}

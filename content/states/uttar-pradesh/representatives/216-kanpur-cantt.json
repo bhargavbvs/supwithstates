@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-216-kanpur-cantt",
+  "constituency": {
+    "number": 216,
+    "name": "Kanpur Cantt.",
+    "district": "Kanpur Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohammad Hasan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Advocate Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Economics) from DAV College, Kanpur University, Kanpur Nagar in 1987, LLB from DAV Law College, Kanpur University Kanpur Nagar in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9389310,
+      "immovable": 12500000,
+      "total": 21819310,
+      "liabilities": 950000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2232",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-76-aligarh",
+  "constituency": {
+    "number": 76,
+    "name": "Aligarh",
+    "district": "Aligarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukta Raja",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Insurance Agent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From Uday Singh Jain Girls Inter College, Aligarh, Year-1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11615689,
+      "immovable": 4358500,
+      "total": 15974190,
+      "liabilities": 4794000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=380",
+    "retrieved": "2026-08-27"
+  }
+}

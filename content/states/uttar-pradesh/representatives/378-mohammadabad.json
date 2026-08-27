@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-378-mohammadabad",
+  "constituency": {
+    "number": 378,
+    "name": "Mohammadabad",
+    "district": "Ghazipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suhaib Alias Mannu Ansari",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 31,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.B.A. from Integral University, Lucknow"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1156968,
+      "immovable": 1100000,
+      "total": 2256968,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4542",
+    "retrieved": "2026-08-27"
+  }
+}

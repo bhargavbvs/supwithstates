@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-80-kaliganj",
+  "constituency": {
+    "number": 80,
+    "name": "Kaliganj",
+    "district": "Nadia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Alifa Ahmed",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech From Bengal College of Engineering & Technology 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11004405,
+      "immovable": 56749235,
+      "total": 67699371,
+      "liabilities": 10454366
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2256",
+    "retrieved": "2026-08-27"
+  }
+}

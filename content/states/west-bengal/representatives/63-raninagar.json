@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-63-raninagar",
+  "constituency": {
+    "number": 63,
+    "name": "Raninagar",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Julfikar Ali",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Pariksha From West Bengal Board of Madarsa Education in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 59752606,
+      "immovable": 128540000,
+      "total": 188292606,
+      "liabilities": 47802722
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=607",
+    "retrieved": "2026-08-27"
+  }
+}

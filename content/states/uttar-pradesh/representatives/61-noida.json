@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-61-noida",
+  "constituency": {
+    "number": 61,
+    "name": "Noida",
+    "district": "Gautam Buddha Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pankaj Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "PGDM",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graudate Diploma in Management (PGDM) in 1999-2001 from Amity Business School, Noida, B.Com from Dayal Singh College (Delhi University in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24641479,
+      "immovable": 23350000,
+      "total": 47991479,
+      "liabilities": 1200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=56",
+    "retrieved": "2026-08-27"
+  }
+}

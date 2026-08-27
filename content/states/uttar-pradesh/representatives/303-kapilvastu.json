@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-303-kapilvastu",
+  "constituency": {
+    "number": 303,
+    "name": "Kapilvastu",
+    "district": "Siddharthnagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shyamdhani Rahi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Budh Vidhyapith College, Naugarh, Siddharthnagar, Year-1976"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1728776,
+      "immovable": 1218750,
+      "total": 2192526,
+      "liabilities": 150000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3924",
+    "retrieved": "2026-08-27"
+  }
+}

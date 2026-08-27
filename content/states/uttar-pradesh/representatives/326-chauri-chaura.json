@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-326-chauri-chaura",
+  "constituency": {
+    "number": 326,
+    "name": "Chauri-Chaura",
+    "district": "Gorakhpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sarvan Kumar Nishad",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 31,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech. Civil Engineering From Gautam Budh Technical University UP in 2011-12"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 72996,
+      "immovable": 0,
+      "total": 72996,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3814",
+    "retrieved": "2026-08-27"
+  }
+}

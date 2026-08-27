@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-49-manikchak",
+  "constituency": {
+    "number": 49,
+    "name": "Manikchak",
+    "district": "M>ldah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gour Chandra Mandal",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Assistant Teacher in (LIEN) Vacancy, Govt. School Teacher (Primary)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science (Biology) Passed in 2019 from Arundaya University"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 38353979,
+      "immovable": 30873365,
+      "total": 70157348,
+      "liabilities": 25205584
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=466",
+    "retrieved": "2026-08-27"
+  }
+}

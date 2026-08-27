@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-83-krishnanagar-uttar",
+  "constituency": {
+    "number": 83,
+    "name": "Krishnanagar Uttar",
+    "district": "Nadia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tarak Nath Chatterjee",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "School Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts In Geography From C.M.D. PG College Under The Guru Ghasidas University In The Year of 2005."
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5336363,
+      "immovable": 4500000,
+      "total": 9836363,
+      "liabilities": 2075000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1781",
+    "retrieved": "2026-08-27"
+  }
+}

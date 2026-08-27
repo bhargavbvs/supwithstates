@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-273-ausgram",
+  "constituency": {
+    "number": 273,
+    "name": "Ausgram",
+    "district": "Purba Barddham>n",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kalita Maji",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Maid servant",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Home Education"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 190309,
+      "immovable": 300000,
+      "total": 490309,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1744",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-83-goverdhan",
+  "constituency": {
+    "number": 83,
+    "name": "Goverdhan",
+    "district": "Mathura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Meghshyam",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., LLB from Agra University Agra, B.A. in 1994, LLB in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6671150,
+      "immovable": 73000000,
+      "total": 79671150,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=68",
+    "retrieved": "2026-08-27"
+  }
+}

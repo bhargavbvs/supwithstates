@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-294-murarai",
+  "constituency": {
+    "number": 294,
+    "name": "Murarai",
+    "district": "B|rbh@m",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Mosarraf Hossain",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Self Employed on Medical Profession",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Passed the Bachelor of Medicine and Bachelor of Surgery Examination Calcutta University in 1983, Nil Ratan Sircar Medical College & Hospital , Passed the Diploma in Child Health Examinatino, Calcutta University in 1988 B.C. Roy Children Hospital"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31796554,
+      "immovable": 62950000,
+      "total": 88707097,
+      "liabilities": 388383
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=362",
+    "retrieved": "2026-08-27"
+  }
+}

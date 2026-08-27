@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-396-mirzapur",
+  "constituency": {
+    "number": 396,
+    "name": "Mirzapur",
+    "district": "Mirzapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ratnakar Mishra",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Travels Tour, Hotel Business Teerth Purohit & Yajmani, LIC Agent",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Vaidik Shiksha"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33720227,
+      "immovable": 10991945,
+      "total": 48432367,
+      "liabilities": 3900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4766",
+    "retrieved": "2026-08-27"
+  }
+}

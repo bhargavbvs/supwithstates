@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-77-karimpur",
+  "constituency": {
+    "number": 77,
+    "name": "Karimpur",
+    "district": "Nadia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samarendranath Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Headmaster",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Double Master of Arts in Bengali from Netaji Subhas Open University in the year 2011."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4801479,
+      "immovable": 2254750,
+      "total": 7056229,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2032",
+    "retrieved": "2026-08-27"
+  }
+}

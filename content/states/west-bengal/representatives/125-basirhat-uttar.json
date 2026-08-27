@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-125-basirhat-uttar",
+  "constituency": {
+    "number": 125,
+    "name": "Basirhat Uttar",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md. Tauseffur Rahman",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 35,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass From St. Marys School, Kolkata In The Year - 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2024212,
+      "immovable": 0,
+      "total": 2024212,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1879",
+    "retrieved": "2026-08-27"
+  }
+}

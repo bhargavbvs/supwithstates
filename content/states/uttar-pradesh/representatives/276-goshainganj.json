@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-276-goshainganj",
+  "constituency": {
+    "number": 276,
+    "name": "Goshainganj",
+    "district": "Ayodhya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhay Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture & Pension of Former Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Lucknow University, Lucknow in 1994"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9364501,
+      "immovable": 57760000,
+      "total": 67124503,
+      "liabilities": 3620426
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3258",
+    "retrieved": "2026-08-27"
+  }
+}

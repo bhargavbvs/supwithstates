@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-174-lucknow-central",
+  "constituency": {
+    "number": 174,
+    "name": "Lucknow Central",
+    "district": "Lucknow",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravidas Mehrotra",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Lucknow University In 1979, B.Sc from Jai Narayan Degree College Lucknow In 1975"
+    },
+    "declared_cases": {
+      "total": 22,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1700051,
+      "immovable": 5550956,
+      "total": 7251009,
+      "liabilities": 540000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2557",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-264-bara",
+  "constituency": {
+    "number": 264,
+    "name": "Bara",
+    "district": "Prayagraj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vachaspati",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Agriculture, Bank Interest, Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Chhatrapati Shahu Ji Maharaj University, Kanpur In 2002"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 56011671,
+      "immovable": 126300000,
+      "total": 182299003,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3481",
+    "retrieved": "2026-08-27"
+  }
+}

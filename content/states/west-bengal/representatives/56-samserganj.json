@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-56-samserganj",
+  "constituency": {
+    "number": 56,
+    "name": "Samserganj",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohammed Noor Alam",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Business, Farmer, Industrialist & Contractor",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Pass From West Bengal Council Of Higher Secondary Education In July 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 121047388,
+      "immovable": 104050176,
+      "total": 222321497,
+      "liabilities": 16833659
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=590",
+    "retrieved": "2026-08-27"
+  }
+}

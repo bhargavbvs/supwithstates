@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-386-shivpur",
+  "constituency": {
+    "number": 386,
+    "name": "Shivpur",
+    "district": "Varanasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Rajbhar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Agriculture and Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Geography) From Ruhelkhand P.G. College Chandauli"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12049826,
+      "immovable": 8557353,
+      "total": 20107180,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4429",
+    "retrieved": "2026-08-27"
+  }
+}

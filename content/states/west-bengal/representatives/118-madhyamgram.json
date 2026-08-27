@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-118-madhyamgram",
+  "constituency": {
+    "number": 118,
+    "name": "Madhyamgram",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rathin Ghosh",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com Part- I Passed from University of Calcutta in 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3289171,
+      "immovable": 2500000,
+      "total": 5789171,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2973",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-237-manikpur",
+  "constituency": {
+    "number": 237,
+    "name": "Manikpur",
+    "district": "Chitrakoot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Avinash Chandra Dwivedi",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Business, Agriculture & Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Allahabad University Allahabad Year 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33393007,
+      "immovable": 128916981,
+      "total": 162309991,
+      "liabilities": 4976579
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2964",
+    "retrieved": "2026-08-27"
+  }
+}

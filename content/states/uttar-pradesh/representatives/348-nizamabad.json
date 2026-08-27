@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-348-nizamabad",
+  "constituency": {
+    "number": 348,
+    "name": "Nizamabad",
+    "district": "Azamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Alam Badi",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 86,
+    "profession": "Social Worker, MLA Salary & Allowances",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter from Isamilya College Gorakhpur U.P. Board in 1953, Diploma in Electrical & Mechanical Engineering Government Technical Institute Gorakhpur in 1956"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1981035,
+      "immovable": 3020000,
+      "total": 5001036,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4303",
+    "retrieved": "2026-08-27"
+  }
+}

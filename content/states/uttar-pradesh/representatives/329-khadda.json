@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-329-khadda",
+  "constituency": {
+    "number": 329,
+    "name": "Khadda",
+    "district": "Kushinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Viveka Nand Pandey",
+    "election": "2022",
+    "elected_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "current_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Nehru Inter College Meshadpur in 2001"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2155732,
+      "immovable": 8770340,
+      "total": 10911072,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3970",
+    "retrieved": "2026-08-27"
+  }
+}

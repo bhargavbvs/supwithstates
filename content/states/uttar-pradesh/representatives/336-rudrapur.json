@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-336-rudrapur",
+  "constituency": {
+    "number": 336,
+    "name": "Rudrapur",
+    "district": "Deoria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jai Prakash Nishad",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Shashtri (Graduate) From Complete Sanskrit University Varanasi in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10375163,
+      "immovable": 25782500,
+      "total": 36157663,
+      "liabilities": 945000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3702",
+    "retrieved": "2026-08-27"
+  }
+}

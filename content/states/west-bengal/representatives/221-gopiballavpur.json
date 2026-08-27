@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-221-gopiballavpur",
+  "constituency": {
+    "number": 221,
+    "name": "Gopiballavpur",
+    "district": "Jhargram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Mahata",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Assistant Teacher at Benapur High School (H.S)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Eng) from Vidyasagar University 1998 & Bachelor of Education 1st Class Vidyasagr University in 2000"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1211206,
+      "immovable": 7200000,
+      "total": 8411206,
+      "liabilities": 2661000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=544",
+    "retrieved": "2026-08-27"
+  }
+}

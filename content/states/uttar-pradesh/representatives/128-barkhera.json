@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-128-barkhera",
+  "constituency": {
+    "number": 128,
+    "name": "Barkhera",
+    "district": "Pilibhit",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaydrath Alias Pravaktanand",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Satsang And Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From Adarsh College Gurukul Shahi Pilibhit, Hindi Sahitya Sammelan Allahabad in 2016"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1726902,
+      "immovable": 250000,
+      "total": 1976902,
+      "liabilities": 1784589
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2802",
+    "retrieved": "2026-08-27"
+  }
+}

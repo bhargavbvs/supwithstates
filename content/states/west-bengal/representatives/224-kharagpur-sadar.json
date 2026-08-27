@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-224-kharagpur-sadar",
+  "constituency": {
+    "number": 224,
+    "name": "Kharagpur Sadar",
+    "district": "Paschim Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dilip Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Party Whole Timer",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Passed All India Trade Test Under The Apprentice Act-1961, from ITI Tollygung in the year 1983, Passed ITI from Jhargram in the year 1982, Passed Madhyamik Pariksha (Secondary Examination) from WB Board of Secondary Education in 1980"
+    },
+    "declared_cases": {
+      "total": 28,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5674106,
+      "immovable": 25545589,
+      "total": 30719695,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1105",
+    "retrieved": "2026-08-27"
+  }
+}

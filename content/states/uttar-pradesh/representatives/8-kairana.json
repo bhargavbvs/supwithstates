@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-8-kairana",
+  "constituency": {
+    "number": 8,
+    "name": "Kairana",
+    "district": "Shamli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nahid Hasan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA from Holmass Institute Australia in 2010"
+    },
+    "declared_cases": {
+      "total": 16,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1022232,
+      "immovable": 30400000,
+      "total": 31422232,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1",
+    "retrieved": "2026-08-27"
+  }
+}

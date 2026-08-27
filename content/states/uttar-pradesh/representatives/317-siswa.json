@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-317-siswa",
+  "constituency": {
+    "number": 317,
+    "name": "Siswa",
+    "district": "Mahrajganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Premsagar Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "MLA & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Jawaharlal Nehru PG College Maharajganj Deen Dayal Upadhay University Gorakhpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2880386,
+      "immovable": 29800000,
+      "total": 32680386,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4075",
+    "retrieved": "2026-08-27"
+  }
+}

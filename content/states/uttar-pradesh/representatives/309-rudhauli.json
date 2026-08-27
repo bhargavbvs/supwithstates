@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-309-rudhauli",
+  "constituency": {
+    "number": 309,
+    "name": "Rudhauli",
+    "district": "Basti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Prasad Chaudhary",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Shiv Harsh Kisan P.G. College Gorakhpur University Year 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32440052,
+      "immovable": 10909000,
+      "total": 111758532,
+      "liabilities": 48622340
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4198",
+    "retrieved": "2026-08-27"
+  }
+}

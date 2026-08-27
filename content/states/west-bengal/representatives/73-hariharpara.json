@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-73-hariharpara",
+  "constituency": {
+    "number": 73,
+    "name": "Hariharpara",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Niamot Sheikh",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Politician (Member of Legislative Assembly), Social Worker and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed Senior Secondary School Examination from National Institute of Open Schooling in 2025"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11586893,
+      "immovable": 9637750,
+      "total": 21224652,
+      "liabilities": 1675918
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=377",
+    "retrieved": "2026-08-27"
+  }
+}

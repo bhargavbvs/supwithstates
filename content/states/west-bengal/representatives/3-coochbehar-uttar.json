@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-3-coochbehar-uttar",
+  "constituency": {
+    "number": 3,
+    "name": "Coochbehar Uttar",
+    "district": "Koch Bih>r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sukumar Ray",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Business & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class VIII Pass from Patlakhawa High School Year 1987"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2461406,
+      "immovable": 18060000,
+      "total": 20524682,
+      "liabilities": 525275
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=229",
+    "retrieved": "2026-08-27"
+  }
+}

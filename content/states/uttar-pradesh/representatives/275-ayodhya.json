@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-275-ayodhya",
+  "constituency": {
+    "number": 275,
+    "name": "Ayodhya",
+    "district": "Ayodhya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ved Prakash",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 74,
+    "profession": "Salary From Narveda Motors Pvt. Ltd. as a Director",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From N.R.C. College, Khurja, Bulandshahar, Meerut University, Year-1967"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13500912,
+      "immovable": 41800000,
+      "total": 55300914,
+      "liabilities": 1286050
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3230",
+    "retrieved": "2026-08-27"
+  }
+}

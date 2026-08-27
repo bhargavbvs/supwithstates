@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-142-magrahat-paschim",
+  "constituency": {
+    "number": 142,
+    "name": "Magrahat Paschim",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md. Samim Ahamed Molla",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration from Suresh Gyan Vihar University in 2023"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3413252,
+      "immovable": 0,
+      "total": 3413257,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2868",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-19-barhapur",
+  "constituency": {
+    "number": 19,
+    "name": "Barhapur",
+    "district": "Bijnor",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kunwar Sushant Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 33,
+    "profession": "Agriculture & Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from St Stephens College Delhi University in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28284579,
+      "immovable": 40400000,
+      "total": 68684579,
+      "liabilities": 300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=831",
+    "retrieved": "2026-08-27"
+  }
+}

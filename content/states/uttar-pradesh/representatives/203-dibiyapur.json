@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-203-dibiyapur",
+  "constituency": {
+    "number": 203,
+    "name": "Dibiyapur",
+    "district": "Auraiya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Kumar Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Lucknow University Lucknow in 1979, B.A. from K.K. Degree College Etawah in 1975"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 21671831,
+      "immovable": 46300000,
+      "total": 67971831,
+      "liabilities": 2093281
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1604",
+    "retrieved": "2026-08-27"
+  }
+}

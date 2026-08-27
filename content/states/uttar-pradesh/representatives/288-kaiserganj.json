@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-288-kaiserganj",
+  "constituency": {
+    "number": 288,
+    "name": "Kaiserganj",
+    "district": "Bahraich",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anand Kumar",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Advocate And Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB-1990, Lucknow University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2109346,
+      "immovable": 14000000,
+      "total": 16109346,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3338",
+    "retrieved": "2026-08-27"
+  }
+}

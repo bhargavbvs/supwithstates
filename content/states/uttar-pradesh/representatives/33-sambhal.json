@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-33-sambhal",
+  "constituency": {
+    "number": 33,
+    "name": "Sambhal",
+    "district": "Sambhal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Iqbal Mehmood",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From Aligarh Muslim University, Aligarh, Year-1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13145862,
+      "immovable": 90000000,
+      "total": 102346198,
+      "liabilities": 140686
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=943",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-112-bisauli",
+  "constituency": {
+    "number": 112,
+    "name": "Bisauli",
+    "district": "Budaun",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ashutosh Maurya Alias Raju",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from UP Board"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20255183,
+      "immovable": 279261000,
+      "total": 304793053,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=907",
+    "retrieved": "2026-08-27"
+  }
+}

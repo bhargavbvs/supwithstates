@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-81-chhata",
+  "constituency": {
+    "number": 81,
+    "name": "Chhata",
+    "district": "Mathura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Laxmi Narayan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Agriculture, Cooking Gas Distributor, Business, MLAs Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A., LLB from Agra University Agra, In 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20931461,
+      "immovable": 119871100,
+      "total": 140579164,
+      "liabilities": 2950000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=15",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-252-manjhanpur",
+  "constituency": {
+    "number": 252,
+    "name": "Manjhanpur",
+    "district": "Kaushambi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Indrajeet Saroj",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture & Ex MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Allahabad University Allahabad In 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 83251899,
+      "immovable": 60091420,
+      "total": 143343340,
+      "liabilities": 22737132
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3187",
+    "retrieved": "2026-08-27"
+  }
+}

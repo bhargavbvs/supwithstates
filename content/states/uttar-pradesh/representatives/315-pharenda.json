@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-315-pharenda",
+  "constituency": {
+    "number": 315,
+    "name": "Pharenda",
+    "district": "Mahrajganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Virendra Chaudhary",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Civil) From Sidda Ganga Institute of Technology Tumkur Karnataka, Year-1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1443000,
+      "immovable": 52150000,
+      "total": 53593000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4055",
+    "retrieved": "2026-08-27"
+  }
+}

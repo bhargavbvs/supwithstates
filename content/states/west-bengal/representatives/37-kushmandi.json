@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-37-kushmandi",
+  "constituency": {
+    "number": 37,
+    "name": "Kushmandi",
+    "district": "Dakshin Din>jpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Tapas Chandra Roy",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From North Bengal University, 2009"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1460222,
+      "immovable": 0,
+      "total": 1460222,
+      "liabilities": 119648
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=442",
+    "retrieved": "2026-08-27"
+  }
+}

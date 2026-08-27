@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-116-bidhannagar",
+  "constituency": {
+    "number": 116,
+    "name": "Bidhannagar",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sharadwat Mukherjee",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Practicing Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Doctor of Medicine(MD) From University College of Medicine, Calcutta University In The Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 139226453,
+      "immovable": 18000000,
+      "total": 157226453,
+      "liabilities": 4830854
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2723",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-153-misrikh",
+  "constituency": {
+    "number": 153,
+    "name": "Misrikh",
+    "district": "Sitapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramkrishna Bhargava",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Agriculture & Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermidiate From Raja Raghuvar Dayal Inter College Sitapur in 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5177632,
+      "immovable": 15600000,
+      "total": 20777673,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2451",
+    "retrieved": "2026-08-27"
+  }
+}

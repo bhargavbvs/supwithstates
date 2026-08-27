@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-33-hemtabad",
+  "constituency": {
+    "number": 33,
+    "name": "Hemtabad",
+    "district": "Uttar Din>jpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Haripada Barman",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "School Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science (M.Sc) from North Bengal Unversity, in the year 2008 and B.Ed. from Netaji Subhas Open University in the year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14455883,
+      "immovable": 3200000,
+      "total": 17655883,
+      "liabilities": 2365920
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=382",
+    "retrieved": "2026-08-27"
+  }
+}

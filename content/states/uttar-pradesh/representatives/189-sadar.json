@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-189-sadar",
+  "constituency": {
+    "number": 189,
+    "name": "Sadar",
+    "district": "Sultanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raj Prasad Upadhyay",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Social Work ,Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate Year 1979 & LL.B. Year 1982 From K.S. Saket P.G. College, Faizabad (Dr. Rammanohar Lohiya Avadh University Faizabad)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16389024,
+      "immovable": 53835000,
+      "total": 70224026,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3541",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-101-amanpur",
+  "constituency": {
+    "number": 101,
+    "name": "Amanpur",
+    "district": "Kasganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hariom",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Agriculture Land & Jigsaw Machine Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Anar Singh Inter College Ranamau, Amanpur in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6648217,
+      "immovable": 15900000,
+      "total": 21921218,
+      "liabilities": 427000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1799",
+    "retrieved": "2026-08-27"
+  }
+}

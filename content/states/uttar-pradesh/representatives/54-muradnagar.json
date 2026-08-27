@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-54-muradnagar",
+  "constituency": {
+    "number": 54,
+    "name": "Muradnagar",
+    "district": "Ghaziabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajit Pal Tyagi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "MLAs Salary Rs. 125000/- and Allowance, Company Director",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., LLB from Krishna College of Law from Bijnor Mahatma Jyotiba Phule Rohilkhand University, Bareilly UP in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24989984,
+      "immovable": 68986189,
+      "total": 93976473,
+      "liabilities": 10600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=134",
+    "retrieved": "2026-08-27"
+  }
+}

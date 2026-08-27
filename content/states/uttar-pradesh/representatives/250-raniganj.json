@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-250-raniganj",
+  "constituency": {
+    "number": 250,
+    "name": "Raniganj",
+    "district": "Pratapgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Kumar Verma Alias Dr. R. K. Verma",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BAMS From Hemwati Nandan Bahuguna University Sri Nagar Garhwal, B.Sc From Paryagraj University in 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27474482,
+      "immovable": 42272000,
+      "total": 70083790,
+      "liabilities": 3495095
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2986",
+    "retrieved": "2026-08-27"
+  }
+}

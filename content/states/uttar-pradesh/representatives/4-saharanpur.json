@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-4-saharanpur",
+  "constituency": {
+    "number": 4,
+    "name": "Saharanpur",
+    "district": "Saharanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashu Malik",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Business, Pension and Rent",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from boys inter college, modinagar, ghaziabad in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13248836,
+      "immovable": 16600000,
+      "total": 29848836,
+      "liabilities": 6540841
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=933",
+    "retrieved": "2026-08-27"
+  }
+}

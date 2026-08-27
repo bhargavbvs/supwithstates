@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-238-jahanabad",
+  "constituency": {
+    "number": 238,
+    "name": "Jahanabad",
+    "district": "Fatehpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Singh Patel",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Pensioner, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. III from Kanpur University Kanpur in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2281206,
+      "immovable": 7145000,
+      "total": 9426206,
+      "liabilities": 100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2839",
+    "retrieved": "2026-08-27"
+  }
+}

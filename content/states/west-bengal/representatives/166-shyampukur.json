@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-166-shyampukur",
+  "constituency": {
+    "number": 166,
+    "name": "Shyampukur",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Purnima Chakraborty",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Passed From West Bengal Council of Higher Secondary Education in the Year 2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6353399,
+      "immovable": 800000,
+      "total": 7153400,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2342",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-307-harraiya",
+  "constituency": {
+    "number": 307,
+    "name": "Harraiya",
+    "district": "Basti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Public Work & Consultation",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA in 1997, LLB in 2003, Graduate in 1994 from Lucknow University Lucknow"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9222264,
+      "immovable": 130675467,
+      "total": 139897731,
+      "liabilities": 7063415
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4171",
+    "retrieved": "2026-08-27"
+  }
+}

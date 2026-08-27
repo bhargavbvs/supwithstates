@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-285-suri",
+  "constituency": {
+    "number": 285,
+    "name": "Suri",
+    "district": "B|rbh@m",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagannath Chattopadhyay",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Journalist and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA - Journalism & Mass Communication in the year 2001 under the University of Calcutta"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15324425,
+      "immovable": 4200000,
+      "total": 19524400,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=277",
+    "retrieved": "2026-08-27"
+  }
+}

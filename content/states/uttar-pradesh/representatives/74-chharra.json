@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-74-chharra",
+  "constituency": {
+    "number": 74,
+    "name": "Chharra",
+    "district": "Aligarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravendra Pal Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "MLA Salary, Allowances, Rent & Saving Account Interest",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School in Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5625784,
+      "immovable": 110900000,
+      "total": 80534784,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=105",
+    "retrieved": "2026-08-27"
+  }
+}

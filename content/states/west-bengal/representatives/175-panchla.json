@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-175-panchla",
+  "constituency": {
+    "number": 175,
+    "name": "Panchla",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gulsan Mullick",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University from Prabhu Jagabandhu College, Andul Howrah, University of Calcutta in 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9472380,
+      "immovable": 19847650,
+      "total": 29320031,
+      "liabilities": 284541
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2452",
+    "retrieved": "2026-08-27"
+  }
+}

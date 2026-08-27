@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-148-bhangar",
+  "constituency": {
+    "number": 148,
+    "name": "Bhangar",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md Nawsad Siddique",
+    "election": "2026",
+    "elected_party": "All India Secular Front",
+    "current_party": "All India Secular Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 33,
+    "profession": "Cultivation & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Aliah University in the year of 2015"
+    },
+    "declared_cases": {
+      "total": 16,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3350072,
+      "immovable": 2219160,
+      "total": 5569232,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2707",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-207-sikandra",
+  "constituency": {
+    "number": 207,
+    "name": "Sikandra",
+    "district": "Kanpur Dehat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajit Singh Pal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Engineer, Agriculture, MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Tech from National Technical University Kharkiv Ukraine in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7131249,
+      "immovable": 20900000,
+      "total": 28031251,
+      "liabilities": 718462
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1739",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-185-gauriganj",
+  "constituency": {
+    "number": 185,
+    "name": "Gauriganj",
+    "district": "Amethi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Pratap Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Social Worker & Legislature Salary",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Highschool from Uttar Pradesh M. Shiksha Parishad Allahabad (S.P.I.C Raniganj Kaithola Pratapgarh) in 1991"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8158064,
+      "immovable": 19950000,
+      "total": 29771473,
+      "liabilities": 3797901
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3096",
+    "retrieved": "2026-08-27"
+  }
+}

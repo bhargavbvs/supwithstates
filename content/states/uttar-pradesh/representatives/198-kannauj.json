@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-198-kannauj",
+  "constituency": {
+    "number": 198,
+    "name": "Kannauj",
+    "district": "Kannauj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Asim Arun",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Retirement (IPS)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From University of British Columbia, Vancouver, Canada in 2014-15"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18745217,
+      "immovable": 64027000,
+      "total": 82772217,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1729",
+    "retrieved": "2026-08-27"
+  }
+}

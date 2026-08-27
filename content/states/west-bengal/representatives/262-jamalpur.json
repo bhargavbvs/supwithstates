@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-262-jamalpur",
+  "constituency": {
+    "number": 262,
+    "name": "Jamalpur",
+    "district": "Purba Barddham>n",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Arun Halder",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Calcutta University in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16484774,
+      "immovable": 16000000,
+      "total": 32622774,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2013",
+    "retrieved": "2026-08-27"
+  }
+}

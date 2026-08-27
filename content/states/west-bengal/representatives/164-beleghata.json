@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-164-beleghata",
+  "constituency": {
+    "number": 164,
+    "name": "Beleghata",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kunal Kumar Ghosh",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Media Management from Indian Institute of Skill Development Training in 2026, Diploma in Tourism Studies- Alison in 2025, Diploma in Public Relations in 2025, BA from Sikkim Mapipal University"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 34764907,
+      "immovable": 6500000,
+      "total": 41265007,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1680",
+    "retrieved": "2026-08-27"
+  }
+}

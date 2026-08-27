@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-387-rohaniya",
+  "constituency": {
+    "number": 387,
+    "name": "Rohaniya",
+    "district": "Varanasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Sunil Patel",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D from Udai Pratap College Varanasi In 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6150000,
+      "immovable": 0,
+      "total": 6150000,
+      "liabilities": 2592000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4372",
+    "retrieved": "2026-08-27"
+  }
+}

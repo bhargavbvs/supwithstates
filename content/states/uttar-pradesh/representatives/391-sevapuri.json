@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-391-sevapuri",
+  "constituency": {
+    "number": 391,
+    "name": "Sevapuri",
+    "district": "Varanasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Neel Ratan Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Interest",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Sarvodaya Intermediate College Adhwar Mirzapur In 1989"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6973958,
+      "immovable": 12400000,
+      "total": 19373958,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4385",
+    "retrieved": "2026-08-27"
+  }
+}

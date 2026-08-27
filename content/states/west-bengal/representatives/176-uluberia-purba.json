@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-176-uluberia-purba",
+  "constituency": {
+    "number": 176,
+    "name": "Uluberia Purba",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ritabrata Banerjee",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters in Arts (English), Calcutta University, in the year of 2003"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19994533,
+      "immovable": 13202640,
+      "total": 33197176,
+      "liabilities": 3290200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1682",
+    "retrieved": "2026-08-27"
+  }
+}

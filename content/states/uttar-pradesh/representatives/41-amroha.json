@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-41-amroha",
+  "constituency": {
+    "number": 41,
+    "name": "Amroha",
+    "district": "Amroha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mehboob Ali",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Agriculture & MLA Wages",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter mediate from MAI College Muradabad, UP Board Allahabad in 1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11172141,
+      "immovable": 67500000,
+      "total": 78672141,
+      "liabilities": 3333333
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=872",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-134-powayan",
+  "constituency": {
+    "number": 134,
+    "name": "Powayan",
+    "district": "Shahjahanpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Chetram",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture, MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., LLB from Shiya Degree College, Lucknow (Lucknow University) in 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6061146,
+      "immovable": 12900000,
+      "total": 18961186,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=951",
+    "retrieved": "2026-08-27"
+  }
+}

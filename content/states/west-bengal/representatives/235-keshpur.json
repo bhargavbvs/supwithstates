@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-235-keshpur",
+  "constituency": {
+    "number": 235,
+    "name": "Keshpur",
+    "district": "Paschim Medin|pur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Seuli Saha",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. In 990 B.Ed. In 1995 From Vidyasagar University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15141504,
+      "immovable": 31813750,
+      "total": 47095254,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=426",
+    "retrieved": "2026-08-27"
+  }
+}

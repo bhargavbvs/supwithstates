@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-305-itwa",
+  "constituency": {
+    "number": 305,
+    "name": "Itwa",
+    "district": "Siddharthnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mata Prasad Pandey",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 80,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Gorakhpur University In 1965 & BA From Gorakhpur University in 1963"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11653780,
+      "immovable": 48200000,
+      "total": 57293780,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3941",
+    "retrieved": "2026-08-27"
+  }
+}

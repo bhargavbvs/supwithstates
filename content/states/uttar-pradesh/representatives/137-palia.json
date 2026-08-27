@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-137-palia",
+  "constituency": {
+    "number": 137,
+    "name": "Palia",
+    "district": "Kheri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harvinder Kumar Sahni Alias Romi Sahni",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculturist/ Business and Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Ken Grovers Nehru Degree College Gola Gokarnath Kheri in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69717066,
+      "immovable": 218500000,
+      "total": 288217066,
+      "liabilities": 40455075
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2764",
+    "retrieved": "2026-08-27"
+  }
+}

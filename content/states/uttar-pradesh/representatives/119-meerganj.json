@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-119-meerganj",
+  "constituency": {
+    "number": 119,
+    "name": "Meerganj",
+    "district": "Bareilly",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. D. C. Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Doctor (Animal Medical Clinic)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.S.C in 2001 from IBRI. Izzatnagar, Bareilly, BBSC & A.H in 1996 from Veterinary College Mathura, CSA University Kanpur."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17720010,
+      "immovable": 22068135,
+      "total": 39788154,
+      "liabilities": 1412450
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=875",
+    "retrieved": "2026-08-27"
+  }
+}

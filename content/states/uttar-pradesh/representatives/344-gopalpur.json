@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-344-gopalpur",
+  "constituency": {
+    "number": 344,
+    "name": "Gopalpur",
+    "district": "Azamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nafees Ahmad",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in 2016 from Ch. Shahuji Maharaj University Kanpur, B.A. in 2003 from Aligarh Muslim University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5292775,
+      "immovable": 5739000,
+      "total": 10876777,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4253",
+    "retrieved": "2026-08-27"
+  }
+}

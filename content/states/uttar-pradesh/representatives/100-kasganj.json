@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-100-kasganj",
+  "constituency": {
+    "number": 100,
+    "name": "Kasganj",
+    "district": "Kasganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th pass from Swami Krishna Nand Inter College, Jalali Aligarh in 1981-1982"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9563619,
+      "immovable": 14800000,
+      "total": 24326701,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1796",
+    "retrieved": "2026-08-27"
+  }
+}

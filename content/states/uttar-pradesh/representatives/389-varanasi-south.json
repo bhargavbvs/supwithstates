@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-389-varanasi-south",
+  "constituency": {
+    "number": 389,
+    "name": "Varanasi South",
+    "district": "Varanasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Neelkanth Tiwari",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Member of the Legislative Assembly & Minister of State Uttar Pradesh",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hd, Year 2003 Sampurnanand Sanskrit Vishwavidyalaya , Post Graduation (Philosophy) Yera 1998 Mahatma Gandhi Kashi Vidyapith Vranasi"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7285856,
+      "immovable": 9000000,
+      "total": 16285857,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4438",
+    "retrieved": "2026-08-27"
+  }
+}

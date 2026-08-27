@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-162-chowrangee",
+  "constituency": {
+    "number": 162,
+    "name": "Chowrangee",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bandyopadhyay Nayna",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Social Worker (M.L.A)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary, Arts, from Apeejay House, ICSC Board in the year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69836876,
+      "immovable": 35033444,
+      "total": 104870326,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2914",
+    "retrieved": "2026-08-27"
+  }
+}

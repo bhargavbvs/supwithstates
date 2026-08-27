@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-79-sadabad",
+  "constituency": {
+    "number": 79,
+    "name": "Sadabad",
+    "district": "Hathras",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Kumar Singh",
+    "election": "2022",
+    "elected_party": "RLD",
+    "current_party": "RLD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate from Agra University, Agra in 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 62128879,
+      "immovable": 175055390,
+      "total": 236884269,
+      "liabilities": 49090791
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2068",
+    "retrieved": "2026-08-27"
+  }
+}

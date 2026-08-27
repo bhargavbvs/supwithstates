@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-207-nandakumar",
+  "constituency": {
+    "number": 207,
+    "name": "Nandakumar",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khanra Nirmal",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "School Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Education), Bachelor of Education (B.ED) from Fokirchand College at Kolkata, in 2008-10"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3657800,
+      "immovable": 14360000,
+      "total": 18017800,
+      "liabilities": 1672000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=357",
+    "retrieved": "2026-08-27"
+  }
+}

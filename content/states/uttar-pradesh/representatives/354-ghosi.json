@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-354-ghosi",
+  "constituency": {
+    "number": 354,
+    "name": "Ghosi",
+    "district": "Mau",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudhakar Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture, Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Sociology ) from Gorakhpur University UP in 1983"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7150000,
+      "immovable": 15350000,
+      "total": 22500000,
+      "liabilities": 1800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4901",
+    "retrieved": "2026-08-27"
+  }
+}

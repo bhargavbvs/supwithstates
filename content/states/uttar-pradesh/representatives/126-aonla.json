@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-126-aonla",
+  "constituency": {
+    "number": 126,
+    "name": "Aonla",
+    "district": "Bareilly",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dharmpal Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A., L.L.B., B.Ed. , BTC, Bareilly Ruhilkhand University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10093373,
+      "immovable": 17890000,
+      "total": 29367373,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1097",
+    "retrieved": "2026-08-27"
+  }
+}

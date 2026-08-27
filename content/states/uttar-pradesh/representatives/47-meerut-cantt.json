@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-47-meerut-cantt",
+  "constituency": {
+    "number": 47,
+    "name": "Meerut Cantt.",
+    "district": "Meerut",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amit Agarwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Business, Agriculture Income, Former MLA Pension & Pension Loktantra Sainani",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From DAV College Dehradun Garhwal University Srinagar in 1977"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1266374799,
+      "immovable": 221289742,
+      "total": 1487664557,
+      "liabilities": 132973880
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=212",
+    "retrieved": "2026-08-27"
+  }
+}

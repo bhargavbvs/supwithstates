@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-291-tulsipur",
+  "constituency": {
+    "number": 291,
+    "name": "Tulsipur",
+    "district": "Balrampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kailash Nath",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Lucknow University Lucknow in 1961"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6207271,
+      "immovable": 12394300,
+      "total": 18257290,
+      "liabilities": 419657
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4144",
+    "retrieved": "2026-08-27"
+  }
+}

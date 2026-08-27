@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-124-basirhat-dakshin",
+  "constituency": {
+    "number": 124,
+    "name": "Basirhat Dakshin",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surajit Mitra (Badal)",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Accountant of Basirhat College and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts From Basirhat College under Calcutta University in 1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 15094754,
+      "immovable": 3239586,
+      "total": 18334340,
+      "liabilities": 1035149
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2666",
+    "retrieved": "2026-08-27"
+  }
+}

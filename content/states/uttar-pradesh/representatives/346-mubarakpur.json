@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-346-mubarakpur",
+  "constituency": {
+    "number": 346,
+    "name": "Mubarakpur",
+    "district": "Azamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akhilesh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Agriculture & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From UP Board Allahabad in 1980"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 994857,
+      "immovable": 653343,
+      "total": 1648201,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4280",
+    "retrieved": "2026-08-27"
+  }
+}

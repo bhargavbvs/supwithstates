@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-156-hardoi",
+  "constituency": {
+    "number": 156,
+    "name": "Hardoi",
+    "district": "Hardoi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nitin Agarwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Agriculture/Rent/Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A. From S.I..E.C. Puna in 2004 , B.Com From Delhi University in 2002, High School From Sant Jaims School, Hardoi CBSE Board in 1997, Intermediate From D.P.S.Delhi CBSE Board in 1999,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 156851000,
+      "immovable": 158391000,
+      "total": 315242000,
+      "liabilities": 34097000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2597",
+    "retrieved": "2026-08-27"
+  }
+}

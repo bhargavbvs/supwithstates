@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-55-sahibabad",
+  "constituency": {
+    "number": 55,
+    "name": "Sahibabad",
+    "district": "Ghaziabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunil Kumar Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "MLAs Salary and Allowance",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from M.M.H Degree College Ghaziabad, Meerut University in 1983, LLB from M.M.H. Degree College, Ghaziabad, Meerut University in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4353065,
+      "immovable": 9135000,
+      "total": 13488067,
+      "liabilities": 1552500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=33",
+    "retrieved": "2026-08-27"
+  }
+}

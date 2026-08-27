@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-199-jaswantnagar",
+  "constituency": {
+    "number": 199,
+    "name": "Jaswantnagar",
+    "district": "Etawah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shivpal Singh Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Social work and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. P.Ed from Christian College, Lucknow, Lucknow University in 1977, B.A from K.K. Degree College, Etawah in 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53891661,
+      "immovable": 61993495,
+      "total": 117790853,
+      "liabilities": 30003034
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1628",
+    "retrieved": "2026-08-27"
+  }
+}

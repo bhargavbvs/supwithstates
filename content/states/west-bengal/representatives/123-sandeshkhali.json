@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-123-sandeshkhali",
+  "constituency": {
+    "number": 123,
+    "name": "Sandeshkhali",
+    "district": "North Twenty-Four Parganas",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sanat Sardar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Asst. Teacher of Rameswarpur Nehru Vidyaniketan",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master o Arts from Rabindra Bharati University in 2018"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1788650,
+      "immovable": 7000000,
+      "total": 8788651,
+      "liabilities": 2847195
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1712",
+    "retrieved": "2026-08-27"
+  }
+}

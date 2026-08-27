@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-358-rasara",
+  "constituency": {
+    "number": 358,
+    "name": "Rasara",
+    "district": "Ballia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umashankar Singh",
+    "election": "2022",
+    "elected_party": "BSP",
+    "current_party": "BSP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate form Board of Secondary Education U.P. in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 180560291,
+      "immovable": 359944229,
+      "total": 540504522,
+      "liabilities": 135547575
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3576",
+    "retrieved": "2026-08-27"
+  }
+}

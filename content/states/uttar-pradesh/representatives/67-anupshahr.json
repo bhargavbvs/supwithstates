@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-67-anupshahr",
+  "constituency": {
+    "number": 67,
+    "name": "Anupshahr",
+    "district": "Bulandshahr",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Kumar Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.E.(Master of Engineering) from Delhi Engineering College in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15058042,
+      "immovable": 7450000,
+      "total": 35186343,
+      "liabilities": 6404523
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=39",
+    "retrieved": "2026-08-27"
+  }
+}

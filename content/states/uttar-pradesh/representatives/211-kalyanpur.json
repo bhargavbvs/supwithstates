@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-211-kalyanpur",
+  "constituency": {
+    "number": 211,
+    "name": "Kalyanpur",
+    "district": "Kanpur Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Neelima Katiyar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Rent, Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Chhatrapati Shahu Ji Maharaj University, Kanpur in 2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8336316,
+      "immovable": 22250000,
+      "total": 30546316,
+      "liabilities": 942838
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1759",
+    "retrieved": "2026-08-27"
+  }
+}

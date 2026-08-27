@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-58-dholana",
+  "constituency": {
+    "number": 58,
+    "name": "Dholana",
+    "district": "Hapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dharmesh Singh Tomar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Pension and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Economics) from Meerut College in 1989, B.Ed. from Meerut University in 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8077168,
+      "immovable": 94700000,
+      "total": 102777168,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=66",
+    "retrieved": "2026-08-27"
+  }
+}

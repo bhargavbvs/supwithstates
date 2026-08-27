@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-203-tamluk",
+  "constituency": {
+    "number": 203,
+    "name": "Tamluk",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hare Krishna Bera",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Physician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS, in the year 1985 M.D. (Medicine) in the year 1992 Calcutta University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43014028,
+      "immovable": 36300000,
+      "total": 79314028,
+      "liabilities": 2705775
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=674",
+    "retrieved": "2026-08-27"
+  }
+}

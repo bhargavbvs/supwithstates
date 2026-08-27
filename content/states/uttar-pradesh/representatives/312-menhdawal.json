@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-312-menhdawal",
+  "constituency": {
+    "number": 312,
+    "name": "Menhdawal",
+    "district": "Sant Kabir Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Kumar Tripathi",
+    "election": "2022",
+    "elected_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "current_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Business, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma (Civil Engineering) from Govt. Polytechnic, Lucknow in 1987"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 92799030,
+      "immovable": 99350000,
+      "total": 192149033,
+      "liabilities": 34805254
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3875",
+    "retrieved": "2026-08-27"
+  }
+}

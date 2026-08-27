@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-50-chhaprauli",
+  "constituency": {
+    "number": 50,
+    "name": "Chhaprauli",
+    "district": "Baghpat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Kumar",
+    "election": "2022",
+    "elected_party": "RLD",
+    "current_party": "RLD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From Ch. Charan Singh University Meerut in 1997"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15408879,
+      "immovable": 29127305,
+      "total": 44536185,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=676",
+    "retrieved": "2026-08-27"
+  }
+}

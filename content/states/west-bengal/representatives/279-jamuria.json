@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-279-jamuria",
+  "constituency": {
+    "number": 279,
+    "name": "Jamuria",
+    "district": "Paschim Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Bijan Mukherjee",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Medical Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Surgery, Gynaecology from Dr. NTR University of Health Science in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54754614,
+      "immovable": 24998670,
+      "total": 78853284,
+      "liabilities": 9188786
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=146",
+    "retrieved": "2026-08-27"
+  }
+}

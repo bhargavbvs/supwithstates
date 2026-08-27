@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-142-lakhimpur",
+  "constituency": {
+    "number": 142,
+    "name": "Lakhimpur",
+    "district": "Kheri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogesh Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Yuvraj Dutt College Kanpur University in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11966169,
+      "immovable": 30222000,
+      "total": 42188169,
+      "liabilities": 1152265
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2788",
+    "retrieved": "2026-08-27"
+  }
+}

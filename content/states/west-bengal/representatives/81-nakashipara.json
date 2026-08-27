@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-81-nakashipara",
+  "constituency": {
+    "number": 81,
+    "name": "Nakashipara",
+    "district": "Nadia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Santanu Dey",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Bethuadahari J.C.M High School Under West Bengal Council of Higher Secondary Education In The Year 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1133070,
+      "immovable": 9200000,
+      "total": 10333070,
+      "liabilities": 223081
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2269",
+    "retrieved": "2026-08-27"
+  }
+}

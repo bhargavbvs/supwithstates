@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-30-bilari",
+  "constituency": {
+    "number": 30,
+    "name": "Bilari",
+    "district": "Moradabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohammad Faheem Irfan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from K.G.K. College Muradabad Sambandh Mahatma Jyotibaphule Ruhelkhand University Bareilly in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1745178,
+      "immovable": 43914000,
+      "total": 45659179,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=844",
+    "retrieved": "2026-08-27"
+  }
+}

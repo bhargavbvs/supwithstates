@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-240-fatehpur",
+  "constituency": {
+    "number": 240,
+    "name": "Fatehpur",
+    "district": "Fatehpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandra Prakash",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Advocacy, Law Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA & LLB"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4361848,
+      "immovable": 16800000,
+      "total": 22655633,
+      "liabilities": 2301320
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2827",
+    "retrieved": "2026-08-27"
+  }
+}

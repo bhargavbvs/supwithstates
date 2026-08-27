@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-168-malihabad",
+  "constituency": {
+    "number": 168,
+    "name": "Malihabad",
+    "district": "Lucknow",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jai Devi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculture, MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": null
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8501696,
+      "immovable": 70300000,
+      "total": 78711696,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2728",
+    "retrieved": "2026-08-27"
+  }
+}

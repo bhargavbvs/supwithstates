@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-235-banda",
+  "constituency": {
+    "number": 235,
+    "name": "Banda",
+    "district": "Banda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prakash Dwivedi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation (B.A) From Atria University Post Graduate College- Bundelkhand University, Jhansi Uttar Pradesh"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 93412669,
+      "immovable": 182500000,
+      "total": 275912664,
+      "liabilities": 58129900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2257",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-61-lalgola",
+  "constituency": {
+    "number": 61,
+    "name": "Lalgola",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abdul Aziz Doctor",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 30,
+    "profession": "Doctor, Child Specialist - MBBS, MD (Paediatrics)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD Paediatrics, West Bengal University of Health Sciences (WBUHS) 2025"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26858242,
+      "immovable": 36050000,
+      "total": 62908242,
+      "liabilities": 3850000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=447",
+    "retrieved": "2026-08-27"
+  }
+}

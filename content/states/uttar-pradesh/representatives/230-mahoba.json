@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-230-mahoba",
+  "constituency": {
+    "number": 230,
+    "name": "Mahoba",
+    "district": "Mahoba",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Kumar Goswami",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Agriculture"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 58745334,
+      "immovable": 14263400,
+      "total": 72948737,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1806",
+    "retrieved": "2026-08-27"
+  }
+}

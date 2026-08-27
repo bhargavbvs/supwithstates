@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-248-pratapgarh",
+  "constituency": {
+    "number": 248,
+    "name": "Pratapgarh",
+    "district": "Pratapgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Awadh University Faizabad UP in 1987"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9023941,
+      "immovable": 54700000,
+      "total": 54720241,
+      "liabilities": 1600500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3008",
+    "retrieved": "2026-08-27"
+  }
+}

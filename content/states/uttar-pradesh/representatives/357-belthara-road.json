@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-357-belthara-road",
+  "constituency": {
+    "number": 357,
+    "name": "Belthara Road",
+    "district": "Ballia",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Hansu Ram",
+    "election": "2022",
+    "elected_party": "Suheldev Bharatiya Samaj Party",
+    "current_party": "Suheldev Bharatiya Samaj Party",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Pensioner , Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Political Science) Year 1988, Gorakhpur University , B.Ed. Gandi University Gorakhpur Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7263209,
+      "immovable": 12950000,
+      "total": 22994398,
+      "liabilities": 4100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3572",
+    "retrieved": "2026-08-27"
+  }
+}

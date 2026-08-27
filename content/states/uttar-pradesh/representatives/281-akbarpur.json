@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-281-akbarpur",
+  "constituency": {
+    "number": 281,
+    "name": "Akbarpur",
+    "district": "Ambedkar Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Achal Rajbhar",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Agriculture, Social Worker, MLA Salary & Allowance",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From B.N.K.B. Degree College Akbarpur Ambedkar Nagar In 1978"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1317299,
+      "immovable": 15500000,
+      "total": 16817299,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4164",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-97-firozabad",
+  "constituency": {
+    "number": 97,
+    "name": "Firozabad",
+    "district": "Firozabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manish Asija",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1984 from S.R.K. College, Firozabad, Agra University, Agra"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48269496,
+      "immovable": 46258500,
+      "total": 94527999,
+      "liabilities": 9925556
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1668",
+    "retrieved": "2026-08-27"
+  }
+}

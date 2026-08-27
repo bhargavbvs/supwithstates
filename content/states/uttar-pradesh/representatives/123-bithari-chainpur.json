@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-123-bithari-chainpur",
+  "constituency": {
+    "number": 123,
+    "name": "Bithari Chainpur",
+    "district": "Bareilly",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Raghavendra Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Doctor Consultation",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MS (Orthopedic) in DD Upadhyay Gorakhpur University in April 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55741239,
+      "immovable": 120000000,
+      "total": 170991240,
+      "liabilities": 37787258
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=826",
+    "retrieved": "2026-08-27"
+  }
+}

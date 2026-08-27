@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-220-nayagram",
+  "constituency": {
+    "number": 220,
+    "name": "Nayagram",
+    "district": "Jhargram",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Amiya Kisku",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Assistant Teacher.",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts under Vidyasagar University In 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6192911,
+      "immovable": 4350000,
+      "total": 10542911,
+      "liabilities": 1438705
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1420",
+    "retrieved": "2026-08-27"
+  }
+}

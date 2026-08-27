@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-224-mauranipur",
+  "constituency": {
+    "number": 224,
+    "name": "Mauranipur",
+    "district": "Jhansi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rashmi Arya",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "MLA Pension, Business (Yuvraj Gas Service)",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.Hd, Year 2009 Bundelkhand University, Jhansi, M.A. Yaer 2002 Jiwaji University Gwalior"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21685299,
+      "immovable": 51429000,
+      "total": 73114299,
+      "liabilities": 1799495
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1716",
+    "retrieved": "2026-08-27"
+  }
+}

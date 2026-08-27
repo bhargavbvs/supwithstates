@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-383-chakia",
+  "constituency": {
+    "number": 383,
+    "name": "Chakia",
+    "district": "Chandauli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kailash",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LT, Govt LT College Varanasi-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 738192,
+      "immovable": 1505000,
+      "total": 2243192,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4497",
+    "retrieved": "2026-08-27"
+  }
+}

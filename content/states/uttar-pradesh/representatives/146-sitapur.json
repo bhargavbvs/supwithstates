@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-146-sitapur",
+  "constituency": {
+    "number": 146,
+    "name": "Sitapur",
+    "district": "Sitapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Rathour",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Automobile Workshop",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed From Junior High School, Tareenpur Sitapur in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5770447,
+      "immovable": 3126000,
+      "total": 8896447,
+      "liabilities": 2501000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2519",
+    "retrieved": "2026-08-27"
+  }
+}

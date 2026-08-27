@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-310-basti-sadar",
+  "constituency": {
+    "number": 310,
+    "name": "Basti Sadar",
+    "district": "Basti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahendra Nath Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate from Shivharsh Kisan P.G. College, Basti Gorakhpur University in 2006"
+    },
+    "declared_cases": {
+      "total": 13,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3940064,
+      "immovable": 9500000,
+      "total": 13440065,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4213",
+    "retrieved": "2026-08-27"
+  }
+}

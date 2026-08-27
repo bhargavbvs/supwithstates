@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-91-fatehpur-sikri",
+  "constituency": {
+    "number": 91,
+    "name": "Fatehpur Sikri",
+    "district": "Agra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babulal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Pension, Agriculture & Potato Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from R.C.S. College Agra, Year-1969"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4186718,
+      "immovable": 62950900,
+      "total": 67137618,
+      "liabilities": 900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3",
+    "retrieved": "2026-08-27"
+  }
+}

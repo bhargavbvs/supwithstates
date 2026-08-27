@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-173-lucknow-east",
+  "constituency": {
+    "number": 173,
+    "name": "Lucknow East",
+    "district": "Lucknow",
+    "reserved": null
+  },
+  "representative": {
+    "name": "O. P. Srivastava",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from K.A.D. College Allahabad in 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 93358398,
+      "immovable": 54300000,
+      "total": 147658398,
+      "liabilities": 30170621
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4926",
+    "retrieved": "2026-08-27"
+  }
+}

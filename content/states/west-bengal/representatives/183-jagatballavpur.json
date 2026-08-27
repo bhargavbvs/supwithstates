@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-183-jagatballavpur",
+  "constituency": {
+    "number": 183,
+    "name": "Jagatballavpur",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anupam Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Social Worker and Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation in B.A. from University of Calcutta in the year 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3879668,
+      "immovable": 2220000,
+      "total": 6087669,
+      "liabilities": 2027222
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2006",
+    "retrieved": "2026-08-27"
+  }
+}

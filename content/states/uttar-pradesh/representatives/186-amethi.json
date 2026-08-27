@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-186-amethi",
+  "constituency": {
+    "number": 186,
+    "name": "Amethi",
+    "district": "Amethi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Maharaji Prajapati",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "House Wife, Social Worker, Business",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": null
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23919804,
+      "immovable": 71673000,
+      "total": 95592804,
+      "liabilities": 25644391
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3108",
+    "retrieved": "2026-08-27"
+  }
+}

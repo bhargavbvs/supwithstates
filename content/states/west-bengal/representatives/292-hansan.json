@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-292-hansan",
+  "constituency": {
+    "number": 292,
+    "name": "Hansan",
+    "district": "B|rbh@m",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Fayezul Haque (Kajal Sk)",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Fish Farmer & Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (English) in the year 2012 from CMJ University, Meghalaya"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8202127,
+      "immovable": 25300000,
+      "total": 32887798,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=373",
+    "retrieved": "2026-08-27"
+  }
+}

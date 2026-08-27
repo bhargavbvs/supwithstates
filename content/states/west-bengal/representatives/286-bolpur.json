@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-286-bolpur",
+  "constituency": {
+    "number": 286,
+    "name": "Bolpur",
+    "district": "B|rbh@m",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandranath Sinha",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Cultivation & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science in Mathematics under Viswa - Bharati in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31181287,
+      "immovable": 33679968,
+      "total": 64861255,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=187",
+    "retrieved": "2026-08-27"
+  }
+}

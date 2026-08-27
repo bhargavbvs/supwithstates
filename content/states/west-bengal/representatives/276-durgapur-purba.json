@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-276-durgapur-purba",
+  "constituency": {
+    "number": 276,
+    "name": "Durgapur Purba",
+    "district": "Paschim Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandra Sekhar Banerjee",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from Barjora college affiliated under The Burdwan University ,YR. 2000"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7931546,
+      "immovable": 14050000,
+      "total": 21981546,
+      "liabilities": 2225547
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=243",
+    "retrieved": "2026-08-27"
+  }
+}

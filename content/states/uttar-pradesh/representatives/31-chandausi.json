@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-31-chandausi",
+  "constituency": {
+    "number": 31,
+    "name": "Chandausi",
+    "district": "Sambhal",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gulab Debi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Pension From Education Department and Vidhan Sabha Allowances and Other Sources",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Year 1976 S M College Chandausi, B.Ed., Year 1974 Agra University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8419572,
+      "immovable": 17500000,
+      "total": 25919572,
+      "liabilities": 450000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=852",
+    "retrieved": "2026-08-27"
+  }
+}

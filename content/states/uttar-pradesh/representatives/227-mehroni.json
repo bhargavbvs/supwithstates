@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-227-mehroni",
+  "constituency": {
+    "number": 227,
+    "name": "Mehroni",
+    "district": "Lalitpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manohar Lal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "MLA Salary , Petrol Pump Income , Agriculture & Rent Income",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From UP Board Allahabad Year - 1972 Shri Varni Jain Inter College"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 31647440,
+      "immovable": 120600000,
+      "total": 152247740,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1805",
+    "retrieved": "2026-08-27"
+  }
+}

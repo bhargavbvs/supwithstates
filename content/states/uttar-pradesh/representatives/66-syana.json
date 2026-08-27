@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-66-syana",
+  "constituency": {
+    "number": 66,
+    "name": "Syana",
+    "district": "Bulandshahr",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Singh Lodhi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Lawyer & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1989 from MIEC College Khurja, Choudhry Charan Singh University Meerut U.P"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7683744,
+      "immovable": 31350000,
+      "total": 38000708,
+      "liabilities": 2849339
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=293",
+    "retrieved": "2026-08-27"
+  }
+}

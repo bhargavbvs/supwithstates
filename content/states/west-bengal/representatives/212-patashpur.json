@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-212-patashpur",
+  "constituency": {
+    "number": 212,
+    "name": "Patashpur",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tapan Maity",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Ex. Serviceman & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Pass From Acharya Nagarjuna University, Year 2011"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2823865,
+      "immovable": 52000000,
+      "total": 54823865,
+      "liabilities": 4804572
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=336",
+    "retrieved": "2026-08-27"
+  }
+}

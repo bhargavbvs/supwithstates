@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-323-gorakhpur-rural",
+  "constituency": {
+    "number": 323,
+    "name": "Gorakhpur Rural",
+    "district": "Gorakhpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bipin Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Swami Devanand PG College Mathlar Deoria, Deen Dayal Upadhayay University, Gorakhpur In 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8730611,
+      "immovable": 91000000,
+      "total": 95730611,
+      "liabilities": 2838688
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3658",
+    "retrieved": "2026-08-27"
+  }
+}

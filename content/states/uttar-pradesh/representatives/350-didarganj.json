@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-350-didarganj",
+  "constituency": {
+    "number": 350,
+    "name": "Didarganj",
+    "district": "Azamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamalkant",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Vir Bahadur Singh Purvanchal University, Jaunpur in 2008, Law from Chhatrapati Shahu ji Maharaj University Kanpur in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5440663,
+      "immovable": 36357000,
+      "total": 41697663,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4420",
+    "retrieved": "2026-08-27"
+  }
+}

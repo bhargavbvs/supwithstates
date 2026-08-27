@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-116-shekhupur",
+  "constituency": {
+    "number": 116,
+    "name": "Shekhupur",
+    "district": "Budaun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Himanshu Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 28,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from NIOS Noida Uttar Pradesh in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4216349,
+      "immovable": 23727640,
+      "total": 27943989,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=809",
+    "retrieved": "2026-08-27"
+  }
+}

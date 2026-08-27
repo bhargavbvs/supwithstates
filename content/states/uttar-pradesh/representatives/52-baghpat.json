@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-52-baghpat",
+  "constituency": {
+    "number": 52,
+    "name": "Baghpat",
+    "district": "Baghpat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogesh Dhama",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Agriculture & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From ShyamLal College Shahadra Delhi University in 1997"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12849303,
+      "immovable": 197682000,
+      "total": 210528303,
+      "liabilities": 3702700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=511",
+    "retrieved": "2026-08-27"
+  }
+}

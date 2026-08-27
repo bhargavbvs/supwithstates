@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-217-ramnagar",
+  "constituency": {
+    "number": 217,
+    "name": "Ramnagar",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Chandra Sekhar Mondal",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Salary (Teacher)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. Botany from Vidyasagar University in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 960242,
+      "immovable": 4100000,
+      "total": 5060242,
+      "liabilities": 537700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=311",
+    "retrieved": "2026-08-27"
+  }
+}

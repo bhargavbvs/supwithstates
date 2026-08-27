@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-135-mandirbazar",
+  "constituency": {
+    "number": 135,
+    "name": "Mandirbazar",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Joydeb Halder S/O - Kartick Chandra Halder",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Passed Madhyamik Examination from the West Bengal Council of Rabindra open Schooling in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1457865,
+      "immovable": 2691594,
+      "total": 4149459,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2849",
+    "retrieved": "2026-08-27"
+  }
+}

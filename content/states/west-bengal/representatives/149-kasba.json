@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-149-kasba",
+  "constituency": {
+    "number": 149,
+    "name": "Kasba",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ahmed Javed Khan",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 69,
+    "profession": "Social Worker & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce, Calcutta University in 1978-79"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 150023826,
+      "immovable": 245330000,
+      "total": 395353826,
+      "liabilities": 437240335
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2956",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-28-moradabad-nagar",
+  "constituency": {
+    "number": 28,
+    "name": "Moradabad Nagar",
+    "district": "Moradabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ritesh Kumar Gupta",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Business & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com. IInd year from Hindu Degree College Muradabad Ruhelkhand University Bareilly in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31881766,
+      "immovable": 67843000,
+      "total": 99860846,
+      "liabilities": 8409553
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=913",
+    "retrieved": "2026-08-27"
+  }
+}

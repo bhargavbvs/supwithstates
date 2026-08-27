@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-100-habra",
+  "constituency": {
+    "number": 100,
+    "name": "Habra",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Debdas Mondal",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Business / Politics",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Class IVth Passed from Nandadulal Vidyapith, Bongaon, North 24 Parganas West Bengal in the year of 1977"
+    },
+    "declared_cases": {
+      "total": 13,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5353734,
+      "immovable": 9800000,
+      "total": 15153734,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2788",
+    "retrieved": "2026-08-27"
+  }
+}

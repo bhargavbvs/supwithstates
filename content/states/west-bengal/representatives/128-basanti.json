@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-128-basanti",
+  "constituency": {
+    "number": 128,
+    "name": "Basanti",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Nilima Mistry Bishal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in History from Rabindra Bharati University in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4661954,
+      "immovable": 4155000,
+      "total": 8816954,
+      "liabilities": 205000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1866",
+    "retrieved": "2026-08-27"
+  }
+}

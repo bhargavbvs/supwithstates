@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-267-bhatar",
+  "constituency": {
+    "number": 267,
+    "name": "Bhatar",
+    "district": "Purba Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karfa Soumen",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 34,
+    "profession": "Business and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From The University of Burdwan In The Year 2018"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 25297473,
+      "immovable": 800000,
+      "total": 26087473,
+      "liabilities": 34850581
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1756",
+    "retrieved": "2026-08-27"
+  }
+}

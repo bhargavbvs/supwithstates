@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-271-ketugram",
+  "constituency": {
+    "number": 271,
+    "name": "Ketugram",
+    "district": "Purba Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anadi Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass In 2011 From the West Bengal Council Of Rabindra Open Schooling, Study Centre Manbhum, Victoria Institution"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3226953,
+      "immovable": 9355000,
+      "total": 12581954,
+      "liabilities": 267000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2222",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-161-ballygunge",
+  "constituency": {
+    "number": 161,
+    "name": "Ballygunge",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sobhandeb Chattopadhyay",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 82,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Passed B.Sc. from Asutosh College in 1965 and L.LB. from Hazra Law College in 1971 both under Calcutta University."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25873349,
+      "immovable": 13172810,
+      "total": 39049160,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2600",
+    "retrieved": "2026-08-27"
+  }
+}

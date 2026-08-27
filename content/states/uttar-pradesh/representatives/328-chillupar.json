@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-328-chillupar",
+  "constituency": {
+    "number": 328,
+    "name": "Chillupar",
+    "district": "Gorakhpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Tripathi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Politician & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate in 1985 from Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur In 1985"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1498872,
+      "immovable": 7700000,
+      "total": 9198873,
+      "liabilities": 907838
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3825",
+    "retrieved": "2026-08-27"
+  }
+}

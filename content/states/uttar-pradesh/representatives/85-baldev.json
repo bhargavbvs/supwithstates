@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-85-baldev",
+  "constituency": {
+    "number": 85,
+    "name": "Baldev",
+    "district": "Mathura",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Puran Prakash",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Agriculture Business, MLAs Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Law Graduate from B.S.A. College Mathura In 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21818305,
+      "immovable": 78056000,
+      "total": 99818000,
+      "liabilities": 1904000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=71",
+    "retrieved": "2026-08-27"
+  }
+}

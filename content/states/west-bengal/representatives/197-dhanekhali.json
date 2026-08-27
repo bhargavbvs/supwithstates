@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-197-dhanekhali",
+  "constituency": {
+    "number": 197,
+    "name": "Dhanekhali",
+    "district": "Hugli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Asima Patra",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Member of Legislative Assembly & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Examination from West Bengal Council of Higher Secondary Education in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15165285,
+      "immovable": 5540931,
+      "total": 20635016,
+      "liabilities": 1372483
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1950",
+    "retrieved": "2026-08-27"
+  }
+}

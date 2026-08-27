@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-124-bareilly",
+  "constituency": {
+    "number": 124,
+    "name": "Bareilly",
+    "district": "Bareilly",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Arun Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 70,
+    "profession": "Proprietor, Dr. Arun Kumar Day Care Center Bareilly",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. Sc, MBBS from Lucknow"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42194689,
+      "immovable": 104273600,
+      "total": 146468299,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=827",
+    "retrieved": "2026-08-27"
+  }
+}

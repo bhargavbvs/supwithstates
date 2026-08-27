@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-222-babina",
+  "constituency": {
+    "number": 222,
+    "name": "Babina",
+    "district": "Jhansi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajeev Singh (Parichha)",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Agriculture Advisor & Other Income",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School, Uttar Pradesh Education Board Allhabad Year 1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19107700,
+      "immovable": 74066000,
+      "total": 93257588,
+      "liabilities": 6924019
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1709",
+    "retrieved": "2026-08-27"
+  }
+}

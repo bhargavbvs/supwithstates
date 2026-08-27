@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-121-nawabganj",
+  "constituency": {
+    "number": 121,
+    "name": "Nawabganj",
+    "district": "Bareilly",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. M. P. Arya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Medical Consultation & Partnership in Petrol Pump",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from GSVMM College Kanpur in 1985"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9188897,
+      "immovable": 190795000,
+      "total": 199983897,
+      "liabilities": 27577679
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=880",
+    "retrieved": "2026-08-27"
+  }
+}

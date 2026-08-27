@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-181-salon",
+  "constituency": {
+    "number": 181,
+    "name": "Salon",
+    "district": "Rae Bareli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ashok Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From B.S.N.V.P.G College Lucknow in Year 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5496548,
+      "immovable": 1300000,
+      "total": 6586548,
+      "liabilities": 500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2971",
+    "retrieved": "2026-08-27"
+  }
+}

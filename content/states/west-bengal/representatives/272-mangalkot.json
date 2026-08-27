@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-272-mangalkot",
+  "constituency": {
+    "number": 272,
+    "name": "Mangalkot",
+    "district": "Purba Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shishir Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Passed Madhyamik (10th Standard) In The Year 1993, Negun Deshbandhu Vidyamandir, West Bengal Board Of Secondary Education."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3185181,
+      "immovable": 5069113,
+      "total": 8254295,
+      "liabilities": 962970
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2251",
+    "retrieved": "2026-08-27"
+  }
+}

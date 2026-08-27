@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-140-sri-nagar",
+  "constituency": {
+    "number": 140,
+    "name": "Sri Nagar",
+    "district": "Kheri",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manju Tyagi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Hindu Girls College Sitapur Kanpur University in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15176344,
+      "immovable": 15548000,
+      "total": 30724344,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2286",
+    "retrieved": "2026-08-27"
+  }
+}

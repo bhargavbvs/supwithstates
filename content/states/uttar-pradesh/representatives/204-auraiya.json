@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-204-auraiya",
+  "constituency": {
+    "number": 204,
+    "name": "Auraiya",
+    "district": "Auraiya",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gudiya Katheriya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass from School Shri Mukut Singh Inter College, Hisawa, Sandalpur Kanpur Dehat in 1993-94"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1143924,
+      "immovable": 0,
+      "total": 1075000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1603",
+    "retrieved": "2026-08-27"
+  }
+}

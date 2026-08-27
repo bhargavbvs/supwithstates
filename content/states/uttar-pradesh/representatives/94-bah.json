@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-94-bah",
+  "constituency": {
+    "number": 94,
+    "name": "Bah",
+    "district": "Agra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rani Pakshalika Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Business Enterpreneur & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts in 1981 from Womens Christian College, Madras"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40365738,
+      "immovable": 544484300,
+      "total": 584850043,
+      "liabilities": 2985069
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=96",
+    "retrieved": "2026-08-27"
+  }
+}

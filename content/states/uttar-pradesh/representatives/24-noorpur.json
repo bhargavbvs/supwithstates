@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-24-noorpur",
+  "constituency": {
+    "number": 24,
+    "name": "Noorpur",
+    "district": "Bijnor",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Avatar Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Rohilkhand University Bareilly, UP Year 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2002999,
+      "immovable": 1500000,
+      "total": 3502999,
+      "liabilities": 73000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=891",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-163-entally",
+  "constituency": {
+    "number": 163,
+    "name": "Entally",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandipan Saha",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graduate Diploma in Management from Indian Institute of Management Calcutta in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 93844807,
+      "immovable": 24500000,
+      "total": 119379822,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2775",
+    "retrieved": "2026-08-27"
+  }
+}

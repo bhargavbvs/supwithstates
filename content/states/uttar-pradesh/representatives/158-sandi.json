@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-158-sandi",
+  "constituency": {
+    "number": 158,
+    "name": "Sandi",
+    "district": "Hardoi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Prabhash Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Agricultutre/MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10 Passed -DNU Inter College Kanpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7826076,
+      "immovable": 18000000,
+      "total": 27400000,
+      "liabilities": 129000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2702",
+    "retrieved": "2026-08-27"
+  }
+}

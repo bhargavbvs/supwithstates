@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-223-keshiary",
+  "constituency": {
+    "number": 223,
+    "name": "Keshiary",
+    "district": "Paschim Medin|pur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhadra Hemram",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "High School Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts Bengali from Vidyasagar University in 2002, Master of Arts in Education from Rabindra Bharti University in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1442373,
+      "immovable": 2896000,
+      "total": 4338373,
+      "liabilities": 1504551
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1110",
+    "retrieved": "2026-08-27"
+  }
+}

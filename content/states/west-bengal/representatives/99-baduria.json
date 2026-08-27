@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-99-baduria",
+  "constituency": {
+    "number": 99,
+    "name": "Baduria",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Burhanul Mukaddim (Liton)",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Headmaster in aided school (H.S)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in English from Manonmaniam Sundaranar University in the year 2012, B.Ed. from Calcutta University in the Year 2002, B.A. (Hons) in English from Calcutta University in the year 2000,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8424288,
+      "immovable": 9127501,
+      "total": 17551789,
+      "liabilities": 5220000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2512",
+    "retrieved": "2026-08-27"
+  }
+}

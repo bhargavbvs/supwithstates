@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-265-koraon",
+  "constituency": {
+    "number": 265,
+    "name": "Koraon",
+    "district": "Prayagraj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Raj Mani",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Sampurannand Sanskrit University in 2000 & B.Ed From Bostani Vidhyapeeth Jabalpur in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4433477,
+      "immovable": 2500000,
+      "total": 6933477,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3488",
+    "retrieved": "2026-08-27"
+  }
+}

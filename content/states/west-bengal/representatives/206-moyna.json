@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-206-moyna",
+  "constituency": {
+    "number": 206,
+    "name": "Moyna",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashoke Dinda",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (Bengali), Eastern Institute for Integrated Learning in Management University, Sikkim in 2010"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13087319,
+      "immovable": 46575000,
+      "total": 59662319,
+      "liabilities": 5651583
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1740",
+    "retrieved": "2026-08-27"
+  }
+}

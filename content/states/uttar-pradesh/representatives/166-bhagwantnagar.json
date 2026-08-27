@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-166-bhagwantnagar",
+  "constituency": {
+    "number": 166,
+    "name": "Bhagwantnagar",
+    "district": "Unnao",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashutosh Shukla",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Political Science) from DSN College, Unnao Kanpur University in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16710665,
+      "immovable": 62544000,
+      "total": 84254665,
+      "liabilities": 11762104
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2497",
+    "retrieved": "2026-08-27"
+  }
+}

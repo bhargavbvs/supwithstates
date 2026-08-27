@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-27-phansidewa",
+  "constituency": {
+    "number": 27,
+    "name": "Phansidewa",
+    "district": "D>rjiling",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Durga Murmu",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary From Siliguri College of Commerce in 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1557781,
+      "immovable": 13400000,
+      "total": 14957782,
+      "liabilities": 579313
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=334",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-162-bangermau",
+  "constituency": {
+    "number": 162,
+    "name": "Bangermau",
+    "district": "Unnao",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shrikant Katiyar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Business, Salary, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from D.A.V. College, Kanpur, Kanpur University, Kanpur in 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8061082,
+      "immovable": 2885000,
+      "total": 10946083,
+      "liabilities": 982701
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2464",
+    "retrieved": "2026-08-27"
+  }
+}

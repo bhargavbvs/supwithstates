@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-316-nautanwa",
+  "constituency": {
+    "number": 316,
+    "name": "Nautanwa",
+    "district": "Mahrajganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rishi",
+    "election": "2022",
+    "elected_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "current_party": "Nirbal Indian Shoshit Hamara Aam Dal",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Advocate and Rent",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B From Deen Dayal Upadhyay Gorakhpur University-2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7162258,
+      "immovable": 57000000,
+      "total": 64162259,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4065",
+    "retrieved": "2026-08-27"
+  }
+}

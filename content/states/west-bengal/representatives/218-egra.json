@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-218-egra",
+  "constituency": {
+    "number": 218,
+    "name": "Egra",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adhikari Dibyendu",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Business (General Order Supplier & Transport)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (Honours), 1998, Contai Prabhat Kumar College (Netaji Subhas Open University)"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 34755220,
+      "immovable": 12800000,
+      "total": 48005224,
+      "liabilities": 5059168
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=245",
+    "retrieved": "2026-08-27"
+  }
+}

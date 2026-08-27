@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-75-koil",
+  "constituency": {
+    "number": 75,
+    "name": "Koil",
+    "district": "Aligarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Parashar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business & Rent",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. & LLB From Dr. Bhimrao Ambedkar University Agra, Year-1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24223652,
+      "immovable": 42600000,
+      "total": 66823654,
+      "liabilities": 15132412
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=373",
+    "retrieved": "2026-08-27"
+  }
+}

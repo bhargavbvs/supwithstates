@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-34-suar",
+  "constituency": {
+    "number": 34,
+    "name": "Suar",
+    "district": "Rampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shafeek Ahmed Ansari",
+    "election": "2022",
+    "elected_party": "Apna Dal (Soneylal)",
+    "current_party": "Apna Dal (Soneylal)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1300000,
+      "immovable": 4500000,
+      "total": 5800000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4892",
+    "retrieved": "2026-08-27"
+  }
+}

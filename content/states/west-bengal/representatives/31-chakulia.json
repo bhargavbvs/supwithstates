@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-31-chakulia",
+  "constituency": {
+    "number": 31,
+    "name": "Chakulia",
+    "district": "Uttar Din>jpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Azad Minhajul Arfin",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in Geography Honours from B.N. Mandal University, Laloonagar, Madhepura, (Bihar) in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1167528,
+      "immovable": 4060000,
+      "total": 5227528,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=190",
+    "retrieved": "2026-08-27"
+  }
+}

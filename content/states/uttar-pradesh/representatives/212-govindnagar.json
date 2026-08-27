@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-212-govindnagar",
+  "constituency": {
+    "number": 212,
+    "name": "Govindnagar",
+    "district": "Kanpur Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surendra Maithani",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Brahmanand P.G. College, Kanpur, C.S.J.M. University Kanpur in 2017"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6575257,
+      "immovable": 137059500,
+      "total": 101515257,
+      "liabilities": 7234665
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1763",
+    "retrieved": "2026-08-27"
+  }
+}

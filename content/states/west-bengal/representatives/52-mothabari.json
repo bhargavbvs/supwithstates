@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-52-mothabari",
+  "constituency": {
+    "number": 52,
+    "name": "Mothabari",
+    "district": "M>ldah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Islam Md Najrul",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Service & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "AI Aleemiyah from : AI Jamiatul Faizia Haqqaniah in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7204604,
+      "immovable": 4108664,
+      "total": 10497228,
+      "liabilities": 815659
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=547",
+    "retrieved": "2026-08-27"
+  }
+}

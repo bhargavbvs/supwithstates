@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-345-sagri",
+  "constituency": {
+    "number": 345,
+    "name": "Sagri",
+    "district": "Azamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hriday Narayan Singh Patel",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Surgeon & Partner Ramrati Hospital, Proprietor Ramrati Ultrasound Clinic",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MS Surgery From Motilal Nehru Medical College Allahabad in 2006, MBBS From K.G.B.S. Lucknow Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 52198834,
+      "immovable": 122734000,
+      "total": 164616030,
+      "liabilities": 25759122
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4270",
+    "retrieved": "2026-08-27"
+  }
+}

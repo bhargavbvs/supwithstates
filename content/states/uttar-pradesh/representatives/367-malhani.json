@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-367-malhani",
+  "constituency": {
+    "number": 367,
+    "name": "Malhani",
+    "district": "Jaunpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lucky Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Agriculture & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Shri Ram Mahavidyalaya Adampur Nigoh Jaunpur, Veer Bahadur Singh Purvanchal University UP in 2018"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11151795,
+      "immovable": 168515633,
+      "total": 179667430,
+      "liabilities": 4455100
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4697",
+    "retrieved": "2026-08-27"
+  }
+}

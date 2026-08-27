@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-131-katra",
+  "constituency": {
+    "number": 131,
+    "name": "Katra",
+    "district": "Shahjahanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Veer Vikram Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 35,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A . Year 2015, LL.B. Year 2013 Mahatma Jyotiba Phule Rohilkhand University Bareilly"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8098197,
+      "immovable": 22200000,
+      "total": 16798197,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=861",
+    "retrieved": "2026-08-27"
+  }
+}

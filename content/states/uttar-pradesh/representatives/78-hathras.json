@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-78-hathras",
+  "constituency": {
+    "number": 78,
+    "name": "Hathras",
+    "district": "Hathras",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Anjula Singh Mahaur",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Business & House Rent",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from D.S. College Aligarh, Agra University Agra in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27109357,
+      "immovable": 18000000,
+      "total": 45109357,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1685",
+    "retrieved": "2026-08-27"
+  }
+}

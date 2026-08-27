@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-82-mant",
+  "constituency": {
+    "number": 82,
+    "name": "Mant",
+    "district": "Mathura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Chaudhary",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB In 1994 from Agra University, Agra"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 25833251,
+      "immovable": 47800000,
+      "total": 73633252,
+      "liabilities": 9500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=152",
+    "retrieved": "2026-08-27"
+  }
+}

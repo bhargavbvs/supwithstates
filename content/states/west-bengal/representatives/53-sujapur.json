@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-53-sujapur",
+  "constituency": {
+    "number": 53,
+    "name": "Sujapur",
+    "district": "M>ldah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sabina Yeasmin",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "State Aided College Teacher (SACT)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Passed from University of North Bengal in 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3325559,
+      "immovable": 52541703,
+      "total": 55867265,
+      "liabilities": 7570667
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=279",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-43-siwalkhas",
+  "constituency": {
+    "number": 43,
+    "name": "Siwalkhas",
+    "district": "Meerut",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ghulam Mohammad",
+    "election": "2022",
+    "elected_party": "RLD",
+    "current_party": "RLD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (English) B.Ed & LLB From CCS University Meerut in 1983"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1350000,
+      "immovable": 23200000,
+      "total": 24550000,
+      "liabilities": 9270116
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=348",
+    "retrieved": "2026-08-27"
+  }
+}

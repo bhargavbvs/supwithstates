@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-287-payagpur",
+  "constituency": {
+    "number": 287,
+    "name": "Payagpur",
+    "district": "Bahraich",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subhash Tripathi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.(Sociology) from Kisan P.G. College, Bahraich/ Avadh University Faizabad U.P. in 1979"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8306169,
+      "immovable": 40000000,
+      "total": 48306170,
+      "liabilities": 61792
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3330",
+    "retrieved": "2026-08-27"
+  }
+}

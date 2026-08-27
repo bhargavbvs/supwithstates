@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-191-balagarh",
+  "constituency": {
+    "number": 191,
+    "name": "Balagarh",
+    "district": "Hugli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sumana Sarkar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Tutor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in History from Rabindra Bharati University, Kolkata in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 998301,
+      "immovable": 0,
+      "total": 2483787,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1613",
+    "retrieved": "2026-08-27"
+  }
+}

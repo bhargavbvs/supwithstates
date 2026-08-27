@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-376-jangipur",
+  "constituency": {
+    "number": 376,
+    "name": "Jangipur",
+    "district": "Ghazipur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Virendra Kumar Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "MLA Uttar Pradesh",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. from Awadh Pratap Singh University Reva in 2015"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44637422,
+      "immovable": 114964281,
+      "total": 159601705,
+      "liabilities": 58110343
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4533",
+    "retrieved": "2026-08-27"
+  }
+}

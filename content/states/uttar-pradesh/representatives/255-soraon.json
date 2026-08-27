@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-255-soraon",
+  "constituency": {
+    "number": 255,
+    "name": "Soraon",
+    "district": "Prayagraj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Geeta Shastri (Pasi)",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Passed From Kashi Agriculture Inter College Harhua, Varanasi UP in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11751440,
+      "immovable": 7000000,
+      "total": 20701440,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3351",
+    "retrieved": "2026-08-27"
+  }
+}

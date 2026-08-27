@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-17-najibabad",
+  "constituency": {
+    "number": 17,
+    "name": "Najibabad",
+    "district": "Bijnor",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tasleem Ahmad",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "MLA Salary & Allowances",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7396112,
+      "immovable": 3654736,
+      "total": 11000849,
+      "liabilities": 714769
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1136",
+    "retrieved": "2026-08-27"
+  }
+}

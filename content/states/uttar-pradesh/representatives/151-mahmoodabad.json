@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-151-mahmoodabad",
+  "constituency": {
+    "number": 151,
+    "name": "Mahmoodabad",
+    "district": "Sitapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Asha Maurya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Lucknow University Lucknow in 1983"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10305781,
+      "immovable": 42720000,
+      "total": 55915781,
+      "liabilities": 2500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2429",
+    "retrieved": "2026-08-27"
+  }
+}

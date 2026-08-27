@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-147-sonarpur-dakshin",
+  "constituency": {
+    "number": 147,
+    "name": "Sonarpur Dakshin",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rupa Ganguly",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Performing Artiste",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science (B.Sc.) Jogomaya Devi College in 1986, University of Calcutta"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24454144,
+      "immovable": 70354545,
+      "total": 93954158,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1700",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-106-jagatdal",
+  "constituency": {
+    "number": 106,
+    "name": "Jagatdal",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Rajesh Kumar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Retired IPS Officer",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy, Faculty of Commerce, University of Rajasthan in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17717213,
+      "immovable": 40015352,
+      "total": 57732587,
+      "liabilities": 11755052
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2074",
+    "retrieved": "2026-08-27"
+  }
+}

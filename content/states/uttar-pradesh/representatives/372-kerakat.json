@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-372-kerakat",
+  "constituency": {
+    "number": 372,
+    "name": "Kerakat",
+    "district": "Jaunpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Tufani Saroj",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Agriculture & Petrol Pump",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Gorakhpur University Gorakhpur 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13525473,
+      "immovable": 52055000,
+      "total": 65580474,
+      "liabilities": 2354772
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4631",
+    "retrieved": "2026-08-27"
+  }
+}

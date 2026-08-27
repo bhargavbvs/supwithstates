@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-64-murshidabad",
+  "constituency": {
+    "number": 64,
+    "name": "Murshidabad",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gouri Sankar Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Business & Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate in Political Science from Rabindra Bharati University in the Year 2000"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5057697,
+      "immovable": 3412500,
+      "total": 8470197,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=94",
+    "retrieved": "2026-08-27"
+  }
+}

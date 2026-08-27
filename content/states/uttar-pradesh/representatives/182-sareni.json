@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-182-sareni",
+  "constituency": {
+    "number": 182,
+    "name": "Sareni",
+    "district": "Rae Bareli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Pratap Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture, Ambar Hotel Lucknow, Shop Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Political Science) from Lucknow University in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5655062,
+      "immovable": 21280000,
+      "total": 26598082,
+      "liabilities": 1542811
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2353",
+    "retrieved": "2026-08-27"
+  }
+}

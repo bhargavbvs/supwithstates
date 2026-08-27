@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-248-chhatna",
+  "constituency": {
+    "number": 248,
+    "name": "Chhatna",
+    "district": "B>nkura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satyanarayan Mukhopadhyay",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Government Sponsored Teacher",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. (hons) from Binobha Bhave University and B.Ed from Calcutta University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6969352,
+      "immovable": 2800000,
+      "total": 9734602,
+      "liabilities": 1258036
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=194",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-12-alipurduars",
+  "constituency": {
+    "number": 12,
+    "name": "Alipurduars",
+    "district": ">l|pur Du>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Paritosh Das",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com Pass from Alipurduar College under North Bengal University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43131566,
+      "immovable": 0,
+      "total": 43131570,
+      "liabilities": 25564142
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=124",
+    "retrieved": "2026-08-27"
+  }
+}

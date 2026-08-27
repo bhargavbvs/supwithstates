@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-73-atrauli",
+  "constituency": {
+    "number": 73,
+    "name": "Atrauli",
+    "district": "Aligarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Kumar Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 30,
+    "profession": "Business and Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Leeds Backet University U.K. Year 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 74657221,
+      "immovable": 70000000,
+      "total": 144657223,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=102",
+    "retrieved": "2026-08-27"
+  }
+}

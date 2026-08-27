@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-2-mathabhanga",
+  "constituency": {
+    "number": 2,
+    "name": "Mathabhanga",
+    "district": "Koch Bih>r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Nishith Pramanik",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "Assitant Teacher of a Primary School & Member of Parliament, Cooch Behar",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Pariksha, West Bengal Board of Secondary Education (Bhetaguri Lal Bahadur Sastri Vidyapith, Bhetaguri, Dinhata, Cooch Behar)"
+    },
+    "declared_cases": {
+      "total": 16,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3545849,
+      "immovable": 5750000,
+      "total": 9295849,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=468",
+    "retrieved": "2026-08-27"
+  }
+}

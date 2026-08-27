@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-54-baisnabnagar",
+  "constituency": {
+    "number": 54,
+    "name": "Baisnabnagar",
+    "district": "M>ldah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raju Karmakar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A Pass From University Of Burdwan Dist West Bangal In 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7910821,
+      "immovable": 15800000,
+      "total": 23710822,
+      "liabilities": 21328
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=492",
+    "retrieved": "2026-08-27"
+  }
+}

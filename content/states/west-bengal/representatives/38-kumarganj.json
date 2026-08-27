@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-38-kumarganj",
+  "constituency": {
+    "number": 38,
+    "name": "Kumarganj",
+    "district": "Dakshin Din>jpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Toraf Hossain Mandal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Balurghat College under North Bengal University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4322867,
+      "immovable": 5000000,
+      "total": 9322868,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=434",
+    "retrieved": "2026-08-27"
+  }
+}

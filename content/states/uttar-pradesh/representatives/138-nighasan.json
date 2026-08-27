@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-138-nighasan",
+  "constituency": {
+    "number": 138,
+    "name": "Nighasan",
+    "district": "Kheri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shashank Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 32,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from I.C.F. A.I. Hyderabad (AP) Year-2016, Engineering Institute of Technology Pune (Maharashtra) 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15438025,
+      "immovable": 7426000,
+      "total": 22963175,
+      "liabilities": 583646
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2770",
+    "retrieved": "2026-08-27"
+  }
+}

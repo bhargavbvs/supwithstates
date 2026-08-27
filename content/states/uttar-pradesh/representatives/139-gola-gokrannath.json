@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-139-gola-gokrannath",
+  "constituency": {
+    "number": 139,
+    "name": "Gola Gokrannath",
+    "district": "Kheri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aman Giri",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 25,
+    "profession": "Agriculture & Earning a Living",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA, LLB (Hons.) From ICFAI Law School, Hyderabad, Year-2015-20"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1182425,
+      "immovable": 49074080,
+      "total": 50256506,
+      "liabilities": 429663
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4852",
+    "retrieved": "2026-08-27"
+  }
+}

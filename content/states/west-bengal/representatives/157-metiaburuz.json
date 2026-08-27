@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-157-metiaburuz",
+  "constituency": {
+    "number": 157,
+    "name": "Metiaburuz",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abdul Khaleque Molla",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 81,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Class 11th Passed From Metiaburuj High School In The Year 1961"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 15855503,
+      "immovable": 1600000,
+      "total": 17455505,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2685",
+    "retrieved": "2026-08-27"
+  }
+}

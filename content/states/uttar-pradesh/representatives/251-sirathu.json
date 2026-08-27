@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-251-sirathu",
+  "constituency": {
+    "number": 251,
+    "name": "Sirathu",
+    "district": "Kaushambi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Pallavi Patel",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Degree of Philosophy (Bio-technology) from Swami Vivekanand University Sagar M.P. in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7366218,
+      "immovable": 26000000,
+      "total": 33522994,
+      "liabilities": 887000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3169",
+    "retrieved": "2026-08-27"
+  }
+}

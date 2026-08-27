@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-95-tundla",
+  "constituency": {
+    "number": 95,
+    "name": "Tundla",
+    "district": "Firozabad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Prem Pal Singh Dhangar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A (Graduate) from Agra University, Agra"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4107400,
+      "immovable": 9100000,
+      "total": 13326400,
+      "liabilities": 330000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2186",
+    "retrieved": "2026-08-27"
+  }
+}

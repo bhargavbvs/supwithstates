@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-394-aurai",
+  "constituency": {
+    "number": 394,
+    "name": "Aurai",
+    "district": "Bhadohi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dinanath Bhashkar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Social Worker and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate (P.G.) History and Sociology from Mahatma Gandhi Kashi Vidhyapith Varanasi in 1986"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 18019019,
+      "immovable": 52000000,
+      "total": 70099019,
+      "liabilities": 5245000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4346",
+    "retrieved": "2026-08-27"
+  }
+}

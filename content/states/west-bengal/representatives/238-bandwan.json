@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-238-bandwan",
+  "constituency": {
+    "number": 238,
+    "name": "Bandwan",
+    "district": "Puruliya",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Labsen Baskey",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Primary Teacher",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed the Higher Secondary Examination 1994, under West Bengal Council of Higher Secondary Education"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 908385,
+      "immovable": 0,
+      "total": 908385,
+      "liabilities": 1482114
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=65",
+    "retrieved": "2026-08-27"
+  }
+}

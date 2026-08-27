@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-111-panihati",
+  "constituency": {
+    "number": 111,
+    "name": "Panihati",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ratna Debnath",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Illiterate",
+      "detail": "Nil"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5602855,
+      "immovable": 2000000,
+      "total": 7498781,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2435",
+    "retrieved": "2026-08-27"
+  }
+}

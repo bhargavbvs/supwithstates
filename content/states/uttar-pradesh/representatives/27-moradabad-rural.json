@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-27-moradabad-rural",
+  "constituency": {
+    "number": 27,
+    "name": "Moradabad Rural",
+    "district": "Moradabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohd Nasir",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business, Industrial Work & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Candidates get Education from Home and Madrasa"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10495520,
+      "immovable": 596726151,
+      "total": 606821671,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=812",
+    "retrieved": "2026-08-27"
+  }
+}

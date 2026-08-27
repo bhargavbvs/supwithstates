@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-62-dadri",
+  "constituency": {
+    "number": 62,
+    "name": "Dadri",
+    "district": "Gautam Buddha Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tejpal Singh Nagar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Ch. Charan Singh University, Meerut, Year-1996 & B.Ed. From Kurkshetra University Haryana, Year-1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4175804,
+      "immovable": 49697550,
+      "total": 59442594,
+      "liabilities": 990000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=304",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-221-orai",
+  "constituency": {
+    "number": 221,
+    "name": "Orai",
+    "district": "Jalaun",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gauri Shankar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Shopkeeper Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School, Diploma Polytechnic Orai"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4510749,
+      "immovable": 3400000,
+      "total": 7910769,
+      "liabilities": 474749
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1705",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-229-rath",
+  "constituency": {
+    "number": 229,
+    "name": "Rath",
+    "district": "Hamirpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manisha",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. From Bundelkhand University, Jhansi, in 2010, High School From G.G.I.C Lalitpur in 2003"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2294432,
+      "immovable": 0,
+      "total": 2294432,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1674",
+    "retrieved": "2026-08-27"
+  }
+}

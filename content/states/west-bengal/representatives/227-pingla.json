@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-227-pingla",
+  "constituency": {
+    "number": 227,
+    "name": "Pingla",
+    "district": "Paschim Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Swagata Manna",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Private Teacher",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. English (Hons) from Netaji Subhas Open University (Haldia Govt. College) in 2010, D.EI.Ed. from West Bengal Board of Primary Education in 2011"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5338750,
+      "immovable": 12400000,
+      "total": 17738750,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=333",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-16-meerapur",
+  "constituency": {
+    "number": 16,
+    "name": "Meerapur",
+    "district": "Muzaffarnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandan Chauhan",
+    "election": "2022",
+    "elected_party": "RLD",
+    "current_party": "RLD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 33,
+    "profession": "Farmer & Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., L.L.B (Fiveyear) 2011 Sri Ram Law college Muzaffarnagar , C.C.Singh University , Senior School Certificate 2006, Steping Stone School Jaansath Road Muzaffarnagar"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11720201,
+      "immovable": 51816700,
+      "total": 63536901,
+      "liabilities": 2624321
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=180",
+    "retrieved": "2026-08-27"
+  }
+}

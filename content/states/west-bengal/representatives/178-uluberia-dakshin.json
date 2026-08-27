@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-178-uluberia-dakshin",
+  "constituency": {
+    "number": 178,
+    "name": "Uluberia Dakshin",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pulak Roy",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Business, Member West Bengal Legislative Assemble",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Uluberia College under Calcutta University in the year of 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64843952,
+      "immovable": 22080000,
+      "total": 86836465,
+      "liabilities": 4966980
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2161",
+    "retrieved": "2026-08-27"
+  }
+}

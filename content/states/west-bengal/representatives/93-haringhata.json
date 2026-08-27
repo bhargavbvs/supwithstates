@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-93-haringhata",
+  "constituency": {
+    "number": 93,
+    "name": "Haringhata",
+    "district": "Nadia",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Asim Kumar Sarkar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Folk Singer(Kabigan)",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Clas IV Pass from Subhas Nagar Kshiroda Sundari Prathamik Vidyalaya 1971"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12480915,
+      "immovable": 13200000,
+      "total": 25676976,
+      "liabilities": 4227968
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1930",
+    "retrieved": "2026-08-27"
+  }
+}

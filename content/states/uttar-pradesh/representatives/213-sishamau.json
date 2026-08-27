@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-213-sishamau",
+  "constituency": {
+    "number": 213,
+    "name": "Sishamau",
+    "district": "Kanpur Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Haji Irfan Solanki",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Leather Business (Factory)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from City model inter college kanpur"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11939525,
+      "immovable": 84936400,
+      "total": 93889400,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1764",
+    "retrieved": "2026-08-27"
+  }
+}

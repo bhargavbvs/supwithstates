@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-146-bishnupur",
+  "constituency": {
+    "number": 146,
+    "name": "Bishnupur",
+    "district": "South 24parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dilip Mondal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A., Second Year (reading but not completed), Behala parnasree College Kolkata"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11765195,
+      "immovable": 21250000,
+      "total": 32884857,
+      "liabilities": 5406547
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2125",
+    "retrieved": "2026-08-27"
+  }
+}

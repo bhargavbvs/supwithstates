@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-190-lambhua",
+  "constituency": {
+    "number": 190,
+    "name": "Lambhua",
+    "district": "Sultanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sitaram Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 72,
+    "profession": "Pension, MLA Salary and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Allahabad University Year 1972, LL.B Lucknow University Year 1985-86"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12286000,
+      "immovable": 45430000,
+      "total": 63466000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3549",
+    "retrieved": "2026-08-27"
+  }
+}

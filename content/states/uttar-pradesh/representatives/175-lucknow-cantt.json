@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-175-lucknow-cantt",
+  "constituency": {
+    "number": 175,
+    "name": "Lucknow Cantt.",
+    "district": "Lucknow",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Brajesh Pathak",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from Lucknow University in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30183958,
+      "immovable": 70200000,
+      "total": 100383962,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2646",
+    "retrieved": "2026-08-27"
+  }
+}

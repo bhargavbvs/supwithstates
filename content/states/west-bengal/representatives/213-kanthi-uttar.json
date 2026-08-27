@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-213-kanthi-uttar",
+  "constituency": {
+    "number": 213,
+    "name": "Kanthi Uttar",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sumita Sinha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31482155,
+      "immovable": 23400000,
+      "total": 54882163,
+      "liabilities": 2268167
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=413",
+    "retrieved": "2026-08-27"
+  }
+}

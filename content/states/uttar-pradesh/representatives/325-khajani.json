@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-325-khajani",
+  "constituency": {
+    "number": 325,
+    "name": "Khajani",
+    "district": "Gorakhpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shriram Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Petrol Pump, Agriculture & Govt. Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Geography in 1975 from Shivharsh KIsan Post Graduation College, Gorakhpur University, Gorakhpur"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14026478,
+      "immovable": 9250000,
+      "total": 23353479,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3681",
+    "retrieved": "2026-08-27"
+  }
+}

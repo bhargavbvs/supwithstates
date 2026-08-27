@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-231-ghatal",
+  "constituency": {
+    "number": 231,
+    "name": "Ghatal",
+    "district": "Paschim Medin|pur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sital Kapat",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 36,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Pass from Jalsara High School in 2008"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2440817,
+      "immovable": 160000,
+      "total": 2600817,
+      "liabilities": 1001808
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=258",
+    "retrieved": "2026-08-27"
+  }
+}

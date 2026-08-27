@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-172-shibpur",
+  "constituency": {
+    "number": 172,
+    "name": "Shibpur",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rudranil Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Actor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from Calcutta University in the year 1994."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3944579,
+      "immovable": 18000000,
+      "total": 22944579,
+      "liabilities": 7313840
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2107",
+    "retrieved": "2026-08-27"
+  }
+}

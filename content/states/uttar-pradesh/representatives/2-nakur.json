@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-2-nakur",
+  "constituency": {
+    "number": 2,
+    "name": "Nakur",
+    "district": "Saharanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukesh Choudhary",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Agriculture & Gardening",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Chaudhary Charan Singh University Meerut in 1999"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11393592,
+      "immovable": 19326000,
+      "total": 29878370,
+      "liabilities": 1501446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=851",
+    "retrieved": "2026-08-27"
+  }
+}

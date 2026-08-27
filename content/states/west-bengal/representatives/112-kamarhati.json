@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-112-kamarhati",
+  "constituency": {
+    "number": 112,
+    "name": "Kamarhati",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madan Mitra",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 71,
+    "profession": "Social Work & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Passed Bachelor of Arts Examination from Asutosh College (Calcutta University) in the year 1976."
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24301309,
+      "immovable": 10950000,
+      "total": 35251312,
+      "liabilities": 2499837
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1668",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-252-bankura",
+  "constituency": {
+    "number": 252,
+    "name": "Bankura",
+    "district": "B>nkura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Niladri Sekhar Dana",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Business and Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Bankura Goeky Vidyayatan in 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1831808,
+      "immovable": 0,
+      "total": 1831808,
+      "liabilities": 200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=179",
+    "retrieved": "2026-08-27"
+  }
+}

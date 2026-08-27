@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-125-bareilly-cantt",
+  "constituency": {
+    "number": 125,
+    "name": "Bareilly Cantt.",
+    "district": "Bareilly",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjeev Agarwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Business (C & F Agent of Heidegger Cement india Ltd )",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com Bareilly College, Bareilly in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 65724806,
+      "immovable": 169500000,
+      "total": 235304806,
+      "liabilities": 20365040
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=828",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-239-balarampur",
+  "constituency": {
+    "number": 239,
+    "name": "Balarampur",
+    "district": "Puruliya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaladhar Mahato",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "H.S. Pass (W.B.C.T.V.E.)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2966000,
+      "immovable": 400000,
+      "total": 3366000,
+      "liabilities": 2200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=64",
+    "retrieved": "2026-08-27"
+  }
+}

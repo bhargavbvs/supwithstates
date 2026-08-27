@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-280-jalalpur",
+  "constituency": {
+    "number": 280,
+    "name": "Jalalpur",
+    "district": "Ambedkar Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Pandey",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Business, Agriculture & Public Interest",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Junior High School Pass"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 480975892,
+      "immovable": 111899705,
+      "total": 592875599,
+      "liabilities": 232288591
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3858",
+    "retrieved": "2026-08-27"
+  }
+}

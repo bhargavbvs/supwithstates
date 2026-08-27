@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-214-arya-nagar",
+  "constituency": {
+    "number": 214,
+    "name": "Arya Nagar",
+    "district": "Kanpur Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amitabh Bajpai",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from Bundelkhan University in 1996, B.Sc from PPN College in 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20409008,
+      "immovable": 45603500,
+      "total": 66012508,
+      "liabilities": 1509769
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1769",
+    "retrieved": "2026-08-27"
+  }
+}

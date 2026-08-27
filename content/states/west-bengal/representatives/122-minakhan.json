@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-122-minakhan",
+  "constituency": {
+    "number": 122,
+    "name": "Minakhan",
+    "district": "North Twenty-Four Parganas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Usha Rani Mondal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "VIII PASS from Shashan Union High School in the year of 1989-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15258335,
+      "immovable": 8500000,
+      "total": 23758335,
+      "liabilities": 1968000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2189",
+    "retrieved": "2026-08-27"
+  }
+}

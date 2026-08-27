@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-120-deganga",
+  "constituency": {
+    "number": 120,
+    "name": "Deganga",
+    "district": "North Twenty-Four Parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anisur Rahaman Bidesh",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor in Arts BA Passed in 2011 from Chandraketugarh Sahidullah Smriti mahavidyalaya under Calcutta University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 100442520,
+      "immovable": 81682861,
+      "total": 182051411,
+      "liabilities": 95026577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1827",
+    "retrieved": "2026-08-27"
+  }
+}

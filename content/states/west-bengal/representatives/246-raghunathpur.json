@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-246-raghunathpur",
+  "constituency": {
+    "number": 246,
+    "name": "Raghunathpur",
+    "district": "Puruliya",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mamoni Bauri",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "6th Class Pass from Panchgachia Monoharbhal Kamala Girls H.S. School, Po-Kanyapur, Dist-Paschim Bardhaman"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 170506,
+      "immovable": 570000,
+      "total": 696806,
+      "liabilities": 44150
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=326",
+    "retrieved": "2026-08-27"
+  }
+}

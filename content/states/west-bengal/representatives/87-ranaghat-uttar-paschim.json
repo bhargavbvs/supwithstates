@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-87-ranaghat-uttar-paschim",
+  "constituency": {
+    "number": 87,
+    "name": "Ranaghat Uttar Paschim",
+    "district": "Nadia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Partha Sarathi Chatterjee(Babu)",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 72,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Commerce Passed in the year 1973 from University of Calcutta and Bachelor of Laws Passed in the year 1977 from University of Calcutta."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3151701,
+      "immovable": 2000000,
+      "total": 5151702,
+      "liabilities": 943682
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2410",
+    "retrieved": "2026-08-27"
+  }
+}

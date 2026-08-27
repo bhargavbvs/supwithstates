@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-313-khalilabad",
+  "constituency": {
+    "number": 313,
+    "name": "Khalilabad",
+    "district": "Sant Kabir Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ankur Tiwari",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 31,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BBA from Chaudhary Charan Singh University Meerut in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 63228939,
+      "immovable": 6083000,
+      "total": 69311940,
+      "liabilities": 15239974
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3886",
+    "retrieved": "2026-08-27"
+  }
+}

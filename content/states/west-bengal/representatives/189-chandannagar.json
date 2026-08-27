@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-189-chandannagar",
+  "constituency": {
+    "number": 189,
+    "name": "Chandannagar",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deepanjan Kumar Guha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from Sikkim Manipal University in 2012"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14751343,
+      "immovable": 3550000,
+      "total": 16831344,
+      "liabilities": 916350
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2896",
+    "retrieved": "2026-08-27"
+  }
+}

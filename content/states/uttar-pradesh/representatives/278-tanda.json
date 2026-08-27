@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-278-tanda",
+  "constituency": {
+    "number": 278,
+    "name": "Tanda",
+    "district": "Ambedkar Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Murti Verma",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculture & LIC Agent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.,A.(First Year) From B.N.K.B.P.P. College Akbarpur Ambedkarnagar In 1985"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9948535,
+      "immovable": 50095000,
+      "total": 59904337,
+      "liabilities": 12046498
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3848",
+    "retrieved": "2026-08-27"
+  }
+}

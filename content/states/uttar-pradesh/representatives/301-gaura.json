@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-301-gaura",
+  "constituency": {
+    "number": 301,
+    "name": "Gaura",
+    "district": "Gonda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prabhat Kumar Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Agriculture, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Lucknow University Lucknow in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8819233,
+      "immovable": 10400000,
+      "total": 19219234,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2940",
+    "retrieved": "2026-08-27"
+  }
+}

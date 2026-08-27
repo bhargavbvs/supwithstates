@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-260-karachhana",
+  "constituency": {
+    "number": 260,
+    "name": "Karachhana",
+    "district": "Prayagraj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Piyush Ranjan Nishad",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Director, Proprietor",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter-Mediate From UP Education Board in 1989"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14658569,
+      "immovable": 82942400,
+      "total": 97600969,
+      "liabilities": 10272447
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3430",
+    "retrieved": "2026-08-27"
+  }
+}

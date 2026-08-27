@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-164-mohan",
+  "constituency": {
+    "number": 164,
+    "name": "Mohan",
+    "district": "Unnao",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Brajesh Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Spokesman, Atal Bihari Inter College, Unnao (Government Aided)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (History) from M.P.N. College Ausiya, Kanpur University Kanpur, in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14968560,
+      "immovable": 25400000,
+      "total": 40368562,
+      "liabilities": 785265
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2479",
+    "retrieved": "2026-08-27"
+  }
+}

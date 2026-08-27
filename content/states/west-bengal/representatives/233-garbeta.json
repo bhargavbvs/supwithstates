@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-233-garbeta",
+  "constituency": {
+    "number": 233,
+    "name": "Garbeta",
+    "district": "Paschim Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradip Lodha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Calcutta University in 1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 57835673,
+      "immovable": 8364850,
+      "total": 66200535,
+      "liabilities": 27535226
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1030",
+    "retrieved": "2026-08-27"
+  }
+}

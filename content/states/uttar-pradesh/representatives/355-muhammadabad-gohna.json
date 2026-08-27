@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-355-muhammadabad-gohna",
+  "constituency": {
+    "number": 355,
+    "name": "Muhammadabad-Gohna",
+    "district": "Mau",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajendra Kumar",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Agriculture, Business & Ex MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Allahabad University in year 1981"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2560000,
+      "immovable": 16000000,
+      "total": 18560000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4604",
+    "retrieved": "2026-08-27"
+  }
+}

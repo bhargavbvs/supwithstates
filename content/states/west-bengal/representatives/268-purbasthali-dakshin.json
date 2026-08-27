@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-268-purbasthali-dakshin",
+  "constituency": {
+    "number": 268,
+    "name": "Purbasthali Dakshin",
+    "district": "Purba Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pran Krishna Tapadar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Passed, the year of passing - 1998, from Srirampur United High School under West Bengal Board of Secondary Education"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13816090,
+      "immovable": 115000000,
+      "total": 128816090,
+      "liabilities": 5732059
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2232",
+    "retrieved": "2026-08-27"
+  }
+}

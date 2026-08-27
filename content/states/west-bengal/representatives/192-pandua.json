@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-192-pandua",
+  "constituency": {
+    "number": 192,
+    "name": "Pandua",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tusar Kumar Majumdar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Rural Medicial Practitioner",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Passed from Pandua Sashi Bhusan Saha High School, W.B.C.H.S.E. in 2002"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3991729,
+      "immovable": 800000,
+      "total": 4791729,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2444",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-1-behat",
+  "constituency": {
+    "number": 1,
+    "name": "Behat",
+    "district": "Saharanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umar Ali Khan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Business and Rental Income and Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A. (F/T) (Master of Business Administration) from S.R.M. Institute of Management and Technology, Modi Nagar, Dr. Bheem Rao Ambedkar University, Agra in 2001, B.A. from Maharaj Singh Degree College, Saharanpur, CCSU Meerut in 1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15766180,
+      "immovable": 42310855,
+      "total": 58038001,
+      "liabilities": 1406216
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=849",
+    "retrieved": "2026-08-27"
+  }
+}

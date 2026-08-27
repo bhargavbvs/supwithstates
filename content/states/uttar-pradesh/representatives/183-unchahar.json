@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-183-unchahar",
+  "constituency": {
+    "number": 183,
+    "name": "Unchahar",
+    "district": "Rae Bareli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Kumar Pandey",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Business, MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Firoz Ganghi College, Rae Bareli, Kanpur University in 1992"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33187259,
+      "immovable": 129562000,
+      "total": 162648132,
+      "liabilities": 20007088
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2369",
+    "retrieved": "2026-08-27"
+  }
+}

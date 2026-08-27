@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-400-ghorawal",
+  "constituency": {
+    "number": 400,
+    "name": "Ghorawal",
+    "district": "Sonbhadra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Anil Kumar Maurya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Income From Rent, MLA Salary & Allowance",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D (History) i n 2013 from Mahatma Gandhi Kashi University Varanasi Uttar Pradesh"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 40927931,
+      "immovable": 34670000,
+      "total": 73943664,
+      "liabilities": 28137051
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4814",
+    "retrieved": "2026-08-27"
+  }
+}

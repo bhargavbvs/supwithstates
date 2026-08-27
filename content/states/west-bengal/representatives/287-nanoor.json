@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-287-nanoor",
+  "constituency": {
+    "number": 287,
+    "name": "Nanoor",
+    "district": "B|rbh@m",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bidhan Chandra Majhi",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Assistant Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in English the University of Burdwan in the Year 2003 in 2nd Class B.Ed."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6730673,
+      "immovable": 6150000,
+      "total": 12720369,
+      "liabilities": 2990187
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=352",
+    "retrieved": "2026-08-27"
+  }
+}

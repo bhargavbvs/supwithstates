@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-187-champdani",
+  "constituency": {
+    "number": 187,
+    "name": "Champdani",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dilip Singh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School (Class 10) from H.S. School Babusarai, U.P. Board, Varanasi in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15187108,
+      "immovable": 20375000,
+      "total": 35557610,
+      "liabilities": 14725434
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1957",
+    "retrieved": "2026-08-27"
+  }
+}

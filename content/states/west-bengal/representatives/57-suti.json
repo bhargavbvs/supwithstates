@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-57-suti",
+  "constituency": {
+    "number": 57,
+    "name": "Suti",
+    "district": "Murshid>b>d",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Emani Biswas",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Business, Agriculture, MLA.",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (B.A) from CHANDRA MOHAN JHA UNIVERSITY, MEGHALAYA in 2012."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 68555766,
+      "immovable": 28471500,
+      "total": 97027270,
+      "liabilities": 38646803
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=565",
+    "retrieved": "2026-08-27"
+  }
+}

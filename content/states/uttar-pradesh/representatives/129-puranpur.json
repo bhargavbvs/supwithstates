@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-129-puranpur",
+  "constituency": {
+    "number": 129,
+    "name": "Puranpur",
+    "district": "Pilibhit",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Baburam",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "MLA Salary, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. From Bareilly College Bareilly, Ruhail Khand University Bareilly in 1984"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3445312,
+      "immovable": 8556000,
+      "total": 13201314,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2308",
+    "retrieved": "2026-08-27"
+  }
+}

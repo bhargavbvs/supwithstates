@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-5-deoband",
+  "constituency": {
+    "number": 5,
+    "name": "Deoband",
+    "district": "Saharanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Brijesh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Ayurved Shastri From Gurukul Ayurveda College, Jwalapur, Haridwar, Year-1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8785049,
+      "immovable": 4500000,
+      "total": 12285445,
+      "liabilities": 1285000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=814",
+    "retrieved": "2026-08-27"
+  }
+}

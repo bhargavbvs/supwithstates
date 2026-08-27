@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-102-patiyali",
+  "constituency": {
+    "number": 102,
+    "name": "Patiyali",
+    "district": "Kasganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nadira Sultan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from A.M.Y./Jamia Urdu Aligarh In 1975, UP Secondary Education Council Allahabad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8359685,
+      "immovable": 283600000,
+      "total": 295159690,
+      "liabilities": 337000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1929",
+    "retrieved": "2026-08-27"
+  }
+}

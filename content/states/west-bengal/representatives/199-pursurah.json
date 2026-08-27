@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-199-pursurah",
+  "constituency": {
+    "number": 199,
+    "name": "Pursurah",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Biman Ghosh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Politician and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Passed Bachelor Of Science from The University Of Burdwan in the year 2006."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2063368,
+      "immovable": 1613975,
+      "total": 3677344,
+      "liabilities": 271271
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2418",
+    "retrieved": "2026-08-27"
+  }
+}

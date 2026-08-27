@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-89-ranaghat-uttar-purba",
+  "constituency": {
+    "number": 89,
+    "name": "Ranaghat Uttar Purba",
+    "district": "Nadia",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ashim Biswas",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor Of Arts, Honours In Political Science, In The Year Of 1995 From University Of Calcutta"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3809824,
+      "immovable": 3500000,
+      "total": 7309824,
+      "liabilities": 890000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1995",
+    "retrieved": "2026-08-27"
+  }
+}

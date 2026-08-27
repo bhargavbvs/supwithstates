@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-107-mainpuri",
+  "constituency": {
+    "number": 107,
+    "name": "Mainpuri",
+    "district": "Mainpuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayveer Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Kshetriya Inter College Sirsaganj, Madhyamik Shiksha Parishad UP In 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73595681,
+      "immovable": 101790000,
+      "total": 175385682,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1813",
+    "retrieved": "2026-08-27"
+  }
+}

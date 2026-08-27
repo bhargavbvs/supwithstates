@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-242-purulia",
+  "constituency": {
+    "number": 242,
+    "name": "Purulia",
+    "district": "Puruliya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudip Kumar Mukherjee",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Madhyamik Appeared from Manbhum Victoria Institution, Purulia in 1986"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15548432,
+      "immovable": 100000000,
+      "total": 115548432,
+      "liabilities": 1455284
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=88",
+    "retrieved": "2026-08-27"
+  }
+}

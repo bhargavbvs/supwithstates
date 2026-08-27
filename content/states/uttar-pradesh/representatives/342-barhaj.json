@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-342-barhaj",
+  "constituency": {
+    "number": 342,
+    "name": "Barhaj",
+    "district": "Deoria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deepak Kumar Mishr",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Agriculture & Rent from Commercial house",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Kushinagar College Gorakhpur in 1994, B.ed in 1998 from B.R.D.P.G. College Deoria (Deen Dayal Upadhyay Gorakhpur University Gorakhpur)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1879068,
+      "immovable": 11443620,
+      "total": 13322688,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3767",
+    "retrieved": "2026-08-27"
+  }
+}

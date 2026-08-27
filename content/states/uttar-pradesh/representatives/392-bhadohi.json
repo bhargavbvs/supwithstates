@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-392-bhadohi",
+  "constituency": {
+    "number": 392,
+    "name": "Bhadohi",
+    "district": "Bhadohi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Zahid",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agent In LIC And Social worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from M.A. Samad Inter college Bhadohi, Secondary Education Council U.P.-1984"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2418587,
+      "immovable": 13800000,
+      "total": 16218587,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4332",
+    "retrieved": "2026-08-27"
+  }
+}

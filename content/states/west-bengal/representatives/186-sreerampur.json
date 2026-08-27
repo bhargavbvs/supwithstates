@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-186-sreerampur",
+  "constituency": {
+    "number": 186,
+    "name": "Sreerampur",
+    "district": "Hugli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhaskar Bhattacharya",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Post Graduate Diploma in Business Management from Institute of Business Management & Research Kolkata in 1987, B.Com (Hons) from Serampore College in 1987, LLB from Surendra Nath Law College in 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9217276,
+      "immovable": 4180000,
+      "total": 14397276,
+      "liabilities": 96332
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2180",
+    "retrieved": "2026-08-27"
+  }
+}

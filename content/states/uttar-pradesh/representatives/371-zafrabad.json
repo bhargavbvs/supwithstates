@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-371-zafrabad",
+  "constituency": {
+    "number": 371,
+    "name": "Zafrabad",
+    "district": "Jaunpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagdish Narayan",
+    "election": "2022",
+    "elected_party": "Suheldev Bharatiya Samaj Party",
+    "current_party": "Suheldev Bharatiya Samaj Party",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B From Tilakdhari Singh College Jaunpur, Gorakhpur University Year 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 903744,
+      "immovable": 49000000,
+      "total": 49903677,
+      "liabilities": 1194124
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4745",
+    "retrieved": "2026-08-27"
+  }
+}

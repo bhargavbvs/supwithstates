@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-45-hastinapur",
+  "constituency": {
+    "number": 45,
+    "name": "Hastinapur",
+    "district": "Meerut",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dinesh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Passed From Bal Mukund Janta Inter Collage Sanota Dist. Meerut in 1992"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13975654,
+      "immovable": 15000000,
+      "total": 28864656,
+      "liabilities": 4796416
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=167",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-159-bhabanipur",
+  "constituency": {
+    "number": 159,
+    "name": "Bhabanipur",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suvendu Adhikari",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Politician and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Rabindra Bharati University in the year 2011"
+    },
+    "declared_cases": {
+      "total": 29,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2457597,
+      "immovable": 6130000,
+      "total": 8587600,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1568",
+    "retrieved": "2026-08-27"
+  }
+}

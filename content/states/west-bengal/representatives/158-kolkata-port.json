@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-158-kolkata-port",
+  "constituency": {
+    "number": 158,
+    "name": "Kolkata Port",
+    "district": "Kolk>ta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Firhad Hakim",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Business, Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com Passed From Heramba Chandra College(Calcutta University) in 1979,HS From HS Examination From Kalighat High School WBBSE in 1976"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 169755369,
+      "immovable": 67975000,
+      "total": 225753159,
+      "liabilities": 13679075
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2567",
+    "retrieved": "2026-08-27"
+  }
+}

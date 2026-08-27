@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-84-mathura",
+  "constituency": {
+    "number": 84,
+    "name": "Mathura",
+    "district": "Mathura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shrikant Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Cabinet Minister of UP",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A (Political Science) from P.G.D.A.V. College, Delhi University in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4067101,
+      "immovable": 8200000,
+      "total": 12267101,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=157",
+    "retrieved": "2026-08-27"
+  }
+}

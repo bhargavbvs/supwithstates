@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-193-amritpur",
+  "constituency": {
+    "number": 193,
+    "name": "Amritpur",
+    "district": "Farrukhabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sushil Kumar Shakya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 72,
+    "profession": "Salary & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th , Class from K.R Inter College Farrukhabad Year 1968"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9344354,
+      "immovable": 19763900,
+      "total": 29088254,
+      "liabilities": 3105000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1647",
+    "retrieved": "2026-08-27"
+  }
+}

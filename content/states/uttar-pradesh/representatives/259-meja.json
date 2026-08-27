@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-259-meja",
+  "constituency": {
+    "number": 259,
+    "name": "Meja",
+    "district": "Prayagraj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Shruti Rice Mill Firm Swami & Sandeep Singh & Associates",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From Awadesh Pratap Singh University Rewa MP in 2009"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13427937,
+      "immovable": 97894000,
+      "total": 111292361,
+      "liabilities": 36424458
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3419",
+    "retrieved": "2026-08-27"
+  }
+}

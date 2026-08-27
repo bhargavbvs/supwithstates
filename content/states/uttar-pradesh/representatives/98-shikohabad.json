@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-98-shikohabad",
+  "constituency": {
+    "number": 98,
+    "name": "Shikohabad",
+    "district": "Firozabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukesh Verma",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Doctor & MLA, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. (General Surgeon) in November 2007 from Dr. B.R. Ambedkar University Agra"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8138362,
+      "immovable": 28178000,
+      "total": 36316362,
+      "liabilities": 1052297
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1664",
+    "retrieved": "2026-08-27"
+  }
+}

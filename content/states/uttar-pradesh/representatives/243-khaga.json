@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-243-khaga",
+  "constituency": {
+    "number": 243,
+    "name": "Khaga",
+    "district": "Fatehpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Krishna Paswan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture & MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School From Adarsh H.S School, Behrampur Fatehpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9950067,
+      "immovable": 14400000,
+      "total": 24350067,
+      "liabilities": 4554822
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2860",
+    "retrieved": "2026-08-27"
+  }
+}

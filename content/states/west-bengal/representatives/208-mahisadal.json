@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-208-mahisadal",
+  "constituency": {
+    "number": 208,
+    "name": "Mahisadal",
+    "district": "Purba Medin|pur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subhas Chandra Panja",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Licentiate in Electrical Engineering (LEE), From Jagadish Chandra Polytechnic College"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44078477,
+      "immovable": 25090000,
+      "total": 69168067,
+      "liabilities": 20591391
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1",
+    "retrieved": "2026-08-27"
+  }
+}

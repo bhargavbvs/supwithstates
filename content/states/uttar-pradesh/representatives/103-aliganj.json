@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-103-aliganj",
+  "constituency": {
+    "number": 103,
+    "name": "Aliganj",
+    "district": "Etah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satyapal Singh Rathore",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Salary, Agriculture & Kiln Brick business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School in 1975 from DAV Inter College Aliganj Etah"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6850001,
+      "immovable": 68155000,
+      "total": 75005001,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1614",
+    "retrieved": "2026-08-27"
+  }
+}

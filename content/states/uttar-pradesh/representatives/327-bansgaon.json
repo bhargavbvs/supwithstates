@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-327-bansgaon",
+  "constituency": {
+    "number": 327,
+    "name": "Bansgaon",
+    "district": "Gorakhpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Vimlesh Paswan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "MLA & Doctor Practice",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MDS from Oral and Maxillofacial Surgeon"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 63981995,
+      "immovable": 197600000,
+      "total": 261581995,
+      "liabilities": 29323969
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3690",
+    "retrieved": "2026-08-27"
+  }
+}

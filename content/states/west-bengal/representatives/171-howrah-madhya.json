@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-171-howrah-madhya",
+  "constituency": {
+    "number": 171,
+    "name": "Howrah Madhya",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arup Roy",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Legislature Law in 1984, Bachelor of Arts, Bachelor of Commerce from Calcutta University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40821445,
+      "immovable": 7674640,
+      "total": 48496085,
+      "liabilities": 2282974
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1554",
+    "retrieved": "2026-08-27"
+  }
+}

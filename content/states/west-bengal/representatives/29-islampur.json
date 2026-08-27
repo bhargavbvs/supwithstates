@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-29-islampur",
+  "constituency": {
+    "number": 29,
+    "name": "Islampur",
+    "district": "Uttar Din>jpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Agarwal Kanaia Lal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 71,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Lawyer Legislative Bachelor (North Bengal University) 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6863608,
+      "immovable": 49842465,
+      "total": 56706075,
+      "liabilities": 1093919
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=386",
+    "retrieved": "2026-08-27"
+  }
+}

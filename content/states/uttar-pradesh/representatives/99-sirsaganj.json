@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-99-sirsaganj",
+  "constituency": {
+    "number": 99,
+    "name": "Sirsaganj",
+    "district": "Firozabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sarvesh Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter Mediate from R.S.S. Inter College Meerapur Farudabad In 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13372357,
+      "immovable": 15650400,
+      "total": 28652169,
+      "liabilities": 4530874
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1658",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-282-kulti",
+  "constituency": {
+    "number": 282,
+    "name": "Kulti",
+    "district": "Paschim Barddham>n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Kumar Poddar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Medical Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine and Bachelor of Surgery from Ranchi Medical College, Ranchi in the year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22379767,
+      "immovable": 3200000,
+      "total": 25579769,
+      "liabilities": 2740000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=151",
+    "retrieved": "2026-08-27"
+  }
+}

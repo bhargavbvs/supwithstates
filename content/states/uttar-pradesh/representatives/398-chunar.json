@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-398-chunar",
+  "constituency": {
+    "number": 398,
+    "name": "Chunar",
+    "district": "Mirzapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anurag Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "MLA Salary , Business & Bank Interest",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate MBA , From Bundelkhand University, Jhansi Year 1996"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 54639673,
+      "immovable": 65085000,
+      "total": 119746880,
+      "liabilities": 16802651
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4791",
+    "retrieved": "2026-08-27"
+  }
+}

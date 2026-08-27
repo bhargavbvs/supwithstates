@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-233-baberu",
+  "constituency": {
+    "number": 233,
+    "name": "Baberu",
+    "district": "Banda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishambhar Singh",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLB in 1986 from Dayanand Law University Kanpur, M.A. in 1982, B.A. in 1979 from DAV College Kanpur Kanpur University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31031468,
+      "immovable": 2500000,
+      "total": 76265268,
+      "liabilities": 520000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2589",
+    "retrieved": "2026-08-27"
+  }
+}

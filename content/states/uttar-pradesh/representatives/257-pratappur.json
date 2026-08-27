@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-257-pratappur",
+  "constituency": {
+    "number": 257,
+    "name": "Pratappur",
+    "district": "Prayagraj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijama Yadav",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture, Social Worker, Pension",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5535636,
+      "immovable": 31000000,
+      "total": 34640753,
+      "liabilities": 3764767
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3376",
+    "retrieved": "2026-08-27"
+  }
+}

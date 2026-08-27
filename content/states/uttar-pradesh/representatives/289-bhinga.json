@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-289-bhinga",
+  "constituency": {
+    "number": 289,
+    "name": "Bhinga",
+    "district": "Shrawasti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Indrani Devi",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From Tapsi Inter College Semrahna UP Board In 1986"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9525000,
+      "immovable": 31000000,
+      "total": 40525000,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3499",
+    "retrieved": "2026-08-27"
+  }
+}

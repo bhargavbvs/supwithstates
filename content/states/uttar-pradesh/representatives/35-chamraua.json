@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-35-chamraua",
+  "constituency": {
+    "number": 35,
+    "name": "Chamraua",
+    "district": "Rampur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Naseer Ahmad Khan",
+    "election": "2022",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 83,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Rohilkhand University, Govt. Raza Post Graduate College Year 1981"
+    },
+    "declared_cases": {
+      "total": 30,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9614145,
+      "immovable": 33100000,
+      "total": 42688645,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1190",
+    "retrieved": "2026-08-27"
+  }
+}

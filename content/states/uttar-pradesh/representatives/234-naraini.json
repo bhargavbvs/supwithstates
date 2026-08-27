@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-234-naraini",
+  "constituency": {
+    "number": 234,
+    "name": "Naraini",
+    "district": "Banda",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ommani Varma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 36,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Bundelkhand University Jhansi UP In 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2977561,
+      "immovable": 2200000,
+      "total": 5177561,
+      "liabilities": 200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2246",
+    "retrieved": "2026-08-27"
+  }
+}

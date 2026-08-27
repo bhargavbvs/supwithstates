@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-47-malatipur",
+  "constituency": {
+    "number": 47,
+    "name": "Malatipur",
+    "district": "M>ldah",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abdur Rahim Boxi",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Social Worker, Honorarium as Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Pass from West Bengal Council of Higher Secondary Education Year 1984"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8446625,
+      "immovable": 49961431,
+      "total": 58283056,
+      "liabilities": 1049505
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=458",
+    "retrieved": "2026-08-27"
+  }
+}

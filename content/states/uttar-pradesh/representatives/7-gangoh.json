@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-7-gangoh",
+  "constituency": {
+    "number": 7,
+    "name": "Gangoh",
+    "district": "Saharanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kirat Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Manav Bharti University Solan (Himachal Pradesh) in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9521326,
+      "immovable": 13000000,
+      "total": 22521327,
+      "liabilities": 1158633
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=939",
+    "retrieved": "2026-08-27"
+  }
+}

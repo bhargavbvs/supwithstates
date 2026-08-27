@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-50-maldaha",
+  "constituency": {
+    "number": 50,
+    "name": "Maldaha",
+    "district": "M>ldah",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gopal Chandra Saha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from Dr. Ram Manohar Lohia Degree College, Purwa Sujan, Aurraiya Chhatrapati Shahu Ji Maharaj University, Kanpur in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27400145,
+      "immovable": 19431840,
+      "total": 46831990,
+      "liabilities": 43224019
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=461",
+    "retrieved": "2026-08-27"
+  }
+}

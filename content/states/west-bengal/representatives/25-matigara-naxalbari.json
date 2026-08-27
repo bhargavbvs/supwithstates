@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-25-matigara-naxalbari",
+  "constituency": {
+    "number": 25,
+    "name": "Matigara-Naxalbari",
+    "district": "D>rjiling",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Anandamay Barman",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Bengali & Political Science) From North Bengal University, Year-2005 & Master of Education From Netaji Subhash Open University, Year-2020"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5851149,
+      "immovable": 13600000,
+      "total": 19099547,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=470",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-300-mankapur",
+  "constituency": {
+    "number": 300,
+    "name": "Mankapur",
+    "district": "Gonda",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramapati Shastri",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Gurukul College Ayodhya In 1984, Dr. Sampuranand Sanskrit University Varanasi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20703649,
+      "immovable": 23778800,
+      "total": 44482449,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2928",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-134-raidighi",
+  "constituency": {
+    "number": 134,
+    "name": "Raidighi",
+    "district": "South 24parganas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tapas Mondal S/O-Shibprasad Mondal",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Fees From Tuition",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Bengali from University of Calcutta in the year 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1636575,
+      "immovable": 1571668,
+      "total": 3208293,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2328",
+    "retrieved": "2026-08-27"
+  }
+}

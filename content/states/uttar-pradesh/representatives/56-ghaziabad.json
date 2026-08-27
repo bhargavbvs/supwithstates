@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-56-ghaziabad",
+  "constituency": {
+    "number": 56,
+    "name": "Ghaziabad",
+    "district": "Ghaziabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atul Garg",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "MLAs, State Minister, U.P. Govt.",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com (1st Year) from M.M.H. Degree College, Ghaziabad, Meerut University in 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 85603299,
+      "immovable": 135720021,
+      "total": 230304541,
+      "liabilities": 141142769
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=142",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wb-ac-182-udaynarayanpur",
+  "constituency": {
+    "number": 182,
+    "name": "Udaynarayanpur",
+    "district": "H>ora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samir Kumar Panja",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Retired Teacher, Social Worker & MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Arts (Special), University of Calcutta in 1990, Bachelor of Physical Education, Amravati University, 1988, Bachelor of Commerce, University Of Calcutta, 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6441928,
+      "immovable": 22650000,
+      "total": 29091929,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2172",
+    "retrieved": "2026-08-27"
+  }
+}

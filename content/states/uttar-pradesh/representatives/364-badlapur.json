@@ -1,0 +1,41 @@
+{
+  "id": "up-ac-364-badlapur",
+  "constituency": {
+    "number": 364,
+    "name": "Badlapur",
+    "district": "Jaunpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramesh Chandra Mishra",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Passed From UP Education Board Allahabad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10220170,
+      "immovable": 14000000,
+      "total": 24220176,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4672",
+    "retrieved": "2026-08-27"
+  }
+}
