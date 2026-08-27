@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-67-armori",
+  "constituency": {
+    "number": 67,
+    "name": "Armori",
+    "district": "Gadchiroli",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ramdas Maluji Masram",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Retired Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A Education Communication From Yashwantrao Chavhan Open University Nashik In The Year February 2014, B.Ed From Yashwantrao Chavhan Open University Nashik In The Year July 2014"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9967041,
+      "immovable": 25060000,
+      "total": 35027046,
+      "liabilities": 8295077
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=391",
+    "retrieved": "2026-08-27"
+  }
+}

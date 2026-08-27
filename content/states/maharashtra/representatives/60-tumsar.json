@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-60-tumsar",
+  "constituency": {
+    "number": 60,
+    "name": "Tumsar",
+    "district": "Bhandara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karemore Raju Manikrao",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Business & Farming",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass, S.N.More College Tumsar, Tal - Tumar, Dist- Bhandara (Year 1990)"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 167345363,
+      "immovable": 162084940,
+      "total": 329430356,
+      "liabilities": 174498381
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=752",
+    "retrieved": "2026-08-27"
+  }
+}

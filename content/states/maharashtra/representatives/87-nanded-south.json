@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-87-nanded-south",
+  "constituency": {
+    "number": 87,
+    "name": "Nanded South",
+    "district": "Nanded",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anand Shankar Tidke",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Agriculture, Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. (First Year) 2015 from Yashwant Rao Chavan Maharashtra Open University Nashik"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5321766,
+      "immovable": 28500000,
+      "total": 33021776,
+      "liabilities": 94757
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1001",
+    "retrieved": "2026-08-27"
+  }
+}

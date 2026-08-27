@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-171-asthawan",
+  "constituency": {
+    "number": 171,
+    "name": "Asthawan",
+    "district": "Nalanda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jitendra Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Agriculture, Salary Legislative Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D in 2003, M.A. History in 1994 from M.U."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18836262,
+      "immovable": 24200000,
+      "total": 43036262,
+      "liabilities": 5185000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=794",
+    "retrieved": "2026-08-27"
+  }
+}

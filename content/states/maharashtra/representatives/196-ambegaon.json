@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-196-ambegaon",
+  "constituency": {
+    "number": 196,
+    "name": "Ambegaon",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dilip Dattatray Walse Patil",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 67,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM from Govt. Law College Mumbai University in Year 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44464326,
+      "immovable": 18536299,
+      "total": 60642469,
+      "liabilities": 4874069
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=134",
+    "retrieved": "2026-08-27"
+  }
+}

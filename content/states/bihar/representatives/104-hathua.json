@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-104-hathua",
+  "constituency": {
+    "number": 104,
+    "name": "Hathua",
+    "district": "Gopalganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramsewak Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "I.Sc from Gopeshwar College, Hathua Bihar, Bihar Univeristy Muzafarpur In 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7154779,
+      "immovable": 18595236,
+      "total": 25750015,
+      "liabilities": 4663173
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=190",
+    "retrieved": "2026-08-27"
+  }
+}

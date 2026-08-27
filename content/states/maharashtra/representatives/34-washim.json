@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-34-washim",
+  "constituency": {
+    "number": 34,
+    "name": "Washim",
+    "district": "Washim",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shyam Ramcharan Khode",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Retired Pensioner",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC Pass from Z.P. (M.S.) Secondary School & Jr. Collge, Mangrulpir, Tal Dist. Washim in 1984, Nagpur Board"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2476275,
+      "immovable": 683238,
+      "total": 3159513,
+      "liabilities": 249156
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=820",
+    "retrieved": "2026-08-27"
+  }
+}

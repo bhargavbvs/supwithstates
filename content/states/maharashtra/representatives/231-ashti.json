@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-231-ashti",
+  "constituency": {
+    "number": 231,
+    "name": "Ashti",
+    "district": "Beed",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhas Suresh Ramchandra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts, Commerce & Science College Tal Ashti, Dist Beed (M.S.) University Dr. Babasaheb Ambedkar Marathwada University, Aurangabad (M.S) in 1992-93"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 110945686,
+      "immovable": 258448496,
+      "total": 369394182,
+      "liabilities": 36537605
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1724",
+    "retrieved": "2026-08-27"
+  }
+}

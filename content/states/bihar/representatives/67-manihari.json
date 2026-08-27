@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-67-manihari",
+  "constituency": {
+    "number": 67,
+    "name": "Manihari",
+    "district": "Katihar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Manohar Prasad Singh",
+    "election": "2025",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 76,
+    "profession": "Pension and MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduation (History) From Patna University 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10840000,
+      "immovable": 5000000,
+      "total": 15840000,
+      "liabilities": 6000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2413",
+    "retrieved": "2026-08-27"
+  }
+}

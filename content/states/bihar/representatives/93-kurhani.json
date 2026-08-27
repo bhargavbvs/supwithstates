@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-93-kurhani",
+  "constituency": {
+    "number": 93,
+    "name": "Kurhani",
+    "district": "Muzaffarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kedar Prasad Gupta",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 61,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Vinayak Mission University, Tamilnadu, Year-2012 & B.A. (Hons.) From Jiradai Sankhaya College, Ratwada Hindi Vidhyapith Deoghar, Year-2002"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11983420,
+      "immovable": 18475000,
+      "total": 30458420,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=291",
+    "retrieved": "2026-08-27"
+  }
+}

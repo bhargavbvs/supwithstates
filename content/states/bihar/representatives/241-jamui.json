@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-241-jamui",
+  "constituency": {
+    "number": 241,
+    "name": "Jamui",
+    "district": "Jamui",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shreyasi Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 34,
+    "profession": "Sports Person Cum MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From Manav Rachna International Institute of Research and Studies in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15367262,
+      "immovable": 60950000,
+      "total": 76317262,
+      "liabilities": 1331621
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1893",
+    "retrieved": "2026-08-27"
+  }
+}

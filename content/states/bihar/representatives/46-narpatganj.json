@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-46-narpatganj",
+  "constituency": {
+    "number": 46,
+    "name": "Narpatganj",
+    "district": "Araria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devanti Yadav",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Social Worker and Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th (Arts) From Mathurapur Higher Sec School mathurapur Shiv Sagar Asam in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1147264,
+      "immovable": 5500000,
+      "total": 6647264,
+      "liabilities": 890000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1649",
+    "retrieved": "2026-08-27"
+  }
+}

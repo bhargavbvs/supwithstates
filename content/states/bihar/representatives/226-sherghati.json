@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-226-sherghati",
+  "constituency": {
+    "number": 226,
+    "name": "Sherghati",
+    "district": "Gaya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Uday Kumar Singh",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering Bangalore University in 1997"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 437457260,
+      "immovable": 45001800,
+      "total": 482459060,
+      "liabilities": 7066241
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2342",
+    "retrieved": "2026-08-27"
+  }
+}

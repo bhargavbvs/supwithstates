@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-25-mehkar",
+  "constituency": {
+    "number": 25,
+    "name": "Mehkar",
+    "district": "Buldhana",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kharat Siddharth Rambhau",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Retired Government Officer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A English From Marathwada University Aurangabad In The Year 1989, Bachelor Of Journalism From Marathwada University Aurangabad In The Year 1992,Diploma In Information Technology From C-DAC In The Year 1999,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23026601,
+      "immovable": 37390908,
+      "total": 60417512,
+      "liabilities": 10849787
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=936",
+    "retrieved": "2026-08-27"
+  }
+}

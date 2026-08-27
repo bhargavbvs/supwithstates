@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-48-katol",
+  "constituency": {
+    "number": 48,
+    "name": "Katol",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Charansing Babulalji Thakur",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSSC From Secondary & Higher Secondary Education Board, Nagpur Board, in Year 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2693109,
+      "immovable": 28190820,
+      "total": 30883933,
+      "liabilities": 152833
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=969",
+    "retrieved": "2026-08-27"
+  }
+}

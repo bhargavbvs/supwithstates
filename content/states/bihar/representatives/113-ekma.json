@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-113-ekma",
+  "constituency": {
+    "number": 113,
+    "name": "Ekma",
+    "district": "Saran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoranjan Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 66,
+    "profession": "Social Service and Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Non-Matric HEC, Higher Secondary School, Dhurwa, Ranchi (Jharkhand)1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26562390,
+      "immovable": 23050000,
+      "total": 49612390,
+      "liabilities": 5213330
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=892",
+    "retrieved": "2026-08-27"
+  }
+}

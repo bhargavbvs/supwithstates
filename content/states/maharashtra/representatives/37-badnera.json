@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-37-badnera",
+  "constituency": {
+    "number": 37,
+    "name": "Badnera",
+    "district": "Amravati",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravi Gangadhar Rana",
+    "election": "2024",
+    "elected_party": "Rashtriya Yuva Swabhiman Party",
+    "current_party": "Rashtriya Yuva Swabhiman Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Social Worker, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com-2nd From Amaravati University Year 2000, HSC From Bharatiy College, Amravati Year 1998 Amravati Board"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 109861179,
+      "immovable": 90431000,
+      "total": 200292187,
+      "liabilities": 125241899
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1472",
+    "retrieved": "2026-08-27"
+  }
+}

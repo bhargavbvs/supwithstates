@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-110-barharia",
+  "constituency": {
+    "number": 110,
+    "name": "Barharia",
+    "district": "Siwan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Indradev Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from Deendaalpur High School, Siwan Bihar, BSEB in 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10409000,
+      "immovable": 35000000,
+      "total": 45409000,
+      "liabilities": 1800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1037",
+    "retrieved": "2026-08-27"
+  }
+}

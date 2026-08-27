@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-75-warora",
+  "constituency": {
+    "number": 75,
+    "name": "Warora",
+    "district": "Chandrapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karan Sanjay Deotale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 29,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.E. Civil, MBA from Yashwantrao Chavan College of Engineering Nagpur, Shrimati Leena Keshore Mamidvar Institute of Management and Research, Chandrapur. Nagpur university and Godhvana University Gadhchiroli. Year- 2020-21"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8998555,
+      "immovable": 60230200,
+      "total": 69228755,
+      "liabilities": 5990377
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=818",
+    "retrieved": "2026-08-27"
+  }
+}

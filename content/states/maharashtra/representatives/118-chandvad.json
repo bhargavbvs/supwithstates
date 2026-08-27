@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-118-chandvad",
+  "constituency": {
+    "number": 118,
+    "name": "Chandvad",
+    "district": "Nashik",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr.Aher Rahul Daulatrao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Medical Profession And Maruti Suzuki Company Spare Part Distributor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. Ortho From Sancheti Hospital Pune, Pune University In The Year 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 98783258,
+      "immovable": 223833556,
+      "total": 322616814,
+      "liabilities": 14666452
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=196",
+    "retrieved": "2026-08-27"
+  }
+}

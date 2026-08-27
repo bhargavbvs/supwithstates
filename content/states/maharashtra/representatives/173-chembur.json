@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-173-chembur",
+  "constituency": {
+    "number": 173,
+    "name": "Chembur",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tukaram Ramkrushna Kate",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Agriculture, Social Work, Ex-MLA",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Fail from Adarsha Vidyamandir, Ghatla Chembur Mumbai 400071"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4203859,
+      "immovable": 21700262,
+      "total": 25904124,
+      "liabilities": 4277528
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=870",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-206-pimpri",
+  "constituency": {
+    "number": 206,
+    "name": "Pimpri",
+    "district": "Pune",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Anna Dadu Bansode",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "ITI Machinist From Rustan Apprenticeship Chinchwad In The Year 1988-89 & SSC From Jain School Chinchwad Station Pune 411019 In The Year March 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7376398,
+      "immovable": 18030000,
+      "total": 25406399,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=636",
+    "retrieved": "2026-08-27"
+  }
+}

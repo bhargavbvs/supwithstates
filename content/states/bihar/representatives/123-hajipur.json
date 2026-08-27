@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-123-hajipur",
+  "constituency": {
+    "number": 123,
+    "name": "Hajipur",
+    "district": "Vaishali",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Awadhesh Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": "Agriculture and Husbandry",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from RB Singh College, Bihar Intermediate Council, Patna 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20207984,
+      "immovable": 40948000,
+      "total": 61155984,
+      "liabilities": 5509902
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=565",
+    "retrieved": "2026-08-27"
+  }
+}

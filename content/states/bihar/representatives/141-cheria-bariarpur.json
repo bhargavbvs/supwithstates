@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-141-cheria-bariarpur",
+  "constituency": {
+    "number": 141,
+    "name": "Cheria Bariarpur",
+    "district": "Begusarai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhishek Anand",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 42,
+    "profession": "Agriculture and Rental Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate Diploma From Bhartiya Sewa Sansthan Society In Lucknow Uttar Pradesh in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 117583594,
+      "immovable": 0,
+      "total": 117583594,
+      "liabilities": 8005510
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=530",
+    "retrieved": "2026-08-27"
+  }
+}

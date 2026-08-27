@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-9-shirpur",
+  "constituency": {
+    "number": 9,
+    "name": "Shirpur",
+    "district": "Dhule",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kashiram Vechan Pawara",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "4th Pass from ZP Marathi School, Shirur, Dist. Dhule in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7077376,
+      "immovable": 9892180,
+      "total": 16169556,
+      "liabilities": 3035312
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=357",
+    "retrieved": "2026-08-27"
+  }
+}

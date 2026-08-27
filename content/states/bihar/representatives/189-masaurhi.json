@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-189-masaurhi",
+  "constituency": {
+    "number": 189,
+    "name": "Masaurhi",
+    "district": "Patna",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Arun Manjhi",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "EX MLA and Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from HIgh School Nargada, Bihar Board in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4374000,
+      "immovable": 6569000,
+      "total": 10943000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=147",
+    "retrieved": "2026-08-27"
+  }
+}

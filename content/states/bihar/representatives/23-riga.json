@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-23-riga",
+  "constituency": {
+    "number": 23,
+    "name": "Riga",
+    "district": "Sitamarhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Baidyanath Prasad",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 65,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric Pass 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25126547,
+      "immovable": 24500000,
+      "total": 49626547,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2479",
+    "retrieved": "2026-08-27"
+  }
+}

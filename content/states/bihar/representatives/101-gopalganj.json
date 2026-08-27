@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-101-gopalganj",
+  "constituency": {
+    "number": 101,
+    "name": "Gopalganj",
+    "district": "Gopalganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subhash Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Social Worker and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Arts from Urdu Collage Gopalganj University Year 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 42698833,
+      "immovable": 109971000,
+      "total": 152669833,
+      "liabilities": 16831152
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=869",
+    "retrieved": "2026-08-27"
+  }
+}

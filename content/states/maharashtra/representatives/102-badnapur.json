@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-102-badnapur",
+  "constituency": {
+    "number": 102,
+    "name": "Badnapur",
+    "district": "Jalna",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kuche Narayan Tilakchand",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Agriculture And Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Dr. Babasaheb Ambedkar Marathwada University Aurangabad, Vasantrao Naik College Aurangabad In The Year October 1997"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25335174,
+      "immovable": 53595493,
+      "total": 78930670,
+      "liabilities": 13996753
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=158",
+    "retrieved": "2026-08-27"
+  }
+}

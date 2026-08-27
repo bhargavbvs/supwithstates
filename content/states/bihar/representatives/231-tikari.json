@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-231-tikari",
+  "constituency": {
+    "number": 231,
+    "name": "Tikari",
+    "district": "Gaya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Kumar",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 47,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate(History) from William Carey University Shillong Meghalaya in 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11120075,
+      "immovable": 8385000,
+      "total": 19505075,
+      "liabilities": 7000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2283",
+    "retrieved": "2026-08-27"
+  }
+}

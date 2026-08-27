@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-145-sahebpur-kamal",
+  "constituency": {
+    "number": 145,
+    "name": "Sahebpur Kamal",
+    "district": "Begusarai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sattanand Sambuddha Alias Lalan Jee",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hd. (Philosophy) in 2013, M.A. (History) in 1990, B.A. (History) in 1987 from Magdh University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27426731,
+      "immovable": 24300000,
+      "total": 51726731,
+      "liabilities": 2403664
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=40",
+    "retrieved": "2026-08-27"
+  }
+}

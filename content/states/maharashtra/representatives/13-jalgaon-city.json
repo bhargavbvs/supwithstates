@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-13-jalgaon-city",
+  "constituency": {
+    "number": 13,
+    "name": "Jalgaon City",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Damu Bhole (Raju Mama)",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Agriculture And Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Yashwantrao Chavan Maharashtra Open University Nashik In The Year May 2009, SSC From Pune In The Year May 1981"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 126392958,
+      "immovable": 192848935,
+      "total": 319111893,
+      "liabilities": 93774604
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1208",
+    "retrieved": "2026-08-27"
+  }
+}

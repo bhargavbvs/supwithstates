@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-173-rajgir",
+  "constituency": {
+    "number": 173,
+    "name": "Rajgir",
+    "district": "Nalanda",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kaushal Kishore",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Advocate & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Patna Law College, Patna University, Year-2006 & Graduate From Magadh University, Bodhgaya, year-1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16621970,
+      "immovable": 5700000,
+      "total": 22321970,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=428",
+    "retrieved": "2026-08-27"
+  }
+}

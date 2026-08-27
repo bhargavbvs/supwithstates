@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-182-bankipur",
+  "constituency": {
+    "number": 182,
+    "name": "Bankipur",
+    "district": "Patna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prashant Kishor",
+    "election": "2025",
+    "elected_party": "Jan Suraaj Party",
+    "current_party": "Jan Suraaj Party",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Political Advisor & Consultant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Healthcare Management (MHA) Administartive Staff from College of India (ASCI), Hyderabad SHMPD in Collaboration with John Hopkins Uiversity, USA & Hinduja Hospital in 2001-2003, BBA from Department of Business Studies, University of Lucknow, UP"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1217861506,
+      "immovable": 862900000,
+      "total": 2080761506,
+      "liabilities": 63291765
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2966",
+    "retrieved": "2026-08-27"
+  }
+}

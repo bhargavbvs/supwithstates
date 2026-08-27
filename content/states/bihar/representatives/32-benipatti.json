@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-32-benipatti",
+  "constituency": {
+    "number": 32,
+    "name": "Benipatti",
+    "district": "Madhubani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinod Narayan Jha",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 68,
+    "profession": "Agriculture & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from B.S. College, Danapur, Magadh University, Gaya Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15900307,
+      "immovable": 25050000,
+      "total": 40950307,
+      "liabilities": 234388
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2916",
+    "retrieved": "2026-08-27"
+  }
+}

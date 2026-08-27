@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-174-islampur",
+  "constituency": {
+    "number": 174,
+    "name": "Islampur",
+    "district": "Nalanda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ruhail Ranjan",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 44,
+    "profession": "Business/ Social Worker/ Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration From San Jose University, California, U.S.A., Year-2008 & Bachelor of Engineering (Computer Science) From B.I.T. Mesra, Ranchi, Year-2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 100299309,
+      "immovable": 25360000,
+      "total": 125659309,
+      "liabilities": 53273531
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=588",
+    "retrieved": "2026-08-27"
+  }
+}

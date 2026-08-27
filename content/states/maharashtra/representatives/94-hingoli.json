@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-94-hingoli",
+  "constituency": {
+    "number": 94,
+    "name": "Hingoli",
+    "district": "Hingoli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mutkule Tanhaji Sakharamji",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Salary & Agriculture Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass From Adarsh College, Hingoli, Year-1978-1979"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10011299,
+      "immovable": 55187994,
+      "total": 64877903,
+      "liabilities": 19905073
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=544",
+    "retrieved": "2026-08-27"
+  }
+}

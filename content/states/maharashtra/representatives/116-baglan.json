@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-116-baglan",
+  "constituency": {
+    "number": 116,
+    "name": "Baglan",
+    "district": "Nashik",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dilip Manglu Borse",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, 1989 Science & Commerce College"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29453053,
+      "immovable": 25670363,
+      "total": 43811927,
+      "liabilities": 34561049
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3479",
+    "retrieved": "2026-08-27"
+  }
+}

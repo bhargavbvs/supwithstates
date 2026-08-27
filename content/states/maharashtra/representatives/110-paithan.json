@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-110-paithan",
+  "constituency": {
+    "number": 110,
+    "name": "Paithan",
+    "district": "Chhatrapati Sambhajinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhumre Vilas Sandipanrao",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Agriculture, Rent, Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Yashwantrao Chavan Open University in 2013 (vivekanad Arts Sardar Dalipsing Commerce & Science College, Chhatrapati Sambhajinagar)"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 96850868,
+      "immovable": 239278393,
+      "total": 336129261,
+      "liabilities": 158890951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=590",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-99-baikunthpur",
+  "constituency": {
+    "number": 99,
+    "name": "Baikunthpur",
+    "district": "Gopalganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mithilesh Tiwari",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 54,
+    "profession": "Ex-MLA, Bihar Vidhan Sabha",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons) Economics 1989-93 from B.D. Evening College Patna Magadh University Bodhgaya Bihar"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9342364,
+      "immovable": 17358000,
+      "total": 26700364,
+      "liabilities": 1307252
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=154",
+    "retrieved": "2026-08-27"
+  }
+}

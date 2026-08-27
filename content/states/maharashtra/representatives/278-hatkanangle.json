@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-278-hatkanangle",
+  "constituency": {
+    "number": 278,
+    "name": "Hatkanangle",
+    "district": "Kolhapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dalitmitra Dr.Ashokrao Mane(Bapu",
+    "election": "2024",
+    "elected_party": "Jan Surajya Shakti",
+    "current_party": "Jan Surajya Shakti",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Agriculture & Entrepreneur",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass from Junior S.S.C. Shri Padmaraje School Shirol in 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45368333,
+      "immovable": 47600000,
+      "total": 93339165,
+      "liabilities": 14086779
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1265",
+    "retrieved": "2026-08-27"
+  }
+}

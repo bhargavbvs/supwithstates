@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-119-yevla",
+  "constituency": {
+    "number": 119,
+    "name": "Yevla",
+    "district": "Nashik",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chhagan Bhujbal",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 77,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC From Elphinstone Technical High School (I) VJTI Mumbai In The Year 1965"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 37095284,
+      "immovable": 277341000,
+      "total": 314436287,
+      "liabilities": 38323361
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=225",
+    "retrieved": "2026-08-27"
+  }
+}

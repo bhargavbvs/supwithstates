@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-75-saharsa",
+  "constituency": {
+    "number": 75,
+    "name": "Saharsa",
+    "district": "Saharsa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Indrajeet Prasad Gupta",
+    "election": "2025",
+    "elected_party": "Indian Inclusive Party",
+    "current_party": "Indian Inclusive Party",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": "Business & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Tech. in Civil Engineering From M.D.U. Rohtak, Haryana, Year-2018"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 22230680,
+      "immovable": 330605000,
+      "total": 352835680,
+      "liabilities": 5973003
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1428",
+    "retrieved": "2026-08-27"
+  }
+}

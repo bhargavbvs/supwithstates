@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-88-loha",
+  "constituency": {
+    "number": 88,
+    "name": "Loha",
+    "district": "Nanded",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prataprao Patil Chikhalikar",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC From Yashwant College, Nanded Year 1982-83"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16032893,
+      "immovable": 82502381,
+      "total": 98535274,
+      "liabilities": 22984000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1004",
+    "retrieved": "2026-08-27"
+  }
+}

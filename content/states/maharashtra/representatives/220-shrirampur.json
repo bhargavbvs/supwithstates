@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-220-shrirampur",
+  "constituency": {
+    "number": 220,
+    "name": "Shrirampur",
+    "district": "Ahmednagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ogale Hemant Bhujangrao",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Agriculture & Business (Petrol Pump)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A From Pune University (Savitribai Phule Pune University) Pune Year 2002, Ph.D. (Studying) From Bharati University Pune"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12595985,
+      "immovable": 14141423,
+      "total": 26737448,
+      "liabilities": 9972281
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=710",
+    "retrieved": "2026-08-27"
+  }
+}

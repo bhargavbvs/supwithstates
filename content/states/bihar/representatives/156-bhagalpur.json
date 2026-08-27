@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-156-bhagalpur",
+  "constituency": {
+    "number": 156,
+    "name": "Bhagalpur",
+    "district": "Bhagalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rohit Pandey",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 42,
+    "profession": "Political & Social Worker, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Vinayak Mission University In the Year of 2012"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3400000,
+      "immovable": 0,
+      "total": 3400000,
+      "liabilities": 1940799
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2192",
+    "retrieved": "2026-08-27"
+  }
+}

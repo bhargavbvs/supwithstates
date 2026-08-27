@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-222-shevgaon",
+  "constituency": {
+    "number": 222,
+    "name": "Shevgaon",
+    "district": "Ahmednagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Monica Rajeev Rajale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Milk Business,Agriculture,MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Dr. Baba Saheb Ambedkar Marathawad University, Aurangabad Year 1993"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26958965,
+      "immovable": 89017200,
+      "total": 115976175,
+      "liabilities": 8433844
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=347",
+    "retrieved": "2026-08-27"
+  }
+}

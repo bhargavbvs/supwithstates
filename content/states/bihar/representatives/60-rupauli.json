@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-60-rupauli",
+  "constituency": {
+    "number": 60,
+    "name": "Rupauli",
+    "district": "Purnia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kaladhar Prasad Mandal",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Vinayaka Mission University Saleem Tamil Nadu in 2011-2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3503303,
+      "immovable": 10500000,
+      "total": 14003303,
+      "liabilities": 2539112
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1974",
+    "retrieved": "2026-08-27"
+  }
+}

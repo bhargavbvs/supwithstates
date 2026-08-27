@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-195-junnar",
+  "constituency": {
+    "number": 195,
+    "name": "Junnar",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sharaddada Bhimaji Sonawane",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Obstructive",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "F.Y.J.C. Commerce in 1991/92 from Modern College, HSC Board, Mumbai, Vashi"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 15219638,
+      "immovable": 36200000,
+      "total": 51069640,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=119",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-81-pusad",
+  "constituency": {
+    "number": 81,
+    "name": "Pusad",
+    "district": "Yavatmal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Indranil Manohar Naik",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.S., L.L.B. From Sri Ramanand Tirtha Marathwada University, Nanded Year 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19124209,
+      "immovable": 46316654,
+      "total": 71940863,
+      "liabilities": 14097080
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=649",
+    "retrieved": "2026-08-27"
+  }
+}

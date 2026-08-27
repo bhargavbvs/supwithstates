@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-198-shirur",
+  "constituency": {
+    "number": 198,
+    "name": "Shirur",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dnyaneshwar Alias Mauli Aba Katke",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed from Shri Shivaji Maratha Memorial of Society , Pune, Maharashtra Board Year 1994-95"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11236483,
+      "immovable": 83250000,
+      "total": 94500192,
+      "liabilities": 34085700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3201",
+    "retrieved": "2026-08-27"
+  }
+}

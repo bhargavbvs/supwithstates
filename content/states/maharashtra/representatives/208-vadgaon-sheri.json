@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-208-vadgaon-sheri",
+  "constituency": {
+    "number": 208,
+    "name": "Vadgaon Sheri",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bapusaheb Tukaram Pathare",
+    "election": "2024",
+    "elected_party": "NCP-Sharadchandra Pawar",
+    "current_party": "NCP-Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Agriculture And Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "10th Fail From SSC Board Pune Anand Vidhyaniketan High School Vimannagar In The Year March 1976"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 417398127,
+      "immovable": 1665566945,
+      "total": 2082965072,
+      "liabilities": 424235075
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=771",
+    "retrieved": "2026-08-27"
+  }
+}

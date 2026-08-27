@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-55-nagpur-central",
+  "constituency": {
+    "number": 55,
+    "name": "Nagpur Central",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Datke Pravin Prabhakarrao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Agriculture & Member of Legislative Council",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Degree 1st Year Technical from Shri Datt Meghe Polytechnic College in 1996-97, SSC from Maharashtra State Board, Navyug School, Mahal, Nagpur in 1994"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18320525,
+      "immovable": 25718250,
+      "total": 44029775,
+      "liabilities": 6221167
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=975",
+    "retrieved": "2026-08-27"
+  }
+}

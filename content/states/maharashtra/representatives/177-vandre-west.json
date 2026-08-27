@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-177-vandre-west",
+  "constituency": {
+    "number": 177,
+    "name": "Vandre West",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. Ashish Shelar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From G A Advani College In The Year 1995, B.Sc From Parle College In The Year 1992, HSC From Kirti College In The Year 1989, SSC From DGT High School In The Year 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 188128965,
+      "immovable": 216776000,
+      "total": 404884965,
+      "liabilities": 18845731
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=246",
+    "retrieved": "2026-08-27"
+  }
+}

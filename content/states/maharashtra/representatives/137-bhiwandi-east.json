@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-137-bhiwandi-east",
+  "constituency": {
+    "number": 137,
+    "name": "Bhiwandi East",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rais Kasam Shaikh",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Self Employed & Salry as MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, Sydenham College of Commerce & Economics Mumbai , University Of Bombay April 1995"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 18280606,
+      "immovable": 57750000,
+      "total": 76030610,
+      "liabilities": 33677798
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1297",
+    "retrieved": "2026-08-27"
+  }
+}

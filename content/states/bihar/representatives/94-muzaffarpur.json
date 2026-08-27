@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-94-muzaffarpur",
+  "constituency": {
+    "number": 94,
+    "name": "Muzaffarpur",
+    "district": "Muzaffarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ranjan Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From BRABU Muzaffarpur in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46580061,
+      "immovable": 89969966,
+      "total": 136550027,
+      "liabilities": 50715750
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=719",
+    "retrieved": "2026-08-27"
+  }
+}

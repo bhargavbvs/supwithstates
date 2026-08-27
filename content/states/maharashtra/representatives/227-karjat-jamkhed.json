@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-227-karjat-jamkhed",
+  "constituency": {
+    "number": 227,
+    "name": "Karjat Jamkhed",
+    "district": "Ahmednagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rohit Pawar",
+    "election": "2024",
+    "elected_party": "NCP-Sharadchandra Pawar",
+    "current_party": "NCP-Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Agriculturist and Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Management Studies from H.R. College of Commerce and Economics University of Mumbai in 2007"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 556747113,
+      "immovable": 483692883,
+      "total": 1062639996,
+      "liabilities": 471744
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1319",
+    "retrieved": "2026-08-27"
+  }
+}

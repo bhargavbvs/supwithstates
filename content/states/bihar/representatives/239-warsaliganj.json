@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-239-warsaliganj",
+  "constituency": {
+    "number": 239,
+    "name": "Warsaliganj",
+    "district": "Nawada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anita",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 47,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Pharmacy From State Pharmacy Examination Committee Bihar Govt.Pharmacy Institute Patna -7, Year 2000, Intermediate From B.I.E.C. Patna B.M, Collage Haveli Khargpur Year 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11469259,
+      "immovable": 10250000,
+      "total": 21719259,
+      "liabilities": 496500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1817",
+    "retrieved": "2026-08-27"
+  }
+}

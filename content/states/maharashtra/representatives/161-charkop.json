@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-161-charkop",
+  "constituency": {
+    "number": 161,
+    "name": "Charkop",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogesh Sagar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Salaried",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "FYJC from Lions PD Dalmiya College, MAlad West in Year 1978-79"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23989367,
+      "immovable": 55000000,
+      "total": 78989368,
+      "liabilities": 45908963
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=864",
+    "retrieved": "2026-08-27"
+  }
+}

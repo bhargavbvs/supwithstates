@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-235-latur-city",
+  "constituency": {
+    "number": 235,
+    "name": "Latur City",
+    "district": "Latur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amit Vilasrao Deshmukh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Business and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E.(Chemical Engineering) from Bombay University, Mumbai Thadomal Shahani Engineering College, Bandar, Mumbai in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 347852365,
+      "immovable": 78215666,
+      "total": 426068060,
+      "liabilities": 17545490
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=288",
+    "retrieved": "2026-08-27"
+  }
+}

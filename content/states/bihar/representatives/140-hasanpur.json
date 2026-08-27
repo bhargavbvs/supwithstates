@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-140-hasanpur",
+  "constituency": {
+    "number": 140,
+    "name": "Hasanpur",
+    "district": "Samastipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raj Kumar Ray",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Agriculture and Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Under Graduate in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5009964,
+      "immovable": 34500000,
+      "total": 39509964,
+      "liabilities": 5000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=854",
+    "retrieved": "2026-08-27"
+  }
+}

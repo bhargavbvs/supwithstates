@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-54-nagpur-east",
+  "constituency": {
+    "number": 54,
+    "name": "Nagpur East",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khopde Krishna Pancham",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Business & Social Work/Remuneration",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass from Shri Vidyawati Deodiya High School, Itwari, Nagpur in 1975"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36426347,
+      "immovable": 94150000,
+      "total": 130302535,
+      "liabilities": 40899341
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=570",
+    "retrieved": "2026-08-27"
+  }
+}

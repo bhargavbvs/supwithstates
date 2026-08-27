@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-34-babubarhi",
+  "constituency": {
+    "number": 34,
+    "name": "Babubarhi",
+    "district": "Madhubani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mina Kumari",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 36,
+    "profession": "MLA, Social Service, Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Lalit Narayan Mithala University in 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12548272,
+      "immovable": 10100000,
+      "total": 22648272,
+      "liabilities": 2900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2905",
+    "retrieved": "2026-08-27"
+  }
+}

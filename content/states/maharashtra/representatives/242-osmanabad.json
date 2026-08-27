@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-242-osmanabad",
+  "constituency": {
+    "number": 242,
+    "name": "Osmanabad",
+    "district": "Dharashiv",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kailas Balasaheb Ghadge Patil",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture & Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Diploma in Electronics & Communication Engineering from Maharashtra State Technical Education Board Mumbai under Government Technical Dharashiv in 2021, BALLB (5 Years) from New Law College, Bharti University, Earwade"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4114662,
+      "immovable": 8894247,
+      "total": 13008913,
+      "liabilities": 2912795
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=579",
+    "retrieved": "2026-08-27"
+  }
+}

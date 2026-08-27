@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-182-worli",
+  "constituency": {
+    "number": 182,
+    "name": "Worli",
+    "district": "Mumbai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aditya Uddhav Thackeray",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 34,
+    "profession": "Social/Political Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws from K.C. Law College, University of Mumbai in 2015"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 173918729,
+      "immovable": 60451350,
+      "total": 234370078,
+      "liabilities": 4376212
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=230",
+    "retrieved": "2026-08-27"
+  }
+}

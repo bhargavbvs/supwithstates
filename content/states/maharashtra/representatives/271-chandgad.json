@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-271-chandgad",
+  "constituency": {
+    "number": 271,
+    "name": "Chandgad",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shivaji Shattupa Patil",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Business (Construction & Transportation)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "F.Y.B.A from Yashwantrao Chavhan Open University Nashik in May 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8960944,
+      "immovable": 893121545,
+      "total": 913543439,
+      "liabilities": 158458828
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=194",
+    "retrieved": "2026-08-27"
+  }
+}

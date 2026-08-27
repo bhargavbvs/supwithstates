@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-106-phulambri",
+  "constituency": {
+    "number": 106,
+    "name": "Phulambri",
+    "district": "Chhatrapati Sambhajinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anuradha Atul Chavan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Pratibha Niketan College, Nanded in Yr 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39242513,
+      "immovable": 89116000,
+      "total": 111432319,
+      "liabilities": 30366898
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=630",
+    "retrieved": "2026-08-27"
+  }
+}

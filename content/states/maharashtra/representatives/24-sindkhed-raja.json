@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-24-sindkhed-raja",
+  "constituency": {
+    "number": 24,
+    "name": "Sindkhed Raja",
+    "district": "Buldhana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kayande Manoj Devanand",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 35,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 2014 from Shr. Vyankatesh Arts, Commerce & Science College College Deulgaon Raja, Dist. Buldhana, Sant Gadge Baba Amravti University, Amravati"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7013155,
+      "immovable": 12000000,
+      "total": 19013155,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2112",
+    "retrieved": "2026-08-27"
+  }
+}

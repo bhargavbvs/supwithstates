@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-160-kandivali-east",
+  "constituency": {
+    "number": 160,
+    "name": "Kandivali East",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atul Bhatkhalkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "MLA & Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, ML Dahanukar College Mumbai University in Year 1985"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 92591013,
+      "immovable": 41897000,
+      "total": 133205167,
+      "liabilities": 2121369
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=301",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-90-minapur",
+  "constituency": {
+    "number": 90,
+    "name": "Minapur",
+    "district": "Muzaffarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 51,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Science In 1995 From Sant Vinova F.B.R.R.K. College Purvi Champaran, Bihar Intermediate Examination Board Patna"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3028005,
+      "immovable": 20840000,
+      "total": 23868005,
+      "liabilities": 190000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=735",
+    "retrieved": "2026-08-27"
+  }
+}

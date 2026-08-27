@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-2-ramnagar",
+  "constituency": {
+    "number": 2,
+    "name": "Ramnagar",
+    "district": "Pashchimi Champaran",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Nand Kishor Ram",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Social/Political Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From T.P. Verma College Shikarpur, Narkatiyaganj, Year-1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 420927,
+      "immovable": 2860000,
+      "total": 3280927,
+      "liabilities": 488094
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2566",
+    "retrieved": "2026-08-27"
+  }
+}

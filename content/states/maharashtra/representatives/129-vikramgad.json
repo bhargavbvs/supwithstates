@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-129-vikramgad",
+  "constituency": {
+    "number": 129,
+    "name": "Vikramgad",
+    "district": "Palghar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhoye Harishchandra Sakharam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC From Pune Board Year 1986, D.ED From Pune Board in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9643386,
+      "immovable": 5000000,
+      "total": 14643386,
+      "liabilities": 1889099
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=800",
+    "retrieved": "2026-08-27"
+  }
+}

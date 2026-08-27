@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-239-ausa",
+  "constituency": {
+    "number": 239,
+    "name": "Ausa",
+    "district": "Latur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhimanyu Dattatray Pawar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.P.M from Indian Institute of Cost & Management Studies & Research Pune, Pune University in 1995 , DLL & LW from Symbioses Law College, Pune, Pune University , B.Co,m From Dayanand Commerce College Latur"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22641907,
+      "immovable": 7490760,
+      "total": 30132667,
+      "liabilities": 1995000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=411",
+    "retrieved": "2026-08-27"
+  }
+}

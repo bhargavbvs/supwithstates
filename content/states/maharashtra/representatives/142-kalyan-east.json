@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-142-kalyan-east",
+  "constituency": {
+    "number": 142,
+    "name": "Kalyan East",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sulbha Ganpat Gaikwad",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Farmer And Business",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass From Mahatma Gandhi Vidya Mandir Dombivli Thane In The Year 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 229485734,
+      "immovable": 532787016,
+      "total": 759779350,
+      "liabilities": 139926232
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=303",
+    "retrieved": "2026-08-27"
+  }
+}

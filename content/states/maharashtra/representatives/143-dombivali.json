@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-143-dombivali",
+  "constituency": {
+    "number": 143,
+    "name": "Dombivali",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chavan Ravindra Dattatray",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Builder, Fishery, Aquarium, Cafe etc, Business and Salary from Maharashtra Govt",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Pass from Yashwantrao Chavan Maharashtra Open University Nashik in 2020"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 90058952,
+      "immovable": 245027575,
+      "total": 331122401,
+      "liabilities": 176349588
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3064",
+    "retrieved": "2026-08-27"
+  }
+}

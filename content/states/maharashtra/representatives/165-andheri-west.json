@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-165-andheri-west",
+  "constituency": {
+    "number": 165,
+    "name": "Andheri West",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ameet Bhaskar Satam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Elected Representative- MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Management Studies (Personnel from Mahatma Gandhi Missions Institute of Management Studies and Research, University of Mumbai completed in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44150367,
+      "immovable": 71597901,
+      "total": 115751268,
+      "liabilities": 2063244
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=136",
+    "retrieved": "2026-08-27"
+  }
+}

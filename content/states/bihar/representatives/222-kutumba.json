@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-222-kutumba",
+  "constituency": {
+    "number": 222,
+    "name": "Kutumba",
+    "district": "Aurangabad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Lalan Ram",
+    "election": "2025",
+    "elected_party": "Hindustani Awam Morcha (Secular)",
+    "current_party": "Hindustani Awam Morcha (Secular)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 50,
+    "profession": "Ex-MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Acharya in 2011 from Sampurnanand Sanskrit Vishwavidyalaya, Varanasi in 2011"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5607768,
+      "immovable": 19800000,
+      "total": 25407768,
+      "liabilities": 824012
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1772",
+    "retrieved": "2026-08-27"
+  }
+}

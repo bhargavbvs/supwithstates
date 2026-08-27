@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-11-raver",
+  "constituency": {
+    "number": 11,
+    "name": "Raver",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amol Haribhau Jawale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Business Consultancy & Agriculture Allied Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.M.S Year 2007 from AIMS, Mumbai University , B.Sc. Year 2005 from M.J.College, Jalgaon, K.B.C. University (Then -North Maharashtra University) Jalgaon"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 81424087,
+      "immovable": 54150000,
+      "total": 135574362,
+      "liabilities": 3965284
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=672",
+    "retrieved": "2026-08-27"
+  }
+}

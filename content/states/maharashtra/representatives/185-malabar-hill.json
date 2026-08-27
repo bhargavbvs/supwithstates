@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-185-malabar-hill",
+  "constituency": {
+    "number": 185,
+    "name": "Malabar Hill",
+    "district": "Mumbai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mangal Prabhat Lodha",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from University of Jodhpur in 1978, B.Com from University of Jodhpur in 1975"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2280788958,
+      "immovable": 2193607515,
+      "total": 4470923931,
+      "liabilities": 3087484829
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=562",
+    "retrieved": "2026-08-27"
+  }
+}

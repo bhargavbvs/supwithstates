@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-211-khadakwasala",
+  "constituency": {
+    "number": 211,
+    "name": "Khadakwasala",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhimrao Dhondiba Tapkir",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Agriculture,Rent, MLA Salary, Bank Interest",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass Form L.R. Shinde High School Araneshwar Pune Year 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22364406,
+      "immovable": 127050000,
+      "total": 149414406,
+      "liabilities": 5913230
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1078",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-44-arvi",
+  "constituency": {
+    "number": 44,
+    "name": "Arvi",
+    "district": "Wardha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sumit Wankhede",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Engineering Degree from Maharashtra Academy of Engineering, Aalandi, Pune University, Pune, Engineering Degree from Government Technical Arvi, MSBTE, Mumbai in 207"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54481269,
+      "immovable": 305000,
+      "total": 54786274,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1925",
+    "retrieved": "2026-08-27"
+  }
+}

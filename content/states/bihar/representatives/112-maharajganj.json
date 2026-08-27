@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-112-maharajganj",
+  "constituency": {
+    "number": 112,
+    "name": "Maharajganj",
+    "district": "Siwan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hem Narayan Sah",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 63,
+    "profession": "Business and Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate (Hindi University Devghar) Year 2006"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23526821,
+      "immovable": 53500000,
+      "total": 77026821,
+      "liabilities": 2240481
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=72",
+    "retrieved": "2026-08-27"
+  }
+}

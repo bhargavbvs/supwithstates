@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-80-benipur",
+  "constituency": {
+    "number": 80,
+    "name": "Benipur",
+    "district": "Darbhanga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Binay Kumar Choudhary",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 59,
+    "profession": "Service (Professor)",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. (Education) Year 2012 From L.N.M. Darbhanga, Ph.D (Sociology), Year 1992 From L.N.M. Darbhanga"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14476348,
+      "immovable": 11862865,
+      "total": 26339213,
+      "liabilities": 254232
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=505",
+    "retrieved": "2026-08-27"
+  }
+}

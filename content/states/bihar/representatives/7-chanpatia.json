@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-7-chanpatia",
+  "constituency": {
+    "number": 7,
+    "name": "Chanpatia",
+    "district": "Pashchimi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhishek Ranjan",
+    "election": "2025",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 35,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Economics) from B.R.A.B.U. Muzaffarpur , Pass year 2012, Graduation in 2010"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5217694,
+      "immovable": 55000000,
+      "total": 60217694,
+      "liabilities": 13083717
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2692",
+    "retrieved": "2026-08-27"
+  }
+}

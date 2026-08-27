@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-144-kalyan-rural",
+  "constituency": {
+    "number": 144,
+    "name": "Kalyan Rural",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Govardhan More",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Transport & Operators, Builders & Materials Supplier",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Y.C.M.O.U. Nasik in 2021"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25874115,
+      "immovable": 30500000,
+      "total": 56495087,
+      "liabilities": 17037893
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3062",
+    "retrieved": "2026-08-27"
+  }
+}

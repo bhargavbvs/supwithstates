@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-127-raja-pakar",
+  "constituency": {
+    "number": 127,
+    "name": "Raja Pakar",
+    "district": "Vaishali",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mahendra Ram",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 48,
+    "profession": "Mesars Jageshwari Petroleum (Petrol Pump)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From R.N. College Hajipur Bihar University, BRABU, Muzaffarpur, Year 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24317312,
+      "immovable": 4200000,
+      "total": 28517312,
+      "liabilities": 8097115
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1456",
+    "retrieved": "2026-08-27"
+  }
+}

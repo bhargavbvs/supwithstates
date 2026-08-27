@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-24-bathnaha",
+  "constituency": {
+    "number": 24,
+    "name": "Bathnaha",
+    "district": "Sitamarhi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Anil Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 38,
+    "profession": "MLA and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Bachelor of Enginnering ) Ranchi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9178285,
+      "immovable": 8300000,
+      "total": 17478285,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2489",
+    "retrieved": "2026-08-27"
+  }
+}

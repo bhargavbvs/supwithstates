@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-192-alibag",
+  "constituency": {
+    "number": 192,
+    "name": "Alibag",
+    "district": "Raigarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahendra Hari Dalvi",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Business And Agriculture, Proprietor Jeet Transport",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass From Ranade High School Thal Alibag In The Year 1982-83"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 34580701,
+      "immovable": 330243000,
+      "total": 366823701,
+      "liabilities": 63756419
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1800",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-49-savner",
+  "constituency": {
+    "number": 49,
+    "name": "Savner",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Ashishrao Deshmukh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Farmer and Businessman",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy from Nagpur University Nagpur Year 2010"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 327539188,
+      "immovable": 563353711,
+      "total": 890892895,
+      "liabilities": 232236200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3320",
+    "retrieved": "2026-08-27"
+  }
+}

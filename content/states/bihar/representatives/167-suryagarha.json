@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-167-suryagarha",
+  "constituency": {
+    "number": 167,
+    "name": "Suryagarha",
+    "district": "Lakhisarai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramanand Mandal",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 59,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric 1983 from Mahavir Prasad Ramchandrapur Lakhisarai"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4977500,
+      "immovable": 25000000,
+      "total": 29977500,
+      "liabilities": 2200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=333",
+    "retrieved": "2026-08-27"
+  }
+}

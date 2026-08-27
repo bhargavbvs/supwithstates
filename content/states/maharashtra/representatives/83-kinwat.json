@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-83-kinwat",
+  "constituency": {
+    "number": 83,
+    "name": "Kinwat",
+    "district": "Nanded",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhimrao Ramji Keram",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "12th Fail from Science College, Nanded in 1984"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 25110142,
+      "immovable": 55068566,
+      "total": 79953709,
+      "liabilities": 28811835
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=994",
+    "retrieved": "2026-08-27"
+  }
+}

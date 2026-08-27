@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-103-bhokardan",
+  "constituency": {
+    "number": 103,
+    "name": "Bhokardan",
+    "district": "Jalna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Danve Santosh Raosaheb",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Agriculture, Rent, Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Dr. Babasaheb Ambedkar Marathawada University Aurangabad, Moreshwar Arts, Science & Commerce College, Bhokardan Dist Jalna in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48445053,
+      "immovable": 199073138,
+      "total": 247518202,
+      "liabilities": 69511724
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2964",
+    "retrieved": "2026-08-27"
+  }
+}

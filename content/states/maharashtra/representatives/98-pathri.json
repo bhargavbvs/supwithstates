@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-98-pathri",
+  "constituency": {
+    "number": 98,
+    "name": "Pathri",
+    "district": "Parbhani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Uttamrao Vitekar",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Agriculture and Milk Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From Basant College Kaiz Dr. BabaSaheb Marathawada University Year 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22343658,
+      "immovable": 68245750,
+      "total": 92127408,
+      "liabilities": 9897108
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3217",
+    "retrieved": "2026-08-27"
+  }
+}

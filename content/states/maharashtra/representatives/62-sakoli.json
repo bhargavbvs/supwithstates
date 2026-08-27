@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-62-sakoli",
+  "constituency": {
+    "number": 62,
+    "name": "Sakoli",
+    "district": "Bhandara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nanabhau Falgunrao Patole",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Agriculture & Agriculture Related Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "BA(II) from Nagpur Unviersity in Yr 1988"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 23373588,
+      "immovable": 31000000,
+      "total": 54373591,
+      "liabilities": 11365515
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=314",
+    "retrieved": "2026-08-27"
+  }
+}

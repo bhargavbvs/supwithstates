@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-166-andheri-east",
+  "constituency": {
+    "number": 166,
+    "name": "Andheri East",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Murji Patel (Kaka)",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Professional Service Provider",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Std. Y J S Gujarati Night High School Tardeo, Mumbai Year 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28476477,
+      "immovable": 119171066,
+      "total": 147647443,
+      "liabilities": 29877242
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1911",
+    "retrieved": "2026-08-27"
+  }
+}

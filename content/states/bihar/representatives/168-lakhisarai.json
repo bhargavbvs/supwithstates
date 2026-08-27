@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-168-lakhisarai",
+  "constituency": {
+    "number": 168,
+    "name": "Lakhisarai",
+    "district": "Lakhisarai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Kumar Sinha",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Social worker, MLA, Minister",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Civil Engineering Diploma State Polytechnic Begusarai, Science and Technology Dept. Bihar Govt. 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38295805,
+      "immovable": 77950000,
+      "total": 116245805,
+      "liabilities": 12148129
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=116",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-132-nalasopara",
+  "constituency": {
+    "number": 132,
+    "name": "Nalasopara",
+    "district": "Palghar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajan Balkrishna Naik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Land Developer & Construction and Petrol pump Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, from A.V. C. College Vasai, Year 1985"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 306779799,
+      "immovable": 144255619,
+      "total": 451937369,
+      "liabilities": 176247684
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1161",
+    "retrieved": "2026-08-27"
+  }
+}

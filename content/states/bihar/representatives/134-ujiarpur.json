@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-134-ujiarpur",
+  "constituency": {
+    "number": 134,
+    "name": "Ujiarpur",
+    "district": "Samastipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Alok Kumar Mehta",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering from Bangalore Univecity Year 1990"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 18011896,
+      "immovable": 90314000,
+      "total": 108325896,
+      "liabilities": 22805291
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=339",
+    "retrieved": "2026-08-27"
+  }
+}

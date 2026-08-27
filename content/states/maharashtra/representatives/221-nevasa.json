@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-221-nevasa",
+  "constituency": {
+    "number": 221,
+    "name": "Nevasa",
+    "district": "Ahmednagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vitthal Vakilrao Langhe",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th From Pravara Public School , Pravaranagar, Tal. Rahata, Dist. Ahilyanagar in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8816511,
+      "immovable": 16874805,
+      "total": 25691316,
+      "liabilities": 500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1102",
+    "retrieved": "2026-08-27"
+  }
+}

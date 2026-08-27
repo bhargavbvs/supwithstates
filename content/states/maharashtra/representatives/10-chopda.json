@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-10-chopda",
+  "constituency": {
+    "number": 10,
+    "name": "Chopda",
+    "district": "Jalgaon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chandrakant Baliram Sonawane",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc (Zeology) from M.J. College, Jalgaon, Pune in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 68220071,
+      "immovable": 109375198,
+      "total": 163658269,
+      "liabilities": 22623976
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=888",
+    "retrieved": "2026-08-27"
+  }
+}

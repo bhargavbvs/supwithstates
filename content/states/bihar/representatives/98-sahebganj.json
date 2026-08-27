@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-98-sahebganj",
+  "constituency": {
+    "number": 98,
+    "name": "Sahebganj",
+    "district": "Muzaffarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raju Kumar Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": "Former Member of Bihar Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hD from Maharashtra University, M.Tech & B.Tech from L.V.O.V. Politec University, Ukrain"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 84647846,
+      "immovable": 40581000,
+      "total": 125228846,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=696",
+    "retrieved": "2026-08-27"
+  }
+}

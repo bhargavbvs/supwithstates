@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-125-nashik-west",
+  "constituency": {
+    "number": 125,
+    "name": "Nashik West",
+    "district": "Nashik",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hiray Seema Mahesh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from B.Y.K. College Nashik, Pune University in 1990"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14877639,
+      "immovable": 281643200,
+      "total": 296848877,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1035",
+    "retrieved": "2026-08-27"
+  }
+}

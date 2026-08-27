@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-269-kudal",
+  "constituency": {
+    "number": 269,
+    "name": "Kudal",
+    "district": "Sindhudurg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nilesh Narayan Rane",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy (Commerce) from Mumbai University in 2008"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 265003806,
+      "immovable": 60683213,
+      "total": 329154399,
+      "liabilities": 161269228
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1155",
+    "retrieved": "2026-08-27"
+  }
+}

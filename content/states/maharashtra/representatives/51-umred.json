@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-51-umred",
+  "constituency": {
+    "number": 51,
+    "name": "Umred",
+    "district": "Nagpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sanjay Narayanrao Meshram",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Pvt Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech Mech from IIT Mumbai in Year 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9260000,
+      "immovable": 82500000,
+      "total": 91760000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=764",
+    "retrieved": "2026-08-27"
+  }
+}

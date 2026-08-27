@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-201-dumraon",
+  "constituency": {
+    "number": 201,
+    "name": "Dumraon",
+    "district": "Buxar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rahul Kumar Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 38,
+    "profession": "Law Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from CLC University of Delhi - 2008-2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7953876,
+      "immovable": 37430000,
+      "total": 45383876,
+      "liabilities": 27710000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=901",
+    "retrieved": "2026-08-27"
+  }
+}

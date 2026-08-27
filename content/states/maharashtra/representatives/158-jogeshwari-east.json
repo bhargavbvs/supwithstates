@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-158-jogeshwari-east",
+  "constituency": {
+    "number": 158,
+    "name": "Jogeshwari East",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anant (Bala) B. Nar",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Construction Etc",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Bal Vikas Vidya Mandir Jogeshwari East Mumbai 400060 In The Year 1984"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16412213,
+      "immovable": 53471337,
+      "total": 69883550,
+      "liabilities": 26646872
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1288",
+    "retrieved": "2026-08-27"
+  }
+}

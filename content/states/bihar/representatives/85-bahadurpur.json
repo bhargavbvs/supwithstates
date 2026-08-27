@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-85-bahadurpur",
+  "constituency": {
+    "number": 85,
+    "name": "Bahadurpur",
+    "district": "Darbhanga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madan Sahni",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Salary from Bihar Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from Kunwar Singh College, L.N.M.U Darbhanga in 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11349872,
+      "immovable": 27183550,
+      "total": 38533422,
+      "liabilities": 7959793
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=482",
+    "retrieved": "2026-08-27"
+  }
+}

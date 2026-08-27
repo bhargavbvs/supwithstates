@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-46-hinganghat",
+  "constituency": {
+    "number": 46,
+    "name": "Hinganghat",
+    "district": "Wardha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samir Tryambakrao Kunawar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Partnership Firm",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Ra. Su. Bidkar Arts, Commerce & Science College in 1986, Nagpur University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 63319103,
+      "immovable": 62443149,
+      "total": 126639185,
+      "liabilities": 9289375
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=539",
+    "retrieved": "2026-08-27"
+  }
+}

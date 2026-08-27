@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-256-wai",
+  "constituency": {
+    "number": 256,
+    "name": "Wai",
+    "district": "Satara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Makrand Laxmanrao Jadhav (Patil)",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering from Padmashri Dr. Vitthalrao Vikhe Patil College, Pravaranagar, Dist. Ahmednagar in 1987- 88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14460333,
+      "immovable": 39850000,
+      "total": 54310333,
+      "liabilities": 2927630
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=809",
+    "retrieved": "2026-08-27"
+  }
+}

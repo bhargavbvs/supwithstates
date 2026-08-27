@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-150-beldaur",
+  "constituency": {
+    "number": 150,
+    "name": "Beldaur",
+    "district": "Khagaria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Panna Lal Singh Patel",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 76,
+    "profession": "Agriculture and Politics",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from High School Pansalwa, BSEB Patna in 1967"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5785622,
+      "immovable": 4000000,
+      "total": 9785622,
+      "liabilities": 180740
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1063",
+    "retrieved": "2026-08-27"
+  }
+}

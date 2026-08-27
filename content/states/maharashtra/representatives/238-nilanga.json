@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-238-nilanga",
+  "constituency": {
+    "number": 238,
+    "name": "Nilanga",
+    "district": "Latur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nilangekar Sambhaji Diliprao Patil",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Agriculture, Social Work",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "S.P.L. (Flytech Aviation Academy) from D.G.C.A. Hyderabad in 1999"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 64550558,
+      "immovable": 173455028,
+      "total": 238001138,
+      "liabilities": 86386762
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1117",
+    "retrieved": "2026-08-27"
+  }
+}

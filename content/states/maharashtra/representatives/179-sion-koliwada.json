@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-179-sion-koliwada",
+  "constituency": {
+    "number": 179,
+    "name": "Sion Koliwada",
+    "district": "Mumbai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Captain R Tamil Selvan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "MLA & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC Passed (11th Passed) Passing Year 1977, from Government Higher Secondary School, Alangudi, Tamilnadui, India"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9068068,
+      "immovable": 27200000,
+      "total": 36268068,
+      "liabilities": 5197351
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3385",
+    "retrieved": "2026-08-27"
+  }
+}

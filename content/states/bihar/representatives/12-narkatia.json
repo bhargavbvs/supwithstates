@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-12-narkatia",
+  "constituency": {
+    "number": 12,
+    "name": "Narkatia",
+    "district": "Purbi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishal Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 45,
+    "profession": "Agriculture, Business, Social Work & Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "I.Sc. in 1997 from M.S. College, Motihari, BRABU Muzaffarpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11601959,
+      "immovable": 407505636,
+      "total": 419107595,
+      "liabilities": 27423215
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2784",
+    "retrieved": "2026-08-27"
+  }
+}

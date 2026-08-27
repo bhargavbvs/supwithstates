@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-196-tarari",
+  "constituency": {
+    "number": 196,
+    "name": "Tarari",
+    "district": "Bhojpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishal Prashant",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 35,
+    "profession": "Social Service, Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Central Board of Secondery Education, Delhi Year-2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43335786,
+      "immovable": 22077550,
+      "total": 65413336,
+      "liabilities": 3719128
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1158",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-204-maval",
+  "constituency": {
+    "number": 204,
+    "name": "Maval",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunil Shankarrao Shelke",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Agriculture And Business - Shivsai Water Suppliers",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Paranjpe Vidyamandir Talegaon Dabhade In The Year 1994-95"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 384822809,
+      "immovable": 894637725,
+      "total": 1279460530,
+      "liabilities": 67611446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=311",
+    "retrieved": "2026-08-27"
+  }
+}

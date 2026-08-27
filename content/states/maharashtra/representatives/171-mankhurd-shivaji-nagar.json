@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-171-mankhurd-shivaji-nagar",
+  "constituency": {
+    "number": 171,
+    "name": "Mankhurd Shivaji Nagar",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abu Asim Azmi",
+    "election": "2024",
+    "elected_party": "SP",
+    "current_party": "SP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Veer Bahadur Singh Purvanchal Vishwavidyalaya, Janpur, Uttar Pradesh in 2001"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2550418363,
+      "immovable": 543976000,
+      "total": 3094421964,
+      "liabilities": 387310205
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1044",
+    "retrieved": "2026-08-27"
+  }
+}

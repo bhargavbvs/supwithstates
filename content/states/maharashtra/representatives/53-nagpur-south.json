@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-53-nagpur-south",
+  "constituency": {
+    "number": 53,
+    "name": "Nagpur South",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohan Gopalrao Mate",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "ITI in 1988 from Govt. Eng. Edu. Org. B.T.E. Mumbai, SSC in 1984 from Navbharat School, Maharashtra State EDucation Board"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4476926,
+      "immovable": 13312000,
+      "total": 17788926,
+      "liabilities": 1702140
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=572",
+    "retrieved": "2026-08-27"
+  }
+}

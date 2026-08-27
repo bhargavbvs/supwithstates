@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-165-munger",
+  "constituency": {
+    "number": 165,
+    "name": "Munger",
+    "district": "Munger",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kumar Pranay",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Business, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Tilak Manjhi Bhagalpur University 1998"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13474842,
+      "immovable": 1694721000,
+      "total": 1708195842,
+      "liabilities": 2841272
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=392",
+    "retrieved": "2026-08-27"
+  }
+}

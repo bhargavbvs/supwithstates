@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-237-nawada",
+  "constituency": {
+    "number": 237,
+    "name": "Nawada",
+    "district": "Nawada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vibha Devi",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 59,
+    "profession": "Agriculture & Housewife",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 239405058,
+      "immovable": 70333333,
+      "total": 309738391,
+      "liabilities": 52360769
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2029",
+    "retrieved": "2026-08-27"
+  }
+}

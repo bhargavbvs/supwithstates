@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-35-karanja",
+  "constituency": {
+    "number": 35,
+    "name": "Karanja",
+    "district": "Washim",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sai Prakash Dahake",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Agriculture and House wife",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Girls College, Amravati in 1981-1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5688118,
+      "immovable": 37655000,
+      "total": 43346193,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=956",
+    "retrieved": "2026-08-27"
+  }
+}

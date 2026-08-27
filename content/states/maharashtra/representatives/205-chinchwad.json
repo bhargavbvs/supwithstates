@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-205-chinchwad",
+  "constituency": {
+    "number": 205,
+    "name": "Chinchwad",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagtap Shankar Pandurang",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration (MBA) from Savitribai Phule Pune University Maharashtra Year 2021"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 636044563,
+      "immovable": 276781549,
+      "total": 912983860,
+      "liabilities": 216533278
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3029",
+    "retrieved": "2026-08-27"
+  }
+}

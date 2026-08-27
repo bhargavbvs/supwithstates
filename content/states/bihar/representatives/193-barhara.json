@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-193-barhara",
+  "constituency": {
+    "number": 193,
+    "name": "Barhara",
+    "district": "Bhojpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raghvendra Pratap Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 72,
+    "profession": "Agriculture, Salary (as Bihar Legislative Assembly Member)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from T.A.J. High School, Dhamar in 1968"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1835532,
+      "immovable": 7600000,
+      "total": 9435532,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=826",
+    "retrieved": "2026-08-27"
+  }
+}

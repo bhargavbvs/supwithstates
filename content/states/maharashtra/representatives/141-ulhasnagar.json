@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-141-ulhasnagar",
+  "constituency": {
+    "number": 141,
+    "name": "Ulhasnagar",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ailani Kumar Uttamchand",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC from SES Sitadas Khemani High School, Ulhasnagar-2 in the Year 1972"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 252928162,
+      "immovable": 105018000,
+      "total": 357946162,
+      "liabilities": 129724655
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=759",
+    "retrieved": "2026-08-27"
+  }
+}

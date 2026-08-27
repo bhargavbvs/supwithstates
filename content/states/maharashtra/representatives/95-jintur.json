@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-95-jintur",
+  "constituency": {
+    "number": 95,
+    "name": "Jintur",
+    "district": "Parbhani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bordikar Meghna Deepak Sakore",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Business,Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts International Studies, Ajinkya DY Patil Vidyapith, Chaholi Budruk Pune Year 2023"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 107097768,
+      "immovable": 238421984,
+      "total": 340929037,
+      "liabilities": 77507098
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=113",
+    "retrieved": "2026-08-27"
+  }
+}

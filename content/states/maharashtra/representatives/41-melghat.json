@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-41-melghat",
+  "constituency": {
+    "number": 41,
+    "name": "Melghat",
+    "district": "Amravati",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kewalram Tulsiram Kale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Social work and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC in March 1985 from Zilha Parishad High School Goulkheda Bazar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3393241,
+      "immovable": 9961865,
+      "total": 13355106,
+      "liabilities": 1509956
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1237",
+    "retrieved": "2026-08-27"
+  }
+}

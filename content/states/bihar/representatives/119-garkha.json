@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-119-garkha",
+  "constituency": {
+    "number": 119,
+    "name": "Garkha",
+    "district": "Saran",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Surendra Ram",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 45,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Hindi Vidhyapith, Deoghar, Jharkhand in 2008"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6224491,
+      "immovable": 13450000,
+      "total": 19674491,
+      "liabilities": 507303
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=145",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-131-boisar",
+  "constituency": {
+    "number": 131,
+    "name": "Boisar",
+    "district": "Palghar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vilas Sukur Tare",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Agriculture And Business, Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass From Swatantra Sainik Narottam Lakshman Patil Secondary School Satiwali Palghar In The Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3284511,
+      "immovable": 1001440,
+      "total": 10679521,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2129",
+    "retrieved": "2026-08-27"
+  }
+}

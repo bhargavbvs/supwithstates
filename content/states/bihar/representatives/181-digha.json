@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-181-digha",
+  "constituency": {
+    "number": 181,
+    "name": "Digha",
+    "district": "Patna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjiv Chaurasia",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From Ranchi University in 2006, MBA From Patna University in 1996, M.Com From Patna University in 1993"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36793000,
+      "immovable": 188035000,
+      "total": 224828000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=179",
+    "retrieved": "2026-08-27"
+  }
+}

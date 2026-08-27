@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-142-bachhwara",
+  "constituency": {
+    "number": 142,
+    "name": "Bachhwara",
+    "district": "Begusarai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surendra Mehta",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 66,
+    "profession": "MLA & Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate APSM College Barauni Intermediate Council Patna 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7772000,
+      "immovable": 2000000,
+      "total": 9772000,
+      "liabilities": 993899
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=360",
+    "retrieved": "2026-08-27"
+  }
+}

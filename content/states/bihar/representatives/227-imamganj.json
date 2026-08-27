@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-227-imamganj",
+  "constituency": {
+    "number": 227,
+    "name": "Imamganj",
+    "district": "Gaya",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Deepa Kumari",
+    "election": "2025",
+    "elected_party": "Hindustani Awam Morcha (Secular)",
+    "current_party": "Hindustani Awam Morcha (Secular)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 45,
+    "profession": "Member of Bihar Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate from Magadh University Bodhgaya in 2015, Graduate from Wazirganj College, Magadh University, Bodh Gaya, in 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17467647,
+      "immovable": 46580000,
+      "total": 64047647,
+      "liabilities": 19109289
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2242",
+    "retrieved": "2026-08-27"
+  }
+}

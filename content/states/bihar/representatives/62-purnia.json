@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-62-purnia",
+  "constituency": {
+    "number": 62,
+    "name": "Purnia",
+    "district": "Purnia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Kumar Khemka",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 66,
+    "profession": "Social Work, Govt. Salary Allowance",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Lalit Narayan Mithila University, Darbhanga in 1976, 10th from Sumrit High School, Banmankhi, Patna in 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24257749,
+      "immovable": 11700000,
+      "total": 35957749,
+      "liabilities": 400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1802",
+    "retrieved": "2026-08-27"
+  }
+}

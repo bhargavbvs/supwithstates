@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-276-kolhapur-north",
+  "constituency": {
+    "number": 276,
+    "name": "Kolhapur North",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Vinayak Kshirsagar",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Business - Prop. Ruturaj Jewellers, Shaniwar Peth, Kolhapur",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. in 1988/89 from Deshbhakt Ratnappa Kumbhar College of Commerce, Kolhapur, Chh. Shivaji University, Kolhapur"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 53013201,
+      "immovable": 91275240,
+      "total": 144288444,
+      "liabilities": 5838356
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1194",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-146-ovala-majiwada",
+  "constituency": {
+    "number": 146,
+    "name": "Ovala ?majiwada",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pratap Baburao Sarnaik",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Builder, Hotel Business, Vihang Group of Companies",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass from SV Joshi School, Dombivali East in Year 1980-81"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1006952748,
+      "immovable": 2326342363,
+      "total": 3333295113,
+      "liabilities": 1999932206
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=586",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-43-morshi",
+  "constituency": {
+    "number": 43,
+    "name": "Morshi",
+    "district": "Amravati",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umesh Alias Chandu Atmaramji Yawalkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Com, LLB, from Nagpur University in 1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21592731,
+      "immovable": 192900000,
+      "total": 214492731,
+      "liabilities": 10941436
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=963",
+    "retrieved": "2026-08-27"
+  }
+}

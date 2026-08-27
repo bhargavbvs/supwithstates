@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-3-nandurbar",
+  "constituency": {
+    "number": 3,
+    "name": "Nandurbar",
+    "district": "Nandurbar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr.Vijaykumar Krushanrao Gavit",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Members of Legislative Assembly Honors and Salary as well as Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD (General Medicine) from Government Medical College, Aurangabad in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53736243,
+      "immovable": 302200036,
+      "total": 355936287,
+      "liabilities": 69126021
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3294",
+    "retrieved": "2026-08-27"
+  }
+}

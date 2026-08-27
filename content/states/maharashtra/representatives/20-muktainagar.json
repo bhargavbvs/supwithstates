@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-20-muktainagar",
+  "constituency": {
+    "number": 20,
+    "name": "Muktainagar",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandrakant Nimba Patil",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA 3rd Year from Sant Muktabai College, Muktainagar, in Yr 1993-94"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24853081,
+      "immovable": 27337000,
+      "total": 52190087,
+      "liabilities": 8948292
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2887",
+    "retrieved": "2026-08-27"
+  }
+}

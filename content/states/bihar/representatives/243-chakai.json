@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-243-chakai",
+  "constituency": {
+    "number": 243,
+    "name": "Chakai",
+    "district": "Jamui",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Savitri Devi",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 77,
+    "profession": "Agriculture and Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From Falguni Prasad Yadav College Chakai Bihar Intermediate Council Patna Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4566976,
+      "immovable": 24175000,
+      "total": 28741976,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1910",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-261-patan",
+  "constituency": {
+    "number": 261,
+    "name": "Patan",
+    "district": "Satara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Desai Shambhuraj Shivajirao",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "S.Y.B.Com from Brihan Maharashtra College of Commerce, Pune (Savitribai Phule Pune University, Pune) in 1985-86, 12th from Dhananjay Gadgil Commerce College, Satara, (Maharashtra State Higher Secondary Education Board, Pune) in 1983-84"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 59078846,
+      "immovable": 136968215,
+      "total": 196047063,
+      "liabilities": 54550528
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=622",
+    "retrieved": "2026-08-27"
+  }
+}

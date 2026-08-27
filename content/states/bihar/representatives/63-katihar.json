@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-63-katihar",
+  "constituency": {
+    "number": 63,
+    "name": "Katihar",
+    "district": "Katihar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tarkishore Prasad",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 69,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter - Darshan Shah College Katihar (Mithila University Darbhanga in 1974)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12060848,
+      "immovable": 17500000,
+      "total": 29560848,
+      "liabilities": 53125
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2401",
+    "retrieved": "2026-08-27"
+  }
+}

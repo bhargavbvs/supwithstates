@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-137-mohiuddinnagar",
+  "constituency": {
+    "number": 137,
+    "name": "Mohiuddinnagar",
+    "district": "Samastipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Kumar Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 51,
+    "profession": "Social Worker & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Hons) 1995 Bhim Rao Ambedkar University Muzaffarpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5883718,
+      "immovable": 30500000,
+      "total": 36383718,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=727",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-178-mokama",
+  "constituency": {
+    "number": 178,
+    "name": "Mokama",
+    "district": "Patna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anant Kumar Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 64,
+    "profession": "Social Work, Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 28,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 418390718,
+      "immovable": 587782990,
+      "total": 1006173708,
+      "liabilities": 259955110
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=78",
+    "retrieved": "2026-08-27"
+  }
+}

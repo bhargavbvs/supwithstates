@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-200-indapur",
+  "constituency": {
+    "number": 200,
+    "name": "Indapur",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dattatraya Vithoba Bharane",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "T.Y. B.Com (Appeared) from T.C. College Baramati, Pune Univesity 1989-90"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 197767534,
+      "immovable": 496949499,
+      "total": 694717033,
+      "liabilities": 90180039
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3166",
+    "retrieved": "2026-08-27"
+  }
+}

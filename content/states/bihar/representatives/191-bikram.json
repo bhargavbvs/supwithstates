@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-191-bikram",
+  "constituency": {
+    "number": 191,
+    "name": "Bikram",
+    "district": "Patna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Siddharth Saurav",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 44,
+    "profession": "Agriculture & Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Science College Patna University Patna Year 1999"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 31232421,
+      "immovable": 406000000,
+      "total": 437232421,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=513",
+    "retrieved": "2026-08-27"
+  }
+}

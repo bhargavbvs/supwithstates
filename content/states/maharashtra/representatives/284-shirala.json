@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-284-shirala",
+  "constituency": {
+    "number": 284,
+    "name": "Shirala",
+    "district": "Sangli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deshmukh Satyajit Shivajirao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Ruparel College, Mumbai, Mumbai University in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29511590,
+      "immovable": 94545000,
+      "total": 123956590,
+      "liabilities": 24515570
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=693",
+    "retrieved": "2026-08-27"
+  }
+}

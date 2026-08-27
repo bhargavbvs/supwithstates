@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-31-akola-east",
+  "constituency": {
+    "number": 31,
+    "name": "Akola East",
+    "district": "Akola",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Randhir Pralhadrao Sawarkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Business(Proprietor. NEXT SHOPPEE. Akola) & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E Production From College of Engineering And Tech. Akola Sant Gadge Baba Amravati University in Year 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32604819,
+      "immovable": 138436350,
+      "total": 171041171,
+      "liabilities": 35283817
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=379",
+    "retrieved": "2026-08-27"
+  }
+}

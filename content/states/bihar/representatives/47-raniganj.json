@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-47-raniganj",
+  "constituency": {
+    "number": 47,
+    "name": "Raniganj",
+    "district": "Araria",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Avinash Manglam",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 38,
+    "profession": "Tenancy",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "I.A. from B.I.E.C. Patna in 2004"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 926374,
+      "immovable": 850000,
+      "total": 1776374,
+      "liabilities": 33606
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1656",
+    "retrieved": "2026-08-27"
+  }
+}

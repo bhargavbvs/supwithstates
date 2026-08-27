@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-93-kalamnuri",
+  "constituency": {
+    "number": 93,
+    "name": "Kalamnuri",
+    "district": "Hingoli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bangar Santosh Laxmanrao",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Agricuture",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass from Manik Samarak School Hingoli 1995"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20389770,
+      "immovable": 26200910,
+      "total": 45815380,
+      "liabilities": 2209161
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1021",
+    "retrieved": "2026-08-27"
+  }
+}

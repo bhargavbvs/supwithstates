@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-203-bhor",
+  "constituency": {
+    "number": 203,
+    "name": "Bhor",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shankar Hiraman Mandekar",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Sant Gora Kumbhar High School and Junior College Pashan."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13964200,
+      "immovable": 112700000,
+      "total": 126664200,
+      "liabilities": 7353000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1273",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-29-runnisaidpur",
+  "constituency": {
+    "number": 29,
+    "name": "Runnisaidpur",
+    "district": "Sitamarhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pankaj Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 51,
+    "profession": "Farmer and Sensor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Baba Sahib Bhim Rao Ambedkar University Muzaffarpur in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 93111717,
+      "immovable": 16572900,
+      "total": 109684617,
+      "liabilities": 17122268
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2845",
+    "retrieved": "2026-08-27"
+  }
+}

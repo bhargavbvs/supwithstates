@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-120-amnour",
+  "constituency": {
+    "number": 120,
+    "name": "Amnour",
+    "district": "Saran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishan Kumar Mantoo",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 47,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From Town Inter School, Old G.T. Road, Aurangabad, Bihar, National Institute of Open Schooling, Year-2012"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 33716805,
+      "immovable": 61065253,
+      "total": 94782058,
+      "liabilities": 44956819
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=355",
+    "retrieved": "2026-08-27"
+  }
+}

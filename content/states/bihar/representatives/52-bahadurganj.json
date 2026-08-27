@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-52-bahadurganj",
+  "constituency": {
+    "number": 52,
+    "name": "Bahadurganj",
+    "district": "Kishanganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md Tauseef Alam",
+    "election": "2025",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 45,
+    "profession": "Agriculture, Interest from Saving Account In Bank, Household Chores, MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Fokania Madarsa Abidiya, Govabadi, Bahadurganj, Bihar State Madarsa Board In 1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9567390,
+      "immovable": 19654729,
+      "total": 29222119,
+      "liabilities": 5639298
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2062",
+    "retrieved": "2026-08-27"
+  }
+}

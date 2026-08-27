@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-99-partur",
+  "constituency": {
+    "number": 99,
+    "name": "Partur",
+    "district": "Jalna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babanrao Dattatray Yadav (Lonikar)",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "5th from Z .P. Primary School Loani hurd Tal. Parture Dist. Jalna in 1973"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12186137,
+      "immovable": 176463442,
+      "total": 188649579,
+      "liabilities": 35729749
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=617",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-180-wadala",
+  "constituency": {
+    "number": 180,
+    "name": "Wadala",
+    "district": "Mumbai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalidas Nilkanth Kolambkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "M.L.A.",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "S.S.C. (Old) from Lokseva Vidyalaya, Naigaon, Mumbai-14 in 1973"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12180990,
+      "immovable": 63360000,
+      "total": 75540993,
+      "liabilities": 1050403
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=233",
+    "retrieved": "2026-08-27"
+  }
+}

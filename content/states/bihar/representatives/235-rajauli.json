@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-235-rajauli",
+  "constituency": {
+    "number": 235,
+    "name": "Rajauli",
+    "district": "Nawada",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vimal Rajbanshi",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 59,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2365032,
+      "immovable": 20000000,
+      "total": 22365032,
+      "liabilities": 850000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2005",
+    "retrieved": "2026-08-27"
+  }
+}

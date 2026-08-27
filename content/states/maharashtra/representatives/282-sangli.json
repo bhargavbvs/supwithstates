@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-282-sangli",
+  "constituency": {
+    "number": 282,
+    "name": "Sangli",
+    "district": "Sangli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhananjay Hari Gadgil",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from Chintamanrao College of Commerce Shivaji University in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 896761355,
+      "immovable": 85292000,
+      "total": 978731153,
+      "liabilities": 122291498
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=321",
+    "retrieved": "2026-08-27"
+  }
+}

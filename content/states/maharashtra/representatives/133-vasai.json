@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-133-vasai",
+  "constituency": {
+    "number": 133,
+    "name": "Vasai",
+    "district": "Palghar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sneha Dube Pandit",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Rizwi Law College Bandra West Year 2009"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8359274,
+      "immovable": 8506900,
+      "total": 16866201,
+      "liabilities": 4644974
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=788",
+    "retrieved": "2026-08-27"
+  }
+}

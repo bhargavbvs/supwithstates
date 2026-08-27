@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-14-govindganj",
+  "constituency": {
+    "number": 14,
+    "name": "Govindganj",
+    "district": "Purbi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raju Tiwari",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Darshan shastra, Pandit Deen Dayal Upadhyay, V.V. Gorakhpur, U.P. in 1994, Graduate from Gorakhpur University in 1992"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4084277,
+      "immovable": 29500000,
+      "total": 33584277,
+      "liabilities": 1232700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2798",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-8-sindkheda",
+  "constituency": {
+    "number": 8,
+    "name": "Sindkheda",
+    "district": "Dhule",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaykumar Jitendrasinh Rawal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Pune Vidyapeeth, April 1997"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 143118083,
+      "immovable": 175182169,
+      "total": 319296759,
+      "liabilities": 44267960
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=718",
+    "retrieved": "2026-08-27"
+  }
+}

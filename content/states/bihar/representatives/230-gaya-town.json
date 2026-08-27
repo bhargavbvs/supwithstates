@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-230-gaya-town",
+  "constituency": {
+    "number": 230,
+    "name": "Gaya Town",
+    "district": "Gaya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prem Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 70,
+    "profession": "Social Worker, Allowance Members of the Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D.from Magadh University Boddh Gaya Year 1999"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14609537,
+      "immovable": 122468814,
+      "total": 137078351,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2297",
+    "retrieved": "2026-08-27"
+  }
+}

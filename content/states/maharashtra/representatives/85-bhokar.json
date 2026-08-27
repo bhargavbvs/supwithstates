@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-85-bhokar",
+  "constituency": {
+    "number": 85,
+    "name": "Bhokar",
+    "district": "Nanded",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chavan Sreejaya Ashokrao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws (LLB) from K.C. Law College, Churchgate, Mumbai Year 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 129593447,
+      "immovable": 157831975,
+      "total": 288149755,
+      "liabilities": 11677001
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3262",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-26-khamgaon",
+  "constituency": {
+    "number": 26,
+    "name": "Khamgaon",
+    "district": "Buldhana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akash Pandurang Fundkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Agriculture, Salary, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B I.L.S.Law College Pune 2008-09, B.Com From Go Se Science And Arts College Khamgaon Sant Gadge Baba Amrawati University In The Year 2004-2005"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53033266,
+      "immovable": 43372656,
+      "total": 96405922,
+      "liabilities": 26428492
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=939",
+    "retrieved": "2026-08-27"
+  }
+}

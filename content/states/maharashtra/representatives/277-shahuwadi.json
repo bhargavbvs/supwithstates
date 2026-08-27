@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-277-shahuwadi",
+  "constituency": {
+    "number": 277,
+    "name": "Shahuwadi",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Vinay Vilasrao Kore (Savkar)",
+    "election": "2024",
+    "elected_party": "Jan Surajya Shakti",
+    "current_party": "Jan Surajya Shakti",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Agriculture & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from H.S.C. Board, Pune, March 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43450325,
+      "immovable": 21934027,
+      "total": 66573352,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=339",
+    "retrieved": "2026-08-27"
+  }
+}

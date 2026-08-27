@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-209-kargahar",
+  "constituency": {
+    "number": 209,
+    "name": "Kargahar",
+    "district": "Rohtas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bashisth Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Agriculture & Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from S.V.B.P. College Bhabua (Kaimur) in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8255114,
+      "immovable": 87935000,
+      "total": 96190114,
+      "liabilities": 5669171
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2884",
+    "retrieved": "2026-08-27"
+  }
+}

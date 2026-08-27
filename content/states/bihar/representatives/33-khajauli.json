@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-33-khajauli",
+  "constituency": {
+    "number": 33,
+    "name": "Khajauli",
+    "district": "Madhubani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arun Shankar Prasad",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 64,
+    "profession": "Social Worker & Agriculture Work & Member of Legislative Assembly Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From L.N.M. University, Darbhanga, Year-1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10047988,
+      "immovable": 20900000,
+      "total": 30947988,
+      "liabilities": 1402517
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2470",
+    "retrieved": "2026-08-27"
+  }
+}

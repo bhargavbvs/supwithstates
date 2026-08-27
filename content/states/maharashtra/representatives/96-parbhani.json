@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-96-parbhani",
+  "constituency": {
+    "number": 96,
+    "name": "Parbhani",
+    "district": "Parbhani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Rahul Vedprakash Patil",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine & Bachelor in Surgery (MBBS) from Government Medical College, Chh. Sambhajinagar, Dr. Babasaheb Ambedkar Marathwada University, Chh. Sambhajinagar in 1999"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25055327,
+      "immovable": 35876720,
+      "total": 61030048,
+      "liabilities": 16505220
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=610",
+    "retrieved": "2026-08-27"
+  }
+}

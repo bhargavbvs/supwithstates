@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-229-bodh-gaya",
+  "constituency": {
+    "number": 229,
+    "name": "Bodh Gaya",
+    "district": "Gaya",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kumar Sarvjeet",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 50,
+    "profession": "Social Service, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech from Birla Institute of Technology Ranchi in 2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26609525,
+      "immovable": 91435000,
+      "total": 118044525,
+      "liabilities": 1283097
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2317",
+    "retrieved": "2026-08-27"
+  }
+}

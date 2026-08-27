@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-139-murbad",
+  "constituency": {
+    "number": 139,
+    "name": "Murbad",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kisan Shankar Kathore",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Fail from New English School Murbad in Year 1972"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 38947687,
+      "immovable": 133085972,
+      "total": 172033659,
+      "liabilities": 8546871
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1300",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-170-barbigha",
+  "constituency": {
+    "number": 170,
+    "name": "Barbigha",
+    "district": "Sheikhpura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Kumar Puspanjay",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 62,
+    "profession": "Teaching and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctorate of Philosphy (Ph.D) From Magadh University in 1992 , Bachelor of Law (L.L.B) From Magadh University in 1990,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 260352587,
+      "immovable": 684950000,
+      "total": 945302587,
+      "liabilities": 18280275
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=487",
+    "retrieved": "2026-08-27"
+  }
+}

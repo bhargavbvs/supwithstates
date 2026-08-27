@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-18-madhuban",
+  "constituency": {
+    "number": 18,
+    "name": "Madhuban",
+    "district": "Purbi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rana Randhir",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Social worker and political activity",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering (B.E) From Bit Meshra Ranchi (A Deemed University) Birla Institute of Tachnology in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13607000,
+      "immovable": 1550000,
+      "total": 15157000,
+      "liabilities": 4059838
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2749",
+    "retrieved": "2026-08-27"
+  }
+}

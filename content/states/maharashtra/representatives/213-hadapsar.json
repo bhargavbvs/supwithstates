@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-213-hadapsar",
+  "constituency": {
+    "number": 213,
+    "name": "Hadapsar",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chetan Vitthal Tupe",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Business,Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "F.Y.J.C. From Laxmanrao Aapte School, Pune, Year-1991 & SSC From Nutan Marathi School, Pune, Year-1986"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 407634804,
+      "immovable": 370664000,
+      "total": 778298804,
+      "liabilities": 57390466
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1086",
+    "retrieved": "2026-08-27"
+  }
+}

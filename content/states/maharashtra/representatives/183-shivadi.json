@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-183-shivadi",
+  "constituency": {
+    "number": 183,
+    "name": "Shivadi",
+    "district": "Mumbai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Vinayak Choudhari",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Business and Political Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "XI Standard from Social Service League High School, Damodar Hall Compound Parel, Mumbai 400012 in Year 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37116397,
+      "immovable": 45408000,
+      "total": 82524397,
+      "liabilities": 2325000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=702",
+    "retrieved": "2026-08-27"
+  }
+}

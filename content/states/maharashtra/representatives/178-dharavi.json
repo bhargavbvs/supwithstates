@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-178-dharavi",
+  "constituency": {
+    "number": 178,
+    "name": "Dharavi",
+    "district": "Mumbai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Gaikwad Jyoti Eknath",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Service & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.D/M.S. Ayurveda in Branch Rachana Sharir from RA Pdar Medical College(Ayur) Mumbai in Year 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26445899,
+      "immovable": 94876031,
+      "total": 121454711,
+      "liabilities": 14721388
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=489",
+    "retrieved": "2026-08-27"
+  }
+}

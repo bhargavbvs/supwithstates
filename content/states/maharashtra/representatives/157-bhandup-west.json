@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-157-bhandup-west",
+  "constituency": {
+    "number": 157,
+    "name": "Bhandup West",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Dharmaraj Patil",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Business, Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A.L.L.B. from Vidhya Prasarak Mandal, T.M.C. Law College, Pune, Mumbai Vidyapeeth in 1982"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10600608,
+      "immovable": 114400000,
+      "total": 125000608,
+      "liabilities": 1600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3391",
+    "retrieved": "2026-08-27"
+  }
+}

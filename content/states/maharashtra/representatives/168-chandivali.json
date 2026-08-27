@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-168-chandivali",
+  "constituency": {
+    "number": 168,
+    "name": "Chandivali",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dilip Bhausaheb Lande",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Yashwantrao Chauhan Open University in Year 2008"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39537391,
+      "immovable": 34215000,
+      "total": 73752397,
+      "liabilities": 24862031
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=849",
+    "retrieved": "2026-08-27"
+  }
+}

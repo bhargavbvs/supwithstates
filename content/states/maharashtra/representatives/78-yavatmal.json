@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-78-yavatmal",
+  "constituency": {
+    "number": 78,
+    "name": "Yavatmal",
+    "district": "Yavatmal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Alias Balasaheb Shankarrao Mangulkar",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Social Worker, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Aglo Hindi High School Yavatmal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8385000,
+      "immovable": 18400000,
+      "total": 26785000,
+      "liabilities": 799723
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=828",
+    "retrieved": "2026-08-27"
+  }
+}

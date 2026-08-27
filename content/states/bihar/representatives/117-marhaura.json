@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-117-marhaura",
+  "constituency": {
+    "number": 117,
+    "name": "Marhaura",
+    "district": "Saran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jitendra Kumar Rai",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 46,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Lok College Hafizpur(J.P.U.) in 1998, Inter from Rajendra College in 1994, Matric from Y.K.High School, Khodai, Bagh in 1992"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5226450,
+      "immovable": 39500000,
+      "total": 44726450,
+      "liabilities": 16554000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=259",
+    "retrieved": "2026-08-27"
+  }
+}

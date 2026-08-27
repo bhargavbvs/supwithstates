@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-237-udgir",
+  "constituency": {
+    "number": 237,
+    "name": "Udgir",
+    "district": "Latur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sanjay Baburao Bansode",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Business, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC (Science) Pass From Devgiri Collage Year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51000818,
+      "immovable": 11650000,
+      "total": 46300845,
+      "liabilities": 4125000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=756",
+    "retrieved": "2026-08-27"
+  }
+}

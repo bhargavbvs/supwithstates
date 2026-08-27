@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-159-dindoshi",
+  "constituency": {
+    "number": 159,
+    "name": "Dindoshi",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunil Waman Prabhu",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Consultant And Farming",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC From Ismail Yusuf College In The Year 1985-86"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16399866,
+      "immovable": 127533237,
+      "total": 143933103,
+      "liabilities": 35468518
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=497",
+    "retrieved": "2026-08-27"
+  }
+}

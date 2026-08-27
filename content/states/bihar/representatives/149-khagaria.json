@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-149-khagaria",
+  "constituency": {
+    "number": 149,
+    "name": "Khagaria",
+    "district": "Khagaria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bablu Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6145547,
+      "immovable": 3500000,
+      "total": 9645547,
+      "liabilities": 2350000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1535",
+    "retrieved": "2026-08-27"
+  }
+}

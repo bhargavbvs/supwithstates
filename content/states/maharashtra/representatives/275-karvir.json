@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-275-karvir",
+  "constituency": {
+    "number": 275,
+    "name": "Karvir",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandradeep Shashikant Narake",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Civil) from Walchand College of Engg., Sangli, Shivaji University, Kolhapur in April 1991"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 32622681,
+      "immovable": 111895456,
+      "total": 143479167,
+      "liabilities": 22261718
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1184",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-130-palghar",
+  "constituency": {
+    "number": 130,
+    "name": "Palghar",
+    "district": "Palghar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Gavit Rajendra Dhedya",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Retail & Wholesale Trading of LPG & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Mumbai University in 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24185910,
+      "immovable": 118075106,
+      "total": 142262017,
+      "liabilities": 12971595
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=593",
+    "retrieved": "2026-08-27"
+  }
+}

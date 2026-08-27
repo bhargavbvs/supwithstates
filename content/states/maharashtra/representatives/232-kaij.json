@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-232-kaij",
+  "constituency": {
+    "number": 232,
+    "name": "Kaij",
+    "district": "Beed",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Namita Akshay Mundada",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 35,
+    "profession": "Business & Architect",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Arch. from Kamla Raheja Girls Institute for Architecture, Mumbai University in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 81476437,
+      "immovable": 401095920,
+      "total": 484464928,
+      "liabilities": 82963465
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1109",
+    "retrieved": "2026-08-27"
+  }
+}

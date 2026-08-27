@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-40-daryapur",
+  "constituency": {
+    "number": 40,
+    "name": "Daryapur",
+    "district": "Amravati",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gajanan Motiram Lawate",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Business (Hotel)",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "10th Fail From Maharashtra State Board of Secondary and Higher Secondary Education, Pune, Amravati Board in 1989"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 17382608,
+      "immovable": 24954000,
+      "total": 42332108,
+      "liabilities": 19122191
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=477",
+    "retrieved": "2026-08-27"
+  }
+}

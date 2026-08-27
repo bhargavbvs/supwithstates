@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-132-warisnagar",
+  "constituency": {
+    "number": 132,
+    "name": "Warisnagar",
+    "district": "Samastipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manjarik Mrinal",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 36,
+    "profession": "Engineer Scientist",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D In Medical Engineering From University of Texas In 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14028965,
+      "immovable": 19000000,
+      "total": 33028965,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-27"
+  }
+}

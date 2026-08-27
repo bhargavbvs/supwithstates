@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-199-daund",
+  "constituency": {
+    "number": 199,
+    "name": "Daund",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kul Rahul Subhashrao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From ILS Law College, Pune-Pune University Year 2000, B.A. From Fergusson College, Pune Pune University Year 1997"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17798186,
+      "immovable": 59235792,
+      "total": 77033757,
+      "liabilities": 1174686
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=909",
+    "retrieved": "2026-08-27"
+  }
+}

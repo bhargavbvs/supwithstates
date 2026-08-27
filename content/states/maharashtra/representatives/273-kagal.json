@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-273-kagal",
+  "constituency": {
+    "number": 273,
+    "name": "Kagal",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mushrif Hasan Miyalal",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons) in 1974 from Shivaji University, Kolhapur"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39163534,
+      "immovable": 97746716,
+      "total": 137010273,
+      "liabilities": 7956115
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1179",
+    "retrieved": "2026-08-27"
+  }
+}

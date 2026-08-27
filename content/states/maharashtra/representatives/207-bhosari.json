@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-207-bhosari",
+  "constituency": {
+    "number": 207,
+    "name": "Bhosari",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahesh (Dada) Kisan Landge",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.B.A. From Savitribai Phule Pune University Year 2019"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 63461400,
+      "immovable": 139677273,
+      "total": 208351168,
+      "liabilities": 29837832
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1094",
+    "retrieved": "2026-08-27"
+  }
+}

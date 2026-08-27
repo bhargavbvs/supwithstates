@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-41-nirmali",
+  "constituency": {
+    "number": 41,
+    "name": "Nirmali",
+    "district": "Supaul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aniruddha Prasad Yadav",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 76,
+    "profession": "Agriculture, House Rent , MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate, 1969, BSS Collège Supaul Bhagalpur University Bhagalpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16658560,
+      "immovable": 47977640,
+      "total": 64636200,
+      "liabilities": 8000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1877",
+    "retrieved": "2026-08-27"
+  }
+}

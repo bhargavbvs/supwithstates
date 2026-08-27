@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-214-pune-cantonment",
+  "constituency": {
+    "number": 214,
+    "name": "Pune Cantonment",
+    "district": "Pune",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kamble Sunil Dyandev",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Business Income, House Rent",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Maharashtra Board Secondary And Higher Secondary Education Board Pune Camp Education High School Pune In The Year 1983"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42046898,
+      "immovable": 40180000,
+      "total": 82226898,
+      "liabilities": 45598918
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=640",
+    "retrieved": "2026-08-27"
+  }
+}

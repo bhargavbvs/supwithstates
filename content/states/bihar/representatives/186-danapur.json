@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-186-danapur",
+  "constituency": {
+    "number": 186,
+    "name": "Danapur",
+    "district": "Patna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Kripal Yadav",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 64,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From A.N. College, Patna, Magadh University Year 1978"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4444091,
+      "immovable": 30700000,
+      "total": 35144091,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=534",
+    "retrieved": "2026-08-27"
+  }
+}

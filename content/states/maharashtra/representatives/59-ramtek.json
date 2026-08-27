@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-59-ramtek",
+  "constituency": {
+    "number": 59,
+    "name": "Ramtek",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashish Nandkishore Jaiswal(Vakil)",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Social worker, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Of Law (1993) University College Of Law Nagpur, 12th HSC (1988) CP And Berar College Nagpur, 10th SSC (1986) Shriram School Ramtek"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50167792,
+      "immovable": 68521527,
+      "total": 119194862,
+      "liabilities": 13118053
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=668",
+    "retrieved": "2026-08-27"
+  }
+}

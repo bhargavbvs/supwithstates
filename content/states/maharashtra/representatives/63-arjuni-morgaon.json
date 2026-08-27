@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-63-arjuni-morgaon",
+  "constituency": {
+    "number": 63,
+    "name": "Arjuni Morgaon",
+    "district": "Gondia",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Badole Rajkumar Sudam",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Ambedkar Nagpur University Year 2019"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9588309,
+      "immovable": 24400000,
+      "total": 33988309,
+      "liabilities": 10998000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1566",
+    "retrieved": "2026-08-27"
+  }
+}

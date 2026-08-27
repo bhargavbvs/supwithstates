@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-203-ramgarh",
+  "constituency": {
+    "number": 203,
+    "name": "Ramgarh",
+    "district": "Kaimur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Kumar Singh Yadav",
+    "election": "2025",
+    "elected_party": "BSP",
+    "current_party": "BSP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 39,
+    "profession": "Agriculture, Business, Job",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Hindi) from Pandit Ravishankar Shukla University in 2019"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6612356,
+      "immovable": 13250000,
+      "total": 19862356,
+      "liabilities": 2314842
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2354",
+    "retrieved": "2026-08-27"
+  }
+}

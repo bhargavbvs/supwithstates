@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-207-chenari",
+  "constituency": {
+    "number": 207,
+    "name": "Chenari",
+    "district": "Rohtas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Murari Prasad Gautam",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 45,
+    "profession": "Agriculture, MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Magadh University Gaya in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8939309,
+      "immovable": 25420000,
+      "total": 34359309,
+      "liabilities": 7000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2587",
+    "retrieved": "2026-08-27"
+  }
+}

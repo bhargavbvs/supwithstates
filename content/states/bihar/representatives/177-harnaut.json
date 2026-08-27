@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-177-harnaut",
+  "constituency": {
+    "number": 177,
+    "name": "Harnaut",
+    "district": "Nalanda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hari Narayan Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 78,
+    "profession": "Member, Bihar Legislative Assembly Patna",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Gradaute from Nalanda Collage Biharsharif, Nalanda, Magadh University, Bodhgya In 1965"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20844989,
+      "immovable": 40000000,
+      "total": 60844989,
+      "liabilities": 96250
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=59",
+    "retrieved": "2026-08-27"
+  }
+}

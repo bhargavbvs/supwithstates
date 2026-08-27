@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-134-bhiwandi-rural",
+  "constituency": {
+    "number": 134,
+    "name": "Bhiwandi Rural",
+    "district": "Thane",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shantaram Tukaram More",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Yashwantrao Chavan Maharashtra Open University, Nashik in May 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15568125,
+      "immovable": 9872843,
+      "total": 25440972,
+      "liabilities": 12233307
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3075",
+    "retrieved": "2026-08-27"
+  }
+}

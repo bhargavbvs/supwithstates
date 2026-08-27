@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-228-barachatti",
+  "constituency": {
+    "number": 228,
+    "name": "Barachatti",
+    "district": "Gaya",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jyoti Devi",
+    "election": "2025",
+    "elected_party": "Hindustani Awam Morcha (Secular)",
+    "current_party": "Hindustani Awam Morcha (Secular)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Member of Bihar Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter(Arst) From Wazirganj School, Wazirganj In 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8665525,
+      "immovable": 5310000,
+      "total": 13975525,
+      "liabilities": 150356
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2333",
+    "retrieved": "2026-08-27"
+  }
+}

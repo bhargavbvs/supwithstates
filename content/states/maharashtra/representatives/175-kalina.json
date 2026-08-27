@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-175-kalina",
+  "constituency": {
+    "number": 175,
+    "name": "Kalina",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Govind Potnis",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Public Representative, MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC FROM SARASWATI VIDHYAMANDIR MUMBAI UNIVERSITY YEAR 1975"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9207666,
+      "immovable": 58275000,
+      "total": 67482665,
+      "liabilities": 2525000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1062",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-219-kopargaon",
+  "constituency": {
+    "number": 219,
+    "name": "Kopargaon",
+    "district": "Ahmednagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashutosh Ashokrao Kale",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Agriculture and Milk Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. (I.S.) From College of Engineering North Eastern University Boston America, Year-2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49841323,
+      "immovable": 112033536,
+      "total": 162339044,
+      "liabilities": 20000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1098",
+    "retrieved": "2026-08-27"
+  }
+}

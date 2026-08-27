@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-102-kuchaikote",
+  "constituency": {
+    "number": 102,
+    "name": "Kuchaikote",
+    "district": "Gopalganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amrendra Kumar Pandey",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 51,
+    "profession": "Agriculture, Business Raj Petroleum",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Baba Bhoot Nath College, Balepur, Bathua Bazar, Gopalganj, Bihar Year 2004"
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54103947,
+      "immovable": 58000000,
+      "total": 112103947,
+      "liabilities": 6430307
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=922",
+    "retrieved": "2026-08-27"
+  }
+}

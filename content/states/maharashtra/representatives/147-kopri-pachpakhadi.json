@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-147-kopri-pachpakhadi",
+  "constituency": {
+    "number": 147,
+    "name": "Kopri-Pachpakhadi",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Eknath Sambhaji Shinde",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "M.A 3rd Semester Pass from Tilak Maharashtra University in Year Dec 2021, BA from Yashwantrao Chavan Open University Nashik in Year May 2020"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 92178150,
+      "immovable": 284680000,
+      "total": 376858150,
+      "liabilities": 152889398
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=836",
+    "retrieved": "2026-08-27"
+  }
+}

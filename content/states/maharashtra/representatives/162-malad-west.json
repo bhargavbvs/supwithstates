@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-162-malad-west",
+  "constituency": {
+    "number": 162,
+    "name": "Malad West",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aslam Ramjanali Shaikh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Business & Social Service",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Standard 1986, St. Anthony High School Malvani Church, Malad West Mumbai 400095"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 90377094,
+      "immovable": 439516370,
+      "total": 529893469,
+      "liabilities": 6000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=564",
+    "retrieved": "2026-08-27"
+  }
+}

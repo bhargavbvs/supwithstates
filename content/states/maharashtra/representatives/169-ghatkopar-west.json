@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-169-ghatkopar-west",
+  "constituency": {
+    "number": 169,
+    "name": "Ghatkopar West",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Kadam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary School Of education Passed in 1989 & And Appeared in Electrical Power System Diploma 2nd Year"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 456484635,
+      "immovable": 444702934,
+      "total": 713387568,
+      "liabilities": 230743827
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=522",
+    "retrieved": "2026-08-27"
+  }
+}

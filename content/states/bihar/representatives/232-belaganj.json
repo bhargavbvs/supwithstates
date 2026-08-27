@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-232-belaganj",
+  "constituency": {
+    "number": 232,
+    "name": "Belaganj",
+    "district": "Gaya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manorma Devi",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 56,
+    "profession": "Bihar Legislative Assembly Member, Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduation from M.U. Bodhgaya in 1997"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 92306747,
+      "immovable": 660000000,
+      "total": 752306747,
+      "liabilities": 10473247
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2274",
+    "retrieved": "2026-08-27"
+  }
+}

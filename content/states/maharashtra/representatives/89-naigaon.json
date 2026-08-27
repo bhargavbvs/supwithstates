@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-89-naigaon",
+  "constituency": {
+    "number": 89,
+    "name": "Naigaon",
+    "district": "Nanded",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Sambhajirao Pawar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Farmer, Business & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E.(Mech.) From MIT, Pune University, Year-1996"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 626406330,
+      "immovable": 1568200000,
+      "total": 2128338777,
+      "liabilities": 620697355
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1008",
+    "retrieved": "2026-08-27"
+  }
+}

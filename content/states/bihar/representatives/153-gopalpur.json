@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-153-gopalpur",
+  "constituency": {
+    "number": 153,
+    "name": "Gopalpur",
+    "district": "Bhagalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shailesh Kumar Alias Bulo Mandal",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Agriculture & Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "I.Sc from Bihar Intermediate Education Council Year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6892055,
+      "immovable": 49500000,
+      "total": 56392055,
+      "liabilities": 5376016
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2155",
+    "retrieved": "2026-08-27"
+  }
+}

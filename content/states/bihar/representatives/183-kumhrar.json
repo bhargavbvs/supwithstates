@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-183-kumhrar",
+  "constituency": {
+    "number": 183,
+    "name": "Kumhrar",
+    "district": "Patna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 50,
+    "profession": "Educational Services",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com Completed in 1995 from Vanijya Mahavidyalaya, Patna University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7973089,
+      "immovable": 28211000,
+      "total": 36184089,
+      "liabilities": 2281501
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=286",
+    "retrieved": "2026-08-27"
+  }
+}

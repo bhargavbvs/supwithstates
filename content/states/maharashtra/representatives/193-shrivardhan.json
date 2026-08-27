@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-193-shrivardhan",
+  "constituency": {
+    "number": 193,
+    "name": "Shrivardhan",
+    "district": "Raigarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aditi Sunil Tatkare",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 36,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA from Mumbai University in Yr 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12476110,
+      "immovable": 21654049,
+      "total": 34130158,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=711",
+    "retrieved": "2026-08-27"
+  }
+}

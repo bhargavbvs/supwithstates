@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-109-aurangabad-east",
+  "constituency": {
+    "number": 109,
+    "name": "Aurangabad East",
+    "district": "Chhatrapati Sambhajinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atul Moreshwar Save",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce Saraswati Bhuvan College Aurangabad Year 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 295458890,
+      "immovable": 171863762,
+      "total": 463890670,
+      "liabilities": 231162856
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=404",
+    "retrieved": "2026-08-27"
+  }
+}

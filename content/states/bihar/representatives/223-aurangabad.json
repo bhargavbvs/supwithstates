@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-223-aurangabad",
+  "constituency": {
+    "number": 223,
+    "name": "Aurangabad",
+    "district": "Aurangabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Trivikram Narayan Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 46,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graduate Diploma in Business Management from Bihar Vidhyapeeth, Year 2003-2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 271552239,
+      "immovable": 55120000,
+      "total": 326672239,
+      "liabilities": 37236051
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1789",
+    "retrieved": "2026-08-27"
+  }
+}

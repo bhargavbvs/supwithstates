@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-138-bibhutipur",
+  "constituency": {
+    "number": 138,
+    "name": "Bibhutipur",
+    "district": "Samastipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Kumar",
+    "election": "2025",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": "Agriculture, Politics (MLA)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Samastipur College Year 1993, LL.B From B.S.G College TMN"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5228907,
+      "immovable": 14669700,
+      "total": 19898607,
+      "liabilities": 186250
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=269",
+    "retrieved": "2026-08-27"
+  }
+}

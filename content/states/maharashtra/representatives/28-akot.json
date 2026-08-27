@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-28-akot",
+  "constituency": {
+    "number": 28,
+    "name": "Akot",
+    "district": "Akola",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prakash Gunwant Bharsakle",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 72,
+    "profession": "Agriculture & Veer Pee Cotex Corporation Daryapur 40% Shares",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "SSC Fail in 1970 from Nagpur Board, Prabodhan School, Daryapur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 62447320,
+      "immovable": 115000000,
+      "total": 185239942,
+      "liabilities": 1917543
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1211",
+    "retrieved": "2026-08-27"
+  }
+}

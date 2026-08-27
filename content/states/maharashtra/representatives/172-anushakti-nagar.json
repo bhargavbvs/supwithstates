@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-172-anushakti-nagar",
+  "constituency": {
+    "number": 172,
+    "name": "Anushakti Nagar",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sana Malik",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 37,
+    "profession": "Professional Architect and Engaged in Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Legislative Law (LL.B.) from Rizvi Law College Bandra (W) Mumbai under Mumbai University in 2024"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27444770,
+      "immovable": 197825572,
+      "total": 225270342,
+      "liabilities": 32798003
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1562",
+    "retrieved": "2026-08-27"
+  }
+}

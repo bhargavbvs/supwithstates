@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-115-malegaon-outer",
+  "constituency": {
+    "number": 115,
+    "name": "Malegaon Outer",
+    "district": "Nashik",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dadaji Dagdu Bhuse",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Agriculture, Salary",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma In Civil Engineer From Government Technology Dhule, Maharashtra Board Of Technical Examination In The Year July 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 68086091,
+      "immovable": 100229582,
+      "total": 184226204,
+      "liabilities": 2468703
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=568",
+    "retrieved": "2026-08-27"
+  }
+}

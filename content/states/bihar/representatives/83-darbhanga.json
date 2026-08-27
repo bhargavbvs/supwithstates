@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-83-darbhanga",
+  "constituency": {
+    "number": 83,
+    "name": "Darbhanga",
+    "district": "Darbhanga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Saraogi",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": "Politics, Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration from L.N. Mithala University in 1993"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 38205000,
+      "immovable": 36500000,
+      "total": 74705000,
+      "liabilities": 8885000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=174",
+    "retrieved": "2026-08-27"
+  }
+}

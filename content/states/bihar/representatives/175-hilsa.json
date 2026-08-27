@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-175-hilsa",
+  "constituency": {
+    "number": 175,
+    "name": "Hilsa",
+    "district": "Nalanda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishna Murari Sharan",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 74,
+    "profession": "Agriculture, Sale of Agriculture Product, Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-Science In 1970 From College of Commerce, Patna Magadh University, Bodh Gaya, B.Sc Part-1 From S.U. College, Hilsa, Magadh University Bodh Gaya"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14668532,
+      "immovable": 30250000,
+      "total": 44918532,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=584",
+    "retrieved": "2026-08-27"
+  }
+}

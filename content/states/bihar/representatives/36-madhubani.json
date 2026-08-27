@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-36-madhubani",
+  "constituency": {
+    "number": 36,
+    "name": "Madhubani",
+    "district": "Madhubani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhaw Anand",
+    "election": "2025",
+    "elected_party": "Rashtriya Lok Morcha",
+    "current_party": "Rashtriya Lok Morcha",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 43,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters in International Business From IMS Ghaziabad University 2006 & Graduate in Economics (Hons.) From Bihar University 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 82480357,
+      "immovable": 475460000,
+      "total": 557940357,
+      "liabilities": 9213102
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2456",
+    "retrieved": "2026-08-27"
+  }
+}

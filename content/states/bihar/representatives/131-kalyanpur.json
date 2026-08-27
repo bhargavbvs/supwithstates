@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-131-kalyanpur",
+  "constituency": {
+    "number": 131,
+    "name": "Kalyanpur",
+    "district": "Samastipur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Maheshwar Hazari",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 63,
+    "profession": "Business, Agriculture & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from B.R.B. College Samastipur L.N.M.U. Darbhanga in 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23225159,
+      "immovable": 85287702,
+      "total": 108512861,
+      "liabilities": 11939471
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=598",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-73-brahmapuri",
+  "constituency": {
+    "number": 73,
+    "name": "Brahmapuri",
+    "district": "Chandrapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Namdeorao Wadettiwar",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Agriculture & Honorarium",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC Pass from Vasant School Gadchiroli in 1978-79"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 576390858,
+      "immovable": 396140044,
+      "total": 972490862,
+      "liabilities": 426357078
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=189",
+    "retrieved": "2026-08-27"
+  }
+}

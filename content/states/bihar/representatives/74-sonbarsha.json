@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-74-sonbarsha",
+  "constituency": {
+    "number": 74,
+    "name": "Sonbarsha",
+    "district": "Saharsa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ratnesh Sada",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 54,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Sahas Chaudhary College, Pastwar, Year-1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10102814,
+      "immovable": 25612000,
+      "total": 35714814,
+      "liabilities": 4763984
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=907",
+    "retrieved": "2026-08-27"
+  }
+}

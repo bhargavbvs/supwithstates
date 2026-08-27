@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-209-shivajinagar",
+  "constituency": {
+    "number": 209,
+    "name": "Shivajinagar",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Siddharth Anil Shirole",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Of Engineering Mechanical Engineering From University Of Pune AISS Memorial Societies College Of Engineering Bori Bhadak In The Year May 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24019106,
+      "immovable": 228695000,
+      "total": 252684574,
+      "liabilities": 23904244
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=704",
+    "retrieved": "2026-08-27"
+  }
+}

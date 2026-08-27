@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-240-umarga",
+  "constituency": {
+    "number": 240,
+    "name": "Umarga",
+    "district": "Dharashiv",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pravin Virbhadrayya Swami (Sir)",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Primary Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Nashik Year-2024, B.Sc From Nashik Year-2022, SSC Bharat Vidyalay Umarga Year-1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6638320,
+      "immovable": 1657168,
+      "total": 8295488,
+      "liabilities": 2746426
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1123",
+    "retrieved": "2026-08-27"
+  }
+}

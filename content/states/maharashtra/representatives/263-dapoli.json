@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-263-dapoli",
+  "constituency": {
+    "number": 263,
+    "name": "Dapoli",
+    "district": "Ratnagiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kadam Yogeshdada Ramdas",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Agriculture, Consultant And Land Developer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Alagappa University In The Year 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 140105816,
+      "immovable": 256850760,
+      "total": 396956581,
+      "liabilities": 157033629
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=206",
+    "retrieved": "2026-08-27"
+  }
+}

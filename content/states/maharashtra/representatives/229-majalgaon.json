@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-229-majalgaon",
+  "constituency": {
+    "number": 229,
+    "name": "Majalgaon",
+    "district": "Beed",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prakash (Dada) Sunadarrao Solanke",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Agriculture & Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1974 from Mumbai University, HSC in 1971 from HSC Board Pune, Fergussion College, Pune"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 155037320,
+      "immovable": 133800000,
+      "total": 289837321,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=559",
+    "retrieved": "2026-08-27"
+  }
+}

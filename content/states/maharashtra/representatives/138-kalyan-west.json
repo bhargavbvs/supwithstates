@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-138-kalyan-west",
+  "constituency": {
+    "number": 138,
+    "name": "Kalyan West",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishwanath Atmaram Bhoir",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., Birla College, Kalyan University - 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23868526,
+      "immovable": 9633473,
+      "total": 33502015,
+      "liabilities": 3783384
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3059",
+    "retrieved": "2026-08-27"
+  }
+}

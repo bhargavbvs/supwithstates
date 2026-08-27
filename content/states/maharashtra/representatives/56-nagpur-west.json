@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-56-nagpur-west",
+  "constituency": {
+    "number": 56,
+    "name": "Nagpur West",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vikas Pandurang Thakre",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Member of Legislative Assembly, Maharashtra",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce (Nagpur University) in 1989"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28318896,
+      "immovable": 72581667,
+      "total": 100900527,
+      "liabilities": 37677373
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1241",
+    "retrieved": "2026-08-27"
+  }
+}

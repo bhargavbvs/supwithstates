@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-186-mumbadevi",
+  "constituency": {
+    "number": 186,
+    "name": "Mumbadevi",
+    "district": "Mumbai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amin Patel",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC PASSED FROM DAWOODBHOY FAZALBHOY HIGH SCHOOL, MUMBAI IN 1978"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 239827632,
+      "immovable": 368799190,
+      "total": 608663515,
+      "liabilities": 17491945
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1278",
+    "retrieved": "2026-08-27"
+  }
+}

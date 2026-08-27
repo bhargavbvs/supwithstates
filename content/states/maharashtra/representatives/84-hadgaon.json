@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-84-hadgaon",
+  "constituency": {
+    "number": 84,
+    "name": "Hadgaon",
+    "district": "Nanded",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kohlikar Baburao Kadam",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "MA (First Year) Marathwada University,Aurangabad / Yaswant Collage, Nanded 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3489382,
+      "immovable": 18000000,
+      "total": 21488316,
+      "liabilities": 761515
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=536",
+    "retrieved": "2026-08-27"
+  }
+}

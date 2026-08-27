@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-267-rajapur",
+  "constituency": {
+    "number": 267,
+    "name": "Rajapur",
+    "district": "Ratnagiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kiran Alias Bhaiyya Samant",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Business/Social Worker/Farmer",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Maharashtra State Board of Secondary and Higher Secondary Eduction Divisional Board- Pune Passing Year March-1989. Technical Education (Engineering Diploma Civil Branch) Board of Technical Exmination, Bangalore Passing Year - June 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 252206488,
+      "immovable": 271372000,
+      "total": 529158509,
+      "liabilities": 57462406
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=660",
+    "retrieved": "2026-08-27"
+  }
+}

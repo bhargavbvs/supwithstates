@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-2-shahada",
+  "constituency": {
+    "number": 2,
+    "name": "Shahada",
+    "district": "Nandurbar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rajesh Udesing Padvi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Retired Police Officer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Kirti College Prabhadevi Mumbai, Mumbai University In The Year 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16695744,
+      "immovable": 110794179,
+      "total": 127789923,
+      "liabilities": 45805504
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=335",
+    "retrieved": "2026-08-27"
+  }
+}

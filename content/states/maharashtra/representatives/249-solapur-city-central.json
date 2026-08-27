@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-249-solapur-city-central",
+  "constituency": {
+    "number": 249,
+    "name": "Solapur City Central",
+    "district": "Solapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Rajesh Kothe",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 34,
+    "profession": "Social Work, Agriculture, Business- Hotel Radhekrushna, Shrikrushn Lodge",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA from Tilak Vidyapith, Pune in 2012"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12400755,
+      "immovable": 119762503,
+      "total": 132171258,
+      "liabilities": 85207284
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=725",
+    "retrieved": "2026-08-27"
+  }
+}

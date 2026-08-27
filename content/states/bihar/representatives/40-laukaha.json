@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-40-laukaha",
+  "constituency": {
+    "number": 40,
+    "name": "Laukaha",
+    "district": "Madhubani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Kumar Sah",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Agriculture, Pension (MLA)",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Non-Matric from High School Nirmali Supaul"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9404420,
+      "immovable": 2450000,
+      "total": 11854420,
+      "liabilities": 2026480
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2761",
+    "retrieved": "2026-08-27"
+  }
+}

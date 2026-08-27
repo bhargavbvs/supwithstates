@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-76-wani",
+  "constituency": {
+    "number": 76,
+    "name": "Wani",
+    "district": "Yavatmal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Derkar Sanjay Nilkanthrao",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Business , Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Chemistry) From Bhopal University, Bhopal Year- 1986."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13346998,
+      "immovable": 60195070,
+      "total": 73542068,
+      "liabilities": 3038277
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=813",
+    "retrieved": "2026-08-27"
+  }
+}

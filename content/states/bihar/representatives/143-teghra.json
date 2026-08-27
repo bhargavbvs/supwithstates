@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-143-teghra",
+  "constituency": {
+    "number": 143,
+    "name": "Teghra",
+    "district": "Begusarai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajnish Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Chartered Accountant",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Chartered Accountant from I.C.A.I. Kolkara in 1998, Graduate (Science) from A.N. College, Patna in 1995"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 46749000,
+      "immovable": 158585000,
+      "total": 205334000,
+      "liabilities": 27894020
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=386",
+    "retrieved": "2026-08-27"
+  }
+}

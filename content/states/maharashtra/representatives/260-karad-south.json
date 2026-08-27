@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-260-karad-south",
+  "constituency": {
+    "number": 260,
+    "name": "Karad South",
+    "district": "Satara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Atulbaba Suresh Bhosale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Krushna Institute of Medical Sciences, Malkapur Maharashtra Health Science University, Nashik in 2004-2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 712783110,
+      "immovable": 114595630,
+      "total": 825792062,
+      "liabilities": 27483648
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1142",
+    "retrieved": "2026-08-27"
+  }
+}

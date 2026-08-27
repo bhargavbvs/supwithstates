@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-108-aurangabadwest",
+  "constituency": {
+    "number": 108,
+    "name": "Aurangabadwest",
+    "district": "Chhatrapati Sambhajinagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sanjay Pandurang Shirsat",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Social Worker, Building and Construction Contractor, Farmer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B. Com Ist year 2014-2015 Yashwantrao Chavan Mukt Vidyapeeth Nashik, 11th Commerce, Deogiri College Chh. Sambhajinagar,"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 134188470,
+      "immovable": 220429658,
+      "total": 354218129,
+      "liabilities": 264575923
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=402",
+    "retrieved": "2026-08-27"
+  }
+}

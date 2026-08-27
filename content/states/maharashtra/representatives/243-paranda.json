@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-243-paranda",
+  "constituency": {
+    "number": 243,
+    "name": "Paranda",
+    "district": "Dharashiv",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prof.Dr.Tanaji Jayawant Sawant",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From Swami Ramanand Tirtha Marathwada University, Nanded-2018, B.E.Electrical From Government College on Engineering Karad, Shivaji University , Year 1986."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1298075231,
+      "immovable": 1054060000,
+      "total": 2352135234,
+      "liabilities": 170494036
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=606",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-127-igatpuri",
+  "constituency": {
+    "number": 127,
+    "name": "Igatpuri",
+    "district": "Nashik",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Khoskar Hiraman Bhika",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "3rd in 1974 Dist. Parishad Primary School Naikwadi Dist. Nashik"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3718080,
+      "immovable": 23555196,
+      "total": 27273276,
+      "liabilities": 2812021
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=549",
+    "retrieved": "2026-08-27"
+  }
+}

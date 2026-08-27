@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-204-mohania",
+  "constituency": {
+    "number": 204,
+    "name": "Mohania",
+    "district": "Kaimur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sangita Kumari",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 40,
+    "profession": "Business and MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Ranchi University 2008, B.Ed. Daltonganj Year 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14516318,
+      "immovable": 15200000,
+      "total": 29716318,
+      "liabilities": 3700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2360",
+    "retrieved": "2026-08-27"
+  }
+}

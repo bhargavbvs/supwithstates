@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-234-latur-rural",
+  "constituency": {
+    "number": 234,
+    "name": "Latur Rural",
+    "district": "Latur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramesh Kashiram Karad",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Agriculture & Executive Director",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. Dr B.A.M.B.Aurangabad 1995, B.Com. Pune Vidhyapeeth , 1988 October"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 83146054,
+      "immovable": 50435389,
+      "total": 133579443,
+      "liabilities": 29443723
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1114",
+    "retrieved": "2026-08-27"
+  }
+}

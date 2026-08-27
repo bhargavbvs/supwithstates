@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-38-amravati",
+  "constituency": {
+    "number": 38,
+    "name": "Amravati",
+    "district": "Amravati",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sulbha Sanjay Khodke",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Social Service, Agriculture,Retired",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA-Political Science, Shri Shivaji Arts and Commerce Collage, Amravati, Amravati University (1988)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20173129,
+      "immovable": 63822700,
+      "total": 83995831,
+      "liabilities": 8528495
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1232",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-160-dhauraiya",
+  "constituency": {
+    "number": 160,
+    "name": "Dhauraiya",
+    "district": "Banka",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manish Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 50,
+    "profession": "Politics & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "ADCA From Delhi Intermediate Sainik School, Tilaiya, Year-1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 25464662,
+      "immovable": 14650000,
+      "total": 40114662,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2101",
+    "retrieved": "2026-08-27"
+  }
+}

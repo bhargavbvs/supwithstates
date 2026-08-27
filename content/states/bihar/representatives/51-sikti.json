@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-51-sikti",
+  "constituency": {
+    "number": 51,
+    "name": "Sikti",
+    "district": "Araria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Kumar Mandal",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 62,
+    "profession": "Agriculture & Salary",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from Govt. High School Araria Year 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9715750,
+      "immovable": 11000000,
+      "total": 20715750,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1702",
+    "retrieved": "2026-08-27"
+  }
+}

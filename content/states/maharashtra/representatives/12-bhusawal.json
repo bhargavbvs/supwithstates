@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-12-bhusawal",
+  "constituency": {
+    "number": 12,
+    "name": "Bhusawal",
+    "district": "Jalgaon",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Savkare Sanjay Waman",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma In Mechanical Engineering From Government Technical College Jalgaon In The Year 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31476638,
+      "immovable": 37397500,
+      "total": 68874138,
+      "liabilities": 24333277
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=445",
+    "retrieved": "2026-08-27"
+  }
+}

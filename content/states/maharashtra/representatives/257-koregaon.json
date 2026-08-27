@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-257-koregaon",
+  "constituency": {
+    "number": 257,
+    "name": "Koregaon",
+    "district": "Satara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahesh Sambhajiraje Shinde",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. Pharmacy From Government Polytechnic College Karad Shivaji University Kolhapur In The Year April 1997"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 330085918,
+      "immovable": 439362000,
+      "total": 770528510,
+      "liabilities": 229377294
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3114",
+    "retrieved": "2026-08-27"
+  }
+}

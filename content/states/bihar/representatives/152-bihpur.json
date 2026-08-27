@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-152-bihpur",
+  "constituency": {
+    "number": 152,
+    "name": "Bihpur",
+    "district": "Bhagalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kumar Shailendra",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Social Work & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Engineering From I.C.E. Motihari Bihar University In 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11581403,
+      "immovable": 55200000,
+      "total": 66781403,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2145",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-161-banka",
+  "constituency": {
+    "number": 161,
+    "name": "Banka",
+    "district": "Banka",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Narayan Mandal",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24512922,
+      "immovable": 6600000,
+      "total": 31112922,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2112",
+    "retrieved": "2026-08-27"
+  }
+}

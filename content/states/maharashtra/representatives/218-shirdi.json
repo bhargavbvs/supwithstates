@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-218-shirdi",
+  "constituency": {
+    "number": 218,
+    "name": "Shirdi",
+    "district": "Ahmednagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Patil Vikhe Radhakrushna Eknathrao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Social Worker, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. Agri From College of Agriculture, Kolhapur, Mahatma Phule Krishi Vidyapeeth, Rahuri Year 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 204013955,
+      "immovable": 143485430,
+      "total": 341761504,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=354",
+    "retrieved": "2026-08-27"
+  }
+}

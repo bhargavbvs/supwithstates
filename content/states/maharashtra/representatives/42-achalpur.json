@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-42-achalpur",
+  "constituency": {
+    "number": 42,
+    "name": "Achalpur",
+    "district": "Amravati",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pravin Vasantrao Tayade",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "SSC Pass From Amravati Board in 1988 Passed HSC From Amravati Board in 1991 Passed BA SY From Amravati University in 1993"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3662411,
+      "immovable": 11000000,
+      "total": 14662411,
+      "liabilities": 440000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=247",
+    "retrieved": "2026-08-27"
+  }
+}

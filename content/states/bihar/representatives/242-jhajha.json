@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-242-jhajha",
+  "constituency": {
+    "number": 242,
+    "name": "Jhajha",
+    "district": "Jamui",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Damodar Rawat",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 66,
+    "profession": "Salary, Allowance & Other",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From BNMU Madhepura In 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18436874,
+      "immovable": 48465365,
+      "total": 66902239,
+      "liabilities": 2922602
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1902",
+    "retrieved": "2026-08-27"
+  }
+}

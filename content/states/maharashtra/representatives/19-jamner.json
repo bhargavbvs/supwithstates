@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-19-jamner",
+  "constituency": {
+    "number": 19,
+    "name": "Jamner",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Girish Dattatray Mahajan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "S.Y.B.Com in 1981, HSC in 1978 from Arts, Commerce College, jamner, Pune University"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 67326352,
+      "immovable": 329404004,
+      "total": 396730361,
+      "liabilities": 14322770
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=923",
+    "retrieved": "2026-08-27"
+  }
+}

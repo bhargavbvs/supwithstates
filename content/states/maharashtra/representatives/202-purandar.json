@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-202-purandar",
+  "constituency": {
+    "number": 202,
+    "name": "Purandar",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijaybapu Shivtare",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Agriculture, Dairy Business, Construction And Fish Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "DME (5 Semester) From Bhagubai Mafatlal Polytechnical Mumbai In The Year 1981, DMD From Father Agnel College Bandra West In The Year 1977, SSC From Karmveer Bhaurao Patil Vidyalay Parinche Purandar Pune In The Year 1975"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73871611,
+      "immovable": 647137500,
+      "total": 721069111,
+      "liabilities": 146470500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=644",
+    "retrieved": "2026-08-27"
+  }
+}

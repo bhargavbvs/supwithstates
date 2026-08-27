@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-159-amarpur",
+  "constituency": {
+    "number": 159,
+    "name": "Amarpur",
+    "district": "Banka",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayant Raj",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 40,
+    "profession": "Social Work, Agriculture, Dairy, Fisheries",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Tilak Manjhi University Bhagalpur in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19522770,
+      "immovable": 10450000,
+      "total": 29972770,
+      "liabilities": 4036661
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2087",
+    "retrieved": "2026-08-27"
+  }
+}

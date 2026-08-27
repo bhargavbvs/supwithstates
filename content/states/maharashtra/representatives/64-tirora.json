@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-64-tirora",
+  "constituency": {
+    "number": 64,
+    "name": "Tirora",
+    "district": "Gondia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Bharatlal Rahangdale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "MLA, Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1994 from Nagpur University, Dilploma in Maning Engineering in 1990 from Technical Board, Mumbai"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47270712,
+      "immovable": 37919500,
+      "total": 85190212,
+      "liabilities": 9893505
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=748",
+    "retrieved": "2026-08-27"
+  }
+}

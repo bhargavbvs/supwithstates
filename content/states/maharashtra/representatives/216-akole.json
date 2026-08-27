@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-216-akole",
+  "constituency": {
+    "number": 216,
+    "name": "Akole",
+    "district": "Ahmednagar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Kiran Yamaji Lahamate",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BAMS From Gangadhar Shastri Gune Ayurveda College, Ahmednagar, University of Pune, Year-1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8816337,
+      "immovable": 5550000,
+      "total": 14366338,
+      "liabilities": 308514
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=131",
+    "retrieved": "2026-08-27"
+  }
+}

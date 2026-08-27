@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-4-nawapur",
+  "constituency": {
+    "number": 4,
+    "name": "Nawapur",
+    "district": "Nandurbar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shirishkumar Surupsing Naik",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Agricultural, Business, Petrol Pump & Assembly Allowance",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Yashwantrao Chavan Maharashtra Open Vidhyapith in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64218359,
+      "immovable": 135024315,
+      "total": 193708698,
+      "liabilities": 2011520
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2625",
+    "retrieved": "2026-08-27"
+  }
+}

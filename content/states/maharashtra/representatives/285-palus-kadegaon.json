@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-285-palus-kadegaon",
+  "constituency": {
+    "number": 285,
+    "name": "Palus-Kadegaon",
+    "district": "Sangli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kadam Vishwajit Patangrao",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D (Management) in 2011, MBA in 2006 from Bharti College Abhimata University Pune"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3063050928,
+      "immovable": 591962871,
+      "total": 2994610739,
+      "liabilities": 1156444474
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=595",
+    "retrieved": "2026-08-27"
+  }
+}

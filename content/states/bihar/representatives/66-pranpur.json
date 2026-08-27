@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-66-pranpur",
+  "constituency": {
+    "number": 66,
+    "name": "Pranpur",
+    "district": "Katihar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nisha Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 46,
+    "profession": "Agriculture & Business Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Hons)-First Class From Bhupendra Narahan Mandal University, Madhepura In 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25310309,
+      "immovable": 31700000,
+      "total": 57010309,
+      "liabilities": 2336512
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2667",
+    "retrieved": "2026-08-27"
+  }
+}

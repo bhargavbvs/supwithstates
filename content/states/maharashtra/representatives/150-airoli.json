@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-150-airoli",
+  "constituency": {
+    "number": 150,
+    "name": "Airoli",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ganesh Ramchandra Naik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 74,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass old from KG Joshi College of Arts and NG Bedekar College of Commerce Thane"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 97987664,
+      "immovable": 150801970,
+      "total": 248839634,
+      "liabilities": 64344585
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1383",
+    "retrieved": "2026-08-27"
+  }
+}

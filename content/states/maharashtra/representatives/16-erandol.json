@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-16-erandol",
+  "constituency": {
+    "number": 16,
+    "name": "Erandol",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amol Chimanrao Patil",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BSL from North Maharashtra University, Jalgaon in 2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16264407,
+      "immovable": 51025000,
+      "total": 67305761,
+      "liabilities": 42337334
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=28",
+    "retrieved": "2026-08-27"
+  }
+}

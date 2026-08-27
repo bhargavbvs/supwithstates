@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-70-alamnagar",
+  "constituency": {
+    "number": 70,
+    "name": "Alamnagar",
+    "district": "Madhepura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narendra Narayan Yadav",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 74,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from DS College Katihar LNM University Darbhanga in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11141521,
+      "immovable": 10937300,
+      "total": 22078821,
+      "liabilities": 274442
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=903",
+    "retrieved": "2026-08-27"
+  }
+}

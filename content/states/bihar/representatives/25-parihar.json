@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-25-parihar",
+  "constituency": {
+    "number": 25,
+    "name": "Parihar",
+    "district": "Sitamarhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gayetri Devi",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from Ram Kishor High School, Chhapara, Muzaffarpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8118768,
+      "immovable": 12454666,
+      "total": 20573434,
+      "liabilities": 3356673
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2500",
+    "retrieved": "2026-08-27"
+  }
+}

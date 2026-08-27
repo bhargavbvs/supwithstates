@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-201-baramati",
+  "constituency": {
+    "number": 201,
+    "name": "Baramati",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunetra Ajit Pawar",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Dr. Babasaheb Ambedkar Marathwada University, S.B. Arts and Commerce College Aurangabad in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 346715659,
+      "immovable": 871388803,
+      "total": 1217980738,
+      "liabilities": 209465224
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=4373",
+    "retrieved": "2026-08-27"
+  }
+}

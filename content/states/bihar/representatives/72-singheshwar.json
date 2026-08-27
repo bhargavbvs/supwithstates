@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-72-singheshwar",
+  "constituency": {
+    "number": 72,
+    "name": "Singheshwar",
+    "district": "Madhepura",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramesh Rishi",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": "Assistant Professor, Parwati Science College, Madhepura",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D In Faculty of Humanities (Philosophy) From Bhupendra Narayan Mandal University, Madhepura In 2017"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13955576,
+      "immovable": 23704310,
+      "total": 37659886,
+      "liabilities": 14843800
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1193",
+    "retrieved": "2026-08-27"
+  }
+}

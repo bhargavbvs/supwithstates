@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-140-ambernath",
+  "constituency": {
+    "number": 140,
+    "name": "Ambernath",
+    "district": "Thane",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Balaji Pralhad Kinikar",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Dentist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Dental Surgery from Mumbai Vidhyapith in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50116084,
+      "immovable": 83700000,
+      "total": 118874084,
+      "liabilities": 54847219
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1872",
+    "retrieved": "2026-08-27"
+  }
+}

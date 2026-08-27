@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-76-simri-bakhtiarpur",
+  "constituency": {
+    "number": 76,
+    "name": "Simri Bakhtiarpur",
+    "district": "Saharsa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Kumar Singh",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. From Sahara College Sahara LHMU Darbanga Year 1991 & LL.B From Law College Sahara BNMU Madhepura Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 110385745,
+      "immovable": 341722798,
+      "total": 452108543,
+      "liabilities": 160775419
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=681",
+    "retrieved": "2026-08-27"
+  }
+}

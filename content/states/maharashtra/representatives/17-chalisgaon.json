@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-17-chalisgaon",
+  "constituency": {
+    "number": 17,
+    "name": "Chalisgaon",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mangesh Ramesh Chavan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Agriculture And Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Science From Maharashtra State Secondary And Higher Secondary Education Board Pune In The Year 2002"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 123785339,
+      "immovable": 70132459,
+      "total": 186512698,
+      "liabilities": 115470852
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=842",
+    "retrieved": "2026-08-27"
+  }
+}

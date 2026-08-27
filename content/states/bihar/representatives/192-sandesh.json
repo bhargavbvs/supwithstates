@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-192-sandesh",
+  "constituency": {
+    "number": 192,
+    "name": "Sandesh",
+    "district": "Bhojpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Radha Charan Sah",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 67,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass from Madhya Vidyalaya Nathalpur Anchal Barhara"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73970329,
+      "immovable": 266150000,
+      "total": 340120329,
+      "liabilities": 61484399
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=688",
+    "retrieved": "2026-08-27"
+  }
+}

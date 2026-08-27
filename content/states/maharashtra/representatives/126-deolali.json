@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-126-deolali",
+  "constituency": {
+    "number": 126,
+    "name": "Deolali",
+    "district": "Nashik",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ahire Saroj Babulal",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Business and LIC Advisor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Yashwantrao Chavan Maharashtra Vidyapeeth Nashik 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26075794,
+      "immovable": 12574000,
+      "total": 37161087,
+      "liabilities": 4448954
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=481",
+    "retrieved": "2026-08-27"
+  }
+}

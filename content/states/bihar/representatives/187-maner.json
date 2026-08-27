@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-187-maner",
+  "constituency": {
+    "number": 187,
+    "name": "Maner",
+    "district": "Patna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhai Birendra",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 64,
+    "profession": "Social Worker, Dairy, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Patna University 1984"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16925359,
+      "immovable": 26175000,
+      "total": 43100359,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=127",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-154-magathane",
+  "constituency": {
+    "number": 154,
+    "name": "Magathane",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prakash Surve",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Businessman & Current MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Mumbai University in Year 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51804736,
+      "immovable": 44617278,
+      "total": 96422017,
+      "liabilities": 2891916
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=553",
+    "retrieved": "2026-08-27"
+  }
+}

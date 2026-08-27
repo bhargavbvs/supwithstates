@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-69-aheri",
+  "constituency": {
+    "number": 69,
+    "name": "Aheri",
+    "district": "Gadchiroli",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Atram Dharamraobaba Bhagwantrao",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSC from Shivaji Preparatory Military School, Pune, Pune Division Board, Pune 1972"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47434097,
+      "immovable": 75102500,
+      "total": 122536596,
+      "liabilities": 7121251
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1372",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-148-thane",
+  "constituency": {
+    "number": 148,
+    "name": "Thane",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Mukund Kelkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 68,
+    "profession": "Tax Advisor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Sidanham College of Commerce, Churchgate, Mumbai in Year 1997-98"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15653779,
+      "immovable": 43263000,
+      "total": 58926779,
+      "liabilities": 2951262
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=742",
+    "retrieved": "2026-08-27"
+  }
+}

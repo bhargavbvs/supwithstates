@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-228-georai",
+  "constituency": {
+    "number": 228,
+    "name": "Georai",
+    "district": "Beed",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijaysinh Shivajirao Pandit",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Dr. Babasaheb Ambedkar Marathwada University,Aurangabad in Year -2010"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 104317933,
+      "immovable": 172200000,
+      "total": 276617933,
+      "liabilities": 74008520
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=514",
+    "retrieved": "2026-08-27"
+  }
+}

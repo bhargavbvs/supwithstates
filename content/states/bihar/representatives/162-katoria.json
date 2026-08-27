@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-162-katoria",
+  "constituency": {
+    "number": 162,
+    "name": "Katoria",
+    "district": "Banka",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Puran Lal Tudu",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 37,
+    "profession": "Agriculture & Self Employment, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. & B.Ed. From Tilka Manjhi Bhagalpur University, Year-2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 795653,
+      "immovable": 2000000,
+      "total": 2795653,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2120",
+    "retrieved": "2026-08-27"
+  }
+}

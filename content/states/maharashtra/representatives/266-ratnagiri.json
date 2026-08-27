@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-266-ratnagiri",
+  "constituency": {
+    "number": 266,
+    "name": "Ratnagiri",
+    "district": "Ratnagiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Uday Ravindra Samant",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Salary, Social Worker and Farmer",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Automobile Engineering from Abhiyantrika Padavika, Secondary and Higher Secondary Education Divisional Board Mumbai Year 1991 Maharashtra State Board of Secondary"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17770367,
+      "immovable": 33010000,
+      "total": 50780370,
+      "liabilities": 12601137
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=671",
+    "retrieved": "2026-08-27"
+  }
+}

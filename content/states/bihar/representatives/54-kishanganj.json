@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-54-kishanganj",
+  "constituency": {
+    "number": 54,
+    "name": "Kishanganj",
+    "district": "Kishanganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md. Qamrul Hoda",
+    "election": "2025",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 62,
+    "profession": "Agriculture & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik from Ilahiwaqs High school Panjipara 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6360785,
+      "immovable": 23450000,
+      "total": 29810785,
+      "liabilities": 4850000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2077",
+    "retrieved": "2026-08-27"
+  }
+}

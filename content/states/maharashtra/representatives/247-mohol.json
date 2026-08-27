@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-247-mohol",
+  "constituency": {
+    "number": 247,
+    "name": "Mohol",
+    "district": "Solapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Khare Raju Dnyanu",
+    "election": "2024",
+    "elected_party": "NCP-Sharadchandra Pawar",
+    "current_party": "NCP-Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th From Karmvir Bhavrao Patil School in year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5675000,
+      "immovable": 41738100,
+      "total": 39792900,
+      "liabilities": 1812750
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1128",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-135-shahapur",
+  "constituency": {
+    "number": 135,
+    "name": "Shahapur",
+    "district": "Thane",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Daulat Bhika Daroda",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Dnyanvardhini Mahavidyalaya Shahapur Mumbai Board In The Year April 1994, 12th Pass From G V Khade Vidyalaya Shahapur Mumbai Board In The Year March 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22800882,
+      "immovable": 18860882,
+      "total": 41583137,
+      "liabilities": 891365
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=336",
+    "retrieved": "2026-08-27"
+  }
+}

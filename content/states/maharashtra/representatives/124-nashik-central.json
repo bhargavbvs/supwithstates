@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-124-nashik-central",
+  "constituency": {
+    "number": 124,
+    "name": "Nashik Central",
+    "district": "Nashik",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devyani Suhas Pharande",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Retired from NDMVP College of Pharmacy Nashik",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. from Pune University Year 1989"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18614298,
+      "immovable": 110335000,
+      "total": 134738800,
+      "liabilities": 300197
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1032",
+    "retrieved": "2026-08-27"
+  }
+}

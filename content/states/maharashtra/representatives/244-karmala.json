@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-244-karmala",
+  "constituency": {
+    "number": 244,
+    "name": "Karmala",
+    "district": "Solapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narayan (Aba) Govindrao Patil",
+    "election": "2024",
+    "elected_party": "NCP-Sharadchandra Pawar",
+    "current_party": "NCP-Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th from Kolhapur Highschool, Kolhapur in 1983"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3696542,
+      "immovable": 36400000,
+      "total": 45015749,
+      "liabilities": 7585649
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3101",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-116-taraiya",
+  "constituency": {
+    "number": 116,
+    "name": "Taraiya",
+    "district": "Saran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Janak Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 64,
+    "profession": "Social worker, Agriculture, Dairy",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from Jagdam College Chhapra Saran Bihar University Muzaffarpur 1980"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5821032,
+      "immovable": 81400000,
+      "total": 87221032,
+      "liabilities": 3421378
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1173",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-206-chainpur",
+  "constituency": {
+    "number": 206,
+    "name": "Chainpur",
+    "district": "Kaimur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md. Zama Khan",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Adarsh Intermediate College Varanasi in 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7990425,
+      "immovable": 7785650,
+      "total": 15776075,
+      "liabilities": 1684767
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2378",
+    "retrieved": "2026-08-27"
+  }
+}

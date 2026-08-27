@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-139-rosera",
+  "constituency": {
+    "number": 139,
+    "name": "Rosera",
+    "district": "Samastipur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Birendra Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Agriculture and Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Science) From Darbanga Year 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4384500,
+      "immovable": 7400000,
+      "total": 11784500,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=432",
+    "retrieved": "2026-08-27"
+  }
+}

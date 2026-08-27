@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-176-nalanda",
+  "constituency": {
+    "number": 176,
+    "name": "Nalanda",
+    "district": "Nalanda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shrawon Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 66,
+    "profession": "Agriculture & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From S.P.M. College Bihar sharif Nalanda 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21188394,
+      "immovable": 16500000,
+      "total": 37688394,
+      "liabilities": 1056000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=400",
+    "retrieved": "2026-08-27"
+  }
+}

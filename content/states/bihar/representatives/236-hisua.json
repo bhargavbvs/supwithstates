@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-236-hisua",
+  "constituency": {
+    "number": 236,
+    "name": "Hisua",
+    "district": "Nawada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 54,
+    "profession": "Social Service & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Hons. From Sri Krishna Memorial College, Nawada, Magadh University, Bodh Gaya in 1989"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14841469,
+      "immovable": 43600000,
+      "total": 58441469,
+      "liabilities": 9258222
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2011",
+    "retrieved": "2026-08-27"
+  }
+}

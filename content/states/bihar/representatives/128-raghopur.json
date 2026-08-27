@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-128-raghopur",
+  "constituency": {
+    "number": 128,
+    "name": "Raghopur",
+    "district": "Vaishali",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tejashwi Prasad Yadav",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 36,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from DPS R.K. Puram, New Delhi - Year 2006"
+    },
+    "declared_cases": {
+      "total": 22,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 71287812,
+      "immovable": 18850000,
+      "total": 90137812,
+      "liabilities": 19125566
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=117",
+    "retrieved": "2026-08-27"
+  }
+}

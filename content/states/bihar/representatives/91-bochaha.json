@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-91-bochaha",
+  "constituency": {
+    "number": 91,
+    "name": "Bochaha",
+    "district": "Muzaffarpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Baby Kumari",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 48,
+    "profession": "Social Worker & Former Legislator",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. Part 2 from BRABU in 1995, Intermediate from MSKB, Muz., Matric from High School Chhawan in 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": -12203493,
+      "immovable": 32000000,
+      "total": 19796507,
+      "liabilities": 12637479
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1113",
+    "retrieved": "2026-08-27"
+  }
+}

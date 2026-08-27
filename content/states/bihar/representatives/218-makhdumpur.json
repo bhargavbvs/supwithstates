@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-218-makhdumpur",
+  "constituency": {
+    "number": 218,
+    "name": "Makhdumpur",
+    "district": "Jahanabad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Subedar Das",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Maha Bodhy College, Chakan Gaya, Magadh University, Year-1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2626225,
+      "immovable": 12800000,
+      "total": 15426225,
+      "liabilities": 2200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1943",
+    "retrieved": "2026-08-27"
+  }
+}

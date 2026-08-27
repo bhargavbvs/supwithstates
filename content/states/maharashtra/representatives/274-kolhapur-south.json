@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-274-kolhapur-south",
+  "constituency": {
+    "number": 274,
+    "name": "Kolhapur South",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amal Mahadevrao Mahadik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Vivekanand College Kolhapur (Shivaji University, Kolhapur) in Year Apr 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 109476035,
+      "immovable": 130726000,
+      "total": 240212000,
+      "liabilities": 27729319
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=293",
+    "retrieved": "2026-08-27"
+  }
+}

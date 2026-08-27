@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-111-goriakothi",
+  "constituency": {
+    "number": 111,
+    "name": "Goriakothi",
+    "district": "Siwan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devesh Kant Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 57,
+    "profession": "Rent & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Patna College (Patna University) 1988, Intermediate from Patna College Patna University 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18071824,
+      "immovable": 16750000,
+      "total": 34821824,
+      "liabilities": 4784866
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=866",
+    "retrieved": "2026-08-27"
+  }
+}

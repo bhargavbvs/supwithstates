@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-188-panvel",
+  "constituency": {
+    "number": 188,
+    "name": "Panvel",
+    "district": "Raigarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prashant Ramsheth Thakur",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Rent, Construction Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from D.G. Ruparel College of Arts, Science and Commerce, Mumbai Maharashtra State Board of Secondary Under Higher Secondary Education Division Board, Bombay in 1991"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 587552367,
+      "immovable": 4170367842,
+      "total": 4758539330,
+      "liabilities": 4255440
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=604",
+    "retrieved": "2026-08-27"
+  }
+}

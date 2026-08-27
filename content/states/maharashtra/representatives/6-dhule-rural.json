@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-6-dhule-rural",
+  "constituency": {
+    "number": 6,
+    "name": "Dhule Rural",
+    "district": "Dhule",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raghavendra (Ramdada) Manohar Patil",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 31,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. from Kavayitri Bahinabai Chaudhari North Maharashtra in 2015"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9953503,
+      "immovable": 9460854,
+      "total": 19416461,
+      "liabilities": 1177840
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2488",
+    "retrieved": "2026-08-27"
+  }
+}

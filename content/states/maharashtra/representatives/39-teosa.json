@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-39-teosa",
+  "constituency": {
+    "number": 39,
+    "name": "Teosa",
+    "district": "Amravati",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Shriramji Wankhade",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Agriculture and Private Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 2021 from Ravindranath Tagor, M. Pr. College, HSSC in 1990 from Nagpur Board"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 52834836,
+      "immovable": 75070000,
+      "total": 127904836,
+      "liabilities": 7414886
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=740",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-1-akkalkuwa",
+  "constituency": {
+    "number": 1,
+    "name": "Akkalkuwa",
+    "district": "Nandurbar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Amshya Fulji Padvi",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Agriculture & MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Yashwantrao Chavhan Open University, Nashik in 2013, Central Teachers College, Sorapada, Tal. Akkalkuwa, Dist. Nandurbar"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 17148965,
+      "immovable": 49273614,
+      "total": 66487579,
+      "liabilities": 7999997
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1396",
+    "retrieved": "2026-08-27"
+  }
+}

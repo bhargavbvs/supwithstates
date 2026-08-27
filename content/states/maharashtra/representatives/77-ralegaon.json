@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-77-ralegaon",
+  "constituency": {
+    "number": 77,
+    "name": "Ralegaon",
+    "district": "Yavatmal",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Prof. Dr. Ashok Ramaji Wooike",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Principal",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc from Amravati University Amravati y 1991 ,, Aacharya At AmravUniversity Y 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19142318,
+      "immovable": 14300000,
+      "total": 33416193,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=667",
+    "retrieved": "2026-08-27"
+  }
+}

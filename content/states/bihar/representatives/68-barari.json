@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-68-barari",
+  "constituency": {
+    "number": 68,
+    "name": "Barari",
+    "district": "Katihar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bijay Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Agriculture, Fox Nuts Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Hons.) From Darshan Saha College, Katihar, LNMU, Darbhanga, Year-1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9188611,
+      "immovable": 40000000,
+      "total": 49188611,
+      "liabilities": 6836682
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2699",
+    "retrieved": "2026-08-27"
+  }
+}

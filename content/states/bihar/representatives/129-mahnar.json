@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-129-mahnar",
+  "constituency": {
+    "number": 129,
+    "name": "Mahnar",
+    "district": "Vaishali",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umesh Singh Kushwaha",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 51,
+    "profession": "MLA Pension, Agriculture Business, Temporary Artificial Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "ISC Pass in 1990 from Aachary Narendradeo College, Shahpur, Samastipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11974785,
+      "immovable": 14251500,
+      "total": 26226285,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=34",
+    "retrieved": "2026-08-27"
+  }
+}

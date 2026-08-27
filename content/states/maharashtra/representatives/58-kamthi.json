@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-58-kamthi",
+  "constituency": {
+    "number": 58,
+    "name": "Kamthi",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandrashekhar Krushnarao Bawankule",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Agriculture, Honorarium",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc. 1st Year from Dharmapeth Science College Nagpur in Year 1988"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26305018,
+      "immovable": 459257221,
+      "total": 485562239,
+      "liabilities": 202499236
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=980",
+    "retrieved": "2026-08-27"
+  }
+}

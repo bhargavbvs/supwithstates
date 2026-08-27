@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-59-banmankhi",
+  "constituency": {
+    "number": 59,
+    "name": "Banmankhi",
+    "district": "Purnia",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Krishna Kumar Rishi",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Social Work & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Gorelal Mehta College Banmankhi (Bihar Intermediate Education Council, Patna) in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13207976,
+      "immovable": 24353519,
+      "total": 37561495,
+      "liabilities": 3133121
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1969",
+    "retrieved": "2026-08-27"
+  }
+}

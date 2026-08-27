@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-151-parbatta",
+  "constituency": {
+    "number": 151,
+    "name": "Parbatta",
+    "district": "Khagaria",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babulal Shorya",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 38,
+    "profession": "Agriculture, Animal Husbandary, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate in Physics from T M B U Bhagalpur in 2005-08, B.Ed from Raj Mata Madhuri Devi Teacher Traning College KHagaria in 2017-19"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7974716,
+      "immovable": 2185000,
+      "total": 10159716,
+      "liabilities": 758139
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1503",
+    "retrieved": "2026-08-27"
+  }
+}

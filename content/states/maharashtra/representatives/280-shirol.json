@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-280-shirol",
+  "constituency": {
+    "number": 280,
+    "name": "Shirol",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Shamgonda Patil (Yadravkar)",
+    "election": "2024",
+    "elected_party": "Rajarshi Shahu Vikas Aghadi",
+    "current_party": "Rajarshi Shahu Vikas Aghadi",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & Advertisment Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering, M.S.B.T.E. from Sharad Institute of Technology Polytechnic (D.C.E.) in 2013-2014"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 47541603,
+      "immovable": 89705354,
+      "total": 135261778,
+      "liabilities": 25067817
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=356",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-233-atri",
+  "constituency": {
+    "number": 233,
+    "name": "Atri",
+    "district": "Gaya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Romit Kumar",
+    "election": "2025",
+    "elected_party": "Hindustani Awam Morcha (Secular)",
+    "current_party": "Hindustani Awam Morcha (Secular)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 37,
+    "profession": "Salary from Pvt. School",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. from University of Pune 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 107495052,
+      "immovable": 91243438,
+      "total": 198738490,
+      "liabilities": 32000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2265",
+    "retrieved": "2026-08-27"
+  }
+}

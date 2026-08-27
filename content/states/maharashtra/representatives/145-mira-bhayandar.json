@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-145-mira-bhayandar",
+  "constituency": {
+    "number": 145,
+    "name": "Mira Bhayandar",
+    "district": "Thane",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narendra Mehta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Remuneration, Business Income, Bank Interest & Other",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass from Our Lady of Nazareth High School, Bhayandar West Thane, Year-1986"
+    },
+    "declared_cases": {
+      "total": 18,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 670831731,
+      "immovable": 40000000,
+      "total": 630998260,
+      "liabilities": 68400453
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=838",
+    "retrieved": "2026-08-27"
+  }
+}

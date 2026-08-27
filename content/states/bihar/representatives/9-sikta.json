@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-9-sikta",
+  "constituency": {
+    "number": 9,
+    "name": "Sikta",
+    "district": "Pashchimi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sammridh Varma",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 37,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Intermediate from The Sindhiya School Gwalior in 2007, International Trade and Commerce Global Advertising & Marketing from University of California, America in 2014-15, Business Sustainability Management Leadership Course University of Cambridge Year 202"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 105960624,
+      "immovable": 29000000,
+      "total": 134960624,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2720",
+    "retrieved": "2026-08-27"
+  }
+}

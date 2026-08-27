@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-100-ghansawangi",
+  "constituency": {
+    "number": 100,
+    "name": "Ghansawangi",
+    "district": "Jalna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Udhan Hikmat Baliram",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Agriculture & Entrepreneur",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S (Bachelor of Medicine & Bachelor of Surgery) from Government Medical College, Aurangabad , Marathwada Unviersity Aurangabad Year 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 643510579,
+      "immovable": 154463809,
+      "total": 713809016,
+      "liabilities": 251208690
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2909",
+    "retrieved": "2026-08-27"
+  }
+}

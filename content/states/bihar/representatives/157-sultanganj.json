@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-157-sultanganj",
+  "constituency": {
+    "number": 157,
+    "name": "Sultanganj",
+    "district": "Bhagalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lalit Narayan Mandal",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 67,
+    "profession": "Retired Associate Professor and Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.SC Physics, From P.G Department Physics Bhagalpur University in the Year of 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19145390,
+      "immovable": 9200000,
+      "total": 28345390,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2205",
+    "retrieved": "2026-08-27"
+  }
+}

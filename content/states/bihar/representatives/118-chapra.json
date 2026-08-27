@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-118-chapra",
+  "constituency": {
+    "number": 118,
+    "name": "Chapra",
+    "district": "Saran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chhoti Kumari",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 35,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from ML College Marar Dighra Parsa in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6079344,
+      "immovable": 8100000,
+      "total": 14179344,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1277",
+    "retrieved": "2026-08-27"
+  }
+}

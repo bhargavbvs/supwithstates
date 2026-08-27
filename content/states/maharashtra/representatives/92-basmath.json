@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-92-basmath",
+  "constituency": {
+    "number": 92,
+    "name": "Basmath",
+    "district": "Hingoli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandrakant Alias Rajubhaiya Ramakant Navghare",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture, Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Tilak Maharashtra University Pune in 2024"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9300343,
+      "immovable": 7395459,
+      "total": 16695802,
+      "liabilities": 750861
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2672",
+    "retrieved": "2026-08-27"
+  }
+}

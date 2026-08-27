@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-114-manjhi",
+  "constituency": {
+    "number": 114,
+    "name": "Manjhi",
+    "district": "Saran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Randhir Kumar Singh",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 42,
+    "profession": "Pension, Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Passed Sant Jeviyars College Ranchi 2000"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7936609,
+      "immovable": 33594000,
+      "total": 41530609,
+      "liabilities": 5083573
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=744",
+    "retrieved": "2026-08-27"
+  }
+}

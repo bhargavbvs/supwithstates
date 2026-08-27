@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-89-aurai",
+  "constituency": {
+    "number": 89,
+    "name": "Aurai",
+    "district": "Muzaffarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rama Nishad",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Pass from Bihar School Education Board, Patna, Bihar in 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 60544265,
+      "immovable": 258077100,
+      "total": 318621365,
+      "liabilities": 7501825
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=476",
+    "retrieved": "2026-08-27"
+  }
+}

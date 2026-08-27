@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-233-parli",
+  "constituency": {
+    "number": 233,
+    "name": "Parli",
+    "district": "Beed",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhananjay Panditrao Munde",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Agriculture Business, MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BSL From Symbiosis College Pune In The Year April 1998, HSC From Vaidyanath College Parli In The Year March 1992, SSC From New English School Parli In The Year March 1990"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 67809683,
+      "immovable": 330635438,
+      "total": 398445121,
+      "liabilities": 154912560
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=614",
+    "retrieved": "2026-08-27"
+  }
+}

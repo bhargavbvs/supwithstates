@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-50-hingna",
+  "constituency": {
+    "number": 50,
+    "name": "Hingna",
+    "district": "Nagpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sameer Dattatraya Meghe",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Business , Remuneration",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from Shobhit University Shobhit Institute of Engineering & Technology Meerut India Year 2014"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1748306686,
+      "immovable": 865609912,
+      "total": 2613916592,
+      "liabilities": 751423196
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3285",
+    "retrieved": "2026-08-27"
+  }
+}

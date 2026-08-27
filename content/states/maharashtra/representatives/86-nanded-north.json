@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-86-nanded-north",
+  "constituency": {
+    "number": 86,
+    "name": "Nanded North",
+    "district": "Nanded",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balaji Devidasrao Kalyankar",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass Yashwant College, Baba Nagar, Nanded Swami Ramanand Theertha Marathwada University, Year 1997"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 28815306,
+      "immovable": 28936772,
+      "total": 57752578,
+      "liabilities": 4197289
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1258",
+    "retrieved": "2026-08-27"
+  }
+}

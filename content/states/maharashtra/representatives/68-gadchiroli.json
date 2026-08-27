@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-68-gadchiroli",
+  "constituency": {
+    "number": 68,
+    "name": "Gadchiroli",
+    "district": "Gadchiroli",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Milind Ramji Narote",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine And Bachelor of Surgery From NPK SIMS Nagpur In The Year 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6829758,
+      "immovable": 4000000,
+      "total": 10829758,
+      "liabilities": 137198
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=504",
+    "retrieved": "2026-08-27"
+  }
+}

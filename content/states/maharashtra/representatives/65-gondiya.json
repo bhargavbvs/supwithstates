@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-65-gondiya",
+  "constituency": {
+    "number": 65,
+    "name": "Gondiya",
+    "district": "Gondia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Agrawal Vinod",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Social Worker, Farmer, Member Maharashtra Legislative Assembaly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSSC from Maharashtra State Board of Secondary & Higher Secondary Education, Pune Division Nagpur- N.M.D. Gondia in 1987"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25164315,
+      "immovable": 52281586,
+      "total": 77445902,
+      "liabilities": 2209989
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=527",
+    "retrieved": "2026-08-27"
+  }
+}

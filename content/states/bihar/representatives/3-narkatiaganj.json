@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-3-narkatiaganj",
+  "constituency": {
+    "number": 3,
+    "name": "Narkatiaganj",
+    "district": "Pashchimi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Kumar Pandey",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Social & Politics Worker, Farmer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From M.J College, Bettiah in 1984"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5542124,
+      "immovable": 12850000,
+      "total": 18392124,
+      "liabilities": 660916
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2620",
+    "retrieved": "2026-08-27"
+  }
+}

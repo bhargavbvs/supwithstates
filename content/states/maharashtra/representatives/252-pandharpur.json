@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-252-pandharpur",
+  "constituency": {
+    "number": 252,
+    "name": "Pandharpur",
+    "district": "Solapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Autade Samadhan Mahadeo",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Agriculture, Rents, Salary",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil and Rural Engineering From Padmbhushan Vasantdada Patil Institute of Technology, Dist. Sangli, Maharashtra State Board of Technical Education, Mumbai in year 2017"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 650262643,
+      "immovable": 501025798,
+      "total": 1151248445,
+      "liabilities": 185310104
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=599",
+    "retrieved": "2026-08-27"
+  }
+}

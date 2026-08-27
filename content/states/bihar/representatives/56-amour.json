@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-56-amour",
+  "constituency": {
+    "number": 56,
+    "name": "Amour",
+    "district": "Purnia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akhtarul Iman",
+    "election": "2025",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 61,
+    "profession": "Social Worker and Farmer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Magadh University in 1990"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": -2728606,
+      "immovable": 15800000,
+      "total": 13071394,
+      "liabilities": 26000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1812",
+    "retrieved": "2026-08-27"
+  }
+}

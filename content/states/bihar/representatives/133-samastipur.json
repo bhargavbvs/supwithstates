@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-133-samastipur",
+  "constituency": {
+    "number": 133,
+    "name": "Samastipur",
+    "district": "Samastipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashwamedh Devi",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 62,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Pass Govt Middle School Warisnagar Dist.Samaastipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3318461,
+      "immovable": 73300000,
+      "total": 76618461,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=446",
+    "retrieved": "2026-08-27"
+  }
+}

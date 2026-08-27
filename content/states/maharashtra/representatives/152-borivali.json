@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-152-borivali",
+  "constituency": {
+    "number": 152,
+    "name": "Borivali",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Upadhyay",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc Physics From Wilson College In The Year 1996, B.Sc Physics From Mitibai College In The Year 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23133522,
+      "immovable": 30000000,
+      "total": 53133517,
+      "liabilities": 4198882
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1283",
+    "retrieved": "2026-08-27"
+  }
+}

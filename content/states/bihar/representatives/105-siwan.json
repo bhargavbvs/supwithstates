@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-105-siwan",
+  "constituency": {
+    "number": 105,
+    "name": "Siwan",
+    "district": "Siwan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mangal Pandey",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Social and Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons) Political Sciene Patna University in 1994"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 20036617,
+      "immovable": 14230000,
+      "total": 34266617,
+      "liabilities": 4261423
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1189",
+    "retrieved": "2026-08-27"
+  }
+}

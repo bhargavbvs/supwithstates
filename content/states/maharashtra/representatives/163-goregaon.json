@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-163-goregaon",
+  "constituency": {
+    "number": 163,
+    "name": "Goregaon",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vidya Jaiprakash Thakur",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Kundilal Govindram Seksaria Sarvodaya School In The Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 123606343,
+      "immovable": 224600000,
+      "total": 353630962,
+      "liabilities": 78538134
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=529",
+    "retrieved": "2026-08-27"
+  }
+}

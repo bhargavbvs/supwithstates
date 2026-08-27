@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-1-valmiki-nagar",
+  "constituency": {
+    "number": 1,
+    "name": "Valmiki Nagar",
+    "district": "Pashchimi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surendra Prasad",
+    "election": "2025",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 59,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate & Matric"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14549720,
+      "immovable": 97920000,
+      "total": 112469720,
+      "liabilities": 19908602
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2560",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-107-aurangabad-central",
+  "constituency": {
+    "number": 107,
+    "name": "Aurangabad Central",
+    "district": "Chhatrapati Sambhajinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaiswal Pradeep Shivnarayan",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Social Worker, Hotel Business, Rent",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from Shivaji High school Chhatrapati Sambhajinagar 1977"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 57284525,
+      "immovable": 256813550,
+      "total": 314098075,
+      "liabilities": 87606682
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1938",
+    "retrieved": "2026-08-27"
+  }
+}

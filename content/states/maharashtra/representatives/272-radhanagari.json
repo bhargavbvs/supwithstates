@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-272-radhanagari",
+  "constituency": {
+    "number": 272,
+    "name": "Radhanagari",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abitkar Prakash Anandrao",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Honours from Shivaji University, Kolahpur in April 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9456701,
+      "immovable": 6693181,
+      "total": 16085796,
+      "liabilities": 1856994
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=652",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-212-parvati",
+  "constituency": {
+    "number": 212,
+    "name": "Parvati",
+    "district": "Pune",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhuri Satish Misal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Business And Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Pune University Modern College In The Year 1984, SSC From Maharashtra State Board Aadarsh College In The Year 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 409427522,
+      "immovable": 556470937,
+      "total": 965898459,
+      "liabilities": 45566840
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=621",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-236-ahmadpur",
+  "constituency": {
+    "number": 236,
+    "name": "Ahmadpur",
+    "district": "Latur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babasaheb Mohanrao Patil",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Swami Ramanand Teerath Marathwada University Nanded Swami Vivekanand College, Shirur Tajband, Tal. Ahmedpur, Dist. Latur in Year 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21562515,
+      "immovable": 61300000,
+      "total": 82862515,
+      "liabilities": 759347119
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=127",
+    "retrieved": "2026-08-27"
+  }
+}

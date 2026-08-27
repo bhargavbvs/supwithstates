@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-158-nathnagar",
+  "constituency": {
+    "number": 158,
+    "name": "Nathnagar",
+    "district": "Bhagalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mithun Kumar",
+    "election": "2025",
+    "elected_party": "Lok Janshakti Party (Ram Vilas)",
+    "current_party": "Lok Janshakti Party (Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 39,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com(H) TM Bhagalpur University in 2012"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1259889,
+      "immovable": 20500000,
+      "total": 21759889,
+      "liabilities": 100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2212",
+    "retrieved": "2026-08-27"
+  }
+}

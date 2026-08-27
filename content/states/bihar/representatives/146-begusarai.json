@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-146-begusarai",
+  "constituency": {
+    "number": 146,
+    "name": "Begusarai",
+    "district": "Begusarai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kundan Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 48,
+    "profession": "MLA and Consultancy",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate Programme in Management Media with Human Resource Management & Industrial Relations in 2002-2004"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 44249260,
+      "immovable": 87600000,
+      "total": 131849260,
+      "liabilities": 5096802
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1050",
+    "retrieved": "2026-08-27"
+  }
+}

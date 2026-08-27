@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-170-ghatkopar-east",
+  "constituency": {
+    "number": 170,
+    "name": "Ghatkopar East",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Parag Shah",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from Board of External Examinations Osmania University in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33155280900,
+      "immovable": 675340000,
+      "total": 33830620898,
+      "liabilities": 3790000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3410",
+    "retrieved": "2026-08-27"
+  }
+}

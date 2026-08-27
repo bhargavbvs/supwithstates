@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-79-digras",
+  "constituency": {
+    "number": 79,
+    "name": "Digras",
+    "district": "Yavatmal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rathod Sanjay Dulichand",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Farmer, Salary and allowances of Minister, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Com from Arts & Commerce College Yavatmal in Year 1993, BP.Ed. from Subhedar Ramji Ambedkar College Wardha in Year 1995"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 68929558,
+      "immovable": 362219269,
+      "total": 431148827,
+      "liabilities": 243876524
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=216",
+    "retrieved": "2026-08-27"
+  }
+}

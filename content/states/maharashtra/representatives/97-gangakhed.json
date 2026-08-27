@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-97-gangakhed",
+  "constituency": {
+    "number": 97,
+    "name": "Gangakhed",
+    "district": "Parbhani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gutte Ratnakar Manikrao",
+    "election": "2024",
+    "elected_party": "Rashtriya Samaj Paksha",
+    "current_party": "Rashtriya Samaj Paksha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th From Saraswati School Parli Year 1973"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 791694626,
+      "immovable": 133435000,
+      "total": 925639626,
+      "liabilities": 285017607
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=507",
+    "retrieved": "2026-08-27"
+  }
+}

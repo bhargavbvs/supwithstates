@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-47-wardha",
+  "constituency": {
+    "number": 47,
+    "name": "Wardha",
+    "district": "Wardha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Pankaj Rajesh Bhoyar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Service & Buisness & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Phylosophy (Ph. D.) From RTM Nagpur University, Nagpur Year 2004, M.A.(Eco) From RTM Nagpur Univeristy, Nagpur Year 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 132034255,
+      "immovable": 128055000,
+      "total": 260089255,
+      "liabilities": 38525183
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=232",
+    "retrieved": "2026-08-27"
+  }
+}

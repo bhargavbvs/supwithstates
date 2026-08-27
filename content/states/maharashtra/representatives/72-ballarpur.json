@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-72-ballarpur",
+  "constituency": {
+    "number": 72,
+    "name": "Ballarpur",
+    "district": "Chandrapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mungantiwar Sudhir Sacchidanand",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Vidhan Sabha Member",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phil from Sardar Patel College, Chandrapur in March 1990, M.Com from Bahishal Vidyarthi in April 1983, LLB from Law College in 1986, Nagpur University"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19146344,
+      "immovable": 157102547,
+      "total": 176248893,
+      "liabilities": 52153177
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1251",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-262-satara",
+  "constituency": {
+    "number": 262,
+    "name": "Satara",
+    "district": "Satara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shivendraraje Abhaysinhraje Bhonsle",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Agriculture, Business, Rent, MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "F.Y. B.Com from Dr. Dhananjayrao Gadgil College of Commerce, Satara in 1993"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 259264533,
+      "immovable": 826426029,
+      "total": 1284181725,
+      "liabilities": 116673699
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=688",
+    "retrieved": "2026-08-27"
+  }
+}

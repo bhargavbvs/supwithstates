@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-287-tasgaon-kavathe-mahankal",
+  "constituency": {
+    "number": 287,
+    "name": "Tasgaon-Kavathe Mahankal",
+    "district": "Sangli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rohit Suman R.R. Aba Patil",
+    "election": "2024",
+    "elected_party": "NCP-Sharadchandra Pawar",
+    "current_party": "NCP-Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 25,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Management Studies from H.R. College of Commerce and Eco. in 2021, Mumabi Vidhyapith"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2842754,
+      "immovable": 5838220,
+      "total": 8680975,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1850",
+    "retrieved": "2026-08-27"
+  }
+}

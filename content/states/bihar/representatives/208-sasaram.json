@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-208-sasaram",
+  "constituency": {
+    "number": 208,
+    "name": "Sasaram",
+    "district": "Rohtas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Snehlata",
+    "election": "2025",
+    "elected_party": "Rashtriya Lok Morcha",
+    "current_party": "Rashtriya Lok Morcha",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 56,
+    "profession": "Dairy Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From Vaishali Women College Hajipur Vaishali Year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8708110,
+      "immovable": 13800000,
+      "total": 22508110,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2604",
+    "retrieved": "2026-08-27"
+  }
+}

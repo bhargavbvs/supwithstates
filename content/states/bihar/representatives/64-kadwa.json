@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-64-kadwa",
+  "constituency": {
+    "number": 64,
+    "name": "Kadwa",
+    "district": "Katihar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dulal Chandra Goswami",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Arts Graduate (Political Science) from Lalit Naryan Mithila University, Kameshwar Nagar, Darbhanga, R.D.S. College Salmari"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12540209,
+      "immovable": 14490995,
+      "total": 27031204,
+      "liabilities": 4262500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2635",
+    "retrieved": "2026-08-27"
+  }
+}

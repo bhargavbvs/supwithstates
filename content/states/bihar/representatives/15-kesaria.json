@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-15-kesaria",
+  "constituency": {
+    "number": 15,
+    "name": "Kesaria",
+    "district": "Purbi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shalini Mishra",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Member of the Legislative Assembly (MLA)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graduate diploma in Business management from NIMT AICTE New Delhi 1998, Graduate From BRSM College Pusa Samstipur ,LNMC Darbhanga in 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 69968089,
+      "immovable": 29000000,
+      "total": 98968089,
+      "liabilities": 12401256
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2894",
+    "retrieved": "2026-08-27"
+  }
+}

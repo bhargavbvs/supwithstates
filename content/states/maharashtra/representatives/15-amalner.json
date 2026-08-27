@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-15-amalner",
+  "constituency": {
+    "number": 15,
+    "name": "Amalner",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Bhaidas Patil",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Agriculture And Business (Stone Crusher)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com From Symbiosis College Pune University Pune In The Year 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25587945,
+      "immovable": 59363200,
+      "total": 84950817,
+      "liabilities": 13845285
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=133",
+    "retrieved": "2026-08-27"
+  }
+}

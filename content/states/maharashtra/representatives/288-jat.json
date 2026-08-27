@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-288-jat",
+  "constituency": {
+    "number": 288,
+    "name": "Jat",
+    "district": "Sangli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gopichand Kundlik Padalkar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Kasturba Walchand College, Sangli in 2000-2001"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 133627,
+      "immovable": 6400000,
+      "total": 6533617,
+      "liabilities": 161221
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2103",
+    "retrieved": "2026-08-27"
+  }
+}

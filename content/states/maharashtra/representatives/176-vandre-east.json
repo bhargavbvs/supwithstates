@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-176-vandre-east",
+  "constituency": {
+    "number": 176,
+    "name": "Vandre East",
+    "district": "Mumbai Suburban",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Varun Satish Sardesai",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Employed With Shivam Constructions",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Of Science (Construction Engineering And Management) From Columbia University New York USA In The Year 2015, Bachelor Of Civil Engineering From Mumbai University In The Year 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 60404622,
+      "immovable": 30000000,
+      "total": 92204637,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=783",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-42-pipra",
+  "constituency": {
+    "number": 42,
+    "name": "Pipra",
+    "district": "Supaul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rambilash Kamat",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 62,
+    "profession": "Member of Bihar Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Bharat Sevak Samaj College Supaul In 1986"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2240411,
+      "immovable": 7502000,
+      "total": 9742411,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2806",
+    "retrieved": "2026-08-27"
+  }
+}

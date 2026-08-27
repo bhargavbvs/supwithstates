@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-279-ichalkaranji",
+  "constituency": {
+    "number": 279,
+    "name": "Ichalkaranji",
+    "district": "Kolhapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rahul Prakash Awade",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.Com Shivaji University, Kolhapur Year-2011, MBA Nims University,Jaipur(Raj.) Year-2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 258211932,
+      "immovable": 79000000,
+      "total": 337212010,
+      "liabilities": 216581246
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=548",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-214-arwal",
+  "constituency": {
+    "number": 214,
+    "name": "Arwal",
+    "district": "Arwal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Kumar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Social Service, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate (Science) from R.P.S. College, Patna, B.S.I.C. in 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 137979639,
+      "immovable": 173500000,
+      "total": 311479639,
+      "liabilities": 18817794
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1711",
+    "retrieved": "2026-08-27"
+  }
+}

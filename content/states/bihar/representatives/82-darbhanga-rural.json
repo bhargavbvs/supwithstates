@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-82-darbhanga-rural",
+  "constituency": {
+    "number": 82,
+    "name": "Darbhanga Rural",
+    "district": "Darbhanga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Kumar Mandal",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 44,
+    "profession": "Business and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Art) from RB Jalan College, Darbhanga, Lalit Narayn Mithila University Darbhanga in 2014"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7915304,
+      "immovable": 5000000,
+      "total": 12915304,
+      "liabilities": 2180000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=542",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-216-jehanabad",
+  "constituency": {
+    "number": 216,
+    "name": "Jehanabad",
+    "district": "Jahanabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rahul Kumar",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 41,
+    "profession": "Politician, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administrative from SCMHRD, Pune/S.I.U. in 2006-08"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33672071,
+      "immovable": 4950000,
+      "total": 38622071,
+      "liabilities": 2358195
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1922",
+    "retrieved": "2026-08-27"
+  }
+}

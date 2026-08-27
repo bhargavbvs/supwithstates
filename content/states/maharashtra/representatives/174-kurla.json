@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-174-kurla",
+  "constituency": {
+    "number": 174,
+    "name": "Kurla",
+    "district": "Mumbai Suburban",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kudalkar Mangesh",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "MLA, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC Passed May 2023 From Maharashtra State Board of Secondary and higher Secondary Education Pune"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6759180,
+      "immovable": 68132800,
+      "total": 74891982,
+      "liabilities": 4974781
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1054",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-5-sakri",
+  "constituency": {
+    "number": 5,
+    "name": "Sakri",
+    "district": "Dhule",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Manjula Tulshiram Gavit",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Womens College under Pune University Dhule in Oct. 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53231508,
+      "immovable": 26600000,
+      "total": 79831507,
+      "liabilities": 667735
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=317",
+    "retrieved": "2026-08-27"
+  }
+}

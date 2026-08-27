@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-33-risod",
+  "constituency": {
+    "number": 33,
+    "name": "Risod",
+    "district": "Washim",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ameet Subhashrao Zanak",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Electronics & Power) in 2008 from Nagpur University, Priydarshani Engineering College, Nagpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19692258,
+      "immovable": 45016032,
+      "total": 64708290,
+      "liabilities": 1642440
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=673",
+    "retrieved": "2026-08-27"
+  }
+}

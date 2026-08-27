@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-45-deoli",
+  "constituency": {
+    "number": 45,
+    "name": "Deoli",
+    "district": "Wardha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Bhaurao Bakane",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Agriculture, Building Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. First Year from Sardar Patel College, Chnadrapur University, Nagpur in April 1986"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10219317,
+      "immovable": 32809957,
+      "total": 43029574,
+      "liabilities": 10048378
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=484",
+    "retrieved": "2026-08-27"
+  }
+}

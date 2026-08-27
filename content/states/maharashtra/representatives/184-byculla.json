@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-184-byculla",
+  "constituency": {
+    "number": 184,
+    "name": "Byculla",
+    "district": "Mumbai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Pandurang Jamsutkar",
+    "election": "2024",
+    "elected_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "current_party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Business, Secretary of Mathadi Union",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "H.S.C. Passed from Elphinstone Technical High School and Jounior College, Dhobi Talav, Mumbai in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28742964,
+      "immovable": 104290000,
+      "total": 133032964,
+      "liabilities": 41870931
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1280",
+    "retrieved": "2026-08-27"
+  }
+}

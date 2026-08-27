@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-61-bhandara",
+  "constituency": {
+    "number": 61,
+    "name": "Bhandara",
+    "district": "Bhandara",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bhondekar Narendra Bhojraj",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Yashwantrao Chavan Maharashtra Open Univesity in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21315105,
+      "immovable": 59173885,
+      "total": 80243091,
+      "liabilities": 24895842
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=984",
+    "retrieved": "2026-08-27"
+  }
+}

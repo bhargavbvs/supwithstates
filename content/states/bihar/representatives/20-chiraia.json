@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-20-chiraia",
+  "constituency": {
+    "number": 20,
+    "name": "Chiraia",
+    "district": "Purbi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lal Babu Prasad Gupta",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 67,
+    "profession": "Agriculture, Business & Monthly Salary of Member of Bihar Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": null
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13980495,
+      "immovable": 16100000,
+      "total": 30080495,
+      "liabilities": 174000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2734",
+    "retrieved": "2026-08-27"
+  }
+}

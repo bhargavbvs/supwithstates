@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-14-jalgaon-rural",
+  "constituency": {
+    "number": 14,
+    "name": "Jalgaon Rural",
+    "district": "Jalgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gulabrao Raghunath Patil",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, Salary, Business Income",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Pune University Nutan Maratha College In The Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42972278,
+      "immovable": 62675000,
+      "total": 105094781,
+      "liabilities": 17839839
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=921",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-240-sikandra",
+  "constituency": {
+    "number": 240,
+    "name": "Sikandra",
+    "district": "Jamui",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Praphull Kumar Manjhi",
+    "election": "2025",
+    "elected_party": "Hindustani Awam Morcha (Secular)",
+    "current_party": "Hindustani Awam Morcha (Secular)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Politics & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Shri Karyanand Sharma Smarak College Lakhisarai ,Bhagalpur University Lakhisarai"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6295500,
+      "immovable": 0,
+      "total": 6295500,
+      "liabilities": 6500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1883",
+    "retrieved": "2026-08-27"
+  }
+}

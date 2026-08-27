@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-135-morwa",
+  "constituency": {
+    "number": 135,
+    "name": "Morwa",
+    "district": "Samastipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ranvijay Sahu",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Agriculture & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from College of Commerce 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16953965,
+      "immovable": 47500000,
+      "total": 64453965,
+      "liabilities": 2185511
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=389",
+    "retrieved": "2026-08-27"
+  }
+}

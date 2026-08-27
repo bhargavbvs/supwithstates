@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-217-ghosi",
+  "constituency": {
+    "number": 217,
+    "name": "Ghosi",
+    "district": "Jahanabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rituraj Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 36,
+    "profession": "Advocate & Social Worker.",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA LLB From Symbiosis Law School Symbiosis International University in 2011"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 20387172,
+      "immovable": 8650000,
+      "total": 29037172,
+      "liabilities": 3012734
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1931",
+    "retrieved": "2026-08-27"
+  }
+}

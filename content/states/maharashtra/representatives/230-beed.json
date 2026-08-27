@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-230-beed",
+  "constituency": {
+    "number": 230,
+    "name": "Beed",
+    "district": "Beed",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Ravindra Kshirsagar",
+    "election": "2024",
+    "elected_party": "NCP-Sharadchandra Pawar",
+    "current_party": "NCP-Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture, Salary , Social work & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. From K.S.K. urf Kaku College, Beed, Dr.B.A.M. University, Aurangabad. Year: 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 74950560,
+      "immovable": 49200000,
+      "total": 124150560,
+      "liabilities": 54701936
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1687",
+    "retrieved": "2026-08-27"
+  }
+}

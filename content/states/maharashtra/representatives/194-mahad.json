@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-194-mahad",
+  "constituency": {
+    "number": 194,
+    "name": "Mahad",
+    "district": "Raigarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gogawale Bharat Maruti",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Agriculture & Social Work",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass from Shivaji Educational Institute, Multipurpose Technical High School in Year 1978"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29112533,
+      "immovable": 45595693,
+      "total": 74708226,
+      "liabilities": 5523633
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=555",
+    "retrieved": "2026-08-27"
+  }
+}

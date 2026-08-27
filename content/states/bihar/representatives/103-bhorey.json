@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-103-bhorey",
+  "constituency": {
+    "number": 103,
+    "name": "Bhorey",
+    "district": "Gopalganj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sunil Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 65,
+    "profession": "Retired Director General",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (History) from St. Stephens College, Delhi University, Delhi in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31473046,
+      "immovable": 21400000,
+      "total": 52873046,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=108",
+    "retrieved": "2026-08-27"
+  }
+}

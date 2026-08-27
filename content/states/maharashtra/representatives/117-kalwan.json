@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-117-kalwan",
+  "constituency": {
+    "number": 117,
+    "name": "Kalwan",
+    "district": "Nashik",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nitinbhau Arjun (A.T.) Pawar",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from K.T.H.M. College, Nashik in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24131597,
+      "immovable": 99252453,
+      "total": 123372053,
+      "liabilities": 9030358
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=841",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-248-solapur-city-north",
+  "constituency": {
+    "number": 248,
+    "name": "Solapur City North",
+    "district": "Solapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deshmukh Vijay Sidramappa",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 68,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Sangmeswar College Solapur Shivaji Vidhyapith Kolhapur in 1978"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7284841,
+      "immovable": 120670402,
+      "total": 119341818,
+      "liabilities": 265397
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=729",
+    "retrieved": "2026-08-27"
+  }
+}

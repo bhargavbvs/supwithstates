@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-77-mahishi",
+  "constituency": {
+    "number": 77,
+    "name": "Mahishi",
+    "district": "Saharsa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gautam Krishna",
+    "election": "2025",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 40,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. (Political Sci. Department) From Patna University, Year-2018"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7135374,
+      "immovable": 5800000,
+      "total": 12935374,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1569",
+    "retrieved": "2026-08-27"
+  }
+}

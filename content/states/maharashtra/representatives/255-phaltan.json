@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-255-phaltan",
+  "constituency": {
+    "number": 255,
+    "name": "Phaltan",
+    "district": "Satara",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sachin Patil",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Farmer And Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass From Mudhoji High School And Junior College Phaltan In The Year 1984-85"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12167035,
+      "immovable": 14000000,
+      "total": 26167035,
+      "liabilities": 1324734
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=627",
+    "retrieved": "2026-08-27"
+  }
+}

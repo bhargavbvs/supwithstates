@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-250-akkalkot",
+  "constituency": {
+    "number": 250,
+    "name": "Akkalkot",
+    "district": "Solapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalyanshetti Sachin Panchappa",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Agricultural, Social work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. From JH Patel College of Education Sandagi Dist. Bijapur Karnataka University Year 2006"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14154617,
+      "immovable": 28769199,
+      "total": 42920982,
+      "liabilities": 4129938
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1391",
+    "retrieved": "2026-08-27"
+  }
+}

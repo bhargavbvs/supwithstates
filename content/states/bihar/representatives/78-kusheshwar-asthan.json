@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-78-kusheshwar-asthan",
+  "constituency": {
+    "number": 78,
+    "name": "Kusheshwar Asthan",
+    "district": "Darbhanga",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Atirek Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 42,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From School of Management The Univeristy of Texas At Dallas USA 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9634893,
+      "immovable": 66987200,
+      "total": 76622093,
+      "liabilities": 54269466
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=612",
+    "retrieved": "2026-08-27"
+  }
+}

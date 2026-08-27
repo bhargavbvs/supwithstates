@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-23-chikhli",
+  "constituency": {
+    "number": 23,
+    "name": "Chikhli",
+    "district": "Buldhana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mrs Shweta Vidyadhar Mahale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Agriculture, Director of Hawre Builders Pvt Ltd",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Pharmacy From Anuradha Pharmacy College Chikhli Sant Gadge Baba Amrawati University In The Year 2003"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18928678,
+      "immovable": 52811350,
+      "total": 71740028,
+      "liabilities": 22153590
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=198",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-90-deglur",
+  "constituency": {
+    "number": 90,
+    "name": "Deglur",
+    "district": "Nanded",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Antapurkar Jitesh Raosaheb",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 34,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech From St. Mary Engineering College Hyderabad In The Year 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5030801,
+      "immovable": 46306323,
+      "total": 51337125,
+      "liabilities": 30134616
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=211",
+    "retrieved": "2026-08-27"
+  }
+}

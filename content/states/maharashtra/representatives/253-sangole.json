@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-253-sangole",
+  "constituency": {
+    "number": 253,
+    "name": "Sangole",
+    "district": "Solapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Babasaheb Annasaheb Deshmukh",
+    "election": "2024",
+    "elected_party": "Peasants And Workers Party of India",
+    "current_party": "Peasants And Workers Party of India",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 37,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.B.S From M.U.H.S. Nashik Government Medical College, Aurangabad In Year 2011 & MD General Medicine From DY Patil Medical College University Kolhapur in Year 2017"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3253047,
+      "immovable": 12636625,
+      "total": 15889675,
+      "liabilities": 9000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=685",
+    "retrieved": "2026-08-27"
+  }
+}

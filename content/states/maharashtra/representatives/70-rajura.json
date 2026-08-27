@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-70-rajura",
+  "constituency": {
+    "number": 70,
+    "name": "Rajura",
+    "district": "Chandrapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deorao Vithoba Bhongle",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Labor Contractor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Politics, Sardar Patel College, Chandrapur , Nagpur Tilak Maharashtra University, Pune 2016"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41278480,
+      "immovable": 24122351,
+      "total": 65400831,
+      "liabilities": 2707926
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=661",
+    "retrieved": "2026-08-27"
+  }
+}

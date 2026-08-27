@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-27-jalgaon-jamod",
+  "constituency": {
+    "number": 27,
+    "name": "Jalgaon (Jamod)",
+    "district": "Buldhana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kute Sanjay Shriram",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Agriculture, Assembly Salary And Estate Broker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Ayurvedic Medicine and Surgery From Amrawati University Shri Gurukunj Ayurvedic College Mojhri Amrawati In The Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75061955,
+      "immovable": 111271266,
+      "total": 189225617,
+      "liabilities": 52824106
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=947",
+    "retrieved": "2026-08-27"
+  }
+}

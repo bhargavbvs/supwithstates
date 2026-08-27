@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-191-pen",
+  "constituency": {
+    "number": 191,
+    "name": "Pen",
+    "district": "Raigarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravisheth Patil",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 73,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "SY BA from JSM College Alibag in Year 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23406668,
+      "immovable": 100000000,
+      "total": 123406669,
+      "liabilities": 1493320
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=626",
+    "retrieved": "2026-08-27"
+  }
+}

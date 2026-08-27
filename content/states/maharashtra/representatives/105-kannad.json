@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-105-kannad",
+  "constituency": {
+    "number": 105,
+    "name": "Kannad",
+    "district": "Chhatrapati Sambhajinagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ranjanatai (Sanjana) Harshvardhan Jadhav",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Job & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Arts) from Dr. Babasaheb Ambedkar Marathwada University Aurangabad University , March - April Year 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20165813,
+      "immovable": 132885530,
+      "total": 153051344,
+      "liabilities": 26063763
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1023",
+    "retrieved": "2026-08-27"
+  }
+}

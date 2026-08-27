@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-224-parner",
+  "constituency": {
+    "number": 224,
+    "name": "Parner",
+    "district": "Ahmednagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kashinath Mahadu Date Sir",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Farming and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From New Arts Commerce and Science College, Ahmednagar, Pune University, in year 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23298178,
+      "immovable": 26874832,
+      "total": 50773010,
+      "liabilities": 16331966
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=615",
+    "retrieved": "2026-08-27"
+  }
+}

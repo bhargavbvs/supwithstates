@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-270-sawantwadi",
+  "constituency": {
+    "number": 270,
+    "name": "Sawantwadi",
+    "district": "Sindhudurg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deepak Vasantrao Kesarkar",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Social Service/ Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. Shree Pancham Khemraj Mahavidyalay, Sawantwadi Mumbai University, Year-1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 59838482,
+      "immovable": 1217938980,
+      "total": 1277777466,
+      "liabilities": 295298162
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=689",
+    "retrieved": "2026-08-27"
+  }
+}

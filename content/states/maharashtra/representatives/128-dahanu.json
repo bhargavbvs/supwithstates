@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-128-dahanu",
+  "constituency": {
+    "number": 128,
+    "name": "Dahanu",
+    "district": "Palghar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vinod Bhiva Nikole",
+    "election": "2024",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Shri. Babubhai Porda Juniour Collage Of Commerce Dist. Palghar Year 1992"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3540673,
+      "immovable": 4661129,
+      "total": 8201803,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=901",
+    "retrieved": "2026-08-27"
+  }
+}

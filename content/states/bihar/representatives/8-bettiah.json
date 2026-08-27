@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-8-bettiah",
+  "constituency": {
+    "number": 8,
+    "name": "Bettiah",
+    "district": "Pashchimi Champaran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Renu Devi",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 66,
+    "profession": "Social Worker, Political Activist & Legislative Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from M.D.D.M College, Muzaffarpur Bihar University Year 1977"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19254724,
+      "immovable": 34500501,
+      "total": 53755225,
+      "liabilities": 546594
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2716",
+    "retrieved": "2026-08-27"
+  }
+}

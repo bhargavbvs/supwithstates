@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-113-nandgaon",
+  "constituency": {
+    "number": 113,
+    "name": "Nandgaon",
+    "district": "Nashik",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suhas (Aanna) Dwarkanath Kande",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from H P T College, Tq Dist Nashik, Pune University in 1995"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 40841237,
+      "immovable": 219092329,
+      "total": 259933569,
+      "liabilities": 111517869
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1308",
+    "retrieved": "2026-08-27"
+  }
+}

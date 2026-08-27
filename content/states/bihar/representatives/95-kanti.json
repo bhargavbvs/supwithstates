@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-95-kanti",
+  "constituency": {
+    "number": 95,
+    "name": "Kanti",
+    "district": "Muzaffarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajit Kumar",
+    "election": "2025",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 61,
+    "profession": "Social Service, Farming and Civil Consultant",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc Engineering (Civil) From Bihar University Muzaffarpur Year 1991"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12864157,
+      "immovable": 41915000,
+      "total": 54779157,
+      "liabilities": 4972345
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1524",
+    "retrieved": "2026-08-27"
+  }
+}

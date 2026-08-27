@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-234-wazirganj",
+  "constituency": {
+    "number": 234,
+    "name": "Wazirganj",
+    "district": "Gaya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Birendra Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 70,
+    "profession": "Agriculture & Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B,A Graduate M.U. Bodhgaya Year 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9113716,
+      "immovable": 16700000,
+      "total": 25813716,
+      "liabilities": 1121286
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2250",
+    "retrieved": "2026-08-27"
+  }
+}

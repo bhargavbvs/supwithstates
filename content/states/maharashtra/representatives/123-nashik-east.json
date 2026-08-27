@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-123-nashik-east",
+  "constituency": {
+    "number": 123,
+    "name": "Nashik East",
+    "district": "Nashik",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.Rahul Uttamrao Dhikale",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 2014 from N.B.Thakur, Law College, Pune University, BSL in 2002 from Pune University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7984954,
+      "immovable": 58419201,
+      "total": 66484165,
+      "liabilities": 12129700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1315",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-286-khanapur",
+  "constituency": {
+    "number": 286,
+    "name": "Khanapur",
+    "district": "Sangli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babar Suhas Anilbhau",
+    "election": "2024",
+    "elected_party": "Shiv Sena",
+    "current_party": "Shiv Sena",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A. fro Indian School of Business Management & Administration in 2008, B.Sc. from Balwant College, Vita, Shivaji University Kolhapur in 2002, LLB from Bharati University Pune in 2023,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54335043,
+      "immovable": 65050000,
+      "total": 119385046,
+      "liabilities": 51009242
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1175",
+    "retrieved": "2026-08-27"
+  }
+}

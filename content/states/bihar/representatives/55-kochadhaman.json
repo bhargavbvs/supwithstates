@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-55-kochadhaman",
+  "constituency": {
+    "number": 55,
+    "name": "Kochadhaman",
+    "district": "Kishanganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md Sarwar Alam",
+    "election": "2025",
+    "elected_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "current_party": "All India Majlis-E-Ittehadul Muslimeen",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate Diploma in Management from Apeejay Institute of Technology School of Computer Science 2010"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7049874,
+      "immovable": 5752325,
+      "total": 12802199,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1846",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-283-islampur",
+  "constituency": {
+    "number": 283,
+    "name": "Islampur",
+    "district": "Sangli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayant Rajaram Patil",
+    "election": "2024",
+    "elected_party": "NCP-Sharadchandra Pawar",
+    "current_party": "NCP-Sharadchandra Pawar",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. Civil from Mumbai University, V.J.T.I. Mumbai in 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 106299425,
+      "immovable": 53386538,
+      "total": 180207721,
+      "liabilities": 8421486
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2721",
+    "retrieved": "2026-08-27"
+  }
+}

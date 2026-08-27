@@ -1,0 +1,41 @@
+{
+  "id": "br-ac-38-jhanjharpur",
+  "constituency": {
+    "number": 38,
+    "name": "Jhanjharpur",
+    "district": "Madhubani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nitish Mishra",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Service (On Special Leave)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from Fore School of Management, New Delhi, Maastricht School of Management, The Netherlands in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28416708,
+      "immovable": 31461204,
+      "total": 59877912,
+      "liabilities": 11923166
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2546",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mh-ac-66-amgaon",
+  "constituency": {
+    "number": 66,
+    "name": "Amgaon",
+    "district": "Gondia",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sanjay Puram",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Z.P. Junior College, Devari, Gondiya in 1995, Nagpur Board, Nagpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10414556,
+      "immovable": 4200000,
+      "total": 14614556,
+      "liabilities": 950000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=145",
+    "retrieved": "2026-08-27"
+  }
+}
