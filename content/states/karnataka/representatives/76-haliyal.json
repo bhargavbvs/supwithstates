@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-76-haliyal",
+  "constituency": {
+    "number": 76,
+    "name": "Haliyal",
+    "district": "Uttara Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deshpande Raghunath",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 76,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Shivaji University in 1970, B.A. (Hons) from Karnataka University in 1967"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2897181671,
+      "immovable": 741198515,
+      "total": 3632113405,
+      "liabilities": 145197662
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7284",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-57-thonoknyu",
+  "constituency": {
+    "number": 57,
+    "name": "Thonoknyu",
+    "district": "Noklak",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Benei M Lamthiu",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Discharged Govt. Employed & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Easter Hill University, Meghalaya In 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6188199,
+      "immovable": 15000000,
+      "total": 21188199,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6944",
+    "retrieved": "2026-08-27"
+  }
+}

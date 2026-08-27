@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-98-kishangarh",
+  "constituency": {
+    "number": 98,
+    "name": "Kishangarh",
+    "district": "Ajmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vikash Choudhary",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 36,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. from Bhagwant University Ajmer"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5092000,
+      "immovable": 5000000,
+      "total": 10092200,
+      "liabilities": 3750000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=257",
+    "retrieved": "2026-08-27"
+  }
+}

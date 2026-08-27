@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-27-rajouri-garden",
+  "constituency": {
+    "number": 27,
+    "name": "Rajouri Garden",
+    "district": "West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manjinder Singh Sirsa",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "2nd Year of B.A. Honours (Punjabi-Delhi University, 1992)"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 768600609,
+      "immovable": 1748000000,
+      "total": 2488552444,
+      "liabilities": 576803791
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=348",
+    "retrieved": "2026-08-27"
+  }
+}

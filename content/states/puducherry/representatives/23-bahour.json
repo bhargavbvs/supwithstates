@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-23-bahour",
+  "constituency": {
+    "number": 23,
+    "name": "Bahour",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R. Senthil Kumar",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Business Aswarya Automobiles , Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B. E., M.S., L.L.B Drexel University Philadelpehia USA"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 119414806,
+      "immovable": 158193195,
+      "total": 277608000,
+      "liabilities": 51332067
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

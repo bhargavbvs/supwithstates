@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-161-biaora",
+  "constituency": {
+    "number": 161,
+    "name": "Biaora",
+    "district": "Rajgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narayan Singh Panwar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com 2nd Year from Govt. College Narsinghgarh in 1974 Vikram University Ujjain"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6953182,
+      "immovable": 25800000,
+      "total": 32753182,
+      "liabilities": 3605577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=258",
+    "retrieved": "2026-08-27"
+  }
+}

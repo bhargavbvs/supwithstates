@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-188-sangod",
+  "constituency": {
+    "number": 188,
+    "name": "Sangod",
+    "district": "Kota",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Heeralal Nagar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Politics, Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate in 1982 from Ramlal Anand College, South Delhi, Delhi University Delhi"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 43333937,
+      "immovable": 56163300,
+      "total": 99462611,
+      "liabilities": 9799365
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=383",
+    "retrieved": "2026-08-27"
+  }
+}

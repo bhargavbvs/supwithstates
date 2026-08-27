@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-1-nerela",
+  "constituency": {
+    "number": 1,
+    "name": "Nerela",
+    "district": "North",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raj Karan Khatri",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 59,
+    "profession": "Employed ( Rental Income)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From CBSE Delhi 1985 M.L.Govt Sr Sec School Narela Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27411275,
+      "immovable": 77000000,
+      "total": 104411275,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=102",
+    "retrieved": "2026-08-27"
+  }
+}

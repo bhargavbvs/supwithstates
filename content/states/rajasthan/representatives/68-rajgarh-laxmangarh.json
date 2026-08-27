@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-68-rajgarh-laxmangarh",
+  "constituency": {
+    "number": 68,
+    "name": "Rajgarh-Laxmangarh",
+    "district": "Alwar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mangelal Meena",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Retd.,Pension, Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE Civil Engineering, MBM Engineering College Jodhpur, Rajasthan"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16112250,
+      "immovable": 18000000,
+      "total": 33940000,
+      "liabilities": 3130886
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=112",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-109-gudalur",
+  "constituency": {
+    "number": 109,
+    "name": "Gudalur",
+    "district": "The Nilgiris",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dhravidamani.M",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA,BL, - B.A. Chikanna Government College (1981-1983) , M.A. - Government College, Salem (1985-1987) , B.L. - Government Law College, Coimbatore (1987-1990)"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14347248,
+      "immovable": 11000000,
+      "total": 25347248,
+      "liabilities": 4795348
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=746",
+    "retrieved": "2026-08-27"
+  }
+}

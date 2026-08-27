@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-10-kamraj-nagar",
+  "constituency": {
+    "number": 10,
+    "name": "Kamraj Nagar",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jose Charles Martin",
+    "election": "2026",
+    "elected_party": "Latchiya Jananayaka Katchi (LJK)",
+    "current_party": "Latchiya Jananayaka Katchi (LJK)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Business, Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Standard St John Eng School, Besant Nagar, Chennai, Tamilnadu Year of Complction: 2006"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3393493477,
+      "immovable": 2697432100,
+      "total": 6090925584,
+      "liabilities": 2107935099
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=358",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-86-hirekerur",
+  "constituency": {
+    "number": 86,
+    "name": "Hirekerur",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ujaneshwar Basavannappa Banakar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Lawyer and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB University Law College Dharwad in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37172236,
+      "immovable": 18386800,
+      "total": 57439041,
+      "liabilities": 891826
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7997",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-70-khatima",
+  "constituency": {
+    "number": 70,
+    "name": "Khatima",
+    "district": "Udham Singh Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhuwan Chandra Kapri",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Advisor and Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Chanakya Law College Rudrapur, Kumaon University, Nainital in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1527481,
+      "immovable": 3400000,
+      "total": 4927481,
+      "liabilities": 1282994
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=204",
+    "retrieved": "2026-08-27"
+  }
+}

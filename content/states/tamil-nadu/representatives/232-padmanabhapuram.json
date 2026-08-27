@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-232-padmanabhapuram",
+  "constituency": {
+    "number": 232,
+    "name": "Padmanabhapuram",
+    "district": "Kanniyakumari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chellaswamy. R",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor Degree in 1980 From Marthandam Christian College, Marthandam, Madurai Kamaraj University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3800363,
+      "immovable": 2500000,
+      "total": 7799363,
+      "liabilities": 1301200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=934",
+    "retrieved": "2026-08-27"
+  }
+}

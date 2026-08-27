@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-18-palin",
+  "constituency": {
+    "number": 18,
+    "name": "Palin",
+    "district": "Kra Daadi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Balo Raja",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Jawaharlal Nehru College, Pasighat In 1990 Under Arunachal University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 113990416,
+      "immovable": 99500000,
+      "total": 213490416,
+      "liabilities": 6036402
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=64",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-204-mangalore",
+  "constituency": {
+    "number": 204,
+    "name": "Mangalore",
+    "district": "Dakshina Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "U.T. Khader Fareed",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B, Degree. (Mangalore University) S.D.M Law College, Mangalore in Year 2003"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27487362,
+      "immovable": 42200383,
+      "total": 69767074,
+      "liabilities": 6980832
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7545",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-189-madurai-east",
+  "constituency": {
+    "number": 189,
+    "name": "Madurai East",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karthikeyan S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Real Estate Industry",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LLB From North East Forntier Technical University, Arunachalapradesh In 2021"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 43106093,
+      "immovable": 30000000,
+      "total": 73106112,
+      "liabilities": 33497981
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=948",
+    "retrieved": "2026-08-27"
+  }
+}

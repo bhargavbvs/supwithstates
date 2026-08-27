@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-33-mandi",
+  "constituency": {
+    "number": 33,
+    "name": "Mandi",
+    "district": "Mandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Business, Orchardist, Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Pre-Engineering from Govt. College Chandigarh (Punjab University) and I.D.D. (D.H.) from Allahabad Agriculture University in 1975-76"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24341200,
+      "immovable": 550500000,
+      "total": 574841205,
+      "liabilities": 9497928
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=179",
+    "retrieved": "2026-08-27"
+  }
+}

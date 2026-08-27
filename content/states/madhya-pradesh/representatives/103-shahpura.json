@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-103-shahpura",
+  "constituency": {
+    "number": 103,
+    "name": "Shahpura",
+    "district": "Dindori",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Omprakash Dhurwey",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture, Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc. from Durgawati University Jabalpur in 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8358909,
+      "immovable": 15702000,
+      "total": 24060909,
+      "liabilities": 15683817
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=632",
+    "retrieved": "2026-08-27"
+  }
+}

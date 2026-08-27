@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-14-gwalior-rural",
+  "constituency": {
+    "number": 14,
+    "name": "Gwalior Rural",
+    "district": "Gwalior",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sahab Singh Gurjar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Jiwaji University Gwalior Mp in year 1999"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 6405700,
+      "immovable": 264827100,
+      "total": 271232800,
+      "liabilities": 1520326
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=704",
+    "retrieved": "2026-08-27"
+  }
+}

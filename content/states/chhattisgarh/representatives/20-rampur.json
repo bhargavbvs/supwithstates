@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-20-rampur",
+  "constituency": {
+    "number": 20,
+    "name": "Rampur",
+    "district": "Korba",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Phoolsingh Rathiya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th from Govt. Higher Secondary School Sendrapali, Board of Secondary Education 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2800000,
+      "immovable": 4500000,
+      "total": 7300000,
+      "liabilities": 1141211
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=361",
+    "retrieved": "2026-08-27"
+  }
+}

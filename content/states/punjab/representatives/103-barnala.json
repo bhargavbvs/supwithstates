@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-103-barnala",
+  "constituency": {
+    "number": 103,
+    "name": "Barnala",
+    "district": "Barnala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kuldeep Singh Dhillon Kala Dhillon",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Transport Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from Punjab School Education Board in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 93167074,
+      "immovable": 10000000,
+      "total": 103167074,
+      "liabilities": 1789000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1334",
+    "retrieved": "2026-08-27"
+  }
+}

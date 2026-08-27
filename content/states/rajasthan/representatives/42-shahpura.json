@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-42-shahpura",
+  "constituency": {
+    "number": 42,
+    "name": "Shahpura",
+    "district": "Jaipur(Gramin)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manish Yadav",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Rajasthan University Jaipur in 2012"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 334550,
+      "immovable": 0,
+      "total": 334550,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=513",
+    "retrieved": "2026-08-27"
+  }
+}

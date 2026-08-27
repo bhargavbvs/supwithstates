@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-38-pamgarh",
+  "constituency": {
+    "number": 38,
+    "name": "Pamgarh",
+    "district": "Janjgir - Champa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sheshraj Harvansh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture, Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Surguja University Year 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6185243,
+      "immovable": 36792000,
+      "total": 42977248,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=298",
+    "retrieved": "2026-08-27"
+  }
+}

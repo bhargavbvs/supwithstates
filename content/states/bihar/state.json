@@ -1,0 +1,25 @@
+{
+  "slug": "bihar",
+  "name": "Bihar",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 243,
+  "district_count": 38,
+  "term": {
+    "start": "2025"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Bihar2025/",
+    "adr_serious_list": "https://www.myneta.info/Bihar2025/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      85.8,
+      25.9
+    ],
+    "zoom": 6
+  }
+}

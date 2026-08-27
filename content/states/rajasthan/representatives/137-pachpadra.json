@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-137-pachpadra",
+  "constituency": {
+    "number": 137,
+    "name": "Pachpadra",
+    "district": "Balotra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arun Choudhary",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., LLB from Rajasthan University, Jaipur in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9339356,
+      "immovable": 11900000,
+      "total": 21239356,
+      "liabilities": 12296
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=444",
+    "retrieved": "2026-08-27"
+  }
+}

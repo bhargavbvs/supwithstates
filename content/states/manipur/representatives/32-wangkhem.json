@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-32-wangkhem",
+  "constituency": {
+    "number": 32,
+    "name": "Wangkhem",
+    "district": "Kangpokpi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Keisham Meghachandra Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Politician Cum Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Political Science) in 2016 from IGNOU"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13155956,
+      "immovable": 61972277,
+      "total": 75128238,
+      "liabilities": 5610655
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=199",
+    "retrieved": "2026-08-27"
+  }
+}

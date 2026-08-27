@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-73-mangawan",
+  "constituency": {
+    "number": 73,
+    "name": "Mangawan",
+    "district": "Rewa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Engineer Narendra Prajapati",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Inherited Agriculture income",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. in 2000 from awdhesh pratap singh university enginerring college"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4434110,
+      "immovable": 900000,
+      "total": 5334110,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=748",
+    "retrieved": "2026-08-27"
+  }
+}

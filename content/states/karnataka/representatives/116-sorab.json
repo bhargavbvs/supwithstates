@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-116-sorab",
+  "constituency": {
+    "number": 116,
+    "name": "Sorab",
+    "district": "Shivamogga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhu Bangarappa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA- Bangalore University Karnataka state passed in 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 278096427,
+      "immovable": 417025000,
+      "total": 695121427,
+      "liabilities": 264628494
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7349",
+    "retrieved": "2026-08-27"
+  }
+}

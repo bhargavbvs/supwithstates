@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-3-bicholim",
+  "constituency": {
+    "number": 3,
+    "name": "Bicholim",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Chandrakant Shetye",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M. S. Ophthalmology, 1999 Goa Medical College Bambolim Goa & Goa University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 249412109,
+      "immovable": 359111783,
+      "total": 596301413,
+      "liabilities": 34355590
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=227",
+    "retrieved": "2026-08-27"
+  }
+}

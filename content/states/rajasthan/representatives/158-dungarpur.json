@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-158-dungarpur",
+  "constituency": {
+    "number": 158,
+    "name": "Dungarpur",
+    "district": "Dungarpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ganesh Ghogra",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Agriculture, Tenure and Salaries and Allowances",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.A., M.A., M.Phil, LLB"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1520508,
+      "immovable": 5000000,
+      "total": 8115000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=68",
+    "retrieved": "2026-08-27"
+  }
+}

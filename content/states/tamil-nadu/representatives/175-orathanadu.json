@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-175-orathanadu",
+  "constituency": {
+    "number": 175,
+    "name": "Orathanadu",
+    "district": "Thanjavur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R. Vaithilingam",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 71,
+    "profession": "Agriculture, Salary as a Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Bachelor of Psychology (Incomplete) from Presidency College Chennai, University of Chennai-1980. PUC-Completed From Raja Saraboji, ThanjavurChennai university-1975"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8010588,
+      "immovable": 21382983,
+      "total": 29393571,
+      "liabilities": 6987720
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1133",
+    "retrieved": "2026-08-27"
+  }
+}

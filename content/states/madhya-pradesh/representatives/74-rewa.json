@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-74-rewa",
+  "constituency": {
+    "number": 74,
+    "name": "Rewa",
+    "district": "Rewa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Shukla",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture and Paternal property and income",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. in 1986 form Awdhesh pratap singh university rewa"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 175256064,
+      "immovable": 133604840,
+      "total": 308860904,
+      "liabilities": 14972475
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=84",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-20-meluri",
+  "constituency": {
+    "number": 20,
+    "name": "Meluri",
+    "district": "Phek",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Z.Nyusietho Nyuthe",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Retired Government Servant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Sociology from NEHU in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2504458,
+      "immovable": 10650000,
+      "total": 13154458,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6864",
+    "retrieved": "2026-08-27"
+  }
+}

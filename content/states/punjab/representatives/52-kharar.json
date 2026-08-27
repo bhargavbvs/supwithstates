@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-52-kharar",
+  "constituency": {
+    "number": 52,
+    "name": "Kharar",
+    "district": "Sas Nagar (Sahibzada Ajit Singh Nagar)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anmol Gagan Maan",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 31,
+    "profession": "Artist Singer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From Punjab School Education Board in March 2007."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5748733,
+      "immovable": 6600000,
+      "total": 12348733,
+      "liabilities": 3909118
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=239",
+    "retrieved": "2026-08-27"
+  }
+}

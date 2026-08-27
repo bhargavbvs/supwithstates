@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-3-mukto",
+  "constituency": {
+    "number": 3,
+    "name": "Mukto",
+    "district": "Tawang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pema Khandu",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Politician & Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (History Honours) from Hindu College, Delhi University in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1641574321,
+      "immovable": 1751078832,
+      "total": 3325653153,
+      "liabilities": 1802763717
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=3",
+    "retrieved": "2026-08-27"
+  }
+}

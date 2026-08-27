@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-26-karsog",
+  "constituency": {
+    "number": 26,
+    "name": "Karsog",
+    "district": "Mandi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Deep Raj",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. Tech from Lovely Professional University Jalandhar in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5949685,
+      "immovable": 12000000,
+      "total": 17949685,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=54",
+    "retrieved": "2026-08-27"
+  }
+}

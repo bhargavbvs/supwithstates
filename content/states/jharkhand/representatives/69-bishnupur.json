@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-69-bishnupur",
+  "constituency": {
+    "number": 69,
+    "name": "Bishnupur",
+    "district": "Gumla",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chamra Linda",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "MLA Jharkhand assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Silly College Silly, Ranchi in 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12721995,
+      "immovable": 15349700,
+      "total": 28070895,
+      "liabilities": 3573368
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=311",
+    "retrieved": "2026-08-27"
+  }
+}

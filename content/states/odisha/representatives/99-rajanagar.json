@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-99-rajanagar",
+  "constituency": {
+    "number": 99,
+    "name": "Rajanagar",
+    "district": "Kendrapara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhruba Charan Sahoo",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Advocate and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate LLM from MS Law College Cuttack Utkal University 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14396526,
+      "immovable": 14363600,
+      "total": 28550127,
+      "liabilities": 7168872
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1165",
+    "retrieved": "2026-08-27"
+  }
+}

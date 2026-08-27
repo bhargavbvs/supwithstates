@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-23-mayang-imphal",
+  "constituency": {
+    "number": 23,
+    "name": "Mayang Imphal",
+    "district": "Imphal West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kongkham Robindro Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "MLA & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate in Business Administration from Anglia Ruskin University, UK in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9597164,
+      "immovable": 12782000,
+      "total": 22379165,
+      "liabilities": 5035412
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-27"
+  }
+}

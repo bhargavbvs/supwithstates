@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-86-muktsar",
+  "constituency": {
+    "number": 86,
+    "name": "Muktsar",
+    "district": "Sri Muktsar Sahib",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagdeep Singh (Kaka Brar)",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Under Matric"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7742008,
+      "immovable": 123288450,
+      "total": 131030458,
+      "liabilities": 8240950
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1126",
+    "retrieved": "2026-08-27"
+  }
+}

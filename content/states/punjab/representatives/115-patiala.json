@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-115-patiala",
+  "constituency": {
+    "number": 115,
+    "name": "Patiala",
+    "district": "Patiala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajit Pal Singh Kohli",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A in Politics From Punjab University Patiala in 2006"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 82330721,
+      "immovable": 241500000,
+      "total": 323830721,
+      "liabilities": 5535565
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=693",
+    "retrieved": "2026-08-27"
+  }
+}

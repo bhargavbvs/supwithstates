@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-164-kilvelur",
+  "constituency": {
+    "number": 164,
+    "name": "Kilvelur",
+    "district": "Nagapattinam",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Latha. T",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Employment, Allowance",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Class Government High School, Kilukuddy , 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1356247,
+      "immovable": 4453250,
+      "total": 5809497,
+      "liabilities": 3305000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=733",
+    "retrieved": "2026-08-27"
+  }
+}

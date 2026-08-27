@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-39-rajinder-nagar",
+  "constituency": {
+    "number": 39,
+    "name": "Rajinder Nagar",
+    "district": "New Delhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umang Bajaj",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 31,
+    "profession": "MCD Councilor and Part Time Management Consultant with Nurture Clinics Pvt. Ltd.",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Engineering from The University of Lancaster, UK in Mechanical Engineering in July 2016 & International Managment from University of Southampton, UK in2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 74769142,
+      "immovable": 33000000,
+      "total": 107563096,
+      "liabilities": 36610639
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=653",
+    "retrieved": "2026-08-27"
+  }
+}

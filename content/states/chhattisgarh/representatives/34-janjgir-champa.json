@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-34-janjgir-champa",
+  "constituency": {
+    "number": 34,
+    "name": "Janjgir-Champa",
+    "district": "Janjgir - Champa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Byas Kashyap S/O Shaniram Kashyap",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Social Worker, Agriculture and Hotel Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Guru Ghasi Das University Bilaspur in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2754923,
+      "immovable": 19230000,
+      "total": 21984923,
+      "liabilities": 3511678
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=762",
+    "retrieved": "2026-08-27"
+  }
+}

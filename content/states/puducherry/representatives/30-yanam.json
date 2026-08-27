@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-30-yanam",
+  "constituency": {
+    "number": 30,
+    "name": "Yanam",
+    "district": "Yanam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Malladi Krishna Rao",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Pensioner as MLA and Aqua Culture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th standard: Passed in Mahatma Gandhi Govt. Boys High School, Yanam(1980)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45691593,
+      "immovable": 36088800,
+      "total": 81780393,
+      "liabilities": 13779730
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=111",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-60-meham",
+  "constituency": {
+    "number": 60,
+    "name": "Meham",
+    "district": "Rohtak",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balram Dangi",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From DAV College, Punjab University, Year-1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46255237,
+      "immovable": 295000000,
+      "total": 341255237,
+      "liabilities": 1287000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=224",
+    "retrieved": "2026-08-27"
+  }
+}

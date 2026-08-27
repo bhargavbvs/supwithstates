@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-2-vijaypur",
+  "constituency": {
+    "number": 2,
+    "name": "Vijaypur",
+    "district": "Sheopur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukesh Malhotra",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Earning a Living by Farming and Sarpanch of Gram Panchayat Silpuri",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Sociology from Jivaji University, Gwalior M.P. in 2013"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4697434,
+      "immovable": 3650000,
+      "total": 8347434,
+      "liabilities": 3100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2959",
+    "retrieved": "2026-08-27"
+  }
+}

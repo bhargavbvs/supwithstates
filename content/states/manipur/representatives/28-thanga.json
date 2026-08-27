@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-28-thanga",
+  "constituency": {
+    "number": 28,
+    "name": "Thanga",
+    "district": "Bishnupur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tongbram Robindro Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Class 12th (Science) Passed in 1989 under CBSE Board from Delhi Public School Mathura Road New Delhi"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3400614,
+      "immovable": 405000,
+      "total": 3805616,
+      "liabilities": 482830
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=4",
+    "retrieved": "2026-08-27"
+  }
+}

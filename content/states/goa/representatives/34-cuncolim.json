@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-34-cuncolim",
+  "constituency": {
+    "number": 34,
+    "name": "Cuncolim",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Alemao Yuri",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Commercial Pilot Licence ,Basair Aviation College, New South Weles, Sydney Australia in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 256838774,
+      "immovable": 44833814,
+      "total": 301672604,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=243",
+    "retrieved": "2026-08-27"
+  }
+}

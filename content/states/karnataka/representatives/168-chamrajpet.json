@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-168-chamrajpet",
+  "constituency": {
+    "number": 168,
+    "name": "Chamrajpet",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B.Z.Zameer Ahmed Khan",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Business & Politics",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "SSLC Discontinued at Siddhartha High School Kunigal, Tumkur Dist In 1982-83"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 69058460,
+      "immovable": 658200000,
+      "total": 727258460,
+      "liabilities": 423926175
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7812",
+    "retrieved": "2026-08-27"
+  }
+}

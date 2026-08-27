@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-75-gurh",
+  "constituency": {
+    "number": 75,
+    "name": "Gurh",
+    "district": "Rewa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nagendra Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 80,
+    "profession": "Pension, Agriculture, Agricultural Income of Hindu Undivided Family-701470/-",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from T.R.S. College Rewa, Sagar University in 1967, B.A. from T.R.S. College Rewa in 1964 Sagar University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20332315,
+      "immovable": 22502500,
+      "total": 42834815,
+      "liabilities": 982215
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=698",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-227-nanguneri",
+  "constituency": {
+    "number": 227,
+    "name": "Nanguneri",
+    "district": "Tirunelveli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Reddiarpatti V. Narayanan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Real Estate",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC (10th Standard), K.R Government High Secondary School Reddiyarpatti -627007, Mach, 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14721900,
+      "immovable": 122750000,
+      "total": 137471900,
+      "liabilities": 27338000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1064",
+    "retrieved": "2026-08-27"
+  }
+}

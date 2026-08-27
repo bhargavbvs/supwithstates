@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-215-ghatiya",
+  "constituency": {
+    "number": 215,
+    "name": "Ghatiya",
+    "district": "Ujjain",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Satish Malviya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. , Year 2010 Madhya Pradesh Bhoj University Bhopal"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14198052,
+      "immovable": 18800000,
+      "total": 32998052,
+      "liabilities": 1170574
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=693",
+    "retrieved": "2026-08-27"
+  }
+}

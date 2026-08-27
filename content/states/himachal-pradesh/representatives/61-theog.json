@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-61-theog",
+  "constituency": {
+    "number": 61,
+    "name": "Theog",
+    "district": "Shimla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kuldeep Singh Rathore",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Advocate in HP High Court at Shimla",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA, LLB from Himachal Pradesh University Shimla in 1982"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9735477,
+      "immovable": 32345546,
+      "total": 42131523,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=69",
+    "retrieved": "2026-08-27"
+  }
+}

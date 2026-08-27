@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-44-anaikattu",
+  "constituency": {
+    "number": 44,
+    "name": "Anaikattu",
+    "district": "Vellore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "D.Velazhagan",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Partner(50%) in AVS Blue Metal & Srinivasa Blue Metals",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th STD-Pass, (11th STD-Discontinued) 1984-1985, G.H.S.School, Odugathur"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40079344,
+      "immovable": 42927787,
+      "total": 83007633,
+      "liabilities": 3748845
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=842",
+    "retrieved": "2026-08-27"
+  }
+}

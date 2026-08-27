@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-52-almora",
+  "constituency": {
+    "number": 52,
+    "name": "Almora",
+    "district": "Almora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Tewari",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Law from Kumaun University Nainital in 1997, B.A. from Kumanu University in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6094565,
+      "immovable": 14830000,
+      "total": 20924568,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=100",
+    "retrieved": "2026-08-27"
+  }
+}

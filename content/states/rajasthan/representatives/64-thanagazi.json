@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-64-thanagazi",
+  "constituency": {
+    "number": 64,
+    "name": "Thanagazi",
+    "district": "Alwar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kanti Prasad",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Cultivator, Salary and Allowances of Assembly Member",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary Pass from Rajasthan State Open School Rajasthan in 2018"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2202071,
+      "immovable": 9000000,
+      "total": 11201995,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=48",
+    "retrieved": "2026-08-27"
+  }
+}

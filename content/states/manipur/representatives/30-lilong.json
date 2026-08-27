@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-30-lilong",
+  "constituency": {
+    "number": 30,
+    "name": "Lilong",
+    "district": "Thoubal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohd Abdul Nasir",
+    "election": "2022",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Linguistics from Manipur University in the year 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10620760,
+      "immovable": 8145230,
+      "total": 18765995,
+      "liabilities": 4732651
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=203",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-20-chujachen",
+  "constituency": {
+    "number": 20,
+    "name": "Chujachen",
+    "district": "Pakyong",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Puran Kr. Gurung",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Politician (EX-MLA) & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Govt. Sr. Sec. School Chujachen East Sikkim (AISSCCE) in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2372671,
+      "immovable": 15377282,
+      "total": 17749953,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=26",
+    "retrieved": "2026-08-27"
+  }
+}

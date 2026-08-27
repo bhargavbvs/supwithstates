@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-162-rajgarh",
+  "constituency": {
+    "number": 162,
+    "name": "Rajgarh",
+    "district": "Rajgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amar Singh Yadav",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Machinery, Business, Chhatrapati Krishi Seva Kendra",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary In 1998 from Madhyamik Shiksha Mandal Bhopal MP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15163077,
+      "immovable": 39112594,
+      "total": 54275671,
+      "liabilities": 7814097
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1233",
+    "retrieved": "2026-08-27"
+  }
+}

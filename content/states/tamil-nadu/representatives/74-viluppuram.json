@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-74-viluppuram",
+  "constituency": {
+    "number": 74,
+    "name": "Viluppuram",
+    "district": "Viluppuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lakshmanan R",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Doctor Ex MP (2014-2020), MLA (2021-2026)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "D.Ortho Annamalai University 2004, M.B.B.S Annamalai University 1998, Higher Secondary Sacred Heart Anglo Indian Higher Secondary School Villupuram 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41093894,
+      "immovable": 198515000,
+      "total": 239608894,
+      "liabilities": 42336909
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=744",
+    "retrieved": "2026-08-27"
+  }
+}

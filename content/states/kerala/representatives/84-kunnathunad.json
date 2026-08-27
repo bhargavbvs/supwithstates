@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-84-kunnathunad",
+  "constituency": {
+    "number": 84,
+    "name": "Kunnathunad",
+    "district": "Ernakulam",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "V. P. Sajeendran",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Proprietor of Indian LPG Gas agency Service , Ayarkunnam",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB Degree ( Bachelor of law ) Government Law college Thiruvananthapuram , Kerala University 1987-92"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 7,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8575680,
+      "immovable": 12171288,
+      "total": 20746968,
+      "liabilities": 3769514
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=703",
+    "retrieved": "2026-08-27"
+  }
+}

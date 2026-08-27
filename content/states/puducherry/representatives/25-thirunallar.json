@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-25-thirunallar",
+  "constituency": {
+    "number": 25,
+    "name": "Thirunallar",
+    "district": "Karaikal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G.N.S. Rajasekaran",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Business/Tire Company Business, Petrol Station, Liquor Store, Liquor Factory",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 606578507,
+      "immovable": 76800000,
+      "total": 683378507,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=113",
+    "retrieved": "2026-08-27"
+  }
+}

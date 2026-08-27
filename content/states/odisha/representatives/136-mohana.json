@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-136-mohana",
+  "constituency": {
+    "number": 136,
+    "name": "Mohana",
+    "district": "Gajapati",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dasarathi Gomanga",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Cultivation and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Class X from Government High School Chheligada"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 20969132,
+      "immovable": 13230000,
+      "total": 28050200,
+      "liabilities": 15650000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=3",
+    "retrieved": "2026-08-27"
+  }
+}

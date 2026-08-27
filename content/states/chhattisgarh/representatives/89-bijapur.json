@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-89-bijapur",
+  "constituency": {
+    "number": 89,
+    "name": "Bijapur",
+    "district": "Bijapur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vikram Mandavi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed from Secondary School Shiksha Bhopal 1995-96"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7123589,
+      "immovable": 127541,
+      "total": 7312794,
+      "liabilities": 2226830
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=17",
+    "retrieved": "2026-08-27"
+  }
+}

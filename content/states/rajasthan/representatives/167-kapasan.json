@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-167-kapasan",
+  "constituency": {
+    "number": 167,
+    "name": "Kapasan",
+    "district": "Chittaurgarh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Arjun Lal Jingar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Agriculture, Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M..A University of Rajasthan, Jaipur 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12692604,
+      "immovable": 15613662,
+      "total": 28305766,
+      "liabilities": 2793786
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=235",
+    "retrieved": "2026-08-27"
+  }
+}

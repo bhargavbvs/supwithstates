@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-59-dharmapuri",
+  "constituency": {
+    "number": 59,
+    "name": "Dharmapuri",
+    "district": "Dharmapuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sowmiya Anbumani",
+    "election": "2026",
+    "elected_party": "Pattali Makkal Katchi",
+    "current_party": "Pattali Makkal Katchi",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "BA, MA, Ph.D, Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. Madurai Kamarajar University 2019, M.A. Universities of Madras 1990-1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 196106680,
+      "immovable": 488586486,
+      "total": 684693165,
+      "liabilities": 89900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1157",
+    "retrieved": "2026-08-27"
+  }
+}

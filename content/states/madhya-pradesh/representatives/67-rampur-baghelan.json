@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-67-rampur-baghelan",
+  "constituency": {
+    "number": 67,
+    "name": "Rampur-Baghelan",
+    "district": "Satna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vikram Singh (Vicky)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Agriculture, Business & Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Khalsa College, Delhi University, Year-2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 54435797,
+      "immovable": 56374856,
+      "total": 110810653,
+      "liabilities": 8330000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=394",
+    "retrieved": "2026-08-27"
+  }
+}

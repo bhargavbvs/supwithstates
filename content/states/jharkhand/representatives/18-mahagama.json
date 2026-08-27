@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-18-mahagama",
+  "constituency": {
+    "number": 18,
+    "name": "Mahagama",
+    "district": "Godda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deepika Pandey Singh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB Co Op.College Jamshedpur 2008-11, PG Diploma In Information managemnet Xavier Institute Of social Service Ranchi 1998-2000B.Sc. Biology"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 29464030,
+      "immovable": 31300000,
+      "total": 60764032,
+      "liabilities": 10820357
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=864",
+    "retrieved": "2026-08-27"
+  }
+}

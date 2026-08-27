@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-44-r-k-puram",
+  "constituency": {
+    "number": 44,
+    "name": "R.K. Puram",
+    "district": "New Delhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Kumar Sharma",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A.Hons.Political Science, 1992 From the Ram Lal Anand College Delhi University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15450145,
+      "immovable": 56000000,
+      "total": 71300145,
+      "liabilities": 70835
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=342",
+    "retrieved": "2026-08-27"
+  }
+}

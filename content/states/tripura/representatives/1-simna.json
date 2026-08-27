@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-1-simna",
+  "constituency": {
+    "number": 1,
+    "name": "Simna",
+    "district": "West Tripura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Brishaketu Debbarma",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Advocate and Ex. MLA.",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA(LAW), LLB(Hons) (Tripura Govt. Law College)Tripura University 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4016997,
+      "immovable": 10750000,
+      "total": 14767097,
+      "liabilities": 2495364
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6957",
+    "retrieved": "2026-08-27"
+  }
+}

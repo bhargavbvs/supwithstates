@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-30-mairang",
+  "constituency": {
+    "number": 30,
+    "name": "Mairang",
+    "district": "Eastern West Khasi Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Metbah Lyngdoh",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Sitting MLA from 30 Mairang Assembly Constituency, Businessman, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Pre-University (First Year Science) from Shankardev College, Shillong-793013 under North Eastern Hill University, Shillong in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 878794455,
+      "immovable": 588224375,
+      "total": 1463151838,
+      "liabilities": 445423816
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6940",
+    "retrieved": "2026-08-27"
+  }
+}

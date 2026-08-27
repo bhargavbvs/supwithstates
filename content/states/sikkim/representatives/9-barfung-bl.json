@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-9-barfung-bl",
+  "constituency": {
+    "number": 9,
+    "name": "Barfung(Bl)",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rikshal Dorjee Bhutia",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Form University of North Bengal Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4054790,
+      "immovable": 49092727,
+      "total": 55635488,
+      "liabilities": 895252
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=19",
+    "retrieved": "2026-08-27"
+  }
+}

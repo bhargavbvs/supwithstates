@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-120-bali",
+  "constituency": {
+    "number": 120,
+    "name": "Bali",
+    "district": "Pali",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pushpendra Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Year 1993, Maharaja Sayajirao University, Vadodara (Gujrat)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21730436,
+      "immovable": 32564000,
+      "total": 53594435,
+      "liabilities": 599168
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=141",
+    "retrieved": "2026-08-27"
+  }
+}

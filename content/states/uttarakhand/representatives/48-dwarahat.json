@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-48-dwarahat",
+  "constituency": {
+    "number": 48,
+    "name": "Dwarahat",
+    "district": "Almora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madan Singh Bisht",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Delhi University in 1991-92, B.Com from Delhi University in 1983-84"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6373000,
+      "immovable": 3800000,
+      "total": 10223000,
+      "liabilities": 150000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=35",
+    "retrieved": "2026-08-27"
+  }
+}

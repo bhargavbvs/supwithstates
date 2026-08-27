@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-193-madurai-central",
+  "constituency": {
+    "number": 193,
+    "name": "Madurai Central",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhar Badhurudeen S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Meat Shop",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10 Standard, Muslim Higher Secondary School, Thiruvallikeni, 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3796234,
+      "immovable": 22000000,
+      "total": 25930000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=827",
+    "retrieved": "2026-08-27"
+  }
+}

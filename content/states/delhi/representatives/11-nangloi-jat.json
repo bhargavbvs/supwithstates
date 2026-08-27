@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-11-nangloi-jat",
+  "constituency": {
+    "number": 11,
+    "name": "Nangloi Jat",
+    "district": "West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Kumar Shokeen",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Business, Public Life, Political Activity",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed from National Institute of Open School in 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23583301,
+      "immovable": 107700000,
+      "total": 131283303,
+      "liabilities": 12751774
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=155",
+    "retrieved": "2026-08-27"
+  }
+}

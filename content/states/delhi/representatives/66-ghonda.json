@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-66-ghonda",
+  "constituency": {
+    "number": 66,
+    "name": "Ghonda",
+    "district": "North East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Mahawar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Business and Present MLA NCT of Delhi",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters Degree Arts (Political Science From Janardan Rai Nagar Rajasthan Vidyapeeth University Udaipur (Rajasthan) India Year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29106879,
+      "immovable": 48000000,
+      "total": 77106885,
+      "liabilities": 13882394
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=132",
+    "retrieved": "2026-08-27"
+  }
+}

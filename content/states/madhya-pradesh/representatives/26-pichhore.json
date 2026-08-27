@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-26-pichhore",
+  "constituency": {
+    "number": 26,
+    "name": "Pichhore",
+    "district": "Shivpuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Preetam Lodhi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Agriculture & labour",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th passed Govt H.S.S. Gwalier 1974"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2271100,
+      "immovable": 7120000,
+      "total": 9391100,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=372",
+    "retrieved": "2026-08-27"
+  }
+}

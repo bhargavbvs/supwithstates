@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-205-sivakasi",
+  "constituency": {
+    "number": 205,
+    "name": "Sivakasi",
+    "district": "Virudhunagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Keerthana S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 30,
+    "profession": "Consultant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc Statistics from Pondicherry Central University in 2019, B.Sc Mathematics from Madurai University in 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 596678,
+      "immovable": 0,
+      "total": 2257710,
+      "liabilities": 1275777
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1093",
+    "retrieved": "2026-08-27"
+  }
+}

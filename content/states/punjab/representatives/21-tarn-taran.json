@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-21-tarn-taran",
+  "constituency": {
+    "number": 21,
+    "name": "Tarn Taran",
+    "district": "Tarn Taran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harmeet Singh Sandhu",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts,from Gurunanak Dev University, Amritsar in The Year 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 61907484,
+      "immovable": 52000000,
+      "total": 113907484,
+      "liabilities": 27834051
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1391",
+    "retrieved": "2026-08-27"
+  }
+}

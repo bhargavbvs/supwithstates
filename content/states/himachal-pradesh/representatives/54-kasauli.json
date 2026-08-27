@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-54-kasauli",
+  "constituency": {
+    "number": 54,
+    "name": "Kasauli",
+    "district": "Solan",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vinod Sultanpuri",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of arts Bachelor of legislative law from ILS Law college Pune in the year 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 965995,
+      "immovable": 55200000,
+      "total": 56165545,
+      "liabilities": 3200773
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=413",
+    "retrieved": "2026-08-27"
+  }
+}

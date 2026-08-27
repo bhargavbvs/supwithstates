@@ -1,0 +1,25 @@
+{
+  "slug": "delhi",
+  "name": "Delhi",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 70,
+  "district_count": 12,
+  "term": {
+    "start": "2025"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Delhi2025/",
+    "adr_serious_list": "https://www.myneta.info/Delhi2025/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      77.09,
+      28.64
+    ],
+    "zoom": 10
+  }
+}

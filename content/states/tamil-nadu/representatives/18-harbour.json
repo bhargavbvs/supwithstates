@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-18-harbour",
+  "constituency": {
+    "number": 18,
+    "name": "Harbour",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P K Sekarbabu",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Politics Public Services",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC 1979 Koti M. Appuchettiar High School K.H Road Chennai 600012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12526531,
+      "immovable": 16853240,
+      "total": 29379774,
+      "liabilities": 280000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1114",
+    "retrieved": "2026-08-27"
+  }
+}

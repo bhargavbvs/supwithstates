@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-54-loharu",
+  "constituency": {
+    "number": 54,
+    "name": "Loharu",
+    "district": "Bhiwani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajbir Fartia",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Executive Director of Pvt ltd",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Board of School Education Haryana 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 156491373,
+      "immovable": 441952343,
+      "total": 598894116,
+      "liabilities": 441817893
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=480",
+    "retrieved": "2026-08-27"
+  }
+}

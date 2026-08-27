@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-124-kollam",
+  "constituency": {
+    "number": 124,
+    "name": "Kollam",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. Bindhu Krishna",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Advocate and Notary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "L.L.M . Law college, TVM Kerala University-2000,"
+    },
+    "declared_cases": {
+      "total": 49,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7500991,
+      "immovable": 3700000,
+      "total": 11200991,
+      "liabilities": 358118
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=10",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-191-nagamangala",
+  "constituency": {
+    "number": 191,
+    "name": "Nagamangala",
+    "district": "Mandya",
+    "reserved": null
+  },
+  "representative": {
+    "name": "N. Chaluvarayaswamy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture, Ex-MLA,property development rent",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering From Polytechnic College KR Pete Mandya in 1978-83 & 10th Pass From Sri Siddhaganga High School, Tumkur, Year-1975-78"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 120150593,
+      "immovable": 598675768,
+      "total": 718826361,
+      "liabilities": 164523017
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7590",
+    "retrieved": "2026-08-27"
+  }
+}

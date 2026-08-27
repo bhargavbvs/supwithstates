@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-45-ghatsila",
+  "constituency": {
+    "number": 45,
+    "name": "Ghatsila",
+    "district": "East Singhbhum",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Somesh Chandra Soren",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Business (Sole proprietor of Swarnrekha Automobiles and Adivasi Enterprises)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Technology in Mechanical Engineering From Biju Patnaik University of Technology, Odisha Year 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1175771,
+      "immovable": 5717000,
+      "total": 6870091,
+      "liabilities": 1429507
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=1389",
+    "retrieved": "2026-08-27"
+  }
+}

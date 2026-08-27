@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-87-baramba",
+  "constituency": {
+    "number": 87,
+    "name": "Baramba",
+    "district": "Cuttack",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bijaya Kumar Dalabehera",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Cultivation and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Utkal University 1995, Banki Mahavidhayalaya Banki Cuttack"
+    },
+    "declared_cases": {
+      "total": 17,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3886781,
+      "immovable": 350000,
+      "total": 4236781,
+      "liabilities": 1429643
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=576",
+    "retrieved": "2026-08-27"
+  }
+}

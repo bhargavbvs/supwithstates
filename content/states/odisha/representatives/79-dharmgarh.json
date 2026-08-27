@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-79-dharmgarh",
+  "constituency": {
+    "number": 79,
+    "name": "Dharmgarh",
+    "district": "Kalahandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudhir Ranjan Pattjoshi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Advocate , Cultivation",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Political Science) from Non Collegiate Student, Vani Vihar Bhubaneswar, LLB from The Law Collage, Vani Vihar Bhubaneswar In 1989"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18369745,
+      "immovable": 101115100,
+      "total": 120166845,
+      "liabilities": 12061928
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=71",
+    "retrieved": "2026-08-27"
+  }
+}

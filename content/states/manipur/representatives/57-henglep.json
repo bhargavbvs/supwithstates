@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-57-henglep",
+  "constituency": {
+    "number": 57,
+    "name": "Henglep",
+    "district": "Churachandpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Letzamang Haokip",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Social Worker/Entrepreneur",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A Manipur University-2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1054939,
+      "immovable": 5700000,
+      "total": 6754939,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=118",
+    "retrieved": "2026-08-27"
+  }
+}

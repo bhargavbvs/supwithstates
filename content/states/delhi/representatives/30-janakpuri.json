@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-30-janakpuri",
+  "constituency": {
+    "number": 30,
+    "name": "Janakpuri",
+    "district": "West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashish Sood",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Business as also Salaried",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com (Hons.) from Atma Ram Sanatan Dharam College, Delhi University in 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 66202352,
+      "immovable": 26000000,
+      "total": 92202367,
+      "liabilities": 59273722
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=50",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-49-anandpur-sahib",
+  "constituency": {
+    "number": 49,
+    "name": "Anandpur Sahib",
+    "district": "Rupnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harjot Singh Bains",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 31,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. LLB (Hons) from Punjab University, Chandigarh in 2014, International Human Right Law from London School of Economics & Political Science (LSE), London UK In 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5925755,
+      "immovable": 18200000,
+      "total": 24125755,
+      "liabilities": 2293753
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=13",
+    "retrieved": "2026-08-27"
+  }
+}

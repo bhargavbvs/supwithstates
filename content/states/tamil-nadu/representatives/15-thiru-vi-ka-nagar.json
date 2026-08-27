@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-15-thiru-vi-ka-nagar",
+  "constituency": {
+    "number": 15,
+    "name": "Thiru-Vi-Ka-Nagar",
+    "district": "Chennai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "M. R. Pallavi",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 36,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Discontinue- B.A. Economics Bharathi Womens College (A), Chennai Year 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4221394,
+      "immovable": 0,
+      "total": 4221394,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=859",
+    "retrieved": "2026-08-27"
+  }
+}

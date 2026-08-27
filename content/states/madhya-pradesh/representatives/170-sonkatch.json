@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-170-sonkatch",
+  "constituency": {
+    "number": 170,
+    "name": "Sonkatch",
+    "district": "Dewas",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Rajesh Sonkar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Hostel, Brokrage, Agriculture, Fomer MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph. D , Devi Ahilya University 2014 Indore MP"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7251648,
+      "immovable": 14500000,
+      "total": 21751648,
+      "liabilities": 8000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=449",
+    "retrieved": "2026-08-27"
+  }
+}

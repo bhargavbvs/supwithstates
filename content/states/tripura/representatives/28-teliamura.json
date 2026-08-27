@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-28-teliamura",
+  "constituency": {
+    "number": 28,
+    "name": "Teliamura",
+    "district": "Khowai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalyani Saha Roy",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Tripura University In the year 1998, B.Sc. With Hons.In Zoology From Tripura University 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8722865,
+      "immovable": 20150000,
+      "total": 28872866,
+      "liabilities": 3339317
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6965",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-81-kanker",
+  "constituency": {
+    "number": 81,
+    "name": "Kanker",
+    "district": "Uttar Bastar Kanker",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Asha Ram Netam",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A METAS UNIVERSITY 2014"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3061651,
+      "immovable": 4396119,
+      "total": 7457771,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=55",
+    "retrieved": "2026-08-27"
+  }
+}

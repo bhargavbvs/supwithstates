@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-121-singanallur",
+  "constituency": {
+    "number": 121,
+    "name": "Singanallur",
+    "district": "Coimbatore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K.S.Sri Giri Prasath",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Advocate Profession",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. B.L.(Hons.), School of Excellence, The Tamil Nadu Dr. Ambedkar Law University, Chennai - Year - May - 2007, H.S.C : G.D.Matriculation Higher Secondary School, Coimbatore - Year - Mar - 2001, SSLC., G.D.Matriculation Higher Secondary School, Coimbato Details of PA"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33726577,
+      "immovable": 33333333,
+      "total": 67059911,
+      "liabilities": 6303932
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=880",
+    "retrieved": "2026-08-27"
+  }
+}

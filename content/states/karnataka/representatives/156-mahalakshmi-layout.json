@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-156-mahalakshmi-layout",
+  "constituency": {
+    "number": 156,
+    "name": "Mahalakshmi Layout",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K. Gopalaiah",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Politics/social services",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. -1982-Bangalore University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 158297821,
+      "immovable": 959188956,
+      "total": 1106458434,
+      "liabilities": 625526284
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7531",
+    "retrieved": "2026-08-27"
+  }
+}

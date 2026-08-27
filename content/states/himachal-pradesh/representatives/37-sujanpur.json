@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-37-sujanpur",
+  "constituency": {
+    "number": 37,
+    "name": "Sujanpur",
+    "district": "Ham|rpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Captain Ranjit Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Retired from Indian Army as Hony Captain",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10+2 Passed in 1992 from Punjab School Education Board"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 525517,
+      "immovable": 8841720,
+      "total": 9367237,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=503",
+    "retrieved": "2026-08-27"
+  }
+}

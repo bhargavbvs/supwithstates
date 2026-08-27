@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-59-longding-pumao",
+  "constituency": {
+    "number": 59,
+    "name": "Longding-Pumao",
+    "district": "Longding",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Thangwang Wangham",
+    "election": "2024",
+    "elected_party": "National Peoples Party",
+    "current_party": "National Peoples Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Social Worker and Politician (Ex-MLA)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Decree College, Itanagar, Arunachal Pradesh, Now Dera Natung Govt. College Itanagar, Arunachal Pradesh in 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11991408,
+      "immovable": 144800000,
+      "total": 183791408,
+      "liabilities": 3539332
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=49",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-106-amargarh",
+  "constituency": {
+    "number": 106,
+    "name": "Amargarh",
+    "district": "Maler Kotla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prof. Jaswant Singh Gajjan Majra",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Teaching",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phil in History From Punjab University Patiala"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 165700925,
+      "immovable": 25833334,
+      "total": 191534259,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=284",
+    "retrieved": "2026-08-27"
+  }
+}

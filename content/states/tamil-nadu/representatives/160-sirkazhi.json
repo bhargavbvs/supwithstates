@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-160-sirkazhi",
+  "constituency": {
+    "number": 160,
+    "name": "Sirkazhi",
+    "district": "Mayiladuthurai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Senthilselvan.R",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "ADVOCATE",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Annamalai University in 1999, Diploma in Criminology and Froensic Science from University of Madras in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8562517,
+      "immovable": 6520000,
+      "total": 15082517,
+      "liabilities": 8904266
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=966",
+    "retrieved": "2026-08-27"
+  }
+}

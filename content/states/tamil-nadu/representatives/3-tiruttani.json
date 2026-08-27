@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-3-tiruttani",
+  "constituency": {
+    "number": 3,
+    "name": "Tiruttani",
+    "district": "Thiruvallur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G.Hari",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Agriculture and Legal Profession",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A Annalai University 2009, B.L Government Law College, Chennai (1984- 1987), B.A. Quaid-e-Azam Millat College, Medavakkam, Chennai (1979-1982)"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19577173,
+      "immovable": 41546722,
+      "total": 67205792,
+      "liabilities": 8605395
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1290",
+    "retrieved": "2026-08-27"
+  }
+}

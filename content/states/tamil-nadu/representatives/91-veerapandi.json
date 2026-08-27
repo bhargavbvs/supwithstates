@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-91-veerapandi",
+  "constituency": {
+    "number": 91,
+    "name": "Veerapandi",
+    "district": "Salem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Palanivel. M.S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Mining Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Standard Govt Higher Secondary School Mallasamuthiram Year 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 153726274,
+      "immovable": 200380950,
+      "total": 354007225,
+      "liabilities": 92308229
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1000",
+    "retrieved": "2026-08-27"
+  }
+}

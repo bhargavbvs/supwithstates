@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-157-dhariawad",
+  "constituency": {
+    "number": 157,
+    "name": "Dhariawad",
+    "district": "Pratapgarh",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Thavar Chand",
+    "election": "2023",
+    "elected_party": "Bharat Adivasi Party",
+    "current_party": "Bharat Adivasi Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 28,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Mohan Lal Sukhadiya University Udaipur in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 594000,
+      "immovable": 800000,
+      "total": 1394000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1190",
+    "retrieved": "2026-08-27"
+  }
+}

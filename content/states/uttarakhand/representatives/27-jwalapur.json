@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-27-jwalapur",
+  "constituency": {
+    "number": 27,
+    "name": "Jwalapur",
+    "district": "Haridw>r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Er. Ravi Bahadur",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.tech from Gurukul Kangdi University Haridwar"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 573014,
+      "immovable": 700000,
+      "total": 1273014,
+      "liabilities": 252593
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=621",
+    "retrieved": "2026-08-27"
+  }
+}

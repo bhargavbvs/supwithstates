@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-185-khargone",
+  "constituency": {
+    "number": 185,
+    "name": "Khargone",
+    "district": "Khargone",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balkrishn Patidar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Agriculture and Pension",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from Devi Ahilya govt. higher secondary school khargone in 1968"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15872072,
+      "immovable": 53839300,
+      "total": 69711372,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=57",
+    "retrieved": "2026-08-27"
+  }
+}

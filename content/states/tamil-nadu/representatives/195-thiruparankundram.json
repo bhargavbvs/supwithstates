@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-195-thiruparankundram",
+  "constituency": {
+    "number": 195,
+    "name": "Thiruparankundram",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nirmalkumar. R.",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (Criminology & Police Administration) From Madurai Kamarajar University in 2012, LLB From Vivekananda College of Law, Bangalore University in 2011, B.E From RMK Engineering College, Kavarapettai, Chennai Anna University in 2003"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 50697612,
+      "immovable": 211925000,
+      "total": 262622612,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=956",
+    "retrieved": "2026-08-27"
+  }
+}

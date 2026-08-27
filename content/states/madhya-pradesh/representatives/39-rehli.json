@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-39-rehli",
+  "constituency": {
+    "number": 39,
+    "name": "Rehli",
+    "district": "Sagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gopal Bhargava",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in 1974, LLB in 1977 from Dr. Harisingh Gour University Sagar M.P"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30186253,
+      "immovable": 27290000,
+      "total": 57476253,
+      "liabilities": 1900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=186",
+    "retrieved": "2026-08-27"
+  }
+}

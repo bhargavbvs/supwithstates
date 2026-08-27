@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-8-mawhati",
+  "constituency": {
+    "number": 8,
+    "name": "Mawhati",
+    "district": "Ri-Bhoi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Charles Marngar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 38,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Under Matric"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 761348,
+      "immovable": 27636000,
+      "total": 28422348,
+      "liabilities": 921206
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6773",
+    "retrieved": "2026-08-27"
+  }
+}

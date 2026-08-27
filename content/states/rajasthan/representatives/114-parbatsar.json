@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-114-parbatsar",
+  "constituency": {
+    "number": 114,
+    "name": "Parbatsar",
+    "district": "Didwana-Kuchaman",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramniwas Gawriya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 32,
+    "profession": "MLA, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Rajasthan University 2014"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6997534,
+      "immovable": 5800000,
+      "total": 12797536,
+      "liabilities": 2387890
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=331",
+    "retrieved": "2026-08-27"
+  }
+}

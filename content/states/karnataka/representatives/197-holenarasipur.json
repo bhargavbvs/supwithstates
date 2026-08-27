@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-197-holenarasipur",
+  "constituency": {
+    "number": 197,
+    "name": "Holenarasipur",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "H D Revanna",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculturist/Public Servant",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from Government High School Chakenahalli, Hale Kote Hobli, Holenarsipura Taluk, Hassan District in 1973-74"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 179015454,
+      "immovable": 625387599,
+      "total": 800203059,
+      "liabilities": 152478385
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7323",
+    "retrieved": "2026-08-27"
+  }
+}

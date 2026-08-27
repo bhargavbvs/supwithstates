@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-121-punalur",
+  "constituency": {
+    "number": 121,
+    "name": "Punalur",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C. Ajayaprasad",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "NIL",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "S.S.L.C, Anchal East High School, Anchal, Punalur Taluk."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1957000,
+      "immovable": 4000000,
+      "total": 5847000,
+      "liabilities": 300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=229",
+    "retrieved": "2026-08-27"
+  }
+}

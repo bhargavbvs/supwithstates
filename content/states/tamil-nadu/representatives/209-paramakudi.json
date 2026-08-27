@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-209-paramakudi",
+  "constituency": {
+    "number": 209,
+    "name": "Paramakudi",
+    "district": "Ramanathapuram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Advocate. Kathiravan. K.K",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "Private Lawyer, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Dr.Ambedkar Global Law Institue Tirupati College Sri Venkateswara University Tirupati In 2015, HSC From Keela Muslim Higher Secondary School Paramakudi In 2003, SSLC From Pallivasal Higher Secondary School, Mudukulathur In 2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17567281,
+      "immovable": 11475000,
+      "total": 29042281,
+      "liabilities": 2063484
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=737",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-53-kongad",
+  "constituency": {
+    "number": 53,
+    "name": "Kongad",
+    "district": "Palakkad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Thulasi Teacher",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Member of the Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. History From Victoria College Palakkad University of Calicut Year 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8002364,
+      "immovable": 5150000,
+      "total": 13152364,
+      "liabilities": 5160786
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

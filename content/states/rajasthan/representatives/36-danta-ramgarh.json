@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-36-danta-ramgarh",
+  "constituency": {
+    "number": 36,
+    "name": "Danta Ramgarh",
+    "district": "Sikar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Virendra Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From Shri Kalyan Rajkiya Mahavidyalaya Sikar Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11457904,
+      "immovable": 52550000,
+      "total": 60947904,
+      "liabilities": 8455689
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=180",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-29-rai",
+  "constituency": {
+    "number": 29,
+    "name": "Rai",
+    "district": "Sonipat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishna Gahlawat",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 72,
+    "profession": "Social Welfare",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Kurukshetra University Year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 155324375,
+      "immovable": 419516250,
+      "total": 574840625,
+      "liabilities": 12664003
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=198",
+    "retrieved": "2026-08-27"
+  }
+}

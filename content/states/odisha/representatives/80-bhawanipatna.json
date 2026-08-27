@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-80-bhawanipatna",
+  "constituency": {
+    "number": 80,
+    "name": "Bhawanipatna",
+    "district": "Kalahandi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sagar Charan Das",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 33,
+    "profession": "Social Service and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BBA From KIIT University Bhubaneswar in 2014"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7219351,
+      "immovable": 5100000,
+      "total": 12319353,
+      "liabilities": 4341191
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=164",
+    "retrieved": "2026-08-27"
+  }
+}

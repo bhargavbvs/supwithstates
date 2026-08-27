@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-48-selsella",
+  "constituency": {
+    "number": 48,
+    "name": "Selsella",
+    "district": "West G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Arbinstone B Marak",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Member of Garo Hills Autonomous Dist. Council Tura",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Kazi and Zaman College, New Bhaitbari, Affiliated to NEHU Shillong in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 503598,
+      "immovable": 3000000,
+      "total": 3503598,
+      "liabilities": 642596
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6811",
+    "retrieved": "2026-08-27"
+  }
+}

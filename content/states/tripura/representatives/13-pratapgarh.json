@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-13-pratapgarh",
+  "constituency": {
+    "number": 13,
+    "name": "Pratapgarh",
+    "district": "West Tripura",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramu Das",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Social Service & Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in Political Science Under Tripura University in the Year 2005, M.Phil in Political Science From Binayaka Mission University Tamil Nadu 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 261876,
+      "immovable": 500000,
+      "total": 831877,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6797",
+    "retrieved": "2026-08-27"
+  }
+}

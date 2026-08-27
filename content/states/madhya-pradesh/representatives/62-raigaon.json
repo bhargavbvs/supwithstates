@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-62-raigaon",
+  "constituency": {
+    "number": 62,
+    "name": "Raigaon",
+    "district": "Satna",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pratima Bagri",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S.W. and L.L.B. from Awdhesh Pratap Singh University Rewa MP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8084603,
+      "immovable": 54025100,
+      "total": 62109703,
+      "liabilities": 4842957
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=384",
+    "retrieved": "2026-08-27"
+  }
+}

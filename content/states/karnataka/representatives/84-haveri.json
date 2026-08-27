@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-84-haveri",
+  "constituency": {
+    "number": 84,
+    "name": "Haveri",
+    "district": "H",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rudrappa Manappa Lamani",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Social Service and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B A Karnataka University Dharwad in 1979-82"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39321137,
+      "immovable": 67667650,
+      "total": 103682530,
+      "liabilities": 34963476
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6817",
+    "retrieved": "2026-08-27"
+  }
+}

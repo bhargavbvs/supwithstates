@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-77-karwar",
+  "constituency": {
+    "number": 77,
+    "name": "Karwar",
+    "district": "Uttara Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Krishna Sail",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from Government Arts & Science College, Karwar in 1992"
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 464845305,
+      "immovable": 103339075,
+      "total": 568440450,
+      "liabilities": 176331172
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7444",
+    "retrieved": "2026-08-27"
+  }
+}

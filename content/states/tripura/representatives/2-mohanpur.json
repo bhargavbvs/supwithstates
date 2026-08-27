@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-2-mohanpur",
+  "constituency": {
+    "number": 2,
+    "name": "Mohanpur",
+    "district": "West Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ratan Lal Nath",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Calcutta University In 1979 & B.A. from M.B.B. College Under Calcutta University In 1972"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30695241,
+      "immovable": 6900000,
+      "total": 26054154,
+      "liabilities": 1983370
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7051",
+    "retrieved": "2026-08-27"
+  }
+}

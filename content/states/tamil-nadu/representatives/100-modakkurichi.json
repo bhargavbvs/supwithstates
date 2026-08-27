@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-100-modakkurichi",
+  "constituency": {
+    "number": 100,
+    "name": "Modakkurichi",
+    "district": "Erode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "D.Shanmugan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Construction Company",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Civil) From Vinayaka Engineering College, Salem in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64974953,
+      "immovable": 310300000,
+      "total": 375273021,
+      "liabilities": 30877857
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1928",
+    "retrieved": "2026-08-27"
+  }
+}

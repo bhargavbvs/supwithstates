@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-35-jevargi",
+  "constituency": {
+    "number": 35,
+    "name": "Jevargi",
+    "district": "Kalaburagi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Dharam Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Social Worker & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine and Bachelor of Surgery (MBBS) from M S. Ramaiah Medical College, Bangalore University- Year - 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 317872610,
+      "immovable": 340004417,
+      "total": 657904532,
+      "liabilities": 378016860
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7410",
+    "retrieved": "2026-08-27"
+  }
+}

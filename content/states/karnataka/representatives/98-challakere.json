@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-98-challakere",
+  "constituency": {
+    "number": 98,
+    "name": "Challakere",
+    "district": "Chitradurga",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "T. Raghumurthy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture , Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE ,Civil ,Government B.D.T College ,Davangere Mysuru University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53228123,
+      "immovable": 168888393,
+      "total": 221827134,
+      "liabilities": 118172684
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7890",
+    "retrieved": "2026-08-27"
+  }
+}

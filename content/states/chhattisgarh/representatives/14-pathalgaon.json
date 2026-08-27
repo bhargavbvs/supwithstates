@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-14-pathalgaon",
+  "constituency": {
+    "number": 14,
+    "name": "Pathalgaon",
+    "district": "Jashpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Gomati Sai",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Salary as MP is Rs 1 lakh per month",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Chhattisgarh State Open School Raipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4249648,
+      "immovable": 0,
+      "total": 1547972,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=494",
+    "retrieved": "2026-08-27"
+  }
+}

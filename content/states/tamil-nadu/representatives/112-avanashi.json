@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-112-avanashi",
+  "constituency": {
+    "number": 112,
+    "name": "Avanashi",
+    "district": "Tiruppur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kamali.S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 28,
+    "profession": "House wife",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in (English Literature)(M.A. English Lit) from Pavai girls arts and science Rasipuram in 2018, B.Ed Vidhya mandir college guruswamypalayam 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3218857,
+      "immovable": 0,
+      "total": 3218857,
+      "liabilities": 153000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=664",
+    "retrieved": "2026-08-27"
+  }
+}

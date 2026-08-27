@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-10-jirang",
+  "constituency": {
+    "number": 10,
+    "name": "Jirang",
+    "district": "Ri-Bhoi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sosthenes Sohtun",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Member of Legislative Assembaly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-University (Arts) In 1992 from North Eastern Hill University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44932167,
+      "immovable": 153500000,
+      "total": 196924486,
+      "liabilities": 47890545
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6799",
+    "retrieved": "2026-08-27"
+  }
+}

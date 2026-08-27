@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-133-vedasandur",
+  "constituency": {
+    "number": 133,
+    "name": "Vedasandur",
+    "district": "Dindigul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saminathan. T",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com - Bachelor of Commerce, APSA College - Thirupattur, Madurai Kamaraj University,1989."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 101164602,
+      "immovable": 158537929,
+      "total": 259702531,
+      "liabilities": 98846057
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=915",
+    "retrieved": "2026-08-27"
+  }
+}

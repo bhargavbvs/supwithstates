@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-77-gurgaon",
+  "constituency": {
+    "number": 77,
+    "name": "Gurgaon",
+    "district": "Gurugram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukesh Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass NIOS 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10971455,
+      "immovable": 2000000,
+      "total": 12946455,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=145",
+    "retrieved": "2026-08-27"
+  }
+}

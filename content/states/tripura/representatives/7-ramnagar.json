@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-7-ramnagar",
+  "constituency": {
+    "number": 7,
+    "name": "Ramnagar",
+    "district": "West Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dipak Majumder",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Private Building Developer and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Pass from the University of Calcutta in the year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3762202,
+      "immovable": 7000000,
+      "total": 10762202,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7076",
+    "retrieved": "2026-08-27"
+  }
+}

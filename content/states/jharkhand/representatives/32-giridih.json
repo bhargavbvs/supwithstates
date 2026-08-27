@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-32-giridih",
+  "constituency": {
+    "number": 32,
+    "name": "Giridih",
+    "district": "Giridih",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudivya Kumar",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Salary from Vidhansabha Political and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from D.S. College Purnia Bihar in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 56790798,
+      "immovable": 99500000,
+      "total": 151790794,
+      "liabilities": 35248343
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=853",
+    "retrieved": "2026-08-27"
+  }
+}

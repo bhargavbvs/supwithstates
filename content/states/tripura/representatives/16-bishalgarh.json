@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-16-bishalgarh",
+  "constituency": {
+    "number": 16,
+    "name": "Bishalgarh",
+    "district": "Sepahijala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sushanta Deb",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 33,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary (+2 Stage) Examination Passed under Tripura Board of Secondary Education in the year 2007"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1667678,
+      "immovable": 700000,
+      "total": 2364289,
+      "liabilities": 5386
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6985",
+    "retrieved": "2026-08-27"
+  }
+}

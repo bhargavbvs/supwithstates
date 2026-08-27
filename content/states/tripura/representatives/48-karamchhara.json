@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-48-karamchhara",
+  "constituency": {
+    "number": 48,
+    "name": "Karamchhara",
+    "district": "Dhalai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Paul Dangshu",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 31,
+    "profession": "Self Employed and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th From Tripura Board of School Education in Year 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 834427,
+      "immovable": 0,
+      "total": 834427,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7039",
+    "retrieved": "2026-08-27"
+  }
+}

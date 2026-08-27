@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-78-junagarh",
+  "constituency": {
+    "number": 78,
+    "name": "Junagarh",
+    "district": "Kalahandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dibya Shankar Mishra",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Sitting MLA 78 Junagarh AC & Cultivator",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From Sambalpur University, Year-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12611224,
+      "immovable": 106386737,
+      "total": 118997962,
+      "liabilities": 8259415
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=202",
+    "retrieved": "2026-08-27"
+  }
+}

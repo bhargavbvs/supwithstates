@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-24-sujangarh",
+  "constituency": {
+    "number": 24,
+    "name": "Sujangarh",
+    "district": "Churu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manoj Kumar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Agriculture, Business, Salary, Bank Interest",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B. from Rajasthan University in 1999, B.Sc. from Rajasthan University in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47710288,
+      "immovable": 87931000,
+      "total": 135641288,
+      "liabilities": 26850889
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=419",
+    "retrieved": "2026-08-27"
+  }
+}

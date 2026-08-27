@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-8-sri-hargobindpur-s",
+  "constituency": {
+    "number": 8,
+    "name": "Sri Hargobindpur (S",
+    "district": "Gurdaspur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Amarpal Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Advocate, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Political Science) from LPU in 2014, Bachelor of Law from Guru Nanak Dev University Amritsar in 2009"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1169000,
+      "immovable": 1200000,
+      "total": 2369000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=499",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-216-krishnaraja",
+  "constituency": {
+    "number": 216,
+    "name": "Krishnaraja",
+    "district": "Mys#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T.S. Srivathsa",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Contractor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. from Banumaya College New Saiyaji Rao Road, Mysore University in 1987-88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3975303,
+      "immovable": 1200000,
+      "total": 4889436,
+      "liabilities": 135000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8092",
+    "retrieved": "2026-08-27"
+  }
+}

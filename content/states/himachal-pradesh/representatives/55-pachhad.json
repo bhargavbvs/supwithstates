@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-55-pachhad",
+  "constituency": {
+    "number": 55,
+    "name": "Pachhad",
+    "district": "Sirmaur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Reena",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Public Representation as MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Pub. Admn from H.P. University Shimla in 2009, B.A from H.P.University in 2007, 10+2 (Arts) as Private Candidate from HPSEB Dharmshala in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6354354,
+      "immovable": 6170000,
+      "total": 12121682,
+      "liabilities": 4214263
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=196",
+    "retrieved": "2026-08-27"
+  }
+}

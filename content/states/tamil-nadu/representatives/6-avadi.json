@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-6-avadi",
+  "constituency": {
+    "number": 6,
+    "name": "Avadi",
+    "district": "Thiruvallur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R.Ramesh Kumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Principal of St. Johns School",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (1983-1986) The new College Madras of university"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20601758,
+      "immovable": 22000000,
+      "total": 34732417,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=254",
+    "retrieved": "2026-08-27"
+  }
+}

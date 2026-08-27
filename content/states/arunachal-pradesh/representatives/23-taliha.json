@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-23-taliha",
+  "constituency": {
+    "number": 23,
+    "name": "Taliha",
+    "district": "Upper Subansiri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nyato Dukam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Arunachal University In 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16512091,
+      "immovable": 33900000,
+      "total": 50412091,
+      "liabilities": 4800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=77",
+    "retrieved": "2026-08-27"
+  }
+}

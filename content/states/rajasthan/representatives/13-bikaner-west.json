@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-13-bikaner-west",
+  "constituency": {
+    "number": 13,
+    "name": "Bikaner West",
+    "district": "Bikaner",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jethanand Vyas",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Tution Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Rajkiya Dungar College Bikaner, Maharshi Dayanand Saraswati University, Ajmer in 1998"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6617363,
+      "immovable": 2898750,
+      "total": 10016113,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=164",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-1-sheopur",
+  "constituency": {
+    "number": 1,
+    "name": "Sheopur",
+    "district": "Sheopur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babu Jandel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4105102,
+      "immovable": 11200000,
+      "total": 15305102,
+      "liabilities": 1690806
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=424",
+    "retrieved": "2026-08-27"
+  }
+}

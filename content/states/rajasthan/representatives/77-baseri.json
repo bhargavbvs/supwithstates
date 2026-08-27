@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-77-baseri",
+  "constituency": {
+    "number": 77,
+    "name": "Baseri",
+    "district": "Dhaulpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sanjay Kumar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. Tech In 2012 From Rajasthna Technology University Kota"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5326735,
+      "immovable": 1130000,
+      "total": 6456735,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=157",
+    "retrieved": "2026-08-27"
+  }
+}

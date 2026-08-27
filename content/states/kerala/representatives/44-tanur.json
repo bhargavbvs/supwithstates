@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-44-tanur",
+  "constituency": {
+    "number": 44,
+    "name": "Tanur",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P K Navas",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 36,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration (MBA) Bharathiyar University 2013"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 4,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16109077,
+      "immovable": 13500000,
+      "total": 29609077,
+      "liabilities": 2372089
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=347",
+    "retrieved": "2026-08-27"
+  }
+}

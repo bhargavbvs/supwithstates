@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-200-dharampuri",
+  "constituency": {
+    "number": 200,
+    "name": "Dharampuri",
+    "district": "Dhar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kalusingh Thakur",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th pass in indore in 1996 govt school"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8723636,
+      "immovable": 18007000,
+      "total": 26730636,
+      "liabilities": 800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1158",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-22-barkagaon",
+  "constituency": {
+    "number": 22,
+    "name": "Barkagaon",
+    "district": "Hazaribagh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Roshan Lal Choudhary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Social Service, Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Ranchi University in Year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1762464,
+      "immovable": 15925000,
+      "total": 17687464,
+      "liabilities": 7545571
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=167",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-156-salumber",
+  "constituency": {
+    "number": 156,
+    "name": "Salumber",
+    "district": "Salumbar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shanta Amrit Lal Meena",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Agriculture & Chairman Municipality Semari",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2017474,
+      "immovable": 8000000,
+      "total": 10017474,
+      "liabilities": 45000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1962",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-122-chadayamangalam",
+  "constituency": {
+    "number": 122,
+    "name": "Chadayamangalam",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M. M. Naseer",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Public Worker,Business (LPG and IOC)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA From NSS College Nilamel in 1987,LLB From Govt Law College Tvm 1999"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49426753,
+      "immovable": 55750000,
+      "total": 53067315,
+      "liabilities": 4000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=410",
+    "retrieved": "2026-08-27"
+  }
+}

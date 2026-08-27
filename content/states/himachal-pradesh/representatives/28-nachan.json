@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-28-nachan",
+  "constituency": {
+    "number": 28,
+    "name": "Nachan",
+    "district": "Mandi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vinod Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From HPBOSE In 2000 from GSSS Chailchowk"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9409897,
+      "immovable": 12000000,
+      "total": 21409897,
+      "liabilities": 2744431
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=97",
+    "retrieved": "2026-08-27"
+  }
+}

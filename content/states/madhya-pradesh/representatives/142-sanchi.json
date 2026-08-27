@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-142-sanchi",
+  "constituency": {
+    "number": 142,
+    "name": "Sanchi",
+    "district": "Raisen",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Prabhuram Choudhary",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture and Petrol Pump",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S. in 1985 from Gandhi Medical College, Bhopal Barkatullah University Bhopal MP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55449830,
+      "immovable": 62400000,
+      "total": 117849830,
+      "liabilities": 9990000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=86",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-51-saitu",
+  "constituency": {
+    "number": 51,
+    "name": "Saitu",
+    "district": "Kangpokpi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Haokholet Kipgen",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School, Leaving Certificate Examination 1974 Under Board Of Secondary Education, Manipur From Motbung High School, Motbung"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5217448,
+      "immovable": 67650000,
+      "total": 72867449,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=13",
+    "retrieved": "2026-08-27"
+  }
+}

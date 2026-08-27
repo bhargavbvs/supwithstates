@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-48-raipur-rural",
+  "constituency": {
+    "number": 48,
+    "name": "Raipur Rural",
+    "district": "Raipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Motilal Sahu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Polytechnic, (Civil Engineering) Kirodimal Government Polytechnique Raigadh (Chhattisgadh) Year 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1913991,
+      "immovable": 32920386,
+      "total": 37514377,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=511",
+    "retrieved": "2026-08-27"
+  }
+}

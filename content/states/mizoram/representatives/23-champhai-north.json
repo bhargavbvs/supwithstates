@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-23-champhai-north",
+  "constituency": {
+    "number": 23,
+    "name": "Champhai North",
+    "district": "Champhai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "H. Ginzalala",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Engineering Delhi College of Engineering Delhi University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 172452039,
+      "immovable": 189000000,
+      "total": 360952042,
+      "liabilities": 2286577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=90",
+    "retrieved": "2026-08-27"
+  }
+}

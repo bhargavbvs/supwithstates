@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-34-gomia",
+  "constituency": {
+    "number": 34,
+    "name": "Gomia",
+    "district": "Bokaro",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogendra Prasad",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from CN College Marar, Ramgarh in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12130882,
+      "immovable": 6066348,
+      "total": 18497230,
+      "liabilities": 770000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=804",
+    "retrieved": "2026-08-27"
+  }
+}

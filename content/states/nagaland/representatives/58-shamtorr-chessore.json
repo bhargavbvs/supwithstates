@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-58-shamtorr-chessore",
+  "constituency": {
+    "number": 58,
+    "name": "Shamtorr-Chessore",
+    "district": "Shamator",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "S Keoshu Yimchunger",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-University Passed in the year 1996 From Sao Chang College, Tuensang from Nagaland University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15243824,
+      "immovable": 35800000,
+      "total": 51043824,
+      "liabilities": 588377
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6922",
+    "retrieved": "2026-08-27"
+  }
+}

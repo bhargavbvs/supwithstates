@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-146-kolar-gold-field",
+  "constituency": {
+    "number": 146,
+    "name": "Kolar Gold Field",
+    "district": "Kol",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Roopa Kala. M",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Social Service & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Political Science from Karnataka State Open University in 2012"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 97932000,
+      "immovable": 14400000,
+      "total": 123332000,
+      "liabilities": 14900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6845",
+    "retrieved": "2026-08-27"
+  }
+}

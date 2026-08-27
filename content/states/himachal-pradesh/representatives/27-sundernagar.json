@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-27-sundernagar",
+  "constituency": {
+    "number": 27,
+    "name": "Sundernagar",
+    "district": "Mandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculture with Joint Family in Parental Land",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Vinayaka Mission University Salem Tamilnadu India Passed in the Year 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17466694,
+      "immovable": 30761000,
+      "total": 39244189,
+      "liabilities": 4471977
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=70",
+    "retrieved": "2026-08-27"
+  }
+}

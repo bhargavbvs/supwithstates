@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-56-chakradharpur",
+  "constituency": {
+    "number": 56,
+    "name": "Chakradharpur",
+    "district": "West Singhbhum",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sukhram Oraon",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Member of Legislative Assembly, Jharkhand",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate in Political Science from Jwahar Lal Nehru College, Chakradharpur, Under Kolhan University in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12025659,
+      "immovable": 32535712,
+      "total": 44861371,
+      "liabilities": 4038170
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=783",
+    "retrieved": "2026-08-27"
+  }
+}

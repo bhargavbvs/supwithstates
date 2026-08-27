@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-145-pottangi",
+  "constituency": {
+    "number": 145,
+    "name": "Pottangi",
+    "district": "Koraput",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rama Chandra Kadam",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Under Matriculation from TMA High School Doliambo in 1989"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1395000,
+      "immovable": 6000000,
+      "total": 7395000,
+      "liabilities": 1300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-124-valparai",
+  "constituency": {
+    "number": 124,
+    "name": "Valparai",
+    "district": "Coimbatore",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kutty Alias Sudhakar. A",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From Pasumalai Higher Secondary School, Madurai, Year-1993-1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8734911,
+      "immovable": 0,
+      "total": 8734911,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1305",
+    "retrieved": "2026-08-27"
+  }
+}

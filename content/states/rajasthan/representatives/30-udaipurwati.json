@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-30-udaipurwati",
+  "constituency": {
+    "number": 30,
+    "name": "Udaipurwati",
+    "district": "Jhunjhunun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhagawana Ram Saini",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture and Motor cycle Hero Subdealer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com. 1987 MotiLal College , LLB 1994 S.K Vollege Sikar, B.Ed. Journlism.1990 Rajasthan University Jaipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3145440,
+      "immovable": 8000000,
+      "total": 11141200,
+      "liabilities": 4049000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=509",
+    "retrieved": "2026-08-27"
+  }
+}

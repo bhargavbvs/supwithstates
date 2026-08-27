@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-135-barmer",
+  "constituency": {
+    "number": 135,
+    "name": "Barmer",
+    "district": "Barmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Priyanka Chowdhary",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Pension, Agriculture and Petrol Pump Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in 1996 from Rajasthan University B.D.S From Rajasthan University 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10005481,
+      "immovable": 27500000,
+      "total": 37194481,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=752",
+    "retrieved": "2026-08-27"
+  }
+}

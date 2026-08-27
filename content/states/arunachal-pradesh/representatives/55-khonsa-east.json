@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-55-khonsa-east",
+  "constituency": {
+    "number": 55,
+    "name": "Khonsa East",
+    "district": "Tir>p",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Wanglam Sawin",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "XII-Pass- All India Senior School Certificate Examination, Central Board of Secondary Education from Govt. Senior Secondary School, Khonsa, Arunachal Pradesh in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11137481,
+      "immovable": 6700000,
+      "total": 17837483,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=41",
+    "retrieved": "2026-08-27"
+  }
+}

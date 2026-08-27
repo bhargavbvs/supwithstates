@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-15-lailunga",
+  "constituency": {
+    "number": 15,
+    "name": "Lailunga",
+    "district": "Raigarh",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vidyawati Sidar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary From Awadhesh Pratap Singh University Rewa MP In 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4702599,
+      "immovable": 10731940,
+      "total": 15089539,
+      "liabilities": 475608
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=466",
+    "retrieved": "2026-08-27"
+  }
+}

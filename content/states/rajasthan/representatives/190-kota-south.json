@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-190-kota-south",
+  "constituency": {
+    "number": 190,
+    "name": "Kota South",
+    "district": "Kota",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Kakatiya University in year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19269880,
+      "immovable": 31600000,
+      "total": 50869880,
+      "liabilities": 18547893
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=484",
+    "retrieved": "2026-08-27"
+  }
+}

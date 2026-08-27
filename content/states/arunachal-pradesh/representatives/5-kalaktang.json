@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-5-kalaktang",
+  "constituency": {
+    "number": 5,
+    "name": "Kalaktang",
+    "district": "West Kameng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tseten Chombay Kee",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "PG(Doploma) in Public Relations & Corporate Communication from Xavier Institute of Communications, St. Xaviers College, Mumbai, University of Mumbai in 2005, BA Degree from Wilson College, Mumbai , University of Mumbai in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 140882333,
+      "immovable": 55000000,
+      "total": 195882334,
+      "liabilities": 2066134
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=9",
+    "retrieved": "2026-08-27"
+  }
+}

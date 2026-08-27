@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-130-nedumangad",
+  "constituency": {
+    "number": 130,
+    "name": "Nedumangad",
+    "district": "Thiruvananthapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G R Anil",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Minister Salary and Other Allowance",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Kerala University In 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5834480,
+      "immovable": 11600000,
+      "total": 17434480,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=723",
+    "retrieved": "2026-08-27"
+  }
+}

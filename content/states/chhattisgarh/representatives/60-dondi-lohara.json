@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-60-dondi-lohara",
+  "constituency": {
+    "number": 60,
+    "name": "Dondi Lohara",
+    "district": "Balod",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Anila Bhendia",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate (Sociology) from P. Ravishankar Shukla University Raipur in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30369355,
+      "immovable": 52000000,
+      "total": 78469355,
+      "liabilities": 9612385
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=291",
+    "retrieved": "2026-08-27"
+  }
+}

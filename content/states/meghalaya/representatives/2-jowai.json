@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-2-jowai",
+  "constituency": {
+    "number": 2,
+    "name": "Jowai",
+    "district": "West Jaintia Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Wailadmiki Shylla",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 31,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from CBSE, Jawahar Navodaya Vidyalaya Mukhla, Jaintia Hills District now known as West Jaintia Hills District, Meghalaya In 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8084841,
+      "immovable": 3000000,
+      "total": 11084843,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7132",
+    "retrieved": "2026-08-27"
+  }
+}

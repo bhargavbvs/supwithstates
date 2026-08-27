@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-170-basavanagudi",
+  "constituency": {
+    "number": 170,
+    "name": "Basavanagudi",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravi Subramanya L.A.",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "BA from Bangalore University in 1984, MBA from CSM Institute of Graduate Studies in 2004"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 87026373,
+      "immovable": 18210000,
+      "total": 105246376,
+      "liabilities": 58185380
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7128",
+    "retrieved": "2026-08-27"
+  }
+}

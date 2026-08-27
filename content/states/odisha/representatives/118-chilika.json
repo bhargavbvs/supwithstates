@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-118-chilika",
+  "constituency": {
+    "number": 118,
+    "name": "Chilika",
+    "district": "Khordha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prithiviraj Harichandan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Consultancy",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Science, Utkal University, 1987-89"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3528600,
+      "immovable": 4115000,
+      "total": 7643600,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=644",
+    "retrieved": "2026-08-27"
+  }
+}

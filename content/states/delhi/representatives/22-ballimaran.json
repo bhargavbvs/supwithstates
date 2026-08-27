@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-22-ballimaran",
+  "constituency": {
+    "number": 22,
+    "name": "Ballimaran",
+    "district": "Central",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Imran Hussain",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 43,
+    "profession": "Political Activist (Minister in Delhi Govt.)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Business Studies Passed From Jamia Millia Islamia University, Delhi, Year-2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15846554,
+      "immovable": 19800000,
+      "total": 35646554,
+      "liabilities": 4196768
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=128",
+    "retrieved": "2026-08-27"
+  }
+}

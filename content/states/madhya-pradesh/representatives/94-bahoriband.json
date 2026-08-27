@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-94-bahoriband",
+  "constituency": {
+    "number": 94,
+    "name": "Bahoriband",
+    "district": "Katni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pranay Prabhat Pandey (Guddu Bhaiya)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Agriculture and Passenger transportation",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Hindi literature) Year 2013, Swami Dwarkadas Art and Commerce University, Dheemar Kheda, Dist. Katnee (MP), Rani Durgavati University, Jabalpur"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13244282,
+      "immovable": 19720000,
+      "total": 32964282,
+      "liabilities": 2973410
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=22",
+    "retrieved": "2026-08-27"
+  }
+}

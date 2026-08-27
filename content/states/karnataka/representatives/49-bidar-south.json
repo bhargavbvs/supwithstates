@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-49-bidar-south",
+  "constituency": {
+    "number": 49,
+    "name": "Bidar South",
+    "district": "B\\dar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Shailendra Beldale",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Homeopathy Medical Science, HKE Societys Homeopathy Medical College, Gulbarge University, Gulbarge in 1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11103000,
+      "immovable": 33800000,
+      "total": 44903000,
+      "liabilities": 25800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7151",
+    "retrieved": "2026-08-27"
+  }
+}

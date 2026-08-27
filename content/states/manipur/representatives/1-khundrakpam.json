@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-1-khundrakpam",
+  "constituency": {
+    "number": 1,
+    "name": "Khundrakpam",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thokchom Lokeshwar Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Member Of Manipur Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Manipur University in 2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18729521,
+      "immovable": 28413790,
+      "total": 47143367,
+      "liabilities": 3522947
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=40",
+    "retrieved": "2026-08-27"
+  }
+}

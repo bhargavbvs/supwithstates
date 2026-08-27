@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-233-vilavancode",
+  "constituency": {
+    "number": 233,
+    "name": "Vilavancode",
+    "district": "Kanniyakumari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Praveen T.T",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters Of Technology In Computer And Technology -2008"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 290969115,
+      "immovable": 372685562,
+      "total": 670544177,
+      "liabilities": 13700007
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1318",
+    "retrieved": "2026-08-27"
+  }
+}

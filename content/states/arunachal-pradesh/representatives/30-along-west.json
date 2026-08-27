@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-30-along-west",
+  "constituency": {
+    "number": 30,
+    "name": "Along West",
+    "district": "West Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Topin Ete",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Advocate legal profession",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Campus Law Centre, University of Delhi in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10776369,
+      "immovable": 63177750,
+      "total": 73954123,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=11",
+    "retrieved": "2026-08-27"
+  }
+}

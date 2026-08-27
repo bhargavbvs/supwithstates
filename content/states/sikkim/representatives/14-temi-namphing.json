@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-14-temi-namphing",
+  "constituency": {
+    "number": 14,
+    "name": "Temi-Namphing",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bedu Singh Panth",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Completed High Secondary from West Bengal Board of Secondary Education in the year 1972."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23956722,
+      "immovable": 89584423,
+      "total": 113541146,
+      "liabilities": 455814
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=116",
+    "retrieved": "2026-08-27"
+  }
+}

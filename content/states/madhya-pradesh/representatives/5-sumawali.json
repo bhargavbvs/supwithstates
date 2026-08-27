@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-5-sumawali",
+  "constituency": {
+    "number": 5,
+    "name": "Sumawali",
+    "district": "Morena",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aidal Singh Kansana",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Agriculture and Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass Govt. Madhyamik School Nayakpura Teh and Dist. Morena"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7416620,
+      "immovable": 15370000,
+      "total": 22786620,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=598",
+    "retrieved": "2026-08-27"
+  }
+}

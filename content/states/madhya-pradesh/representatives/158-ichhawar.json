@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-158-ichhawar",
+  "constituency": {
+    "number": 158,
+    "name": "Ichhawar",
+    "district": "Sehore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karan Singh Verma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculture and Salary (MLA)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. First Year from Govt. Post Graduate college sehore in 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3469773,
+      "immovable": 29028386,
+      "total": 32498159,
+      "liabilities": 2360474
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=48",
+    "retrieved": "2026-08-27"
+  }
+}

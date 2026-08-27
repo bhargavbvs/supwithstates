@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-73-bharatpur",
+  "constituency": {
+    "number": 73,
+    "name": "Bharatpur",
+    "district": "Bharatpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Subhash Garg",
+    "election": "2023",
+    "elected_party": "RLD",
+    "current_party": "RLD",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Pension, Salary And Rent",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "M.Com, M.Phil. and P.HD From Rajasthan Univeristy Jaipur in 1980,1981 and 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7961828,
+      "immovable": 31000000,
+      "total": 38961828,
+      "liabilities": 644202
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=508",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-202-mangalore-city-north",
+  "constituency": {
+    "number": 202,
+    "name": "Mangalore City North",
+    "district": "Dakshina Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Y Bharath Shetty",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Prosthodontist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters in Dentals Surgery (M.D.S.) from Rajiv Gandhi University Health Science Bangaluru in the year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 56287382,
+      "immovable": 57652522,
+      "total": 113939904,
+      "liabilities": 9648789
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7548",
+    "retrieved": "2026-08-27"
+  }
+}

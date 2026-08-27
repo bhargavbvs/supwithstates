@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-50-tiruppattur",
+  "constituency": {
+    "number": 50,
+    "name": "Tiruppattur",
+    "district": "Tirupathur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr.Thirupathi. N",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Business, Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BVSc (1984-1989) Madras Veterinary College, Vepery, 12th (1983-1984) Government Boys Higher Sec. School, Madavalam, 10th (1981-1982) Government Boys Higher Sec. School, Madavalam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50127828,
+      "immovable": 99085500,
+      "total": 151910756,
+      "liabilities": 40232172
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1074",
+    "retrieved": "2026-08-27"
+  }
+}

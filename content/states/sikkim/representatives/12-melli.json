@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-12-melli",
+  "constituency": {
+    "number": 12,
+    "name": "Melli",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nar Bahadur Pradhan",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Poultry, Livestock-Dairy and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Class 10th CBSE Pass from Open School, New Delhi-1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10948304,
+      "immovable": 75712026,
+      "total": 86660333,
+      "liabilities": 4430430
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=64",
+    "retrieved": "2026-08-27"
+  }
+}

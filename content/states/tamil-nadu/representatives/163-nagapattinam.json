@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-163-nagapattinam",
+  "constituency": {
+    "number": 163,
+    "name": "Nagapattinam",
+    "district": "Nagapattinam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.H.Jawahirullah",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Public Service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From University Of Madras, Chennai, Year - 2008, M.Phil From University Of Madras, Chennai, Year - 2000, MBA From University Of Madras, Chennai, Year - 1983"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14408160,
+      "immovable": 38500000,
+      "total": 52848161,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1199",
+    "retrieved": "2026-08-27"
+  }
+}

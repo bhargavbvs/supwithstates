@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-42-banda",
+  "constituency": {
+    "number": 42,
+    "name": "Banda",
+    "district": "Sagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Veerendra Singh Lodhi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Farmer, Retd. Teacher, Machinery rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate (Social science) in 1998 from Rajiv Gandhi Govt. College Banda, Dist. sagar , Diploma D.Ed. 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -55843653,
+      "immovable": 83850000,
+      "total": 28006347,
+      "liabilities": 809273
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=23",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "west-bengal",
+  "name": "West Bengal",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 294,
+  "district_count": 23,
+  "term": {
+    "start": "2026"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/WestBengal2026/",
+    "adr_serious_list": "https://www.myneta.info/WestBengal2026/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      87.85,
+      24.35
+    ],
+    "zoom": 6
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-37-kancheepuram",
+  "constituency": {
+    "number": 37,
+    "name": "Kancheepuram",
+    "district": "Kanchipuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R.V. Ranjithkumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Petrol Pump, Chicken Farming, Real Estate Commission Agent",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Tamilnadu Open University 2015"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 43311137,
+      "immovable": 129475500,
+      "total": 172786636,
+      "liabilities": 25654000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=398",
+    "retrieved": "2026-08-27"
+  }
+}

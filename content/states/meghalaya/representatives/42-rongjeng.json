@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-42-rongjeng",
+  "constituency": {
+    "number": 42,
+    "name": "Rongjeng",
+    "district": "East G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jim M Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Last Sitting M.L.A. of the state of Meghalaya",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed under N.E.H.U through B.Ed. College, Tura Rongkhon in 2000, Bachelor of Arts under N.E.H.U. through St. Edmunds College Shillong in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4373045,
+      "immovable": 9900000,
+      "total": 14273046,
+      "liabilities": 256395
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6770",
+    "retrieved": "2026-08-27"
+  }
+}

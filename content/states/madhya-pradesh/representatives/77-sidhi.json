@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-77-sidhi",
+  "constituency": {
+    "number": 77,
+    "name": "Sidhi",
+    "district": "Sidhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Riti Pathak",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Agriculture and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "L.L.B. from Awdhesh Pratap Singh University Rewa Year 2002 , M.A. ffrom Awdhesh Pratap Singh University Rewa Year 1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18956157,
+      "immovable": 63191000,
+      "total": 82147157,
+      "liabilities": 17643597
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=429",
+    "retrieved": "2026-08-27"
+  }
+}

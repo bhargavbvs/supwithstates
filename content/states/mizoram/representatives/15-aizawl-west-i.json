@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-15-aizawl-west-i",
+  "constituency": {
+    "number": 15,
+    "name": "Aizawl West-I",
+    "district": "Aizawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tbc Lalvenchhunga",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Ex- Serviceman",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSLC from Mizoram Board of School Education in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1593903,
+      "immovable": 6500000,
+      "total": 8093905,
+      "liabilities": 113317
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=42",
+    "retrieved": "2026-08-27"
+  }
+}

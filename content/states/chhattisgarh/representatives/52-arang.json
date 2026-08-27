@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-52-arang",
+  "constituency": {
+    "number": 52,
+    "name": "Arang",
+    "district": "Raipur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Guru Khushwant Saheb",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Agriculture & Transport",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Tech. From Max University Gullu Arang, Raipur in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12681835,
+      "immovable": 8550000,
+      "total": 20871835,
+      "liabilities": 12522149
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=311",
+    "retrieved": "2026-08-27"
+  }
+}

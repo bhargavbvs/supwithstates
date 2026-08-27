@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-47-dharsiwa",
+  "constituency": {
+    "number": 47,
+    "name": "Dharsiwa",
+    "district": "Raipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anuj Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Actor, Film Producer, Content Creator, Singer, Musician, Youtuber",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.A. and M.A. (History), Government Chhattisgarh University Raipur, Year 1996 and 1998, Higher Secondary, Government Bahu. Higher Secondary School, Bhatapara, Year 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25491908,
+      "immovable": 56500000,
+      "total": 81967913,
+      "liabilities": 5169701
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=430",
+    "retrieved": "2026-08-27"
+  }
+}

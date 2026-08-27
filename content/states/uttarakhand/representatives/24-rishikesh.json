@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-24-rishikesh",
+  "constituency": {
+    "number": 24,
+    "name": "Rishikesh",
+    "district": "Dehrad@n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prem Chand Aggarwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Salary, Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com in 1986 & LLB in 1984 From Hemvati Nandan Bahuguna University Srinagar Garhwal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5688527,
+      "immovable": 44700000,
+      "total": 50388527,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=91",
+    "retrieved": "2026-08-27"
+  }
+}

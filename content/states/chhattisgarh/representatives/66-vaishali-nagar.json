@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-66-vaishali-nagar",
+  "constituency": {
+    "number": 66,
+    "name": "Vaishali Nagar",
+    "district": "Durg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rikesh Sen",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Social Worker, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Passed from BSP Higher Secondary School Sec-1, Bhilai in 1997"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1374349,
+      "immovable": 11000000,
+      "total": 12374351,
+      "liabilities": 791666
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=404",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-66-mandar",
+  "constituency": {
+    "number": 66,
+    "name": "Mandar",
+    "district": "Ranchi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shilpi Neha Tirkey",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 31,
+    "profession": "Sitting Member of Legislative Assembly 66-Mandar",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graduation -Diploma in Marketing Communication St Xavier s College Mumbai 2015, Graduation Business Adminstration Christ University Banglore 2013"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18945844,
+      "immovable": 110000,
+      "total": 19055845,
+      "liabilities": 176951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=353",
+    "retrieved": "2026-08-27"
+  }
+}

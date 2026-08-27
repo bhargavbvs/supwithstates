@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-108-udhagamandalam",
+  "constituency": {
+    "number": 108,
+    "name": "Udhagamandalam",
+    "district": "The Nilgiris",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhojarajan.M",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 79,
+    "profession": "Planter/ Business/ Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from Mardas Law College, Chennai In 1967-1969, Diploma in Criminology Madras Medical College, Chennai In - 1970, Bachelore of Arts Ooty Arts College In 1964-1967."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50270796,
+      "immovable": 124700000,
+      "total": 174970796,
+      "liabilities": 17022417
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1298",
+    "retrieved": "2026-08-27"
+  }
+}

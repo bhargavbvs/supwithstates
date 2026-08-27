@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-55-damoh",
+  "constituency": {
+    "number": 55,
+    "name": "Damoh",
+    "district": "Damoh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayant Malaiya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 76,
+    "profession": "Political and Social Worker, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Jabalpur University, Jabalpur In 1968"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 116635823,
+      "immovable": 281662076,
+      "total": 398297899,
+      "liabilities": 4744851
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=675",
+    "retrieved": "2026-08-27"
+  }
+}

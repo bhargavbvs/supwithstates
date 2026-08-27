@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-95-paramathi-velur",
+  "constituency": {
+    "number": 95,
+    "name": "Paramathi-Velur",
+    "district": "Namakkal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sekar S",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Politics , Civil Engineering , Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "DCE, Govt Higher Secondary School Pandamangalam -March-1987 SCSM polytechnic Collage Mohanur May-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10547833,
+      "immovable": 15745000,
+      "total": 26292836,
+      "liabilities": 3260344
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1130",
+    "retrieved": "2026-08-27"
+  }
+}

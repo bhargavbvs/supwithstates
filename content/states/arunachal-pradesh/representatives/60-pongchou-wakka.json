@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-60-pongchou-wakka",
+  "constituency": {
+    "number": 60,
+    "name": "Pongchou-Wakka",
+    "district": "Longding",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Honchun Ngandam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Politician/Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Indira Gandhi Govt. College, Tezu Lohit District, Arunachal Pradesh in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 109621297,
+      "immovable": 57000000,
+      "total": 166621301,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=68",
+    "retrieved": "2026-08-27"
+  }
+}

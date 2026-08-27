@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-2-pernem",
+  "constituency": {
+    "number": 2,
+    "name": "Pernem",
+    "district": "North Goa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pravin Prabhakar Arlekar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Mark Fernandes Memorial High School Goa Board in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45122007,
+      "immovable": 3000000,
+      "total": 47332007,
+      "liabilities": 4716144
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=131",
+    "retrieved": "2026-08-27"
+  }
+}

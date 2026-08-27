@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-11-jaswan-pragpur",
+  "constituency": {
+    "number": 11,
+    "name": "Jaswan-Pragpur",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bikram Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. Sc. From HPU Shimla in 1986-87 & B.Ed. from H.P.U. Shimla in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8161083,
+      "immovable": 16000000,
+      "total": 24160925,
+      "liabilities": 5420181
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=13",
+    "retrieved": "2026-08-27"
+  }
+}

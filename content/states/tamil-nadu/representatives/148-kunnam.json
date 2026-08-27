@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-148-kunnam",
+  "constituency": {
+    "number": 148,
+    "name": "Kunnam",
+    "district": "Perambalur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sivasankar. S.S",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. From Annamalai University Chidambaram Year 1991"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75378458,
+      "immovable": 106487375,
+      "total": 181865853,
+      "liabilities": 25762635
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1183",
+    "retrieved": "2026-08-27"
+  }
+}

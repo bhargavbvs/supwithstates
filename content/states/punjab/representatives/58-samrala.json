@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-58-samrala",
+  "constituency": {
+    "number": 58,
+    "name": "Samrala",
+    "district": "Ludhiana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagtar Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Agriculturist and Businessaman",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed From Malwa High School Bondali Samarla in the Year 1997 from Punjab School Education Board"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4391946,
+      "immovable": 12000000,
+      "total": 16391946,
+      "liabilities": 947000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1202",
+    "retrieved": "2026-08-27"
+  }
+}

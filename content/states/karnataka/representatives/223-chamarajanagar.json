@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-223-chamarajanagar",
+  "constituency": {
+    "number": 223,
+    "name": "Chamarajanagar",
+    "district": "Ch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C. Puttarangashetty",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculture and business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A completed From Mahadeshwara College Kollegala in 1981-82 Mysore University"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12013834,
+      "immovable": 129456313,
+      "total": 141470148,
+      "liabilities": 216800500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7175",
+    "retrieved": "2026-08-27"
+  }
+}

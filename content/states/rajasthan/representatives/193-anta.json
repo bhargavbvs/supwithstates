@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-193-anta",
+  "constituency": {
+    "number": 193,
+    "name": "Anta",
+    "district": "Baran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pramod Jain (Bhaya)",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Political, Social Worker, Pension, Rent, Agriculture, Interest",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary form Secondary Education Board, Madhya Pradesh Bhopal in 1981"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 179720377,
+      "immovable": 382407800,
+      "total": 562060677,
+      "liabilities": 222232061
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1964",
+    "retrieved": "2026-08-27"
+  }
+}

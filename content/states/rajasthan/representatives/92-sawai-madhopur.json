@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-92-sawai-madhopur",
+  "constituency": {
+    "number": 92,
+    "name": "Sawai Madhopur",
+    "district": "Sawai Madhopur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kirodi Lal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Agriculture, Rajaya Sabha Salary and Allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS From Sardar Medical College Bikaner Rajasthan University in 1977-78"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 32411319,
+      "immovable": 5200000,
+      "total": 37611319,
+      "liabilities": 5700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=396",
+    "retrieved": "2026-08-27"
+  }
+}

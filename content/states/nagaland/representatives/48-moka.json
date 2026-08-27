@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-48-moka",
+  "constituency": {
+    "number": 48,
+    "name": "Moka",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "A Nyamnyei Konyak",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Matric Appeared From Govt. High School Year 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1618369,
+      "immovable": 58211468,
+      "total": 59829837,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6896",
+    "retrieved": "2026-08-27"
+  }
+}

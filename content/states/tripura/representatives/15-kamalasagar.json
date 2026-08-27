@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-15-kamalasagar",
+  "constituency": {
+    "number": 15,
+    "name": "Kamalasagar",
+    "district": "Sepahijala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Antara Sarkar Deb",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Examination Passed from Tripura Board of Secondary Education in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73647,
+      "immovable": 0,
+      "total": 73647,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7031",
+    "retrieved": "2026-08-27"
+  }
+}

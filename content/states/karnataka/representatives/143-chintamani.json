@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-143-chintamani",
+  "constituency": {
+    "number": 143,
+    "name": "Chintamani",
+    "district": "Chikkaball",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr M C Sudhakar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Ex MLA & Partner in Anjani Infra, Partnership Firm",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Dental Surgeon MDS (Prosthodontics) from A B Sheety Memorial Institute of Dental Sciences, Mangalore University In 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 66286129,
+      "immovable": 591964523,
+      "total": 655422193,
+      "liabilities": 26871536
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7920",
+    "retrieved": "2026-08-27"
+  }
+}

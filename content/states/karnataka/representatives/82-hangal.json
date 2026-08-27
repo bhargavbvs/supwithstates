@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-82-hangal",
+  "constituency": {
+    "number": 82,
+    "name": "Hangal",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mane Srinivas",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.com Degree from Janardan Rai Nagar Rajasthan Vidhyapeeth University Udaipur in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75042615,
+      "immovable": 26340481,
+      "total": 101433096,
+      "liabilities": 30342985
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7286",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-99-pushkar",
+  "constituency": {
+    "number": 99,
+    "name": "Pushkar",
+    "district": "Ajmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Salary from Rajasthan Vidhan Sabha",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Bagwant University Ajmer in 2020, B.A. (Hons) from Govt. College Ajmer in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14318314,
+      "immovable": 22926000,
+      "total": 36202528,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=10",
+    "retrieved": "2026-08-27"
+  }
+}

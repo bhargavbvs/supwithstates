@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-13-pughoboto",
+  "constituency": {
+    "number": 13,
+    "name": "Pughoboto",
+    "district": "Zunheboto",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr Sukhato A Sema",
+    "election": "2023",
+    "elected_party": "Lok Janshakti Party(Ram Vilas)",
+    "current_party": "Lok Janshakti Party(Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Medicine Doctor (M.D) (Gold Medalist) from AIIMS, New Delhi in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 113609705,
+      "immovable": 1488596820,
+      "total": 1601631490,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6875",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-111-merta",
+  "constituency": {
+    "number": 111,
+    "name": "Merta",
+    "district": "Nagaur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Laxman Ram",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Labour",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Govt. Open School Education Institute"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 556827,
+      "immovable": 3774000,
+      "total": 4330827,
+      "liabilities": 3056101
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=313",
+    "retrieved": "2026-08-27"
+  }
+}

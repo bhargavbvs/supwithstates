@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-10-majlishpur",
+  "constituency": {
+    "number": 10,
+    "name": "Majlishpur",
+    "district": "West Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sushanta Chowdhury",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor in Business Administration (BBA) In 2003 from Guwahati University, Diploma in Information Technology in 2004 from Sikkim Manipur University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7407229,
+      "immovable": 0,
+      "total": 7564121,
+      "liabilities": 1640690
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7048",
+    "retrieved": "2026-08-27"
+  }
+}

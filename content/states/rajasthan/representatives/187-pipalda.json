@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-187-pipalda",
+  "constituency": {
+    "number": 187,
+    "name": "Pipalda",
+    "district": "Kota",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chetan Patel Kolana",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 32,
+    "profession": "Agriculture and Rent Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Tech and B.Tech From Noida University, Noida UP in 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10907718,
+      "immovable": 54191999,
+      "total": 65099717,
+      "liabilities": 392719
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=494",
+    "retrieved": "2026-08-27"
+  }
+}

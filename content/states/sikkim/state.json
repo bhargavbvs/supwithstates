@@ -1,0 +1,25 @@
+{
+  "slug": "sikkim",
+  "name": "Sikkim",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 31,
+  "district_count": 6,
+  "term": {
+    "start": "2024"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Sikkim2024/",
+    "adr_serious_list": "https://www.myneta.info/Sikkim2024/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      88.43,
+      27.33
+    ],
+    "zoom": 9
+  }
+}

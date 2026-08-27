@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-65-wadakkanchery",
+  "constituency": {
+    "number": 65,
+    "name": "Wadakkanchery",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Xavier Chittilappilly",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "SSLC (Failed) Govt. Boys High School Wadakkanchery 1985-86"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 4041197,
+      "immovable": 2825000,
+      "total": 6866197,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=296",
+    "retrieved": "2026-08-27"
+  }
+}

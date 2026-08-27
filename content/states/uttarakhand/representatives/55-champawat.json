@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-55-champawat",
+  "constituency": {
+    "number": 55,
+    "name": "Champawat",
+    "district": "Champ>wat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pushkar Singh Dhami",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Salary from State Government",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of HRM & IR from Lucknow University in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28238080,
+      "immovable": 18280000,
+      "total": 46478080,
+      "liabilities": 4783461
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=758",
+    "retrieved": "2026-08-27"
+  }
+}

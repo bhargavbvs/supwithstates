@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-53-krishnagiri",
+  "constituency": {
+    "number": 53,
+    "name": "Krishnagiri",
+    "district": "Krishnagiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukundhan.P",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Lawyer And Wedding Hall Rental",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., L.L.B - Bangalore institute of Legal studies. Bangalore, 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6567650,
+      "immovable": 80000000,
+      "total": 86567650,
+      "liabilities": 5152358
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=780",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-80-sirsi",
+  "constituency": {
+    "number": 80,
+    "name": "Sirsi",
+    "district": "Uttara Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhimanna T. Naik",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Agriculture ,business",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th std govt school besalakoppa ,sirsi ,uttara kannada 1984-85"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 248446331,
+      "immovable": 976316300,
+      "total": 1229747533,
+      "liabilities": 691398368
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7346",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-106-nimapara",
+  "constituency": {
+    "number": 106,
+    "name": "Nimapara",
+    "district": "Puri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pravati Parida",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Social Worke",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Public Admin) Year 2005 LLB from Utkal University Year 1995, Enrolled as Advocate Odisha High Court Year 1995"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19931181,
+      "immovable": 13127760,
+      "total": 36489981,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1231",
+    "retrieved": "2026-08-27"
+  }
+}

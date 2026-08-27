@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-41-khallari",
+  "constituency": {
+    "number": 41,
+    "name": "Khallari",
+    "district": "Mahasamund",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dwarikadhish Yadav",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Paseed"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1114957,
+      "immovable": 10516009,
+      "total": 17630967,
+      "liabilities": 297827
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=449",
+    "retrieved": "2026-08-27"
+  }
+}

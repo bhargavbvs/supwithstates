@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-7-batala",
+  "constituency": {
+    "number": 7,
+    "name": "Batala",
+    "district": "Gurdaspur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amansher Singh (Shery Kalsi)",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Physiotherapist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from PSEB In 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -234500,
+      "immovable": 39229284,
+      "total": 38994784,
+      "liabilities": 1161530
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=490",
+    "retrieved": "2026-08-27"
+  }
+}

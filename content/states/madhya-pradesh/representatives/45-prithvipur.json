@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-45-prithvipur",
+  "constituency": {
+    "number": 45,
+    "name": "Prithvipur",
+    "district": "Niwari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nitendra Singh Rathore",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Director of RM The Hotels and Resorts Pvt. Ltd. Company",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Intermediate from Board of Secondary Education Delhi in 1997, Hotel Management Diploma from National Council for Hotel Management and Catering Technology Minstary of Tourism Govt. of India Liverery Avenue Pusa Complex, New Delhi 110012 in 1999-2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 84878466,
+      "immovable": 167507328,
+      "total": 252385794,
+      "liabilities": 49720533
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=80",
+    "retrieved": "2026-08-27"
+  }
+}

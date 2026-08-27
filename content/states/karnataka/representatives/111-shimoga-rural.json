@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-111-shimoga-rural",
+  "constituency": {
+    "number": 111,
+    "name": "Shimoga Rural",
+    "district": "Shivamogga",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sharada Puryanaik",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "PETROL BANK PARTNERSHIP",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "1st PUC from DVS Senior College Shimogga 1987-88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12898390,
+      "immovable": 17200000,
+      "total": 30098390,
+      "liabilities": 13903581
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7706",
+    "retrieved": "2026-08-27"
+  }
+}

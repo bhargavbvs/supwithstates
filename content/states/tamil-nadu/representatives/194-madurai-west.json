@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-194-madurai-west",
+  "constituency": {
+    "number": 194,
+    "name": "Madurai West",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thangapandi Sr",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Farming and Vegetable Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed from Bharathiya Corporation Higher Secodary Schhol, T.P Koil, Madurai in 1994"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14529621,
+      "immovable": 9907636,
+      "total": 24437257,
+      "liabilities": 8669234
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=951",
+    "retrieved": "2026-08-27"
+  }
+}

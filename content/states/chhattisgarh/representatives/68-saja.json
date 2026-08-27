@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-68-saja",
+  "constituency": {
+    "number": 68,
+    "name": "Saja",
+    "district": "Durg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ishwar Sahu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "5th pass from Primary school biranpur Saja in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1660270,
+      "immovable": 0,
+      "total": 1660270,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=520",
+    "retrieved": "2026-08-27"
+  }
+}

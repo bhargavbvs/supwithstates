@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-123-kundara",
+  "constituency": {
+    "number": 123,
+    "name": "Kundara",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P. C. Vishnunadh",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Political Activity, MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Devaswom Board College Sathamkotta Kerala University"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4688250,
+      "immovable": 2650000,
+      "total": 7338251,
+      "liabilities": 2171530
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=144",
+    "retrieved": "2026-08-27"
+  }
+}

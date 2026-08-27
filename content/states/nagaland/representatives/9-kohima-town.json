@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-9-kohima-town",
+  "constituency": {
+    "number": 9,
+    "name": "Kohima Town",
+    "district": "Kohima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr Tseilhoutuo Rhutso (Dr Ato)",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Surgeon",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Surgery from Regional Institute of Medical Science, Imphal, Manipur, Manipur University in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4373339,
+      "immovable": 201700000,
+      "total": 221733638,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6798",
+    "retrieved": "2026-08-27"
+  }
+}

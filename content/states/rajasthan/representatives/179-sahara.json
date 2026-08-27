@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-179-sahara",
+  "constituency": {
+    "number": 179,
+    "name": "Sahara",
+    "district": "Bhilwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ladu Lal Pitliya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Readymade Garments",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from Secondary Education Board Rajasthan Ajmer in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 68193090,
+      "immovable": 139500000,
+      "total": 207693093,
+      "liabilities": 59536907
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=371",
+    "retrieved": "2026-08-27"
+  }
+}

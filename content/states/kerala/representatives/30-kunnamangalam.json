@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-30-kunnamangalam",
+  "constituency": {
+    "number": 30,
+    "name": "Kunnamangalam",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.A. Razak Master",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3264659,
+      "immovable": 5650000,
+      "total": 8914659,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=145",
+    "retrieved": "2026-08-27"
+  }
+}

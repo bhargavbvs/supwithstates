@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-84-narayanpur",
+  "constituency": {
+    "number": 84,
+    "name": "Narayanpur",
+    "district": "Narayanpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kedar Kashyap",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Agricultural Work, Honorarium C.G.",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Hindi) 1999 Pandit Ravishankar Shukla Universtiy Raipur."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14498085,
+      "immovable": 21464240,
+      "total": 35962325,
+      "liabilities": 2578264
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=68",
+    "retrieved": "2026-08-27"
+  }
+}

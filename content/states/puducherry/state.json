@@ -1,0 +1,25 @@
+{
+  "slug": "puducherry",
+  "name": "Puducherry",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 30,
+  "district_count": 4,
+  "term": {
+    "start": "2026"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Puducherry2026/",
+    "adr_serious_list": "https://www.myneta.info/Puducherry2026/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      78.92,
+      13.79
+    ],
+    "zoom": 6
+  }
+}

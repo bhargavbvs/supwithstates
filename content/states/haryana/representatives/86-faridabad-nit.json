@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-86-faridabad-nit",
+  "constituency": {
+    "number": 86,
+    "name": "Faridabad Nit",
+    "district": "Faridabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Kumar Phagna",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Property Consultant",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering From Govt. Polytechnic Jhajjar, State Board of Technical, Education Haryana, Year-1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7144974,
+      "immovable": 43000000,
+      "total": 50144974,
+      "liabilities": 9900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=567",
+    "retrieved": "2026-08-27"
+  }
+}

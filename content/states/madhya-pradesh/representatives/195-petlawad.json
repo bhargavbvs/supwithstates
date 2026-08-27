@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-195-petlawad",
+  "constituency": {
+    "number": 195,
+    "name": "Petlawad",
+    "district": "Jhabua",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nirmala Dileepsingh Bhuria",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture & Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate , Vikram University Ujjain year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6873409,
+      "immovable": 16000000,
+      "total": 22873409,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=371",
+    "retrieved": "2026-08-27"
+  }
+}

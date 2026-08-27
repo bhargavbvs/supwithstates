@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-43-baghmara",
+  "constituency": {
+    "number": 43,
+    "name": "Baghmara",
+    "district": "Dhanbad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shatrughan Mahto",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Ex-Employee of Bharat Coking Coal Limited and Currently Self Employed",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate of Arts from Katrash College Katras Bihar Intermediatie Education Council, Patna in the Year 1992"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 111096603,
+      "immovable": 24872000,
+      "total": 135968603,
+      "liabilities": 82333092
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=1022",
+    "retrieved": "2026-08-27"
+  }
+}

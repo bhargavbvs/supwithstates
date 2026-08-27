@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-73-moga",
+  "constituency": {
+    "number": 73,
+    "name": "Moga",
+    "district": "Moga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Amandeep Kaur Arora",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine and Bachelor of Surgery From Crimea State Medical University Ukraine in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12412545,
+      "immovable": 8000000,
+      "total": 20412545,
+      "liabilities": 4829756
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=204",
+    "retrieved": "2026-08-27"
+  }
+}

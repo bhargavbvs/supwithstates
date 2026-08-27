@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-42-arcot",
+  "constituency": {
+    "number": 42,
+    "name": "Arcot",
+    "district": "Ranipet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S.M.Sukumar",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Business and Property Rent",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC Pass, Govt. Higher Secondary School, Walajapet-1977"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 296639789,
+      "immovable": 175438720,
+      "total": 472078509,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=989",
+    "retrieved": "2026-08-27"
+  }
+}

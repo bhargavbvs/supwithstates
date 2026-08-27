@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-48-ambedkar-nagar",
+  "constituency": {
+    "number": 48,
+    "name": "Ambedkar Nagar",
+    "district": "South",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Ajay Dutt",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Self Employed, Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. from Amity Univesity UP in 2024"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55594426,
+      "immovable": 63700000,
+      "total": 119294435,
+      "liabilities": 2659574
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=77",
+    "retrieved": "2026-08-27"
+  }
+}

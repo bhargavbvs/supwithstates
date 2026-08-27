@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-169-nannilam",
+  "constituency": {
+    "number": 169,
+    "name": "Nannilam",
+    "district": "Thiruvarur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamaraj. R",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (History) - Annamalai University (2006)"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11008103,
+      "immovable": 13395000,
+      "total": 24403104,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1132",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-23-ramgarh",
+  "constituency": {
+    "number": 23,
+    "name": "Ramgarh",
+    "district": "Ramgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mamta Devi",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Jubilee College Bhurkunda, Vinoba Bhave University, Hazaribagh in the Year 2006"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 3,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7498907,
+      "immovable": 2700000,
+      "total": 11698907,
+      "liabilities": 1060000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=989",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-19-valpoi",
+  "constituency": {
+    "number": 19,
+    "name": "Valpoi",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishwajit Pratapsingh Rane",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. From Goa University, Year-1992 & PGDM From T.A. PAI Manipal Institute, Year-1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 62584107,
+      "immovable": 169226488,
+      "total": 231810596,
+      "liabilities": 116298925
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=177",
+    "retrieved": "2026-08-27"
+  }
+}

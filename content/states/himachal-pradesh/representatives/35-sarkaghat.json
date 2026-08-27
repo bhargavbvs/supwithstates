@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-35-sarkaghat",
+  "constituency": {
+    "number": 35,
+    "name": "Sarkaghat",
+    "district": "Mandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dalip Thakur",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Farming and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculatlon, passed in March, 1985, from Govt.SSS. Baldwara, under HPBOSE, Dharamshala, HP, Diploma in Draughtsman passed in July, 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1657050,
+      "immovable": 5165938,
+      "total": 6615239,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=341",
+    "retrieved": "2026-08-27"
+  }
+}

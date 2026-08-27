@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-51-fatikroy",
+  "constituency": {
+    "number": 51,
+    "name": "Fatikroy",
+    "district": "Unakoti",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sudhangshu Das",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (Hons.) from Tripura University, RKM Kailashahar in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6511964,
+      "immovable": 1200000,
+      "total": 7761964,
+      "liabilities": 1261582
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6848",
+    "retrieved": "2026-08-27"
+  }
+}

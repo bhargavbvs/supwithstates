@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-62-jaspur",
+  "constituency": {
+    "number": 62,
+    "name": "Jaspur",
+    "district": "Udham Singh Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adesh Singh Chauhan",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Uttrakhand Open University, Radhey Hari Govt. College in 2021"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9484408,
+      "immovable": 29827256,
+      "total": 39311664,
+      "liabilities": 3275976
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=185",
+    "retrieved": "2026-08-27"
+  }
+}

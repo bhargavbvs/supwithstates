@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-78-bari",
+  "constituency": {
+    "number": 78,
+    "name": "Bari",
+    "district": "Dhaulpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaswant Singh Gurjar",
+    "election": "2023",
+    "elected_party": "BSP",
+    "current_party": "BSP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculture and Property Rent",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed Government Secondary School City Kotwali Dhaulpur Rajasthan Year 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11700032,
+      "immovable": 115350000,
+      "total": 127050032,
+      "liabilities": 4700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=731",
+    "retrieved": "2026-08-27"
+  }
+}

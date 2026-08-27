@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-46-mon-town",
+  "constituency": {
+    "number": 46,
+    "name": "Mon Town",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Y Mankhao Konyak",
+    "election": "2023",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Nagaland University in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1363672,
+      "immovable": 0,
+      "total": 1363672,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6838",
+    "retrieved": "2026-08-27"
+  }
+}

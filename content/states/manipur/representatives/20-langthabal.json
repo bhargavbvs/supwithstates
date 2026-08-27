@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-20-langthabal",
+  "constituency": {
+    "number": 20,
+    "name": "Langthabal",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karam Shyam",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Worker/Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Textile Engineering from Govt. Central Textile Institute, Kanpur (Under Kanpur University) in 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12511077,
+      "immovable": 12850000,
+      "total": 25361077,
+      "liabilities": 6643366
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=52",
+    "retrieved": "2026-08-27"
+  }
+}

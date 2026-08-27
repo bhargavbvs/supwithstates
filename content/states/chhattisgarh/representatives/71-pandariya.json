@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-71-pandariya",
+  "constituency": {
+    "number": 71,
+    "name": "Pandariya",
+    "district": "Kawardha (Kabirdham)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhawna Bohra",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Social Work from IGNOU in 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64514940,
+      "immovable": 274125656,
+      "total": 338642624,
+      "liabilities": 60359046
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=91",
+    "retrieved": "2026-08-27"
+  }
+}

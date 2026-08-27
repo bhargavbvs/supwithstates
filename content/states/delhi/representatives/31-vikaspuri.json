@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-31-vikaspuri",
+  "constituency": {
+    "number": 31,
+    "name": "Vikaspuri",
+    "district": "West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pankaj Kumar Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 48,
+    "profession": "Doctor (Dentist), Social Services",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Dental Surgery (BDS) from Magadh University, Bodh Gaya Bihar in 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2906844,
+      "immovable": 46500000,
+      "total": 49406844,
+      "liabilities": 158688
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=124",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-35-hardwar-rural",
+  "constituency": {
+    "number": 35,
+    "name": "Hardwar Rural",
+    "district": "Haridw>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anupama Rawat",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Social Service & Practicing Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Law (LLM) from Kruksetra University in the year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64646477,
+      "immovable": 70000000,
+      "total": 134646476,
+      "liabilities": 2009250
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=485",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-58-dhamtari",
+  "constituency": {
+    "number": 58,
+    "name": "Dhamtari",
+    "district": "Dhamtari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Onkar Sahu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Photography",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed from Higher Secondary School V. K. Dhamtari Jila Dhamtari Year 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3653317,
+      "immovable": 12400000,
+      "total": 16053318,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=684",
+    "retrieved": "2026-08-27"
+  }
+}

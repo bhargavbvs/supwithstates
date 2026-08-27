@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-42-mahasamund",
+  "constituency": {
+    "number": 42,
+    "name": "Mahasamund",
+    "district": "Mahasamund",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yogeshwar Raju Sinha",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Rent and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Institute of Open and Distance Education Dr. C.V.Raman University Bilaspur 2017"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30657919,
+      "immovable": 92650000,
+      "total": 124057919,
+      "liabilities": 11464296
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=474",
+    "retrieved": "2026-08-27"
+  }
+}

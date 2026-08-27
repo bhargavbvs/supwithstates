@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-53-korei",
+  "constituency": {
+    "number": 53,
+    "name": "Korei",
+    "district": "Jajapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akash Dasnayak",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Social Service & Acting",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Capital Law College Bhubneswar Utkal University in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11074012,
+      "immovable": 6277000,
+      "total": 17351015,
+      "liabilities": 156210
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1066",
+    "retrieved": "2026-08-27"
+  }
+}

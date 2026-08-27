@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-56-dadri",
+  "constituency": {
+    "number": 56,
+    "name": "Dadri",
+    "district": "Charki Dadri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunil Satpal Sangwan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Retired Govt. Employee",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Govt. College Bhiwani, Maharshi Dayanad University, Rohtak, Year-1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11995670,
+      "immovable": 13800000,
+      "total": 25595670,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=131",
+    "retrieved": "2026-08-27"
+  }
+}

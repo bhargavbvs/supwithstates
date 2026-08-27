@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-38-adampur",
+  "constituency": {
+    "number": 38,
+    "name": "Adampur",
+    "district": "Jalandhar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sukhwinder Singh Kotli",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric From Govt. High School, Kotli Than Singh, PSEB in 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2366555,
+      "immovable": 1400000,
+      "total": 3766555,
+      "liabilities": 18894
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=274",
+    "retrieved": "2026-08-27"
+  }
+}

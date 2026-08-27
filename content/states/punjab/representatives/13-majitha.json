@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-13-majitha",
+  "constituency": {
+    "number": 13,
+    "name": "Majitha",
+    "district": "Amritsar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ganieve Kaur Majithia",
+    "election": "2022",
+    "elected_party": "SAD",
+    "current_party": "SAD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Business & Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from Jesus & Mary College, Delhi University in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64934996,
+      "immovable": 55777823,
+      "total": 120712819,
+      "liabilities": 13425853
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=222",
+    "retrieved": "2026-08-27"
+  }
+}

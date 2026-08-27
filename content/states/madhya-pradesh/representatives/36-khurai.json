@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-36-khurai",
+  "constituency": {
+    "number": 36,
+    "name": "Khurai",
+    "district": "Sagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhupendra Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Agriculture ,Milk dairy , Moon Marriage Hall",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB Dr. Harisingh Gaur Vishwavidyalay Sagar Year 1985 , BA Dr. Harisingh Gaur Vishwavidyalay Sagar Year 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69829198,
+      "immovable": 775364428,
+      "total": 845193626,
+      "liabilities": 232603691
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=7",
+    "retrieved": "2026-08-27"
+  }
+}

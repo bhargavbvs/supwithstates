@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-65-shirahatti",
+  "constituency": {
+    "number": 65,
+    "name": "Shirahatti",
+    "district": "Gadag",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr.Chandru Lamani",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD From ESI Post Graduate Medical Science & Research Bangalore-2018, Rajiv Gandhi Arogya Science University Karnataka"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10976406,
+      "immovable": 50507125,
+      "total": 61483532,
+      "liabilities": 40495379
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8292",
+    "retrieved": "2026-08-27"
+  }
+}

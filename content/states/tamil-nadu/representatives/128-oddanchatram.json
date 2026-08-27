@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-128-oddanchatram",
+  "constituency": {
+    "number": 128,
+    "name": "Oddanchatram",
+    "district": "Dindigul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sakkarapani. R",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 64,
+    "profession": "Agriculture,Indian Oil Corporation Ltd,Retail Sales",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "(B.A., Economics),American College Madurai,Madurai Kamarajar University,Madurai-1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 58712340,
+      "immovable": 97852631,
+      "total": 156514972,
+      "liabilities": 22772697
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=909",
+    "retrieved": "2026-08-27"
+  }
+}

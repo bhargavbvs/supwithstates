@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-71-nangal-chaudhry",
+  "constituency": {
+    "number": 71,
+    "name": "Nangal Chaudhry",
+    "district": "Mahendragarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manju Choudhary",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Board of School Education, Ajmer, (Raj.), Year-1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4361198,
+      "immovable": 202000000,
+      "total": 206361198,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=521",
+    "retrieved": "2026-08-27"
+  }
+}

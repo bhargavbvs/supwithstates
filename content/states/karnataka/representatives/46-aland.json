@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-46-aland",
+  "constituency": {
+    "number": 46,
+    "name": "Aland",
+    "district": "Kalaburagi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhojaraj",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Social service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Arts- Karnataka University Dharwad in 1971-72, Bachelor of Law- Karnataka University Dharwad, 1974-75"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12736616,
+      "immovable": 29000000,
+      "total": 41736617,
+      "liabilities": 4821900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6761",
+    "retrieved": "2026-08-27"
+  }
+}

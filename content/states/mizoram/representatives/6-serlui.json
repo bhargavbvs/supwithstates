@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-6-serlui",
+  "constituency": {
+    "number": 6,
+    "name": "Serlui",
+    "district": "Kolasib",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalrinsanga Ralte",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Politician, MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Aizawl West College, Aizawl, North Eastern Hills University (NEHU) in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6770300,
+      "immovable": 1800000,
+      "total": 8570300,
+      "liabilities": 2099257
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=10",
+    "retrieved": "2026-08-27"
+  }
+}

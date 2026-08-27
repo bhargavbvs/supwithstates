@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-29-beypore",
+  "constituency": {
+    "number": 29,
+    "name": "Beypore",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P.A Mohamed Riyas",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Current Public Works, Tourism Vakappoo Manthi",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B From Govt. Law College, Kozhikode University of Calicut Year 2002`"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 6,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9094078,
+      "immovable": 13968000,
+      "total": 23062078,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=43",
+    "retrieved": "2026-08-27"
+  }
+}

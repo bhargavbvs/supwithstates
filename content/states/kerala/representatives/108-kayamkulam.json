@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-108-kayamkulam",
+  "constituency": {
+    "number": 108,
+    "name": "Kayamkulam",
+    "district": "Alappuzha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.M.Liju",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Lawyer & Legal Professional",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM (Latin Legum Magister) Kuvempu University, Karnataka Course Completed 2020"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5387570,
+      "immovable": 2426000,
+      "total": 7812147,
+      "liabilities": 3686654
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=695",
+    "retrieved": "2026-08-27"
+  }
+}

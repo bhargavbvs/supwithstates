@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-15-wangkhei",
+  "constituency": {
+    "number": 15,
+    "name": "Wangkhei",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thangjam Arunkumar",
+    "election": "2022",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B.From ILS Law College Pune, Pune University Year 1992 , B.A. Christ College Banglore 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23908589,
+      "immovable": 5150000,
+      "total": 29058589,
+      "liabilities": 16937078
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=135",
+    "retrieved": "2026-08-27"
+  }
+}

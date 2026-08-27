@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-152-vriddhachalam",
+  "constituency": {
+    "number": 152,
+    "name": "Vriddhachalam",
+    "district": "Cuddalore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Premallatha Vijayakant",
+    "election": "2026",
+    "elected_party": "Desiya Murpokku Dravida Kazhagam",
+    "current_party": "Desiya Murpokku Dravida Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Agriculture / Public Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from Auxilium Arts and Science College, Katpadi, Vellore, Madras University in 1986"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 311896716,
+      "immovable": 633880043,
+      "total": 945776764,
+      "liabilities": 814549655
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1331",
+    "retrieved": "2026-08-27"
+  }
+}

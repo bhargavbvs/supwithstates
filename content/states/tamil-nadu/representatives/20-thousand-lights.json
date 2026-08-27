@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-20-thousand-lights",
+  "constituency": {
+    "number": 20,
+    "name": "Thousand Lights",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prabhakar.J.C.D",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 73,
+    "profession": "BA.BL- Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.L. From Madras Law College In 1977 & B.A. From University of Madras (Loyola College) In 1974"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1328028,
+      "immovable": 76156000,
+      "total": 77480858,
+      "liabilities": 25120360
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=863",
+    "retrieved": "2026-08-27"
+  }
+}

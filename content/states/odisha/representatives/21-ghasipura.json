@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-21-ghasipura",
+  "constituency": {
+    "number": 21,
+    "name": "Ghasipura",
+    "district": "Keonjhar (Kendujhar)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Badri Narayan Patra",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 80,
+    "profession": "Public Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.in Economics in 1968 from Utkal University, Vanivihar, Bhubneswar from Revenshaw College, Cuttack"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13779844,
+      "immovable": 19500000,
+      "total": 33279844,
+      "liabilities": 3300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=696",
+    "retrieved": "2026-08-27"
+  }
+}

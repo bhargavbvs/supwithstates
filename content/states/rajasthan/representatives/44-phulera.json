@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-44-phulera",
+  "constituency": {
+    "number": 44,
+    "name": "Phulera",
+    "district": "Jaipur(Gramin)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vidhyadhar Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (History) from Rajasthan University, Jaipur in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 306320855,
+      "immovable": 400770000,
+      "total": 707090855,
+      "liabilities": 130850842
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=336",
+    "retrieved": "2026-08-27"
+  }
+}

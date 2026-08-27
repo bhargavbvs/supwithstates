@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-112-degana",
+  "constituency": {
+    "number": 112,
+    "name": "Degana",
+    "district": "Nagaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Postgraduation from Govt. Post graduation college Ajmer in 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17179192,
+      "immovable": 106272000,
+      "total": 123451192,
+      "liabilities": 209293
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=460",
+    "retrieved": "2026-08-27"
+  }
+}

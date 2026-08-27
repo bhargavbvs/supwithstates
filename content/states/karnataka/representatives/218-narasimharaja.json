@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-218-narasimharaja",
+  "constituency": {
+    "number": 218,
+    "name": "Narasimharaja",
+    "district": "Mys#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tanveer Sait",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Legislator, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Business Management from University of Mysuru, Vidya Vardhaka College of Commerce and Management, Mysuru in 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17165117,
+      "immovable": 75000000,
+      "total": 90426367,
+      "liabilities": 4498975
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8195",
+    "retrieved": "2026-08-27"
+  }
+}

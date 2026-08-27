@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-198-kukshi",
+  "constituency": {
+    "number": 198,
+    "name": "Kukshi",
+    "district": "Dhar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Baghel Surendra Singh Honey",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Agriculture & Business, Former MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com Baraktulla University Bhopal MP"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17949343,
+      "immovable": 29575501,
+      "total": 47524844,
+      "liabilities": 24060400
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=324",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-50-barachana",
+  "constituency": {
+    "number": 50,
+    "name": "Barachana",
+    "district": "Jajapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amar Kumar Nayak",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Business and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MFC- Master of FInance & Control, Utkal University Bhubaneswar, Passed in yr- 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8262305,
+      "immovable": 15800000,
+      "total": 23241029,
+      "liabilities": 1567508
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=967",
+    "retrieved": "2026-08-27"
+  }
+}

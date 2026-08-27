@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-34-balh",
+  "constituency": {
+    "number": 34,
+    "name": "Balh",
+    "district": "Mandi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Inder Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "MLA 34 Balh",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from HP Board of School Education In 1981 & Diploma in Surveyor from ITI, Shahpur HP In 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13725996,
+      "immovable": 14130138,
+      "total": 34787034,
+      "liabilities": 5683462
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=6",
+    "retrieved": "2026-08-27"
+  }
+}

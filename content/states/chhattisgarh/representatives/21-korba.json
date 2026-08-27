@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-21-korba",
+  "constituency": {
+    "number": 21,
+    "name": "Korba",
+    "district": "Korba",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lakhanlal Devangan",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. Ist Year from Dr. C.V. Raman Univeristy Bilaspur in 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2696302,
+      "immovable": 3340000,
+      "total": 5866304,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=455",
+    "retrieved": "2026-08-27"
+  }
+}

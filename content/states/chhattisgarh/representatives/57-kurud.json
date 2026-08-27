@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-57-kurud",
+  "constituency": {
+    "number": 57,
+    "name": "Kurud",
+    "district": "Dhamtari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Chandrakar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Farmer and Income From Home Property",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. hindi from Pt. Ravishanker University in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38428516,
+      "immovable": 105756212,
+      "total": 145293631,
+      "liabilities": 22559783
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=272",
+    "retrieved": "2026-08-27"
+  }
+}

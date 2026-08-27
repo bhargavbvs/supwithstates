@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-8-ambattur",
+  "constituency": {
+    "number": 8,
+    "name": "Ambattur",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balamurugan.G",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Construction Industry",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "10th standard, 1998 - Velammal Matriculation Higher Secondary School, Mukappeer 2. ADCA Intelegence for generating advanced computer Education, 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18532083,
+      "immovable": 5500000,
+      "total": 24032083,
+      "liabilities": 343512
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=253",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-10-tiruvottiyur",
+  "constituency": {
+    "number": 10,
+    "name": "Tiruvottiyur",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Senthil Kumar. N",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Sri Venkateswara University In 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11572972,
+      "immovable": 5500000,
+      "total": 14733313,
+      "liabilities": 1311935
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1041",
+    "retrieved": "2026-08-27"
+  }
+}

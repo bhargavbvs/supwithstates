@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-111-balaghat",
+  "constituency": {
+    "number": 111,
+    "name": "Balaghat",
+    "district": "Balaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anubha Munjare",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Rani Durgavati University Jabalpur 1987, B.Ed From Rani Durgavati University Jabalpur 1989"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 3,
+      "note": null
+    },
+    "assets": {
+      "movable": 9679115,
+      "immovable": 42250000,
+      "total": 51929115,
+      "liabilities": 2200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1046",
+    "retrieved": "2026-08-27"
+  }
+}

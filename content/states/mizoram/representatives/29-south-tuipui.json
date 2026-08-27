@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-29-south-tuipui",
+  "constituency": {
+    "number": 29,
+    "name": "South Tuipui",
+    "district": "Hnahthial",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jeje Lalpekhlua",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 32,
+    "profession": "Formal Professional Footballerr",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "BPP Equivalent Higher Secondary School Leaving Certificate from IGNOU in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24352646,
+      "immovable": 63400000,
+      "total": 87752646,
+      "liabilities": 3281400
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=102",
+    "retrieved": "2026-08-27"
+  }
+}

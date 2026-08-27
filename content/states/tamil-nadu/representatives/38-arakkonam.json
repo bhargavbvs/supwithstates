@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-38-arakkonam",
+  "constituency": {
+    "number": 38,
+    "name": "Arakkonam",
+    "district": "Ranipet",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "V. Gandhiraj",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Civil Contractor",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A (Discountinue) University of Madras Chennai, ITI (Electrican) Passed St John Bosco ITI Tiruvallur 1994-1996, 12th Standard Pass Adi Dravidar Government Boy`s Higher Secondary School Arakkonam 1992, 10th Standard Pass Adi Dravidar Government Boy`s High"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4216256,
+      "immovable": 32070600,
+      "total": 36286856,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=987",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-38-yadgir",
+  "constituency": {
+    "number": 38,
+    "name": "Yadgir",
+    "district": "Y",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Channareddy Patil Tunnur",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 75,
+    "profession": "Social Service, Business, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Bachelor of science from karnataka university Dharwad (in completed) in the 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 66514890,
+      "immovable": 45312500,
+      "total": 111827390,
+      "liabilities": 6745746
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7076",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-10-aizawl-north-i",
+  "constituency": {
+    "number": 10,
+    "name": "Aizawl North-I",
+    "district": "Aizawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vanlalhlana",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Anthropology) from NEHU in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9853500,
+      "immovable": 26500000,
+      "total": 36353500,
+      "liabilities": 2200387
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=113",
+    "retrieved": "2026-08-27"
+  }
+}

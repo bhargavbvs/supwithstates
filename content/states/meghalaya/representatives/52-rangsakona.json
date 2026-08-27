@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-52-rangsakona",
+  "constituency": {
+    "number": 52,
+    "name": "Rangsakona",
+    "district": "South West G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Subir Marak",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Civil Engineering From Shillong Polytechnic, Year-1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8472160,
+      "immovable": 8725000,
+      "total": 17227160,
+      "liabilities": 1316117
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7109",
+    "retrieved": "2026-08-27"
+  }
+}

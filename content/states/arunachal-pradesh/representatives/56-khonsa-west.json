@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-56-khonsa-west",
+  "constituency": {
+    "number": 56,
+    "name": "Khonsa West",
+    "district": "Tir>p",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chakat Aboh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Senior Secondary Examination from National Institute of Open Schooling, New Delhi in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11018815,
+      "immovable": 119775625,
+      "total": 127324358,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=39",
+    "retrieved": "2026-08-27"
+  }
+}

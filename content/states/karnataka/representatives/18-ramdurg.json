@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-18-ramdurg",
+  "constituency": {
+    "number": 18,
+    "name": "Ramdurg",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Pattan",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Social service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A , APS College basvangudi banglore 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9880658,
+      "immovable": 8000000,
+      "total": 17880658,
+      "liabilities": 3681430
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8247",
+    "retrieved": "2026-08-27"
+  }
+}

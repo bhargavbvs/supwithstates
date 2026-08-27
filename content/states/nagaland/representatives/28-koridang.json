@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-28-koridang",
+  "constituency": {
+    "number": 28,
+    "name": "Koridang",
+    "district": "Mokokchung",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Daochier I Imchen",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political Science from Amity University, Noida in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6267593,
+      "immovable": 22000000,
+      "total": 28267593,
+      "liabilities": 1706813
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6956",
+    "retrieved": "2026-08-27"
+  }
+}

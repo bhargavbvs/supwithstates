@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-22-datia",
+  "constituency": {
+    "number": 22,
+    "name": "Datia",
+    "district": "Datia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ghanshyam Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Agiculture, Pension, House Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Eco) From Kishori Raman College Mathura U.P. Agra University In 1976"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 659438,
+      "immovable": 208566666,
+      "total": 209226104,
+      "liabilities": 12993164
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2984",
+    "retrieved": "2026-08-27"
+  }
+}

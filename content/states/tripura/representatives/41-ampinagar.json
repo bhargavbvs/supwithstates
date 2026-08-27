@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-41-ampinagar",
+  "constituency": {
+    "number": 41,
+    "name": "Ampinagar",
+    "district": "Gomti",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pathan Lal Jamatia",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Education) From Tripura University, Year-2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1840453,
+      "immovable": 0,
+      "total": 1840453,
+      "liabilities": 331812
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6830",
+    "retrieved": "2026-08-27"
+  }
+}

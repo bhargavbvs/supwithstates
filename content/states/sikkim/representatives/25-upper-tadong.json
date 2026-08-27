@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-25-upper-tadong",
+  "constituency": {
+    "number": 25,
+    "name": "Upper Tadong",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G.T. Dhungel",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineer (Civil) from Assam Engineering College in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9776343,
+      "immovable": 75763198,
+      "total": 85539544,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=132",
+    "retrieved": "2026-08-27"
+  }
+}

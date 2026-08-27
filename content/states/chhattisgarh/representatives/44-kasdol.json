@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-44-kasdol",
+  "constituency": {
+    "number": 44,
+    "name": "Kasdol",
+    "district": "Baloda Bazar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Sahu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A. From Kalinga University, Raipur in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3862397,
+      "immovable": 651000,
+      "total": 4513398,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1019",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-70-kaman",
+  "constituency": {
+    "number": 70,
+    "name": "Kaman",
+    "district": "Deeg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nauksham",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 33,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A Fashion Media Promotions and Commun."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 270000,
+      "immovable": 0,
+      "total": 270000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=472",
+    "retrieved": "2026-08-27"
+  }
+}

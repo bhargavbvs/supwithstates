@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-59-pencharthal",
+  "constituency": {
+    "number": 59,
+    "name": "Pencharthal",
+    "district": "North Tripura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Santana Chakma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 38,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master In Social Work From IGNOU Agartala, West Tripura, Year- 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 327002,
+      "immovable": 150000,
+      "total": 477002,
+      "liabilities": 2194442
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6941",
+    "retrieved": "2026-08-27"
+  }
+}

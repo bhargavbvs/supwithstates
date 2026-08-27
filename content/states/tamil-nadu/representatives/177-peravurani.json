@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-177-peravurani",
+  "constituency": {
+    "number": 177,
+    "name": "Peravurani",
+    "district": "Thanjavur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashokkumar. N",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Agriculture, Social Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary School Leaving Certificate (SSLC) studied at De Britto High School DEVAKOTTAI, completed through Department of government Examination, Madras on 24.05.1977 by Registered: No:058336."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13297350,
+      "immovable": 35150000,
+      "total": 48453612,
+      "liabilities": 21233816
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1217",
+    "retrieved": "2026-08-27"
+  }
+}

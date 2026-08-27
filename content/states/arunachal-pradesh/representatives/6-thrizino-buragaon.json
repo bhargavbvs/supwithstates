@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-6-thrizino-buragaon",
+  "constituency": {
+    "number": 6,
+    "name": "Thrizino-Buragaon",
+    "district": "West Kameng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tenzin Nyima Glow",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "AISSCE Pass From Govt. Higher Secondary School, Itanagar, Year-2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 57108203,
+      "immovable": 90675000,
+      "total": 137994904,
+      "liabilities": 22863802
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=80",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-5-dina-nagar",
+  "constituency": {
+    "number": 5,
+    "name": "Dina Nagar",
+    "district": "Gurdaspur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Aruna Chaudhary",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Arts & Bachelor of Education From Kashmir University Srinagar in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18707690,
+      "immovable": 59260100,
+      "total": 77967790,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=484",
+    "retrieved": "2026-08-27"
+  }
+}

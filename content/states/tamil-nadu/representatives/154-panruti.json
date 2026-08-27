@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-154-panruti",
+  "constituency": {
+    "number": 154,
+    "name": "Panruti",
+    "district": "Cuddalore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohan. K",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Tomato Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass From Government High School, Ammapalayam, Perambalur District, Year-1998-99"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32877124,
+      "immovable": 22936390,
+      "total": 55813515,
+      "liabilities": 27275600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1209",
+    "retrieved": "2026-08-27"
+  }
+}

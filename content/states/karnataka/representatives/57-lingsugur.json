@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-57-lingsugur",
+  "constituency": {
+    "number": 57,
+    "name": "Lingsugur",
+    "district": "Raich#r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manappa D Vajjal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "6th pass-1972 Govt Primary School,Dhabala"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 263142543,
+      "immovable": 44335000,
+      "total": 307477543,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7511",
+    "retrieved": "2026-08-27"
+  }
+}

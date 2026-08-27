@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-3-dimapur-iii",
+  "constituency": {
+    "number": 3,
+    "name": "Dimapur-Iii",
+    "district": "Chumoukedima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Hekani Jakhalu",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Laws & University of San Francisco (School of Law), Year-2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35136767,
+      "immovable": 20742000,
+      "total": 55878769,
+      "liabilities": 4195437
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6884",
+    "retrieved": "2026-08-27"
+  }
+}

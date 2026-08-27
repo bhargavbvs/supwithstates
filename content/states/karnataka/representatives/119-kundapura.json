@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-119-kundapura",
+  "constituency": {
+    "number": 119,
+    "name": "Kundapura",
+    "district": "Udupi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A Kiran Kumar Kodgi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 107121618,
+      "immovable": 64745000,
+      "total": 199717465,
+      "liabilities": 16653988
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7495",
+    "retrieved": "2026-08-27"
+  }
+}

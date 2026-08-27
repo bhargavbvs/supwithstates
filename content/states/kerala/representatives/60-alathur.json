@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-60-alathur",
+  "constituency": {
+    "number": 60,
+    "name": "Alathur",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T M Sasi",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Social Worker and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (Sociology) From Annamalai University 2013"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 3,
+      "note": null
+    },
+    "assets": {
+      "movable": 2689359,
+      "immovable": 11050000,
+      "total": 13835859,
+      "liabilities": 3074943
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=23",
+    "retrieved": "2026-08-27"
+  }
+}

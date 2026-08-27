@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-3-khurai",
+  "constituency": {
+    "number": 3,
+    "name": "Khurai",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Leishangthem Susindro Meitei",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Member of Legislative Assembly , Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed Higher Sec. Examination in The Year 2001 From Ng. Mani Collge Under Council Higher Sec. Education Manipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9847582,
+      "immovable": 29261000,
+      "total": 39108583,
+      "liabilities": 5000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=33",
+    "retrieved": "2026-08-27"
+  }
+}

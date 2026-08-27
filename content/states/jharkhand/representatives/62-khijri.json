@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-62-khijri",
+  "constituency": {
+    "number": 62,
+    "name": "Khijri",
+    "district": "Ranchi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rajesh Kachhap",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Stone Mines & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation - Ranchi Universtiy - 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15039879,
+      "immovable": 22000000,
+      "total": 37039879,
+      "liabilities": 5900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=885",
+    "retrieved": "2026-08-27"
+  }
+}

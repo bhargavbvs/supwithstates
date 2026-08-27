@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-32-nongstoin",
+  "constituency": {
+    "number": 32,
+    "name": "Nongstoin",
+    "district": "West Khasi Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Gabriel Wahlang",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "MDC",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.(Anthropology) In 2003 from NEHU"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2205000,
+      "immovable": 6700000,
+      "total": 8905000,
+      "liabilities": 5512404
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6807",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-60-pappireddippatti",
+  "constituency": {
+    "number": 60,
+    "name": "Pappireddippatti",
+    "district": "Dharmapuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Maragatham Vetrivel",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary From HSC Vellammal Hr.Sec.School Chennai March 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44993152,
+      "immovable": 197006258,
+      "total": 241999410,
+      "liabilities": 32542022
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1212",
+    "retrieved": "2026-08-27"
+  }
+}

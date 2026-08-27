@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-30-djongu-bl",
+  "constituency": {
+    "number": 30,
+    "name": "Djongu(Bl)",
+    "district": "Mangan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pintso Namgyal Lepcha",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A .Sociology from Singhania University in yr- 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6095931,
+      "immovable": 69352353,
+      "total": 75448284,
+      "liabilities": 5081382
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=32",
+    "retrieved": "2026-08-27"
+  }
+}

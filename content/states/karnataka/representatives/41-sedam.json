@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-41-sedam",
+  "constituency": {
+    "number": 41,
+    "name": "Sedam",
+    "district": "Kalaburagi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Sharanprakash Rudrappa Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD (Skin & VD) from MR Medical College, Gulbarga University, Kalaburagi in 1995"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44319557,
+      "immovable": 242700000,
+      "total": 287095878,
+      "liabilities": 143053723
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7727",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-126-madathukulam",
+  "constituency": {
+    "number": 126,
+    "name": "Madathukulam",
+    "district": "Tiruppur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R Jayaramakrishnan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Advocate and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B.From JSS Law College Mysore, Karnataka, B.Sc. From Sri Ramakrishna Mission Arts and Science College, Coimbatore."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32973272,
+      "immovable": 27090000,
+      "total": 60053273,
+      "liabilities": 7768000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=822",
+    "retrieved": "2026-08-27"
+  }
+}

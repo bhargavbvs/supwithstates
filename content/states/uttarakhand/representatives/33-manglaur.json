@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-33-manglaur",
+  "constituency": {
+    "number": 33,
+    "name": "Manglaur",
+    "district": "Haridw>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sarwat Kareem Ansari",
+    "election": "2022",
+    "elected_party": "BSP",
+    "current_party": "BSP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Junior High School Mohhalla Dist Mangalore Haridwar"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33735470,
+      "immovable": 116900000,
+      "total": 149535470,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=77",
+    "retrieved": "2026-08-27"
+  }
+}

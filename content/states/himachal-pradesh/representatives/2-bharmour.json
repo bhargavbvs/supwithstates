@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-2-bharmour",
+  "constituency": {
+    "number": 2,
+    "name": "Bharmour",
+    "district": "Chamba",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Janak Raj",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Medical Superintendent ( IGMC Shimla HP)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Chirurgiae in Neurosurgery From Banaras Hindu University in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37327103,
+      "immovable": 14107001,
+      "total": 51434104,
+      "liabilities": 8194556
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=127",
+    "retrieved": "2026-08-27"
+  }
+}

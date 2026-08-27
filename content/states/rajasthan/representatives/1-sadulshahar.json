@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-1-sadulshahar",
+  "constituency": {
+    "number": 1,
+    "name": "Sadulshahar",
+    "district": "Ganganagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gurveer Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB In 2008 from Punjab University, Chandigarh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20032640,
+      "immovable": 27500000,
+      "total": 47532640,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=99",
+    "retrieved": "2026-08-27"
+  }
+}

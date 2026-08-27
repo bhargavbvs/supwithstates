@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-4-dalhousie",
+  "constituency": {
+    "number": 4,
+    "name": "Dalhousie",
+    "district": "Chamba",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhavinder Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From HPBOSE Dharamshala In 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 101076904,
+      "immovable": 11350000,
+      "total": 156749714,
+      "liabilities": 7489862
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=134",
+    "retrieved": "2026-08-27"
+  }
+}

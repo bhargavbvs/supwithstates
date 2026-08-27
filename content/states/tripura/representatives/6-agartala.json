@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-6-agartala",
+  "constituency": {
+    "number": 6,
+    "name": "Agartala",
+    "district": "West Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudip Roy Barman",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Social Service & Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Mech.) in the year 1989 from the Calcutta University, LLB Degree in the year 1992 from the Tripura University"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28546072,
+      "immovable": 62245000,
+      "total": 90791072,
+      "liabilities": 3800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6877",
+    "retrieved": "2026-08-27"
+  }
+}

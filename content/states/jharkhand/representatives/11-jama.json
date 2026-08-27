@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-11-jama",
+  "constituency": {
+    "number": 11,
+    "name": "Jama",
+    "district": "Dumka",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lois Marandi",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Social Service and Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "MA Year 1995 From Santhali, Ph.D Year 2010 Ranchi University Ranchi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 78240442,
+      "immovable": 31839643,
+      "total": 110080087,
+      "liabilities": 10947601
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=947",
+    "retrieved": "2026-08-27"
+  }
+}

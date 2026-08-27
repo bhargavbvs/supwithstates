@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-11-belgaum-uttar",
+  "constituency": {
+    "number": 11,
+    "name": "Belgaum Uttar",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Asif (Raju) Sait",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC Commerce, Gogate Collage of commerce, in year 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 234016179,
+      "immovable": 181282000,
+      "total": 331449445,
+      "liabilities": 203740
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8462",
+    "retrieved": "2026-08-27"
+  }
+}

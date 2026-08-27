@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-190-sholavandan",
+  "constituency": {
+    "number": 190,
+    "name": "Sholavandan",
+    "district": "Madurai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Karuppaiah.M.V",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Public Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (Political Science) From Madurai Kamaraja University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 502900000,
+      "immovable": 25000000,
+      "total": 32900000,
+      "liabilities": 780000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=954",
+    "retrieved": "2026-08-27"
+  }
+}

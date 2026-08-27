@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-155-vallabhnagar",
+  "constituency": {
+    "number": 155,
+    "name": "Vallabhnagar",
+    "district": "Udaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Udailal Dangi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture Business , Hotel Business & Civil Contractor",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Rajasthan State Open School Year 2022"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 8,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5750000,
+      "immovable": 98150000,
+      "total": 103900000,
+      "liabilities": 5463740
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=433",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-88-banki",
+  "constituency": {
+    "number": 88,
+    "name": "Banki",
+    "district": "Cuttack",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devi Ranjan Tripathy",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 36,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from HP Infotech, Bhubaneswar, FM University, Balasore in 2013, Graduation (B.Com) from Christ College, Cuttack, Utkal University in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3388013,
+      "immovable": 7110000,
+      "total": 10498014,
+      "liabilities": 1257293
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=550",
+    "retrieved": "2026-08-27"
+  }
+}

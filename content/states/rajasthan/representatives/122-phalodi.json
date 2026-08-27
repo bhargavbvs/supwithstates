@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-122-phalodi",
+  "constituency": {
+    "number": 122,
+    "name": "Phalodi",
+    "district": "Phalodi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pabba Ram Bishnoi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Retired Employee",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Rajasthan University Jaipur in 1983-84"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2869236,
+      "immovable": 11900000,
+      "total": 14769237,
+      "liabilities": 638939
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=335",
+    "retrieved": "2026-08-27"
+  }
+}

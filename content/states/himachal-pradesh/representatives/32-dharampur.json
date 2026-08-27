@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-32-dharampur",
+  "constituency": {
+    "number": 32,
+    "name": "Dharampur",
+    "district": "Mandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chander Shekhar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Science, Bachelor of Law, from HPU, Shimla"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1648052,
+      "immovable": 3000000,
+      "total": 4599633,
+      "liabilities": 422405
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=329",
+    "retrieved": "2026-08-27"
+  }
+}

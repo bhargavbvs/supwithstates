@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-68-kinnaur",
+  "constituency": {
+    "number": 68,
+    "name": "Kinnaur",
+    "district": "Kinnaur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jagat Singh Negi",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Lawyer, Practice Suspended Since 2003",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Punjab University, Chandigarh, Year-1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2992075,
+      "immovable": 30812704,
+      "total": 33804779,
+      "liabilities": 3250603
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=236",
+    "retrieved": "2026-08-27"
+  }
+}

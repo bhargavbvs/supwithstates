@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-12-jashpur",
+  "constituency": {
+    "number": 12,
+    "name": "Jashpur",
+    "district": "Jashpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Raymuni Bhagat",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Govt. N.E.S. College Jashpur Year 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1952779,
+      "immovable": 8700000,
+      "total": 10600500,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=445",
+    "retrieved": "2026-08-27"
+  }
+}

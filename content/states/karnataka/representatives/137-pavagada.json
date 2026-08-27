@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-137-pavagada",
+  "constituency": {
+    "number": 137,
+    "name": "Pavagada",
+    "district": "Tumak#ru",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "H.V.Venkatesh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A, LLB, Bangalore University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38983172,
+      "immovable": 183581500,
+      "total": 222564672,
+      "liabilities": 66266045
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7630",
+    "retrieved": "2026-08-27"
+  }
+}

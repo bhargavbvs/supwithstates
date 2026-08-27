@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-175-mandhata",
+  "constituency": {
+    "number": 175,
+    "name": "Mandhata",
+    "district": "Khandwa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narayan Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Legislative Member, Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Class Government Higher Secondary School Harsood M.P. in 1974-75"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2296302,
+      "immovable": 29103200,
+      "total": 31399502,
+      "liabilities": 2264873
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=164",
+    "retrieved": "2026-08-27"
+  }
+}

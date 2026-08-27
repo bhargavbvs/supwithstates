@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-221-kadayanallur",
+  "constituency": {
+    "number": 221,
+    "name": "Kadayanallur",
+    "district": "Tenkasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendran. T. M",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Agriculture and Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A(Public Administration), Madurai Kamaraj University in 1994, PGDPM, Annamalai University in 1992."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10989037,
+      "immovable": 17651890,
+      "total": 28640927,
+      "liabilities": 3774000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1165",
+    "retrieved": "2026-08-27"
+  }
+}

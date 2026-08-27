@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-131-bilara",
+  "constituency": {
+    "number": 131,
+    "name": "Bilara",
+    "district": "Jodhpur Gramin",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Arjun Lal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Retired Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering, Jodhpur Polytechnic College, Jodhpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4942000,
+      "immovable": 27000000,
+      "total": 31942000,
+      "liabilities": 1874000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=167",
+    "retrieved": "2026-08-27"
+  }
+}

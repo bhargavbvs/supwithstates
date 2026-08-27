@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-80-garhwa",
+  "constituency": {
+    "number": 80,
+    "name": "Garhwa",
+    "district": "Garhwa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satyendra Nath Tiwari",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Social Work, Politics, Ex. MLA, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from G.L.A. College Daltonganj Ranchi University in 1987"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8480206,
+      "immovable": 30000000,
+      "total": 38480206,
+      "liabilities": 1970552
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=61",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-68-bolangir",
+  "constituency": {
+    "number": 68,
+    "name": "Bolangir",
+    "district": "Balangir",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalikesh Narayan Singh Deo",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Business & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons) Economics, from St. Stephens College, Delhi University in 1992-1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 344366959,
+      "immovable": 392679600,
+      "total": 736699177,
+      "liabilities": 84075334
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=409",
+    "retrieved": "2026-08-27"
+  }
+}

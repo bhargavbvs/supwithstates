@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-109-mavelikkara",
+  "constituency": {
+    "number": 109,
+    "name": "Mavelikkara",
+    "district": "Alappuzha",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "M.S. Arun Kumar",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 36,
+    "profession": "NIL",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (English) From Kerala Sarvakalashala Mavelikara, Bishop Moore College Kerala University, Year-2010"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 3,
+      "note": null
+    },
+    "assets": {
+      "movable": 1306814,
+      "immovable": 140000,
+      "total": 1446815,
+      "liabilities": 1490800
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=180",
+    "retrieved": "2026-08-27"
+  }
+}

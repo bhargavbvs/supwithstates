@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-5-sutnga-saipung",
+  "constituency": {
+    "number": 5,
+    "name": "Sutnga-Saipung",
+    "district": "East Jaintia Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Santa Mary Shylla",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Businesswomen",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of science in Optometry from Martin Luther University Shillong East Khasi hills Dist Meghalaya 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15498008,
+      "immovable": 17700000,
+      "total": 33198011,
+      "liabilities": 3379838
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6911",
+    "retrieved": "2026-08-27"
+  }
+}

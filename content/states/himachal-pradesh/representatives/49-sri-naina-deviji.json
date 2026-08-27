@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-49-sri-naina-deviji",
+  "constituency": {
+    "number": 49,
+    "name": "Sri Naina Deviji",
+    "district": "Bil>spur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Randhir Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculturist & EX-MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.(English) from HPU Shimla in 1989, L.L.B. from HPU Shimla in 1989 , PGDPM & LW HPU Shimla, B.Sc.(Medical)GPCC Bilaspur 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14832005,
+      "immovable": 41008580,
+      "total": 55840585,
+      "liabilities": 1200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=82",
+    "retrieved": "2026-08-27"
+  }
+}

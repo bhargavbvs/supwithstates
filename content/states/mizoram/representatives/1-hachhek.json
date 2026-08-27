@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-1-hachhek",
+  "constituency": {
+    "number": 1,
+    "name": "Hachhek",
+    "district": "Mamit",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Robert Romawia Royte",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Philosophy (Pol. Sc.) from North Eastern Hill University (NEHU) in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 101014238,
+      "immovable": 224583381,
+      "total": 322400039,
+      "liabilities": 5036206
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=14",
+    "retrieved": "2026-08-27"
+  }
+}

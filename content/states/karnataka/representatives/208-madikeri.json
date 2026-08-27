@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-208-madikeri",
+  "constituency": {
+    "number": 208,
+    "name": "Madikeri",
+    "district": "Kodagu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Mantar Gowda",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 38,
+    "profession": "Doctor Radiologist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.D. , M.B.B.S. from Radio Diagnosis KIMS Bengaluru In 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28036563,
+      "immovable": 41000000,
+      "total": 70636564,
+      "liabilities": 2200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7523",
+    "retrieved": "2026-08-27"
+  }
+}

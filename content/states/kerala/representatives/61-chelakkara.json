@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-61-chelakkara",
+  "constituency": {
+    "number": 61,
+    "name": "Chelakkara",
+    "district": "Thrissur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "U R Pradeep",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BBA from Madras University, Chennai in 1993-95"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 520571,
+      "immovable": 1900000,
+      "total": 2420572,
+      "liabilities": 238393
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=56",
+    "retrieved": "2026-08-27"
+  }
+}

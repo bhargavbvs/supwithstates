@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-57-tarur",
+  "constituency": {
+    "number": 57,
+    "name": "Tarur",
+    "district": "Palakkad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sumod",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Social Work( Present MLA)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Malayalam, Pattambi, Sanskrit College, Calicut University, Year-2014 & B.Ed From Kottapuram, Sri Narayanaguru College Teacher Education, Calicut University, Year-2010"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1046761,
+      "immovable": 4400000,
+      "total": 5616761,
+      "liabilities": 1686525
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=246",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-72-kawardha",
+  "constituency": {
+    "number": 72,
+    "name": "Kawardha",
+    "district": "Kawardha (Kabirdham)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Rent & Income from Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MCA from Madhya Pradesh Bhoj Open University Bhopal, M.P. In 2001, MSC (Physics) From Pt. Ravishankar Shukla University Branch Raipur M.P. In 1996"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6781769,
+      "immovable": 13250000,
+      "total": 19973772,
+      "liabilities": 1283688
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=31",
+    "retrieved": "2026-08-27"
+  }
+}

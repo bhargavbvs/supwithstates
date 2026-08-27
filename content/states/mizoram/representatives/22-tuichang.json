@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-22-tuichang",
+  "constituency": {
+    "number": 22,
+    "name": "Tuichang",
+    "district": "Khawzawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "W Chhuanawma",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC from NEHU, 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 100180732,
+      "immovable": 256230000,
+      "total": 356410732,
+      "liabilities": 371343
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=81",
+    "retrieved": "2026-08-27"
+  }
+}

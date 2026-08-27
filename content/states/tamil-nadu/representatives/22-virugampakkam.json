@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-22-virugampakkam",
+  "constituency": {
+    "number": 22,
+    "name": "Virugampakkam",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sabarinathan.R",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 30,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech in Mechanical Engineering From Dr.M.G.R Educational and Reseach Institute in 2021, Diploma in Mechanical Engineering From Department of Technical Education in 2016, S.S.L.C From Vedha Vikas Matriculation HSS in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2274053,
+      "immovable": 300000,
+      "total": 2574053,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1330",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-25-mylapore",
+  "constituency": {
+    "number": 25,
+    "name": "Mylapore",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Venkataramanan. P",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com - Annamalai University, Tamil Nadu - 2002 (2). LLB - Bangalore University - 2012 (3). MBA - Periyar University, Tamil Nadu - 2015 (4). LLM Annamalai University Tamil Nadu - 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32284284,
+      "immovable": 21800000,
+      "total": 54084284,
+      "liabilities": 57000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=100",
+    "retrieved": "2026-08-27"
+  }
+}

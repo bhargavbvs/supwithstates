@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-75-zira",
+  "constituency": {
+    "number": 75,
+    "name": "Zira",
+    "district": "Firozpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Naresh Kataria",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from PSEB, Chandigarh In 1977"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3252139,
+      "immovable": 36090000,
+      "total": 39342139,
+      "liabilities": 1338102
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=111",
+    "retrieved": "2026-08-27"
+  }
+}

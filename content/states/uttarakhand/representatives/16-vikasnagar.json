@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-16-vikasnagar",
+  "constituency": {
+    "number": 16,
+    "name": "Vikasnagar",
+    "district": "Dehrad@n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Munna Singh Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Agriculture, Property Rent, Service as a MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S.C. From Physics Garhwal University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8921455,
+      "immovable": 51400000,
+      "total": 60321457,
+      "liabilities": 16790497
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=285",
+    "retrieved": "2026-08-27"
+  }
+}

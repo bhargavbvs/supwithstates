@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-46-kapkote",
+  "constituency": {
+    "number": 46,
+    "name": "Kapkote",
+    "district": "B>geshwar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Gariya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 38,
+    "profession": "Khadiya Dhulan ka Kaam, Mining",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. from Govt. Post Graduate College in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6768315,
+      "immovable": 13232000,
+      "total": 19937901,
+      "liabilities": 1275000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=128",
+    "retrieved": "2026-08-27"
+  }
+}

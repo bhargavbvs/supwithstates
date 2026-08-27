@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-67-kichha",
+  "constituency": {
+    "number": 67,
+    "name": "Kichha",
+    "district": "Udham Singh Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tilak Raj Behar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture Other Income",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School in 1974 From Janta Inter College Rudrapur ,Inter in 1976 Govt Inter College Nainital"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21601466,
+      "immovable": 66200000,
+      "total": 68871466,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=209",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-79-chitrangi",
+  "constituency": {
+    "number": 79,
+    "name": "Chitrangi",
+    "district": "Singrauli",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Radha Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political Science-2005, Avdesh Pratap Singh University Rewa, MP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3914731,
+      "immovable": 62500000,
+      "total": 66414731,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=269",
+    "retrieved": "2026-08-27"
+  }
+}

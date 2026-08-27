@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-13-thanesar",
+  "constituency": {
+    "number": 13,
+    "name": "Thanesar",
+    "district": "Kurukshetra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Kumar Arora",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Social Service and Pensioner",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from Arya High School Kurukshetra in 1975-76"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35665593,
+      "immovable": 30000000,
+      "total": 65665593,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=337",
+    "retrieved": "2026-08-27"
+  }
+}

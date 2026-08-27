@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-17-gwalior-south",
+  "constituency": {
+    "number": 17,
+    "name": "Gwalior South",
+    "district": "Gwalior",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narayan Singh Kushwah",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Agriculture and Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary, M. Education Mandal, MP Passed Year 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6723165,
+      "immovable": 9159641,
+      "total": 15882806,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=705",
+    "retrieved": "2026-08-27"
+  }
+}

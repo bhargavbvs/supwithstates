@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-6-brajarajnagar",
+  "constituency": {
+    "number": 6,
+    "name": "Brajarajnagar",
+    "district": "Jharsuguda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Pujari",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Degree in Science from Sambalpur University, GM College Sambalpur in 1981, Diploma in Labour Law & Personal Management under Sambalpur University from Lajpat Rai Law College Passed in yr- 1985"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22578909,
+      "immovable": 7129000,
+      "total": 29707909,
+      "liabilities": 2673634
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=430",
+    "retrieved": "2026-08-27"
+  }
+}

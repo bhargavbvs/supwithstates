@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-124-shergarh",
+  "constituency": {
+    "number": 124,
+    "name": "Shergarh",
+    "district": "Jodhpur Gramin",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babu Singh Rathor",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.com From Jai Narayan Vyas University Jodhpur DCLL from Jai Narayan Vyas University Jodhpur Year 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8082864,
+      "immovable": 19235909,
+      "total": 27308773,
+      "liabilities": 2595000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=402",
+    "retrieved": "2026-08-27"
+  }
+}

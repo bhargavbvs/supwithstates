@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-5-badli",
+  "constituency": {
+    "number": 5,
+    "name": "Badli",
+    "district": "North",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aahir Deepak Chaudharyy",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 40,
+    "profession": "Social Worker & Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws From Sobhit University, Year-2014-2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10209948,
+      "immovable": 6600000,
+      "total": 15841080,
+      "liabilities": 17213698
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=233",
+    "retrieved": "2026-08-27"
+  }
+}

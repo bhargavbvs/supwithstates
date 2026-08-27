@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-58-parjanga",
+  "constituency": {
+    "number": 58,
+    "name": "Parjanga",
+    "district": "Dhenkanal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bibhuti Bhusan Pradhan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Agriculture, Advocate & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Capital Law College, Bhubaneswar, Utkal University in 1991"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13165223,
+      "immovable": 5622144,
+      "total": 14368897,
+      "liabilities": 4973044
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=798",
+    "retrieved": "2026-08-27"
+  }
+}

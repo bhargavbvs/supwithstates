@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-136-sira",
+  "constituency": {
+    "number": 136,
+    "name": "Sira",
+    "district": "Tumak#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T B Jayachandra",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Social Worker, Agricultist and Non Practicing Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws from Vidyodaya Law College, Tumkur in 1972, Bangalore University, Bachelor of Science from Government First College at Tumkur, Mysore University in 1969"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23184965,
+      "immovable": 373664100,
+      "total": 396849065,
+      "liabilities": 20534123
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8325",
+    "retrieved": "2026-08-27"
+  }
+}

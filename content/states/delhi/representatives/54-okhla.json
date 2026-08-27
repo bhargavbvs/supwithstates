@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-54-okhla",
+  "constituency": {
+    "number": 54,
+    "name": "Okhla",
+    "district": "South East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amanatullah Khan",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 51,
+    "profession": "Politician, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th passed from Senior Secondary School Jamia Millia Islamia"
+    },
+    "declared_cases": {
+      "total": 19,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4147626,
+      "immovable": 14268000,
+      "total": 18415626,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=324",
+    "retrieved": "2026-08-27"
+  }
+}

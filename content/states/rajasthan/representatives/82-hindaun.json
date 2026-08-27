@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-82-hindaun",
+  "constituency": {
+    "number": 82,
+    "name": "Hindaun",
+    "district": "Karauli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Anita Jatav",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "House Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Rajasthan State Open School Jaipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6580000,
+      "immovable": 1650000,
+      "total": 8980000,
+      "liabilities": 1300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=211",
+    "retrieved": "2026-08-27"
+  }
+}

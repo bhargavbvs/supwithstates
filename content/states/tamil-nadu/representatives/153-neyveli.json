@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-153-neyveli",
+  "constituency": {
+    "number": 153,
+    "name": "Neyveli",
+    "district": "Cuddalore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendran.R",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Std. From S.K.V. Higher Secondary School, Kurinjipadi In 1979-80, B.A Not Passed From Urumu Thanalekusumi College. Kattur Trichy In 1981-84."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19977065,
+      "immovable": 151500000,
+      "total": 232778350,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1205",
+    "retrieved": "2026-08-27"
+  }
+}

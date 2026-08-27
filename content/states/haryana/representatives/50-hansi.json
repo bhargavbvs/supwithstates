@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-50-hansi",
+  "constituency": {
+    "number": 50,
+    "name": "Hansi",
+    "district": "Hisar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinod Bhayana",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 67,
+    "profession": "Business (Partner in Seed firm) and Salary from Vidhansabha",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1978 from Kurukshetra University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25032412,
+      "immovable": 47950000,
+      "total": 72982412,
+      "liabilities": 15474259
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=147",
+    "retrieved": "2026-08-27"
+  }
+}

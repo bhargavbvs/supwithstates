@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-12-takarjala",
+  "constituency": {
+    "number": 12,
+    "name": "Takarjala",
+    "district": "Sepahijala",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Biswajit Kalai",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Sociology) from Madhurai Kamraj University in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1321768,
+      "immovable": 0,
+      "total": 1321768,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7063",
+    "retrieved": "2026-08-27"
+  }
+}

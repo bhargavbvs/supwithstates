@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-149-berasia",
+  "constituency": {
+    "number": 149,
+    "name": "Berasia",
+    "district": "Bhopal",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vishnu Khatri",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Advisor & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Govt. Arts & Commerce College, Bhopal, Barkatullah Vishwavidyalaya, Bhopal In 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6230745,
+      "immovable": 76972200,
+      "total": 83202945,
+      "liabilities": 11447148
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1385",
+    "retrieved": "2026-08-27"
+  }
+}

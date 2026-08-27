@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-91-idukki",
+  "constituency": {
+    "number": 91,
+    "name": "Idukki",
+    "district": "Idukki",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Roy K Paulose",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 69,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Maths From Newman College Thodupuzha, Kerala In 1976-1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5896904,
+      "immovable": 8900000,
+      "total": 14796904,
+      "liabilities": 51665
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=591",
+    "retrieved": "2026-08-27"
+  }
+}

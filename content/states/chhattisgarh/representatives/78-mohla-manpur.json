@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-78-mohla-manpur",
+  "constituency": {
+    "number": 78,
+    "name": "Mohla-Manpur",
+    "district": "Mohla-Manpur-Ambagarh Chowki",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Indrashah Mandavi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. History, Diploma in Civil Engineering"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20221864,
+      "immovable": 24150000,
+      "total": 42171867,
+      "liabilities": 60000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=39",
+    "retrieved": "2026-08-27"
+  }
+}

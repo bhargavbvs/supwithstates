@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-6-pratappur",
+  "constituency": {
+    "number": 6,
+    "name": "Pratappur",
+    "district": "Surajpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shakuntala Singh Portey",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Advocate and Salary (Sarpanch)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Law Graduate Year 2014 Sarguja University Ambikapur C.G."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1494064,
+      "immovable": 7583335,
+      "total": 9302399,
+      "liabilities": 1480052
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=496",
+    "retrieved": "2026-08-27"
+  }
+}

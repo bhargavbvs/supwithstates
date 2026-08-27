@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-118-coimbatore-north",
+  "constituency": {
+    "number": 118,
+    "name": "Coimbatore(North)",
+    "district": "Coimbatore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V. Sampathkumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A.,Distance Learning,Annamalai University-2006"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23024616,
+      "immovable": 11380000,
+      "total": 34404616,
+      "liabilities": 2059686
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=871",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-106-niwas",
+  "constituency": {
+    "number": 106,
+    "name": "Niwas",
+    "district": "Mandla",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chainsingh Warkade",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture , Transport",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate (Hindi Lit.) from Rani Durgawati University Jabalpur M.P. In 2013"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 7883686,
+      "immovable": 2992000,
+      "total": 10875686,
+      "liabilities": 2135606
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1282",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-74-dongargarh",
+  "constituency": {
+    "number": 74,
+    "name": "Dongargarh",
+    "district": "Rajnandgaon",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Harshita Swami Baghel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Allowance (Member of District Panchayat)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA, LLB( Pandit Ravishankar Vishvidhyalaya, Raipur, 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10809867,
+      "immovable": 11666666,
+      "total": 22276533,
+      "liabilities": 6354245
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=71",
+    "retrieved": "2026-08-27"
+  }
+}

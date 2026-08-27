@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-36-jalandhar-north",
+  "constituency": {
+    "number": 36,
+    "name": "Jalandhar North",
+    "district": "Jalandhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Avtar Singh Junior",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Agriculturist Transporter And Retail Outlet at Indian Oil Pump Ltd",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": null
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 168295384,
+      "immovable": 167500000,
+      "total": 335795384,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=99",
+    "retrieved": "2026-08-27"
+  }
+}

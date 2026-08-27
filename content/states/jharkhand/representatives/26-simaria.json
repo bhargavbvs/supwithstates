@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-26-simaria",
+  "constituency": {
+    "number": 26,
+    "name": "Simaria",
+    "district": "Chatra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kumar Ujjwal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Business, Politics",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Geography) from Vinoba Bhave University Hazaribagh in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2222000,
+      "immovable": 150000000,
+      "total": 152222000,
+      "liabilities": 3267700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=149",
+    "retrieved": "2026-08-27"
+  }
+}

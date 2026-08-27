@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-58-sindhanur",
+  "constituency": {
+    "number": 58,
+    "name": "Sindhanur",
+    "district": "Raich#r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hampanagouda Badarli",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A.Karnataka Collage Darvade Year 1972-73"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46329952,
+      "immovable": 55228296,
+      "total": 94013248,
+      "liabilities": 26484062
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8320",
+    "retrieved": "2026-08-27"
+  }
+}

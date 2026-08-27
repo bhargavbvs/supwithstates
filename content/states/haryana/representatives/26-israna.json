@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-26-israna",
+  "constituency": {
+    "number": 26,
+    "name": "Israna",
+    "district": "Panipat",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Krishan Lal Panwar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 67,
+    "profession": "M.P. Rajay Sabha",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Class Boiler Attendants Certificate of Competency in 1987 (Rajasthan), 10th from HBSE Bhiwani in 1985 from Govt. High School, Madlauda, Dist. Panipat"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22489334,
+      "immovable": 30600000,
+      "total": 53089334,
+      "liabilities": 2279000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=246",
+    "retrieved": "2026-08-27"
+  }
+}

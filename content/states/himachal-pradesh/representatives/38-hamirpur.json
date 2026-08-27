@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-38-hamirpur",
+  "constituency": {
+    "number": 38,
+    "name": "Hamirpur",
+    "district": "Ham|rpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashish Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Agriculturist and Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech. in Electronics and Communication Engineering (ECE) from Jaypee University of Information Technology, Wakanaghat, Dist. Solan HP in 2009"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69356275,
+      "immovable": 81899000,
+      "total": 151255275,
+      "liabilities": 12048903
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=514",
+    "retrieved": "2026-08-27"
+  }
+}

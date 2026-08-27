@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-11-lawspet",
+  "constituency": {
+    "number": 11,
+    "name": "Lawspet",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V.P. Sivakolundhu",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 74,
+    "profession": "Real estate and partner in firms running Lodge",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8 th Standard 1968 - Year"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 84470247,
+      "immovable": 414724745,
+      "total": 499194993,
+      "liabilities": 77222536
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=19",
+    "retrieved": "2026-08-27"
+  }
+}

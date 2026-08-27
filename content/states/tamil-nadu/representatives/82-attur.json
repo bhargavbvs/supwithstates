@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-82-attur",
+  "constituency": {
+    "number": 82,
+    "name": "Attur",
+    "district": "Salem",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jayasankaran. A.P.",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "DME - (did not pass) Diploma, Muthayammal Polytechnic College, 1991"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12094737,
+      "immovable": 51000000,
+      "total": 63094737,
+      "liabilities": 648449
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=758",
+    "retrieved": "2026-08-27"
+  }
+}

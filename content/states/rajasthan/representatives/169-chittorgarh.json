@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-169-chittorgarh",
+  "constituency": {
+    "number": 169,
+    "name": "Chittorgarh",
+    "district": "Chittaurgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandrabhan Singh Chouhan",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Business And Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. History in 2016, L.L.B From Janardey Nager University 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 153004995,
+      "immovable": 121301200,
+      "total": 274606195,
+      "liabilities": 56299126
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=809",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-32-fatehpur",
+  "constituency": {
+    "number": 32,
+    "name": "Fatehpur",
+    "district": "Sikar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hakam Ali Khan",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture and MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed from Rastriya Mukt School Shiksha Sansthan, Year-2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5326139,
+      "immovable": 9500000,
+      "total": 14826139,
+      "liabilities": 2605642
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=203",
+    "retrieved": "2026-08-27"
+  }
+}

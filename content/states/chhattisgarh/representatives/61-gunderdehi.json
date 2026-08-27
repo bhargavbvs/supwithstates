@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-61-gunderdehi",
+  "constituency": {
+    "number": 61,
+    "name": "Gunderdehi",
+    "district": "Balod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kunwer Singh Nishad",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Fisheries",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Pt. Ravi Shankar Shukla University, Raipur, Year-1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3785573,
+      "immovable": 1900000,
+      "total": 5431396,
+      "liabilities": 3500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=325",
+    "retrieved": "2026-08-27"
+  }
+}

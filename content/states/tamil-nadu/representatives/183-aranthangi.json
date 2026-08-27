@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-183-aranthangi",
+  "constituency": {
+    "number": 183,
+    "name": "Aranthangi",
+    "district": "Pudukkottai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohamed Farvas. J",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 31,
+    "profession": "Printing Industry",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., L.L.B.,(Hons) National Law School, 2014-2019"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14077280,
+      "immovable": 81500000,
+      "total": 95577280,
+      "liabilities": 5230301
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=979",
+    "retrieved": "2026-08-27"
+  }
+}

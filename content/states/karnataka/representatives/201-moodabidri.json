@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-201-moodabidri",
+  "constituency": {
+    "number": 201,
+    "name": "Moodabidri",
+    "district": "Dakshina Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umanatha Kotian",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC 1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9834244,
+      "immovable": 39500000,
+      "total": 49311245,
+      "liabilities": 2568836
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7570",
+    "retrieved": "2026-08-27"
+  }
+}

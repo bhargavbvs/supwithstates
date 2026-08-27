@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-54-jaganathpur",
+  "constituency": {
+    "number": 54,
+    "name": "Jaganathpur",
+    "district": "West Singhbhum",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sona Ram Sinku",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Political Leader, Business and Agriculutre",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric Pass, from P Swami Viveka Nand High School Balidih Under Jharkhand Academic Council, Ranchi in the Year 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19937932,
+      "immovable": 2277465,
+      "total": 22555427,
+      "liabilities": 1289324
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=142",
+    "retrieved": "2026-08-27"
+  }
+}

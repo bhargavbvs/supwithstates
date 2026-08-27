@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-33-heirok",
+  "constituency": {
+    "number": 33,
+    "name": "Heirok",
+    "district": "Tengnoupal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thokchom Radheshyam Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Politician, Retd. Government Employee (Retd IPS)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (B.A.) two year degree course) in the year 1985 From Yangambam Kumar College Wangjing under Manipur University Canchipur Imphal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11688522,
+      "immovable": 7950000,
+      "total": 19638522,
+      "liabilities": 4200412
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=248",
+    "retrieved": "2026-08-27"
+  }
+}

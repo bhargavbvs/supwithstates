@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-11-lahar",
+  "constituency": {
+    "number": 11,
+    "name": "Lahar",
+    "district": "Bhind",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ambrish Sharma (Guddu)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Transporter",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Gwalior Law College Gwalior, Jivaji University Gwalior Year 2017, B.A. from Chaudhari Yadunath Singh College Bhind, Jivaji University Gwalior Year 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31759779,
+      "immovable": 20000000,
+      "total": 51759779,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=327",
+    "retrieved": "2026-08-27"
+  }
+}

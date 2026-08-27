@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-29-phagwara",
+  "constituency": {
+    "number": 29,
+    "name": "Phagwara",
+    "district": "Kapurthala",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Balwinder Singh Dhaliwal",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Memeber Of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate in Geography From SD College Ludhiana in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10544093,
+      "immovable": 13000000,
+      "total": 23544093,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=177",
+    "retrieved": "2026-08-27"
+  }
+}

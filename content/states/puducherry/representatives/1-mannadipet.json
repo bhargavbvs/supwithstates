@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-1-mannadipet",
+  "constituency": {
+    "number": 1,
+    "name": "Mannadipet",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A. Namassivayam",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering Ramu Seetha Poly Technic, Kariapatti, Kamarajar District, Year- April 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 165034701,
+      "immovable": 689579777,
+      "total": 854614473,
+      "liabilities": 259973469
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=35",
+    "retrieved": "2026-08-27"
+  }
+}

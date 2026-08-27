@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-46-chowkham",
+  "constituency": {
+    "number": 46,
+    "name": "Chowkham",
+    "district": "Namsai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chowna Mein",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 73,
+    "profession": "Businessman, Politician & Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor or Arts (B.A.) from JN Govt College Pasighat (Guwahati University) Year 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 985453009,
+      "immovable": 276561000,
+      "total": 1262014009,
+      "liabilities": 105284563
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=22",
+    "retrieved": "2026-08-27"
+  }
+}

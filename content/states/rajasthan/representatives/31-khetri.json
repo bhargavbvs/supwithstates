@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-31-khetri",
+  "constituency": {
+    "number": 31,
+    "name": "Khetri",
+    "district": "Neem-Ka-Thana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dharmpal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech Electrical, from Nagpur University, Nagpur 1992-1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2427941,
+      "immovable": 11500000,
+      "total": 13927941,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=252",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-130-turuvekere",
+  "constituency": {
+    "number": 130,
+    "name": "Turuvekere",
+    "district": "Tumak#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.T.Krishnappa",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bcom, Bangalore University, 1974"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12306689,
+      "immovable": 9230000,
+      "total": 21421690,
+      "liabilities": 115000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7071",
+    "retrieved": "2026-08-27"
+  }
+}

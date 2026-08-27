@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-1-kalka",
+  "constituency": {
+    "number": 1,
+    "name": "Kalka",
+    "district": "Panchkula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shakti Rani Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From St Josephs Convent Girls Senior Secondary School, Jabalpur (MP) in the year 1970."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1121867000,
+      "immovable": 330500000,
+      "total": 1452367000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=232",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-72-chalakudy",
+  "constituency": {
+    "number": 72,
+    "name": "Chalakudy",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saneeshkumar Joseph",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc (Maths) Course From Thomas College Thrissur, Calicut University In 1995-1998"
+    },
+    "declared_cases": {
+      "total": 17,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 14,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 35492110,
+      "immovable": 35000000,
+      "total": 70492110,
+      "liabilities": 3223200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=49",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-32-matarbari",
+  "constituency": {
+    "number": 32,
+    "name": "Matarbari",
+    "district": "Gomti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhishek Debroy",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Pharmacy Passed from Rajiv Gandhi University of Health Sciences, Karnataka in 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5044268,
+      "immovable": 580000,
+      "total": 5624268,
+      "liabilities": 5027395
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6983",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-136-baytoo",
+  "constituency": {
+    "number": 136,
+    "name": "Baytoo",
+    "district": "Balotra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harish Chaudhary",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Rajasthan MLA Salary, Lok Sabha Member Pension, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Economic in 1992, BSC in 1990 Jainarayan Vyas College East Jodhpur University Jodhpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9720731,
+      "immovable": 52913974,
+      "total": 62634707,
+      "liabilities": 8514101
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=446",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-126-khalikote",
+  "constituency": {
+    "number": 126,
+    "name": "Khalikote",
+    "district": "Ganjam",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Purna Chandra Sethy",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Labour and Social Welfare, Bhanja Vihar University Berhampur 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6382613,
+      "immovable": 29065000,
+      "total": 35447613,
+      "liabilities": 5683000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=352",
+    "retrieved": "2026-08-27"
+  }
+}

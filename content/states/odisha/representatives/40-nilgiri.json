@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-40-nilgiri",
+  "constituency": {
+    "number": 40,
+    "name": "Nilgiri",
+    "district": "Balasore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Santosh Khatua",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Trading in Vegetables, Agriculture Farming, Trading Building Materials & Bamboo",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from F.M. University in 2008, M.Sc. from (Utkal University), M.P.C. College, Baripada in 1992"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13556228,
+      "immovable": 44928370,
+      "total": 58134616,
+      "liabilities": 10501878
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1143",
+    "retrieved": "2026-08-27"
+  }
+}

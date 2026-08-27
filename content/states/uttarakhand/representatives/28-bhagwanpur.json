@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-28-bhagwanpur",
+  "constituency": {
+    "number": 28,
+    "name": "Bhagwanpur",
+    "district": "Haridw>r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mamta Rakesh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculture MLA Pension & MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in 1995 & B.A. in 1996 From Ch. Charan Singh University, Meerut"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16379833,
+      "immovable": 32504000,
+      "total": 48883833,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=162",
+    "retrieved": "2026-08-27"
+  }
+}

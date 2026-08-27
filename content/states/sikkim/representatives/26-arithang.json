@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-26-arithang",
+  "constituency": {
+    "number": 26,
+    "name": "Arithang",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arun Kumar Upreti",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Completed Class XII from Tashi Namgyal Senior Seconadry School in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 34766394,
+      "immovable": 225837751,
+      "total": 260604149,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=17",
+    "retrieved": "2026-08-27"
+  }
+}

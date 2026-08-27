@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-52-tughlakabad",
+  "constituency": {
+    "number": 52,
+    "name": "Tughlakabad",
+    "district": "South East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sahi Ram",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 65,
+    "profession": "Social Worker/ Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Class From Govt. Boys Sr. Secondary School Badarpur, New Delhi, 1980"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3599388,
+      "immovable": 10300000,
+      "total": 13899388,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=122",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-84-omalur",
+  "constituency": {
+    "number": 84,
+    "name": "Omalur",
+    "district": "Salem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mani. R",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Bangalore University In May 2007"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41250258,
+      "immovable": 27500000,
+      "total": 68750260,
+      "liabilities": 61351634
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1099",
+    "retrieved": "2026-08-27"
+  }
+}

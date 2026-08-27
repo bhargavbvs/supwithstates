@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-13-rajgangpur",
+  "constituency": {
+    "number": 13,
+    "name": "Rajgangpur",
+    "district": "Sundargarh",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "C.S. Raazen Ekka",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from VSS Medical College Burla in 1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9963230,
+      "immovable": 3230000,
+      "total": 13193229,
+      "liabilities": 425277
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=324",
+    "retrieved": "2026-08-27"
+  }
+}

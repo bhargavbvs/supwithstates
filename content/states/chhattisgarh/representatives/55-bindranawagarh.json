@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-55-bindranawagarh",
+  "constituency": {
+    "number": 55,
+    "name": "Bindranawagarh",
+    "district": "Gariyaband",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Janak Ram Dhruw",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Social Worker, Agriculture, Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. History From Ravi Shankar University, Raipur, Year-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5060204,
+      "immovable": 8176000,
+      "total": 13236204,
+      "liabilities": 750000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=422",
+    "retrieved": "2026-08-27"
+  }
+}

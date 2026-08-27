@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-147-perambalur",
+  "constituency": {
+    "number": 147,
+    "name": "Perambalur",
+    "district": "Perambalur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sivakumar. K",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "H.Sc From Govt. Higher Secondary School, Perambalur, Year of Completion 1996-1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 196106,
+      "immovable": 0,
+      "total": 196106,
+      "liabilities": 90000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1475",
+    "retrieved": "2026-08-27"
+  }
+}

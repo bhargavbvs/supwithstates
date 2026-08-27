@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-69-kaipamangalam",
+  "constituency": {
+    "number": 69,
+    "name": "Kaipamangalam",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K.K. Valsaraj",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Political Servant",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Economics, Sri Krishna College, Guruvayur, Calicut University-1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2053440,
+      "immovable": 10200000,
+      "total": 12253440,
+      "liabilities": 754456
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=96",
+    "retrieved": "2026-08-27"
+  }
+}

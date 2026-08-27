@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-13-rohini",
+  "constituency": {
+    "number": 13,
+    "name": "Rohini",
+    "district": "North West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijender Gupta",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 61,
+    "profession": "Member of Legislative Assembly of NCT of Delhi. :",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Commerce from Delhi University, Delhi in 1986, Bachelor of Commerce (Hons) from Ramjas College, Delhi University, Delhi in 1984"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73778186,
+      "immovable": 87250000,
+      "total": 161028211,
+      "liabilities": 9817082
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=113",
+    "retrieved": "2026-08-27"
+  }
+}

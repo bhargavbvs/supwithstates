@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-34-matiala",
+  "constituency": {
+    "number": 34,
+    "name": "Matiala",
+    "district": "South West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Sehrawat",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 32,
+    "profession": "Social Worker & Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LLB From Chaudhary Charan Singh University, Meerut in Year 2016"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8438176,
+      "immovable": 10000000,
+      "total": 18438177,
+      "liabilities": 699639
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=292",
+    "retrieved": "2026-08-27"
+  }
+}

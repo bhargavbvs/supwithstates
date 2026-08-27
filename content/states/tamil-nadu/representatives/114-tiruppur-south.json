@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-114-tiruppur-south",
+  "constituency": {
+    "number": 114,
+    "name": "Tiruppur (South)",
+    "district": "Tiruppur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balamurugan. S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Industry (Balaji Garments)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "SSLC Nanjappa Municipal Boys Higher Secondary School Tiruppur, HSC Nanjappa Municipal Boys Higher Secondary School Tiruppur"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18415214,
+      "immovable": 13464000,
+      "total": 31879215,
+      "liabilities": 12953803
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1078",
+    "retrieved": "2026-08-27"
+  }
+}

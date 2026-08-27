@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-36-yamkeshwar",
+  "constituency": {
+    "number": 36,
+    "name": "Yamkeshwar",
+    "district": "Pauri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Renu Bisht",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Housewife",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Bharat Mandir Inter College, Rishikesh in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2240000,
+      "immovable": 6050000,
+      "total": 7240000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=159",
+    "retrieved": "2026-08-27"
+  }
+}

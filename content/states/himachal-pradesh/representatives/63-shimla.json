@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-63-shimla",
+  "constituency": {
+    "number": 63,
+    "name": "Shimla",
+    "district": "Shimla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harish Janartha",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Horticulturist/Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from Punjab University in 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23640142,
+      "immovable": 23000000,
+      "total": 46640142,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=212",
+    "retrieved": "2026-08-27"
+  }
+}

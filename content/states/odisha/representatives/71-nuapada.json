@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-71-nuapada",
+  "constituency": {
+    "number": 71,
+    "name": "Nuapada",
+    "district": "Nuaparha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jay Dholakia",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc. PCM, Part 3 in 2016 From Chhatrapati Sahu ji Maharaj University Kanpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22645518,
+      "immovable": 15275000,
+      "total": 34320155,
+      "liabilities": 7017345
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1296",
+    "retrieved": "2026-08-27"
+  }
+}

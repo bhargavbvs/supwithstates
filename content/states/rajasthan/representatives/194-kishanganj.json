@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-194-kishanganj",
+  "constituency": {
+    "number": 194,
+    "name": "Kishanganj",
+    "district": "Baran",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalit Meena",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 36,
+    "profession": "Agriculture, Pension( Former MLA )",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Kota University Kota B.Ed. Aadarsh Collage of Education University of Jammu 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7744960,
+      "immovable": 8097446,
+      "total": 15842406,
+      "liabilities": 834850
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=256",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-36-shorapur",
+  "constituency": {
+    "number": 36,
+    "name": "Shorapur",
+    "district": "Y",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Raja Venugopal Naik",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Business and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineer From Visveswaraiah Technological University Belgaum Year 2013"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30299797,
+      "immovable": 104868402,
+      "total": 135168199,
+      "liabilities": 3256476
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=9520",
+    "retrieved": "2026-08-27"
+  }
+}

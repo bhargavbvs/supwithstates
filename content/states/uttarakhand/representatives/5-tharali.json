@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-5-tharali",
+  "constituency": {
+    "number": 5,
+    "name": "Tharali",
+    "district": "Chamoli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bhupal Ram Tamta",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Pension",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed From REK Narayangarh 1973, ITI Shrinagar 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3201061,
+      "immovable": 1283500,
+      "total": 6899862,
+      "liabilities": 1872173
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=279",
+    "retrieved": "2026-08-27"
+  }
+}

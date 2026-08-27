@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-95-maur",
+  "constituency": {
+    "number": 95,
+    "name": "Maur",
+    "district": "Bathinda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sukhveer Singh Maiserkhana",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10+2 from Punjab School Education Board Mohali in 2012"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4224210,
+      "immovable": 5000000,
+      "total": 9224210,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=215",
+    "retrieved": "2026-08-27"
+  }
+}

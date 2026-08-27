@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-81-devsar",
+  "constituency": {
+    "number": 81,
+    "name": "Devsar",
+    "district": "Singrauli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajendra Kumar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "D.Pharma, Board of Technical Education, Bhopal Year 1988, Higher Secondary, Board of Secondary Education MP. Bhopal Year 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3282197,
+      "immovable": 15500000,
+      "total": 18782197,
+      "liabilities": 1650000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=496",
+    "retrieved": "2026-08-27"
+  }
+}

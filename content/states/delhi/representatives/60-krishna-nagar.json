@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-60-krishna-nagar",
+  "constituency": {
+    "number": 60,
+    "name": "Krishna Nagar",
+    "district": "East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Anil Goyal",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 67,
+    "profession": "Doctor, Business, Medical Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Ch. (Urology)(Master of Chirurgien) Jaipur 1995, MS (Master of Surgery) Lucknow University 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 174842401,
+      "immovable": 607000000,
+      "total": 781842401,
+      "liabilities": 3554906
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=280",
+    "retrieved": "2026-08-27"
+  }
+}

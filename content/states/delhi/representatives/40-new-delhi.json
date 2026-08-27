@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-40-new-delhi",
+  "constituency": {
+    "number": 40,
+    "name": "New Delhi",
+    "district": "New Delhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Parvesh Sahib Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 47,
+    "profession": "Business and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from School of Management, Qutab Institutional Area, New Delhi 1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 965283174,
+      "immovable": 191100000,
+      "total": 1156383180,
+      "liabilities": 743826344
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=157",
+    "retrieved": "2026-08-27"
+  }
+}

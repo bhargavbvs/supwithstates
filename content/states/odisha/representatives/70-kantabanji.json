@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-70-kantabanji",
+  "constituency": {
+    "number": 70,
+    "name": "Kantabanji",
+    "district": "Balangir",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Laxman Bag",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass from H,.S.C. (National Institute of Open Schooling), Allahabad in 2013"
+    },
+    "declared_cases": {
+      "total": 12,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9934862,
+      "immovable": 2500000,
+      "total": 12798262,
+      "liabilities": 1238846
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=488",
+    "retrieved": "2026-08-27"
+  }
+}

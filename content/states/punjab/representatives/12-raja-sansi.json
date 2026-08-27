@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-12-raja-sansi",
+  "constituency": {
+    "number": 12,
+    "name": "Raja Sansi",
+    "district": "Amritsar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sukhbinder Singh Sarkaria",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BSC From khalsa College From Guru Nanak Dev University ,Amritsar In 1975 -76"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 46753000,
+      "immovable": 65400000,
+      "total": 112153000,
+      "liabilities": 44912000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=166",
+    "retrieved": "2026-08-27"
+  }
+}

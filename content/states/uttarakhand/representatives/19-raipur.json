@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-19-raipur",
+  "constituency": {
+    "number": 19,
+    "name": "Raipur",
+    "district": "Dehrad@n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umesh Sharma Kau",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Agriculture, Rent From Shop & Mobile Towers and Salary as MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From DAV Collage HNB Garhwal University in 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13693067,
+      "immovable": 60404700,
+      "total": 74097767,
+      "liabilities": 1822927
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=8",
+    "retrieved": "2026-08-27"
+  }
+}

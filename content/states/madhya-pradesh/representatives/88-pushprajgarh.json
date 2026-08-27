@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-88-pushprajgarh",
+  "constituency": {
+    "number": 88,
+    "name": "Pushprajgarh",
+    "district": "Anuppur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Phundelal Singh Marko",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, Salary & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Shambhunath Shukla Govt. College Shahdol, Year-2007 & LLB From Law College Shahdol, Awadh Pratap Singh University, Rewa, M.P. Year-2007"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8269033,
+      "immovable": 15300000,
+      "total": 23569033,
+      "liabilities": 9751703
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=764",
+    "retrieved": "2026-08-27"
+  }
+}

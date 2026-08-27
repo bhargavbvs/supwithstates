@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-25-kota",
+  "constituency": {
+    "number": 25,
+    "name": "Kota",
+    "district": "Bilaspur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atal Shrivastav",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Business and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. MIT College, Gondia Nagpur University in 1989"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28140450,
+      "immovable": 72025249,
+      "total": 102128712,
+      "liabilities": 20593926
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=297",
+    "retrieved": "2026-08-27"
+  }
+}

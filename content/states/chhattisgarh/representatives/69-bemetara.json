@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-69-bemetara",
+  "constituency": {
+    "number": 69,
+    "name": "Bemetara",
+    "district": "Bemetara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dipesh Sahu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political Science Government Mahaprabhu Valbhacharya Post Graduate College (Chhattigarh) Year 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1311954,
+      "immovable": 2932200,
+      "total": 5044154,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=582",
+    "retrieved": "2026-08-27"
+  }
+}

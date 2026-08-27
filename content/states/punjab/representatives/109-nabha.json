@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-109-nabha",
+  "constituency": {
+    "number": 109,
+    "name": "Nabha",
+    "district": "Patiala",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gurdev Singh Dev Maan",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Singer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Studying 3rd Year (Completed 2 Years) Lovely Professional University Jalandhar in 2021, 12th from Punjab School Education Board Mohali in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5358709,
+      "immovable": 0,
+      "total": 5358709,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1176",
+    "retrieved": "2026-08-27"
+  }
+}

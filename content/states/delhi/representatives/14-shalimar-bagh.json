@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-14-shalimar-bagh",
+  "constituency": {
+    "number": 14,
+    "name": "Shalimar Bagh",
+    "district": "North West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rekha Gupta",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 50,
+    "profession": "Professional- Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Chaudhary Charan Singh University, Meerut in Year 2022 From IMIRC College of Law Bhaina Ghaziabad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27203328,
+      "immovable": 26000000,
+      "total": 53134981,
+      "liabilities": 12033720
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=118",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-48-binjharpur",
+  "constituency": {
+    "number": 48,
+    "name": "Binjharpur",
+    "district": "Jajapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pramila Mallik",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in Kharasrota Mahavidyalaya, Singhpur Under Utkal University 1987, I.A. in 1985 From Kharasrota Mahavidyalaya, Singhpur under Utkal University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47688823,
+      "immovable": 18986000,
+      "total": 62064823,
+      "liabilities": 10198500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1294",
+    "retrieved": "2026-08-27"
+  }
+}

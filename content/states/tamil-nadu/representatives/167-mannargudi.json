@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-167-mannargudi",
+  "constituency": {
+    "number": 167,
+    "name": "Mannargudi",
+    "district": "Thiruvarur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamaraj. S",
+    "election": "2026",
+    "elected_party": "Amma Makkal Munnettra Kazagam",
+    "current_party": "Amma Makkal Munnettra Kazagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Educator, Industry and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com.,B.Ed., M.Com.,Thiruvika Government College, Thiruvarur, Bharathidasan University (1989) B.Ed Annamalai University (1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 68659106,
+      "immovable": 145849000,
+      "total": 213857390,
+      "liabilities": 244886718
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1190",
+    "retrieved": "2026-08-27"
+  }
+}

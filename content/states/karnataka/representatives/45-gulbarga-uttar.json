@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-45-gulbarga-uttar",
+  "constituency": {
+    "number": 45,
+    "name": "Gulbarga Uttar",
+    "district": "Kalaburagi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kaneez Fatima",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Business and Educationist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University Studied at Nampally Junior College Hyderabad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37882677,
+      "immovable": 146485000,
+      "total": 184367677,
+      "liabilities": 853448
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=9186",
+    "retrieved": "2026-08-27"
+  }
+}

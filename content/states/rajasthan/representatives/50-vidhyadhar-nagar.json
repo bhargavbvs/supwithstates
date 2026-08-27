@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-50-vidhyadhar-nagar",
+  "constituency": {
+    "number": 50,
+    "name": "Vidhyadhar Nagar",
+    "district": "Jaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Diya Kumari",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Business, Salary & Allowance",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Fine Arts Decorative Painting Diploma , Parsons Art & Design School London 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 191987362,
+      "immovable": 0,
+      "total": 191987382,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=39",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-16-bailhongal",
+  "constituency": {
+    "number": 16,
+    "name": "Bailhongal",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Koujalagi Mahantesh Shivanand",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Advocate and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws (Special) from Karnataka University Dharwad, Karnataka University Law College, Dharwad in 1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 117139177,
+      "immovable": 36760000,
+      "total": 153899312,
+      "liabilities": 7227724
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7119",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-105-anthiyur",
+  "constituency": {
+    "number": 105,
+    "name": "Anthiyur",
+    "district": "Erode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Haribaskar.P",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "D.Ted/State Board of School Education/2005-2007/Sri Venkateshwara Vidhyalayaa Teacher Training Institute"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 8268224,
+      "immovable": 29732100,
+      "total": 38000324,
+      "liabilities": 7294263
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1144",
+    "retrieved": "2026-08-27"
+  }
+}

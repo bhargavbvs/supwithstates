@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-46-kottakkal",
+  "constituency": {
+    "number": 46,
+    "name": "Kottakkal",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prof. Abid Hussain Thangal",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA(Sociology) Aligarh Muslim University Year 1985, M.Phil From Vinayake Mission Tamil Nadu Year 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12651175,
+      "immovable": 25300000,
+      "total": 37951175,
+      "liabilities": 3417615
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=132",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-168-shujalpur",
+  "constituency": {
+    "number": 168,
+    "name": "Shujalpur",
+    "district": "Shajapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Inder Singh Parmar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture , MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B Madhav College Ujjain Vikam University Ujjain Year 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11916804,
+      "immovable": 58200000,
+      "total": 70116804,
+      "liabilities": 13606516
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=92",
+    "retrieved": "2026-08-27"
+  }
+}

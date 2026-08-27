@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-43-tapi",
+  "constituency": {
+    "number": 43,
+    "name": "Tapi",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Wangpang Konyak",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Pol. Science) from North Eastern Hill University in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1709718,
+      "immovable": 9900000,
+      "total": 11609718,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6953",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-36-bokaro",
+  "constituency": {
+    "number": 36,
+    "name": "Bokaro",
+    "district": "Bokaro",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shwettaa Singh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Shobhit University, Meerut in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6894529,
+      "immovable": 0,
+      "total": 6894529,
+      "liabilities": 3218828
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=1354",
+    "retrieved": "2026-08-27"
+  }
+}

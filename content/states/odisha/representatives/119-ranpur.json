@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-119-ranpur",
+  "constituency": {
+    "number": 119,
+    "name": "Ranpur",
+    "district": "Nayagarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surama Padhy",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Profession & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA from Ravenshaw College, Utkal University 1982"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12915004,
+      "immovable": 53000000,
+      "total": 65915004,
+      "liabilities": 6400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=836",
+    "retrieved": "2026-08-27"
+  }
+}

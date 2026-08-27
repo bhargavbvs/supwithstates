@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-40-katpadi",
+  "constituency": {
+    "number": 40,
+    "name": "Katpadi",
+    "district": "Vellore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr M Sudhakar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S. From Banglore University 1999, D.Diab From Vuk Vrhovac University Zagred Croatia 2004,"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 22790963,
+      "immovable": 48944000,
+      "total": 71734969,
+      "liabilities": 9072809
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=799",
+    "retrieved": "2026-08-27"
+  }
+}

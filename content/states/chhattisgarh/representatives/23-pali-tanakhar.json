@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-23-pali-tanakhar",
+  "constituency": {
+    "number": 23,
+    "name": "Pali-Tanakhar",
+    "district": "Korba",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tuleshwar Hira Singh Markam",
+    "election": "2023",
+    "elected_party": "Gondvana Gantantra Party",
+    "current_party": "Gondvana Gantantra Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. 1998, LLB 2001 from Guru Ghasidas University Bilaspur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1603656,
+      "immovable": 1000000,
+      "total": 2603656,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=492",
+    "retrieved": "2026-08-27"
+  }
+}

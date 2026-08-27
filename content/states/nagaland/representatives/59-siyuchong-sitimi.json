@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-59-siyuchong-sitimi",
+  "constituency": {
+    "number": 59,
+    "name": "Siyuchong-Sitimi",
+    "district": "Kiphire",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "C. Kipili Sangtam",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Politician, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class IX Passed from Govt. High School, Kiphire under The Nagaland Board of School Education in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3261466,
+      "immovable": 6000000,
+      "total": 9261466,
+      "liabilities": 832187
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6828",
+    "retrieved": "2026-08-27"
+  }
+}

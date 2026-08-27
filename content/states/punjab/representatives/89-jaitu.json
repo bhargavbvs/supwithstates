@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-89-jaitu",
+  "constituency": {
+    "number": 89,
+    "name": "Jaitu",
+    "district": "Faridkot",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Amolak Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 30,
+    "profession": "Private Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Technology From University PTU-Jalandhar in 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 737000,
+      "immovable": 1000000,
+      "total": 1737000,
+      "liabilities": 900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=89",
+    "retrieved": "2026-08-27"
+  }
+}

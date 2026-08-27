@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-225-malhargarh",
+  "constituency": {
+    "number": 225,
+    "name": "Malhargarh",
+    "district": "Mandsaur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jagdish Devda",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Salary and Rent Received as a Minister in Madhya Pradesh Government",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Economics) from Govt. College, Rampura, Neemuch Vikram University, Ujjain in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12213304,
+      "immovable": 36600000,
+      "total": 48813304,
+      "liabilities": 1405000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=531",
+    "retrieved": "2026-08-27"
+  }
+}

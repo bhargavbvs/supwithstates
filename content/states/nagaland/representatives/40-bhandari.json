@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-40-bhandari",
+  "constituency": {
+    "number": 40,
+    "name": "Bhandari",
+    "district": "Wokha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Achumbemo Kikon",
+    "election": "2023",
+    "elected_party": "NPF",
+    "current_party": "NPF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Nagaland University in 2003, BA from Nagaland University in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4305000,
+      "immovable": 30000000,
+      "total": 58000000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6775",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-88-salem-west",
+  "constituency": {
+    "number": 88,
+    "name": "Salem (West)",
+    "district": "Salem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lakshmanan.S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Agriculture & Manager of Private Company",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce From Arignar Anna Government Arts College for Men, Namakkal, Chennai University,Year of 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45709251,
+      "immovable": 117355000,
+      "total": 163064254,
+      "liabilities": 6325000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=771",
+    "retrieved": "2026-08-27"
+  }
+}

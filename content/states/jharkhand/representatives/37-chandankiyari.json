@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-37-chandankiyari",
+  "constituency": {
+    "number": 37,
+    "name": "Chandankiyari",
+    "district": "Bokaro",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Uma Kant Rajak",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Agriculture, Ex MLA Chandankiyari",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From (Bihar Board) J.High School Pundruin, Year-1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6564982,
+      "immovable": 9228000,
+      "total": 15792982,
+      "liabilities": 5760000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=813",
+    "retrieved": "2026-08-27"
+  }
+}

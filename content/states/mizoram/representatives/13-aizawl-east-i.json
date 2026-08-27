@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-13-aizawl-east-i",
+  "constituency": {
+    "number": 13,
+    "name": "Aizawl East-I",
+    "district": "Aizawl",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lalthansanga",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Bachelor of Arts (II Year) in the year 1988, Govt. College Chandigarh, Punjab University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12108009,
+      "immovable": 15000000,
+      "total": 27108009,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=23",
+    "retrieved": "2026-08-27"
+  }
+}

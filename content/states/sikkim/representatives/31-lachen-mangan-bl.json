@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-31-lachen-mangan-bl",
+  "constituency": {
+    "number": 31,
+    "name": "Lachen Mangan(Bl)",
+    "district": "Mangan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samdup Lepcha",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Politician, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Class 10th from Govt. Senior Secondary School, Mangan, North Sikkim in yr- 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 79183860,
+      "immovable": 580551376,
+      "total": 659735237,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=53",
+    "retrieved": "2026-08-27"
+  }
+}

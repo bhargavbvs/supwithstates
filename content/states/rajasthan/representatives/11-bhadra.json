@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-11-bhadra",
+  "constituency": {
+    "number": 11,
+    "name": "Bhadra",
+    "district": "Hanumangarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjeev Kumar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (History) from Ajmer University Year 1992, MA (Political Science) from Ajmer University in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3280309,
+      "immovable": 71400000,
+      "total": 74680310,
+      "liabilities": 1189725
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=25",
+    "retrieved": "2026-08-27"
+  }
+}

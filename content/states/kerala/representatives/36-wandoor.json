@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-36-wandoor",
+  "constituency": {
+    "number": 36,
+    "name": "Wandoor",
+    "district": "Malappuram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "A.P Anilkumar",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "NIL",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre Degree-1982-84, PM College, Perinthalmanna,Calicut University, SSLC-1980-81, Malappuram Gov. High School"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4761823,
+      "immovable": 4900000,
+      "total": 9508823,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=299",
+    "retrieved": "2026-08-27"
+  }
+}

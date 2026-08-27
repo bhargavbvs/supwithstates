@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-145-raniwara",
+  "constituency": {
+    "number": 145,
+    "name": "Raniwara",
+    "district": "Sanchore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ratan Devasi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Senior secondary from NIOS In 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15683783,
+      "immovable": 25300000,
+      "total": 40983783,
+      "liabilities": 16210464
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=355",
+    "retrieved": "2026-08-27"
+  }
+}

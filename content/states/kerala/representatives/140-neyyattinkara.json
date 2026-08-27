@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-140-neyyattinkara",
+  "constituency": {
+    "number": 140,
+    "name": "Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "N. Shakthan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Catholicate College, 1971-1973"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4804173,
+      "immovable": 1200000,
+      "total": 5404173,
+      "liabilities": 125623
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=689",
+    "retrieved": "2026-08-27"
+  }
+}

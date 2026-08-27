@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-20-indri",
+  "constituency": {
+    "number": 20,
+    "name": "Indri",
+    "district": "Karnal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Kumar Kashyap",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 73,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Eco) 1976, LLB 1981 From Kurukshetra University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7047461,
+      "immovable": 24117250,
+      "total": 33324711,
+      "liabilities": 1820000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=153",
+    "retrieved": "2026-08-27"
+  }
+}

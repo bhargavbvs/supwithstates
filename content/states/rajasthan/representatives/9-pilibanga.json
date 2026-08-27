@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-9-pilibanga",
+  "constituency": {
+    "number": 9,
+    "name": "Pilibanga",
+    "district": "Hanumangarh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vinod Kumar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed From The University of Kashmir Shri Nagar in 2007 B.A. 2004 Maharaj Gangasingh University Bikaner"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 515000,
+      "immovable": 3100000,
+      "total": 3615000,
+      "liabilities": 1255000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=109",
+    "retrieved": "2026-08-27"
+  }
+}

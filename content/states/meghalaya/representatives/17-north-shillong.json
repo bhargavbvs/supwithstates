@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-17-north-shillong",
+  "constituency": {
+    "number": 17,
+    "name": "North Shillong",
+    "district": "East Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Adelbert Nongrum",
+    "election": "2023",
+    "elected_party": "Voice of the People Party",
+    "current_party": "Voice of the People Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Buddha Bhanu Saraswati College (BBS) Shillong in 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1361442,
+      "immovable": 0,
+      "total": 1361442,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6872",
+    "retrieved": "2026-08-27"
+  }
+}

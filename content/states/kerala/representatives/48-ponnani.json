@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-48-ponnani",
+  "constituency": {
+    "number": 48,
+    "name": "Ponnani",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K.P Noushad Ali",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Social Services",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-Degree University of Calicut In April 2000, SSLC From Board of Public Examination, GHS Kumella In March 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7629740,
+      "immovable": 29850000,
+      "total": 39879740,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=655",
+    "retrieved": "2026-08-27"
+  }
+}

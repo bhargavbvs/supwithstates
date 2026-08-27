@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-43-bhandaripokhari",
+  "constituency": {
+    "number": 43,
+    "name": "Bhandaripokhari",
+    "district": "Bhadrak",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjib Kumar Mallick",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from Bhadrak Law College, Bhadrak Year 1999 Utkal University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 226607091,
+      "immovable": 158599466,
+      "total": 385206563,
+      "liabilities": 141907154
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=915",
+    "retrieved": "2026-08-27"
+  }
+}

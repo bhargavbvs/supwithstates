@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-125-udumalaipettai",
+  "constituency": {
+    "number": 125,
+    "name": "Udumalaipettai",
+    "district": "Tiruppur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayakumar M.",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Political Science): Madurai Kamaraj University, Madurai, Diploma in Cooperative Management Ramalinga Cooperative Institute, Coimbatore 1996–1997, Bachelor of Library and Information Science Annamalai University, Annamalai Nagar May 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11011080,
+      "immovable": 27180000,
+      "total": 38191080,
+      "liabilities": 1199763
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1299",
+    "retrieved": "2026-08-27"
+  }
+}

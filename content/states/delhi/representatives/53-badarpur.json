@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-53-badarpur",
+  "constituency": {
+    "number": 53,
+    "name": "Badarpur",
+    "district": "South East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Singh Netaji",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 69,
+    "profession": "Agriculture and Social Service",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Class Pass, Govt. Sr. Sec. School, Badarpur, New Delhi- 110044, Year 1968-69"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 291453141,
+      "immovable": 605250000,
+      "total": 896703141,
+      "liabilities": 36023060
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=79",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-129-multai",
+  "constituency": {
+    "number": 129,
+    "name": "Multai",
+    "district": "Betul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandrashekhar Deshmukh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Pension Madhya Pradesh Assembly and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Dr. Harisingh Gour University Sagar MP In 1986-87"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3540939,
+      "immovable": 39774684,
+      "total": 43315623,
+      "liabilities": 311092
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=165",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-165-bagidora",
+  "constituency": {
+    "number": 165,
+    "name": "Bagidora",
+    "district": "Banswara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jaikrishn Patel",
+    "election": "2023",
+    "elected_party": "Bharat Adivasi Party",
+    "current_party": "Bharat Adivasi Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 36,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed from M.D.S. University in 2014, B.A. from Caloex Teachers University in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 151000,
+      "immovable": 0,
+      "total": 151000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1894",
+    "retrieved": "2026-08-27"
+  }
+}

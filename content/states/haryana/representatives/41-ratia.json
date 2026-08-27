@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-41-ratia",
+  "constituency": {
+    "number": 41,
+    "name": "Ratia",
+    "district": "Fatehabad",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jarnail Singh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Ex-MLA Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From KUK Year 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3705573,
+      "immovable": 1630000,
+      "total": 5335573,
+      "liabilities": 1445000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=442",
+    "retrieved": "2026-08-27"
+  }
+}

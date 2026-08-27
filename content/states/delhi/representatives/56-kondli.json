@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-56-kondli",
+  "constituency": {
+    "number": 56,
+    "name": "Kondli",
+    "district": "East",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kuldeep Kumar",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 35,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. (Honors) 2nd Year Passed in 2013 from Shyam Lal College, Delhi University"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 3800281,
+      "immovable": 1500000,
+      "total": 5300281,
+      "liabilities": 635300
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=275",
+    "retrieved": "2026-08-27"
+  }
+}

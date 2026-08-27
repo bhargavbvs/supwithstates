@@ -1,0 +1,25 @@
+{
+  "slug": "punjab",
+  "name": "Punjab",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 117,
+  "district_count": 23,
+  "term": {
+    "start": "2022"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/punjab2022/",
+    "adr_serious_list": "https://www.myneta.info/punjab2022/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      75.41,
+      31.03
+    ],
+    "zoom": 7
+  }
+}

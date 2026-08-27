@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-76-badshahpur",
+  "constituency": {
+    "number": 76,
+    "name": "Badshahpur",
+    "district": "Gurugram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rao Narbir Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "(a) Uttama (Sahitya Ratana) passed in 2001 from Hindi Sahitya Sammellan, Allahabad, (b) Hindi Madhyama (Visharad) passed in 1988 from Hindi Sahitya Sammellan Allahabad"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 77015201,
+      "immovable": 510937784,
+      "total": 587952985,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=118",
+    "retrieved": "2026-08-27"
+  }
+}

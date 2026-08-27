@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-139-pipariya",
+  "constituency": {
+    "number": 139,
+    "name": "Pipariya",
+    "district": "Narmadapuram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Thakur Das Nagwanshi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th in 1983 from Jay Hind Adrash U. Ma. Vidhyalay Pipariya MP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5832032,
+      "immovable": 11600000,
+      "total": 17432032,
+      "liabilities": 598553
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=761",
+    "retrieved": "2026-08-27"
+  }
+}

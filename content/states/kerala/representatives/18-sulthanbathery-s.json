@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-18-sulthanbathery-s",
+  "constituency": {
+    "number": 18,
+    "name": "Sulthanbathery (S",
+    "district": "Wayanad",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "I C Balakrishnan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC-GHS Valad In 1994"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1362001,
+      "immovable": 2200000,
+      "total": 3764432,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=369",
+    "retrieved": "2026-08-27"
+  }
+}

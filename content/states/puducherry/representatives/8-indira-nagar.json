@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-8-indira-nagar",
+  "constituency": {
+    "number": 8,
+    "name": "Indira Nagar",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P.V. Aroumougame Alias Akd",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Agriculture and land sales",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Kamban Government High School, Nettappakkam, Puducherry, Year-1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29414026,
+      "immovable": 476402174,
+      "total": 505816200,
+      "liabilities": 34829246
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=126",
+    "retrieved": "2026-08-27"
+  }
+}

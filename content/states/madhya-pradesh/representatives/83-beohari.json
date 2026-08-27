@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-83-beohari",
+  "constituency": {
+    "number": 83,
+    "name": "Beohari",
+    "district": "Shahdol",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sharad Juglal Kol",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 32,
+    "profession": "Agriculture /MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graudation from Govt. College Beohari in 2016"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8172048,
+      "immovable": 2050000,
+      "total": 10222048,
+      "liabilities": 1343434
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=26",
+    "retrieved": "2026-08-27"
+  }
+}

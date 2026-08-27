@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-59-torpa",
+  "constituency": {
+    "number": 59,
+    "name": "Torpa",
+    "district": "Simdega",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sudeep Gudhiya",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. From P.U. Udaipur, Year-2012 & Graduate From Ranchi University 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1162845,
+      "immovable": 4600000,
+      "total": 5762845,
+      "liabilities": 45849
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=160",
+    "retrieved": "2026-08-27"
+  }
+}

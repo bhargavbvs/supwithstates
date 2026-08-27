@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-15-mawlai",
+  "constituency": {
+    "number": 15,
+    "name": "Mawlai",
+    "district": "East Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Brightstarwell Marbaniang",
+    "election": "2023",
+    "elected_party": "Voice of the People Party",
+    "current_party": "Voice of the People Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Assistant Professor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. ( Adult & Continuing Education) from North Eastern Hill University (NEHU) in 2015, M.A. (Human Rights & Duties Education) from University of Madras in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 999664,
+      "immovable": 2900000,
+      "total": 4185662,
+      "liabilities": 2251683
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6907",
+    "retrieved": "2026-08-27"
+  }
+}

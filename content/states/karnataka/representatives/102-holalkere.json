@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-102-holalkere",
+  "constituency": {
+    "number": 102,
+    "name": "Holalkere",
+    "district": "Chitradurga",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "M.Chandrappa",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Business, Agriculture , Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43440131,
+      "immovable": 214147355,
+      "total": 257587486,
+      "liabilities": 576640
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7319",
+    "retrieved": "2026-08-27"
+  }
+}

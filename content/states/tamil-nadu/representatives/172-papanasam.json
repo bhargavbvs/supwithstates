@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-172-papanasam",
+  "constituency": {
+    "number": 172,
+    "name": "Papanasam",
+    "district": "Thanjavur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A.M. Shahjahan",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc., (November 1993) Jamal Mohamed College, Trichy, Bharathidasan University, Trichy."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 34355830,
+      "immovable": 21000000,
+      "total": 55355830,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=776",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-85-bastar",
+  "constituency": {
+    "number": 85,
+    "name": "Bastar",
+    "district": "Bastar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lakheshwar Baghel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Agriculture, Petrol Pump and Cruser",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from Govt. Post Graduate College Jagdalpur, P. Ravishankar University Raipur (C.G.) In 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20945650,
+      "immovable": 69100000,
+      "total": 89905652,
+      "liabilities": 8722534
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=19",
+    "retrieved": "2026-08-27"
+  }
+}

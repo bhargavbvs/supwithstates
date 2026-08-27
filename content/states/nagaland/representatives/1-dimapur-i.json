@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-1-dimapur-i",
+  "constituency": {
+    "number": 1,
+    "name": "Dimapur-I",
+    "district": "Dimapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "H. Tovihoto Ayemi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Social Worker, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons) from Patkai Christain College, Dimapur, Nagaland University in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46628827,
+      "immovable": 46170000,
+      "total": 92798830,
+      "liabilities": 3351484
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6785",
+    "retrieved": "2026-08-27"
+  }
+}

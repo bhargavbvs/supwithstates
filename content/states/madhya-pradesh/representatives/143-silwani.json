@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-143-silwani",
+  "constituency": {
+    "number": 143,
+    "name": "Silwani",
+    "district": "Raisen",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Patel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Farmer, Pension and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary yr. 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6111166,
+      "immovable": 63331000,
+      "total": 69442166,
+      "liabilities": 11727314
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=210",
+    "retrieved": "2026-08-27"
+  }
+}

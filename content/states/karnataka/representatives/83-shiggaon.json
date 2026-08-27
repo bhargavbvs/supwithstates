@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-83-shiggaon",
+  "constituency": {
+    "number": 83,
+    "name": "Shiggaon",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pathan Yasirahmedkhan",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Karnatak University in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4548285,
+      "immovable": 25985446,
+      "total": 30473731,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=9563",
+    "retrieved": "2026-08-27"
+  }
+}

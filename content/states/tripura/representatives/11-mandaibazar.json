@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-11-mandaibazar",
+  "constituency": {
+    "number": 11,
+    "name": "Mandaibazar",
+    "district": "West Tripura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Swapna Debbarma",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Metric from NIOS in 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 845613,
+      "immovable": 120000,
+      "total": 965613,
+      "liabilities": 150000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6978",
+    "retrieved": "2026-08-27"
+  }
+}

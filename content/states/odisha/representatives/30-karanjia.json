@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-30-karanjia",
+  "constituency": {
+    "number": 30,
+    "name": "Karanjia",
+    "district": "Mayurbhanj",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Padma Charan Haiburu",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A in history from Sambalpur University in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1705572,
+      "immovable": 2490000,
+      "total": 4195573,
+      "liabilities": 50000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=739",
+    "retrieved": "2026-08-27"
+  }
+}

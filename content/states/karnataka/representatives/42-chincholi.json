@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-42-chincholi",
+  "constituency": {
+    "number": 42,
+    "name": "Chincholi",
+    "district": "Kalaburagi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Avinash Umesh Jadhav",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from JSS Medical College Mysore in 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10175652,
+      "immovable": 17005000,
+      "total": 27180652,
+      "liabilities": 9630394
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7205",
+    "retrieved": "2026-08-27"
+  }
+}

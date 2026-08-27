@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-52-chaibasa",
+  "constituency": {
+    "number": 52,
+    "name": "Chaibasa",
+    "district": "West Singhbhum",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Deepak Birua",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Politics , Agriculture & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation Tata College Chaibasa Ranchi University Ranchi 1990, Inter from Ranchi College, in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18493055,
+      "immovable": 12741301,
+      "total": 31234358,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=139",
+    "retrieved": "2026-08-27"
+  }
+}

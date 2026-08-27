@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-46-chhatarpur",
+  "constituency": {
+    "number": 46,
+    "name": "Chhatarpur",
+    "district": "South",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kartar Singh Tanwar",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 62,
+    "profession": "Political Activist , Ex - MLA NCT of Delhi",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering from G.B. Pant Polytechnic, Okhla, New Delhi Year 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 149659149,
+      "immovable": 102500000,
+      "total": 252159151,
+      "liabilities": 70608507
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=174",
+    "retrieved": "2026-08-27"
+  }
+}

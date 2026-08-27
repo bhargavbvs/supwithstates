@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-34-jalandhar-west",
+  "constituency": {
+    "number": 34,
+    "name": "Jalandhar West",
+    "district": "Jalandhar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mohinder Bhagat",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculate from Sai Dass A.S. Senior Secondary School, Basti Nau, Jalandhar in 1973"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10826355,
+      "immovable": 36375000,
+      "total": 47201355,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1318",
+    "retrieved": "2026-08-27"
+  }
+}

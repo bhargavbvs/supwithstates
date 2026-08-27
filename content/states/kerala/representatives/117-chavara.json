@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-117-chavara",
+  "constituency": {
+    "number": 117,
+    "name": "Chavara",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shibu Baby John",
+    "election": "2026",
+    "elected_party": "Revolutionary Socialist Party",
+    "current_party": "Revolutionary Socialist Party",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Social Service,Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech(Mechanical)TKM College of Engineering,Karicode,Kollam,University of Kerala,1986"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 200342175,
+      "immovable": 45968138,
+      "total": 246310315,
+      "liabilities": 36272724
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=55",
+    "retrieved": "2026-08-27"
+  }
+}

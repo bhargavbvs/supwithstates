@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-116-keolari",
+  "constituency": {
+    "number": 116,
+    "name": "Keolari",
+    "district": "Seoni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajneesh Harvansh Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture, Business, Petrol Pump & Ware Housing, Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.E. From 2nd Semster (Electronics & Communication Engineering) From Laxminarayan College of Technology, Barkatullaha University, Bhopal, Year-1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 157775758,
+      "immovable": 188280298,
+      "total": 346056056,
+      "liabilities": 26652499
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=312",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-122-karkal",
+  "constituency": {
+    "number": 122,
+    "name": "Karkal",
+    "district": "Udupi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V Sunill Kumar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture and wage",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Kuvempu University in 1997"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 33199365,
+      "immovable": 46638000,
+      "total": 79837365,
+      "liabilities": 4852655
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6838",
+    "retrieved": "2026-08-27"
+  }
+}

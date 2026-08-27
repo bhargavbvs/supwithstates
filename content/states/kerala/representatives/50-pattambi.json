@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-50-pattambi",
+  "constituency": {
+    "number": 50,
+    "name": "Pattambi",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Muhammed Muhassin",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Member of Legislative Assembaly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phil from Continuing Education Management, University of Madras in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2485357,
+      "immovable": 1983000,
+      "total": 6065357,
+      "liabilities": 1620539
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=209",
+    "retrieved": "2026-08-27"
+  }
+}

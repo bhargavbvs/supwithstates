@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-8-mundka",
+  "constituency": {
+    "number": 8,
+    "name": "Mundka",
+    "district": "North West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gajender Drall",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 48,
+    "profession": "Business, Agriculturist, Social, Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (Hindi Hon.) from Rajdhani College, Delhi University in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44122591,
+      "immovable": 82345000,
+      "total": 127169681,
+      "liabilities": 14800954
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=223",
+    "retrieved": "2026-08-27"
+  }
+}

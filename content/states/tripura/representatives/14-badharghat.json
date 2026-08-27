@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-14-badharghat",
+  "constituency": {
+    "number": 14,
+    "name": "Badharghat",
+    "district": "West Tripura",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mina Rani Sarkar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Pass From University of Calcutta Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 923555,
+      "immovable": 0,
+      "total": 2423530,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6994",
+    "retrieved": "2026-08-27"
+  }
+}

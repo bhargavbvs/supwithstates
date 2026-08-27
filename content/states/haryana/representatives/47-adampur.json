@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-47-adampur",
+  "constituency": {
+    "number": 47,
+    "name": "Adampur",
+    "district": "Hisar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chander Parkash S/O Arjun Lal",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Retired IAS Officer, Social Worker.",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Law Faculty, Kurukshetra University Kurukshetra in Year 1981, Graduation from Dayanand College, Hisar, Kurukshetra University in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73065448,
+      "immovable": 272833831,
+      "total": 338107355,
+      "liabilities": 13650983
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=306",
+    "retrieved": "2026-08-27"
+  }
+}

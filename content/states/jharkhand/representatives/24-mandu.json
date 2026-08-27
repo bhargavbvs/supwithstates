@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-24-mandu",
+  "constituency": {
+    "number": 24,
+    "name": "Mandu",
+    "district": "Ramgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nirmal Mahto",
+    "election": "2024",
+    "elected_party": "AJSU Party",
+    "current_party": "AJSU Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric pass from Rail Shramik High School, Patratu (Bihar School Examination Committee)"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 41643060,
+      "immovable": 16080000,
+      "total": 58023061,
+      "liabilities": 9106804
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=866",
+    "retrieved": "2026-08-27"
+  }
+}

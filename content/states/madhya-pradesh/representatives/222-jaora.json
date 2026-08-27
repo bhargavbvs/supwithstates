@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-222-jaora",
+  "constituency": {
+    "number": 222,
+    "name": "Jaora",
+    "district": "Ratlam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Pandey Alias Raju Bhaiya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from Vikram University Ujjain In 1985, D.H.B. from State Homeopathic Parishad Bhopal In 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16723894,
+      "immovable": 15419010,
+      "total": 32142904,
+      "liabilities": 2642454
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=728",
+    "retrieved": "2026-08-27"
+  }
+}

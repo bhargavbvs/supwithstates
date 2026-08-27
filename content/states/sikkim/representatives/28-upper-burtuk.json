@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-28-upper-burtuk",
+  "constituency": {
+    "number": 28,
+    "name": "Upper Burtuk",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kala Rai",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Social Worker & Politician, Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Pharnacy from Punjab State Board of Technical Education & Industrial Training in 1995 from Government Polytechnic fro Women, Chandigarh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10844843,
+      "immovable": 90380762,
+      "total": 101225968,
+      "liabilities": 69653610
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=123",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-11-aizawl-north-ii",
+  "constituency": {
+    "number": 11,
+    "name": "Aizawl North-Ii",
+    "district": "Aizawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Vanlalthlana",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Assistant Professor, Pachhunga University college",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy Ph.D in commerce Mizoram university in 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15246519,
+      "immovable": 10000000,
+      "total": 25246519,
+      "liabilities": 7935904
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=28",
+    "retrieved": "2026-08-27"
+  }
+}

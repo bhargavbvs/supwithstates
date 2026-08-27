@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-51-raipur-city-south",
+  "constituency": {
+    "number": 51,
+    "name": "Raipur City South",
+    "district": "Raipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunil Kumar Soni",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Agriculture and Salary Received as a Member of the Lok Sabha",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Durg College Raipur Chhattisgarh (Pt. Ravishankar Shukla University Year 1982)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 18331819,
+      "immovable": 33030900,
+      "total": 45743419,
+      "liabilities": 1879744
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1256",
+    "retrieved": "2026-08-27"
+  }
+}

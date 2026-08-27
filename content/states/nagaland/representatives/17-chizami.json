@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-17-chizami",
+  "constituency": {
+    "number": 17,
+    "name": "Chizami",
+    "district": "Phek",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "K. G Kenye",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PU Arts North Eastern Hill university 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9007138,
+      "immovable": 31000000,
+      "total": 40007138,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6783",
+    "retrieved": "2026-08-27"
+  }
+}

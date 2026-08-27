@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-104-dindori",
+  "constituency": {
+    "number": 104,
+    "name": "Dindori",
+    "district": "Dindori",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Omkar Singh Markam",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture and MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Govt. Chandravijay college dindori, Rani Durgawati University jabalpur in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6095497,
+      "immovable": 7300000,
+      "total": 13395497,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1163",
+    "retrieved": "2026-08-27"
+  }
+}

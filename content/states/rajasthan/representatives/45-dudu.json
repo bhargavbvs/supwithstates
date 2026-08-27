@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-45-dudu",
+  "constituency": {
+    "number": 45,
+    "name": "Dudu",
+    "district": "Dudu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Prem Chand Bairwa",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "PhD from Rajasthan University in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3854216,
+      "immovable": 44500000,
+      "total": 48354216,
+      "liabilities": 9805981
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=198",
+    "retrieved": "2026-08-27"
+  }
+}

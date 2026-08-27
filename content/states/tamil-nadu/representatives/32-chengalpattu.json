@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-32-chengalpattu",
+  "constituency": {
+    "number": 32,
+    "name": "Chengalpattu",
+    "district": "Chengalpattu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S. Thiyagarajan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech (EEE) - SRM University, Year of Completed 2016, Diploma in Electrical & Electronics Engineering Sri Balaji Polytechnic College, Year of Completed 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4648036,
+      "immovable": 3500000,
+      "total": 8148036,
+      "liabilities": 290000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=2575",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-103-beawar",
+  "constituency": {
+    "number": 103,
+    "name": "Beawar",
+    "district": "Beawar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shanker Singh Rawat",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Political & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (B.A). in 2017 From J.R.N Rajasthan Vidhyapeeth University, Udaipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8130452,
+      "immovable": 23057000,
+      "total": 31187452,
+      "liabilities": 3089297
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=4",
+    "retrieved": "2026-08-27"
+  }
+}

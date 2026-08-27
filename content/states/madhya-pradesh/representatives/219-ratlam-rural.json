@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-219-ratlam-rural",
+  "constituency": {
+    "number": 219,
+    "name": "Ratlam Rural",
+    "district": "Ratlam",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mathura Lal Damar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculture and Pension",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "6th from Govt. School Birmaval"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2941944,
+      "immovable": 15000000,
+      "total": 17941944,
+      "liabilities": 2891950
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=397",
+    "retrieved": "2026-08-27"
+  }
+}

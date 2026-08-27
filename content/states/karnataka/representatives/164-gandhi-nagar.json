@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-164-gandhi-nagar",
+  "constituency": {
+    "number": 164,
+    "name": "Gandhi Nagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dinesh Gundu Rao",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "MLA, Social Service and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E, (E & C) in 1992 from BMS College, Bangalore"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 60688303,
+      "immovable": 420000000,
+      "total": 480688573,
+      "liabilities": 63151909
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7246",
+    "retrieved": "2026-08-27"
+  }
+}

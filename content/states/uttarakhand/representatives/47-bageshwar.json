@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-47-bageshwar",
+  "constituency": {
+    "number": 47,
+    "name": "Bageshwar",
+    "district": "B>geshwar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Parwati Devi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "House Wife & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Inter College Kapkot In 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4226695,
+      "immovable": 26008000,
+      "total": 29634695,
+      "liabilities": 5220000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=763",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-117-sagar",
+  "constituency": {
+    "number": 117,
+    "name": "Sagar",
+    "district": "Shivamogga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gopala Krishna Beluru",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture, Businessman, Social worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC, Government PU College, Sagara 1981-1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32833029,
+      "immovable": 15200000,
+      "total": 48030029,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8255",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-62-behror",
+  "constituency": {
+    "number": 62,
+    "name": "Behror",
+    "district": "Kotputli-Behror",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Jaswant Singh Yadav",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "MLA/Minister Pension, Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Graduate( Ayurvedic Medicine & Surgery ) From Delhi University Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37491597,
+      "immovable": 77400000,
+      "total": 114911657,
+      "liabilities": 3430410
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=98",
+    "retrieved": "2026-08-27"
+  }
+}

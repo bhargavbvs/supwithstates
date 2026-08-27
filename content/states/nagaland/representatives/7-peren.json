@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-7-peren",
+  "constituency": {
+    "number": 7,
+    "name": "Peren",
+    "district": "Peren",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Taditui Rangkau Zeliang",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Politician and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Appeared Unsuccesfully in the Bachelor of Arts Final Exam in 1979 from Kohima College, Then under North Eastern Hill University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26756017,
+      "immovable": 44496000,
+      "total": 71252021,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6910",
+    "retrieved": "2026-08-27"
+  }
+}

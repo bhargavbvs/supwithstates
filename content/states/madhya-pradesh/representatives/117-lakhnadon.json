@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-117-lakhnadon",
+  "constituency": {
+    "number": 117,
+    "name": "Lakhnadon",
+    "district": "Seoni",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Yogendra Singh Baba",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture, Slaray & Allowance as a MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in Sociology from Barkat Ullah University Bhopal, In Aprel - May 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15009220,
+      "immovable": 9500000,
+      "total": 24509220,
+      "liabilities": 60000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=3",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-59-shillai",
+  "constituency": {
+    "number": 59,
+    "name": "Shillai",
+    "district": "Sirmaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harshwardhan Chauhan",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Politician, MLA for last 5 Years in H.P. and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. LLB From H.P. University Shimla Law, Year-1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16695454,
+      "immovable": 120000000,
+      "total": 136483615,
+      "liabilities": 4818660
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=206",
+    "retrieved": "2026-08-27"
+  }
+}

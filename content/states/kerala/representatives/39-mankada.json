@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-39-mankada",
+  "constituency": {
+    "number": 39,
+    "name": "Mankada",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manjalamkuzhi Ali",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 73,
+    "profession": "Political & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre Degree Passed from University of Calicut, MES Kalladi College, Mannarkkad in 1970"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 23767465,
+      "immovable": 120230000,
+      "total": 143997465,
+      "liabilities": 33704924
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=812",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-36-mawkyrwat",
+  "constituency": {
+    "number": 36,
+    "name": "Mawkyrwat",
+    "district": "South West Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Renikton Lyngdoh Tongkhar",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Member Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. From North Eastern Hill University, Year-1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 106095912,
+      "immovable": 189380000,
+      "total": 295475912,
+      "liabilities": 72820406
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6964",
+    "retrieved": "2026-08-27"
+  }
+}

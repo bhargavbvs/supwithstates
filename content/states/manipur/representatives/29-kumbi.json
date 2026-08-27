@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-29-kumbi",
+  "constituency": {
+    "number": 29,
+    "name": "Kumbi",
+    "district": "Bishnupur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanasam Premchandra Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Examination (Class 12th) From PLC Academy, Yairipok, Uttar Purva Siksha Board, Assam In 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4340211,
+      "immovable": 11303889,
+      "total": 15644103,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=108",
+    "retrieved": "2026-08-27"
+  }
+}

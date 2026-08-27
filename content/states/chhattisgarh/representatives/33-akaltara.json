@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-33-akaltara",
+  "constituency": {
+    "number": 33,
+    "name": "Akaltara",
+    "district": "Janjgir - Champa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raghavendra Kumar Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 37,
+    "profession": "Agriculture Work, Home Rent and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Sindhiya School Gwalior Class 12 (C.B.S.C) Year 2005, Graduate B.S.L.L.B, I.L.S.Law College Pune Pune University Year 2010 (Maharashtra)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28690599,
+      "immovable": 115000000,
+      "total": 143690609,
+      "liabilities": 6133198
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=970",
+    "retrieved": "2026-08-27"
+  }
+}

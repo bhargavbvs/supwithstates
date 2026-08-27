@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-214-nanjangud",
+  "constituency": {
+    "number": 214,
+    "name": "Nanjangud",
+    "district": "Mys#ru",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Darshan Dhruvanarayana",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 28,
+    "profession": "Advocate by Profession",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Public Policy) from University of Edinburgh, UK in 2020, BA , LLB Hons at Christ University Bengaluru in 2018"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14497695,
+      "immovable": 28100000,
+      "total": 42597695,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7599",
+    "retrieved": "2026-08-27"
+  }
+}

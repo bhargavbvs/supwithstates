@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-73-kosli",
+  "constituency": {
+    "number": 73,
+    "name": "Kosli",
+    "district": "Rewari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Yadav",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A Passed From MDU Rohtak 1998"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 86838763,
+      "immovable": 595523836,
+      "total": 682362605,
+      "liabilities": 85810651
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=527",
+    "retrieved": "2026-08-27"
+  }
+}

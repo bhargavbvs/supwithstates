@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-20-sewda",
+  "constituency": {
+    "number": 20,
+    "name": "Sewda",
+    "district": "Datia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Agrawal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agrasen Inden Gas Agency",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A . From Jivaji University Gwalior, Year-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17956085,
+      "immovable": 32920928,
+      "total": 50877013,
+      "liabilities": 3684568
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=634",
+    "retrieved": "2026-08-27"
+  }
+}

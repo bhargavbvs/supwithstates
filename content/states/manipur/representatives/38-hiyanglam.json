@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-38-hiyanglam",
+  "constituency": {
+    "number": 38,
+    "name": "Hiyanglam",
+    "district": "Kakching",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Yumnam Radheshyam Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine & of Surgery , Regional Medical College Imphal Manipur under Guahati University in Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4375376,
+      "immovable": 10000000,
+      "total": 15185376,
+      "liabilities": 3865656
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=178",
+    "retrieved": "2026-08-27"
+  }
+}

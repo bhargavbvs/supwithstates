@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-14-khanapur",
+  "constituency": {
+    "number": 14,
+    "name": "Khanapur",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vithal Somanna Halagekar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Retired Private Servant & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. From Sangoli Rayanna College, Belagavi, Year-1987-88 & B.Sc. From GSS College Belagavi, Year-1986-87"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20290625,
+      "immovable": 13085240,
+      "total": 33375869,
+      "liabilities": 26669779
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7448",
+    "retrieved": "2026-08-27"
+  }
+}

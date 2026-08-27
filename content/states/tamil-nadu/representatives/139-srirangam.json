@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-139-srirangam",
+  "constituency": {
+    "number": 139,
+    "name": "Srirangam",
+    "district": "Tiruchirappalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramesh",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 31,
+    "profession": "Private Company Employee",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Bachelor Of Engineering) From ARM College of Engineering and Technology Maraimalai Nagar Year 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3322220,
+      "immovable": 0,
+      "total": 3322220,
+      "liabilities": 1363750
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1054",
+    "retrieved": "2026-08-27"
+  }
+}

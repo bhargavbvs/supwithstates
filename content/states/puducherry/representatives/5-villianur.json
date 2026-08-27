@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-5-villianur",
+  "constituency": {
+    "number": 5,
+    "name": "Villianur",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B.Ravicoumar",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Arignar Anna Govt. Arts College Villupuram-1998"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 109746152,
+      "immovable": 83400000,
+      "total": 216446153,
+      "liabilities": 147568331
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=130",
+    "retrieved": "2026-08-27"
+  }
+}

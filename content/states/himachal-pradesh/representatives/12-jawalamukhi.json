@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-12-jawalamukhi",
+  "constituency": {
+    "number": 12,
+    "name": "Jawalamukhi",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Rattan",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Advocate & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post graduate Diploma in Personal Management & Labour Welfare in 1989-1990, LLB in 1988-89 from H.P. University Shimla, B.A Hons in Political Science from Degree College Hamirpur Session in 1983-84"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26814224,
+      "immovable": 17500000,
+      "total": 41679522,
+      "liabilities": 3296938
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=151",
+    "retrieved": "2026-08-27"
+  }
+}

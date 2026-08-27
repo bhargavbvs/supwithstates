@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-67-ahiwara",
+  "constituency": {
+    "number": 67,
+    "name": "Ahiwara",
+    "district": "Durg",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Domanlal Korsewada",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 75,
+    "profession": "Pension and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Poetical Science From P. Ravishanker Shukla University Raipur Year 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3526118,
+      "immovable": 12700000,
+      "total": 16226118,
+      "liabilities": 967384
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=280",
+    "retrieved": "2026-08-27"
+  }
+}

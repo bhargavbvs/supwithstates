@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-24-banjar",
+  "constituency": {
+    "number": 24,
+    "name": "Banjar",
+    "district": "Kullu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surender Shourie",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A.From HPU Shimla 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6948181,
+      "immovable": 2000000,
+      "total": 8948181,
+      "liabilities": 5000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=21",
+    "retrieved": "2026-08-27"
+  }
+}

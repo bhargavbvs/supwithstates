@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-4-kanhangad",
+  "constituency": {
+    "number": 4,
+    "name": "Kanhangad",
+    "district": "Kasaragod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Govindan Pallikappil",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Socio - Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Kerala University in1995 and BA from Calicut University in 1987"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 6401298,
+      "immovable": 2780000,
+      "total": 9676298,
+      "liabilities": 84149
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=105",
+    "retrieved": "2026-08-27"
+  }
+}

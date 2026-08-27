@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-79-antagarh",
+  "constituency": {
+    "number": 79,
+    "name": "Antagarh",
+    "district": "Uttar Bastar Kanker",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vikram Usendi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Pension & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Higher Secondary (11th) from Govt. U. Ma. Vi. Antagarh in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27516767,
+      "immovable": 20300000,
+      "total": 46236767,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=14",
+    "retrieved": "2026-08-27"
+  }
+}

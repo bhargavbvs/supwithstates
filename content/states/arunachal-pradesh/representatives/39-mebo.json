@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-39-mebo",
+  "constituency": {
+    "number": 39,
+    "name": "Mebo",
+    "district": "East Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Oken Tayeng",
+    "election": "2024",
+    "elected_party": "Peoples Party of Arunachal",
+    "current_party": "Peoples Party of Arunachal",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Social Worker and Business-man",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate BA (Hons) English Literature, From University of Delhi Year 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 94540248,
+      "immovable": 48450000,
+      "total": 120458058,
+      "liabilities": 4297740
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=176",
+    "retrieved": "2026-08-27"
+  }
+}

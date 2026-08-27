@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-3-bargarh",
+  "constituency": {
+    "number": 3,
+    "name": "Bargarh",
+    "district": "Bargarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashwini Kumar Sarangi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Commerce from Panchayat College, Bargarh, Sambalpur University in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8343890,
+      "immovable": 7000000,
+      "total": 14585995,
+      "liabilities": 1291121
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=267",
+    "retrieved": "2026-08-27"
+  }
+}

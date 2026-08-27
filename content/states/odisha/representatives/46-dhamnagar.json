@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-46-dhamnagar",
+  "constituency": {
+    "number": 46,
+    "name": "Dhamnagar",
+    "district": "Bhadrak",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Suryabanshi Suraj Sthitaprajna",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 28,
+    "profession": "Transport Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech Soa University, BBSR 2016, LLB Bhadrak Law College F.M. University 2022"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6064900,
+      "immovable": 0,
+      "total": 6049900,
+      "liabilities": 1738399
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1028",
+    "retrieved": "2026-08-27"
+  }
+}

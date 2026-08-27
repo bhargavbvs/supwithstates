@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-182-alangudi",
+  "constituency": {
+    "number": 182,
+    "name": "Alangudi",
+    "district": "Pudukkottai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Siva.V.Meyyanathan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Computer Application (MCA), From Thanthai Hans Roever College, Perambalur, Bharathidasan University1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11387042,
+      "immovable": 21000000,
+      "total": 32387043,
+      "liabilities": 8106237
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1413",
+    "retrieved": "2026-08-27"
+  }
+}

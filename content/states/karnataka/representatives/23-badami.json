@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-23-badami",
+  "constituency": {
+    "number": 23,
+    "name": "Badami",
+    "district": "B",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B.B.Chimmanakatti",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBM From Bhagavan Mahaveera Jain College Bangalore, Bangalore University - August-2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20571896,
+      "immovable": 36500000,
+      "total": 57071896,
+      "liabilities": 27148417
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7110",
+    "retrieved": "2026-08-27"
+  }
+}

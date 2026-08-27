@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-9-chayangtajo",
+  "constituency": {
+    "number": 9,
+    "name": "Chayangtajo",
+    "district": "East Kameng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Hayeng Mangfi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from University of Pune, India in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25285900,
+      "immovable": 341156000,
+      "total": 380816587,
+      "liabilities": 170375622
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=23",
+    "retrieved": "2026-08-27"
+  }
+}

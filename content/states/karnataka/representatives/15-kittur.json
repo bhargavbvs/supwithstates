@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-15-kittur",
+  "constituency": {
+    "number": 15,
+    "name": "Kittur",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Babasaheb Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. (Agri) From University of Agricultural Science, Dharwad, Year-1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14885721,
+      "immovable": 39800000,
+      "total": 51716730,
+      "liabilities": 11233735
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7457",
+    "retrieved": "2026-08-27"
+  }
+}

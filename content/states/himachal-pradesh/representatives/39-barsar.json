@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-39-barsar",
+  "constituency": {
+    "number": 39,
+    "name": "Barsar",
+    "district": "Ham|rpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Inder Dutt Lakhanpal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Social and Public Service / Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Obtained Bachelor of Arts from HP University Shimla in 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8714093,
+      "immovable": 71800000,
+      "total": 80514093,
+      "liabilities": 16737272
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=484",
+    "retrieved": "2026-08-27"
+  }
+}

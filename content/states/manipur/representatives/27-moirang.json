@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-27-moirang",
+  "constituency": {
+    "number": 27,
+    "name": "Moirang",
+    "district": "Bishnupur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thongam Shanti Singh",
+    "election": "2022",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University(Two Yeasr Course) in Science, Examination 1980 Under Manipur University and Moirang College Complete In 1981 In"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45733157,
+      "immovable": 26850000,
+      "total": 72583157,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=111",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-26-shella",
+  "constituency": {
+    "number": 26,
+    "name": "Shella",
+    "district": "East Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Balajied Kupar Synrem",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM from Amity Institute of Advanced Legal Studies, Amity University Uttar Pradesh in 2015, LLB from Campus Law Center, New Delhi in 2013, B.A (Hons in English) from Zakir Husain College, New Delhi in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13839408,
+      "immovable": 35000000,
+      "total": 48839410,
+      "liabilities": 976052
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6764",
+    "retrieved": "2026-08-27"
+  }
+}

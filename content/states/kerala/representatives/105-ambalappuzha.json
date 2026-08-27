@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-105-ambalappuzha",
+  "constituency": {
+    "number": 105,
+    "name": "Ambalappuzha",
+    "district": "Alappuzha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G.Sudhakaran",
+    "election": "2026",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 78,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com 1969, B.Com 1967, LLB 1975"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3564366,
+      "immovable": 12200000,
+      "total": 10525366,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=317",
+    "retrieved": "2026-08-27"
+  }
+}

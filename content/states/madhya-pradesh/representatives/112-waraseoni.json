@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-112-waraseoni",
+  "constituency": {
+    "number": 112,
+    "name": "Waraseoni",
+    "district": "Balaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vivek Vicky Patel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture and Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA in 1994, LLB in 2000 From SSP College Jabalpur University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8369314,
+      "immovable": 28800000,
+      "total": 37169314,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=435",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-79-hussainabad",
+  "constituency": {
+    "number": 79,
+    "name": "Hussainabad",
+    "district": "Palamu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Kumar Singh Yadav",
+    "election": "2024",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Social Work, Agriculture, Pension",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric in 1980 from Harve High School Japla Vihar School Patna"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8024179,
+      "immovable": 148025000,
+      "total": 155989180,
+      "liabilities": 1718689
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=324",
+    "retrieved": "2026-08-27"
+  }
+}

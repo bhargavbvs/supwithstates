@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-61-ramnagar",
+  "constituency": {
+    "number": 61,
+    "name": "Ramnagar",
+    "district": "Nainit>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Diwan Singh Bisht",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 67,
+    "profession": "MLA Income,Rent From Reliance Tower,Rent From Shop,Income From Chakki",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Economics) From DSV Campus Kumaun University Nanital Uttrakhand in 1978-79"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7736378,
+      "immovable": 32625000,
+      "total": 40361379,
+      "liabilities": 280913
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=7",
+    "retrieved": "2026-08-27"
+  }
+}

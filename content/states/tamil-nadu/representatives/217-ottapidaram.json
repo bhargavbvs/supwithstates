@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-217-ottapidaram",
+  "constituency": {
+    "number": 217,
+    "name": "Ottapidaram",
+    "district": "Thoothukudi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "P .Mathanraja",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "BUSINESS (APREXO GLOBAL ENTERPRISES)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE from Sri Venkateshwara College of Engineerning in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10704101,
+      "immovable": 12490100,
+      "total": 23194202,
+      "liabilities": 8503203
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=3209",
+    "retrieved": "2026-08-27"
+  }
+}

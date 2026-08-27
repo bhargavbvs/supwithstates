@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-99-lehra",
+  "constituency": {
+    "number": 99,
+    "name": "Lehra",
+    "district": "Sangrur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Barinder Kumar Goyal",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Consultancy",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. LL.B From Meerut University Meerut Now Know as Chaudhary Charan Singh University Meerut Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4343066,
+      "immovable": 18000000,
+      "total": 22343066,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=234",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-204-sattur",
+  "constituency": {
+    "number": 204,
+    "name": "Sattur",
+    "district": "Virudhunagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kadarkarairaj. A",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "10th Std not Passed from Ramamurthy Government Higher Secondary School, Nadupatti in 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19914042,
+      "immovable": 7135413,
+      "total": 27049455,
+      "liabilities": 3507808
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1238",
+    "retrieved": "2026-08-27"
+  }
+}

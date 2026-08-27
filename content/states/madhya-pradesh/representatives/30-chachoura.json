@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-30-chachoura",
+  "constituency": {
+    "number": 30,
+    "name": "Chachoura",
+    "district": "Guna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Priyanka Penchi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 32,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.tech (Electrical and Electronic) Rajasthan Institute of Engineering and Technology Rajasthan Technical University Year 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6406098,
+      "immovable": 0,
+      "total": 6406098,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=119",
+    "retrieved": "2026-08-27"
+  }
+}

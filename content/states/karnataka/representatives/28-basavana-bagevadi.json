@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-28-basavana-bagevadi",
+  "constituency": {
+    "number": 28,
+    "name": "Basavana Bagevadi",
+    "district": "Vijayapura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shivanand Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Medical Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Pharmacy from KLEs J N Medical College, Belgaum in 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 80751825,
+      "immovable": 124565210,
+      "total": 353912438,
+      "liabilities": 36954844
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6775",
+    "retrieved": "2026-08-27"
+  }
+}

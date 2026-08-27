@@ -1,0 +1,25 @@
+{
+  "slug": "odisha",
+  "name": "Odisha",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 147,
+  "district_count": 30,
+  "term": {
+    "start": "2024"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Odisha2024/",
+    "adr_serious_list": "https://www.myneta.info/Odisha2024/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      84.45,
+      20.18
+    ],
+    "zoom": 6
+  }
+}

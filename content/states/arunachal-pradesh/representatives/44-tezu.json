@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-44-tezu",
+  "constituency": {
+    "number": 44,
+    "name": "Tezu",
+    "district": "Lohit",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Mohesh Chai",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Social Service, Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD (Chest Specialist) from RIMS, Imphal, Manipur University in 2007, MBBS from Dr. B.R. Ambedkar Medical College, Bangalore University in 1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8540960,
+      "immovable": 18600000,
+      "total": 27140960,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=79",
+    "retrieved": "2026-08-27"
+  }
+}

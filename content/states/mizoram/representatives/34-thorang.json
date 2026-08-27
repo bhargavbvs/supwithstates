@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-34-thorang",
+  "constituency": {
+    "number": 34,
+    "name": "Thorang",
+    "district": "Lunglei",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "R. Rohmingliana",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Sociology) from IGNOU in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8913408,
+      "immovable": 102400000,
+      "total": 111313407,
+      "liabilities": 2799329
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=80",
+    "retrieved": "2026-08-27"
+  }
+}

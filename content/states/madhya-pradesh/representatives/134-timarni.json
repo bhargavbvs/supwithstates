@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-134-timarni",
+  "constituency": {
+    "number": 134,
+    "name": "Timarni",
+    "district": "Harda",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Abhijeet Shah (Ankit Baba)",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 31,
+    "profession": "Salary and Tuition Fees",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA Tilak Maharashtra University Pune Year 2016"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5675439,
+      "immovable": 17000000,
+      "total": 22675439,
+      "liabilities": 13553901
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=639",
+    "retrieved": "2026-08-27"
+  }
+}

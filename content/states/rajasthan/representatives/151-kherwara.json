@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-151-kherwara",
+  "constituency": {
+    "number": 151,
+    "name": "Kherwara",
+    "district": "Udaipur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Dayaram Parmar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 78,
+    "profession": "Ex MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From Mohanlal Sukhadia University, Udaypur Year 2008, M.A. (Philosophy) Udaypur University Year 1970-72"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32818584,
+      "immovable": 12884000,
+      "total": 45657587,
+      "liabilities": 14306
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=251",
+    "retrieved": "2026-08-27"
+  }
+}

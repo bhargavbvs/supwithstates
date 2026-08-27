@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-109-nagaur",
+  "constituency": {
+    "number": 109,
+    "name": "Nagaur",
+    "district": "Nagaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harendra Mirdha",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "BBA in 1968, MBA in 1970 from Birla Technology science College pilani"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44384499,
+      "immovable": 146994000,
+      "total": 188358899,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=489",
+    "retrieved": "2026-08-27"
+  }
+}

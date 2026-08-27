@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-197-gandhwani",
+  "constituency": {
+    "number": 197,
+    "name": "Gandhwani",
+    "district": "Dhar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Umang Singhar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Social worker and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 1994 Gujarati Arts college indore devi ahilya university"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14995019,
+      "immovable": 22948000,
+      "total": 37943019,
+      "liabilities": 1015290
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=690",
+    "retrieved": "2026-08-27"
+  }
+}

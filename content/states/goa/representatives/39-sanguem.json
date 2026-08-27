@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-39-sanguem",
+  "constituency": {
+    "number": 39,
+    "name": "Sanguem",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subhash Uttam Phal Dessai",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.Sc From Bomway University in 1987,PG Diploma in Computer Application Goa University in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17789843,
+      "immovable": 74111710,
+      "total": 87651774,
+      "liabilities": 15534834
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=30",
+    "retrieved": "2026-08-27"
+  }
+}

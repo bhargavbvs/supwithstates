@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-58-chaksu",
+  "constituency": {
+    "number": 58,
+    "name": "Chaksu",
+    "district": "Jaipur(Gramin)",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramavtar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10Th Pass From Rajasthan Open School Jaipur Year 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1306325,
+      "immovable": 8100000,
+      "total": 9406325,
+      "liabilities": 2480000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=168",
+    "retrieved": "2026-08-27"
+  }
+}

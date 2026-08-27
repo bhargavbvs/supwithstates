@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-115-adoor",
+  "constituency": {
+    "number": 115,
+    "name": "Adoor",
+    "district": "Pathanamthitta",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Advocate C V Santhakumar",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LLB (5 Years), Degree From University of Calicut In 2015, Through Government law College, Trissur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3282160,
+      "immovable": 4000000,
+      "total": 7282160,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=304",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-7-jharsuguda",
+  "constituency": {
+    "number": 7,
+    "name": "Jharsuguda",
+    "district": "Jharsuguda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tankadhar Tripathy",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Social Worker , BUSINESS",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor in Law , Dhenkanal Law College ,Dhenkanal in 2011, B.A 2007"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9983094,
+      "immovable": 9700000,
+      "total": 20433094,
+      "liabilities": 3399078
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=466",
+    "retrieved": "2026-08-27"
+  }
+}

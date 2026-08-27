@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-72-khariar",
+  "constituency": {
+    "number": 72,
+    "name": "Khariar",
+    "district": "Nuaparha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adhiraj Mohan Panigrahi",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Business, Social Services",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "+2 Arts from Govt. College, Bhawanipatna"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13939262,
+      "immovable": 65500000,
+      "total": 79439264,
+      "liabilities": 8415491
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=194",
+    "retrieved": "2026-08-27"
+  }
+}

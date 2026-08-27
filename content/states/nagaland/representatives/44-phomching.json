@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-44-phomching",
+  "constituency": {
+    "number": 44,
+    "name": "Phomching",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "K Konngam Konyak",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class VIII Govt High School Jotsoma Nagaland Board of School Education in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 392242,
+      "immovable": 117000000,
+      "total": 117392242,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6847",
+    "retrieved": "2026-08-27"
+  }
+}

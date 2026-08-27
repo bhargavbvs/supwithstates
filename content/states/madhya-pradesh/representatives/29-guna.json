@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-29-guna",
+  "constituency": {
+    "number": 29,
+    "name": "Guna",
+    "district": "Guna",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Panna Lal Shakya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Jewajai University gwalior in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1183700,
+      "immovable": 5000000,
+      "total": 6183700,
+      "liabilities": 350000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=924",
+    "retrieved": "2026-08-27"
+  }
+}

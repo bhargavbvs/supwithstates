@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-13-tehri",
+  "constituency": {
+    "number": 13,
+    "name": "Tehri",
+    "district": "Tehri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kishore Upadhyay",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Pensioneer",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Phd From Gurukul University Haridwar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 597176,
+      "immovable": 31650804,
+      "total": 26927176,
+      "liabilities": 3868241
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=736",
+    "retrieved": "2026-08-27"
+  }
+}

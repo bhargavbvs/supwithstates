@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-58-tosham",
+  "constituency": {
+    "number": 58,
+    "name": "Tosham",
+    "district": "Bhiwani",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shruti Choudhry",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B From B.R.Ambedkar University, Agra, Uttar Pradesh Year 2000, B.A. (Honours) From University of Delhi Year 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 240747000,
+      "immovable": 1101203000,
+      "total": 1345699000,
+      "liabilities": 133798000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=491",
+    "retrieved": "2026-08-27"
+  }
+}

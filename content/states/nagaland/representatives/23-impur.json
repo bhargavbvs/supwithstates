@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-23-impur",
+  "constituency": {
+    "number": 23,
+    "name": "Impur",
+    "district": "Mokokchung",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "T N Mannen",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Business, Politician and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (RD) from East Angila University, Norwich, UK in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48123857,
+      "immovable": 106078175,
+      "total": 154202035,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6795",
+    "retrieved": "2026-08-27"
+  }
+}

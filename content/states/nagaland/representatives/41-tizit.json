@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-41-tizit",
+  "constituency": {
+    "number": 41,
+    "name": "Tizit",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "P. Paiwang Konyak",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Farmer, Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 2004 from Dimapur Govt. College Dimapur, nagaland University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5382418,
+      "immovable": 1400000,
+      "total": 6784053,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6947",
+    "retrieved": "2026-08-27"
+  }
+}

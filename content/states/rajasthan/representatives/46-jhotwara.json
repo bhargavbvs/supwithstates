@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-46-jhotwara",
+  "constituency": {
+    "number": 46,
+    "name": "Jhotwara",
+    "district": "Jaipur(Gramin)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Col. Rajyavardhan Rathore",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Professional Sportsman and Ex-Serviceman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Khadakwasla in 1989 Through NDA Jawahlal Nehru University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64382218,
+      "immovable": 76161514,
+      "total": 140543732,
+      "liabilities": 12677160
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=231",
+    "retrieved": "2026-08-27"
+  }
+}

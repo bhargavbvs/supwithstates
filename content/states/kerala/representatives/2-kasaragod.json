@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-2-kasaragod",
+  "constituency": {
+    "number": 2,
+    "name": "Kasaragod",
+    "district": "Kasaragod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kallatra Mahin",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Agriculturist, Land Lord & Businessmen",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre Degree University Of Calicut 1981"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 83140689,
+      "immovable": 532342156,
+      "total": 615486667,
+      "liabilities": 64218012
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=638",
+    "retrieved": "2026-08-27"
+  }
+}

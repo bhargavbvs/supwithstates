@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-39-gurmitkal",
+  "constituency": {
+    "number": 39,
+    "name": "Gurmitkal",
+    "district": "Y",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sharana Gowda Kandakur",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Gulbarga University, Chandrashekhar Education Society Degree College of Arts, Science & BBM, Yadgiri Karnataka in 2005"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14599588,
+      "immovable": 10920000,
+      "total": 25519688,
+      "liabilities": 3053900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7280",
+    "retrieved": "2026-08-27"
+  }
+}

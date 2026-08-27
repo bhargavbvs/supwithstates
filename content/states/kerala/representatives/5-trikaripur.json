@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-5-trikaripur",
+  "constituency": {
+    "number": 5,
+    "name": "Trikaripur",
+    "district": "Kasaragod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Varier",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Computer Hardware and Network, S.S.L.C from Kerala Government 1996-97"
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 5,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14821828,
+      "immovable": 51305000,
+      "total": 66126828,
+      "liabilities": 810000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=911",
+    "retrieved": "2026-08-27"
+  }
+}

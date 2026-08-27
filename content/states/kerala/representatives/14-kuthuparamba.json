@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-14-kuthuparamba",
+  "constituency": {
+    "number": 14,
+    "name": "Kuthuparamba",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P K Praveen",
+    "election": "2026",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Pensioner, Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. & M.Phil. From Annamalai University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13324760,
+      "immovable": 20515000,
+      "total": 32762174,
+      "liabilities": 1576384
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=153",
+    "retrieved": "2026-08-27"
+  }
+}

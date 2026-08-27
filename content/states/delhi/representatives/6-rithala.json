@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-6-rithala",
+  "constituency": {
+    "number": 6,
+    "name": "Rithala",
+    "district": "North West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kulwant Rana",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 55,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelors of Arts History from Manonmaniam Sunderanar University, T.N. in 2014"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 50096332,
+      "immovable": 651028746,
+      "total": 701125079,
+      "liabilities": 25530029
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=76",
+    "retrieved": "2026-08-27"
+  }
+}

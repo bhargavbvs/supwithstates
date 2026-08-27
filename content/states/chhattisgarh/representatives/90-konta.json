@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-90-konta",
+  "constituency": {
+    "number": 90,
+    "name": "Konta",
+    "district": "Sukma",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kawasi Lakhma",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture & Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6417921,
+      "immovable": 16540000,
+      "total": 21923218,
+      "liabilities": 3588107
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=47",
+    "retrieved": "2026-08-27"
+  }
+}

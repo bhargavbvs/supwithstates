@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-37-jalandhar-cantt",
+  "constituency": {
+    "number": 37,
+    "name": "Jalandhar Cantt.",
+    "district": "Jalandhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pargat Singh Powar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Sports Person/MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Lyalpur Khalsa College,Jalandhar,GNDU, In 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21267794,
+      "immovable": 10360000,
+      "total": 31627794,
+      "liabilities": 513205
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=95",
+    "retrieved": "2026-08-27"
+  }
+}

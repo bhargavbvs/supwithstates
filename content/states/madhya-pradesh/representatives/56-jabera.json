@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-56-jabera",
+  "constituency": {
+    "number": 56,
+    "name": "Jabera",
+    "district": "Damoh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dharmendra Bhav Singh Lodhi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Agriculture Income, MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Hindi) from PG College Damoh Dr. Harisingh Gaur University Sagar in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4076848,
+      "immovable": 8500000,
+      "total": 12576848,
+      "liabilities": 3808008
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=723",
+    "retrieved": "2026-08-27"
+  }
+}

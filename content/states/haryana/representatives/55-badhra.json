@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-55-badhra",
+  "constituency": {
+    "number": 55,
+    "name": "Badhra",
+    "district": "Charki Dadri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umed Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Ex. Serviceman from Indian Navy, Business and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation Pass from Govt. Boys Sr.Sec School Laxmi Nagar Delhi, CBSE in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9721159,
+      "immovable": 115900000,
+      "total": 125611159,
+      "liabilities": 7415000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=116",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-28-hrangturzo",
+  "constituency": {
+    "number": 28,
+    "name": "Hrangturzo",
+    "district": "Serchhip",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalmuanpuia Punte",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts under NEHU in the year 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 792493,
+      "immovable": 5000000,
+      "total": 5772493,
+      "liabilities": 135190
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=59",
+    "retrieved": "2026-08-27"
+  }
+}

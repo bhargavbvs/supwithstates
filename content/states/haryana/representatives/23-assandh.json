@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-23-assandh",
+  "constituency": {
+    "number": 23,
+    "name": "Assandh",
+    "district": "Karnal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yoginder Singh Rana",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Salaried, Business Man and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Kuruskhetra University Kuruskhetra in Year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29278116,
+      "immovable": 359637200,
+      "total": 388915318,
+      "liabilities": 6500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=376",
+    "retrieved": "2026-08-27"
+  }
+}

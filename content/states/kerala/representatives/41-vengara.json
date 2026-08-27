@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-41-vengara",
+  "constituency": {
+    "number": 41,
+    "name": "Vengara",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K.M. Shaji",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Social work and agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "BBM Course (not completed) Al-Ameen College Bangalore University 1992-94, pre-degree passed from Islahia Chennamangalore College, Kozhikdoe in the year 1989-92. SSLC Passed from Kaniyambetta Govt. High School, Wayanad 1988-89"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 14243490,
+      "immovable": 23950000,
+      "total": 38193491,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=326",
+    "retrieved": "2026-08-27"
+  }
+}

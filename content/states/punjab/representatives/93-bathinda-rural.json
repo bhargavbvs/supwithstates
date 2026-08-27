@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-93-bathinda-rural",
+  "constituency": {
+    "number": 93,
+    "name": "Bathinda Rural",
+    "district": "Bathinda",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Amit Rattan",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering/Technical (Mechanical) from Baba Banda Singh Bahadur Engineering College, Fatehgarh Sahib Punjab, Punjab University in 2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14721185,
+      "immovable": 12460000,
+      "total": 27181185,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=336",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-115-seoni",
+  "constituency": {
+    "number": 115,
+    "name": "Seoni",
+    "district": "Seoni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dinesh Rai Munmun",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Business, Petrol Pump, Agriculture, Dharmakanta, Tol Tax Contractor & Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com in 1990 from Dr. Harisingh Gour University Sagar, LLB in 1996 from Rani Durgavti University Jabalpur."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 242260231,
+      "immovable": 108398333,
+      "total": 350658564,
+      "liabilities": 163002648
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=91",
+    "retrieved": "2026-08-27"
+  }
+}

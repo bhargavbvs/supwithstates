@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-122-kinathukadavu",
+  "constituency": {
+    "number": 122,
+    "name": "Kinathukadavu",
+    "district": "Coimbatore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vignesh K",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc (Bachelor of Science (Computer Science), SMS College of Arts and Science in 2006-2009, 12th Standard, City Corp HSS School in 2005-2006, SSLC, CSI HSS School in 2003-2004."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15436557,
+      "immovable": 16500000,
+      "total": 31936561,
+      "liabilities": 9159967
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=874",
+    "retrieved": "2026-08-27"
+  }
+}

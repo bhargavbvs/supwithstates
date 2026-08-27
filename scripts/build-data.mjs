@@ -44,6 +44,14 @@ for (const slug of slugs) {
   const mps = readAll(join(stateDir, 'mps'))
     .sort((a, b) => a.constituency.number - b.constituency.number);
 
+  // A state with no records yet is a state the switcher must not offer:
+  // choosing it would load a map of grey shapes with nothing behind them.
+  // It stays in content/ and appears the moment its records are built.
+  if (!constituencies.length) {
+    console.log(`— ${slug}: no records yet, left out of the index`);
+    continue;
+  }
+
   const pagesDir = join(stateDir, 'pages');
   const pages = existsSync(pagesDir)
     ? Object.fromEntries(readdirSync(pagesDir).filter((f) => f.endsWith('.md'))

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-40-basna",
+  "constituency": {
+    "number": 40,
+    "name": "Basna",
+    "district": "Mahasamund",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sampat Agrawal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Loan given & Interest received from bank and Dividends and salary from shares",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate (Hindi) from Mets University Chhattisgarh in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40369160,
+      "immovable": 72591694,
+      "total": 112960854,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=410",
+    "retrieved": "2026-08-27"
+  }
+}

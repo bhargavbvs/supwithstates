@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-7-kalliasseri",
+  "constituency": {
+    "number": 7,
+    "name": "Kalliasseri",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.Vijin",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 36,
+    "profession": "Presently member of Kerala Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters Degree in Phylosophy from the S.S.U.S, Kalady in the year 2021"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3264285,
+      "immovable": 7500000,
+      "total": 7764285,
+      "liabilities": 5842600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=99",
+    "retrieved": "2026-08-27"
+  }
+}

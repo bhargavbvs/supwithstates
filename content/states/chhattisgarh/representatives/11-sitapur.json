@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-11-sitapur",
+  "constituency": {
+    "number": 11,
+    "name": "Sitapur",
+    "district": "Surguja",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Poorv Sainik Ramkumar Toppo",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 31,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Mats University Open and Orang Raipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1312000,
+      "immovable": 0,
+      "total": 1312000,
+      "liabilities": 1700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1224",
+    "retrieved": "2026-08-27"
+  }
+}

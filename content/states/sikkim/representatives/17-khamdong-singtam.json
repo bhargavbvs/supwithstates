@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-17-khamdong-singtam",
+  "constituency": {
+    "number": 17,
+    "name": "Khamdong-Singtam",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nar Bahadur Dahal",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Politician & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. In 1995 Under North Bengal University from Sikkim Govt. Collage"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 564346722,
+      "immovable": 176745181,
+      "total": 741091903,
+      "liabilities": 190150431
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=51",
+    "retrieved": "2026-08-27"
+  }
+}

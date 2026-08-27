@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-33-suruhuto",
+  "constituency": {
+    "number": 33,
+    "name": "Suruhuto",
+    "district": "Zunheboto",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "S. Toiho Yeptho",
+    "election": "2023",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Nagaland University 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11840902,
+      "immovable": 59445100,
+      "total": 71286602,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6929",
+    "retrieved": "2026-08-27"
+  }
+}

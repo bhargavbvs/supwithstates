@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-126-tarikere",
+  "constituency": {
+    "number": 126,
+    "name": "Tarikere",
+    "district": "Chikkamagal#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G.H. Srinivasa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB, National Law College ,Kuvempu University Shivamoga in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23468286,
+      "immovable": 133563391,
+      "total": 157002688,
+      "liabilities": 9523404
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8354",
+    "retrieved": "2026-08-27"
+  }
+}

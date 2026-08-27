@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-68-nargund",
+  "constituency": {
+    "number": 68,
+    "name": "Nargund",
+    "district": "Gadag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C. C. Patil",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Agriculture & Minister Salary",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC KE BOARD HIGH SCHOOL, DHARWARD PASSED IN 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 65790182,
+      "immovable": 101655000,
+      "total": 168645182,
+      "liabilities": 41104895
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6877",
+    "retrieved": "2026-08-27"
+  }
+}

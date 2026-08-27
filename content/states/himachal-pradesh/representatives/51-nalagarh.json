@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-51-nalagarh",
+  "constituency": {
+    "number": 51,
+    "name": "Nalagarh",
+    "district": "Solan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hardeep Singh Bawa",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. 2nd Year from DAV College, Sector-10, Chandigarh under Punjab University in 2000."
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23061814,
+      "immovable": 44900000,
+      "total": 67961814,
+      "liabilities": 1846056
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=518",
+    "retrieved": "2026-08-27"
+  }
+}

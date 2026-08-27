@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-50-arki",
+  "constituency": {
+    "number": 50,
+    "name": "Arki",
+    "district": "Solan",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Transporter, MLA Arki",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Government Degree College Sanjauli, Shimla in 1985-86"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10473393,
+      "immovable": 18576218,
+      "total": 28995613,
+      "liabilities": 2384243
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=50",
+    "retrieved": "2026-08-27"
+  }
+}

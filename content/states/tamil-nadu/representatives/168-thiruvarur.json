@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-168-thiruvarur",
+  "constituency": {
+    "number": 168,
+    "name": "Thiruvarur",
+    "district": "Thiruvarur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalaivanan Poondi K",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Agriculture & Rice Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From Koratacherry Govt Higher Secondary School In 1980-81"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 66392299,
+      "immovable": 44290000,
+      "total": 110682300,
+      "liabilities": 19681020
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=731",
+    "retrieved": "2026-08-27"
+  }
+}

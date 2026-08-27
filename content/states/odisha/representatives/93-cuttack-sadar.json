@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-93-cuttack-sadar",
+  "constituency": {
+    "number": 93,
+    "name": "Cuttack Sadar",
+    "district": "Cuttack",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Prakash Chandra Sethi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MCA From VSSUT Burla Odisha In 2009"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6979488,
+      "immovable": 2000000,
+      "total": 8979488,
+      "liabilities": 997633
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=665",
+    "retrieved": "2026-08-27"
+  }
+}

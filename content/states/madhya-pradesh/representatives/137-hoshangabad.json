@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-137-hoshangabad",
+  "constituency": {
+    "number": 137,
+    "name": "Hoshangabad",
+    "district": "Narmadapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Sita Saran Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S Gandhi Medical College , Bhopal University 1972, LLB from Govt. Narmada College Narmadapuram, Dr. Harisingh Gour University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9164271,
+      "immovable": 130100000,
+      "total": 139264271,
+      "liabilities": 2525486
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=710",
+    "retrieved": "2026-08-27"
+  }
+}

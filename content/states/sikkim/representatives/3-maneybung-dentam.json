@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-3-maneybung-dentam",
+  "constituency": {
+    "number": 3,
+    "name": "Maneybung-Dentam",
+    "district": "Gyalshing",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudesh Kumar Subba",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Pass From Sikkim Government Degree College University North Bengal in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1328785,
+      "immovable": 17169173,
+      "total": 18497959,
+      "liabilities": 9060648
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=57",
+    "retrieved": "2026-08-27"
+  }
+}

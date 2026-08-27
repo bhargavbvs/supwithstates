@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-19-charilam",
+  "constituency": {
+    "number": 19,
+    "name": "Charilam",
+    "district": "Sepahijala",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Subodh Deb Barma",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Social Service & Self Employee",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A(Philosophy) from North East Hill University, Shillong In 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1163048,
+      "immovable": 2430000,
+      "total": 5065456,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7005",
+    "retrieved": "2026-08-27"
+  }
+}

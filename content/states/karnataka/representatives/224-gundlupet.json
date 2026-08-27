@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-224-gundlupet",
+  "constituency": {
+    "number": 224,
+    "name": "Gundlupet",
+    "district": "Ch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "H.M.Ganesh Prasad",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Agriculture and own business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Mysore University in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 82495548,
+      "immovable": 191000000,
+      "total": 273795488,
+      "liabilities": 168717170
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6811",
+    "retrieved": "2026-08-27"
+  }
+}

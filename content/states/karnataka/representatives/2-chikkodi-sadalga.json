@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-2-chikkodi-sadalga",
+  "constituency": {
+    "number": 2,
+    "name": "Chikkodi-Sadalga",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ganesh Prakash Hukkeri",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Agriculture, IOC Dealers and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA from Bharathesh College Belagavi Karnataka University Dharwad in 1999-2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 114007289,
+      "immovable": 65704893,
+      "total": 179712182,
+      "liabilities": 23999693
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7202",
+    "retrieved": "2026-08-27"
+  }
+}

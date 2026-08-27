@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-221-hanur",
+  "constituency": {
+    "number": 221,
+    "name": "Hanur",
+    "district": "Ch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.R. Manjunath",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC from Lawry Memorial High School in 1990, Diploma (DME)-Discontinued-MVJ College in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 596941578,
+      "immovable": 2434854642,
+      "total": 3166796220,
+      "liabilities": 612284951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7295",
+    "retrieved": "2026-08-27"
+  }
+}

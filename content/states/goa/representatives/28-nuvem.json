@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-28-nuvem",
+  "constituency": {
+    "number": 28,
+    "name": "Nuvem",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aleixo Sequeira",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.COM Bombay University ,In 1979,Shree Damodar College Of Commerce & Economics"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 74106558,
+      "immovable": 107041594,
+      "total": 182758355,
+      "liabilities": 597000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=118",
+    "retrieved": "2026-08-27"
+  }
+}

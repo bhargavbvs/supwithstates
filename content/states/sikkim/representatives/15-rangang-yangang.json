@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-15-rangang-yangang",
+  "constituency": {
+    "number": 15,
+    "name": "Rangang-Yangang",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raj Kumari Thapa",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From North Bengal in the Year 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5230050,
+      "immovable": 1500000,
+      "total": 6730050,
+      "liabilities": 310299
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=84",
+    "retrieved": "2026-08-27"
+  }
+}

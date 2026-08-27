@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-175-rajsamand",
+  "constituency": {
+    "number": 175,
+    "name": "Rajsamand",
+    "district": "Rajsamand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deepti Kiran Maheshwari",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 36,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Women Entrepreneurship From Indian Institute of Management Udaipur Year 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28331043,
+      "immovable": 62500000,
+      "total": 90981043,
+      "liabilities": 28605142
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=79",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-15-cumbarjua",
+  "constituency": {
+    "number": 15,
+    "name": "Cumbarjua",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Faldessai",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Director in 2 Company",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass in Arts From Haryana Council of Open Schooling, Year-2014"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 34395616,
+      "immovable": 23000000,
+      "total": 57395617,
+      "liabilities": 28577010
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=237",
+    "retrieved": "2026-08-27"
+  }
+}

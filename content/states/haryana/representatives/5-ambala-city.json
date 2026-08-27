@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-5-ambala-city",
+  "constituency": {
+    "number": 5,
+    "name": "Ambala City",
+    "district": "Ambala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nirmal Singh Mohra",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts in 1974 from Govt. College Hisar, Punjab University Chandigarh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23547454,
+      "immovable": 249500000,
+      "total": 275747454,
+      "liabilities": 161680000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=301",
+    "retrieved": "2026-08-27"
+  }
+}

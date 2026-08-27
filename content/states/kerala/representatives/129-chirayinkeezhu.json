@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-129-chirayinkeezhu",
+  "constituency": {
+    "number": 129,
+    "name": "Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramya Haridas",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC In 2002 From G.H.S. & Fashion Designing Course In 2005, Pre-Primary Entry Childhood Education In 2007 From Saward Training Centre Poovattuparamha Kozhikodi"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 5,
+      "note": null
+    },
+    "assets": {
+      "movable": 2008928,
+      "immovable": 3000000,
+      "total": 5008929,
+      "liabilities": 646563
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=63",
+    "retrieved": "2026-08-27"
+  }
+}

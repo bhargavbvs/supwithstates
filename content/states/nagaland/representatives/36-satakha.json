@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-36-satakha",
+  "constituency": {
+    "number": 36,
+    "name": "Satakha",
+    "district": "Zunheboto",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "G. Kaito Aye",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class VIII Shillong Academy 1968"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1607280,
+      "immovable": 159500000,
+      "total": 161129280,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6918",
+    "retrieved": "2026-08-27"
+  }
+}

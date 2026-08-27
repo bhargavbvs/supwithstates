@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-37-khandela",
+  "constituency": {
+    "number": 37,
+    "name": "Khandela",
+    "district": "Sikar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subhash Meel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Business, Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law in 2004 Shri Kalyan university, Sikar , Graduate in 2000 from Rajasthan University, Jaipur"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 1093726,
+      "immovable": 200000,
+      "total": 1293726,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=32",
+    "retrieved": "2026-08-27"
+  }
+}

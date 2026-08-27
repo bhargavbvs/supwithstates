@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-20-baijnath",
+  "constituency": {
+    "number": 20,
+    "name": "Baijnath",
+    "district": "K>ngra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kishori Lal",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 75,
+    "profession": "Hotel Business (Taj Hotel Baijnath)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from Punjab University chandigarh in 1963"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14728307,
+      "immovable": 34000000,
+      "total": 48998307,
+      "liabilities": 571852
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=159",
+    "retrieved": "2026-08-27"
+  }
+}

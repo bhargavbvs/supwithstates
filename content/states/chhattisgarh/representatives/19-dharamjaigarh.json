@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-19-dharamjaigarh",
+  "constituency": {
+    "number": 19,
+    "name": "Dharamjaigarh",
+    "district": "Raigarh",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Laljit Singh Rathia",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in Political Science"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4022254,
+      "immovable": 5200000,
+      "total": 18922254,
+      "liabilities": 9367524
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=427",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-209-virajpet",
+  "constituency": {
+    "number": 209,
+    "name": "Virajpet",
+    "district": "Kodagu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A.S.Ponnanna",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Senior Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LLB from University Law College, Bengaluru In 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 103406891,
+      "immovable": 200000000,
+      "total": 303406891,
+      "liabilities": 46374990
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8397",
+    "retrieved": "2026-08-27"
+  }
+}

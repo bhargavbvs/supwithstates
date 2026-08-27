@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-56-amloh",
+  "constituency": {
+    "number": 56,
+    "name": "Amloh",
+    "district": "Fatehgarh Sahib",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gurinder Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 35,
+    "profession": "Consultant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA University Of Oxford England in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50726,
+      "immovable": 4500000,
+      "total": 4550726,
+      "liabilities": 499376
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=288",
+    "retrieved": "2026-08-27"
+  }
+}

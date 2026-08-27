@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-25-champua",
+  "constituency": {
+    "number": 25,
+    "name": "Champua",
+    "district": "Keonjhar (Kendujhar)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanatan Mahakud",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 67,
+    "profession": "Social Service, Political & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass From Bamebari High School Bamebari, Board of Secondary Education Odisha, Cuttack, Year-1975"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1867612601,
+      "immovable": 409150000,
+      "total": 2276762601,
+      "liabilities": 9867134
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=628",
+    "retrieved": "2026-08-27"
+  }
+}

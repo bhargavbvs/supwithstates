@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-80-kallakurichi",
+  "constituency": {
+    "number": 80,
+    "name": "Kallakurichi",
+    "district": "Kallakkurichi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Arul Vignesh",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 35,
+    "profession": "Playground landlord",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Life Sci.) From Bharathidasan University, Year-2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6155919,
+      "immovable": 6000000,
+      "total": 12155919,
+      "liabilities": 4581125
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=921",
+    "retrieved": "2026-08-27"
+  }
+}

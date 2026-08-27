@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-10-dera-baba-nanak",
+  "constituency": {
+    "number": 10,
+    "name": "Dera Baba Nanak",
+    "district": "Gurdaspur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gurdeep Singh Randhawa",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th STD. Passed in Year 1987 from Sr. Sec. School Lale Nangal, Distt Gurdaspur (from Punjab State Education Board)."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4246084,
+      "immovable": 41312500,
+      "total": 45558584,
+      "liabilities": 8054847
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1350",
+    "retrieved": "2026-08-27"
+  }
+}

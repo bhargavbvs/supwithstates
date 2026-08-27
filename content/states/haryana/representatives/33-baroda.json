@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-33-baroda",
+  "constituency": {
+    "number": 33,
+    "name": "Baroda",
+    "district": "Sonipat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Induraj Singh Narwal",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "C.P.ED from Bhagat Singh College at Yavatmal in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6391571,
+      "immovable": 18000000,
+      "total": 24391350,
+      "liabilities": 8450000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=122",
+    "retrieved": "2026-08-27"
+  }
+}

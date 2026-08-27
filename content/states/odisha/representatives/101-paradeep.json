@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-101-paradeep",
+  "constituency": {
+    "number": 101,
+    "name": "Paradeep",
+    "district": "Jagatsinghpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sampad Chandra Swain",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration Passed in the year 2009 form MAGNUS School of Business"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 31740294,
+      "immovable": 18241089,
+      "total": 49721385,
+      "liabilities": 1747206
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1151",
+    "retrieved": "2026-08-27"
+  }
+}

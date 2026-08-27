@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-19-dabra",
+  "constituency": {
+    "number": 19,
+    "name": "Dabra",
+    "district": "Gwalior",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Suresh Raje",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Vegetable Fruit Wholesale & Salary",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class 8th Pass from Madhyamik Vidyalaya No. 3 Dabra"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6876080,
+      "immovable": 10500000,
+      "total": 17376080,
+      "liabilities": 260000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=490",
+    "retrieved": "2026-08-27"
+  }
+}

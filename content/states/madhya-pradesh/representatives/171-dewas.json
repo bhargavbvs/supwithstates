@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-171-dewas",
+  "constituency": {
+    "number": 171,
+    "name": "Dewas",
+    "district": "Dewas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gayatri Raje Puar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "House Wife, Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc from Jiwaji University MP (K.R.G. College Gwalior In 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55752586,
+      "immovable": 117166664,
+      "total": 172919250,
+      "liabilities": 4917291
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=40",
+    "retrieved": "2026-08-27"
+  }
+}

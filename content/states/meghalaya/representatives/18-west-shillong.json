@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-18-west-shillong",
+  "constituency": {
+    "number": 18,
+    "name": "West Shillong",
+    "district": "East Kh>si Hills",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Paul Lyngdoh",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Member of District Council",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Eng) from North Eastern Hill University in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11127590,
+      "immovable": 17000000,
+      "total": 28127590,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7121",
+    "retrieved": "2026-08-27"
+  }
+}

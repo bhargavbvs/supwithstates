@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-52-hisar",
+  "constituency": {
+    "number": 52,
+    "name": "Hisar",
+    "district": "Hisar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Savitri Jindal",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 75,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10+1 from Shree Kanya PAthshala 1964"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1900965422,
+      "immovable": 805626000,
+      "total": 2706607000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=934",
+    "retrieved": "2026-08-27"
+  }
+}

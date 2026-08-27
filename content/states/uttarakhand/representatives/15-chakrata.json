@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-15-chakrata",
+  "constituency": {
+    "number": 15,
+    "name": "Chakrata",
+    "district": "Dehrad@n",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pritam Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Salary from State Govt, Rent, Interest and Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from D.A.V. P.G. College Dehradu, H.N.B. Garhwal University in 1983"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37771298,
+      "immovable": 70725000,
+      "total": 108496303,
+      "liabilities": 9927674
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=320",
+    "retrieved": "2026-08-27"
+  }
+}

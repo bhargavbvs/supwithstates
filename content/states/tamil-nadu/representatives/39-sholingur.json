@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-39-sholingur",
+  "constituency": {
+    "number": 39,
+    "name": "Sholingur",
+    "district": "Ranipet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G.Kapil",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 32,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS Sri Lakshmi Narayana Medical College, Puducherry 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20151745,
+      "immovable": 1477550,
+      "total": 21629296,
+      "liabilities": 31293078
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=492",
+    "retrieved": "2026-08-27"
+  }
+}

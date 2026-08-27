@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-14-raj-bhavan",
+  "constituency": {
+    "number": 14,
+    "name": "Raj Bhavan",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vignesh Kannan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 27,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor Of Commerce From St. Josephs College Of Arts And Science (Autonomous), Cuddalore Thiruvalluvar University In 2019"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4438806,
+      "immovable": 9000000,
+      "total": 13438806,
+      "liabilities": 1083540
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=307",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-150-jayankondam",
+  "constituency": {
+    "number": 150,
+    "name": "Jayankondam",
+    "district": "Ariyalur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vaithilingam G.",
+    "election": "2026",
+    "elected_party": "Pattali Makkal Katchi",
+    "current_party": "Pattali Makkal Katchi",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Politician, Agriculturalist and Business Activities",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc., Govt Arts College, Ariyalur, 1994-95 ( Discontinued due to personal reasons.), +2, Govt Higher Secondary School, Vilandai - Andimadam, Ariyalur District"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13337612,
+      "immovable": 34411000,
+      "total": 47748613,
+      "liabilities": 1917424
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=765",
+    "retrieved": "2026-08-27"
+  }
+}

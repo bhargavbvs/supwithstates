@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-113-tiruppur-north",
+  "constituency": {
+    "number": 113,
+    "name": "Tiruppur (North)",
+    "district": "Tiruppur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V.Sathyabama",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Ladies Parlour & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.,(Political Science) Annamalai University Year-2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5294401,
+      "immovable": 0,
+      "total": 5294401,
+      "liabilities": 96012
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=195",
+    "retrieved": "2026-08-27"
+  }
+}

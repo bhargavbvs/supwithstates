@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-86-edappadi",
+  "constituency": {
+    "number": 86,
+    "name": "Edappadi",
+    "district": "Salem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Edappadi Palaniswami. K",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc, (Did not pass) Sri Vasavi College, Erode (Chennai University, Year 1976)"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31626814,
+      "immovable": 58300000,
+      "total": 89926814,
+      "liabilities": 1700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1118",
+    "retrieved": "2026-08-27"
+  }
+}

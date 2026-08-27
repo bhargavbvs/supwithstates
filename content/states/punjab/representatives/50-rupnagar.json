@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-50-rupnagar",
+  "constituency": {
+    "number": 50,
+    "name": "Rupnagar",
+    "district": "Rupnagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dinesh Kumar Chadha",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "LLB (3rd year) from Punjabi University, Patiala in 2006-2009"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4754932,
+      "immovable": 0,
+      "total": 4754932,
+      "liabilities": 642092
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=542",
+    "retrieved": "2026-08-27"
+  }
+}

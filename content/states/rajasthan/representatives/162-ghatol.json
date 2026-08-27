@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-162-ghatol",
+  "constituency": {
+    "number": 162,
+    "name": "Ghatol",
+    "district": "Banswara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nanalal Ninama",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Pension, Rent, Interest and Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Ninth Passed, Government Higher Secondary School, Ghatol, Year 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5312588,
+      "immovable": 9865000,
+      "total": 14920938,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=207",
+    "retrieved": "2026-08-27"
+  }
+}

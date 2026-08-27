@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-42-wakching",
+  "constituency": {
+    "number": 42,
+    "name": "Wakching",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "W Chingang Konyak",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate in Dimapur College in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5174818,
+      "immovable": 45500000,
+      "total": 50674818,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6807",
+    "retrieved": "2026-08-27"
+  }
+}

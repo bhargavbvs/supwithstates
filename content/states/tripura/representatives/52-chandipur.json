@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-52-chandipur",
+  "constituency": {
+    "number": 52,
+    "name": "Chandipur",
+    "district": "Unakoti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tinku Roy",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Examination In 2004 from Board of Secondary Education Madhya Bharat Gwalior"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8136856,
+      "immovable": 35200000,
+      "total": 43682067,
+      "liabilities": 5067164
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6894",
+    "retrieved": "2026-08-27"
+  }
+}

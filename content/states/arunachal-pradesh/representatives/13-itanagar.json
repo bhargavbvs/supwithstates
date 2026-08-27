@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-13-itanagar",
+  "constituency": {
+    "number": 13,
+    "name": "Itanagar",
+    "district": "Papumpare",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Techi Kaso",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Illiterate",
+      "detail": "Uneducated"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64394170,
+      "immovable": 394202840,
+      "total": 458597010,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=34",
+    "retrieved": "2026-08-27"
+  }
+}

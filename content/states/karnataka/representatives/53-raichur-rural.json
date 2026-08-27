@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-53-raichur-rural",
+  "constituency": {
+    "number": 53,
+    "name": "Raichur Rural",
+    "district": "Raich#r",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Basanagouda Daddal",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC from Sharada Vidyaniketana, Open University Manvi in 2013"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32609594,
+      "immovable": 73676913,
+      "total": 106206942,
+      "liabilities": 8731726
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7762",
+    "retrieved": "2026-08-27"
+  }
+}

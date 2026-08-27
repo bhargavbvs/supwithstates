@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-56-dharmanagar",
+  "constituency": {
+    "number": 56,
+    "name": "Dharmanagar",
+    "district": "North Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jahar Chakraborti",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Business & Social Service.",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from Tripura University in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9405813,
+      "immovable": 75000000,
+      "total": 84405813,
+      "liabilities": 495000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7080",
+    "retrieved": "2026-08-27"
+  }
+}

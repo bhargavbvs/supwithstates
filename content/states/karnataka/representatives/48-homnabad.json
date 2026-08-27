@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-48-homnabad",
+  "constituency": {
+    "number": 48,
+    "name": "Homnabad",
+    "district": "B\\dar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Siddu Patil",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Business, Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Dental Surgery from Rajiv Gandhi University of Health Sciences Karnataka/HKDETs Dental College & Hospital Humnabad in 2004"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 39716615,
+      "immovable": 52256874,
+      "total": 89073491,
+      "liabilities": 65320101
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7341",
+    "retrieved": "2026-08-27"
+  }
+}

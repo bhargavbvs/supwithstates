@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-144-sanchore",
+  "constituency": {
+    "number": 144,
+    "name": "Sanchore",
+    "district": "Sanchore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jiva Ram Choudhary",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31654462,
+      "immovable": 78060000,
+      "total": 109714462,
+      "liabilities": 2027701
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1734",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-132-ghoradongri",
+  "constituency": {
+    "number": 132,
+    "name": "Ghoradongri",
+    "district": "Betul",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ganga Sajjan Singh Uikey",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Pensioner, Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Barkatullah University Bhopal in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6285645,
+      "immovable": 28600000,
+      "total": 34885645,
+      "liabilities": 454000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=286",
+    "retrieved": "2026-08-27"
+  }
+}

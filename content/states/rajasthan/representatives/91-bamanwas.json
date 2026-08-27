@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-91-bamanwas",
+  "constituency": {
+    "number": 91,
+    "name": "Bamanwas",
+    "district": "Sawai Madhopur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Indra",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 36,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From IGNOU University New Delhi in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13148883,
+      "immovable": 15600000,
+      "total": 28748883,
+      "liabilities": 4710000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=143",
+    "retrieved": "2026-08-27"
+  }
+}

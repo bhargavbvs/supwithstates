@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-6-payyannur",
+  "constituency": {
+    "number": 6,
+    "name": "Payyannur",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V. Kunhikrishnan",
+    "election": "2026",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 74,
+    "profession": "Retired Employee",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Junior Deploma in Co-Operative Training Center Kozhikod 1976 and SSLC G H S Karivellur 1970 March"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5857477,
+      "immovable": 38350000,
+      "total": 44207477,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=643",
+    "retrieved": "2026-08-27"
+  }
+}

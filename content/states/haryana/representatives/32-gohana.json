@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-32-gohana",
+  "constituency": {
+    "number": 32,
+    "name": "Gohana",
+    "district": "Sonipat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvind Kumar Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Ex. Member of Parliament Lok Sabha",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Degree in Dental Surgery From Ahmedabad University, Gujarat, Year-1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 53922239,
+      "immovable": 14100000,
+      "total": 69042671,
+      "liabilities": 35673282
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=78",
+    "retrieved": "2026-08-27"
+  }
+}

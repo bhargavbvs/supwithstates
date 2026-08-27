@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-60-kishangarh-bas",
+  "constituency": {
+    "number": 60,
+    "name": "Kishangarh Bas",
+    "district": "Khairthal-Tijara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deepchand Khairiya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 83,
+    "profession": "Agriculture, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., LLB from Rajasthan University Jaipur 1967"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4154489,
+      "immovable": 33000000,
+      "total": 37154489,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=258",
+    "retrieved": "2026-08-27"
+  }
+}

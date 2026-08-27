@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-11-northern-angami-ii",
+  "constituency": {
+    "number": 11,
+    "name": "Northern Angami -Ii",
+    "district": "Kohima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Neiphiu Rio",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Member of Nagaland Legislative Assembly & Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Kohima College, Kohima, Nagaland under NEHU in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 159907848,
+      "immovable": 309600000,
+      "total": 469507855,
+      "liabilities": 869215
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6907",
+    "retrieved": "2026-08-27"
+  }
+}

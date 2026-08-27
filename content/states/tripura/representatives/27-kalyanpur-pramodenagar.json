@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-27-kalyanpur-pramodenagar",
+  "constituency": {
+    "number": 27,
+    "name": "Kalyanpur-Pramodenagar",
+    "district": "Khowai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pinaki Das Chowdhury",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "H.S. Passed In Year 1998 Under Tripura Board of Secondary Education"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1152397,
+      "immovable": 2500000,
+      "total": 3652397,
+      "liabilities": 2298800
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6914",
+    "retrieved": "2026-08-27"
+  }
+}

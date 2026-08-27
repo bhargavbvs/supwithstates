@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-21-sardarshahar",
+  "constituency": {
+    "number": 21,
+    "name": "Sardarshahar",
+    "district": "Churu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Kumar Sharma",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th pass from NIOS Noida 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16064902,
+      "immovable": 32800000,
+      "total": 49864902,
+      "liabilities": 5897698
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=394",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-69-titlagarh",
+  "constituency": {
+    "number": 69,
+    "name": "Titlagarh",
+    "district": "Balangir",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nabin Kumar Jain",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Self Employed, Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class X (Appeared the Annual HSC exam-83 and Failed) from Maheswar Hindi High School, Titilagarh (Board of Secondary Education Orrisa) in 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21195629,
+      "immovable": 101011000,
+      "total": 122206629,
+      "liabilities": 49539488
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=280",
+    "retrieved": "2026-08-27"
+  }
+}

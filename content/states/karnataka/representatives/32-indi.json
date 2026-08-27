@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-32-indi",
+  "constituency": {
+    "number": 32,
+    "name": "Indi",
+    "district": "Vijayapura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yashavantaraygoud. Vittalagoud. Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture & Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC - JSS college Dharwad passed in 1987"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 25164855,
+      "immovable": 59986000,
+      "total": 116872478,
+      "liabilities": 35881940
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6830",
+    "retrieved": "2026-08-27"
+  }
+}

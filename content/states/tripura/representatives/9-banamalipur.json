@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-9-banamalipur",
+  "constituency": {
+    "number": 9,
+    "name": "Banamalipur",
+    "district": "West Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gopal Chandra Roy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Social Work and Legal Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Com, LLB from Calcutta University in 1978"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4844211,
+      "immovable": 18700000,
+      "total": 23544211,
+      "liabilities": 858564
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6892",
+    "retrieved": "2026-08-27"
+  }
+}

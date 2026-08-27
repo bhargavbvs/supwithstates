@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-10-poklok-kamrang",
+  "constituency": {
+    "number": 10,
+    "name": "Poklok-Kamrang",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhoj Raj Rai",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From Namchi Senior Secondary School Year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21700002,
+      "immovable": 201875206,
+      "total": 223575209,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=79",
+    "retrieved": "2026-08-27"
+  }
+}

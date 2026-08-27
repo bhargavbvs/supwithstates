@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-19-sadulpur",
+  "constituency": {
+    "number": 19,
+    "name": "Sadulpur",
+    "district": "Churu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Kumar S/O Swai Singh",
+    "election": "2023",
+    "elected_party": "BSP",
+    "current_party": "BSP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Political Science In 2023 MGSV"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3203106,
+      "immovable": 5200000,
+      "total": 8403096,
+      "liabilities": 375000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=366",
+    "retrieved": "2026-08-27"
+  }
+}

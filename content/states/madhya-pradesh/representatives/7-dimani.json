@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-7-dimani",
+  "constituency": {
+    "number": 7,
+    "name": "Dimani",
+    "district": "Morena",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narendra Singh Tomar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Govt. College Murar Jivaji University Gwalior in 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13442219,
+      "immovable": 14000000,
+      "total": 27442219,
+      "liabilities": 2497371
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=684",
+    "retrieved": "2026-08-27"
+  }
+}

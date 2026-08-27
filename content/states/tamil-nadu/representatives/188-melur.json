@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-188-melur",
+  "constituency": {
+    "number": 188,
+    "name": "Melur",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P.Viswanathan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Social service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Degree From Madras University on March 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6370840,
+      "immovable": 30000000,
+      "total": 36370840,
+      "liabilities": 10600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1193",
+    "retrieved": "2026-08-27"
+  }
+}

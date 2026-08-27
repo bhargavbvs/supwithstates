@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-62-patan",
+  "constituency": {
+    "number": 62,
+    "name": "Patan",
+    "district": "Durg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhupesh Baghel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Agriculture, Salary (honorarium Amount), Bank Intrest",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate in 1986 from P. Ravishankar Shukla University Raipur."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42048101,
+      "immovable": 291844327,
+      "total": 333892433,
+      "liabilities": 2882569
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=861",
+    "retrieved": "2026-08-27"
+  }
+}

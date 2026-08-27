@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-119-kottarakkara",
+  "constituency": {
+    "number": 119,
+    "name": "Kottarakkara",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K.N. Balagopal",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Social Services",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "1. P.G-M.Com - MG College, TVM-1985 2. LLM-Admin Law, Law Academy Law College, Thiruvananthapuram 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12787965,
+      "immovable": 9812700,
+      "total": 22600665,
+      "liabilities": 2482179
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=133",
+    "retrieved": "2026-08-27"
+  }
+}

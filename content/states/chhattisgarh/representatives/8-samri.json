@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-8-samri",
+  "constituency": {
+    "number": 8,
+    "name": "Samri",
+    "district": "Balrampur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Udhheshwari Paikra",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "PETROL PUMP OPERATOR AND HOUSEWIFE",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary School Certificate Examination (10+2) from Board of Secondary Education Madhya Pradesh Bhopal, Govt Higher Secondary School Amarkantak (Shahdol) in 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7884904,
+      "immovable": 14687000,
+      "total": 16239904,
+      "liabilities": 4102193
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=523",
+    "retrieved": "2026-08-27"
+  }
+}

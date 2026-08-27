@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-66-jhajjar",
+  "constituency": {
+    "number": 66,
+    "name": "Jhajjar",
+    "district": "Jhajjar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Geeta Bhukkal",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Politician & Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political Science from Kanpur University in 1998, LLB from University of Delhi in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14737829,
+      "immovable": 73877976,
+      "total": 88615808,
+      "liabilities": 1490000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=156",
+    "retrieved": "2026-08-27"
+  }
+}

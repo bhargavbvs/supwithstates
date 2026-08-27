@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-88-devikulam",
+  "constituency": {
+    "number": 88,
+    "name": "Devikulam",
+    "district": "Idukki",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "F. Raja",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Govt High School, Munnar In 1989-1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 18553275,
+      "immovable": 131100000,
+      "total": 149853275,
+      "liabilities": 10590999
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=440",
+    "retrieved": "2026-08-27"
+  }
+}

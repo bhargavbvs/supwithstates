@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-65-ludhiana-north",
+  "constituency": {
+    "number": 65,
+    "name": "Ludhiana North",
+    "district": "Ludhiana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madan Lal Bagga",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Commission Agent",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Under Matric"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9011875,
+      "immovable": 22346000,
+      "total": 31357875,
+      "liabilities": 4666522
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1187",
+    "retrieved": "2026-08-27"
+  }
+}

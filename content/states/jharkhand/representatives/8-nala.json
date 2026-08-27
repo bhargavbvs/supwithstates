@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-8-nala",
+  "constituency": {
+    "number": 8,
+    "name": "Nala",
+    "district": "Jamtara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rabindra Nath Mahato",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy (Social Work) in 2024"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11340465,
+      "immovable": 3800000,
+      "total": 17792465,
+      "liabilities": 74142
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=868",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-138-siwana",
+  "constituency": {
+    "number": 138,
+    "name": "Siwana",
+    "district": "Balotra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hameer Singh Bhayal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "MLA, Rent and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Bardhman Open University Kota (Rajasthan Madhyamik Education Board ) Year 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13049827,
+      "immovable": 12690000,
+      "total": 25739827,
+      "liabilities": 2462998
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=411",
+    "retrieved": "2026-08-27"
+  }
+}

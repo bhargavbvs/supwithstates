@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-44-baharagora",
+  "constituency": {
+    "number": 44,
+    "name": "Baharagora",
+    "district": "East Singhbhum",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samir Kumar Mohanty",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Member of Legislative Assembly, Barahagora, Jharkhand",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Ghatsila College, Ghatsila under Ranchi University in 1989"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4536392,
+      "immovable": 400000,
+      "total": 4936392,
+      "liabilities": 1176660
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=183",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-1-ma-njeshwar",
+  "constituency": {
+    "number": 1,
+    "name": "Ma Njeshwar",
+    "district": "Kasaragod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A K M Ashraf",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Kannada From Kannur University in 2001"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 7,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6410523,
+      "immovable": 8600000,
+      "total": 12004150,
+      "liabilities": 1532663
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=804",
+    "retrieved": "2026-08-27"
+  }
+}

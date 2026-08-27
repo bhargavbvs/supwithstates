@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-33-mechuka",
+  "constituency": {
+    "number": 33,
+    "name": "Mechuka",
+    "district": "Shi Yomi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pasang Dorjee Sona",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB In from Campus Law Center, University of Delhi In 1998, B.A(Hons) Pol. Science in 1992 from Hindu College, University of Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38879392,
+      "immovable": 0,
+      "total": 40352392,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=53",
+    "retrieved": "2026-08-27"
+  }
+}

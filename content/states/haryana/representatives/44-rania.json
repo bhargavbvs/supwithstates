@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-44-rania",
+  "constituency": {
+    "number": 44,
+    "name": "Rania",
+    "district": "Sirsa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arjun Chautala",
+    "election": "2024",
+    "elected_party": "INLD",
+    "current_party": "INLD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Senior Secondary Qualification (12) (ISC Board) in March 2011, Matric (10) (ICSE Board) in 2009 from Bishop Cotton School, Shimla"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 185192426,
+      "immovable": 274754750,
+      "total": 459947176,
+      "liabilities": 13436000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=3",
+    "retrieved": "2026-08-27"
+  }
+}

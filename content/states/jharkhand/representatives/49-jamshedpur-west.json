@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-49-jamshedpur-west",
+  "constituency": {
+    "number": 49,
+    "name": "Jamshedpur West",
+    "district": "East Singhbhum",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saryu Roy",
+    "election": "2024",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 73,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graudation from Patna University in 1973"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 17958775,
+      "immovable": 27726626,
+      "total": 45685402,
+      "liabilities": 1920600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=214",
+    "retrieved": "2026-08-27"
+  }
+}

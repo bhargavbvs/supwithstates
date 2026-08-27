@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-20-terdal",
+  "constituency": {
+    "number": 20,
+    "name": "Terdal",
+    "district": "B",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Siddu Savadi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Sri Prabhulingeshwar High School, Theradala, Year-1976"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 36951086,
+      "immovable": 101283691,
+      "total": 138276813,
+      "liabilities": 56814596
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6909",
+    "retrieved": "2026-08-27"
+  }
+}

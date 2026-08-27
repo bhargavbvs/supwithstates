@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-77-firozpur-rural",
+  "constituency": {
+    "number": 77,
+    "name": "Firozpur Rural",
+    "district": "Firozpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajneesh Kumar Dahiya",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Maharishi Dayanand Saraswati University Ajmer In 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2038120,
+      "immovable": 2500000,
+      "total": 4538120,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=932",
+    "retrieved": "2026-08-27"
+  }
+}

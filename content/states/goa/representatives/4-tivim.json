@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-4-tivim",
+  "constituency": {
+    "number": 4,
+    "name": "Tivim",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nilkanth Ramnath Halarnkar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Std XIth from Shree Shantadurga Higher Secondary School Bicholim, Goa In 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29686930,
+      "immovable": 52461885,
+      "total": 82148820,
+      "liabilities": 7225766
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=16",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-83-g-udayagiri",
+  "constituency": {
+    "number": 83,
+    "name": "G. Udayagiri",
+    "district": "Kandhamal",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Prafulla Chandra Pradhan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 68,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Berhampur University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1515000,
+      "immovable": 7600000,
+      "total": 10500000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=448",
+    "retrieved": "2026-08-27"
+  }
+}

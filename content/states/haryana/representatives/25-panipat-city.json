@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-25-panipat-city",
+  "constituency": {
+    "number": 25,
+    "name": "Panipat City",
+    "district": "Panipat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Parmod Kumar Vij",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 68,
+    "profession": "Business and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From S.D. College, Panipat affiliated to Kurukshetra University, Kurukshetra, Year-1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 534527077,
+      "immovable": 191081600,
+      "total": 725608684,
+      "liabilities": 21752313
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=211",
+    "retrieved": "2026-08-27"
+  }
+}

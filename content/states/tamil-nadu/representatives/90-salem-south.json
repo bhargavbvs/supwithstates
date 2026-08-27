@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-90-salem-south",
+  "constituency": {
+    "number": 90,
+    "name": "Salem (South)",
+    "district": "Salem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Tamilan Parthiban. A",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Electronics business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Academic year-1993-1994 From Municipality Boys Higher Secondary School Ammapettai Salem 636003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 57468645,
+      "immovable": 50353700,
+      "total": 107822345,
+      "liabilities": 27129152
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=770",
+    "retrieved": "2026-08-27"
+  }
+}

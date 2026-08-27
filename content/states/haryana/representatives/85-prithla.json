@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-85-prithla",
+  "constituency": {
+    "number": 85,
+    "name": "Prithla",
+    "district": "Faridabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raghubir Tewatia",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Ex MLA (Farmer)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10+2 from Senior Secondary, National Institute of Open Schooling in April 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2817871,
+      "immovable": 127500000,
+      "total": 130317871,
+      "liabilities": 9167128
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=206",
+    "retrieved": "2026-08-27"
+  }
+}

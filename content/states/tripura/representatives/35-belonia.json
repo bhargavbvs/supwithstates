@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-35-belonia",
+  "constituency": {
+    "number": 35,
+    "name": "Belonia",
+    "district": "South Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dipankar Sen",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary (+2 Stage) Examination passed in the year 1983 from Vidyapith H.S. School, Belonia under Tripura Board of Secondary Education, Agartala, Tripura"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2382370,
+      "immovable": 320000,
+      "total": 2702371,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6771",
+    "retrieved": "2026-08-27"
+  }
+}

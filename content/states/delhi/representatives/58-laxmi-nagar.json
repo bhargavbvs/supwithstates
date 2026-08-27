@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-58-laxmi-nagar",
+  "constituency": {
+    "number": 58,
+    "name": "Laxmi Nagar",
+    "district": "Nazul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhay Kumar Verma",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 52,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law (LLB) from Law Center-1, University of Delhi in 1996"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7780323,
+      "immovable": 12000000,
+      "total": 19780321,
+      "liabilities": 1314572
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=93",
+    "retrieved": "2026-08-27"
+  }
+}

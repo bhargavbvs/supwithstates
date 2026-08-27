@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-26-jashipur",
+  "constituency": {
+    "number": 26,
+    "name": "Jashipur",
+    "district": "Mayurbhanj",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ganesh Ram Singkhuntia",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering from BOSE, Cuttack in 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6442439,
+      "immovable": 3620000,
+      "total": 10062441,
+      "liabilities": 1676000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1113",
+    "retrieved": "2026-08-27"
+  }
+}

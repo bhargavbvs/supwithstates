@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-40-kotputli",
+  "constituency": {
+    "number": 40,
+    "name": "Kotputli",
+    "district": "Kotputli-Behror",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hansraj Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculture Farm",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass From Government Higher Primary School in Year 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1650555,
+      "immovable": 28500000,
+      "total": 30150555,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=265",
+    "retrieved": "2026-08-27"
+  }
+}

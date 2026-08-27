@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-53-kailasahar",
+  "constituency": {
+    "number": 53,
+    "name": "Kailasahar",
+    "district": "Unakoti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Birajit Sinha",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Agriculture & Engaged in Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Examination form West Bengal Board of Secondary Education In 1975"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 11398721,
+      "immovable": 18050000,
+      "total": 29448721,
+      "liabilities": 1274127
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6909",
+    "retrieved": "2026-08-27"
+  }
+}

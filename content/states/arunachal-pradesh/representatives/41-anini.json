@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-41-anini",
+  "constituency": {
+    "number": 41,
+    "name": "Anini",
+    "district": "Dib>ng Valley",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mopi Mihu",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "Read to Primary Level from VKV School Roing"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 147364116,
+      "immovable": 64300000,
+      "total": 212123116,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=12",
+    "retrieved": "2026-08-27"
+  }
+}

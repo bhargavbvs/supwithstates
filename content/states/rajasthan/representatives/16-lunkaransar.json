@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-16-lunkaransar",
+  "constituency": {
+    "number": 16,
+    "name": "Lunkaransar",
+    "district": "Bikaner",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sumit Godara",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Business Firm Preet Medicos as a Proprietor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A. (Health Service Managment), Karnataka State Open University 2012, B.A. Usmaniya open University, Haidarabad 1995,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7738727,
+      "immovable": 28248000,
+      "total": 35986727,
+      "liabilities": 732331
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=288",
+    "retrieved": "2026-08-27"
+  }
+}

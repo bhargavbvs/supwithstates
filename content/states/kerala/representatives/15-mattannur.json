@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-15-mattannur",
+  "constituency": {
+    "number": 15,
+    "name": "Mattannur",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V K Sanoj",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Malayalam) Sree Sankaracharya University of Sanskrit, Kalady, Trivandrum Centre in the year 2022"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5761866,
+      "immovable": 6600000,
+      "total": 12360866,
+      "liabilities": 500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=178",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-113-katangi",
+  "constituency": {
+    "number": 113,
+    "name": "Katangi",
+    "district": "Balaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gaurav Singh Pardhi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Tenancy & Income from Service in Private Sector",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA (Finance) from K. J. Somaiya Institute Mumbai in 2011, B.E. (Computer) from S.A.T.I. Vidisha / Rajeev Gandhi Information Technology University in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22897210,
+      "immovable": 19200000,
+      "total": 42097210,
+      "liabilities": 1700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=154",
+    "retrieved": "2026-08-27"
+  }
+}

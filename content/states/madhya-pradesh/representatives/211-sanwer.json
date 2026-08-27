@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-211-sanwer",
+  "constituency": {
+    "number": 211,
+    "name": "Sanwer",
+    "district": "Indore",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Tulsiram Silawat",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Farmer & Cabinet Minister M.P Govt.",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (Political Science) from Indore University , Indore In 1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23670452,
+      "immovable": 120925000,
+      "total": 144595452,
+      "liabilities": 1154224
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

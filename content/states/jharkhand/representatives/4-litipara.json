@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-4-litipara",
+  "constituency": {
+    "number": 4,
+    "name": "Litipara",
+    "district": "Pakur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Hemlal Murmu",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From SP College Dumka B.U. Year 1975 & Intermediate From SP College Dumka BU Year 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35338351,
+      "immovable": 11000000,
+      "total": 46061803,
+      "liabilities": 26392239
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=976",
+    "retrieved": "2026-08-27"
+  }
+}

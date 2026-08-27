@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-18-kharsia",
+  "constituency": {
+    "number": 18,
+    "name": "Kharsia",
+    "district": "Raigarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umesh Patel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Agriculture and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Information Technology) Pandit Ravishankar Shukla University Raipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21052175,
+      "immovable": 9109736,
+      "total": 29254501,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=451",
+    "retrieved": "2026-08-27"
+  }
+}

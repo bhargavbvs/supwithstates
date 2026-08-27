@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-97-molakalmuru",
+  "constituency": {
+    "number": 97,
+    "name": "Molakalmuru",
+    "district": "Chitradurga",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "N.Y.Gopalakrishna",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Social services Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from Mysore University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23313394,
+      "immovable": 41750000,
+      "total": 65063394,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7565",
+    "retrieved": "2026-08-27"
+  }
+}

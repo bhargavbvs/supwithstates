@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-152-udaipur-rural",
+  "constituency": {
+    "number": 152,
+    "name": "Udaipur Rural",
+    "district": "Udaipur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Phool Singh Meena",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Pass From Vardhman Mahaveer Open University, Kota Rajasthan Year 2022, 12th pass from NIOS in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15699064,
+      "immovable": 15276000,
+      "total": 30712965,
+      "liabilities": 2258178
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=430",
+    "retrieved": "2026-08-27"
+  }
+}

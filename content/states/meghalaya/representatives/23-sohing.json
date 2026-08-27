@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-23-sohing",
+  "constituency": {
+    "number": 23,
+    "name": "Sohing",
+    "district": "East Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Synshar Kupar Roy Lyngdoh Thabah",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Business / Contractor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Geography) in 2007 from North Eastern Hill University (NEHU), BA Honours in Geography in 2002 from St. Edmunds College, Shillong under North Eastern Hills University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13560000,
+      "immovable": 0,
+      "total": 13560000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7136",
+    "retrieved": "2026-08-27"
+  }
+}

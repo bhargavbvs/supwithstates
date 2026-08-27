@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-22-arkakong",
+  "constituency": {
+    "number": 22,
+    "name": "Arkakong",
+    "district": "Mokokchung",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nuklutoshi",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Ex-Legislator/ Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From Manipur University, Year-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6262748,
+      "immovable": 4000000,
+      "total": 10261895,
+      "liabilities": 1021438
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6854",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-18-west-pendam",
+  "constituency": {
+    "number": 18,
+    "name": "West Pendam",
+    "district": "Pakyong",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Lall Bahadur Das",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Politician, Ex- Govt Employee and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from University of North Bengal, Sikkim Government College, Tadong in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3386286,
+      "immovable": 58330387,
+      "total": 61716673,
+      "liabilities": 15678534
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=136",
+    "retrieved": "2026-08-27"
+  }
+}

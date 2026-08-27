@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-4-dirang",
+  "constituency": {
+    "number": 4,
+    "name": "Dirang",
+    "district": "West Kameng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Phurpa Tsering",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "AISSCE Pass From CBSE, Govt. Higher Secondary School, Bomdila, Year-1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 65584382,
+      "immovable": 152000000,
+      "total": 215691158,
+      "liabilities": 4368306
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=7",
+    "retrieved": "2026-08-27"
+  }
+}

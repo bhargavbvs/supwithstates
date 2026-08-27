@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-153-bhopal-madhya",
+  "constituency": {
+    "number": 153,
+    "name": "Bhopal Madhya",
+    "district": "Bhopal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arif Masood",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Salary, Consultancy & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from Benjeer College in 2000, LLB from State Law College in 1998, B.Com in 1995 from Govt. Science & Commerce, Benjeer College (B.U. Bhopal)"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16843153,
+      "immovable": 61015712,
+      "total": 77858865,
+      "liabilities": 7375036
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=476",
+    "retrieved": "2026-08-27"
+  }
+}

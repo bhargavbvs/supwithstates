@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-111-thiruvalla",
+  "constituency": {
+    "number": 111,
+    "name": "Thiruvalla",
+    "district": "Pathanamthitta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.Varghese Mammen",
+    "election": "2026",
+    "elected_party": "Kerala Congress",
+    "current_party": "Kerala Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Advocate and Notary Public",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Kerala Law Academy Law College Thiruvanthapuram, Kerala University In Year 1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 21592926,
+      "immovable": 31400000,
+      "total": 53062922,
+      "liabilities": 1701885
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=254",
+    "retrieved": "2026-08-27"
+  }
+}

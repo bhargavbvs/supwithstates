@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-66-amarpatan",
+  "constituency": {
+    "number": 66,
+    "name": "Amarpatan",
+    "district": "Maihar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Rajendra Kumar Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hd in 2008, M.A. in 2002 from Baraktullah University Bhopal"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75308563,
+      "immovable": 365783266,
+      "total": 441091829,
+      "liabilities": 8938155
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=223",
+    "retrieved": "2026-08-27"
+  }
+}

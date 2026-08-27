@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-6-raybag",
+  "constituency": {
+    "number": 6,
+    "name": "Raybag",
+    "district": "Belag",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Aihole Duryodhan Mahalingappa",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Current MLA & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Harugeri School Raybag in 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40560482,
+      "immovable": 108483000,
+      "total": 147133482,
+      "liabilities": 10000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7731",
+    "retrieved": "2026-08-27"
+  }
+}

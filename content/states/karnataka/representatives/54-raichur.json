@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-54-raichur",
+  "constituency": {
+    "number": 54,
+    "name": "Raichur",
+    "district": "Raich#r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Shivaraj Patil",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Private Medical Consultant and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.D.General Medicine, M.R.Medical college, Gulbarga University, Karnataka-1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75800562,
+      "immovable": 120995840,
+      "total": 196791788,
+      "liabilities": 52665557
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7644",
+    "retrieved": "2026-08-27"
+  }
+}

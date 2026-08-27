@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-16-amritsar-west",
+  "constituency": {
+    "number": 16,
+    "name": "Amritsar West",
+    "district": "Amritsar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Jasbir Singh Sandhu",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Of Eastern Medicine And Surgery From Govind Ballabhi Pant University Agriculture & Technology in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -4637855,
+      "immovable": 25500000,
+      "total": 20862145,
+      "liabilities": 1593311
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=654",
+    "retrieved": "2026-08-27"
+  }
+}

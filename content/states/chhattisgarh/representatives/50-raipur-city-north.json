@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-50-raipur-city-north",
+  "constituency": {
+    "number": 50,
+    "name": "Raipur City North",
+    "district": "Raipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Purandar Mishra",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "D.L.L.M& P.M . and P.M. S.R. Law College Sambalpur, year 1995-96 , L.L.B. Balangeer Law College 1991-92,B.A. Fulzar University Saraypali P.R.S. University Raipur 1980-81,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69038133,
+      "immovable": 49588642,
+      "total": 118626774,
+      "liabilities": 45517967
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1057",
+    "retrieved": "2026-08-27"
+  }
+}

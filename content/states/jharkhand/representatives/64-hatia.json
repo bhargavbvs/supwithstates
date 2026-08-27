@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-64-hatia",
+  "constituency": {
+    "number": 64,
+    "name": "Hatia",
+    "district": "Ranchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Navin Jaiswal",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "MLA, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Ranchi University through J.N. College, Dhurwa Ranchi in 2021"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49737000,
+      "immovable": 140000000,
+      "total": 184236000,
+      "liabilities": 88629000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=347",
+    "retrieved": "2026-08-27"
+  }
+}

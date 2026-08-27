@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-67-payal",
+  "constituency": {
+    "number": 67,
+    "name": "Payal",
+    "district": "Ludhiana",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manwinder Singh Giaspura",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Punjab University Patiala in 2003"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 126693,
+      "immovable": 9427500,
+      "total": 9554193,
+      "liabilities": 3698601
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=179",
+    "retrieved": "2026-08-27"
+  }
+}

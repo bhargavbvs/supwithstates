@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-64-manalur",
+  "constituency": {
+    "number": 64,
+    "name": "Manalur",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C Raveendranathan",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Retired from St. Marys College, Thrissur Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Msc.Chemistry From Calicut University In 1979"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3968822,
+      "immovable": 35260000,
+      "total": 39227822,
+      "liabilities": 2013632
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=166",
+    "retrieved": "2026-08-27"
+  }
+}

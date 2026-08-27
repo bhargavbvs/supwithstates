@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-82-hathin",
+  "constituency": {
+    "number": 82,
+    "name": "Hathin",
+    "district": "Palwal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohd Israil",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Retired Employee and Cattle Feed Busines",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Board oF School Education, Haryana (Bhiwani), Civil Engineering Diploma Jamia Milia Islamia University Delhi."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4345000,
+      "immovable": 6100000,
+      "total": 10282500,
+      "liabilities": 1684000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=556",
+    "retrieved": "2026-08-27"
+  }
+}

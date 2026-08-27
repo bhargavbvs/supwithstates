@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-26-lormi",
+  "constituency": {
+    "number": 26,
+    "name": "Lormi",
+    "district": "Mungeli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arun Sao",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Salary and Allowances (as Parliamentarian and Agriculture)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1995 From University Bilaspur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9956364,
+      "immovable": 6616500,
+      "total": 16572864,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=471",
+    "retrieved": "2026-08-27"
+  }
+}

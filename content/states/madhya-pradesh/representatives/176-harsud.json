@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-176-harsud",
+  "constituency": {
+    "number": 176,
+    "name": "Harsud",
+    "district": "Khandwa",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kunwar Vijay Shah",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture ,Werehouse, Gas Agency",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A History Devi Ahilyabai Vishwavidyalaya Indore 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 60731841,
+      "immovable": 118045000,
+      "total": 178776841,
+      "liabilities": 15981035
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=707",
+    "retrieved": "2026-08-27"
+  }
+}

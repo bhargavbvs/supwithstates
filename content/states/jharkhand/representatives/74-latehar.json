@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-74-latehar",
+  "constituency": {
+    "number": 74,
+    "name": "Latehar",
+    "district": "Latehar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Prakash Ram",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Transport & Coal Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA from Swami Vivekanand Subharti University, Meerut Year 2017-2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21392176,
+      "immovable": 27673668,
+      "total": 48865845,
+      "liabilities": 17709744
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=283",
+    "retrieved": "2026-08-27"
+  }
+}

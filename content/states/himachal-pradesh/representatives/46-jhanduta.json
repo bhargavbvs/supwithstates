@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-46-jhanduta",
+  "constituency": {
+    "number": 46,
+    "name": "Jhanduta",
+    "district": "Bil>spur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jeet Ram Katwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "IAS (Retd.), Social Activist & MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Pol. Sc, MBA (HR)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15988147,
+      "immovable": 18408437,
+      "total": 34227344,
+      "liabilities": 1952760
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=116",
+    "retrieved": "2026-08-27"
+  }
+}

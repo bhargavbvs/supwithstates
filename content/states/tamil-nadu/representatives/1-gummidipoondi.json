@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-1-gummidipoondi",
+  "constituency": {
+    "number": 1,
+    "name": "Gummidipoondi",
+    "district": "Thiruvallur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S.Vijayakumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.L., Sri Venkateswara College of Law , Tripati , 2012 . B.sc Presidency College , Chennai, 1991 , Hsc - DRBCCC Hindu Hr,Sec,School ,Tiruvallur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5329000,
+      "immovable": 25363500,
+      "total": 36395500,
+      "liabilities": 10300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=265",
+    "retrieved": "2026-08-27"
+  }
+}

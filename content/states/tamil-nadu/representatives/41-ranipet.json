@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-41-ranipet",
+  "constituency": {
+    "number": 41,
+    "name": "Ranipet",
+    "district": "Ranipet",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thahira",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Ebenezer Aided Middle School, Katpadi."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33000,
+      "immovable": 0,
+      "total": 33000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=994",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-57-bassi",
+  "constituency": {
+    "number": 57,
+    "name": "Bassi",
+    "district": "Jaipur(Gramin)",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Laxman",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Retired (I.P.S.) Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Rajasthan University, Jaipur, Year- 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18121812,
+      "immovable": 67000000,
+      "total": 85121812,
+      "liabilities": 3332527
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=159",
+    "retrieved": "2026-08-27"
+  }
+}

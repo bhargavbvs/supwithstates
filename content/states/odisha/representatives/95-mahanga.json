@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-95-mahanga",
+  "constituency": {
+    "number": 95,
+    "name": "Mahanga",
+    "district": "Cuttack",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sarada Prasad Padhan",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Cultivation, Social Service, Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC Pass in 1993 from Ramchandi High School, Erakana, Mahanga, Cuttack, Through Board of Secondary Education Orrisa, Cuttack"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5416988,
+      "immovable": 57975752,
+      "total": 63392741,
+      "liabilities": 1708201
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1077",
+    "retrieved": "2026-08-27"
+  }
+}

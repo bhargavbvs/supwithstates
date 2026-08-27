@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-140-bagepalli",
+  "constituency": {
+    "number": 140,
+    "name": "Bagepalli",
+    "district": "Chikkaball",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S.N. Subbareddy (Chinnakayalapalli)",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC from Govt. High School Gulur Bagepalli Taluk In 1983, Techer Certificate Higher from Venkateshwara TCH Training Colelge Marathahalli, Bangalore In 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1271479539,
+      "immovable": 1864715000,
+      "total": 3136194537,
+      "liabilities": 700769159
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7115",
+    "retrieved": "2026-08-27"
+  }
+}

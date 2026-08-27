@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-210-piriyapatna",
+  "constituency": {
+    "number": 210,
+    "name": "Piriyapatna",
+    "district": "Mys#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K Venkatesh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Agriculture , Entrepreneurship & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc - Mysore Yuvaraja College passed in 1971-72"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32267897,
+      "immovable": 148638820,
+      "total": 182906717,
+      "liabilities": 76426000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6880",
+    "retrieved": "2026-08-27"
+  }
+}

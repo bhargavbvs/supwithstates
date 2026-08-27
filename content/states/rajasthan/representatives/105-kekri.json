@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-105-kekri",
+  "constituency": {
+    "number": 105,
+    "name": "Kekri",
+    "district": "Kekri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shatrughan Gautam",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Bapu Gas Agency, Malpura, Tonk, Agriculture and EX MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Govt College Kota Ajmer in 1997"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 58094617,
+      "immovable": 43303752,
+      "total": 101398373,
+      "liabilities": 47702510
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=6",
+    "retrieved": "2026-08-27"
+  }
+}

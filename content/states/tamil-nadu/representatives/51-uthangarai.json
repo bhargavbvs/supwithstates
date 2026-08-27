@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-51-uthangarai",
+  "constituency": {
+    "number": 51,
+    "name": "Uthangarai",
+    "district": "Krishnagiri",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "N Elaiyaraja",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Dentist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BDS From Annamalai University, Year-2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11910027,
+      "immovable": 12850000,
+      "total": 24760027,
+      "liabilities": 14238336
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1938",
+    "retrieved": "2026-08-27"
+  }
+}

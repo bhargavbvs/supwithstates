@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-202-rajapalayam",
+  "constituency": {
+    "number": 202,
+    "name": "Rajapalayam",
+    "district": "Virudhunagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jegadeshwari. K",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "News Editor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. From Sree Ramalinga Academy Of Higher Education (Autonomous) in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1901821,
+      "immovable": 0,
+      "total": 1901821,
+      "liabilities": 1335916
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1090",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-16-rengali",
+  "constituency": {
+    "number": 16,
+    "name": "Rengali",
+    "district": "Sambalpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sudarshan Haripal",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Pvt Service and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Jyoti Vihar Junior College Burla under Council of Higher Secondary Education, Orissa, Year- 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 381377,
+      "immovable": 0,
+      "total": 381378,
+      "liabilities": 359740
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=844",
+    "retrieved": "2026-08-27"
+  }
+}

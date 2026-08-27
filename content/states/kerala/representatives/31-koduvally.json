@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-31-koduvally",
+  "constituency": {
+    "number": 31,
+    "name": "Koduvally",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P K Firos",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Legal Consultant and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LL.M from Mahatma Gandhi University Kottayam in 2017"
+    },
+    "declared_cases": {
+      "total": 27,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 19,
+      "note": null
+    },
+    "assets": {
+      "movable": 6719255,
+      "immovable": 6256000,
+      "total": 13296255,
+      "liabilities": 9100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=508",
+    "retrieved": "2026-08-27"
+  }
+}

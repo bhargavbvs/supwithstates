@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-17-aizawl-west-iii",
+  "constituency": {
+    "number": 17,
+    "name": "Aizawl West-Iii",
+    "district": "Aizawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "V. L. Zaithanzama",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "HSLC, Mizo High School Shillong-1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3691897,
+      "immovable": 17000000,
+      "total": 20767394,
+      "liabilities": 2617028
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=45",
+    "retrieved": "2026-08-27"
+  }
+}

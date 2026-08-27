@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-105-bichhiya",
+  "constituency": {
+    "number": 105,
+    "name": "Bichhiya",
+    "district": "Mandla",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Narayan Singh Patta",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from Dr. Hari Singh Gour University Sagar, Govt. Graduate College Bhua Bichhiya, Dist Mandla In 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11768932,
+      "immovable": 22594382,
+      "total": 34363314,
+      "liabilities": 20225000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=259",
+    "retrieved": "2026-08-27"
+  }
+}

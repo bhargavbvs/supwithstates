@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-47-ghumarwin",
+  "constituency": {
+    "number": 47,
+    "name": "Ghumarwin",
+    "district": "Bil>spur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Dharmani",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from IGNOU Delhi in 2007, B. Tech from NIT Hamirpur, HP University Shimla in 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7794907,
+      "immovable": 5500000,
+      "total": 13294907,
+      "liabilities": 365614
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=11",
+    "retrieved": "2026-08-27"
+  }
+}

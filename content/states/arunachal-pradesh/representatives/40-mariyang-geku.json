@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-40-mariyang-geku",
+  "constituency": {
+    "number": 40,
+    "name": "Mariyang-Geku",
+    "district": "Upper Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Oni Panyang",
+    "election": "2024",
+    "elected_party": "National Peoples Party",
+    "current_party": "National Peoples Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Businessman & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. JNC Pasighat Arunachal University Rono Hills Arunachal Pradesh 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28435597,
+      "immovable": 92000000,
+      "total": 120435598,
+      "liabilities": 38399089
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=142",
+    "retrieved": "2026-08-27"
+  }
+}

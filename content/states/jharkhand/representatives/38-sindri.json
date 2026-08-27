@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-38-sindri",
+  "constituency": {
+    "number": 38,
+    "name": "Sindri",
+    "district": "Dhanbad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandradeo Mahato Alias Bablu Mahato",
+    "election": "2024",
+    "elected_party": "CPI(ML)(L)",
+    "current_party": "CPI(ML)(L)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Fomer Government Teacher & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from B.D. Evening College, Magadh University in the year 1999, B.Com from B. B.M College, Baliapur from V.B. University Hazaribagh in the year 1994"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5129026,
+      "immovable": 12435000,
+      "total": 17564026,
+      "liabilities": 555940
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=934",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-21-anna-nagar",
+  "constituency": {
+    "number": 21,
+    "name": "Anna Nagar",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V.K.Ramkumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Business Tourism",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.E.(MASTERS IN ELECTRONICS), 2004 UNIVERSITY OF MELBOURNE, AUSTRALIA-2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32377355,
+      "immovable": 257500000,
+      "total": 285870355,
+      "liabilities": 188160414
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=416",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-32-khanpur",
+  "constituency": {
+    "number": 32,
+    "name": "Khanpur",
+    "district": "Haridw>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umesh Kumar",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Agriculture & Media Advisor & Profit From Firm",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Media Law London School Of Journalism in 2016"
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 100376580,
+      "immovable": 458450000,
+      "total": 548916580,
+      "liabilities": 28713690
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=757",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-44-pithoragarh",
+  "constituency": {
+    "number": 44,
+    "name": "Pithoragarh",
+    "district": "Pithor>garh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mayukh Mahar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 66,
+    "profession": "Kresar Machine",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.Sc & MA From Pithogarh Nainital in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28685984,
+      "immovable": 67500000,
+      "total": 96185984,
+      "liabilities": 20038149
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=1",
+    "retrieved": "2026-08-27"
+  }
+}

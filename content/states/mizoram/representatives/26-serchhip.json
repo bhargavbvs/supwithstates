@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-26-serchhip",
+  "constituency": {
+    "number": 26,
+    "name": "Serchhip",
+    "district": "Serchhip",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalduhoma",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Art from North Eastern Hill University (NEHU) In the year 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11388225,
+      "immovable": 30000000,
+      "total": 41388226,
+      "liabilities": 2154483
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=74",
+    "retrieved": "2026-08-27"
+  }
+}

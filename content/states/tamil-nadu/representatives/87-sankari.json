@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-87-sankari",
+  "constituency": {
+    "number": 87,
+    "name": "Sankari",
+    "district": "Salem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vetrivel. S",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Agriculture and Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Choudeswari Arts and Science College Salem-10 (University of Chennai) In 1994, B.L. From Central Law College Salem In 1997 (Did not pass)"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 88290500,
+      "immovable": 65101582,
+      "total": 153392090,
+      "liabilities": 2271775
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1236",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-7-sadhaura",
+  "constituency": {
+    "number": 7,
+    "name": "Sadhaura",
+    "district": "Yamunanagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Renu Bala",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Bsiness & Salary from Government as MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Indira Gandhi Open University in June 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16326190,
+      "immovable": 30450000,
+      "total": 46776194,
+      "liabilities": 5182576
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=189",
+    "retrieved": "2026-08-27"
+  }
+}

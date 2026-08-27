@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-20-tali",
+  "constituency": {
+    "number": 20,
+    "name": "Tali",
+    "district": "Kra Daadi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jikke Tako",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Public leader/Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Political Science from Rajiv Gandhi University Doimukh Rono Hill in the year 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14430380,
+      "immovable": 30500000,
+      "total": 44930380,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=76",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-41-chintpurni",
+  "constituency": {
+    "number": 41,
+    "name": "Chintpurni",
+    "district": "Una",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sudarshan Singh Babloo",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10+2 (Higher Secondary) from Government Senior Secondary School, Thathal as Private Candidate in 2001"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8522252,
+      "immovable": 18000000,
+      "total": 26461800,
+      "liabilities": 103596766
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=381",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-59-chokpot",
+  "constituency": {
+    "number": 59,
+    "name": "Chokpot",
+    "district": "South G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sengchim N. Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 38,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts Passed in 2013 from North Eastern Hill University (NEHU) Shillong"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6180873,
+      "immovable": 2500000,
+      "total": 8680873,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6820",
+    "retrieved": "2026-08-27"
+  }
+}

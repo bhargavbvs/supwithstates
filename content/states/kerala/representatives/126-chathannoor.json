@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-126-chathannoor",
+  "constituency": {
+    "number": 126,
+    "name": "Chathannoor",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B.B.Gopakumar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA-1989-91,SN College Kollam,Kerala University, B.Ed-1997,Sree Sankaracharya,Sanskrit University,Kalady"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4764452,
+      "immovable": 3700000,
+      "total": 8749453,
+      "liabilities": 4131194
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=53",
+    "retrieved": "2026-08-27"
+  }
+}

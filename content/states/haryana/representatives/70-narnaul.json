@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-70-narnaul",
+  "constituency": {
+    "number": 70,
+    "name": "Narnaul",
+    "district": "Mahendragarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Om Prakash Yadav",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 68,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. (Hons.) Agriculture from Haryana Agriculture University, Hisar in the Year 1977."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17515667,
+      "immovable": 29761045,
+      "total": 47276712,
+      "liabilities": 1020000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=218",
+    "retrieved": "2026-08-27"
+  }
+}

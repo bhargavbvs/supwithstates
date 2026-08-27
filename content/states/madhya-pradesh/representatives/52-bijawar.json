@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-52-bijawar",
+  "constituency": {
+    "number": 52,
+    "name": "Bijawar",
+    "district": "Chhatarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bablu Rajesh Shukla",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Secondary Education Bhopal MP in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35770150,
+      "immovable": 33200000,
+      "total": 68970150,
+      "liabilities": 3656446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=260",
+    "retrieved": "2026-08-27"
+  }
+}

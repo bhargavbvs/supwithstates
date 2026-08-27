@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-96-tonk",
+  "constituency": {
+    "number": 96,
+    "name": "Tonk",
+    "district": "Tonk",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sachin Pilot",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "MLA, Agriculture, Officer in Territorial Army",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, From Wharton Business School ,Univeristy of Pennsylvania, USA 2001 , Diploma in Marketing Management from Institute of Management & Technology Ghaziabad UP in Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 59801000,
+      "immovable": 14112000,
+      "total": 73913000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=428",
+    "retrieved": "2026-08-27"
+  }
+}

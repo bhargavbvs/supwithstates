@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-161-chorasi",
+  "constituency": {
+    "number": 161,
+    "name": "Chorasi",
+    "district": "Dungarpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Anil Kumar Katara",
+    "election": "2023",
+    "elected_party": "Bharat Adivasi Party",
+    "current_party": "Bharat Adivasi Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 38,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in 2013, B.Ed in 2009 , B.A. in 2007 from Jagatguru Ramnandachary Rajasthan Sanskrit University, Jaipur"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 740096,
+      "immovable": 40000,
+      "total": 750096,
+      "liabilities": 200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1897",
+    "retrieved": "2026-08-27"
+  }
+}

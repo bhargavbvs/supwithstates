@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-13-namthang-rateypani",
+  "constituency": {
+    "number": 13,
+    "name": "Namthang-Rateypani",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjeet Kharel",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Year 1999 Under North Bengal University From St. Joseph College Darjeeling"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14300684,
+      "immovable": 315476019,
+      "total": 329776708,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=76",
+    "retrieved": "2026-08-27"
+  }
+}

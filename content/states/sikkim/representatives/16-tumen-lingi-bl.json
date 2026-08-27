@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-16-tumen-lingi-bl",
+  "constituency": {
+    "number": 16,
+    "name": "Tumen-Lingi(Bl)",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samdup Tshering Bhutia",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Politician Retired Government Employee and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From Tashi Namgyal Senior Secondary School Gangtok Year 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20646540,
+      "immovable": 84633146,
+      "total": 105279689,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=122",
+    "retrieved": "2026-08-27"
+  }
+}

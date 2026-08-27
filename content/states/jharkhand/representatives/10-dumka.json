@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-10-dumka",
+  "constituency": {
+    "number": 10,
+    "name": "Dumka",
+    "district": "Dumka",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Basant Soren",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "MLA, Business and Other Sources",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th , from Uchh Vidhyalaya Amarapur Year 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 82322313,
+      "immovable": 44550000,
+      "total": 126872256,
+      "liabilities": 11054291
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=831",
+    "retrieved": "2026-08-27"
+  }
+}

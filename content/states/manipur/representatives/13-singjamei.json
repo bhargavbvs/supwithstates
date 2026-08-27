@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-13-singjamei",
+  "constituency": {
+    "number": 13,
+    "name": "Singjamei",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yumnam Khemchand Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Politician/Sitting MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Leaving Certificate Examination, 1978 conducted by Board of under Secondary Education, Manipur Roll No 2425 from Ram Lal Paul High School in 1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17990295,
+      "immovable": 5865283,
+      "total": 23855578,
+      "liabilities": 5900002
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=69",
+    "retrieved": "2026-08-27"
+  }
+}

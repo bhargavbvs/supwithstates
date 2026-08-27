@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-18-dharampur",
+  "constituency": {
+    "number": 18,
+    "name": "Dharampur",
+    "district": "Dehrad@n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinod Chamoli",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Salon",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc from Kanpur University In 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13561220,
+      "immovable": 16500000,
+      "total": 30061221,
+      "liabilities": 1619437
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=532",
+    "retrieved": "2026-08-27"
+  }
+}

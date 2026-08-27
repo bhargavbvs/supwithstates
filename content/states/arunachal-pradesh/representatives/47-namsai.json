@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-47-namsai",
+  "constituency": {
+    "number": 47,
+    "name": "Namsai",
+    "district": "Namsai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chau Zingnu Namchoom",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Sitting MLA, Namsai (A.P.)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Beachlor of Arts (B.A.) From Delhi University, Delhi Year 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 540940422,
+      "immovable": 140189564,
+      "total": 681129994,
+      "liabilities": 52795667
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=4",
+    "retrieved": "2026-08-27"
+  }
+}

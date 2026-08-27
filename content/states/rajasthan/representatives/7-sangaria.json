@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-7-sangaria",
+  "constituency": {
+    "number": 7,
+    "name": "Sangaria",
+    "district": "Hanumangarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhimanyu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 32,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Rajasthan University Jaipur in 2015"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 157094,
+      "immovable": 0,
+      "total": 157094,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=381",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-26-muddebihal",
+  "constituency": {
+    "number": 26,
+    "name": "Muddebihal",
+    "district": "Vijayapura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Appaji Aliyas Channabasavaraj S/O Shankarao Nadagouda",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts From L.V.D. Collage, Raichur Year-1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33476718,
+      "immovable": 188300000,
+      "total": 221776720,
+      "liabilities": 16656701
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6867",
+    "retrieved": "2026-08-27"
+  }
+}

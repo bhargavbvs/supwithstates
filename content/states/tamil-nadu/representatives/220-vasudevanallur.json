@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-220-vasudevanallur",
+  "constituency": {
+    "number": 220,
+    "name": "Vasudevanallur",
+    "district": "Tenkasi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "E. Raja",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "Lawyer, MLA, Agriculture., President- Tamil Nadu State Weightlifting Association",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "HSC - ICI Boys Higher Secondary School -2003 B.Com., - Sriparamagalyan College, Alwarkurichi-2007 B.L., Central Law College Salem 2010 M.A., Periyar University Salem (Distance Education) 2010"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19670113,
+      "immovable": 63958843,
+      "total": 83678756,
+      "liabilities": 13583668
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=3971",
+    "retrieved": "2026-08-27"
+  }
+}

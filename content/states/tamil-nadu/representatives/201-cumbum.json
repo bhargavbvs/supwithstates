@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-201-cumbum",
+  "constituency": {
+    "number": 201,
+    "name": "Cumbum",
+    "district": "Theni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jeganathmishra Pla",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Sc Zoology - Dropout - A.V.C. College, Mayiladuthurai, Mannampandal - Year 1993, Hotel Management, Year of passing 1993 - 94 - National Council for Hotel Management and Catering Technology, New Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 155154036,
+      "immovable": 387307613,
+      "total": 551499024,
+      "liabilities": 206368904
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1028",
+    "retrieved": "2026-08-27"
+  }
+}

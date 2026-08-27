@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-32-shahkot",
+  "constituency": {
+    "number": 32,
+    "name": "Shahkot",
+    "district": "Jalandhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hardev Singh Laddi",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & Agricultural business (Partner in Cold Storage)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric Passed in 1984 from PSEB"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22468285,
+      "immovable": 148484000,
+      "total": 170952285,
+      "liabilities": 36461000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=146",
+    "retrieved": "2026-08-27"
+  }
+}

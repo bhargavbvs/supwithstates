@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-63-kalanaur",
+  "constituency": {
+    "number": 63,
+    "name": "Kalanaur",
+    "district": "Rohtak",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shakuntla Khatak",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Shobhit Institute of Engineering & Technology Shobhit University Meerut Year 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49187548,
+      "immovable": 63749172,
+      "total": 85486630,
+      "liabilities": 30573255
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=237",
+    "retrieved": "2026-08-27"
+  }
+}

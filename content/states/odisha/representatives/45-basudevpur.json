@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-45-basudevpur",
+  "constituency": {
+    "number": 45,
+    "name": "Basudevpur",
+    "district": "Bhadrak",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Kumar Das",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (Odia) From Utakal University , Vani vihar , Bhubaneshwar In 1998"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7496765,
+      "immovable": 9500000,
+      "total": 16996765,
+      "liabilities": 1514564
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=991",
+    "retrieved": "2026-08-27"
+  }
+}

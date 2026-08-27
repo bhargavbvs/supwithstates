@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-42-tundi",
+  "constituency": {
+    "number": 42,
+    "name": "Tundi",
+    "district": "Dhanbad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mathura Prasad Mahato",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Social Service and MLA & Former Minister of Jharkhand Govt.",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Pravesika From Hindi Vidyapith, Deoghar, Year-2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14104633,
+      "immovable": 30950000,
+      "total": 45054633,
+      "liabilities": 6160184
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=828",
+    "retrieved": "2026-08-27"
+  }
+}

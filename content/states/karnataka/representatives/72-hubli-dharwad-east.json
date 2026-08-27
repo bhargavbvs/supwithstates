@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-72-hubli-dharwad-east",
+  "constituency": {
+    "number": 72,
+    "name": "Hubli-Dharwad-East",
+    "district": "Dh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Abbayya Prasad",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Social service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "2nd PUC- P C Jebena Science College, Vidyanagar, Hubli (Department Of Pre-University , Bengaluru) In 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23157725,
+      "immovable": 36445000,
+      "total": 59602725,
+      "liabilities": 16012013
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7334",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-9-lundra",
+  "constituency": {
+    "number": 9,
+    "name": "Lundra",
+    "district": "Surguja",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Prabodh Minz",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Agriculture, Honorarium (Councilor), House Rent",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Mechanical from Madhya Pradesh Board of Technical Education Bhopal 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8075070,
+      "immovable": 45263800,
+      "total": 53338870,
+      "liabilities": 600970
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=341",
+    "retrieved": "2026-08-27"
+  }
+}

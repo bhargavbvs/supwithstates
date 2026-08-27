@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-110-chengannur",
+  "constituency": {
+    "number": 110,
+    "name": "Chengannur",
+    "district": "Alappuzha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saji Cherian",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from Kerala Univercity in 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4666648,
+      "immovable": 6538000,
+      "total": 11204648,
+      "liabilities": 1703658
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=59",
+    "retrieved": "2026-08-27"
+  }
+}

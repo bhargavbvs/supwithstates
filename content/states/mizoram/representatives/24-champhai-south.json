@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-24-champhai-south",
+  "constituency": {
+    "number": 24,
+    "name": "Champhai South",
+    "district": "Champhai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lt Col. Clement Lalhmingthanga",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Army Officer Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Jawaharlal Nehru University, Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11815077,
+      "immovable": 95000000,
+      "total": 106815076,
+      "liabilities": 9919959
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=50",
+    "retrieved": "2026-08-27"
+  }
+}

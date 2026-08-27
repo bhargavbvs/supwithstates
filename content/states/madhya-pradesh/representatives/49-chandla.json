@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-49-chandla",
+  "constituency": {
+    "number": 49,
+    "name": "Chandla",
+    "district": "Chhatarpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ahirwar Dileep",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Property Business, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from Sarvodaya Sanskar Higher Secondary School Ghora (Tikamgarh) Madhyamik Shiksha Mandal MP Bhopal in 1998"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 3,
+      "note": null
+    },
+    "assets": {
+      "movable": 7253794,
+      "immovable": 16315750,
+      "total": 23569544,
+      "liabilities": 1742117
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1422",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-66-gill",
+  "constituency": {
+    "number": 66,
+    "name": "Gill",
+    "district": "Ludhiana",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jiwan Singh Sangowal",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric From Punjab School Education Board, Govt. High School, Ludhiana, Punjab, Year-1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1474285,
+      "immovable": 8123000,
+      "total": 9597285,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=76",
+    "retrieved": "2026-08-27"
+  }
+}

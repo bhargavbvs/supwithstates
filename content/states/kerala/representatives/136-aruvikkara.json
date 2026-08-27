@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-136-aruvikkara",
+  "constituency": {
+    "number": 136,
+    "name": "Aruvikkara",
+    "district": "Thiruvananthapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. G. Steephen",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Advocate (Social Worker)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law (LLB) Law Academy Law College Trivandrum from University of Kerala in 1998 and Bachelor of Arts (BA) from Christian College Kottakkada in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4890111,
+      "immovable": 2145000,
+      "total": 7023107,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=321",
+    "retrieved": "2026-08-27"
+  }
+}

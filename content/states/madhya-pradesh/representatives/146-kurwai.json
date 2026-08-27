@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-146-kurwai",
+  "constituency": {
+    "number": 146,
+    "name": "Kurwai",
+    "district": "Vidisha",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Hari Singh Sapre",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Bhopal University Bhopal Year 1998, Study Government College Kurvai Dist. Vidisha"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9195588,
+      "immovable": 22700000,
+      "total": 31895588,
+      "liabilities": 5026059
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=62",
+    "retrieved": "2026-08-27"
+  }
+}

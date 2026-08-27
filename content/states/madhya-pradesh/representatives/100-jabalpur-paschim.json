@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-100-jabalpur-paschim",
+  "constituency": {
+    "number": 100,
+    "name": "Jabalpur Paschim",
+    "district": "Jabalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Lok Sabha member",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Higher secondary School (Chritstian Higher secondary School Jabalpur Year 1978), B.S.C (Shaskiy Science College, Rani Durgavati University Jabalpur Year 1982)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11278488,
+      "immovable": 32344557,
+      "total": 43623045,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=301",
+    "retrieved": "2026-08-27"
+  }
+}

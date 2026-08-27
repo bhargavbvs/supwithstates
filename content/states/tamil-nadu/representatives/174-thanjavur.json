@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-174-thanjavur",
+  "constituency": {
+    "number": 174,
+    "name": "Thanjavur",
+    "district": "Thanjavur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R. Vijaysaravanan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC Uma Maheshwara Higher Secondary Karanthai Thanjavur-1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2868530,
+      "immovable": 0,
+      "total": 2942530,
+      "liabilities": 199090
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1014",
+    "retrieved": "2026-08-27"
+  }
+}

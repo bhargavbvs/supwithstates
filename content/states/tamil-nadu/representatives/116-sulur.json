@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-116-sulur",
+  "constituency": {
+    "number": 116,
+    "name": "Sulur",
+    "district": "Coimbatore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nm.Sukumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "ITI, Sri Subbaiah Industrial Training Centre, Coimbatore in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 29532324,
+      "immovable": 15000000,
+      "total": 44417326,
+      "liabilities": 6028853
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=882",
+    "retrieved": "2026-08-27"
+  }
+}

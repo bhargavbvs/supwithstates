@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-30-jamua",
+  "constituency": {
+    "number": 30,
+    "name": "Jamua",
+    "district": "Giridih",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manju Kumari",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric From S.B.M.K. High School Bhandaro, Giridih Bihar Vidalaya Examination Board, Patna, Year-1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1255000,
+      "immovable": 1110000,
+      "total": 2187000,
+      "liabilities": 200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=846",
+    "retrieved": "2026-08-27"
+  }
+}

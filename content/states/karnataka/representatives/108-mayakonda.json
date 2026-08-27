@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-108-mayakonda",
+  "constituency": {
+    "number": 108,
+    "name": "Mayakonda",
+    "district": "D",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "K. S. Basavanthappa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture and business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "1st PUC ,A.R,G Collage Davangere-1987-88"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2263523,
+      "immovable": 7800000,
+      "total": 10131523,
+      "liabilities": 325800
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7555",
+    "retrieved": "2026-08-27"
+  }
+}

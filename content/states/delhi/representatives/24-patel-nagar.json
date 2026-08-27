@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-24-patel-nagar",
+  "constituency": {
+    "number": 24,
+    "name": "Patel Nagar",
+    "district": "West",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pravesh Ratn",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 39,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from DNV College Sadabad Road Jatora, Baldev Mathura, UP in 2024"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15232005,
+      "immovable": 0,
+      "total": 15282007,
+      "liabilities": 2426029
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=108",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-132-tumkur-city",
+  "constituency": {
+    "number": 132,
+    "name": "Tumkur City",
+    "district": "Tumak#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G B Jyothi Ganesh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "BE, MBA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Post Graduate Diploma in Management Science from Sri Dharmasthala Manjunatheshwara Institute for Management Development, Mysore in 1999, B.E from Mechanical Engineering Siddaganga Institute of Technology Tumkur, Bangalore University in 1996."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15555635,
+      "immovable": 330391121,
+      "total": 345946757,
+      "liabilities": 72584713
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7367",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-110-honnali",
+  "constituency": {
+    "number": 110,
+    "name": "Honnali",
+    "district": "D",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shanthana Gowda.D.G.",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "B.Sc. in 1968-69, P.C. Jabin Science College, Karnataka University, Hubli."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 62784383,
+      "immovable": 175586150,
+      "total": 203970523,
+      "liabilities": 42268521
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7325",
+    "retrieved": "2026-08-27"
+  }
+}

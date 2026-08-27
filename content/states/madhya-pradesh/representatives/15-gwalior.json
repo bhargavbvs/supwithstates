@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-15-gwalior",
+  "constituency": {
+    "number": 15,
+    "name": "Gwalior",
+    "district": "Gwalior",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradhuman Singh Tomar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Business And Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Bhusan Higher Sec. School, Kashi Gwalior in 1994"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13741522,
+      "immovable": 24975000,
+      "total": 38716522,
+      "liabilities": 5927983
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=702",
+    "retrieved": "2026-08-27"
+  }
+}

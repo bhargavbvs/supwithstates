@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-27-chatra",
+  "constituency": {
+    "number": 27,
+    "name": "Chatra",
+    "district": "Chatra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Janardhan Paswan",
+    "election": "2024",
+    "elected_party": "Lok Janshakti Party(Ram Vilas)",
+    "current_party": "Lok Janshakti Party(Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Agriculture & Petrol Pump",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from K. Singh.S. University Darbhanga in 1999"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14153292,
+      "immovable": 10270000,
+      "total": 24263292,
+      "liabilities": 5294000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=175",
+    "retrieved": "2026-08-27"
+  }
+}

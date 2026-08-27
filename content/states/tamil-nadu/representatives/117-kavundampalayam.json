@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-117-kavundampalayam",
+  "constituency": {
+    "number": 117,
+    "name": "Kavundampalayam",
+    "district": "Coimbatore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kanimozhi Santhosh",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Self employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A.BL (Hons), The Tamil Nadu Dr Ambedkar Law University, Chennai-2010 Year"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 195693726,
+      "immovable": 59700000,
+      "total": 255348726,
+      "liabilities": 20539905
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=800",
+    "retrieved": "2026-08-27"
+  }
+}

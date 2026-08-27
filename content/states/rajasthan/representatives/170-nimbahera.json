@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-170-nimbahera",
+  "constituency": {
+    "number": 170,
+    "name": "Nimbahera",
+    "district": "Pratapgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shrichand Kriplani",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Social Worker, salary, pentioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Govt. College Chittorgarh 1977-78"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37298572,
+      "immovable": 19425000,
+      "total": 56723575,
+      "liabilities": 10607928
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=82",
+    "retrieved": "2026-08-27"
+  }
+}

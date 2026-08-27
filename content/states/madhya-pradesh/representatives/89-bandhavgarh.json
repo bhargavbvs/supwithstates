@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-89-bandhavgarh",
+  "constituency": {
+    "number": 89,
+    "name": "Bandhavgarh",
+    "district": "Umaria",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shivnarayan Gyan Singh (Lallu Bhaiya)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Income R. 5 Lakh from Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Class 12 Pass from Higher Secondary College Madwas in 2005, B.A. From Madhya Pradesh Open University Bhopal Study Centre Manpur Dist Umriya Year 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5045257,
+      "immovable": 1040000,
+      "total": 6085257,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=11",
+    "retrieved": "2026-08-27"
+  }
+}

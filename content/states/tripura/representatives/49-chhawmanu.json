@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-49-chhawmanu",
+  "constituency": {
+    "number": 49,
+    "name": "Chhawmanu",
+    "district": "Dhalai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sambhu Lal Chakma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 33,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BSW (Bachelor of Social Work) from Himalayan University in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1422543,
+      "immovable": 150000,
+      "total": 1572543,
+      "liabilities": 2390257
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7010",
+    "retrieved": "2026-08-27"
+  }
+}

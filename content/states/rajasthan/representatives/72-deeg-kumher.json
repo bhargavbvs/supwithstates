@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-72-deeg-kumher",
+  "constituency": {
+    "number": 72,
+    "name": "Deeg-Kumher",
+    "district": "Deeg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Shailesh Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Maharashtra University of Heath Science, Nashik in June 2007"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 92398551,
+      "immovable": 125293000,
+      "total": 217529551,
+      "liabilities": 3571684
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=189",
+    "retrieved": "2026-08-27"
+  }
+}

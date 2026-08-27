@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-100-ajmer-north",
+  "constituency": {
+    "number": 100,
+    "name": "Ajmer North",
+    "district": "Ajmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vasudev Devnani",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 75,
+    "profession": "Salary from Rajasthan Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Electrical) M.B.M. Engineering. College, Jodhpur, Jodhpur University, Jodhpur in 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51398017,
+      "immovable": 12000000,
+      "total": 63398022,
+      "liabilities": 6500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1",
+    "retrieved": "2026-08-27"
+  }
+}

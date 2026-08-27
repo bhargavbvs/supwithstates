@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-54-malviya-nagar",
+  "constituency": {
+    "number": 54,
+    "name": "Malviya Nagar",
+    "district": "Jaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalicharan Saraf",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Salary Allowance as MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate from Law College, Rajasthan Universtiy, Jaipur in 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 31002131,
+      "immovable": 79700000,
+      "total": 110702131,
+      "liabilities": 12978418
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=295",
+    "retrieved": "2026-08-27"
+  }
+}

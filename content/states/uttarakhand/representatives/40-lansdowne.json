@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-40-lansdowne",
+  "constituency": {
+    "number": 40,
+    "name": "Lansdowne",
+    "district": "Pauri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Daleep Singh Rawat",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Garhwal University, Srinagar, Garhwal in 1989-90"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1798197,
+      "immovable": 17400000,
+      "total": 19027193,
+      "liabilities": 2930722
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=142",
+    "retrieved": "2026-08-27"
+  }
+}

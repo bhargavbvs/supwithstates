@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-24-khadoor-sahib",
+  "constituency": {
+    "number": 24,
+    "name": "Khadoor Sahib",
+    "district": "Tarn Taran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manjinder Singh Lalpura",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Punjab School Education Board in 2005"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1227200,
+      "immovable": 4500000,
+      "total": 5727200,
+      "liabilities": 100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=636",
+    "retrieved": "2026-08-27"
+  }
+}

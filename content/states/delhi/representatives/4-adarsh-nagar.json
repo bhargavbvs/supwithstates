@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-4-adarsh-nagar",
+  "constituency": {
+    "number": 4,
+    "name": "Adarsh Nagar",
+    "district": "North",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raj Kumar Bhatia",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 59,
+    "profession": "Commission Agent dealing in perishable Fruits and agriculturist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com (Dropped after II Year) from SGBT Khalsa Delhi University in 1985, 12th in 1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26840423,
+      "immovable": 139202675,
+      "total": 166043106,
+      "liabilities": 4805311
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=63",
+    "retrieved": "2026-08-27"
+  }
+}

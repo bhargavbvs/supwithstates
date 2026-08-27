@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-22-katghora",
+  "constituency": {
+    "number": 22,
+    "name": "Katghora",
+    "district": "Korba",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Premchand Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc from Gurughasi das university in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1774931,
+      "immovable": 18500000,
+      "total": 20274933,
+      "liabilities": 235823
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=330",
+    "retrieved": "2026-08-27"
+  }
+}

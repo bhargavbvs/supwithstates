@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-29-babaleshwar",
+  "constituency": {
+    "number": 29,
+    "name": "Babaleshwar",
+    "district": "Vijayapura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M B Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Togetherness",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E - Civil Engineering BLDE Institute V.P.Dr. PG Halakatti College of Engineering & Technology, Vijayapura, Karnataka University, Dharward passed in 1990"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 226949879,
+      "immovable": 1186160100,
+      "total": 1413104981,
+      "liabilities": 255986980
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7104",
+    "retrieved": "2026-08-27"
+  }
+}

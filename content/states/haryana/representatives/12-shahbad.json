@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-12-shahbad",
+  "constituency": {
+    "number": 12,
+    "name": "Shahbad",
+    "district": "Kurukshetra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ram Karan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Salary as MLA & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From National Institute of Open Schooling in the year 2017"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 10842057,
+      "immovable": 44500000,
+      "total": 55342057,
+      "liabilities": 3900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=334",
+    "retrieved": "2026-08-27"
+  }
+}

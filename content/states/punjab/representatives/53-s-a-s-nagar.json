@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-53-s-a-s-nagar",
+  "constituency": {
+    "number": 53,
+    "name": "S.A.S.Nagar",
+    "district": "Sas Nagar (Sahibzada Ajit Singh Nagar)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kulwant Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from Punjab School Education Board in September 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2038924039,
+      "immovable": 346389400,
+      "total": 2385313439,
+      "liabilities": 138302082
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=842",
+    "retrieved": "2026-08-27"
+  }
+}

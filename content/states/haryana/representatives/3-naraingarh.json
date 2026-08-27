@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-3-naraingarh",
+  "constituency": {
+    "number": 3,
+    "name": "Naraingarh",
+    "district": "Ambala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shalley Chaudhary",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "House Wife/Legislatore",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Under Matric"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 59665950,
+      "immovable": 700000000,
+      "total": 759665950,
+      "liabilities": 3420000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=95",
+    "retrieved": "2026-08-27"
+  }
+}

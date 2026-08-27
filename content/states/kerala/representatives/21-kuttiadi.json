@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-21-kuttiadi",
+  "constituency": {
+    "number": 21,
+    "name": "Kuttiadi",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Parakkal Abdulla",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Upper Primary Education from Mekkoth UP School Eramala and Thereafter Discontinued From Govt High School, Orkkatteri In 1973"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 5,
+      "note": null
+    },
+    "assets": {
+      "movable": 26268974,
+      "immovable": 48250764,
+      "total": 74519741,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=779",
+    "retrieved": "2026-08-27"
+  }
+}

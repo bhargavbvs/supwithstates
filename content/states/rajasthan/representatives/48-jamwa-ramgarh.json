@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-48-jamwa-ramgarh",
+  "constituency": {
+    "number": 48,
+    "name": "Jamwa Ramgarh",
+    "district": "Jaipur(Gramin)",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mahendra Pal Meena",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Private Job & Farmer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Rajasthan University, Jaipur in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3154435,
+      "immovable": 17700000,
+      "total": 20854435,
+      "liabilities": 1118338
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=223",
+    "retrieved": "2026-08-27"
+  }
+}

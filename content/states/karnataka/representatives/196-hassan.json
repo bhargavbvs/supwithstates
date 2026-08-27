@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-196-hassan",
+  "constituency": {
+    "number": 196,
+    "name": "Hassan",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "H. P. Swaroop",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Business man",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE 1999-2001 Bahubali engineering college sravanabelogola"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12369574,
+      "immovable": 65869053,
+      "total": 76138629,
+      "liabilities": 20909812
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7304",
+    "retrieved": "2026-08-27"
+  }
+}

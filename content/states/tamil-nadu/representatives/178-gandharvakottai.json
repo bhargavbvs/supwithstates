@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-178-gandharvakottai",
+  "constituency": {
+    "number": 178,
+    "name": "Gandharvakottai",
+    "district": "Pudukkottai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "N. Subramanian",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Government (Board ) High School, Manapparai in 1971-72."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14778000,
+      "immovable": 1800000,
+      "total": 16578000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1375",
+    "retrieved": "2026-08-27"
+  }
+}

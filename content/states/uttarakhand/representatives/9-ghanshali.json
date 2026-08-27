@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-9-ghanshali",
+  "constituency": {
+    "number": 9,
+    "name": "Ghanshali",
+    "district": "Tehri Garhw>l",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shakti Lal Shah",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Member of Legislative Assembly Salaried",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2730000,
+      "immovable": 2000000,
+      "total": 3193000,
+      "liabilities": 200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=16",
+    "retrieved": "2026-08-27"
+  }
+}

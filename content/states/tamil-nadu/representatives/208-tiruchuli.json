@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-208-tiruchuli",
+  "constituency": {
+    "number": 208,
+    "name": "Tiruchuli",
+    "district": "Virudhunagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thangam Thenarasu",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Agriculture and Public Case",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE from Annamalai University, Chidambaram in 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30149640,
+      "immovable": 165447550,
+      "total": 195597193,
+      "liabilities": 42966422
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=834",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-50-kangpokpi",
+  "constituency": {
+    "number": 50,
+    "name": "Kangpokpi",
+    "district": "Kangpokpi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nemcha Kipgen",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Social Worker/Member Of Legislative Assembly, Manipur",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Nursing (GNM) From Tezpur Mission Hospital Assam in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31911307,
+      "immovable": 7000000,
+      "total": 38911307,
+      "liabilities": 567080
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=95",
+    "retrieved": "2026-08-27"
+  }
+}

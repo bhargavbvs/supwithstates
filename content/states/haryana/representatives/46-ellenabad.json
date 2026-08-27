@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-46-ellenabad",
+  "constituency": {
+    "number": 46,
+    "name": "Ellenabad",
+    "district": "Sirsa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bharat Singh Beniwal",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 67,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14070000,
+      "immovable": 74950000,
+      "total": 89020000,
+      "liabilities": 6394731
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=257",
+    "retrieved": "2026-08-27"
+  }
+}

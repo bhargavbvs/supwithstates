@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-18-mudaliarpet",
+  "constituency": {
+    "number": 18,
+    "name": "Mudaliarpet",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A. Johnkumar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Illiterate",
+      "detail": "NIL"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37676120,
+      "immovable": 563036850,
+      "total": 597813050,
+      "liabilities": 58218300
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=36",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-12-jarmundi",
+  "constituency": {
+    "number": 12,
+    "name": "Jarmundi",
+    "district": "Dumka",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Kunwar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Social Work, Politics, Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculate From Rani Sonawatee Kumari High School, Nonihat in the Year 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14545219,
+      "immovable": 41825000,
+      "total": 56370219,
+      "liabilities": 954178
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=1258",
+    "retrieved": "2026-08-27"
+  }
+}

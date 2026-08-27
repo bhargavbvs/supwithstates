@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-3-pathankot",
+  "constituency": {
+    "number": 3,
+    "name": "Pathankot",
+    "district": "Pathankot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashwani Kumar Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From SRPA Adarsh Bhartiya College Pathinankot, Guru Nanak Dev University in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13766533,
+      "immovable": 300000,
+      "total": 14066533,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=269",
+    "retrieved": "2026-08-27"
+  }
+}

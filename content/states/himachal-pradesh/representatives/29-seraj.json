@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-29-seraj",
+  "constituency": {
+    "number": 29,
+    "name": "Seraj",
+    "district": "Mandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jai Ram Thakur",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from GDC Mandi, Himachal Pradesh, in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40030975,
+      "immovable": 23200000,
+      "total": 62847718,
+      "liabilities": 5091841
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=10",
+    "retrieved": "2026-08-27"
+  }
+}

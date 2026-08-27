@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-31-sonipat",
+  "constituency": {
+    "number": 31,
+    "name": "Sonipat",
+    "district": "Sonipat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nikhil Madaan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 34,
+    "profession": "Dealer in two wheelers (Authorized dealer of Hero Motocorp Ltd.)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Sawaranprastha Public School, Passed in Year 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 79064968,
+      "immovable": 32500000,
+      "total": 112388253,
+      "liabilities": 63573666
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=181",
+    "retrieved": "2026-08-27"
+  }
+}

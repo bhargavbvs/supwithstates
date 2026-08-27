@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-67-rohru",
+  "constituency": {
+    "number": 67,
+    "name": "Rohru",
+    "district": "Shimla",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mohan Lal Brakta",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., LLB from Himachal Pradesh University in the year 1993"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10168089,
+      "immovable": 15000000,
+      "total": 25168089,
+      "liabilities": 1748069
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=221",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-9-fatehgarh-churian",
+  "constituency": {
+    "number": 9,
+    "name": "Fatehgarh Churian",
+    "district": "Gurdaspur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tripat Rajinder Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 78,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From Sikh National College , Qadian Under Punjab University , Chandigarh In The Year 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8912196,
+      "immovable": 60000000,
+      "total": 68912196,
+      "liabilities": 27404995
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=507",
+    "retrieved": "2026-08-27"
+  }
+}

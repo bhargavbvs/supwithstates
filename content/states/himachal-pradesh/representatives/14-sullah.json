@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-14-sullah",
+  "constituency": {
+    "number": 14,
+    "name": "Sullah",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vipin Singh Parmar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "LIC Agent",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. & LLB from H.P.U. Shimla"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17115448,
+      "immovable": 26090720,
+      "total": 53768739,
+      "liabilities": 4833338
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=72",
+    "retrieved": "2026-08-27"
+  }
+}

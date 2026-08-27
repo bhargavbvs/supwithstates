@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-46-niwari",
+  "constituency": {
+    "number": 46,
+    "name": "Niwari",
+    "district": "Niwari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Jain",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Farmer & Member of Madhya Pradesh Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9200589,
+      "immovable": 36292290,
+      "total": 45492879,
+      "liabilities": 9025456
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1514",
+    "retrieved": "2026-08-27"
+  }
+}

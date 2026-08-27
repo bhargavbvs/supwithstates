@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-14-pynthorumkhrah",
+  "constituency": {
+    "number": 14,
+    "name": "Pynthorumkhrah",
+    "district": "East Kh>si Hills",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Alexander Laloo Hek",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Member of Legislative Assembly & Businessman",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University from St. Anthonys College Shillong under NEHU in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 71486225,
+      "immovable": 98200000,
+      "total": 169686226,
+      "liabilities": 4509209
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7053",
+    "retrieved": "2026-08-27"
+  }
+}

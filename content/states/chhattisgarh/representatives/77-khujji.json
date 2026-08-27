@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-77-khujji",
+  "constituency": {
+    "number": 77,
+    "name": "Khujji",
+    "district": "Rajnandgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bholaram Sahu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th 1975 Primary School Village-Khujji"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4259257,
+      "immovable": 8186210,
+      "total": 12445467,
+      "liabilities": 340712
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=45",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-42-tengnoupal",
+  "constituency": {
+    "number": 42,
+    "name": "Tengnoupal",
+    "district": "Tengnoupal",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Letpao Haokip",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Social Worker/MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Political Science) from Maharaja Bodhchandra College under Manipur University in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11342519,
+      "immovable": 31400000,
+      "total": 42742519,
+      "liabilities": 11739011
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=257",
+    "retrieved": "2026-08-27"
+  }
+}

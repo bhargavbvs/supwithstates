@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-68-gumla",
+  "constituency": {
+    "number": 68,
+    "name": "Gumla",
+    "district": "Gumla",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhushan Tirkey",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric From S.S. High School Gumla Bihar Education Board Patna in 1987"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20664488,
+      "immovable": 35650000,
+      "total": 58056488,
+      "liabilities": 1141120
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=230",
+    "retrieved": "2026-08-27"
+  }
+}

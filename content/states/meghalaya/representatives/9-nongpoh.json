@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-9-nongpoh",
+  "constituency": {
+    "number": 9,
+    "name": "Nongpoh",
+    "district": "Ri-Bhoi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mayralborn Syiem",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From North Eastern Hills University Year 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11840947,
+      "immovable": 16700000,
+      "total": 28540947,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6990",
+    "retrieved": "2026-08-27"
+  }
+}

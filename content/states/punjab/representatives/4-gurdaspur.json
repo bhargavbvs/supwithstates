@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-4-gurdaspur",
+  "constituency": {
+    "number": 4,
+    "name": "Gurdaspur",
+    "district": "Gurdaspur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Barindermeet Singh Pahra",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 41,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Regular Diploma in Computer Engg. from SBCMS-Polytechnic, Attalgarh, Mukerian, Hoshiarpur in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7628272,
+      "immovable": 10900000,
+      "total": 18528272,
+      "liabilities": 8595085
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=271",
+    "retrieved": "2026-08-27"
+  }
+}

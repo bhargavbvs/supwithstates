@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-128-chiknayakanhalli",
+  "constituency": {
+    "number": 128,
+    "name": "Chiknayakanhalli",
+    "district": "Tumak#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C B Suresh Babu",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC from Nalandha English School,Tiptur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3618000,
+      "immovable": 15000000,
+      "total": 18618000,
+      "liabilities": 955181
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6961",
+    "retrieved": "2026-08-27"
+  }
+}

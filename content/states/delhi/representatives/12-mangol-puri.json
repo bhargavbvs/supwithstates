@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-12-mangol-puri",
+  "constituency": {
+    "number": 12,
+    "name": "Mangol Puri",
+    "district": "North West",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Raj Kumar Chauhan",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 67,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary From Nalanda Public College Year 1971-72"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17397943,
+      "immovable": 100124120,
+      "total": 118332064,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=142",
+    "retrieved": "2026-08-27"
+  }
+}

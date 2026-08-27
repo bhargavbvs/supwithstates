@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-7-hukkeri",
+  "constituency": {
+    "number": 7,
+    "name": "Hukkeri",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Katti Nikhil Umesh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Agriculture and MD at VSIL",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From University of Wales Institute, Cardiff United Kingdom, Year-2008-09"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 745428231,
+      "immovable": 474100000,
+      "total": 1219528236,
+      "liabilities": 97097
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7656",
+    "retrieved": "2026-08-27"
+  }
+}

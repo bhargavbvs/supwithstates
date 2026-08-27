@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-94-kaduthuruthy",
+  "constituency": {
+    "number": 94,
+    "name": "Kaduthuruthy",
+    "district": "Kottayam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.Mons Joseph",
+    "election": "2026",
+    "elected_party": "Kerala Congress",
+    "current_party": "Kerala Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLB From Law Academy College Trivandrum in 1994 and M.A. in Sociology From Annamalai University, Year- 2020"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 16184183,
+      "immovable": 13050000,
+      "total": 29234183,
+      "liabilities": 2597334
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=93",
+    "retrieved": "2026-08-27"
+  }
+}

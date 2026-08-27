@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-40-naryoli",
+  "constituency": {
+    "number": 40,
+    "name": "Naryoli",
+    "district": "Sagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Er. Pradeep Lariya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Engineer",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering from Government Polytechnic, Damoh in 1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14266224,
+      "immovable": 33180000,
+      "total": 47446224,
+      "liabilities": 14957503
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=358",
+    "retrieved": "2026-08-27"
+  }
+}

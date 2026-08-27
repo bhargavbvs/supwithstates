@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-155-cuddalore",
+  "constituency": {
+    "number": 155,
+    "name": "Cuddalore",
+    "district": "Cuddalore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B.Rajkumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Real Estate/ Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "DME (Diploma in Mechanical Engineering) From Muthiah Polytechnic, Chidambaram in Oct 2002"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4326110,
+      "immovable": 210000,
+      "total": 4536110,
+      "liabilities": 3917441
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=890",
+    "retrieved": "2026-08-27"
+  }
+}

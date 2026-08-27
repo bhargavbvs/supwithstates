@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-47-karong",
+  "constituency": {
+    "number": 47,
+    "name": "Karong",
+    "district": "Senapati",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "J Kumo Sha",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from University of Delhi in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51950,
+      "immovable": 600000,
+      "total": 651950,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=230",
+    "retrieved": "2026-08-27"
+  }
+}

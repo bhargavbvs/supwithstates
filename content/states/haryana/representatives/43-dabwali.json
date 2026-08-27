@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-43-dabwali",
+  "constituency": {
+    "number": 43,
+    "name": "Dabwali",
+    "district": "Sirsa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aditya Devilal",
+    "election": "2024",
+    "elected_party": "INLD",
+    "current_party": "INLD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Agriculturist, Business Man",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from DAV College, PU, Chandigarh in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21528383,
+      "immovable": 242997376,
+      "total": 264525759,
+      "liabilities": 487200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=71",
+    "retrieved": "2026-08-27"
+  }
+}

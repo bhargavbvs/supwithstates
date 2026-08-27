@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-52-tamei",
+  "constituency": {
+    "number": 52,
+    "name": "Tamei",
+    "district": "Tamenglong",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Awangbow Newmai",
+    "election": "2022",
+    "elected_party": "NPF",
+    "current_party": "NPF",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Politician / Sitting MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Anthropology) in 1993 from North Eastern Hills University (NEHU)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 34497089,
+      "immovable": 5220000,
+      "total": 39717090,
+      "liabilities": 421418
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=252",
+    "retrieved": "2026-08-27"
+  }
+}

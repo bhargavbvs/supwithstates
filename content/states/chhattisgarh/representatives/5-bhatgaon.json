@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-5-bhatgaon",
+  "constituency": {
+    "number": 5,
+    "name": "Bhatgaon",
+    "district": "Surajpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Laxmi Rajwade",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 31,
+    "profession": "Business (Poultry Farm,Chimni It Udhyog ) )",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B A II Year Passed From Sant Gahira Guru University Sarguja Ambikapur in Year 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6122558,
+      "immovable": 8006576,
+      "total": 14128966,
+      "liabilities": 2800644
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=414",
+    "retrieved": "2026-08-27"
+  }
+}

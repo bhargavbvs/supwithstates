@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-214-tarana",
+  "constituency": {
+    "number": 214,
+    "name": "Tarana",
+    "district": "Ujjain",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mahesh Parmar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Agriculture, Partner Ware house and Legislator salary & allowances",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA L.L.B. B.A. Madhav University Ujjain, Vikram University Ujjain, yr. 2002"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12826604,
+      "immovable": 13443915,
+      "total": 26270519,
+      "liabilities": 7931898
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=215",
+    "retrieved": "2026-08-27"
+  }
+}

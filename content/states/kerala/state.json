@@ -1,0 +1,25 @@
+{
+  "slug": "kerala",
+  "name": "Kerala",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 140,
+  "district_count": 14,
+  "term": {
+    "start": "2026"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Kerala2026/",
+    "adr_serious_list": "https://www.myneta.info/Kerala2026/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      76.14,
+      10.55
+    ],
+    "zoom": 6
+  }
+}

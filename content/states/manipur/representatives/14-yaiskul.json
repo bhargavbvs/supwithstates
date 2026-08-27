@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-14-yaiskul",
+  "constituency": {
+    "number": 14,
+    "name": "Yaiskul",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thokchom Satyabrata Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc Life Science From Manipur University Under In 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2523967,
+      "immovable": 4900000,
+      "total": 7423967,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=136",
+    "retrieved": "2026-08-27"
+  }
+}

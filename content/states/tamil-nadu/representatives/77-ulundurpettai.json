@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-77-ulundurpettai",
+  "constituency": {
+    "number": 77,
+    "name": "Ulundurpettai",
+    "district": "Kallakkurichi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vasanthavel G R",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering (B.V. Mining) K.G.F , Karnataka- 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10827864,
+      "immovable": 19570594,
+      "total": 30398458,
+      "liabilities": 4374610
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=927",
+    "retrieved": "2026-08-27"
+  }
+}

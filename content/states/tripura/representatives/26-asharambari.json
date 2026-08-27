@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-26-asharambari",
+  "constituency": {
+    "number": 26,
+    "name": "Asharambari",
+    "district": "Khowai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Animesh Debbarma",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Deputy Chief Executive Member of TTAADC",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech. (Computer Science & Engineering) From North Eastern Regional Institute of Science and Technology, Arunachal Pradesh (Deemed University), Year-1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4610961,
+      "immovable": 8500000,
+      "total": 13110962,
+      "liabilities": 257004
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6973",
+    "retrieved": "2026-08-27"
+  }
+}

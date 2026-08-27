@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-28-bamori",
+  "constituency": {
+    "number": 28,
+    "name": "Bamori",
+    "district": "Guna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rishi Agrawal",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Contractor, Agriculture and Interest",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Tech From Maulana Azad National Institute of Technology Bhopal, B.E. From RKDF Institute of Science and Technology, 2002,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28603758,
+      "immovable": 26993250,
+      "total": 55597008,
+      "liabilities": 8298670
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1460",
+    "retrieved": "2026-08-27"
+  }
+}

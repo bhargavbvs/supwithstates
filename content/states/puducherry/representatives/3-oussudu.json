@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-3-oussudu",
+  "constituency": {
+    "number": 3,
+    "name": "Oussudu",
+    "district": "Puducherry",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "P. Karthikeyan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Former Member of Legislative Assembly Civil Engineer and contractor",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering Govt Technical college Thirunallar Karaikal 1993"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13589827,
+      "immovable": 42490000,
+      "total": 56079827,
+      "liabilities": 21754130
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=52",
+    "retrieved": "2026-08-27"
+  }
+}

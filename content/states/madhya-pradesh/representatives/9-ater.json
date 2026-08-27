@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-9-ater",
+  "constituency": {
+    "number": 9,
+    "name": "Ater",
+    "district": "Bhind",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hemant Satyadev Katare",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 37,
+    "profession": "Social Worker & Business, MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Mansarovar Global University Bhopal, Year-2022 & B.E. Mechanical From Satyabhama University, Chennai Tamil Nadu, Year-2008"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11513802,
+      "immovable": 9200000,
+      "total": 20713802,
+      "liabilities": 21387536
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=231",
+    "retrieved": "2026-08-27"
+  }
+}

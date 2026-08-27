@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-94-namakkal",
+  "constituency": {
+    "number": 94,
+    "name": "Namakkal",
+    "district": "Namakkal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dilip C S",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 33,
+    "profession": "Transports and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. From PSG Arts College, Coimbatore, Bharathiar University -2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 56799424,
+      "immovable": 21400000,
+      "total": 78199424,
+      "liabilities": 20776616
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=971",
+    "retrieved": "2026-08-27"
+  }
+}

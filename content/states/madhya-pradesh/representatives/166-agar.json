@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-166-agar",
+  "constituency": {
+    "number": 166,
+    "name": "Agar",
+    "district": "Agar Malwa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Madhav Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Year 2023 Intermediate Board of Education Bhopal, M.P."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -29116180,
+      "immovable": 112800000,
+      "total": 83683820,
+      "liabilities": 5763672
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=550",
+    "retrieved": "2026-08-27"
+  }
+}

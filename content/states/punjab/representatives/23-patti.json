@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-23-patti",
+  "constituency": {
+    "number": 23,
+    "name": "Patti",
+    "district": "Tarn Taran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Laljit Singh Bhullar",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Agriculturist & Commision Agent Shop",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From SS School Gharyala Dist Tarn Taran Nov 1999 Punjab School Education Board Punjab"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10437000,
+      "immovable": 54853500,
+      "total": 65290500,
+      "liabilities": 6378000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=182",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-51-chhatarpur",
+  "constituency": {
+    "number": 51,
+    "name": "Chhatarpur",
+    "district": "Chhatarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lalita Yadav",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Pension , Agriculture Income, Rent, Income from Partnership firm",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Year - 1991, Avdhesh Pratap Singh University Rewa (MP)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8343672,
+      "immovable": 20140000,
+      "total": 28483672,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=17",
+    "retrieved": "2026-08-27"
+  }
+}

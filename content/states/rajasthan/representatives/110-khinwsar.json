@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-110-khinwsar",
+  "constituency": {
+    "number": 110,
+    "name": "Khinwsar",
+    "district": "Nagaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rewant Ram Danga",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4580212,
+      "immovable": 24600000,
+      "total": 29180212,
+      "liabilities": 2565918
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1940",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-48-uklana",
+  "constituency": {
+    "number": 48,
+    "name": "Uklana",
+    "district": "Hisar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Naresh Selwal",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Pensioner Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Ancient History) From Kurukshetra University, Kurukshetra on Year 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7834837,
+      "immovable": 32700000,
+      "total": 40534839,
+      "liabilities": 4011117
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=459",
+    "retrieved": "2026-08-27"
+  }
+}

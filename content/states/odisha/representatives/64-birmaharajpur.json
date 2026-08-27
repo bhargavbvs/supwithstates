@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-64-birmaharajpur",
+  "constituency": {
+    "number": 64,
+    "name": "Birmaharajpur",
+    "district": "Subarnapur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Raghunath Jagadala",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Marine Cheif Engineer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate MBA from Utkal University 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10118439,
+      "immovable": 38940000,
+      "total": 49058439,
+      "liabilities": 7075752
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=398",
+    "retrieved": "2026-08-27"
+  }
+}

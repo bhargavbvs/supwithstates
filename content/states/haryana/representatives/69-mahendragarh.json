@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-69-mahendragarh",
+  "constituency": {
+    "number": 69,
+    "name": "Mahendragarh",
+    "district": "Mahendragarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kanwar Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Economics from College Satna, Awdhesh Pratap Singh University Rewa M.P. in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27301810,
+      "immovable": 5500000,
+      "total": 26353695,
+      "liabilities": 19970645
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=515",
+    "retrieved": "2026-08-27"
+  }
+}

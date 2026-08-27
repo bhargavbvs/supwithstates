@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-1-bharatpur-sonhat-s",
+  "constituency": {
+    "number": 1,
+    "name": "Bharatpur-Sonhat (S",
+    "district": "Korea",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Renuka Singh Saruta",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary From Board of Secondary Education MP in 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11937036,
+      "immovable": 30122385,
+      "total": 42059422,
+      "liabilities": 403132
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=599",
+    "retrieved": "2026-08-27"
+  }
+}

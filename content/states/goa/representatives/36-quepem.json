@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-36-quepem",
+  "constituency": {
+    "number": 36,
+    "name": "Quepem",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Altone D Costa",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10Th Class passed from Perpetual Succour Convent High School, Navelim, Affiliated to Goa Board in 1992,Passed Electric and Welding Course from Angel Trade School, Verna in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 102155574,
+      "immovable": 106574756,
+      "total": 208728330,
+      "liabilities": 3066500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=144",
+    "retrieved": "2026-08-27"
+  }
+}

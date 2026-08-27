@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-49-tamlu",
+  "constituency": {
+    "number": 49,
+    "name": "Tamlu",
+    "district": "Longleng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "B. Bangtick Phom",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Social Worker, Politician",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "HSLC/NBSE In 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2265000,
+      "immovable": 15143690,
+      "total": 17208690,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6930",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-1-yoksam-tashiding-bl",
+  "constituency": {
+    "number": 1,
+    "name": "Yoksam-Tashiding(Bl)",
+    "district": "Gyalshing",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tshering Thendup Bhutia",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Retired Government Employee & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from University of North Bengal In 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8574829,
+      "immovable": 69570945,
+      "total": 78145776,
+      "liabilities": 2519191
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=150",
+    "retrieved": "2026-08-27"
+  }
+}

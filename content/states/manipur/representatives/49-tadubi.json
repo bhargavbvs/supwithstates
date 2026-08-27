@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-49-tadubi",
+  "constituency": {
+    "number": 49,
+    "name": "Tadubi",
+    "district": "Senapati",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "N. Kayisii",
+    "election": "2022",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Member of Legislative Assembly, Manipur",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass (Pre-University) from Hills College, Tadubi under Manipur University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11295499,
+      "immovable": 11820000,
+      "total": 23115501,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=221",
+    "retrieved": "2026-08-27"
+  }
+}

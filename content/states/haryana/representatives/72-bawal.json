@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-72-bawal",
+  "constituency": {
+    "number": 72,
+    "name": "Bawal",
+    "district": "Rewari",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Krishan Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Surgery (Ear, Nose & Throat) -2004 From University Maharshi Dayanand University, Rohtak, Haryana."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11694037,
+      "immovable": 20965000,
+      "total": 32659037,
+      "liabilities": 3317807
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=274",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-27-kozhikode-north",
+  "constituency": {
+    "number": 27,
+    "name": "Kozhikode North",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.K Jayanth",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "ADVOCATE",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A L.L.B, GOVERNMENT LAW COLLEGE ,KOZHIKKODE CALICUT UNIVERSITY 2004"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 4,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11963254,
+      "immovable": 10600000,
+      "total": 21563254,
+      "liabilities": 5600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=140",
+    "retrieved": "2026-08-27"
+  }
+}

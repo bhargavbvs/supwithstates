@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-54-rajim",
+  "constituency": {
+    "number": 54,
+    "name": "Rajim",
+    "district": "Gariyaband",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rohit Sahu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Agriculture & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Chhattisgarh State Open School, Raipur, Year-2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4955182,
+      "immovable": 7465000,
+      "total": 12420182,
+      "liabilities": 4797682
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=512",
+    "retrieved": "2026-08-27"
+  }
+}

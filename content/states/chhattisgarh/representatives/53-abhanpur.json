@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-53-abhanpur",
+  "constituency": {
+    "number": 53,
+    "name": "Abhanpur",
+    "district": "Raipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Indra Kumar Sahu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Pt. Ravishankar Shukla University Raipur in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7045840,
+      "immovable": 4787505,
+      "total": 11833345,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=373",
+    "retrieved": "2026-08-27"
+  }
+}

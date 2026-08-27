@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-31-tambaram",
+  "constituency": {
+    "number": 31,
+    "name": "Tambaram",
+    "district": "Chengalpattu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "D.Sarathkumar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 34,
+    "profession": "Civil Contractor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.B.A.. M.M .Jain College, Meenambakkam - 2012"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9585631,
+      "immovable": 31361900,
+      "total": 40947532,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=503",
+    "retrieved": "2026-08-27"
+  }
+}

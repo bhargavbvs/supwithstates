@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-24-martam-rumtek-bl",
+  "constituency": {
+    "number": 24,
+    "name": "Martam-Rumtek (Bl)",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sonam Tsh. Venchungpa",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Politician, Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate Diploma in Management from IIM Bangalore in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12733482,
+      "immovable": 182158574,
+      "total": 194892056,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=61",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-47-rajabala",
+  "constituency": {
+    "number": 47,
+    "name": "Rajabala",
+    "district": "West G>ro Hills",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Mizanur Rahman Kazi",
+    "election": "2023",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Medical Practitioner & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Doctor of Medicine from S.N. Medical College, Agra under Dr. Bhimrao Ambedkar University, Agra in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30863749,
+      "immovable": 78350000,
+      "total": 119213749,
+      "liabilities": 6968172
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6826",
+    "retrieved": "2026-08-27"
+  }
+}

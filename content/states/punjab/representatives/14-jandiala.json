@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-14-jandiala",
+  "constituency": {
+    "number": 14,
+    "name": "Jandiala",
+    "district": "Amritsar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Harbhajan Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA In Arts (Political science) From Guru Nanak Dev Uninersity ,Amritsar In July1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5219694,
+      "immovable": 6420000,
+      "total": 11639694,
+      "liabilities": 2900390
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-27"
+  }
+}

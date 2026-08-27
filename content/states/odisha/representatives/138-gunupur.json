@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-138-gunupur",
+  "constituency": {
+    "number": 138,
+    "name": "Gunupur",
+    "district": "Rayagarha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Satyajeet Gomango",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 33,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from Sriram Degree Kashinagar Gajapati, Berhampur university in the year 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2494686,
+      "immovable": 5000000,
+      "total": 7289186,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=104",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-35-safidon",
+  "constituency": {
+    "number": 35,
+    "name": "Safidon",
+    "district": "Jind",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Kumar Gautam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 78,
+    "profession": "Ex-MLA & Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B (Professional) From Punjab University Year 1975, B.A. From Punjab University Year 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7926624,
+      "immovable": 73000000,
+      "total": 80926624,
+      "liabilities": 3790784
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=109",
+    "retrieved": "2026-08-27"
+  }
+}

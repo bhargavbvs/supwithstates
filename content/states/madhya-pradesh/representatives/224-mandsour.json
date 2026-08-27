@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-224-mandsour",
+  "constituency": {
+    "number": 224,
+    "name": "Mandsour",
+    "district": "Mandsaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vipin Jain",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Business, Salary",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass from Katju Higher Secondary Dalauda MP Board in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4076957,
+      "immovable": 19760000,
+      "total": 23836957,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=337",
+    "retrieved": "2026-08-27"
+  }
+}

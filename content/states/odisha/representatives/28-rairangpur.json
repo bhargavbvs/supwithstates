@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-28-rairangpur",
+  "constituency": {
+    "number": 28,
+    "name": "Rairangpur",
+    "district": "Mayurbhanj",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jalen Naik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Govt. High school board of secondary Education , Orissa in1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 436000,
+      "immovable": 850000,
+      "total": 1286000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1243",
+    "retrieved": "2026-08-27"
+  }
+}

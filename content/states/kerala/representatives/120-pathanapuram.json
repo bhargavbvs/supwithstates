@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-120-pathanapuram",
+  "constituency": {
+    "number": 120,
+    "name": "Pathanapuram",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jyothi Kumar Chamakkala",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering From AIT Chikkamangalore, Karnataka, Kuvempu University In 1998, B Sc Chemistry From M.G. College Trivandrum, University of Kerala in 1992"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 27226965,
+      "immovable": 24000000,
+      "total": 51226966,
+      "liabilities": 4678754
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=207",
+    "retrieved": "2026-08-27"
+  }
+}

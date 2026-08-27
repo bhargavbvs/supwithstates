@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-15-oupalam",
+  "constituency": {
+    "number": 15,
+    "name": "Oupalam",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A Anbalagan",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "No Profession",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Jeevanandham Government Boys Higher Secondary School, Puducherry-1973"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4290900,
+      "immovable": 67000000,
+      "total": 71290900,
+      "liabilities": 2911785
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=118",
+    "retrieved": "2026-08-27"
+  }
+}

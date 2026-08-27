@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-23-karol-bagh",
+  "constituency": {
+    "number": 23,
+    "name": "Karol Bagh",
+    "district": "Central",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vishesh Ravi",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 41,
+    "profession": "MLA (Politician)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed from National Institution of Open Schooling (NIOS)2021"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4147048,
+      "immovable": 0,
+      "total": 4147048,
+      "liabilities": 641196
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=136",
+    "retrieved": "2026-08-27"
+  }
+}

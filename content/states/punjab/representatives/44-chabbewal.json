@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-44-chabbewal",
+  "constituency": {
+    "number": 44,
+    "name": "Chabbewal",
+    "district": "Hoshiarpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Ishank Kumar",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 31,
+    "profession": "Student (MD-Radio Diagnosis)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Dayanand Medical College & Hospital Ludhiana, Baba Farid University of Health Science in 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4490179,
+      "immovable": 0,
+      "total": 4490179,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1343",
+    "retrieved": "2026-08-27"
+  }
+}

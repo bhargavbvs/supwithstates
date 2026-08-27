@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-7-kedarnath",
+  "constituency": {
+    "number": 7,
+    "name": "Kedarnath",
+    "district": "Rudrapray>g",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Asha Nautiyal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from H.N.B. Garhwal University, Uttarakhand (Shrinagar) in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9397881,
+      "immovable": 10820000,
+      "total": 20217881,
+      "liabilities": 2700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=779",
+    "retrieved": "2026-08-27"
+  }
+}

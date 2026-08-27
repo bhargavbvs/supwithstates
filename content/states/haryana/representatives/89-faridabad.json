@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-89-faridabad",
+  "constituency": {
+    "number": 89,
+    "name": "Faridabad",
+    "district": "Faridabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vipul Goel",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com (Pass) (III) from University of Delhi in Year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 411638355,
+      "immovable": 606553700,
+      "total": 1018192055,
+      "liabilities": 97472734
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=72",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-85-byadgi",
+  "constituency": {
+    "number": 85,
+    "name": "Byadgi",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Basavaraj Neelappa Shivannanavar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Agriculture and Social worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A-G.H College Karnataka University Dharwad -1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28754699,
+      "immovable": 28000000,
+      "total": 44682045,
+      "liabilities": 23438029
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6789",
+    "retrieved": "2026-08-27"
+  }
+}

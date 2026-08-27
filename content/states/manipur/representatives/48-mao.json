@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-48-mao",
+  "constituency": {
+    "number": 48,
+    "name": "Mao",
+    "district": "Senapati",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Losii Dikho",
+    "election": "2022",
+    "elected_party": "NPF",
+    "current_party": "NPF",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "EX- MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A Pass From North Eastern Hills University (NEHU) In 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9019848,
+      "immovable": 31740000,
+      "total": 46409849,
+      "liabilities": 427835
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=224",
+    "retrieved": "2026-08-27"
+  }
+}

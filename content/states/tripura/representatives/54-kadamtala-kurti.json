@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-54-kadamtala-kurti",
+  "constituency": {
+    "number": 54,
+    "name": "Kadamtala - Kurti",
+    "district": "North Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Islam Uddin",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Tripura University Central Year 1995"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1026972,
+      "immovable": 850000,
+      "total": 1876972,
+      "liabilities": 2236766
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6817",
+    "retrieved": "2026-08-27"
+  }
+}

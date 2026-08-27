@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-4-ghaspani-i",
+  "constituency": {
+    "number": 4,
+    "name": "Ghaspani-I",
+    "district": "Chumoukedima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "N. Jacob Zhimomi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Politician, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Pass) from St. Stephens College, Delhi University in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5662865,
+      "immovable": 95500000,
+      "total": 101162867,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6757",
+    "retrieved": "2026-08-27"
+  }
+}

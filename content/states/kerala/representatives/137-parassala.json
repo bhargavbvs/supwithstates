@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-137-parassala",
+  "constituency": {
+    "number": 137,
+    "name": "Parassala",
+    "district": "Thiruvananthapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C K Hareendran",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 69,
+    "profession": "Member of Kerala Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-Degree From VTM NSS College, Dhanuvachapuram, University of Kerala, 1974-1975"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1802404,
+      "immovable": 1500000,
+      "total": 3297404,
+      "liabilities": 3366173
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=205",
+    "retrieved": "2026-08-27"
+  }
+}

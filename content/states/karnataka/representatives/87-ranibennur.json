@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-87-ranibennur",
+  "constituency": {
+    "number": 87,
+    "name": "Ranibennur",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prakash Koliwad",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. Malnad Technical College Hassan in 1987-91"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 257639972,
+      "immovable": 388822500,
+      "total": 646462474,
+      "liabilities": 38233741
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7736",
+    "retrieved": "2026-08-27"
+  }
+}

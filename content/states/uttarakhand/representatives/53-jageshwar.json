@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-53-jageshwar",
+  "constituency": {
+    "number": 53,
+    "name": "Jageshwar",
+    "district": "Almora",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohan Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Pass"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1323462,
+      "immovable": 9100000,
+      "total": 10368250,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=479",
+    "retrieved": "2026-08-27"
+  }
+}

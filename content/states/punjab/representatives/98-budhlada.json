@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-98-budhlada",
+  "constituency": {
+    "number": 98,
+    "name": "Budhlada",
+    "district": "Mansa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Budh Ram",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "MLA Salary /Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Punjab University Patiala in 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8148892,
+      "immovable": 3200000,
+      "total": 11348892,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=43",
+    "retrieved": "2026-08-27"
+  }
+}

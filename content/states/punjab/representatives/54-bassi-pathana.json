@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-54-bassi-pathana",
+  "constituency": {
+    "number": 54,
+    "name": "Bassi Pathana",
+    "district": "Fatehgarh Sahib",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rupinder Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Punjab University Chandigarh in 2004"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 588156,
+      "immovable": 2200000,
+      "total": 2788156,
+      "liabilities": 351688
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=850",
+    "retrieved": "2026-08-27"
+  }
+}

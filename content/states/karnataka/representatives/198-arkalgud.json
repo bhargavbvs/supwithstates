@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-198-arkalgud",
+  "constituency": {
+    "number": 198,
+    "name": "Arkalgud",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A. Manju",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A., L.L.B, SJRC College Bangalore 1985-86"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 114778427,
+      "immovable": 312066660,
+      "total": 373600436,
+      "liabilities": 40035568
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7084",
+    "retrieved": "2026-08-27"
+  }
+}

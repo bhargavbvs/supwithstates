@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-62-kunnamkulam",
+  "constituency": {
+    "number": 62,
+    "name": "Kunnamkulam",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A C Moideen",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 69,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "SSLC(Failed) From Wadakkanchery Govt. Boys High School, Wadakkanchery, Year-1970-71"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9768091,
+      "immovable": 7475000,
+      "total": 17243092,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=148",
+    "retrieved": "2026-08-27"
+  }
+}

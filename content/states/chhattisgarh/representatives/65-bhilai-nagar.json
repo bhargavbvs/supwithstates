@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-65-bhilai-nagar",
+  "constituency": {
+    "number": 65,
+    "name": "Bhilai Nagar",
+    "district": "Durg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Yadav",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 33,
+    "profession": "Supervisior, House Rent , Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Chhattisgarh Secondary Education Board Raipur School, Bhilai Nair Samajam Higher Secondary School Sector 08 Bhilai 2007"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 29236147,
+      "immovable": 20485307,
+      "total": 49721456,
+      "liabilities": 23634285
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=287",
+    "retrieved": "2026-08-27"
+  }
+}

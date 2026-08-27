@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-7-maduravoyal",
+  "constituency": {
+    "number": 7,
+    "name": "Maduravoyal",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rhevanth Charan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 30,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Laws LLM Comparative & International Dispute Resolution Queen Mary University of Loanda, United Kingdom 2019 Bachelor of Arts & Bachelor of Law Honours Tamil Nadu DR BR Ambedkar Law University Chennai 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 84195633,
+      "immovable": 140027937,
+      "total": 224223570,
+      "liabilities": 83472105
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1032",
+    "retrieved": "2026-08-27"
+  }
+}

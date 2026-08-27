@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-14-dhanolti",
+  "constituency": {
+    "number": 14,
+    "name": "Dhanolti",
+    "district": "Tehri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pritam Singh Panwar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Hindi Sahitya Sammelan Allahabad in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7751390,
+      "immovable": 23400000,
+      "total": 31151385,
+      "liabilities": 615091
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=112",
+    "retrieved": "2026-08-27"
+  }
+}

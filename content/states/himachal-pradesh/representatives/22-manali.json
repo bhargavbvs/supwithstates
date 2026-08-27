@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-22-manali",
+  "constituency": {
+    "number": 22,
+    "name": "Manali",
+    "district": "Kullu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhuvneshwar Gaur",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Major in English from Indira Gandhi National Open University in the 2017"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12462780,
+      "immovable": 237000000,
+      "total": 248562780,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=365",
+    "retrieved": "2026-08-27"
+  }
+}

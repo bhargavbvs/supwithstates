@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-139-kovalam",
+  "constituency": {
+    "number": 139,
+    "name": "Kovalam",
+    "district": "Thiruvananthapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. M.Vincent",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB 1995 Law Academy Law College, Kerala University"
+    },
+    "declared_cases": {
+      "total": 20,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 3,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2508179,
+      "immovable": 3500000,
+      "total": 4299573,
+      "liabilities": 10132430
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=137",
+    "retrieved": "2026-08-27"
+  }
+}

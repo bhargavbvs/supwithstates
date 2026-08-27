@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-121-sumerpur",
+  "constituency": {
+    "number": 121,
+    "name": "Sumerpur",
+    "district": "Pali",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Joraram Kumawat",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture, Politician",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th pass from Mahatama Gandhi State School Sanderao in 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5444216,
+      "immovable": 15836000,
+      "total": 21280217,
+      "liabilities": 3288163
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=420",
+    "retrieved": "2026-08-27"
+  }
+}

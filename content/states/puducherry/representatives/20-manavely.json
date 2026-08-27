@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-20-manavely",
+  "constituency": {
+    "number": 20,
+    "name": "Manavely",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B.Ramu",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC 1980 Govt Higher Secondary School Kirumampakkam Puducherry"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46958403,
+      "immovable": 309274400,
+      "total": 356232853,
+      "liabilities": 20000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=216",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-70-teonthar",
+  "constituency": {
+    "number": 70,
+    "name": "Teonthar",
+    "district": "Rewa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Siddharth Tiwari (Raj)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E(I.T) 2004 from Rajiv Gandhi Proudyogiki Vishwavidyalaya Bhopal (R.G.P.B.)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11999301,
+      "immovable": 136351061,
+      "total": 148350362,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1507",
+    "retrieved": "2026-08-27"
+  }
+}

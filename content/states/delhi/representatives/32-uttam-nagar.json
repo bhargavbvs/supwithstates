@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-32-uttam-nagar",
+  "constituency": {
+    "number": 32,
+    "name": "Uttam Nagar",
+    "district": "South West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pawan Sharma",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 65,
+    "profession": "Agriculturist & Ex. MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political Science, Kurukshetra University, Kurukshetra in the year 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14685034,
+      "immovable": 50000000,
+      "total": 64685034,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=389",
+    "retrieved": "2026-08-27"
+  }
+}

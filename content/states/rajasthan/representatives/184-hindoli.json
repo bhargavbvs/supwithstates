@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-184-hindoli",
+  "constituency": {
+    "number": 184,
+    "name": "Hindoli",
+    "district": "Bundi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Salary, Business and Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Geography) From Vardhman Open University Kota Year 2018"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 165618765,
+      "immovable": 116350000,
+      "total": 282879990,
+      "liabilities": 255761017
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=466",
+    "retrieved": "2026-08-27"
+  }
+}

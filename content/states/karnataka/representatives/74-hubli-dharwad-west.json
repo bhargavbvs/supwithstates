@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-74-hubli-dharwad-west",
+  "constituency": {
+    "number": 74,
+    "name": "Hubli-Dharwad- West",
+    "district": "Dh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvind Bellad",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "M.D of bellad company",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E, SDM Engineering college Dharwad 1991-1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 210403489,
+      "immovable": 825631000,
+      "total": 1065705489,
+      "liabilities": 148105000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8017",
+    "retrieved": "2026-08-27"
+  }
+}

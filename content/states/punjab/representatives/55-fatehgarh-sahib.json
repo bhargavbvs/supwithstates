@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-55-fatehgarh-sahib",
+  "constituency": {
+    "number": 55,
+    "name": "Fatehgarh Sahib",
+    "district": "Fatehgarh Sahib",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lakhbir Singh Rai",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1994, B.A. in 1991 from Punjabi University Patiala"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7022094,
+      "immovable": 117360000,
+      "total": 124382094,
+      "liabilities": 7960000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=862",
+    "retrieved": "2026-08-27"
+  }
+}

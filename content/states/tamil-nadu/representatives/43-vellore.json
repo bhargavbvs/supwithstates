@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-43-vellore",
+  "constituency": {
+    "number": 43,
+    "name": "Vellore",
+    "district": "Vellore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.M.Vinoth Kannan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Business Proprietor- Alama Tamilnadu and Sri Group of Companies",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th From Jyothi High School , Gudiyatham , March 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21124268,
+      "immovable": 6268000,
+      "total": 27392268,
+      "liabilities": 11203537
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=217",
+    "retrieved": "2026-08-27"
+  }
+}

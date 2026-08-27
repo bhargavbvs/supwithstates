@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-50-rajnagar",
+  "constituency": {
+    "number": 50,
+    "name": "Rajnagar",
+    "district": "Chhatarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvind Pateriya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Trading",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (B.A) Year 2003 Dr. Harisingh Gaur Vishwavidyalaya Sagar MP"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15089547,
+      "immovable": 1550000,
+      "total": 16639547,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=82",
+    "retrieved": "2026-08-27"
+  }
+}

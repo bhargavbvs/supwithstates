@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-151-k-r-pura",
+  "constituency": {
+    "number": 151,
+    "name": "K.R.Pura",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B. A. Basavaraja",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A Government Arts College Bangalore 1st Year Not Completed in 1988-89"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 387956502,
+      "immovable": 858872408,
+      "total": 1225222505,
+      "liabilities": 231884072
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7415",
+    "retrieved": "2026-08-27"
+  }
+}

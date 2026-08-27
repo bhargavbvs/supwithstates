@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-39-resubelpara",
+  "constituency": {
+    "number": 39,
+    "name": "Resubelpara",
+    "district": "North G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Timothy Dalbot Shira",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 77,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from St. Anthony College, Shillong under Gauhati University Assam in 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3568119,
+      "immovable": 14300000,
+      "total": 17868119,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7033",
+    "retrieved": "2026-08-27"
+  }
+}

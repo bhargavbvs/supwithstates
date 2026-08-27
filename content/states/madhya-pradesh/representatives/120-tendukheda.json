@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-120-tendukheda",
+  "constituency": {
+    "number": 120,
+    "name": "Tendukheda",
+    "district": "Narsinghpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishwanath Singh (Mulam Bhaiya)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from Mahatma Gandhi Vidhyalaya Kareli, Sagar University Sagar in 1972-73"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4215258,
+      "immovable": 19719000,
+      "total": 23934258,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=444",
+    "retrieved": "2026-08-27"
+  }
+}

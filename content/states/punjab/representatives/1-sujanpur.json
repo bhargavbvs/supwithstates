@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-1-sujanpur",
+  "constituency": {
+    "number": 1,
+    "name": "Sujanpur",
+    "district": "Pathankot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Naresh Puri",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Business & Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BSC From SRPAAB College, Pathankot Guru Nanak Dev University, Amritsar in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42340840,
+      "immovable": 316012625,
+      "total": 358353465,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=130",
+    "retrieved": "2026-08-27"
+  }
+}

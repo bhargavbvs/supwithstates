@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-10-azhikode",
+  "constituency": {
+    "number": 10,
+    "name": "Azhikode",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K. V. Sumesh",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB Kannur University 2015 Dec, Bachelor Of Arts Economics Kannur University 2000 April"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3949171,
+      "immovable": 13900000,
+      "total": 17851171,
+      "liabilities": 4368520
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=38",
+    "retrieved": "2026-08-27"
+  }
+}

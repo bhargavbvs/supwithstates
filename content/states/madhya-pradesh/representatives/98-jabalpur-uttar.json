@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-98-jabalpur-uttar",
+  "constituency": {
+    "number": 98,
+    "name": "Jabalpur Uttar",
+    "district": "Jabalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abhilash Pandey",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Agriculture, Social service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "PHD From Jablpur 2018 , M.A. Economics in 2010"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4286132,
+      "immovable": 63356000,
+      "total": 67642132,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=721",
+    "retrieved": "2026-08-27"
+  }
+}

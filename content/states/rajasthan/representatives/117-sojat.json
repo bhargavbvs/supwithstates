@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-117-sojat",
+  "constituency": {
+    "number": 117,
+    "name": "Sojat",
+    "district": "Pali",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shobha Chauhan",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in Social Science From MDS University Ajmer Year 2007"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8972533,
+      "immovable": 16410000,
+      "total": 25382533,
+      "liabilities": 18211329
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=413",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-187-sendhawa",
+  "constituency": {
+    "number": 187,
+    "name": "Sendhawa",
+    "district": "Barwani",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Montu Solanki",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Agriculture Wages",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Shaskiy Subhash Higher Secondary School Indore, Madhyamik Shiksha Mandal Bhopal in 2001"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3941237,
+      "immovable": 0,
+      "total": 3941237,
+      "liabilities": 2800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1517",
+    "retrieved": "2026-08-27"
+  }
+}

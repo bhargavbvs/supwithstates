@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-19-aizawl-south-ii",
+  "constituency": {
+    "number": 19,
+    "name": "Aizawl South-Ii",
+    "district": "Aizawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalchhuanthanga",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA,North-Eastern Hill University (NEHU) in the year 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13461372,
+      "immovable": 155000000,
+      "total": 168461372,
+      "liabilities": 3673334
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-27"
+  }
+}

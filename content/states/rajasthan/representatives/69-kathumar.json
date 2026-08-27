@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-69-kathumar",
+  "constituency": {
+    "number": 69,
+    "name": "Kathumar",
+    "district": "Alwar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramesh Khinchi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture and pensioner(Ex. MLA Pension)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "GRADUATE"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7248331,
+      "immovable": 15300000,
+      "total": 24548331,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=114",
+    "retrieved": "2026-08-27"
+  }
+}

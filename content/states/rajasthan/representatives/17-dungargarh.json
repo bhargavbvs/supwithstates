@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-17-dungargarh",
+  "constituency": {
+    "number": 17,
+    "name": "Dungargarh",
+    "district": "Bikaner",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tarachand",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28754729,
+      "immovable": 157861714,
+      "total": 174971568,
+      "liabilities": 4188648
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=202",
+    "retrieved": "2026-08-27"
+  }
+}

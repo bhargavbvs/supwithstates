@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-104-mehal-kalan",
+  "constituency": {
+    "number": 104,
+    "name": "Mehal Kalan",
+    "district": "Barnala",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kulwant Singh Pandori",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Lovely University Jalandhar in 2017"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 702406,
+      "immovable": 1000000,
+      "total": 1702406,
+      "liabilities": 500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=209",
+    "retrieved": "2026-08-27"
+  }
+}

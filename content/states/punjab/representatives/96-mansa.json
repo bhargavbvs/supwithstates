@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-96-mansa",
+  "constituency": {
+    "number": 96,
+    "name": "Mansa",
+    "district": "Mansa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Singla",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Dental Surgeon",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachlor Of Dental Surgery From Punjabi University Patiala in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10882011,
+      "immovable": 54000000,
+      "total": 64882011,
+      "liabilities": 2787116
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=217",
+    "retrieved": "2026-08-27"
+  }
+}

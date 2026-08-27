@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-48-lekang",
+  "constituency": {
+    "number": 48,
+    "name": "Lekang",
+    "district": "Namsai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Likha Soni",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Illiterate",
+      "detail": "NIL"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 23023672,
+      "immovable": 96700000,
+      "total": 115401178,
+      "liabilities": 23386647
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=43",
+    "retrieved": "2026-08-27"
+  }
+}

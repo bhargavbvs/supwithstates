@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-193-shravanabelagola",
+  "constituency": {
+    "number": 193,
+    "name": "Shravanabelagola",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C N Balakrishna",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in Sri Adichunchanagiri First Grad College Channarayapatna Town Hassan District, Mysore University Course Completed in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16011181,
+      "immovable": 82918715,
+      "total": 94997930,
+      "liabilities": 37251174
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7721",
+    "retrieved": "2026-08-27"
+  }
+}

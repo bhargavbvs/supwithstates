@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-116-jaitaran",
+  "constituency": {
+    "number": 116,
+    "name": "Jaitaran",
+    "district": "Beawar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Avinash Gehlot",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB 2016 BJS Rampuriya College Bikaner, Maharaja Gangasingh University Bikaner"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9224390,
+      "immovable": 3452000,
+      "total": 12676390,
+      "liabilities": 2422048
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=220",
+    "retrieved": "2026-08-27"
+  }
+}

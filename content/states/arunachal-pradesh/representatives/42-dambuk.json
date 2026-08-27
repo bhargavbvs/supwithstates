@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-42-dambuk",
+  "constituency": {
+    "number": 42,
+    "name": "Dambuk",
+    "district": "Dib>ng Valley",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Puinnyo Apum",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Politician and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Class-X Passed from Govt. Higher Secondary School, Yingkong in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25684057,
+      "immovable": 138041613,
+      "total": 156658226,
+      "liabilities": 2261253
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=25",
+    "retrieved": "2026-08-27"
+  }
+}

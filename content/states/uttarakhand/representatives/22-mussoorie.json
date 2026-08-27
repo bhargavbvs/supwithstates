@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-22-mussoorie",
+  "constituency": {
+    "number": 22,
+    "name": "Mussoorie",
+    "district": "Dehrad@n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ganesh Joshi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from D.A.V. Inter College Dehradun UP Board In 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28416251,
+      "immovable": 69917687,
+      "total": 97433938,
+      "liabilities": 6476881
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=659",
+    "retrieved": "2026-08-27"
+  }
+}

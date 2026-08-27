@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-216-srivaikuntam",
+  "constituency": {
+    "number": 216,
+    "name": "Srivaikuntam",
+    "district": "Thoothukudi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saravanan. G",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 35,
+    "profession": "Saravana Traders",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Std Government Higher Secondery School ,umarikkadu (Dis Continue In 2003-2004)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25458683,
+      "immovable": 6100000,
+      "total": 31558684,
+      "liabilities": 7421326
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1251",
+    "retrieved": "2026-08-27"
+  }
+}

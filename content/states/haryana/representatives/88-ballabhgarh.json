@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-88-ballabhgarh",
+  "constituency": {
+    "number": 88,
+    "name": "Ballabhgarh",
+    "district": "Faridabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mool Chand Sharma",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Hostory) from MDU in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 111569617,
+      "immovable": 223500000,
+      "total": 335069620,
+      "liabilities": 63085375
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-27"
+  }
+}

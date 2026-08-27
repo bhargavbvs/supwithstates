@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-110-patiala-rural",
+  "constituency": {
+    "number": 110,
+    "name": "Patiala Rural",
+    "district": "Patiala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balbir Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Retired as Assistant Professor and Presently Working as Eye Surgeon at Patiala",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS in 1979, DOMS in 1983 & MS in 1983 From Punjab University Chandigarh"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24311946,
+      "immovable": 57454700,
+      "total": 81766646,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=184",
+    "retrieved": "2026-08-27"
+  }
+}

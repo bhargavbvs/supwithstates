@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-152-bhopal-dakshin-paschim",
+  "constituency": {
+    "number": 152,
+    "name": "Bhopal Dakshin-Paschim",
+    "district": "Bhopal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhagwandas Sabnani",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Contractor Business & Other Sources Income",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com (Second Year) in 1986 from Bhopal University (Barkatullah University Bhopal)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12162435,
+      "immovable": 25000000,
+      "total": 37162435,
+      "liabilities": 3439157
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1394",
+    "retrieved": "2026-08-27"
+  }
+}

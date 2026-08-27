@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-5-mapusa",
+  "constituency": {
+    "number": 5,
+    "name": "Mapusa",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Joshua Peter De Souza",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 33,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From St Xavior College Mapusa Goa in 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35523065,
+      "immovable": 6532873,
+      "total": 41597663,
+      "liabilities": 3292761
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=101",
+    "retrieved": "2026-08-27"
+  }
+}

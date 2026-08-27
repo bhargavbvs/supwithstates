@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-19-patsoi",
+  "constituency": {
+    "number": 19,
+    "name": "Patsoi",
+    "district": "Imphal West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sapam Kunjakeswor (Keba) Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Social Work and Pensioner as Ex-MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from D.M College under Guwahati University in the year 1978."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2343487,
+      "immovable": 0,
+      "total": 2343487,
+      "liabilities": 3275166
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=154",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-133-pokaran",
+  "constituency": {
+    "number": 133,
+    "name": "Pokaran",
+    "district": "Jaisalmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pratap Puri",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Mahant",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from Grukul Education Jhajjar Rohatak Haryana"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7518881,
+      "immovable": 26464054,
+      "total": 33982936,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=344",
+    "retrieved": "2026-08-27"
+  }
+}

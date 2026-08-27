@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-193-jhabua",
+  "constituency": {
+    "number": 193,
+    "name": "Jhabua",
+    "district": "Jhabua",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Vikrant Bhuria",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Medical & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.S. General Surgeon from M.Y.H Indore in 2008-2011, M.B.B.S. from M.G.H Medical College Indore"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 28267555,
+      "immovable": 35083192,
+      "total": 63350747,
+      "liabilities": 5670473
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=732",
+    "retrieved": "2026-08-27"
+  }
+}

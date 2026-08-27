@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-42-gagret",
+  "constituency": {
+    "number": 42,
+    "name": "Gagret",
+    "district": "Una",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Kalia",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Business, Hotelier",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Bachelor of Arts)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7425811,
+      "immovable": 150000000,
+      "total": 157425811,
+      "liabilities": 29878187
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=492",
+    "retrieved": "2026-08-27"
+  }
+}

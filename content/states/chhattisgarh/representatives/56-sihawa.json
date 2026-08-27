@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-56-sihawa",
+  "constituency": {
+    "number": 56,
+    "name": "Sihawa",
+    "district": "Dhamtari",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ambika Markam",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Social Worker & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. History from Pandit Ravishankar Shukla University Raipur in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3020832,
+      "immovable": 7500000,
+      "total": 10465834,
+      "liabilities": 1346446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=407",
+    "retrieved": "2026-08-27"
+  }
+}

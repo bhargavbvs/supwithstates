@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-45-gangolihat",
+  "constituency": {
+    "number": 45,
+    "name": "Gangolihat",
+    "district": "Pithor>garh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Fakeer Ram",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Tamta woodwork",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2127973,
+      "immovable": 15900000,
+      "total": 18027973,
+      "liabilities": 400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=40",
+    "retrieved": "2026-08-27"
+  }
+}

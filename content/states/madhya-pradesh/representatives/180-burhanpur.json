@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-180-burhanpur",
+  "constituency": {
+    "number": 180,
+    "name": "Burhanpur",
+    "district": "Burhanpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Archana Chitnis",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture and other",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. from Nilkantheshwar College, Khandwa Dr. Hari Singh Gour University Sagar MP In 1987"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10021736,
+      "immovable": 23215117,
+      "total": 33236853,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=485",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-198-jhalrapatan",
+  "constituency": {
+    "number": 198,
+    "name": "Jhalrapatan",
+    "district": "Jhalawar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vasundhara Raje",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Salary and Allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B A Hon. (Economics and Political Sciences) In 1973 from Sofia College, Mumbai University, Mumbai (Maharashtra)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50070516,
+      "immovable": 5000000,
+      "total": 55070516,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=230",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-18-dharamshala",
+  "constituency": {
+    "number": 18,
+    "name": "Dharamshala",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudhir Sharma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Politician and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Dav College Chandigarh (PU) in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32441737,
+      "immovable": 94375305,
+      "total": 126867042,
+      "liabilities": 4077113
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=488",
+    "retrieved": "2026-08-27"
+  }
+}

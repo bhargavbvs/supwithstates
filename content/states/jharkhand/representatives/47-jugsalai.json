@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-47-jugsalai",
+  "constituency": {
+    "number": 47,
+    "name": "Jugsalai",
+    "district": "East Singhbhum",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mangal Kalindi",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary from Jharkhand Academic Council Ranchi in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1711330,
+      "immovable": 7300000,
+      "total": 9011330,
+      "liabilities": 3200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=16",
+    "retrieved": "2026-08-27"
+  }
+}

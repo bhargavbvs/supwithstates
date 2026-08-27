@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-19-chepauk-thiruvalliken",
+  "constituency": {
+    "number": 19,
+    "name": "Chepauk-Thiruvalliken",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Udhayanidhi Stalin",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce, Loyola College(Autonomous), Chennai-(1994-1997)"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 262017699,
+      "immovable": 77224933,
+      "total": 339242632,
+      "liabilities": 155000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=266",
+    "retrieved": "2026-08-27"
+  }
+}

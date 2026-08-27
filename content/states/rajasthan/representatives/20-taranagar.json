@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-20-taranagar",
+  "constituency": {
+    "number": 20,
+    "name": "Taranagar",
+    "district": "Churu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narendra Budania",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Agriculture & Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B From Rajasthan University 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13291643,
+      "immovable": 49980000,
+      "total": 63973545,
+      "liabilities": 20670601
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=423",
+    "retrieved": "2026-08-27"
+  }
+}

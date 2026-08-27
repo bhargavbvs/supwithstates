@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-191-madurai-north",
+  "constituency": {
+    "number": 191,
+    "name": "Madurai North",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A.Kallanai",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Consultant",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com (CA) Junior Degree in Commerce ( Computer Application) Saurashtra Collage Madurai Kamaraj University April-2005, 12th Saurashtra Boys High Secondary School -2002, 10th Madurai College High Secondary School 1999-2000"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6125924,
+      "immovable": 15150000,
+      "total": 21275925,
+      "liabilities": 11862949
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=256",
+    "retrieved": "2026-08-27"
+  }
+}

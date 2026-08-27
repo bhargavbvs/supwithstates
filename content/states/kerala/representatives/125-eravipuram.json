@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-125-eravipuram",
+  "constituency": {
+    "number": 125,
+    "name": "Eravipuram",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.Vishnu Mohan",
+    "election": "2026",
+    "elected_party": "Revolutionary Socialist Party",
+    "current_party": "Revolutionary Socialist Party",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Social Service, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB Degree of Bachelor of laws, Government Law College Thiruvananthapuram Name of Kerala In The Year 2012"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12451593,
+      "immovable": 3487885,
+      "total": 15939479,
+      "liabilities": 2630689
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=634",
+    "retrieved": "2026-08-27"
+  }
+}

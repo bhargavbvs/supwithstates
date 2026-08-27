@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-59-saikot",
+  "constituency": {
+    "number": 59,
+    "name": "Saikot",
+    "district": "Churachandpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Paolienlal Haokip",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Of Philosophy From Jawaharlal Nehru University New Delhi in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3308143,
+      "immovable": 6100000,
+      "total": 9408143,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=144",
+    "retrieved": "2026-08-27"
+  }
+}

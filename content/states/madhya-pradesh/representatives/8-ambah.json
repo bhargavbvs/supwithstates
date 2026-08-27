@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-8-ambah",
+  "constituency": {
+    "number": 8,
+    "name": "Ambah",
+    "district": "Morena",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Devendra Ramnarayan Sakhwar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary, M.S Mandal, MP, Bhopal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1869690,
+      "immovable": 2100000,
+      "total": 3969690,
+      "liabilities": 269931
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=225",
+    "retrieved": "2026-08-27"
+  }
+}

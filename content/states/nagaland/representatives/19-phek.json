@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-19-phek",
+  "constituency": {
+    "number": 19,
+    "name": "Phek",
+    "district": "Phek",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kuzholuzo Nienu",
+    "election": "2023",
+    "elected_party": "NPF",
+    "current_party": "NPF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "BA from Dimapur College, Dimapur NEHU (Appeared) BA I in 1987 (Appeared)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19549259,
+      "immovable": 56300000,
+      "total": 75849260,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6872",
+    "retrieved": "2026-08-27"
+  }
+}

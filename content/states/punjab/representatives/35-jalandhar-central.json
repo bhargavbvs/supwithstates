@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-35-jalandhar-central",
+  "constituency": {
+    "number": 35,
+    "name": "Jalandhar Central",
+    "district": "Jalandhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raman Arora",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from Guru Nanak Dev University, Amritsar in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16305490,
+      "immovable": 13395000,
+      "total": 29700490,
+      "liabilities": 2493979
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=996",
+    "retrieved": "2026-08-27"
+  }
+}

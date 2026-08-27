@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-82-ernakulam",
+  "constituency": {
+    "number": 82,
+    "name": "Ernakulam",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T.J Vinod",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Social Workers",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre Degree ,Private Study, Kerala university, 1981"
+    },
+    "declared_cases": {
+      "total": 18,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 13,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19038203,
+      "immovable": 20157507,
+      "total": 39195710,
+      "liabilities": 2900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=77",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-63-satna",
+  "constituency": {
+    "number": 63,
+    "name": "Satna",
+    "district": "Satna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dabbu Siddharth Sukhlal Kushwaha",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Agriculture, Social service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 2007 from Govt. College satna M.P."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6951564,
+      "immovable": 9500000,
+      "total": 16451564,
+      "liabilities": 2457000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=87",
+    "retrieved": "2026-08-27"
+  }
+}

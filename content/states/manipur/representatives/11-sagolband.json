@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-11-sagolband",
+  "constituency": {
+    "number": 11,
+    "name": "Sagolband",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajkumar Imo Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Member of Legislative Assembly Manipur (MLA)/Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA History from Delhi University in 1999, LLB Faculty of Law Delhi University in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16647793,
+      "immovable": 55767138,
+      "total": 72414938,
+      "liabilities": 8389833
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=77",
+    "retrieved": "2026-08-27"
+  }
+}

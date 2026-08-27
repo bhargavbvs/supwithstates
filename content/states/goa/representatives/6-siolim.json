@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-6-siolim",
+  "constituency": {
+    "number": 6,
+    "name": "Siolim",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Delilah Michael Lobo",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "T.Y.B.Com. from DMs HSSC, Assagao, Mapusa Goa (Goa University) in 1998"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 262712499,
+      "immovable": 645759228,
+      "total": 929101865,
+      "liabilities": 288735436
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=211",
+    "retrieved": "2026-08-27"
+  }
+}

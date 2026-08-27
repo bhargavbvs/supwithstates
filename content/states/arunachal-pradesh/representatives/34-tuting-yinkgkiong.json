@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-34-tuting-yinkgkiong",
+  "constituency": {
+    "number": 34,
+    "name": "Tuting-Yinkgkiong",
+    "district": "Upper Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Alo Libang",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts From Jawaharlal Nehru College Pasighat, Arunachal University (New Rajiv Gandhi University) Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16255174,
+      "immovable": 64450000,
+      "total": 80705177,
+      "liabilities": 1000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=82",
+    "retrieved": "2026-08-27"
+  }
+}

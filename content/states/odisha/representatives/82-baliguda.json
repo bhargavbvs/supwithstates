@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-82-baliguda",
+  "constituency": {
+    "number": 82,
+    "name": "Baliguda",
+    "district": "Kandhamal",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chakramani Kanhar",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Upashastri Examination From Ananda Chandra Sanskrit Mahavidyalaya, Buguda Khurda under Shri Jagannath Sanskrit Visva Vidyalaya, Puri, Shri Vihar Puri Orissa"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10073478,
+      "immovable": 5000000,
+      "total": 15073478,
+      "liabilities": 3971325
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=257",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-147-pindwara-abu",
+  "constituency": {
+    "number": 147,
+    "name": "Pindwara Abu",
+    "district": "Sirohi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Samaram",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed From Govt. High Secondary School, Pindwara, Year-1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6487656,
+      "immovable": 7005000,
+      "total": 12975063,
+      "liabilities": 851781
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=338",
+    "retrieved": "2026-08-27"
+  }
+}

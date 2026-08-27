@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-30-bagma",
+  "constituency": {
+    "number": 30,
+    "name": "Bagma",
+    "district": "Gomti",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ram Pada Jamatia",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Pensioner cum Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Passed from Bishranganj Higher Secondary School, under West Bengal Board of Education in the year 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5150106,
+      "immovable": 10128350,
+      "total": 13663307,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6834",
+    "retrieved": "2026-08-27"
+  }
+}

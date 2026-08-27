@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-66-rampur",
+  "constituency": {
+    "number": 66,
+    "name": "Rampur",
+    "district": "Shimla",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Nand Lal",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 68,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master In Political Science form Himachal Pradesh University Summer Hill Shimla-5 In 1976"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8717023,
+      "immovable": 19827986,
+      "total": 28545011,
+      "liabilities": 1434148
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=220",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-17-wazirpur",
+  "constituency": {
+    "number": 17,
+    "name": "Wazirpur",
+    "district": "North West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Poonam Sharma",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 40,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Class Passed from CBSE Delhi in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8755120,
+      "immovable": 4000000,
+      "total": 12755121,
+      "liabilities": 486563
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=547",
+    "retrieved": "2026-08-27"
+  }
+}

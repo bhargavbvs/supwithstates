@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-13-kunkuri",
+  "constituency": {
+    "number": 13,
+    "name": "Kunkuri",
+    "district": "Jashpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vishnu Deo Sai",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Farmer, Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Passed from Loyola Higher Secondary School, Kunkuri Madhyamik Shiksha Mandal M.P year 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11248000,
+      "immovable": 25564700,
+      "total": 38081550,
+      "liabilities": 6581921
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=458",
+    "retrieved": "2026-08-27"
+  }
+}

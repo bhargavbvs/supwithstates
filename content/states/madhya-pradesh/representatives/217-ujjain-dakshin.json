@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-217-ujjain-dakshin",
+  "constituency": {
+    "number": 217,
+    "name": "Ujjain Dakshin",
+    "district": "Ujjain",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Mohan Yadav",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "P.hd., LLB, B.sc, MA., Vikram University in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 99281763,
+      "immovable": 321200000,
+      "total": 420481763,
+      "liabilities": 85450844
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1291",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-17-golaghati",
+  "constituency": {
+    "number": 17,
+    "name": "Golaghati",
+    "district": "Sepahijala",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Manab Debbarma",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Pharmacy From RIPSAT, Agartala in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2441247,
+      "immovable": 14130000,
+      "total": 17293247,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7017",
+    "retrieved": "2026-08-27"
+  }
+}

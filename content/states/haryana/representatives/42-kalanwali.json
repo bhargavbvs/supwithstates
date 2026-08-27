@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-42-kalanwali",
+  "constituency": {
+    "number": 42,
+    "name": "Kalanwali",
+    "district": "Sirsa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shishpal Keharwala",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A in 2005 from K.U.K., B.Ed. in 2009 from CDLU, B.A. in 2002 K.U.K."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9483311,
+      "immovable": 15500000,
+      "total": 24983311,
+      "liabilities": 4380000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=236",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-158-hebbal",
+  "constituency": {
+    "number": 158,
+    "name": "Hebbal",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresha B S",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculturist and Land Lord",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC from National College, Bangalore in 1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 640944847,
+      "immovable": 5840550000,
+      "total": 6481494854,
+      "liabilities": 1148674685
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7994",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-165-rajaji-nagar",
+  "constituency": {
+    "number": 165,
+    "name": "Rajaji Nagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S Suresh Kumar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "MLA, Rajajinagar",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. and LL.B From Bengaluru University Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8313727,
+      "immovable": 39500000,
+      "total": 47813737,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8234",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-70-kundgol",
+  "constituency": {
+    "number": 70,
+    "name": "Kundgol",
+    "district": "Dh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M R Patil",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Shetaki",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B-Com, J.G Commerce College, Hubli-1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4909191,
+      "immovable": 9703750,
+      "total": 17202932,
+      "liabilities": 246125
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7499",
+    "retrieved": "2026-08-27"
+  }
+}

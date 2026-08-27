@@ -14,26 +14,23 @@
 // number is worse than a record that is missing.
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { stateConfig } from './lib/states.mjs';
 
 const STATE = process.argv[2];
 const MPS = process.argv.includes('--mps');
 if (!STATE) { console.error('usage: node scripts/build-state-records.mjs <state> [--mps]'); process.exit(1); }
 
+// Every state is described once, in scripts/lib/states.mjs. What this file
+// needs from that is the election to read, the name MyNeta files it under,
+// and the two-letter code a record's id starts with.
+const cfg = stateConfig(STATE);
+if (cfg.blocked) { console.error(`${STATE} is held back: ${cfg.note}`); process.exit(1); }
 const CONF = {
-  telangana: {
-    assembly: 'Telangana2023',
-    myNetaState: 'TELANGANA',
-    idPrefix: 'tg',
-    assemblyUrl: 'https://www.myneta.info/Telangana2023/',
-  },
-  andhra: {
-    assembly: 'AndhraPradesh2024',
-    myNetaState: 'ANDHRA PRADESH',
-    idPrefix: 'ap',
-    assemblyUrl: 'https://www.myneta.info/AndhraPradesh2024/',
-  },
-}[STATE];
-if (!CONF) { console.error(`no configuration for ${STATE}`); process.exit(1); }
+  assembly: cfg.election,
+  myNetaState: cfg.myNetaState,
+  idPrefix: cfg.code,
+  assemblyUrl: `https://www.myneta.info/${cfg.election}/`,
+};
 
 const slugify = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 // The reservation marker is metadata and goes; anything else in brackets
@@ -41,6 +38,12 @@ const slugify = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').repla
 // (Urban) onto Nizamabad (Rural) and lost a sitting member.
 const key = (s) => String(s ?? '')
   .toUpperCase()
+  // The assembly shapefile cuts long names off mid-marker — "Aizawl
+  // North-III (S", "Sri Renukaji (SC" — and fifteen names in the country
+  // end in a parenthesis that never closes. An unclosed bracket at the end
+  // of a name is always that truncation, never part of the name, and
+  // leaving it in made Aizawl North-III unmatchable against itself.
+  .replace(/\([^)]*$/, ' ')
   .replace(/\(\s*(SC|ST|GEN|GENERAL)\s*\)?/g, ' ')
   .replace(/[^A-Z]/g, '');
 const titleCase = (s) => String(s ?? '').toLowerCase()
@@ -77,11 +80,23 @@ for (const line of readFileSync(detailFile, 'utf8').split('\n')) {
 }
 const serious = new Set(JSON.parse(readFileSync(`.myneta-src/serious-${election}.json`, 'utf8')));
 
-// Seats, newest first so a by-election supersedes the general in the same
-// constituency rather than sitting beside it.
+// A by-election is filed under the same constituency as the general it
+// followed, and MyNeta marks it by putting "BYE ELECTION ON" where the
+// district would go. That row is the sitting member, so it supersedes the
+// general rather than sitting beside it — which is why the two are sorted
+// with the by-elections last: the later write wins.
+//
+// The row ids do not order these reliably (Tripura files Dhanpur's
+// by-election below the general it replaced and Boxanagar's above it), so
+// the marker is the only signal used. It accounts for 73 of the 74
+// constituencies in the country that carry more than one winner; the
+// seventy-fourth is Bihar, which has two different seats both named Pipra,
+// and those are told apart by district in findPlace below.
+const isByeElection = (c) => /BYE\s*ELECTION/i.test(String(c.district ?? ''));
 const seats = full.constituencies
   .filter((c) => c.election === election && c.winner && (!MPS || c.state === CONF.myNetaState))
-  .sort((a, b) => a.constituencyId - b.constituencyId);
+  .sort((a, b) => (isByeElection(a) ? 1 : 0) - (isByeElection(b) ? 1 : 0)
+    || a.constituencyId - b.constituencyId);
 
 // Where each name sits: the map is the authority for the number and the
 // district, because it is the only source here that holds either.
@@ -96,14 +111,79 @@ const places = geo.features.map((f) => ({
 }));
 
 const reservedOf = (name) => (/\(\s*SC/i.test(name) ? 'SC' : /\(\s*ST/i.test(name) ? 'ST' : null);
-const findPlace = (name) => {
+// Where a name lands. The district is the tie-breaker and not the key:
+// Bihar has a Pipra in Purba Champaran and another in Supaul, and a name
+// alone cannot tell them apart. The two sources spell districts
+// differently often enough (PURVI CHAMPARAN against PURBA CHAMPARAN) that
+// the tie-break allows the same near-match the names get.
+const findPlace = (name, district) => {
   const k = key(name);
-  const exact = places.find((p) => p.key === k);
-  if (exact) return exact;
-  // A near match is only a match when it is the only one. Two names two
-  // edits away from what was typed identify nothing.
-  const near = places.filter((p) => within(p.key, k));
-  return near.length === 1 ? near[0] : null;
+  const exact = places.filter((p) => p.key === k);
+  if (exact.length === 1) return exact[0];
+
+  // Reservation first when a name is shared. key() strips (SC) and (ST) so
+  // that a source which omits the marker still matches, which means that
+  // when two seats in a state share a name the marker is exactly what
+  // tells them apart: Rajasthan's Shahpura (SC) in Bhilwara against its
+  // Shahpura in Jaipur. A truncated marker reads as unknown and is treated
+  // as compatible with either, rather than as a mismatch.
+  // A name with no marker means the seat is General — that is information,
+  // not a gap, and it is what separates Shahpura (SC) from Shahpura. The
+  // one exception is a name the shapefile cut off mid-marker, where the
+  // reservation is genuinely unknown and must not be read as General.
+  const truncated = (n) => /\([^)]*$/.test(String(n));
+  const reservation = (n) => (truncated(n) ? undefined : reservedOf(n));
+  const r = reservation(name);
+  const sameReservation = (p) => {
+    const pr = reservation(p.name);
+    return pr === undefined || r === undefined || pr === r;
+  };
+  const districtAgrees = (p) => {
+    if (!district) return false;
+    const d = key(district);
+    const pd = key(p.district);
+    // The two sources disagree about district names often enough — PURVI
+    // CHAMPARAN against PURBA CHAMPARAN, JAIPUR against JAIPUR(GRAMIN) —
+    // that this accepts a near match and a containment, not only equality.
+    return pd === d || within(pd, d, 3) || pd.includes(d) || d.includes(pd);
+  };
+
+  // Reservation and district narrow a shortlist; neither is allowed to
+  // empty it. Nagaland's map omits the (ST) that MyNeta prints on the same
+  // seat, so a reservation used as a filter rather than a tie-break threw
+  // away three members who had exactly one candidate each.
+  const narrow = (list) => {
+    if (list.length <= 1) return list;
+    const byReservation = list.filter(sameReservation);
+    if (byReservation.length === 1) return byReservation;
+    const rest = byReservation.length ? byReservation : list;
+    const byDistrict = rest.filter(districtAgrees);
+    return byDistrict.length === 1 ? byDistrict : rest;
+  };
+
+  if (exact.length > 1) {
+    const narrowed = narrow(exact);
+    return narrowed.length === 1 ? narrowed[0] : null;
+  }
+
+  // No exact match. A near one is accepted only with the district behind
+  // it: three edits is enough to turn Joura into Jaora, which is a real
+  // and different constituency two hundred kilometres away, so the name
+  // alone is not allowed to decide.
+  const near = places.filter((p) => within(p.key, k, 3) && districtAgrees(p));
+  const narrowed = narrow(near);
+  if (narrowed.length === 1) return narrowed[0];
+
+  // District agreement cannot be a requirement, only a help. Karnataka's
+  // shapefile lost its non-ASCII characters somewhere upstream and files
+  // Bengaluru as "Bengal#ru (Urban)"; Himachal has "K>NGRA" for Kangra.
+  // Against those, no district ever agrees. So a close name that is the
+  // only close name in the whole state is still a match — that was the
+  // rule before districts were consulted at all, and it is sound on its
+  // own: what the district adds is the ability to choose between two.
+  const solo = places.filter((p) => within(p.key, k, 2));
+  if (solo.length === 1) return solo[0];
+  return null;
 };
 
 const missing = [];
@@ -127,10 +207,23 @@ if (MPS) {
   }
 } else {
   for (const seat of seats) {
-    const place = findPlace(seat.name);
+    const place = findPlace(seat.name, isByeElection(seat) ? null : seat.district);
     if (!place) { missing.push(seat.name); continue; }
     records.push({ seat, place });
   }
+}
+
+// Nothing is written until every winner's affidavit is in hand. A
+// candidate the crawl has not reached is simply absent from the detail
+// file, and building anyway shipped Bihar at 105 of its 243 seats before
+// the run stopped — a half-written state on disk that the next build
+// picked up as if it were finished.
+const uncrawled = records.filter(({ seat }) => !detail.has(seat.winner.candidateId));
+if (uncrawled.length) {
+  console.error(`${STATE}: ${uncrawled.length} of ${records.length} winners are not in `
+    + `${detailFile} — the crawl is unfinished, nothing written.`);
+  console.error(`  run: node scripts/crawl-myneta.mjs ${election}`);
+  process.exit(1);
 }
 
 const outDir = join(stateDir, MPS ? 'mps' : 'representatives');
@@ -139,10 +232,28 @@ const retrieved = new Date().toISOString().slice(0, 10);
 let written = 0;
 const gaps = { assets: 0, education: 0, age: 0 };
 
+const noAffidavit = [];
 for (const { seat, place } of records) {
   const w = seat.winner;
   const d = detail.get(w.candidateId) ?? {};
   const isSerious = serious.has(w.candidateId);
+
+  // Two different absences, and conflating them cost Bihar 200 members.
+  //
+  // A candidate the crawl has not reached yet is simply missing from the
+  // detail file. That is an unfinished crawl, not a fact about the member,
+  // and building anyway would quietly ship a state at a fifth of its size
+  // — so the build stops and says to finish the crawl.
+  //
+  // A candidate the crawl did reach, whose affidavit page carries nothing
+  // — no age, no education, no assets — is what MyNeta serves for an
+  // election it has not finished processing. A record built from that
+  // would say a member is worth nothing and went to no school, so none is
+  // built: the seat reads as not yet profiled, which is what it is.
+  if (d.assets == null && d.age == null && !d.education?.level) {
+    noAffidavit.push(`${place.number} ${place.name}`);
+    continue;
+  }
   if (d.assets == null) gaps.assets += 1;
   if (!d.education?.level) gaps.education += 1;
   if (d.age == null) gaps.age += 1;
@@ -200,7 +311,13 @@ for (const { seat, place } of records) {
   written += 1;
 }
 
-console.log(`${STATE}${MPS ? ' MPs' : ''}: ${written} records → ${outDir}`);
-if (missing.length) console.log(`  not placed: ${missing.join(', ')}`);
+const seatsFilled = new Set(records.map(({ place }) => place.number)).size - noAffidavit.length;
+console.log(`${STATE}${MPS ? ' MPs' : ''}: ${seatsFilled} of ${cfg.seats} seats → ${outDir}`
+  + (written > seatsFilled ? ` (${written - seatsFilled} superseded by a by-election)` : ''));
+if (missing.length) console.log(`  not placed: ${[...new Set(missing)].join(', ')}`);
+if (noAffidavit.length) {
+  console.log(`  no affidavit published yet: ${noAffidavit.length}`
+    + ` (${noAffidavit.slice(0, 3).join(', ')}${noAffidavit.length > 3 ? ', …' : ''})`);
+}
 console.log(`  gaps — assets ${gaps.assets}, education ${gaps.education}, age ${gaps.age}`);
 console.log(`  ADR serious: ${records.filter(({ seat }) => serious.has(seat.winner.candidateId)).length}`);

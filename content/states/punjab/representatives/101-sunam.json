@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-101-sunam",
+  "constituency": {
+    "number": 101,
+    "name": "Sunam",
+    "district": "Sangrur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aman Arora",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Punjab University Chandigarh in 1996"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 392298000,
+      "immovable": 558994000,
+      "total": 951292000,
+      "liabilities": 228816000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=122",
+    "retrieved": "2026-08-27"
+  }
+}

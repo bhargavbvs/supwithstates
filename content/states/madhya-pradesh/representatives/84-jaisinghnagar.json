@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-84-jaisinghnagar",
+  "constituency": {
+    "number": 84,
+    "name": "Jaisinghnagar",
+    "district": "Shahdol",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Manisha Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Centring Work and Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Political Science) from Awadh Pratap Singh University Rewa in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7243000,
+      "immovable": 11700000,
+      "total": 18943000,
+      "liabilities": 5200523
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=303",
+    "retrieved": "2026-08-27"
+  }
+}

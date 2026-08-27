@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-173-thiruvaiyaru",
+  "constituency": {
+    "number": 173,
+    "name": "Thiruvaiyaru",
+    "district": "Thanjavur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Durai. Chandrasekaran",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB Bangalore University 1988 Tamilnadu Bar Council Enrolment No 65/1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64653595,
+      "immovable": 77500000,
+      "total": 142153595,
+      "liabilities": 25120514
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=170",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-31-thoubal",
+  "constituency": {
+    "number": 31,
+    "name": "Thoubal",
+    "district": "Thoubal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Okram Ibobi Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 73,
+    "profession": "Member of Manipur Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (B.A) from D.M College of Arts Imphal Manipur under Roll No. E1675 of Guwahati University in the year 1972"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11063182,
+      "immovable": 18429929,
+      "total": 29493111,
+      "liabilities": 6871236
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=262",
+    "retrieved": "2026-08-27"
+  }
+}

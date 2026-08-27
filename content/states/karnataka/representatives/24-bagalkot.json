@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-24-bagalkot",
+  "constituency": {
+    "number": 24,
+    "name": "Bagalkot",
+    "district": "B",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umesh Hullappa Meti",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Second Year Pre University (PUC) in 1992 from Adarsha Comp PU Collefe, Bewoor, Tal. Dist. Bagalkot"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18041850,
+      "immovable": 97900000,
+      "total": 113840434,
+      "liabilities": 296100
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=9595",
+    "retrieved": "2026-08-27"
+  }
+}

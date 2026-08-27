@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-161-c-v-raman-nagar",
+  "constituency": {
+    "number": 161,
+    "name": "C.V. Raman Nagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "S. Raghu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Business, Social Work - MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Diploma in Civil Engineering from Acharya Pata Shala at Bangalore in 1990, Bachelor of Civil Engineer (BE) from Dayananda Sagar College, Bangalore University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37636050,
+      "immovable": 383400000,
+      "total": 421036051,
+      "liabilities": 27585783
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7163",
+    "retrieved": "2026-08-27"
+  }
+}

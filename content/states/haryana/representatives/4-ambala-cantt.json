@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-4-ambala-cantt",
+  "constituency": {
+    "number": 4,
+    "name": "Ambala Cantt.",
+    "district": "Ambala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Vij",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Member of Legislative Assembly , Haryana",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science, From S.D. College, Ambala Cantt, Punjab University, Chandigarh Year 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2451988,
+      "immovable": 12500000,
+      "total": 14951989,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=169",
+    "retrieved": "2026-08-27"
+  }
+}

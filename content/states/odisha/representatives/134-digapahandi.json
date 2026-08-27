@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-134-digapahandi",
+  "constituency": {
+    "number": 134,
+    "name": "Digapahandi",
+    "district": "Ganjam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sidhant Mohapatra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Artist & Ex. Member of Parliament",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graduate Diploma in Marketing from Institute of Marketing & Management (IMM), New Delhi in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14833239,
+      "immovable": 13000000,
+      "total": 27833239,
+      "liabilities": 1566000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=81",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-210-rau",
+  "constituency": {
+    "number": 210,
+    "name": "Rau",
+    "district": "Indore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhu Verma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Agriculture, Rental Income, Interest from Bank, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass From Higher Scondary School, M.P Board, Year-1978"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12596238,
+      "immovable": 103380000,
+      "total": 115976238,
+      "liabilities": 7055708
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=399",
+    "retrieved": "2026-08-27"
+  }
+}

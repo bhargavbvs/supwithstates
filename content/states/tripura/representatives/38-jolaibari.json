@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-38-jolaibari",
+  "constituency": {
+    "number": 38,
+    "name": "Jolaibari",
+    "district": "South Tripura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sukla Charan Noatia",
+    "election": "2023",
+    "elected_party": "Indigenous Peoples Front of Tripura",
+    "current_party": "Indigenous Peoples Front of Tripura",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 30,
+    "profession": "Social Activist",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed from CBSE In 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 206560,
+      "immovable": 0,
+      "total": 206560,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6907",
+    "retrieved": "2026-08-27"
+  }
+}

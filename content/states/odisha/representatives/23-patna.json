@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-23-patna",
+  "constituency": {
+    "number": 23,
+    "name": "Patna",
+    "district": "Keonjhar (Kendujhar)",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Akhila Chandra Naik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Rtd Govt Employ",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.From Utkal University, Bhubaneswar 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3196173,
+      "immovable": 5700000,
+      "total": 7696174,
+      "liabilities": 816283
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=806",
+    "retrieved": "2026-08-27"
+  }
+}

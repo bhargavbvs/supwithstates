@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-36-uthiramerur",
+  "constituency": {
+    "number": 36,
+    "name": "Uthiramerur",
+    "district": "Kanchipuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Munirathinam.J",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Builder and Land Developer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B. Sri Venkateswara College of Law Tirupathi 2014, BBA University of Madras May 2007"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 223683600,
+      "immovable": 338667000,
+      "total": 384151600,
+      "liabilities": 51281261
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=298",
+    "retrieved": "2026-08-27"
+  }
+}

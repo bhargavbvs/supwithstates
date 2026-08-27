@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-15-shakur-basti",
+  "constituency": {
+    "number": 15,
+    "name": "Shakur Basti",
+    "district": "North West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karnail Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 57,
+    "profession": "Social Worker & Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from SDM High School Haryana Vidyalaya Siksha Board 1984 Sonipat"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9236090,
+      "immovable": 2587500000,
+      "total": 2596736090,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=369",
+    "retrieved": "2026-08-27"
+  }
+}

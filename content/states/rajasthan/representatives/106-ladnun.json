@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-106-ladnun",
+  "constituency": {
+    "number": 106,
+    "name": "Ladnun",
+    "district": "Didwana-Kuchaman",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukesh Bhakar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "MLA, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.A. in 2008 , M.A. in 2011 From Rajasthan College, Rajasthan University"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5224910,
+      "immovable": 3500000,
+      "total": 8724910,
+      "liabilities": 2020511
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=276",
+    "retrieved": "2026-08-27"
+  }
+}

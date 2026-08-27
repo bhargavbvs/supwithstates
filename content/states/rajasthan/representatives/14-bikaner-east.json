@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-14-bikaner-east",
+  "constituency": {
+    "number": 14,
+    "name": "Bikaner East",
+    "district": "Bikaner",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Siddhi Kumari",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Business Farm Prachina Sanghralaya & Prachina Cafe Junagarh Proprietor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From M.D.S. University, in 1994-95, Maharani Sudarshana College, Bikaner"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 165257262,
+      "immovable": 857535282,
+      "total": 1022792547,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=89",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-42-kasturba-nagar",
+  "constituency": {
+    "number": 42,
+    "name": "Kasturba Nagar",
+    "district": "South East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Neeraj Basoya",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B. from B.S.A. College Mathura Bhimrao Ambedkar University Agra UP in 2001, B.A. Pass from Dayal Singh College University of Delhi in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19950155,
+      "immovable": 52500000,
+      "total": 72450155,
+      "liabilities": 275000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=274",
+    "retrieved": "2026-08-27"
+  }
+}

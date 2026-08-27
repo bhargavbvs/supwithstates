@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-67-arani",
+  "constituency": {
+    "number": 67,
+    "name": "Arani",
+    "district": "Tiruvannamalai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayasudha. L",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Industry, Silk Trade, Rent Politics and Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Standard From Govt. Girls Higher Secondary School Aarani In March 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49275255,
+      "immovable": 287514000,
+      "total": 336789255,
+      "liabilities": 91389457
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1406",
+    "retrieved": "2026-08-27"
+  }
+}

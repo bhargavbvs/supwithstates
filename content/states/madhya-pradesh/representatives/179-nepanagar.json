@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-179-nepanagar",
+  "constituency": {
+    "number": 179,
+    "name": "Nepanagar",
+    "district": "Burhanpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Manju Rajendra Dadu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA (Devi Ahilya Unversity Indore MP)Poonam chand vocational College. Khandwa year 2012-13"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1967867,
+      "immovable": 5883333,
+      "total": 7851200,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1179",
+    "retrieved": "2026-08-27"
+  }
+}

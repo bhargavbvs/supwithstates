@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-143-bhinmal",
+  "constituency": {
+    "number": 143,
+    "name": "Bhinmal",
+    "district": "Sanchore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Samarjit Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D in 1993, M.Phil in 1991, M.A. in 1989 from JNVU Jodhpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12902765,
+      "immovable": 65950000,
+      "total": 78821716,
+      "liabilities": 6053172
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=450",
+    "retrieved": "2026-08-27"
+  }
+}

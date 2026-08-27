@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-6-daramdin-bl",
+  "constituency": {
+    "number": 6,
+    "name": "Daramdin(Bl)",
+    "district": "Soreng",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mingma Norbu Sherpa",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Completed Bachelor of Arts in the year 1995 under North Bengal University from Sikkim Govt. College"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14038602,
+      "immovable": 46110798,
+      "total": 60149903,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=28",
+    "retrieved": "2026-08-27"
+  }
+}

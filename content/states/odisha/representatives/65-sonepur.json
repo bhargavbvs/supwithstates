@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-65-sonepur",
+  "constituency": {
+    "number": 65,
+    "name": "Sonepur",
+    "district": "Subarnapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Niranjan Pujari",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 63,
+    "profession": "Agriculturist and Public Representative",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Lajpat Rai Law College, Sambalpur Odisha (Sambalpur University) in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32746875,
+      "immovable": 20375184,
+      "total": 53067063,
+      "liabilities": 3149557
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=313",
+    "retrieved": "2026-08-27"
+  }
+}

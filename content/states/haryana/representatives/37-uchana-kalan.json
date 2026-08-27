@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-37-uchana-kalan",
+  "constituency": {
+    "number": 37,
+    "name": "Uchana Kalan",
+    "district": "Jind",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devender Chatar Bhuj Attri",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From K.U.K. Year-2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25789673,
+      "immovable": 23000000,
+      "total": 48789673,
+      "liabilities": 17300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=51",
+    "retrieved": "2026-08-27"
+  }
+}

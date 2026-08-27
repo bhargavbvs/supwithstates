@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-24-keonjhar",
+  "constituency": {
+    "number": 24,
+    "name": "Keonjhar",
+    "district": "Keonjhar (Kendujhar)",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mohan Charan Majhi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Social Work and Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Dhenkanal Law College, in 2011"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9671378,
+      "immovable": 10120000,
+      "total": 19782315,
+      "liabilities": 9558544
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=751",
+    "retrieved": "2026-08-27"
+  }
+}

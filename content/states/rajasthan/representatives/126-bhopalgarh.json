@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-126-bhopalgarh",
+  "constituency": {
+    "number": 126,
+    "name": "Bhopalgarh",
+    "district": "Jodhpur Gramin",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Geeta Barwar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Medical Shop",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed in 2008, DCLFS in 2003, LLB in 2002, B.A. in 1997 from Jay Narayan Vyas University, Jodhpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6821452,
+      "immovable": 8100000,
+      "total": 14886452,
+      "liabilities": 4032403
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=163",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-29-bagodar",
+  "constituency": {
+    "number": 29,
+    "name": "Bagodar",
+    "district": "Giridih",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nagendra Mahto",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 73,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (B.T.) from Ranchi University, Ranchi in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2467159,
+      "immovable": 28235424,
+      "total": 30702583,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=841",
+    "retrieved": "2026-08-27"
+  }
+}

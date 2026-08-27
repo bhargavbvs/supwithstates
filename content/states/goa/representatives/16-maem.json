@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-16-maem",
+  "constituency": {
+    "number": 16,
+    "name": "Maem",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Premendra Vishnu Shet",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Private Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From Govt College of Arts,Science & Commerce Sanquelim Goa in 1995 Goa University Goa"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21331860,
+      "immovable": 22770000,
+      "total": 44101862,
+      "liabilities": 16136133
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=44",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-210-tiruvadanai",
+  "constituency": {
+    "number": 210,
+    "name": "Tiruvadanai",
+    "district": "Ramanathapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajeev",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 33,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S Rajamuthiah Medical College (Annamalai University ) 2016 Reg No. 119859"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27488822,
+      "immovable": 3885555,
+      "total": 31374378,
+      "liabilities": 5746518
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=985",
+    "retrieved": "2026-08-27"
+  }
+}

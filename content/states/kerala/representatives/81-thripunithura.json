@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-81-thripunithura",
+  "constituency": {
+    "number": 81,
+    "name": "Thripunithura",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deepak Joy",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Equivalency Examination, Government of Kerala, Board of Higher Secondary Examinations, Thiruvananthapuram, March 2024"
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 13,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9886622,
+      "immovable": 10647550,
+      "total": 20519172,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=262",
+    "retrieved": "2026-08-27"
+  }
+}

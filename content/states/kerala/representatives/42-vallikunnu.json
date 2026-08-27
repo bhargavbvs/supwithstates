@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-42-vallikunnu",
+  "constituency": {
+    "number": 42,
+    "name": "Vallikunnu",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T V Ibrahim",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Retired Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M. Phil from Annamalai University in 2008, MA (political Science) from Madurai Kamraj University in 2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 3704936,
+      "immovable": 18150000,
+      "total": 21854936,
+      "liabilities": 3412839
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=286",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-37-hrishyamukh",
+  "constituency": {
+    "number": 37,
+    "name": "Hrishyamukh",
+    "district": "South Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Asoke Ch. Mitra",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Retired Government Teacher",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. Examination passed in 1981 from Govt. B.Ed. College, Agartala, Under University of Calcutta, West Bengal, B.Sc. from MBB College, Agartala Under University of Calcutta West Bengal in 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2515807,
+      "immovable": 8000000,
+      "total": 10515807,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6781",
+    "retrieved": "2026-08-27"
+  }
+}

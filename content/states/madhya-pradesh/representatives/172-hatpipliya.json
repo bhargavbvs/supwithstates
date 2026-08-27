@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-172-hatpipliya",
+  "constituency": {
+    "number": 172,
+    "name": "Hatpipliya",
+    "district": "Dewas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Narayansingh Choudhari",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA History in 2002, MA Political Science in 2005, LLB in 2000 from KP College Dewas (Vikram University Ujjain MP)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7049994,
+      "immovable": 20400000,
+      "total": 27449994,
+      "liabilities": 1902951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=294",
+    "retrieved": "2026-08-27"
+  }
+}

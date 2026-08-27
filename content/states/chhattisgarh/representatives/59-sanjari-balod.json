@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-59-sanjari-balod",
+  "constituency": {
+    "number": 59,
+    "name": "Sanjari Balod",
+    "district": "Balod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sangeeta Sinha",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Agriculture Income, Business Income and Interest Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Graduate Govt. College Dhamtari in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23473955,
+      "immovable": 27749000,
+      "total": 51222958,
+      "liabilities": 5442695
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=364",
+    "retrieved": "2026-08-27"
+  }
+}

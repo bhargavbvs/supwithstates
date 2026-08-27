@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-50-bidar",
+  "constituency": {
+    "number": 50,
+    "name": "Bidar",
+    "district": "B\\dar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rahim Khan",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Social Worker, Educationalist & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC II Year (Science) from Department of Pre University Education, Bangalore (Board) Govt. Junior College, Bidar in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51940950,
+      "immovable": 786500000,
+      "total": 838440950,
+      "liabilities": 51042019
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7872",
+    "retrieved": "2026-08-27"
+  }
+}

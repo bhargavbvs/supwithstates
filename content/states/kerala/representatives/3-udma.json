@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-3-udma",
+  "constituency": {
+    "number": 3,
+    "name": "Udma",
+    "district": "Kasaragod",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Neelakandan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts, Govt College Kasaragod, University of Calicut, Year 1987"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 4,
+      "note": null
+    },
+    "assets": {
+      "movable": 11882317,
+      "immovable": 6000000,
+      "total": 17882320,
+      "liabilities": 1617906
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=276",
+    "retrieved": "2026-08-27"
+  }
+}

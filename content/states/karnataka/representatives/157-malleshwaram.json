@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-157-malleshwaram",
+  "constituency": {
+    "number": 157,
+    "name": "Malleshwaram",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Ashwath Narayan C N",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Doctor (MBBS)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS - Bachelor of Medicine & Bachelor of Surgery , Kasturba Medical College Mangalore Univeristy Year of 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41164277,
+      "immovable": 134184811,
+      "total": 175349088,
+      "liabilities": 4043160
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7536",
+    "retrieved": "2026-08-27"
+  }
+}

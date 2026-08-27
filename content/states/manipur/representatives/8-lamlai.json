@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-8-lamlai",
+  "constituency": {
+    "number": 8,
+    "name": "Lamlai",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khongbantabam Ibomcha",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts in Economics from Moirang College, Manipur University in 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -257632,
+      "immovable": 4000000,
+      "total": 3742368,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=16",
+    "retrieved": "2026-08-27"
+  }
+}

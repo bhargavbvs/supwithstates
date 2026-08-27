@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-216-ujjain-uttar",
+  "constituency": {
+    "number": 216,
+    "name": "Ujjain Uttar",
+    "district": "Ujjain",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Jain Kaluheda",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc from Vikram University Ujjain in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35701610,
+      "immovable": 28767810,
+      "total": 64469420,
+      "liabilities": 2652036
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1205",
+    "retrieved": "2026-08-27"
+  }
+}

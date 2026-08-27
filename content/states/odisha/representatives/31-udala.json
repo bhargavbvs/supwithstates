@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-31-udala",
+  "constituency": {
+    "number": 31,
+    "name": "Udala",
+    "district": "Mayurbhanj",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhaskar Madhei",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 64,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from Prahallad Sanskrit Tools, Bhandanipal, Sri Jagannath Sanskrit Vidhandalya Puri in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1051093,
+      "immovable": 6500000,
+      "total": 6951093,
+      "liabilities": 9592043
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1280",
+    "retrieved": "2026-08-27"
+  }
+}

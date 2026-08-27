@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-36-bhoranj",
+  "constituency": {
+    "number": 36,
+    "name": "Bhoranj",
+    "district": "Ham|rpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Suresh Kumar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phill (Pol. Sci.) From HPU Shimla"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4660000,
+      "immovable": 2500000,
+      "total": 7130000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=104",
+    "retrieved": "2026-08-27"
+  }
+}

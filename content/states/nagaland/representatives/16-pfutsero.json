@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-16-pfutsero",
+  "constituency": {
+    "number": 16,
+    "name": "Pfutsero",
+    "district": "Phek",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr.Neisatuo Mero",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BDS from Gauhati University in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6641405,
+      "immovable": 18700000,
+      "total": 25341405,
+      "liabilities": 5298415
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6760",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-28-alandur",
+  "constituency": {
+    "number": 28,
+    "name": "Alandur",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.Harish",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 31,
+    "profession": "Business, Trustee Mahendran Charitable and Educational Trust",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. in Civil From Jerusalem Collage of Engineering Pallikaranai Anna University, Year-2016 & LLB From Sri Eshwar Reddy Collage of Law Sri Venkateswara University, Year- 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26986128,
+      "immovable": 0,
+      "total": 26986128,
+      "liabilities": 5602039
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=305",
+    "retrieved": "2026-08-27"
+  }
+}

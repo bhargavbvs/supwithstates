@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-8-fatehpur",
+  "constituency": {
+    "number": 8,
+    "name": "Fatehpur",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhawani Singh Pathania",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Service in ICICI Prudential Life Insurance Company Ltd. till 31 July 2021",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Commerce Pass in the year 1996 Delhi University, Post Graduate Diploma Business Management in 1988 IMT (Institute of Management Technology) Ghaziabad UP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 97415888,
+      "immovable": 82814497,
+      "total": 180230183,
+      "liabilities": 30429223
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=17",
+    "retrieved": "2026-08-27"
+  }
+}

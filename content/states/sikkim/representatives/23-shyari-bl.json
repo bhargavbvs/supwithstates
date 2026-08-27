@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-23-shyari-bl",
+  "constituency": {
+    "number": 23,
+    "name": "Shyari(Bl)",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tenzing Norbu Lamtha",
+    "election": "2024",
+    "elected_party": "Sikkim Democratic Front",
+    "current_party": "Sikkim Democratic Front",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Social Worker and Retired Govt. Servant Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Civil Engineering From Board of Technical Education Delhi Year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11824075,
+      "immovable": 570883066,
+      "total": 582707142,
+      "liabilities": 232187700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=109",
+    "retrieved": "2026-08-27"
+  }
+}

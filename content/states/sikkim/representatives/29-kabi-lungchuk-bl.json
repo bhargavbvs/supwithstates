@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-29-kabi-lungchuk-bl",
+  "constituency": {
+    "number": 29,
+    "name": "Kabi Lungchuk(Bl)",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thenlay Tshering Bhutia",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 71,
+    "profession": "Politician (EX-MLA) & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Passed Secondary School Examination In 1975 From kumudini Homes School Kalimpong under WBBSE"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19679058,
+      "immovable": 274715935,
+      "total": 294394994,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=47",
+    "retrieved": "2026-08-27"
+  }
+}

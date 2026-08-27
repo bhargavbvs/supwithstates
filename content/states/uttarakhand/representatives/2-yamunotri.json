@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-2-yamunotri",
+  "constituency": {
+    "number": 2,
+    "name": "Yamunotri",
+    "district": "Uttark>shi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Dobhal",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Hotel & Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Govt Inter College Barkot in 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 915625,
+      "immovable": 3866408,
+      "total": 4767228,
+      "liabilities": 70000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=288",
+    "retrieved": "2026-08-27"
+  }
+}

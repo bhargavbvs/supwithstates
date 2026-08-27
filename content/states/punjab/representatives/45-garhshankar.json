@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-45-garhshankar",
+  "constituency": {
+    "number": 45,
+    "name": "Garhshankar",
+    "district": "Hoshiarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jai Krishan",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Business of Photographer & Sitting MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Govt. Sr. Sec. School, Garhshankar in 2002"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4101265,
+      "immovable": 13500000,
+      "total": 17601265,
+      "liabilities": 2251600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=781",
+    "retrieved": "2026-08-27"
+  }
+}

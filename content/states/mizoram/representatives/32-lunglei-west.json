@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-32-lunglei-west",
+  "constituency": {
+    "number": 32,
+    "name": "Lunglei West",
+    "district": "Lunglei",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "T. Lalhlimpuia",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Government Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Mater of Arts (Economics) Pune University completed in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2903696,
+      "immovable": 6000000,
+      "total": 8903696,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=95",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-34-aghunato",
+  "constituency": {
+    "number": 34,
+    "name": "Aghunato",
+    "district": "Zunheboto",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "G Ikuto Zhimomi",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Retired Director ,Agriculture Dept.Nagaland",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc.(Agri) from College of Agriculture, Medziphema, Nagaland, North Eastern Hill University Shillong in 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16501829,
+      "immovable": 95000000,
+      "total": 111501829,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6766",
+    "retrieved": "2026-08-27"
+  }
+}

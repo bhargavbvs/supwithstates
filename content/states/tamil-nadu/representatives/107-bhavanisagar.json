@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-107-bhavanisagar",
+  "constituency": {
+    "number": 107,
+    "name": "Bhavanisagar",
+    "district": "Erode",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "V.P.Tamilselvi",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Voluntary Retirement on after Serving as the Principal, Owner Tamil Beauty Salon",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Cosmetology and Beauty Parlor Management course Bharath Sevak Samaj - Kattur Namakkal-2010, Vocational Education (Teacher Training) 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7287852,
+      "immovable": 27500000,
+      "total": 34787852,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=244",
+    "retrieved": "2026-08-27"
+  }
+}

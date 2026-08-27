@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-109-channagiri",
+  "constituency": {
+    "number": 109,
+    "name": "Channagiri",
+    "district": "D",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Basavaraju V Shivaganga",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Agriculture and Busniess",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. A.R.M. Pre-University College, Davanagere In 2001"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 27430381,
+      "immovable": 34278000,
+      "total": 61261704,
+      "liabilities": 16751320
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7898",
+    "retrieved": "2026-08-27"
+  }
+}

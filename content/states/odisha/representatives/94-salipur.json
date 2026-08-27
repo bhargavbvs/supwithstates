@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-94-salipur",
+  "constituency": {
+    "number": 94,
+    "name": "Salipur",
+    "district": "Cuttack",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prasanta Behera",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "+3 Science from choudwar College Cuttack 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12372758,
+      "immovable": 2145000,
+      "total": 14706278,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1181",
+    "retrieved": "2026-08-27"
+  }
+}

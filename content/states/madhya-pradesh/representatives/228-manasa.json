@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-228-manasa",
+  "constituency": {
+    "number": 228,
+    "name": "Manasa",
+    "district": "Neemuch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aniruddha (Madhav) Maroo",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Business & Agriculture and MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE in Mechanical from Samrat Ashok Technological College Vidisha (M.P), Bhopal Unversity M.P. Year 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37929647,
+      "immovable": 126499999,
+      "total": 164429646,
+      "liabilities": 32076917
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1509",
+    "retrieved": "2026-08-27"
+  }
+}

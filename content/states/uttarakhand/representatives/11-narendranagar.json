@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-11-narendranagar",
+  "constituency": {
+    "number": 11,
+    "name": "Narendranagar",
+    "district": "Tehri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subodh Uniyal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "MLA Pension & Salary & Allowance",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Allahabad University in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16196259,
+      "immovable": 0,
+      "total": 16196232,
+      "liabilities": 10300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=232",
+    "retrieved": "2026-08-27"
+  }
+}

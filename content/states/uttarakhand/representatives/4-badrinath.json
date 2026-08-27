@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-4-badrinath",
+  "constituency": {
+    "number": 4,
+    "name": "Badrinath",
+    "district": "Chamoli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lakhapat Singh Butola",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate Year 1999 and LLB Year 2006 From DAVPG College Dehradun Garhwal University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28793859,
+      "immovable": 128300000,
+      "total": 157093359,
+      "liabilities": 16700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=770",
+    "retrieved": "2026-08-27"
+  }
+}

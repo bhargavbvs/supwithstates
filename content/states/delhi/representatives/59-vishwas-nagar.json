@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-59-vishwas-nagar",
+  "constituency": {
+    "number": 59,
+    "name": "Vishwas Nagar",
+    "district": "Shahadara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Om Prakash Sharma",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 71,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Satyawati College University of Delhi in 1976-77"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 140487774,
+      "immovable": 109486960,
+      "total": 251231937,
+      "liabilities": 89088512
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=65",
+    "retrieved": "2026-08-27"
+  }
+}

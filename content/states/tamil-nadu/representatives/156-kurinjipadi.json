@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-156-kurinjipadi",
+  "constituency": {
+    "number": 156,
+    "name": "Kurinjipadi",
+    "district": "Cuddalore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.R.K.Panneerselvam",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.L., (Bachelor of Law) DR. Ambedkar Law College , Chennai , University of Chennai-October 1985. B.Sc., (Bachelor of Science in Zoology), Poondi Chennai University in 1978-1981"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22926719,
+      "immovable": 105759809,
+      "total": 128686528,
+      "liabilities": 1876592
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1359",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-151-narela",
+  "constituency": {
+    "number": 151,
+    "name": "Narela",
+    "district": "Bhopal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishvas Sarang",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Farm Income, Bank Interest, MLA Salary Allowances and Room Rent",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. Year 1993 Manohar Bhai Institute of Engineering and Technology College Gondiya Nagpur University of Nagpur, 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27845194,
+      "immovable": 160326000,
+      "total": 188171194,
+      "liabilities": 57530201
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=354",
+    "retrieved": "2026-08-27"
+  }
+}

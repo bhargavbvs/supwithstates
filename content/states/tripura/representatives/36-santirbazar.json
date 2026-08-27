@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-36-santirbazar",
+  "constituency": {
+    "number": 36,
+    "name": "Santirbazar",
+    "district": "South Tripura",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pramod Reang",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Class XII from Umshyrpi College at Shilong the year 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 276540,
+      "immovable": 1700000,
+      "total": 1936540,
+      "liabilities": 2376864
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6868",
+    "retrieved": "2026-08-27"
+  }
+}

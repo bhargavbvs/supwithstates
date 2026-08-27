@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-63-bansur",
+  "constituency": {
+    "number": 63,
+    "name": "Bansur",
+    "district": "Kotputli-Behror",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devi Singh Shekhawat",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Marvel Trader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. Maths From Rajasthan University year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44391748,
+      "immovable": 8700000,
+      "total": 50837712,
+      "liabilities": 22797659
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=147",
+    "retrieved": "2026-08-27"
+  }
+}

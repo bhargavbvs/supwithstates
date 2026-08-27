@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-54-nungba",
+  "constituency": {
+    "number": 54,
+    "name": "Nungba",
+    "district": "Noney",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dinganglung Gangmei",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Social Worker / Retired IAS",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science (Environmental Science) from Jawaharlal Nehru University (JNU), New Delhi in 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1917664,
+      "immovable": 13505080,
+      "total": 15422744,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=232",
+    "retrieved": "2026-08-27"
+  }
+}

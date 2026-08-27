@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-65-jubbal-kotkhai",
+  "constituency": {
+    "number": 65,
+    "name": "Jubbal-Kotkhai",
+    "district": "Shimla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rohit Thakur",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Horticulturist & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (Honors in Political Science) from Punjab University Chandigarh in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27808789,
+      "immovable": 76540193,
+      "total": 104348982,
+      "liabilities": 2650000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=216",
+    "retrieved": "2026-08-27"
+  }
+}

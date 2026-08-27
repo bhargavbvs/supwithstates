@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-133-vattiyoorkavu",
+  "constituency": {
+    "number": 133,
+    "name": "Vattiyoorkavu",
+    "district": "Thiruvananthapuram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "K. Muraleedharan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 69,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Degree Mar Ivanios College, Kerala University, 1977-1980, SSLC, St. Joseph HS, Thiruvananthapuram, 1975"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 150198032,
+      "immovable": 61272000,
+      "total": 211470033,
+      "liabilities": 4427165
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=295",
+    "retrieved": "2026-08-27"
+  }
+}

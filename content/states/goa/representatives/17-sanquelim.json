@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-17-sanquelim",
+  "constituency": {
+    "number": 17,
+    "name": "Sanquelim",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Pramod Sawant",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Ayurveda Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Social Work from Tilak Maharashtra Vidyapeeth Pune in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50104584,
+      "immovable": 43800000,
+      "total": 93779584,
+      "liabilities": 15014007
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=157",
+    "retrieved": "2026-08-27"
+  }
+}

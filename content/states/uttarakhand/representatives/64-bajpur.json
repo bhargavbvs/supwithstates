@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-64-bajpur",
+  "constituency": {
+    "number": 64,
+    "name": "Bajpur",
+    "district": "Udham Singh Nagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Yashpal Arya",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 70,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From M.B.P.G.College Haldwani Kumau University Year in 1977"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 263236615,
+      "immovable": 71120000,
+      "total": 109764115,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-27"
+  }
+}

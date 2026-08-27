@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-1-rajmahal",
+  "constituency": {
+    "number": 1,
+    "name": "Rajmahal",
+    "district": "Sahibganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md. Tajuddin",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter Pass from B.L.N.L. Bohra College Rajmahal, Bihar Intermediate Education Council, Patna in 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 120339135,
+      "immovable": 73600000,
+      "total": 193939135,
+      "liabilities": 89519267
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=888",
+    "retrieved": "2026-08-27"
+  }
+}

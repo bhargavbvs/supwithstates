@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-45-chingai",
+  "constituency": {
+    "number": 45,
+    "name": "Chingai",
+    "district": "Ukhrul",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Khashim Vashum",
+    "election": "2022",
+    "elected_party": "NPF",
+    "current_party": "NPF",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Social Worker/MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Dr. Zakir Hussain College, Delhi University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6716290,
+      "immovable": 22000000,
+      "total": 28716291,
+      "liabilities": 2850060
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=208",
+    "retrieved": "2026-08-27"
+  }
+}

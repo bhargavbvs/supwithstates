@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-67-beri",
+  "constituency": {
+    "number": 67,
+    "name": "Beri",
+    "district": "Jhajjar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raghuvir Singh Kadian",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 80,
+    "profession": "Social Service and Politics",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D, from Hissar Agricultural University (CCSHAU), Hissar Top Position in ICAR Fellowship Competition in 1985, M.Sc. (Animal Science) from Haryana Agricultural University (CCSHAU), Hissar in 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17147750,
+      "immovable": 187956020,
+      "total": 205103781,
+      "liabilities": 3850200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=127",
+    "retrieved": "2026-08-27"
+  }
+}

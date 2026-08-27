@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-129-athoor",
+  "constituency": {
+    "number": 129,
+    "name": "Athoor",
+    "district": "Dindigul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "I. Periasamy",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 73,
+    "profession": "Agriculture and Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts-Madura College-Madurai Kamaraj University-1974"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19885927,
+      "immovable": 53734224,
+      "total": 73620151,
+      "liabilities": 1950000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=908",
+    "retrieved": "2026-08-27"
+  }
+}

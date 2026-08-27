@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-150-bhopal-uttar",
+  "constituency": {
+    "number": 150,
+    "name": "Bhopal Uttar",
+    "district": "Bhopal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atif Arif Aqueel",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 33,
+    "profession": "Agricultural and allied activities",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE Civil Engineering from Jai Narain College of Technology & Science, Bhopal, RGPV University in the year 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4414220,
+      "immovable": 9595000,
+      "total": 14009220,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=257",
+    "retrieved": "2026-08-27"
+  }
+}

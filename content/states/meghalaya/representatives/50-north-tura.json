@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-50-north-tura",
+  "constituency": {
+    "number": 50,
+    "name": "North Tura",
+    "district": "West G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Thomas A. Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Member, Meghalaya Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed P.U. Arts in 1985 from Tura Government College, Diploma in Computer Applications in 1995 from Computer AIDS India, Calcutta"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11542152,
+      "immovable": 26800000,
+      "total": 38342152,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6838",
+    "retrieved": "2026-08-27"
+  }
+}

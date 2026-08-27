@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-59-haldwani",
+  "constituency": {
+    "number": 59,
+    "name": "Haldwani",
+    "district": "Nainit>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sumit Hridayesh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.S Electrical Engineering From Misigun University USA in 2000-2001, ICAS Manipal in 1999"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 29196886,
+      "immovable": 79300000,
+      "total": 108497086,
+      "liabilities": 2647583
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=501",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-6-tenning",
+  "constituency": {
+    "number": 6,
+    "name": "Tenning",
+    "district": "Peren",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Namri Nchang",
+    "election": "2023",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from B.N.V. Degree College, Bundelkhand University Jhansi in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12381296,
+      "immovable": 13000000,
+      "total": 22078098,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6938",
+    "retrieved": "2026-08-27"
+  }
+}

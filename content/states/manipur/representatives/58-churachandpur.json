@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-58-churachandpur",
+  "constituency": {
+    "number": 58,
+    "name": "Churachandpur",
+    "district": "Churachandpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "L.M. Khaute",
+    "election": "2022",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Ex-DGP, Govt. Of Manipur (Pensioner) And Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A In Politics (International Studies) From Jawaharlal Nehru University(JNU), New Delhi-1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15393600,
+      "immovable": 58238000,
+      "total": 73631600,
+      "liabilities": 1049590
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=171",
+    "retrieved": "2026-08-27"
+  }
+}

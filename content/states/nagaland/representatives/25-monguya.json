@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-25-monguya",
+  "constituency": {
+    "number": 25,
+    "name": "Monguya",
+    "district": "Mokokchung",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Imkongmar",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Baptist High College, Kohima, Year-1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11795502,
+      "immovable": 17070000,
+      "total": 28865502,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6869",
+    "retrieved": "2026-08-27"
+  }
+}

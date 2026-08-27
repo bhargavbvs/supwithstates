@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-25-anni",
+  "constituency": {
+    "number": 25,
+    "name": "Anni",
+    "district": "Kullu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Lokender Kumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in History & Social Work, from H.P. University, Shimla, HP"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 856000,
+      "immovable": 2000000,
+      "total": 2900000,
+      "liabilities": 45000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=63",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-53-tuensang-sadar-i",
+  "constituency": {
+    "number": 53,
+    "name": "Tuensang Sadar-I",
+    "district": "Tuensang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "P. Bashangmongba Chang",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Business & Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Class 12 From Board of Higher Secondary Examination, Tamil Nadu, Year-1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2987831,
+      "immovable": 21000000,
+      "total": 23987831,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6820",
+    "retrieved": "2026-08-27"
+  }
+}

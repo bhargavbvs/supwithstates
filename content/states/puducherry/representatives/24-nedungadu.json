@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-24-nedungadu",
+  "constituency": {
+    "number": 24,
+    "name": "Nedungadu",
+    "district": "Karaikal",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. V. Vigneswaran",
+    "election": "2026",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S., PONDICHERRY UNIVERSITY - 2007 M.H.Sc., (Dialectology) - ANNAMALAI UNIVERSITY .2012"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 595565,
+      "immovable": 8000000,
+      "total": 8595566,
+      "liabilities": 13255999
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-35-ranikor",
+  "constituency": {
+    "number": 35,
+    "name": "Ranikor",
+    "district": "South West Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pius Marwein",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 31,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSSLC (Arts) from 103 Chandrapur Senior Secondary School, Guwahati, AHSEC in 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 56642465,
+      "immovable": 20700000,
+      "total": 82243114,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6835",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-114-sanour",
+  "constituency": {
+    "number": 114,
+    "name": "Sanour",
+    "district": "Patiala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harmit Singh Pathanmajra",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Bihar School Examination Board in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -21713923,
+      "immovable": 45900000,
+      "total": 24186077,
+      "liabilities": 400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1213",
+    "retrieved": "2026-08-27"
+  }
+}

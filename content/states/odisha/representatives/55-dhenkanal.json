@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-55-dhenkanal",
+  "constituency": {
+    "number": 55,
+    "name": "Dhenkanal",
+    "district": "Dhenkanal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krushna Chandra Patra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. Utkal University, 1988, LLB, Utkal University, 1992"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2158237,
+      "immovable": 74500000,
+      "total": 76658237,
+      "liabilities": 450000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=676",
+    "retrieved": "2026-08-27"
+  }
+}

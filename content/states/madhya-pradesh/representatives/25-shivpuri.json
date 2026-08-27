@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-25-shivpuri",
+  "constituency": {
+    "number": 25,
+    "name": "Shivpuri",
+    "district": "Shivpuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Devendra Kumar Jain",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Agriculture, Business and Former MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com 1974 Govt. Postgraduate University Shivpuri , Jiwaji University Gwalior"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 138672162,
+      "immovable": 140724560,
+      "total": 279396722,
+      "liabilities": 68974013
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=622",
+    "retrieved": "2026-08-27"
+  }
+}

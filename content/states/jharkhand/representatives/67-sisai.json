@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-67-sisai",
+  "constituency": {
+    "number": 67,
+    "name": "Sisai",
+    "district": "Gumla",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jiga Susaran Horo",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Agriculture, MLA Salary and Allowances",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric Year 2006 Hindi Vidyapeeth Deoghar Jharkhand"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 8904616,
+      "immovable": 4220160,
+      "total": 13124776,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=227",
+    "retrieved": "2026-08-27"
+  }
+}

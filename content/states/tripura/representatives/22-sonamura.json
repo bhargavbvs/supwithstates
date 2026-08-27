@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-22-sonamura",
+  "constituency": {
+    "number": 22,
+    "name": "Sonamura",
+    "district": "Sepahijala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shyamal Chakraborty",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "H.S. Passed from N.C. Institution Sonamura W.B.S.E. in 1973"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 534073,
+      "immovable": 11900000,
+      "total": 12434074,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6807",
+    "retrieved": "2026-08-27"
+  }
+}

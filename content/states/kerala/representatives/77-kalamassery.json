@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-77-kalamassery",
+  "constituency": {
+    "number": 77,
+    "name": "Kalamassery",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv V E Abdul Gafoor",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor in Law (LLB) from Kerala Law Academy Law College, Thiruvananthapuram (Affiliated to University of Kerala), Graduated in the year 2000"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 32098082,
+      "immovable": 56125000,
+      "total": 88223083,
+      "liabilities": 24200070
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-27"
+  }
+}

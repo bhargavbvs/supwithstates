@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-184-kanakapura",
+  "constituency": {
+    "number": 184,
+    "name": "Kanakapura",
+    "district": "R",
+    "reserved": null
+  },
+  "representative": {
+    "name": "D K Shivakumar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Agriculturist, Businessmen, Educationist and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Degree- (Master of Arts in Political Science) Year 2006, Karnataka State Open University Mysore"
+    },
+    "declared_cases": {
+      "total": 19,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2734160465,
+      "immovable": 11403841938,
+      "total": 14138002404,
+      "liabilities": 5030730087
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7433",
+    "retrieved": "2026-08-27"
+  }
+}

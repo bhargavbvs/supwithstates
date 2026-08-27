@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-180-pudukkottai",
+  "constituency": {
+    "number": 180,
+    "name": "Pudukkottai",
+    "district": "Pudukkottai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V. Muthuraja",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Doctor and Pharmaceutical Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "M.B.B.S. from Salem Vinayaka Medical College,The Tamilnadu Dr.M.G.R. Medical University-Dec 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45015037,
+      "immovable": 78247540,
+      "total": 123262577,
+      "liabilities": 22064374
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1345",
+    "retrieved": "2026-08-27"
+  }
+}

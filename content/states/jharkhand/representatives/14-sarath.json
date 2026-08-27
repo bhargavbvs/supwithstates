@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-14-sarath",
+  "constituency": {
+    "number": 14,
+    "name": "Sarath",
+    "district": "Deoghar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Uday Shankar Singh",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 67,
+    "profession": "Ex MLA, Farmer (Agriculture)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed Higher Secondary School from JCB School, Jamtara Year 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45918135,
+      "immovable": 77610500,
+      "total": 117230861,
+      "liabilities": 2512808
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=924",
+    "retrieved": "2026-08-27"
+  }
+}

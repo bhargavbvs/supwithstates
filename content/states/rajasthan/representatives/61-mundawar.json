@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-61-mundawar",
+  "constituency": {
+    "number": 61,
+    "name": "Mundawar",
+    "district": "Khairthal-Tijara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lalit Yadav",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Graduate, Rajasthan University, Jaipur 2011"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 820000,
+      "immovable": 3500000,
+      "total": 4320000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=46",
+    "retrieved": "2026-08-27"
+  }
+}

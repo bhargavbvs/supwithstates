@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-67-ramgarh",
+  "constituency": {
+    "number": 67,
+    "name": "Ramgarh",
+    "district": "Alwar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sukhavant Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture Work & Shop Rent Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate (Commercial) Year 1988 Maharshi Dayanand Saraswati University, Ajmer"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5986231,
+      "immovable": 23705330,
+      "total": 29341561,
+      "liabilities": 3200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1956",
+    "retrieved": "2026-08-27"
+  }
+}

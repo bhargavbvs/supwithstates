@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-46-bhatapara",
+  "constituency": {
+    "number": 46,
+    "name": "Bhatapara",
+    "district": "Baloda Bazar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Indra Kumar Sao",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture, Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. Final from Govt Science College Raipur-1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2906891,
+      "immovable": 21600000,
+      "total": 24506891,
+      "liabilities": 550000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=413",
+    "retrieved": "2026-08-27"
+  }
+}

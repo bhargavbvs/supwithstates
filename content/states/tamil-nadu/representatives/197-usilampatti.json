@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-197-usilampatti",
+  "constituency": {
+    "number": 197,
+    "name": "Usilampatti",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay. M",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": "Mercury Broilers",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BABL From Ambedkar Law College Madurai April 2010, PUC From Private Study Tamil Nadu Government Syllabus 2004, SSLC From Private Study Tamil Nadu Government Syllabus 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8537000,
+      "immovable": 1930000,
+      "total": 10467000,
+      "liabilities": 4721455
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=958",
+    "retrieved": "2026-08-27"
+  }
+}

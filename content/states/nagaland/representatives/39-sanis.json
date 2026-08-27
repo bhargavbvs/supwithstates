@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-39-sanis",
+  "constituency": {
+    "number": 39,
+    "name": "Sanis",
+    "district": "Wokha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mhathung Yanthan",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Retired Govt. Servant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc Agriculture, Orissa University of Agriculture & Technology (OUAT) Bhubaneshwar In 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28398825,
+      "immovable": 55600000,
+      "total": 83998825,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6916",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-68-dakha",
+  "constituency": {
+    "number": 68,
+    "name": "Dakha",
+    "district": "Ludhiana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manpreet Singh Ayali",
+    "election": "2022",
+    "elected_party": "SAD",
+    "current_party": "SAD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Completed Bachelor of Arts-lst Year from Govt. College (Punjab University) Ludhiana in 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 35264865,
+      "immovable": 261865042,
+      "total": 297129907,
+      "liabilities": 3777822
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=49",
+    "retrieved": "2026-08-27"
+  }
+}

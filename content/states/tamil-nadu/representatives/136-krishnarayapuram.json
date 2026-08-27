@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-136-krishnarayapuram",
+  "constituency": {
+    "number": 136,
+    "name": "Krishnarayapuram",
+    "district": "Karur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sathya. M",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "School Principal",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA., From Annamalai University Chidhambaram Year 2015 . M.Ed., From Kaliammal College of Education, Karur Year 2022."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1185000,
+      "immovable": 0,
+      "total": 1185000,
+      "liabilities": 300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=2690",
+    "retrieved": "2026-08-27"
+  }
+}

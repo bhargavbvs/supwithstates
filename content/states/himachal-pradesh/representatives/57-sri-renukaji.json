@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-57-sri-renukaji",
+  "constituency": {
+    "number": 57,
+    "name": "Sri Renukaji",
+    "district": "Sirmaur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vinay Kumar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Politician & CPS/MLA in HP & Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from Punjab School Education Board in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17934682,
+      "immovable": 77200000,
+      "total": 85739414,
+      "liabilities": 10335872
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=79",
+    "retrieved": "2026-08-27"
+  }
+}

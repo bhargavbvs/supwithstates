@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-75-kalghatgi",
+  "constituency": {
+    "number": 75,
+    "name": "Kalghatgi",
+    "district": "Dh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Santosh S Lad",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Business/Entrepreneur",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from SESS College Sandur, Bellary District in 1997"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 7,
+      "note": null
+    },
+    "assets": {
+      "movable": 1303461497,
+      "immovable": 84833955,
+      "total": 1388295352,
+      "liabilities": 263932858
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7428",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-33-navelim",
+  "constituency": {
+    "number": 33,
+    "name": "Navelim",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ulhas Tuenkar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Social Worker, Sitting, Z.P. (13-Davorlim member)",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Fitter, Industrial Trainng Institute, Farmagudi, Goa in 1982."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9096510,
+      "immovable": 14000000,
+      "total": 23096512,
+      "liabilities": 110000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=115",
+    "retrieved": "2026-08-27"
+  }
+}

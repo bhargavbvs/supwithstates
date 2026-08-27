@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-57-dalu",
+  "constituency": {
+    "number": 57,
+    "name": "Dalu",
+    "district": "West G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Brening A. Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com Passed in the year 2018 under Indira Gandhi National Open University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22209973,
+      "immovable": 136399285,
+      "total": 160144107,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6847",
+    "retrieved": "2026-08-27"
+  }
+}

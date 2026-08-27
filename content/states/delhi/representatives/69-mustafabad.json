@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-69-mustafabad",
+  "constituency": {
+    "number": 69,
+    "name": "Mustafabad",
+    "district": "North East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohan Singh Bisht",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 67,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate From GB Pant Inter College Dayeal, Distt. Almorah Uttarakhand Year 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5593737,
+      "immovable": 72700000,
+      "total": 78293737,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=303",
+    "retrieved": "2026-08-27"
+  }
+}

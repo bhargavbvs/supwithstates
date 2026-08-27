@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-3-timarpur",
+  "constituency": {
+    "number": 3,
+    "name": "Timarpur",
+    "district": "North",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surya Prakash Khatri",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 62,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Campus Law Centre, Faculty of Law in 1990, B.A. from Hansraj College in 1985, Delhi University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 77150712,
+      "immovable": 192000000,
+      "total": 269150712,
+      "liabilities": 28831481
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=120",
+    "retrieved": "2026-08-27"
+  }
+}

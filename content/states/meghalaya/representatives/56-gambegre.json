@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-56-gambegre",
+  "constituency": {
+    "number": 56,
+    "name": "Gambegre",
+    "district": "West G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mehtab Chandee Agitok Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Doctor (Medical) and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Regional Institute of Medical Science, Imphal in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 177581255,
+      "immovable": 163580000,
+      "total": 341161259,
+      "liabilities": 102366490
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7139",
+    "retrieved": "2026-08-27"
+  }
+}

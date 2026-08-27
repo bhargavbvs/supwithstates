@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-22-gharaunda",
+  "constituency": {
+    "number": 22,
+    "name": "Gharaunda",
+    "district": "Karnal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harvinder Kalyan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "MLA (Gharaunda), Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Civil) from Amravati University In 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18364814,
+      "immovable": 51500000,
+      "total": 69864814,
+      "liabilities": 1343168
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=252",
+    "retrieved": "2026-08-27"
+  }
+}

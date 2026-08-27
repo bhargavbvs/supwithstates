@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-31-nagthan",
+  "constituency": {
+    "number": 31,
+    "name": "Nagthan",
+    "district": "Vijayapura",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Katakadhond Vitthal Dondiba",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Agriculture, Social Service and MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.com 2nd Yr Passed"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21135000,
+      "immovable": 33325000,
+      "total": 60460000,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7596",
+    "retrieved": "2026-08-27"
+  }
+}

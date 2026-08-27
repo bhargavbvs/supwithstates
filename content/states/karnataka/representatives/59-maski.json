@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-59-maski",
+  "constituency": {
+    "number": 59,
+    "name": "Maski",
+    "district": "Raich#r",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Basan Gouda Turvihal",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC Sri Vasavi High School Sindhanur"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10316084,
+      "immovable": 20850000,
+      "total": 29965452,
+      "liabilities": 3112602
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7554",
+    "retrieved": "2026-08-27"
+  }
+}

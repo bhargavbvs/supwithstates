@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-117-shutrana",
+  "constituency": {
+    "number": 117,
+    "name": "Shutrana",
+    "district": "Patiala",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kulwant Singh Bazigar",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Sweets Shop (Business)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation Passed from Punjab School Education Board in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 610337,
+      "immovable": 1250000,
+      "total": 1860337,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=134",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-82-balluana",
+  "constituency": {
+    "number": 82,
+    "name": "Balluana",
+    "district": "Fazilka",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Amandeep Singh Musafir",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Manager",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Panjab School Education Board In 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38053784,
+      "immovable": 8000000,
+      "total": 46053784,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=22",
+    "retrieved": "2026-08-27"
+  }
+}

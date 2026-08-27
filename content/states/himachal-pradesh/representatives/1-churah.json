@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-1-churah",
+  "constituency": {
+    "number": 1,
+    "name": "Churah",
+    "district": "Chamba",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Hans Raj",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From Singhania University, Pacheri Bari Rajasthan, Year-2020"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12054981,
+      "immovable": 10900000,
+      "total": 22954981,
+      "liabilities": 3655656
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=125",
+    "retrieved": "2026-08-27"
+  }
+}

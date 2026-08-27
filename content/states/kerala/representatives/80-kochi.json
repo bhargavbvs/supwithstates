@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-80-kochi",
+  "constituency": {
+    "number": 80,
+    "name": "Kochi",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohammed Shiyas",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Economics From UC College, Aluva, MG University, Year-2000"
+    },
+    "declared_cases": {
+      "total": 52,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 39,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4205466,
+      "immovable": 28865000,
+      "total": 33055493,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-27"
+  }
+}

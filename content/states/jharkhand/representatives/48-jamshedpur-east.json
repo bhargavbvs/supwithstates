@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-48-jamshedpur-east",
+  "constituency": {
+    "number": 48,
+    "name": "Jamshedpur East",
+    "district": "East Singhbhum",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Purnima Sahu",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 30,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "P.G.D.C. From Gurukul Mahila Mahabidyalaya Raipur, Year-2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10099942,
+      "immovable": 7500000,
+      "total": 17599942,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=418",
+    "retrieved": "2026-08-27"
+  }
+}

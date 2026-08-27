@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-18-poriem",
+  "constituency": {
+    "number": 18,
+    "name": "Poriem",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deviya Vishwajit Rane",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from Goa Medical College In 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 67604107,
+      "immovable": 169226488,
+      "total": 231810596,
+      "liabilities": 116298925
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=254",
+    "retrieved": "2026-08-27"
+  }
+}

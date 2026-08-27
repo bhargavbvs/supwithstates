@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-213-heggadadevankote",
+  "constituency": {
+    "number": 213,
+    "name": "Heggadadevankote",
+    "district": "Mys#ru",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Anil Chikkamadhu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC- Talent High School Hunsuru, 2005, Mysore District"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15352360,
+      "immovable": 125720913,
+      "total": 149443273,
+      "liabilities": 20451438
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7995",
+    "retrieved": "2026-08-27"
+  }
+}

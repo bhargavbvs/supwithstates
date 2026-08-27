@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-181-thirumayam",
+  "constituency": {
+    "number": 181,
+    "name": "Thirumayam",
+    "district": "Pudukkottai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Regupathy.S",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.L From College of Law Chennai 1973. B.Sc. From Majesty College Pudukkottai Chennai University 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 130582193,
+      "immovable": 130106000,
+      "total": 260688193,
+      "liabilities": 1439753
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1260",
+    "retrieved": "2026-08-27"
+  }
+}

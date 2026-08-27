@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-31-raghogarh",
+  "constituency": {
+    "number": 31,
+    "name": "Raghogarh",
+    "district": "Guna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jaivardhan Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 37,
+    "profession": "MLA Salary Allowance , Rent, Interest & Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Postgraduate, M.P.A. Master in Public Administration in International Development Practice) School of International and School of International and Public Affairs Columbia University New York Year 2013"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 162746288,
+      "immovable": 485304551,
+      "total": 648050839,
+      "liabilities": 48332927
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=380",
+    "retrieved": "2026-08-27"
+  }
+}

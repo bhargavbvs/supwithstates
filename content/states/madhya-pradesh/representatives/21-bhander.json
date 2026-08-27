@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-21-bhander",
+  "constituency": {
+    "number": 21,
+    "name": "Bhander",
+    "district": "Datia",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Phool Singh Baraiya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Agriculture and Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. Mechanical MITS Gwalior in 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6413554,
+      "immovable": 18000000,
+      "total": 24413554,
+      "liabilities": 28093905
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1131",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-190-badwani",
+  "constituency": {
+    "number": 190,
+    "name": "Badwani",
+    "district": "Barwani",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rajan Mandloi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A.I.M.S.Indore From Devi Ahilya Vishwavidyalaya, Indore Year 2015, M.A. Political Science Post Graduate From University Barwani , Devi Ahilya Vishwavidyalaya Year 2006"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7991398,
+      "immovable": 44423600,
+      "total": 52414998,
+      "liabilities": 13160164
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2928",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-21-koloriang",
+  "constituency": {
+    "number": 21,
+    "name": "Koloriang",
+    "district": "Kurung Kumey",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pani Taram",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Political Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. (Hons.) JNC College Pasighat Year 1995-96"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9092313,
+      "immovable": 0,
+      "total": 9092313,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=134",
+    "retrieved": "2026-08-27"
+  }
+}

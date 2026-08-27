@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-53-majhgaon",
+  "constituency": {
+    "number": 53,
+    "name": "Majhgaon",
+    "district": "West Singhbhum",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Niral Purty",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Farmer & Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate , BIEC Patna 1989 LBS College Karandih Jashedpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26123705,
+      "immovable": 11023200,
+      "total": 37146908,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=403",
+    "retrieved": "2026-08-27"
+  }
+}

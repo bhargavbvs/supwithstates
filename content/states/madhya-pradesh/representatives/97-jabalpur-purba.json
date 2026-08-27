@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-97-jabalpur-purba",
+  "constituency": {
+    "number": 97,
+    "name": "Jabalpur Purba",
+    "district": "Jabalpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Lakhan Ghanghoria",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Legislative salaries, agricultural income, rent rates.",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Higher Secondary Mahakaushal U.M.V. 1997(A.P. Board), B.S.C. Shaskiy Science Mahavidyalay/R.D.V.V, Jabalpur 2001 (Rani Durgavati Vishavvidyalay, Jabalpur), LLB Hitkarni vidhi Mahavidyalay/R.D.V.V Year 2001"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 180238399,
+      "immovable": 61220000,
+      "total": 241458399,
+      "liabilities": 44135536
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=146",
+    "retrieved": "2026-08-27"
+  }
+}

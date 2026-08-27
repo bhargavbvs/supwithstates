@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-30-phillaur",
+  "constituency": {
+    "number": 30,
+    "name": "Phillaur",
+    "district": "Jalandhar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vikramjit Singh Chaudhary",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Govt. College Jalandhar in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22063930,
+      "immovable": 57743300,
+      "total": 79807230,
+      "liabilities": 3596360
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=962",
+    "retrieved": "2026-08-27"
+  }
+}

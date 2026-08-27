@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-174-mahadevapura",
+  "constituency": {
+    "number": 174,
+    "name": "Mahadevapura",
+    "district": "Bengal#ru (Urban)",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Manjula S",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Business & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Second Pre university College NMKRV Bangalore 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 196011467,
+      "immovable": 329610000,
+      "total": 530051631,
+      "liabilities": 182563952
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7526",
+    "retrieved": "2026-08-27"
+  }
+}

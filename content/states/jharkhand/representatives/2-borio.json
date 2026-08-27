@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-2-borio",
+  "constituency": {
+    "number": 2,
+    "name": "Borio",
+    "district": "Sahibganj",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dhananjay Soren",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 36,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric From R.K. High School, Jharkhand Adhividhya Parishad, Ranchi, Year-2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4521413,
+      "immovable": 2000000,
+      "total": 6584416,
+      "liabilities": 710000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=892",
+    "retrieved": "2026-08-27"
+  }
+}

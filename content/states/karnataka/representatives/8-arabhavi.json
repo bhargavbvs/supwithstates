@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-8-arabhavi",
+  "constituency": {
+    "number": 8,
+    "name": "Arabhavi",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balachandra Laxmanrao Jarkiholi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "PUC 1st From J S S Arts, Science and Commerce College, Gokak, Year-1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45607131,
+      "immovable": 311385052,
+      "total": 356992186,
+      "liabilities": 1750000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7778",
+    "retrieved": "2026-08-27"
+  }
+}

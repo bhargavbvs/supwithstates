@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-15-nagrota",
+  "constituency": {
+    "number": 15,
+    "name": "Nagrota",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R.S. Bali",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Politician, Business owner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BHM (Bachelors Degree in Hotel Management) from M.S. Ramaiah College of Hotel Management, Bengaluru Completed in 2002"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 149027042,
+      "immovable": 774600000,
+      "total": 923627042,
+      "liabilities": 61871356
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=156",
+    "retrieved": "2026-08-27"
+  }
+}

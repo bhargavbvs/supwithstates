@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-231-colachel",
+  "constituency": {
+    "number": 231,
+    "name": "Colachel",
+    "district": "Kanniyakumari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tharahai Cuthbert",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Proprietor And Taraz Readymade Garments And Uniform Manufacturing Unit",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From Manonmaniam Sundaranar University, Tirunelveli, Year-2020 & MBA From Madurai Kamaraj University, Madurai, Year-2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35614039,
+      "immovable": 9500000,
+      "total": 45114039,
+      "liabilities": 4122000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1388",
+    "retrieved": "2026-08-27"
+  }
+}

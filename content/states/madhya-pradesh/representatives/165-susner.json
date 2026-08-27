@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-165-susner",
+  "constituency": {
+    "number": 165,
+    "name": "Susner",
+    "district": "Agar Malwa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhairon Singh (Bapu)",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Passed 10th (High School) from Govt.H S School Barod Year 1988 Dist. Agar Malwa Madhya Pradesh."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13889806,
+      "immovable": 37750000,
+      "total": 51639806,
+      "liabilities": 4712304
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=98",
+    "retrieved": "2026-08-27"
+  }
+}

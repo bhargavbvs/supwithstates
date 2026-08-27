@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-36-nari-koyu",
+  "constituency": {
+    "number": 36,
+    "name": "Nari-Koyu",
+    "district": "Lower Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tojir Kadu",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Public Leader & Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce (Honours) from Jawaharlal Nehru College, Pasighat under Arunachal University (now RGU) in the year 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 26925800,
+      "immovable": 82700000,
+      "total": 109625800,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=62",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-13-muthialpet",
+  "constituency": {
+    "number": 13,
+    "name": "Muthialpet",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vaiyapuri Manikandan",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Umayal Agencies Owner,Puducherry-605003",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.B.A. - Bachelor of Business Administration,Annamalai University,December 2010."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7662889,
+      "immovable": 37030000,
+      "total": 44692890,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-27"
+  }
+}

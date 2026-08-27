@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-54-lohaghat",
+  "constituency": {
+    "number": 54,
+    "name": "Lohaghat",
+    "district": "Champ>wat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khushal Singh Adhikari",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed From NIOS Education Board in 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 136302937,
+      "immovable": 166700000,
+      "total": 305017339,
+      "liabilities": 37845711
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=20",
+    "retrieved": "2026-08-27"
+  }
+}

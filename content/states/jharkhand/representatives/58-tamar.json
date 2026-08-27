@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-58-tamar",
+  "constituency": {
+    "number": 58,
+    "name": "Tamar",
+    "district": "Ranchi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vikas Kumar Munda",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Utkal University, Odissa, Year-2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9707585,
+      "immovable": 2125000,
+      "total": 11832585,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=333",
+    "retrieved": "2026-08-27"
+  }
+}

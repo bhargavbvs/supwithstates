@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-76-firozpur-city",
+  "constituency": {
+    "number": 76,
+    "name": "Firozpur City",
+    "district": "Firozpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ranbir Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 50,
+    "profession": "Business and Aggriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Punjab University Chandigarh in 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1800023,
+      "immovable": 21894375,
+      "total": 23694398,
+      "liabilities": 819667
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=67",
+    "retrieved": "2026-08-27"
+  }
+}

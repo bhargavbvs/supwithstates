@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-10-northern-angami-i",
+  "constituency": {
+    "number": 10,
+    "name": "Northern Angami - I",
+    "district": "Kohima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr.Kekhrielhoulie Yhome",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Social Worker / Academician",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy from Jawaharlal Nehru University, New Delhi- 110067 in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12768323,
+      "immovable": 128900000,
+      "total": 141268343,
+      "liabilities": 1521054
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6904",
+    "retrieved": "2026-08-27"
+  }
+}

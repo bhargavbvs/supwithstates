@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-228-radhapuram",
+  "constituency": {
+    "number": 228,
+    "name": "Radhapuram",
+    "district": "Tirunelveli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr.Sathish Christopher",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Doctor (Consultant Bariatric, Laparoscopic, Laser Surgeon & Robotic Surgeon)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS From JJM Medical College, Devangere, Karnataka (Rajiv Gandhi University, Karnataka) in 2009, FALS Robotics from IAGES, recognized for Minimally Invasive training by IFSES in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14665229,
+      "immovable": 0,
+      "total": 14664692,
+      "liabilities": 33722486
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1068",
+    "retrieved": "2026-08-27"
+  }
+}

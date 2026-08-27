@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-54-namsang",
+  "constituency": {
+    "number": 54,
+    "name": "Namsang",
+    "district": "Tir>p",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Wangki Lowang",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 61,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration (MBA) from Indian Institute of Business Management, Patna University in 1988, Bachelor of Arts (BA) from Government College, Itanagar, under Punjabn University in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 164700065,
+      "immovable": 12262500,
+      "total": 176962568,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=61",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-33-kondotty",
+  "constituency": {
+    "number": 33,
+    "name": "Kondotty",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T.P. Ashrafali",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Islamic Studies(2011-13), Saafi Institute of Advanced Studies Vazhayur(Calicut University)"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7070517,
+      "immovable": 3315276,
+      "total": 10385794,
+      "liabilities": 8000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=130",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-11-namchi-singhithang",
+  "constituency": {
+    "number": 11,
+    "name": "Namchi-Singhithang",
+    "district": "Namchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satish Chandra Rai",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed Class XIIth from Open School, Central Board of Secondary Education in the Year 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1096541,
+      "immovable": 61520794,
+      "total": 62617336,
+      "liabilities": 11371877
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=152",
+    "retrieved": "2026-08-27"
+  }
+}

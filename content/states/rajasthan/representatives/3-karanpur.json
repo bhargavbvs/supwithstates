@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-3-karanpur",
+  "constituency": {
+    "number": 3,
+    "name": "Karanpur",
+    "district": "Ganganagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rupinder Singh Kooner",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Salary, Business , Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10+2 Pass 1996 Guru annak Public School Kanpur CBSE Passed"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 146699277,
+      "immovable": 234300000,
+      "total": 427065580,
+      "liabilities": 714043
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1882",
+    "retrieved": "2026-08-27"
+  }
+}

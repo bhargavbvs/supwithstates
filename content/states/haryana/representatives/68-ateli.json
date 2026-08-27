@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-68-ateli",
+  "constituency": {
+    "number": 68,
+    "name": "Ateli",
+    "district": "Mahendragarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arti Singh Rao",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Director in Company",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (English) from Delhi University in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 139165362,
+      "immovable": 543588092,
+      "total": 682753454,
+      "liabilities": 25500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=172",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-37-palam",
+  "constituency": {
+    "number": 37,
+    "name": "Palam",
+    "district": "South West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kuldeep Solanki",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 58,
+    "profession": "Business, Social Worker, Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From Govt Boys Sr.Secondary School Delhi Cantt N. Delhi 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30174228,
+      "immovable": 106118352,
+      "total": 136242582,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=330",
+    "retrieved": "2026-08-27"
+  }
+}

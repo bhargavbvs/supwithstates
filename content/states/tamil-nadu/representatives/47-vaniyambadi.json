@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-47-vaniyambadi",
+  "constituency": {
+    "number": 47,
+    "name": "Vaniyambadi",
+    "district": "Tirupathur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Syed Farooq Basha Ssb",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 64,
+    "profession": "Mango Business And Real Estate.",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "5th Pass From Alangayam Govt Primary School, April - 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10590135,
+      "immovable": 22118000,
+      "total": 32708135,
+      "liabilities": 2419130
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1308",
+    "retrieved": "2026-08-27"
+  }
+}

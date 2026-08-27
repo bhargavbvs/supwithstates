@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-99-jabalpur-cantt",
+  "constituency": {
+    "number": 99,
+    "name": "Jabalpur Cantt.",
+    "district": "Jabalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Ishwardas Rohani",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "MLA, Public Representative",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Hitkari Higher Secondary School, Jabalpur (Madhyamik Shiksha Mandal Bhopal Board) in 1981-82"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10723116,
+      "immovable": 39260235,
+      "total": 49983351,
+      "liabilities": 15058320
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=512",
+    "retrieved": "2026-08-27"
+  }
+}

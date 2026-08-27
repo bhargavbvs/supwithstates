@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-112-bhadravati",
+  "constituency": {
+    "number": 112,
+    "name": "Bhadravati",
+    "district": "Shivamogga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B.K. Sanagameshwara",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC ,Bhadra High School,Halappa Circle ,Bhadravathi"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 26496861,
+      "immovable": 43251550,
+      "total": 69748411,
+      "liabilities": 28386203
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7866",
+    "retrieved": "2026-08-27"
+  }
+}

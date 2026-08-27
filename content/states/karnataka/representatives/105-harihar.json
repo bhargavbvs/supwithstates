@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-105-harihar",
+  "constituency": {
+    "number": 105,
+    "name": "Harihar",
+    "district": "D",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B P Harish",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A- M.S.B.College Davangere -1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14939331,
+      "immovable": 42400000,
+      "total": 57339331,
+      "liabilities": 12341925
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7799",
+    "retrieved": "2026-08-27"
+  }
+}

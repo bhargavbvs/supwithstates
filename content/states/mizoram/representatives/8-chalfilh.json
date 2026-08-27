@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-8-chalfilh",
+  "constituency": {
+    "number": 8,
+    "name": "Chalfilh",
+    "district": "Saitual",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalbiakzama",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com in the year 1998 at North Eastern Hill University (NEHU)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45180544,
+      "immovable": 104822000,
+      "total": 150002544,
+      "liabilities": 24000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=49",
+    "retrieved": "2026-08-27"
+  }
+}

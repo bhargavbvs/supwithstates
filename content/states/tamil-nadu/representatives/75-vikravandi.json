@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-75-vikravandi",
+  "constituency": {
+    "number": 75,
+    "name": "Vikravandi",
+    "district": "Viluppuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sivakumar C",
+    "election": "2026",
+    "elected_party": "Pattali Makkal Katchi",
+    "current_party": "Pattali Makkal Katchi",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th standard-Thiru kamarajar Municipal Higher Secondary School, Villupuram, Department of School Education, Government of Tamil Nadu-1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 20726318,
+      "immovable": 20519500,
+      "total": 41245818,
+      "liabilities": 13462828
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1316",
+    "retrieved": "2026-08-27"
+  }
+}

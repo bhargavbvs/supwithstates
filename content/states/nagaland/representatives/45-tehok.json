@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-45-tehok",
+  "constituency": {
+    "number": 45,
+    "name": "Tehok",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "C.L John",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Politician, Public Leader",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class IX from Govt. High School, Mon, Nagaland, Nagaland Board of School Education (NBSE) in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2759366,
+      "immovable": 51250000,
+      "total": 53509368,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6834",
+    "retrieved": "2026-08-27"
+  }
+}

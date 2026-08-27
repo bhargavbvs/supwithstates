@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-12-tseminyu",
+  "constituency": {
+    "number": 12,
+    "name": "Tseminyu",
+    "district": "Tseminyu",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jwenga Seb",
+    "election": "2023",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Architect",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Architecture (B.Arch) from College of Engineering Trivandrum, University of Kerala in 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4035341,
+      "immovable": 74500000,
+      "total": 78535343,
+      "liabilities": 1988958
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6825",
+    "retrieved": "2026-08-27"
+  }
+}

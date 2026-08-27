@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-234-killiyoor",
+  "constituency": {
+    "number": 234,
+    "name": "Killiyoor",
+    "district": "Kanniyakumari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Kumar. S",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Vinayaga Mission University -December 2007, Bachelors Of Law V.V Puram College Of Law Bangalore,Bangalore University-May 2005"
+    },
+    "declared_cases": {
+      "total": 13,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 30125663,
+      "immovable": 16000000,
+      "total": 46125665,
+      "liabilities": 6350000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1172",
+    "retrieved": "2026-08-27"
+  }
+}

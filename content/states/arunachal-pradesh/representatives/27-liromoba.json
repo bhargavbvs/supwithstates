@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-27-liromoba",
+  "constituency": {
+    "number": 27,
+    "name": "Liromoba",
+    "district": "West Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pesi Jilen",
+    "election": "2024",
+    "elected_party": "National Peoples Party",
+    "current_party": "National Peoples Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Class XII passed, CBSE from Government Higher Secondary School, Kamba in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9110677,
+      "immovable": 103000000,
+      "total": 112110677,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=48",
+    "retrieved": "2026-08-27"
+  }
+}

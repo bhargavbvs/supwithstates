@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-78-paravur",
+  "constituency": {
+    "number": 78,
+    "name": "Paravur",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.V.D.Satheesan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Of Law University Of Kerala 1990"
+    },
+    "declared_cases": {
+      "total": 18,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 23772834,
+      "immovable": 42791336,
+      "total": 66564170,
+      "liabilities": 4145635
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=671",
+    "retrieved": "2026-08-27"
+  }
+}

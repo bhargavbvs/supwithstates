@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-52-kishan-pole",
+  "constituency": {
+    "number": 52,
+    "name": "Kishan Pole",
+    "district": "Jaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amin Kagzi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Maheshwari Public School, Tilak Nagar, Jaipur Board of Secondary Education, Rajasthan Ajmer in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 61066353,
+      "immovable": 10729693,
+      "total": 71796046,
+      "liabilities": 25711804
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=255",
+    "retrieved": "2026-08-27"
+  }
+}

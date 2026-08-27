@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-137-paralakhemundi",
+  "constituency": {
+    "number": 137,
+    "name": "Paralakhemundi",
+    "district": "Gajapati",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rupesh Kumar Panigrahi",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Salary Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B-Tech (Computer Science Engineering) From Jit Gunupur Odisha In Completed 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19974420,
+      "immovable": 11000000,
+      "total": 31003526,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=23",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-57-kharasawan",
+  "constituency": {
+    "number": 57,
+    "name": "Kharasawan",
+    "district": "Saraikela-Kharsawan",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dashrath Gagrai",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "MLA and Cultivation",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (Political Science Honours) from Jawahar Lal Nehru College, Chakradharpur Under Ranchi University in 2009"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 39653336,
+      "immovable": 21670000,
+      "total": 61323336,
+      "liabilities": 7559355
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=135",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-24-panipat-rural",
+  "constituency": {
+    "number": 24,
+    "name": "Panipat Rural",
+    "district": "Panipat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahipal Dhanda",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from KUK Kurukshetra in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 80613999,
+      "immovable": 62770593,
+      "total": 142918920,
+      "liabilities": 16052210
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=381",
+    "retrieved": "2026-08-27"
+  }
+}

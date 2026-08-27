@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-14-st-andre",
+  "constituency": {
+    "number": 14,
+    "name": "St. Andre",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Viresh Mukesh Borkar",
+    "election": "2022",
+    "elected_party": "Revolutionary Goans Party",
+    "current_party": "Revolutionary Goans Party",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 28,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSSC from Fr. Agnel Higher Secondary School Goa Board in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 829155,
+      "immovable": 0,
+      "total": 829155,
+      "liabilities": 396719
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=199",
+    "retrieved": "2026-08-27"
+  }
+}

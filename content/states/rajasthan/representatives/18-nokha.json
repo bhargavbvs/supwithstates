@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-18-nokha",
+  "constituency": {
+    "number": 18,
+    "name": "Nokha",
+    "district": "Bikaner",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sushila Rameshwar Dudi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Director (Dunac Automobiles Pvt. Ltd.), Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "2nd year B.Sc from University of Ajmer"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 100763000,
+      "immovable": 78383000,
+      "total": 179156000,
+      "liabilities": 78412000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1680",
+    "retrieved": "2026-08-27"
+  }
+}

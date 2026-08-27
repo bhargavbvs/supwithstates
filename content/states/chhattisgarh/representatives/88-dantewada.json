@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-88-dantewada",
+  "constituency": {
+    "number": 88,
+    "name": "Dantewada",
+    "district": "Dakshin Bastar Dantewara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chaitram Atami",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From Chhattisgarh State Open School, Raipur, Year-2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3118633,
+      "immovable": 900000,
+      "total": 4018633,
+      "liabilities": 496000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=24",
+    "retrieved": "2026-08-27"
+  }
+}

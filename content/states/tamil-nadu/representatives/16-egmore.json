@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-16-egmore",
+  "constituency": {
+    "number": 16,
+    "name": "Egmore",
+    "district": "Chennai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajmohan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Media Presenter/ Youtube Channel Owner",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A., (Journalism and Mass Communication) from Madurai Kamaraj University in 2018, Diploma (Business Management) from Indian Institute of & Technology, Chennai in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13710000,
+      "immovable": 3900000,
+      "total": 20300000,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1377",
+    "retrieved": "2026-08-27"
+  }
+}

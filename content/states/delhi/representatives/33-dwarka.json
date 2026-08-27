@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-33-dwarka",
+  "constituency": {
+    "number": 33,
+    "name": "Dwarka",
+    "district": "South West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Parduymn Singh Rajput",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Industrialist and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Sociology from CCS University Meerut in 1986"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 50423624,
+      "immovable": 374892963,
+      "total": 425316587,
+      "liabilities": 102256081
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=185",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-121-kapu",
+  "constituency": {
+    "number": 121,
+    "name": "Kapu",
+    "district": "Udupi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gurme Suresh Shetty",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from Veerashaiva College, Bellary, Gulbargha University in 1994"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 138558212,
+      "immovable": 194400000,
+      "total": 332958223,
+      "liabilities": 38535062
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7447",
+    "retrieved": "2026-08-27"
+  }
+}

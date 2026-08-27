@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-173-khategaon",
+  "constituency": {
+    "number": 173,
+    "name": "Khategaon",
+    "district": "Dewas",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aashish Govind Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "MLA and Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Politics and Law Graduate from Shri Krishnaji Rao Pawar University Dewas and Vikram University Ujjain"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7275678,
+      "immovable": 6200000,
+      "total": 13475678,
+      "liabilities": 1437952
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=58",
+    "retrieved": "2026-08-27"
+  }
+}

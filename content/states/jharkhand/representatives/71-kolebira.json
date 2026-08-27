@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-71-kolebira",
+  "constituency": {
+    "number": 71,
+    "name": "Kolebira",
+    "district": "Simdega",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Naman Bixal Kongari",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "MLA, 71 Kolebira",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Ranchi University Ranchi in Year 2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7552601,
+      "immovable": 5846444,
+      "total": 13399046,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=381",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-33-kartarpur",
+  "constituency": {
+    "number": 33,
+    "name": "Kartarpur",
+    "district": "Jalandhar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Balkar Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Retired DCP",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed From Khalsa College Of Education Amritsar in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11707110,
+      "immovable": 28516000,
+      "total": 40223110,
+      "liabilities": 1046147
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=106",
+    "retrieved": "2026-08-27"
+  }
+}

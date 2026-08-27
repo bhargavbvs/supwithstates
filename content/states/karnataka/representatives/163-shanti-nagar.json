@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-163-shanti-nagar",
+  "constituency": {
+    "number": 163,
+    "name": "Shanti Nagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "N. A. Haris",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Managing Director , Nalapad Group of Companies",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in History Karnataka State Open University Year 2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1676995028,
+      "immovable": 2720209184,
+      "total": 4392099180,
+      "liabilities": 283057896
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7674",
+    "retrieved": "2026-08-27"
+  }
+}

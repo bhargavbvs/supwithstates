@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-58-pawai",
+  "constituency": {
+    "number": 58,
+    "name": "Pawai",
+    "district": "Panna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prahlad Lodhi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Pass from Govt. High. Secondary School Banauli In 1983"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3027320,
+      "immovable": 2650000,
+      "total": 5677320,
+      "liabilities": 1076107
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=179",
+    "retrieved": "2026-08-27"
+  }
+}

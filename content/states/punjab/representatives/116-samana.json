@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-116-samana",
+  "constituency": {
+    "number": 116,
+    "name": "Samana",
+    "district": "Patiala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chetan Singh Jouramajra",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "(10+2) Higher Secondary Passed From Punjab School Education Punjab in 1994"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3430261,
+      "immovable": 8846000,
+      "total": 12276261,
+      "liabilities": 3789350
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=152",
+    "retrieved": "2026-08-27"
+  }
+}

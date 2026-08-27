@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-63-tiruvannamalai",
+  "constituency": {
+    "number": 63,
+    "name": "Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Velu. E.V",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 76,
+    "profession": "Agriculture Politics & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A History Annamalai University Chidambaram Tamil Nadu year March 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33684727,
+      "immovable": 174000000,
+      "total": 207684727,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1293",
+    "retrieved": "2026-08-27"
+  }
+}

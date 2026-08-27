@@ -1,0 +1,25 @@
+{
+  "slug": "haryana",
+  "name": "Haryana",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 90,
+  "district_count": 22,
+  "term": {
+    "start": "2024"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Haryana2024/",
+    "adr_serious_list": "https://www.myneta.info/Haryana2024/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      76.04,
+      29.28
+    ],
+    "zoom": 7
+  }
+}

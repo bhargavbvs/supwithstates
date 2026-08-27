@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-18-chazouba",
+  "constituency": {
+    "number": 18,
+    "name": "Chazouba",
+    "district": "Phek",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kudecho Khamo",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Entrepreneur",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Economics From Nagaland University Year 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9073854,
+      "immovable": 9300000,
+      "total": 18373854,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6779",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-57-kamakhyanagar",
+  "constituency": {
+    "number": 57,
+    "name": "Kamakhyanagar",
+    "district": "Dhenkanal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satrughan Jena",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Cultivation and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Non Collegiate, Utkal University, Year-1997 & B.A. From V.N. College, Jaipur, Utkal University, Year-1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5120217,
+      "immovable": 3945000,
+      "total": 9015172,
+      "liabilities": 5640000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=733",
+    "retrieved": "2026-08-27"
+  }
+}

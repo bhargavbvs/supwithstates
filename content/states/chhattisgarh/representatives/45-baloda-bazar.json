@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-45-baloda-bazar",
+  "constituency": {
+    "number": 45,
+    "name": "Baloda Bazar",
+    "district": "Raipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tank Ram Verma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Retired Teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Sociology) Pandit Ravishankar University Raipur in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8920433,
+      "immovable": 13789150,
+      "total": 24735862,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=409",
+    "retrieved": "2026-08-27"
+  }
+}

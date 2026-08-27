@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-205-bantval",
+  "constituency": {
+    "number": 205,
+    "name": "Bantval",
+    "district": "Dakshina Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Naik U",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Agriculture and Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate from JSS College Mysore In 1978-1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45698127,
+      "immovable": 271723530,
+      "total": 323921952,
+      "liabilities": 52766528
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6931",
+    "retrieved": "2026-08-27"
+  }
+}

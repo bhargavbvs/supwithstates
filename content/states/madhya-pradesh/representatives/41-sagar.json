@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-41-sagar",
+  "constituency": {
+    "number": 41,
+    "name": "Sagar",
+    "district": "Sagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shalendra Kumar Jain",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Salary MLA, Bank Interest, Farming, Beedi Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com 1983-84 Sagar University in Present Dr. Sir Harisingh Gaur Univeristy Sagar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41557907,
+      "immovable": 109479200,
+      "total": 151037107,
+      "liabilities": 28237647
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=6",
+    "retrieved": "2026-08-27"
+  }
+}

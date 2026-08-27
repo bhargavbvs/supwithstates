@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-79-sankarapuram",
+  "constituency": {
+    "number": 79,
+    "name": "Sankarapuram",
+    "district": "Kallakkurichi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh R",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Self-Employed , Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A B.L(Incomplete) In 2011 From Central Law College Salem University, Dr Ambedkar Law University Chennai"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6140400,
+      "immovable": 0,
+      "total": 6140400,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1235",
+    "retrieved": "2026-08-27"
+  }
+}

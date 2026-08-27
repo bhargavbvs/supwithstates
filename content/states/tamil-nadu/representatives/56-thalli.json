@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-56-thalli",
+  "constituency": {
+    "number": 56,
+    "name": "Thalli",
+    "district": "Krishnagiri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramachandran. T",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B. From V.V.Puram Law College, bangalore-1991-1994. B.Sc. From Govt. College, Krishnagiri-1987-1990"
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12734517,
+      "immovable": 66554791,
+      "total": 79289308,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=534",
+    "retrieved": "2026-08-27"
+  }
+}

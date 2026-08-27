@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-68-gokalpur",
+  "constituency": {
+    "number": 68,
+    "name": "Gokalpur",
+    "district": "Shahadara",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Surendra Kumar",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 57,
+    "profession": "MLA, Gokalpur (AC-68) NCT of Delhi & Buinsess",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Electrical Engineering from Institute of Advanced Studies in Education Deemed University, Rajasthan in 2010"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6390497,
+      "immovable": 39170000,
+      "total": 45520497,
+      "liabilities": 32463276
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=264",
+    "retrieved": "2026-08-27"
+  }
+}

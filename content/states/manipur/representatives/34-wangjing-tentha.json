@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-34-wangjing-tentha",
+  "constituency": {
+    "number": 34,
+    "name": "Wangjing Tentha",
+    "district": "Thoubal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Paonam Brojen Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Member Legislative Assembly (MLA)/Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Fergussion College, Pune under Pune University in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10515971,
+      "immovable": 44050073,
+      "total": 54566044,
+      "liabilities": 4318863
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=246",
+    "retrieved": "2026-08-27"
+  }
+}

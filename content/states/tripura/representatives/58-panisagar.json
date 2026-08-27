@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-58-panisagar",
+  "constituency": {
+    "number": 58,
+    "name": "Panisagar",
+    "district": "North Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Binay Bhushan Das",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Gauhati University in 1993, Bachelor of Arts from Calcutta University in 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7107729,
+      "immovable": 16800000,
+      "total": 27007729,
+      "liabilities": 3954774
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6939",
+    "retrieved": "2026-08-27"
+  }
+}

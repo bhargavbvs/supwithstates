@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-38-neema-ka-thana",
+  "constituency": {
+    "number": 38,
+    "name": "Neema Ka Thana",
+    "district": "Neem-Ka-Thana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Modi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Member of Legislative Assembly , Rajasthan",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Chartered Accountant passing Year 1975 From The Institute of Chartered Accountants of India New Delhi , Bachelor of Commerce passing Year 1970 From Rajasthan University , SNKP Govt. College, Neemkathana"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 100742187,
+      "immovable": 39920000,
+      "total": 140369827,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=34",
+    "retrieved": "2026-08-27"
+  }
+}

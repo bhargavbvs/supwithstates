@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-37-jaijaipur",
+  "constituency": {
+    "number": 37,
+    "name": "Jaijaipur",
+    "district": "Sakti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Baleshwar Sahu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 35,
+    "profession": "Agriculture and Business related to agricultural products",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. from Dr. D. V. Raman University Bilaspur (C.G.) in 2016"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7546694,
+      "immovable": 74527415,
+      "total": 82074109,
+      "liabilities": 32604568
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=274",
+    "retrieved": "2026-08-27"
+  }
+}

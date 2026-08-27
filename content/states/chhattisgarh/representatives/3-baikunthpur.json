@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-3-baikunthpur",
+  "constituency": {
+    "number": 3,
+    "name": "Baikunthpur",
+    "district": "Korea",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhaiya Lal Rajwade",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Agriculture, Pension and Interest from Bank",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Pass Shasakiy Ramanuj Ucchatar Madhymik Vidyalay Baikunthpur Dist Koriya Year 1967-68"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8909659,
+      "immovable": 16802670,
+      "total": 25712330,
+      "liabilities": 634379
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=389",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-138-madhugiri",
+  "constituency": {
+    "number": 138,
+    "name": "Madhugiri",
+    "district": "Tumak#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kyathasandra N. Rajanna",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 72,
+    "profession": "Advocate and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Vidyodaya Law College, Tumkur Bangalore University in 1984, B.Sc. from Government Science College, Tumkur Mysore University in 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 142671061,
+      "immovable": 213787212,
+      "total": 350503607,
+      "liabilities": 126760567
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7517",
+    "retrieved": "2026-08-27"
+  }
+}

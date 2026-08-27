@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-63-kashipur",
+  "constituency": {
+    "number": 63,
+    "name": "Kashipur",
+    "district": "Udham Singh Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Trilok Singh Cheema",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Punjab University Chd. in 1985 & Diploma & Business Management in 1986 Rajendra Prasad Inst. Of Comunication & Management, Mumbai"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 219305832,
+      "immovable": 222265609,
+      "total": 441546441,
+      "liabilities": 92057898
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=198",
+    "retrieved": "2026-08-27"
+  }
+}

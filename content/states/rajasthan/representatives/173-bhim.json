@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-173-bhim",
+  "constituency": {
+    "number": 173,
+    "name": "Bhim",
+    "district": "Rajsamand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Harisingh Rawat S/O Panna Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. in 2020 from Jayoti Vidyapeeth Womens University, Jaipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2467014,
+      "immovable": 24700000,
+      "total": 26941272,
+      "liabilities": 2303622
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=81",
+    "retrieved": "2026-08-27"
+  }
+}

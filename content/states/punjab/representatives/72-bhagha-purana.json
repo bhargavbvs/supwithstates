@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-72-bhagha-purana",
+  "constituency": {
+    "number": 72,
+    "name": "Bhagha Purana",
+    "district": "Moga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amritpal Singh Sukhanand",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 32,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Technology (Information Technology) From Swami Vivekanand Institute of Engineering & Technology, Punjab Technical University passed in 2012"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1963095,
+      "immovable": 4314375,
+      "total": 6277470,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=352",
+    "retrieved": "2026-08-27"
+  }
+}

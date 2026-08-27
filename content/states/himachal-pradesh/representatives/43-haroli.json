@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-43-haroli",
+  "constituency": {
+    "number": 43,
+    "name": "Haroli",
+    "district": "Una",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukesh Agnihotri",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Public Relation"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 49825930,
+      "immovable": 11271037,
+      "total": 54732433,
+      "liabilities": 5000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=22",
+    "retrieved": "2026-08-27"
+  }
+}

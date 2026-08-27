@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-28-sultanpur-lodhi",
+  "constituency": {
+    "number": 28,
+    "name": "Sultanpur Lodhi",
+    "district": "Kapurthala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rana Inder Partap Singh",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Agriculture/ Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "BBA, MBA From University of Kent U.K in the Year 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 653358000,
+      "immovable": 44194000,
+      "total": 697552000,
+      "liabilities": 179703000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1111",
+    "retrieved": "2026-08-27"
+  }
+}

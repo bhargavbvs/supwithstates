@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-189-kota-north",
+  "constituency": {
+    "number": 189,
+    "name": "Kota North",
+    "district": "Kota",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shanti Dhariwal",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 80,
+    "profession": "Rent and Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B Final 1966 Raj. University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45957579,
+      "immovable": 55000000,
+      "total": 100957579,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=482",
+    "retrieved": "2026-08-27"
+  }
+}

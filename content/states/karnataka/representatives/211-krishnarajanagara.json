@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-211-krishnarajanagara",
+  "constituency": {
+    "number": 211,
+    "name": "Krishnarajanagara",
+    "district": "Mys#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravishankar D",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA, LLB From K L E L College Bangalore University in 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 20505096,
+      "immovable": 57640000,
+      "total": 72266997,
+      "liabilities": 30689870
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7480",
+    "retrieved": "2026-08-27"
+  }
+}

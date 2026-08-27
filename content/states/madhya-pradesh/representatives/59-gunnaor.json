@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-59-gunnaor",
+  "constituency": {
+    "number": 59,
+    "name": "Gunnaor",
+    "district": "Panna",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajesh Kumar Verma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Medical Store & Patanjali Cilinic",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th, Higher Secondary School Certificate 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7847811,
+      "immovable": 20200000,
+      "total": 28047811,
+      "liabilities": 3739071
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=502",
+    "retrieved": "2026-08-27"
+  }
+}

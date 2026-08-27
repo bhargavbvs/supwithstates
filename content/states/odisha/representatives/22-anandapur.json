@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-22-anandapur",
+  "constituency": {
+    "number": 22,
+    "name": "Anandapur",
+    "district": "Keonjhar (Kendujhar)",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Abhimanyu Sethi",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Social Service, Farmer and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Education From Dr. C.V.Raman University, Bilaspur, Chhattisgarh, 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9236460,
+      "immovable": 4105000,
+      "total": 13341462,
+      "liabilities": 3458049
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=517",
+    "retrieved": "2026-08-27"
+  }
+}

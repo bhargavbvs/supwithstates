@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-60-khunti",
+  "constituency": {
+    "number": 60,
+    "name": "Khunti",
+    "district": "Khunti",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ram Surya Munda",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter Pass from Sant Xaviers College Ranchi in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2645000,
+      "immovable": 2700000,
+      "total": 5345000,
+      "liabilities": 800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=605",
+    "retrieved": "2026-08-27"
+  }
+}

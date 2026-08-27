@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-229-neemuch",
+  "constituency": {
+    "number": 229,
+    "name": "Neemuch",
+    "district": "Neemuch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dilip Singh Parihar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Salary From Madhya Pradesh Assembly, Agriculture & House Rent",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Vikram University, Ujjain, Year-1980 & LLB From Vikram University, Ujjain, Year-1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13380406,
+      "immovable": 33507000,
+      "total": 46887406,
+      "liabilities": 10488042
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=359",
+    "retrieved": "2026-08-27"
+  }
+}

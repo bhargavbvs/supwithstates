@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-118-kunnathur",
+  "constituency": {
+    "number": 118,
+    "name": "Kunnathur",
+    "district": "Kollam",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ullas Kovur",
+    "election": "2026",
+    "elected_party": "Revolutionary Socialist Party",
+    "current_party": "Revolutionary Socialist Party",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A.History From MS University ,Tamilnadu 2017-18, Diploma in Visual Media and Communication From VHSE (Board of VHES,Kerala) 1997"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 295000,
+      "immovable": 400000,
+      "total": 695000,
+      "liabilities": 300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=774",
+    "retrieved": "2026-08-27"
+  }
+}

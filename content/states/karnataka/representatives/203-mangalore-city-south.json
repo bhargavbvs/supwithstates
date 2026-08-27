@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-203-mangalore-city-south",
+  "constituency": {
+    "number": 203,
+    "name": "Mangalore City South",
+    "district": "Dakshina Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "D.Vedavyasa Kamath",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Business & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce From Canara College - Mangaluru University - Year 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 198699299,
+      "immovable": 203551500,
+      "total": 402250804,
+      "liabilities": 58444647
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7552",
+    "retrieved": "2026-08-27"
+  }
+}

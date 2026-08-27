@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-41-chandel",
+  "constituency": {
+    "number": 41,
+    "name": "Chandel",
+    "district": "Chandel",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ss. Olish",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts in Political Science in 2000 from United College, Manipur University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8686260,
+      "immovable": 890000,
+      "total": 9575361,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=207",
+    "retrieved": "2026-08-27"
+  }
+}

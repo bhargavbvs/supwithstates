@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-140-rayagada",
+  "constituency": {
+    "number": 140,
+    "name": "Rayagada",
+    "district": "Rayagarha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kadraka Appala Swamy",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Labour Contractor",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation from National Institute of Open Schooling (NIOS), April- 2015"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10869602,
+      "immovable": 2500000,
+      "total": 13469596,
+      "liabilities": 947460
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=150",
+    "retrieved": "2026-08-27"
+  }
+}

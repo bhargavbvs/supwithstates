@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-55-sanganer",
+  "constituency": {
+    "number": 55,
+    "name": "Sanganer",
+    "district": "Jaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhajan Lal Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (Politics) from Rajasthan University, Jaipur (Non Col) In 1993"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4356563,
+      "immovable": 10300000,
+      "total": 14656666,
+      "liabilities": 3500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=130",
+    "retrieved": "2026-08-27"
+  }
+}

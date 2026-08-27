@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-9-irikkur",
+  "constituency": {
+    "number": 9,
+    "name": "Irikkur",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. Sajeev Joseph",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Govt .Law college, kozhikodo 1999 university of calicut"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 4697537,
+      "immovable": 8900000,
+      "total": 13597537,
+      "liabilities": 2097881
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=89",
+    "retrieved": "2026-08-27"
+  }
+}

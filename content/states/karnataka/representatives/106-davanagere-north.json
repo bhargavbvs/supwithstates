@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-106-davanagere-north",
+  "constituency": {
+    "number": 106,
+    "name": "Davanagere North",
+    "district": "D",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S.S.Mallikarjun",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Chairman, Indian Cane Power Ltd., Davangere",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. from M.S.B. College of Commerce, Davangere (Mysore University) in 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 878126899,
+      "immovable": 1013910747,
+      "total": 1892037646,
+      "liabilities": 245804947
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6799",
+    "retrieved": "2026-08-27"
+  }
+}

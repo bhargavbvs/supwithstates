@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-57-patparganj",
+  "constituency": {
+    "number": 57,
+    "name": "Patparganj",
+    "district": "East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravinder Singh Negi",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 48,
+    "profession": "Business, Political & Social Acivites",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (Correspondence) from Delhi University in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4860740,
+      "immovable": 12800000,
+      "total": 17840741,
+      "liabilities": 1608350
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=334",
+    "retrieved": "2026-08-27"
+  }
+}

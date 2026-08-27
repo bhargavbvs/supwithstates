@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-45-hauyuliang",
+  "constituency": {
+    "number": 45,
+    "name": "Hauyuliang",
+    "district": ">nj>w",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dasanglu Pul",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Social Worker and Politician (Ex-MLA)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from National Institute of Open Schooling in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55915928,
+      "immovable": 47072903,
+      "total": 104988837,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=32",
+    "retrieved": "2026-08-27"
+  }
+}

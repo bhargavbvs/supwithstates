@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-203-depalpur",
+  "constituency": {
+    "number": 203,
+    "name": "Depalpur",
+    "district": "Indore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Nirbhay Singh Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture and Ex-MLA pension",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th pass from Govt. Higher secondary school Indore in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19502000,
+      "immovable": 231771660,
+      "total": 251273660,
+      "liabilities": 99082183
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=679",
+    "retrieved": "2026-08-27"
+  }
+}

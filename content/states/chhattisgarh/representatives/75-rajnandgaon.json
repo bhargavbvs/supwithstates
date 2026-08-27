@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-75-rajnandgaon",
+  "constituency": {
+    "number": 75,
+    "name": "Rajnandgaon",
+    "district": "Rajnandgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Raman Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Social Worker, Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BAMS from Ayurvedik College, Raipur in 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 74632844,
+      "immovable": 78900000,
+      "total": 153533844,
+      "liabilities": 2163555
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-27"
+  }
+}

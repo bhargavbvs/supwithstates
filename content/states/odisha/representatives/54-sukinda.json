@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-54-sukinda",
+  "constituency": {
+    "number": 54,
+    "name": "Sukinda",
+    "district": "Jajapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Bal Samanta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Business & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Phd From The Open International university Colambo ,Sri Lanka , In 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 58377123,
+      "immovable": 114660000,
+      "total": 173037808,
+      "liabilities": 8508000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1269",
+    "retrieved": "2026-08-27"
+  }
+}

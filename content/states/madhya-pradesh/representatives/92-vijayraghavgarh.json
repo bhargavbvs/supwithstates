@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-92-vijayraghavgarh",
+  "constituency": {
+    "number": 92,
+    "name": "Vijayraghavgarh",
+    "district": "Katni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Satyendra Pathak",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Plitical Science) From Mahatama Gandhi Chitrakoot Gramodaya Vishwa Vidyalaya, Chotrakoot, Satna (MP)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1191604252,
+      "immovable": 1229324299,
+      "total": 2420928551,
+      "liabilities": 196713235
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=436",
+    "retrieved": "2026-08-27"
+  }
+}

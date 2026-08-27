@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-47-basavakalyan",
+  "constituency": {
+    "number": 47,
+    "name": "Basavakalyan",
+    "district": "B\\dar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sharanu Salagar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Ed from Gulbarga University Gulbarga in 2011"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16920057,
+      "immovable": 29600000,
+      "total": 46520057,
+      "liabilities": 4607167
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6932",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-46-saikul",
+  "constituency": {
+    "number": 46,
+    "name": "Saikul",
+    "district": "Kangpokpi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kimneo Haokip Hangshing",
+    "election": "2022",
+    "elected_party": "Kuki Peoples Alliance",
+    "current_party": "Kuki Peoples Alliance",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 34,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Political Science), Bangalore University, Bangalore, Year of completion of course- 2013."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8039646,
+      "immovable": 300000,
+      "total": 8339646,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-27"
+  }
+}

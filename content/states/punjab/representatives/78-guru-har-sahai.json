@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-78-guru-har-sahai",
+  "constituency": {
+    "number": 78,
+    "name": "Guru Har Sahai",
+    "district": "Firozpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Fauja Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Social Worker And Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Guru Nanak Dev University Amritsar in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1530000,
+      "immovable": 11450000,
+      "total": 12980000,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=80",
+    "retrieved": "2026-08-27"
+  }
+}

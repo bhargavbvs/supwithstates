@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-55-bagbassa",
+  "constituency": {
+    "number": 55,
+    "name": "Bagbassa",
+    "district": "North Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jadab Lal Debnath",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HS (+2 Stage) from Tripura Board of Secondary Education (Padmapur HS School) in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1939339,
+      "immovable": 6000000,
+      "total": 7939339,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6887",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-178-hosakote",
+  "constituency": {
+    "number": 178,
+    "name": "Hosakote",
+    "district": "Bengal#ru (Rural)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sharath Kumar Bachegowda",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Social Service and Businessman",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MS, USA 2005-06"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 447459875,
+      "immovable": 655000000,
+      "total": 1077459876,
+      "liabilities": 15054122
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7331",
+    "retrieved": "2026-08-27"
+  }
+}

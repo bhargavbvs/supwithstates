@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-82-keshkal",
+  "constituency": {
+    "number": 82,
+    "name": "Keshkal",
+    "district": "Kondagaon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Neelkanth Tekam",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Retd. officer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Social science from pandit ravisankhar shukl university 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4845481,
+      "immovable": 11310000,
+      "total": 17245481,
+      "liabilities": 1696142
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=66",
+    "retrieved": "2026-08-27"
+  }
+}

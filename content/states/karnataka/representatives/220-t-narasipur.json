@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-220-t-narasipur",
+  "constituency": {
+    "number": 220,
+    "name": "T.Narasipur",
+    "district": "Mys#ru",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. H C Mahadevappa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from JJM Medical College, Davanagere, year 1999"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10717051,
+      "immovable": 27500000,
+      "total": 38217051,
+      "liabilities": 4431900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8348",
+    "retrieved": "2026-08-27"
+  }
+}

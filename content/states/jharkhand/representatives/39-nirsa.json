@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-39-nirsa",
+  "constituency": {
+    "number": 39,
+    "name": "Nirsa",
+    "district": "Dhanbad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arup Chatterjee",
+    "election": "2024",
+    "elected_party": "CPI(ML)(L)",
+    "current_party": "CPI(ML)(L)",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Politics (Ex. MLA, Nirsha Constituency)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Post Graduate Diploma in Business Management From IILM Kolkata, Year-1997 & Graduation Year 1994, BBM Asansol"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 30713823,
+      "immovable": 30106580,
+      "total": 60820403,
+      "liabilities": 616000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=822",
+    "retrieved": "2026-08-27"
+  }
+}

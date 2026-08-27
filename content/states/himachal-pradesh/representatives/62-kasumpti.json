@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-62-kasumpti",
+  "constituency": {
+    "number": 62,
+    "name": "Kasumpti",
+    "district": "Shimla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anirudh Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Business, Agriculture , Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From HPU Shimla In the year 2006"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41493247,
+      "immovable": 100000000,
+      "total": 102093247,
+      "liabilities": 67780000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=211",
+    "retrieved": "2026-08-27"
+  }
+}

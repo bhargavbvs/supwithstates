@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-184-karaikudi",
+  "constituency": {
+    "number": 184,
+    "name": "Karaikudi",
+    "district": "Sivaganga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr.Prabhu. Tk",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Dentist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "FICOI- Fellowship,Colombo,Sri Lanka,2019, M.Sc Gothe University Germany 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 52733087,
+      "immovable": 61250000,
+      "total": 113983087,
+      "liabilities": 32689343
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=58",
+    "retrieved": "2026-08-27"
+  }
+}

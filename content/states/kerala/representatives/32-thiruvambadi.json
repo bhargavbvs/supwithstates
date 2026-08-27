@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-32-thiruvambadi",
+  "constituency": {
+    "number": 32,
+    "name": "Thiruvambadi",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C K Kasim",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre Degree Calicut University 1983-85"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5650009,
+      "immovable": 77000000,
+      "total": 82650009,
+      "liabilities": 8958381
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=255",
+    "retrieved": "2026-08-27"
+  }
+}

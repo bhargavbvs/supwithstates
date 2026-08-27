@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-101-panagar",
+  "constituency": {
+    "number": 101,
+    "name": "Panagar",
+    "district": "Jabalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sushil Kumar Tiwari (Indu Bhaiya)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Farmer, MLA honorarium",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce (B.com) from Mahatma Gandhi Chitrakoot Gramoday University, Chitrakoot Satna M.P. In Year 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40388322,
+      "immovable": 190643000,
+      "total": 231031322,
+      "liabilities": 26160291
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=73",
+    "retrieved": "2026-08-27"
+  }
+}

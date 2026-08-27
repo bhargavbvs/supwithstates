@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-48-balachaur",
+  "constituency": {
+    "number": 48,
+    "name": "Balachaur",
+    "district": "Shahid Bhagat Singh Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Santosh Kumari Katariaa",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Home Tutor",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "ITI from Industrial School for Girls, National Council for Vocational Training in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4869466,
+      "immovable": 472816,
+      "total": 5342282,
+      "liabilities": 713314
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=806",
+    "retrieved": "2026-08-27"
+  }
+}

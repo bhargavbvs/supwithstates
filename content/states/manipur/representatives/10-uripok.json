@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-10-uripok",
+  "constituency": {
+    "number": 10,
+    "name": "Uripok",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khwairakpam Raghumani Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE (Ag) Degree from Tamil Nadu Agricultural University in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6923108,
+      "immovable": 15470000,
+      "total": 22393109,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=79",
+    "retrieved": "2026-08-27"
+  }
+}

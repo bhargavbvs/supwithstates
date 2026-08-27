@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-132-dindigul",
+  "constituency": {
+    "number": 132,
+    "name": "Dindigul",
+    "district": "Dindigul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Senthilkumar. I.P",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Business, Social Work, Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts Sociology,Madurai Kamaraj University (2005)"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 105930520,
+      "immovable": 79045593,
+      "total": 184976113,
+      "liabilities": 21254175
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1158",
+    "retrieved": "2026-08-27"
+  }
+}

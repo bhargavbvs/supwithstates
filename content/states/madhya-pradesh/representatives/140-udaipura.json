@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-140-udaipura",
+  "constituency": {
+    "number": 140,
+    "name": "Udaipura",
+    "district": "Raisen",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narendra Shivaji Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture , Civil Engineering Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Civil) Samrat Ashok Engineering College, Vidisha, Year 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": -119442,
+      "immovable": 63100000,
+      "total": 62980558,
+      "liabilities": 2885000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1147",
+    "retrieved": "2026-08-27"
+  }
+}

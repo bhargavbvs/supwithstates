@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-157-ashta",
+  "constituency": {
+    "number": 157,
+    "name": "Ashta",
+    "district": "Sehore",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gopal Singh Engineer",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Engineer, Petrol Pump Dealer, Cultivator, Construction Builder",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Architecture from Molana Azad College BU Bhopal in 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13298009,
+      "immovable": 157480252,
+      "total": 170778261,
+      "liabilities": 5174370
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1125",
+    "retrieved": "2026-08-27"
+  }
+}

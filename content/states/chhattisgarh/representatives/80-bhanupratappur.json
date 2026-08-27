@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-80-bhanupratappur",
+  "constituency": {
+    "number": 80,
+    "name": "Bhanupratappur",
+    "district": "Uttar Bastar Kanker",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Savitri Manoj Mandavi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "MLA Salary, Pension and Husband Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.H.S.C. from Govt. College of Dhamtari Pandit Ravishankar University Raipur in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40999709,
+      "immovable": 20927748,
+      "total": 61927450,
+      "liabilities": 13860653
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=50",
+    "retrieved": "2026-08-27"
+  }
+}

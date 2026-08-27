@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-76-churhat",
+  "constituency": {
+    "number": 76,
+    "name": "Churhat",
+    "district": "Sidhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Arjun Singh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A Economics (Hons) Bhopal University Bhopal"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 101797110,
+      "immovable": 296840000,
+      "total": 398637110,
+      "liabilities": 6000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=273",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-26-aonglenden",
+  "constituency": {
+    "number": 26,
+    "name": "Aonglenden",
+    "district": "Mokokchung",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sharingain Longkumer",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Politician & Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law (LLB) from Law Centre-I, University of Delhi in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10067160,
+      "immovable": 92902000,
+      "total": 102969161,
+      "liabilities": 698951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6772",
+    "retrieved": "2026-08-27"
+  }
+}

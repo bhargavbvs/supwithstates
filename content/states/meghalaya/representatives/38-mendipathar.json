@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-38-mendipathar",
+  "constituency": {
+    "number": 38,
+    "name": "Mendipathar",
+    "district": "North G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Marthon J Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Former BDO and Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. (Agriculture) from College of Agriculture, NEHU in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9588536,
+      "immovable": 7800000,
+      "total": 17388536,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6979",
+    "retrieved": "2026-08-27"
+  }
+}

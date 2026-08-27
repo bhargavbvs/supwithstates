@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-56-nahan",
+  "constituency": {
+    "number": 56,
+    "name": "Nahan",
+    "district": "Sirmaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Solanki",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A. 1st Year Passed in April, 1993 From Govt. College KotShera Shimla"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4835806,
+      "immovable": 7028000,
+      "total": 11863806,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=199",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-7-soreong-chakung",
+  "constituency": {
+    "number": 7,
+    "name": "Soreong-Chakung",
+    "district": "Soreng",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aditya Golay (Tamang)",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 34,
+    "profession": "Politician & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (B.A) English Hons, From Hindu College, University of Delhi in The Year 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24018637,
+      "immovable": 30742168,
+      "total": 54760808,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=153",
+    "retrieved": "2026-08-27"
+  }
+}

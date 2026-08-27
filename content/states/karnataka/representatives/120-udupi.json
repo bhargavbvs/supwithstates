@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-120-udupi",
+  "constituency": {
+    "number": 120,
+    "name": "Udupi",
+    "district": "Udupi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yashpal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC from Poorna Prajna Evening College, Udupi in 1995-97, Diploma in Information Technology from MAHE, Manipal in 2000-2001"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 43026672,
+      "immovable": 26500000,
+      "total": 69526672,
+      "liabilities": 28534604
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8378",
+    "retrieved": "2026-08-27"
+  }
+}

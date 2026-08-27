@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-29-mahe",
+  "constituency": {
+    "number": 29,
+    "name": "Mahe",
+    "district": "Mahe",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T Ashok Kumar",
+    "election": "2026",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Legum Baccalaureus (LLB) From Valkuntabalika College of Law, Mangalore University, 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20780066,
+      "immovable": 72765000,
+      "total": 89877066,
+      "liabilities": 3674946
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=99",
+    "retrieved": "2026-08-27"
+  }
+}

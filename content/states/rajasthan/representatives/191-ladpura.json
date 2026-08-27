@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-191-ladpura",
+  "constituency": {
+    "number": 191,
+    "name": "Ladpura",
+    "district": "Kota",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kalpana Devi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Business and MLAs Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "DIploma Hotel Managements South Delhi Year 1989, 12th MGD Girls Public School Year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 361832000,
+      "immovable": 205000000,
+      "total": 566832000,
+      "liabilities": 24282000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=277",
+    "retrieved": "2026-08-27"
+  }
+}

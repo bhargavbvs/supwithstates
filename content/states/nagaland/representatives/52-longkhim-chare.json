@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-52-longkhim-chare",
+  "constituency": {
+    "number": 52,
+    "name": "Longkhim Chare",
+    "district": "Tuensang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sethronkyu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Social Worker/Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons) History from Hindu College University of Delhi in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 163898,
+      "immovable": 11016000,
+      "total": 11179898,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6843",
+    "retrieved": "2026-08-27"
+  }
+}

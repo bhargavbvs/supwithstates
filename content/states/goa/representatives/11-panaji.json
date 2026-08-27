@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-11-panaji",
+  "constituency": {
+    "number": 11,
+    "name": "Panaji",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atanasio Monserrate",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 59,
+    "profession": "Social Worker,MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Council Of Secondary Education MohalI In 2009"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 117295536,
+      "immovable": 353461772,
+      "total": 484854264,
+      "liabilities": 64628862
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=124",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-36-jind",
+  "constituency": {
+    "number": 36,
+    "name": "Jind",
+    "district": "Jind",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Krishan Lal Middha",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A.M.S. from Kameshwar Singh University Darbhanga (Bihar) in the year 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16457253,
+      "immovable": 14000000,
+      "total": 30457253,
+      "liabilities": 1666400
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=419",
+    "retrieved": "2026-08-27"
+  }
+}

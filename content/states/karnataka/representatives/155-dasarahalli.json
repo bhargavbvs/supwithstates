@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-155-dasarahalli",
+  "constituency": {
+    "number": 155,
+    "name": "Dasarahalli",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S. Muniraju",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Income from Business and Agriculture & Pension as former MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC passed in the year 1975 at Bapu Multi Purpose High School Hesaragatta, Bangalore North Taluk"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 108317743,
+      "immovable": 176485586,
+      "total": 283646819,
+      "liabilities": 81459515
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7215",
+    "retrieved": "2026-08-27"
+  }
+}

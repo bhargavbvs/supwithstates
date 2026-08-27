@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-53-changlang-north",
+  "constituency": {
+    "number": 53,
+    "name": "Changlang North",
+    "district": "Ch>ngl>ng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tesam Pongte",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Deputy Speaker, APLA (Govt. of A.P.)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Rangfrah Government Collage, Changlang Arunachal Pradesh"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47991886,
+      "immovable": 13550000,
+      "total": 57581901,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=19",
+    "retrieved": "2026-08-27"
+  }
+}

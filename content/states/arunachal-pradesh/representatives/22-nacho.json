@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-22-nacho",
+  "constituency": {
+    "number": 22,
+    "name": "Nacho",
+    "district": "Upper Subansiri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nakap Nalo",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Politician and Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate in Political Science from North Eastern Hills University (NEHU) Shillong Meghalaya In 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17704161,
+      "immovable": 28500000,
+      "total": 47104163,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=56",
+    "retrieved": "2026-08-27"
+  }
+}

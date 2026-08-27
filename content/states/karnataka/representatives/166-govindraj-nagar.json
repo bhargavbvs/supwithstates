@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-166-govindraj-nagar",
+  "constituency": {
+    "number": 166,
+    "name": "Govindraj Nagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Priyakrishna",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts from Karnataka State Open University, Mysuru In 2007, LLB from Bangalore University In 2008"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9335443089,
+      "immovable": 2218300000,
+      "total": 11568393089,
+      "liabilities": 9471509087
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7960",
+    "retrieved": "2026-08-27"
+  }
+}

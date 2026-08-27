@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-60-baghmara",
+  "constituency": {
+    "number": 60,
+    "name": "Baghmara",
+    "district": "South G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kartush R. Marak",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary School Leaving Certificate Exam Passed from Meghalaya Board of School Education, Dalu Government High School Dalu in 18 July 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26863040,
+      "immovable": 163555000,
+      "total": 187991322,
+      "liabilities": 95912793
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6765",
+    "retrieved": "2026-08-27"
+  }
+}

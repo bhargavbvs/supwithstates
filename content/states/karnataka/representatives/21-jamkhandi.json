@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-21-jamkhandi",
+  "constituency": {
+    "number": 21,
+    "name": "Jamkhandi",
+    "district": "B",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagadeesh Shivayya Gudagunti",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Industrialist & Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Machanical Engineering & Boiler Operation Course from Basaveshwar Engineering College, Bagalkot in 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 287628899,
+      "immovable": 309460000,
+      "total": 575878204,
+      "liabilities": 42896510
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8030",
+    "retrieved": "2026-08-27"
+  }
+}

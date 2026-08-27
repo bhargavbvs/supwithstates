@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-215-tiruchendur",
+  "constituency": {
+    "number": 215,
+    "name": "Tiruchendur",
+    "district": "Thoothukudi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anitha R. Radhakrishnan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 73,
+    "profession": "Politician, MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from Bishop Assyria Memorial High School, Vellalanvilai in 1969"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 51835932,
+      "immovable": 34543328,
+      "total": 86379261,
+      "liabilities": 1850000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=182",
+    "retrieved": "2026-08-27"
+  }
+}

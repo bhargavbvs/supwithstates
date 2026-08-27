@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-39-saraipali",
+  "constituency": {
+    "number": 39,
+    "name": "Saraipali",
+    "district": "Mahasamund",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Chaturi Nand",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.S.C. 2002, MA. Hindi Year 2008, B.Ed. Year 2019 P. Ravishankar Shukl University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2280081,
+      "immovable": 3493254,
+      "total": 5581385,
+      "liabilities": 1580000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1207",
+    "retrieved": "2026-08-27"
+  }
+}

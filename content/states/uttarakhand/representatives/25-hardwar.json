@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-25-hardwar",
+  "constituency": {
+    "number": 25,
+    "name": "Hardwar",
+    "district": "Haridw>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madan Kaushik",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "MLA,Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc From Gurukul Kangadi University in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12416983,
+      "immovable": 56506500,
+      "total": 67837298,
+      "liabilities": 5229131
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=63",
+    "retrieved": "2026-08-27"
+  }
+}

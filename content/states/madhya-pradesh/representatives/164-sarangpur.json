@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-164-sarangpur",
+  "constituency": {
+    "number": 164,
+    "name": "Sarangpur",
+    "district": "Rajgarh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gotam Tetwal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate Agriculture from Jawahar Lal Agriculture University Jabalpur in 1989-90"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3592900,
+      "immovable": 5372000,
+      "total": 8964900,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=772",
+    "retrieved": "2026-08-27"
+  }
+}

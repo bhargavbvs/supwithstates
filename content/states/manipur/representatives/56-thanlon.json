@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-56-thanlon",
+  "constituency": {
+    "number": 56,
+    "name": "Thanlon",
+    "district": "Pherzawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Vungzagin Valte",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Social Worker/ MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Lamka College Under Manipur University in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2833981,
+      "immovable": 12000000,
+      "total": 14833981,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=162",
+    "retrieved": "2026-08-27"
+  }
+}

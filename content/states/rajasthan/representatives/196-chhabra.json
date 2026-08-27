@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-196-chhabra",
+  "constituency": {
+    "number": 196,
+    "name": "Chhabra",
+    "district": "Baran",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pratap Singh Singhvi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Passed From Government Secondary School Chhipa barod"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29737666,
+      "immovable": 87500000,
+      "total": 105024400,
+      "liabilities": 2246814
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=169",
+    "retrieved": "2026-08-27"
+  }
+}

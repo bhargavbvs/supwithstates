@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-138-sohagpur",
+  "constituency": {
+    "number": 138,
+    "name": "Sohagpur",
+    "district": "Narmadapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijaypal Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Hotel Share 17%, MLA Honorarium, SB A/C Intrest, & Income from Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com, B.Com from Dr. Harisingh Gaur Uni. Sagar Year 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11262454,
+      "immovable": 13300000,
+      "total": 24562454,
+      "liabilities": 8479923
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=97",
+    "retrieved": "2026-08-27"
+  }
+}

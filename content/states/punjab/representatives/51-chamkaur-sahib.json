@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-51-chamkaur-sahib",
+  "constituency": {
+    "number": 51,
+    "name": "Chamkaur Sahib",
+    "district": "Rupnagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Charanjit Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Professional",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Masters of Surgery (Ophthalmology), Post Graduate Institute of Medical Science (PGIMER), Chandigarh in 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21429293,
+      "immovable": 84000000,
+      "total": 105429293,
+      "liabilities": 13550000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=820",
+    "retrieved": "2026-08-27"
+  }
+}

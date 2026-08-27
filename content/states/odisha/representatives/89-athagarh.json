@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-89-athagarh",
+  "constituency": {
+    "number": 89,
+    "name": "Athagarh",
+    "district": "Cuttack",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ranendra Pratap Swain",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 70,
+    "profession": "Social Service and Politics",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. English In 1976 from Utkal University, Vani Vihar Bhubaneswar, LLB In 1978 from Madhu Sudan Law Collage, Cuttack, Under Utkal University Vani Vihar Bhubaneswar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26843857,
+      "immovable": 16450000,
+      "total": 43293862,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=535",
+    "retrieved": "2026-08-27"
+  }
+}

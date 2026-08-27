@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-161-mayiladuthurai",
+  "constituency": {
+    "number": 161,
+    "name": "Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jamal Mohamed Younoos. Y.N",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Own Business, Agricultural",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Standard From Nadar High School Madurai 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16778413,
+      "immovable": 76000000,
+      "total": 92778413,
+      "liabilities": 7547500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1191",
+    "retrieved": "2026-08-27"
+  }
+}

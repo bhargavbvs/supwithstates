@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-51-shornur",
+  "constituency": {
+    "number": 51,
+    "name": "Shornur",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P.Mammikutty",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 73,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "S.S.L.C from March GHSS Anakkara in 1969 - 70"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3777683,
+      "immovable": 6000000,
+      "total": 9775683,
+      "liabilities": 116300
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=238",
+    "retrieved": "2026-08-27"
+  }
+}

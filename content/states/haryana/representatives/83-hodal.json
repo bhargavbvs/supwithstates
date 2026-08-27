@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-83-hodal",
+  "constituency": {
+    "number": 83,
+    "name": "Hodal",
+    "district": "Palwal",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Harinder Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Social Worker, Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Osmania University Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21398072,
+      "immovable": 222500000,
+      "total": 243898072,
+      "liabilities": 2410900
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=248",
+    "retrieved": "2026-08-27"
+  }
+}

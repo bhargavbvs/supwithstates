@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-27-gangtok-bl",
+  "constituency": {
+    "number": 27,
+    "name": "Gangtok(Bl)",
+    "district": "Gangtok",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Delay Namgyal Barfungpa",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Politician & Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class IX Pass from Tashi Namgyal Academy, Gangtok, (ICSE Board) in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10065291,
+      "immovable": 1365164568,
+      "total": 1375229860,
+      "liabilities": 70504729
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=36",
+    "retrieved": "2026-08-27"
+  }
+}

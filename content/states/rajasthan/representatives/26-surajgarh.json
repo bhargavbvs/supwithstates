@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-26-surajgarh",
+  "constituency": {
+    "number": 26,
+    "name": "Surajgarh",
+    "district": "Jhunjhunun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sharwan Kumar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Pension (Former MLA), Farming",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary Pass from Board of Secondary Education Rajasthan, Ajmer Paliram Brijfal Higher Secondary School Surajgarh in 1971"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12424657,
+      "immovable": 9656394,
+      "total": 22159920,
+      "liabilities": 8179500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=421",
+    "retrieved": "2026-08-27"
+  }
+}

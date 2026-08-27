@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-66-loisingha",
+  "constituency": {
+    "number": 66,
+    "name": "Loisingha",
+    "district": "Balangir",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mukesh Mahaling",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Social Service & Public Representative",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "M.Sc., M.Phil., Ph.D., LLB"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9925485,
+      "immovable": 5350000,
+      "total": 15320485,
+      "liabilities": 2275940
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=359",
+    "retrieved": "2026-08-27"
+  }
+}

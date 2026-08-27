@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-164-banswara",
+  "constituency": {
+    "number": 164,
+    "name": "Banswara",
+    "district": "Banswara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Arjun Singh Bamaniya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Salary & Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Graduate (IInd year) from Govind Guru College Banswara (MLSU) in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15417035,
+      "immovable": 126989130,
+      "total": 142406165,
+      "liabilities": 32912655
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=150",
+    "retrieved": "2026-08-27"
+  }
+}

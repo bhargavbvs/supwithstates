@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-61-angul",
+  "constituency": {
+    "number": 61,
+    "name": "Angul",
+    "district": "Anugul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pratap Chandra Pradhan",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Business/Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Bantala College under Utkal University in 1993"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9694475,
+      "immovable": 1800000,
+      "total": 9431779,
+      "liabilities": 2449480
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=525",
+    "retrieved": "2026-08-27"
+  }
+}

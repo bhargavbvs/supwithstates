@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-88-dausa",
+  "constituency": {
+    "number": 88,
+    "name": "Dausa",
+    "district": "Dausa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Deen Dayal",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Agriculture & Teaching Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Pass from University of Rajasthan, Jaipur Year 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 909527,
+      "immovable": 7050000,
+      "total": 7959527,
+      "liabilities": 5522370
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1906",
+    "retrieved": "2026-08-27"
+  }
+}

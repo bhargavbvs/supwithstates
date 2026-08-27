@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-153-udaipur",
+  "constituency": {
+    "number": 153,
+    "name": "Udaipur",
+    "district": "Udaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tarachand Jain",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Mining Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University Shramjivi College Tatkalin Udaipur University in 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 111040027,
+      "immovable": 408100000,
+      "total": 519140027,
+      "liabilities": 71339443
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=65",
+    "retrieved": "2026-08-27"
+  }
+}

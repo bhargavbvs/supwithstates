@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-30-pirankaliyar",
+  "constituency": {
+    "number": 30,
+    "name": "Pirankaliyar",
+    "district": "Haridw>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Furkan Ahmad",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "MLA Allowance and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Highschool Passed From Govt. High School Roorkee, UP Board in 1987"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1808398,
+      "immovable": 27600000,
+      "total": 29408398,
+      "liabilities": 650000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=234",
+    "retrieved": "2026-08-27"
+  }
+}

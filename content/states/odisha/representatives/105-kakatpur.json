@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-105-kakatpur",
+  "constituency": {
+    "number": 105,
+    "name": "Kakatpur",
+    "district": "Puri",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Tusharkanti Behera",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Social Service, Environmentalist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Tech. in IIT, Kharagpur in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8111468,
+      "immovable": 1600000,
+      "total": 9711468,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=936",
+    "retrieved": "2026-08-27"
+  }
+}

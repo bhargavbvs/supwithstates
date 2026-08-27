@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-28-kozhikode-south",
+  "constituency": {
+    "number": 28,
+    "name": "Kozhikode South",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. Fyzal Babu",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in Sociology From Calicut University, Year-2018 & LLB From Kannur University, Year-2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14974800,
+      "immovable": 0,
+      "total": 14974800,
+      "liabilities": 2963477
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=653",
+    "retrieved": "2026-08-27"
+  }
+}

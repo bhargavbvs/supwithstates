@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-70-irinjalakuda",
+  "constituency": {
+    "number": 70,
+    "name": "Irinjalakuda",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. Thomas Unniyadan",
+    "election": "2026",
+    "elected_party": "Kerala Congress",
+    "current_party": "Kerala Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Advocate Notary, Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B law Accademy new College,Trivandrum 1986,Kerala University, BA - DB College,Thalayotapanembu, 1981, Kreala University,"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 10381217,
+      "immovable": 28300000,
+      "total": 38681217,
+      "liabilities": 3461382
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=604",
+    "retrieved": "2026-08-27"
+  }
+}

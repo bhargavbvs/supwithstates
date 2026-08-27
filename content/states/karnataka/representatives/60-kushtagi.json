@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-60-kushtagi",
+  "constituency": {
+    "number": 60,
+    "name": "Kushtagi",
+    "district": "Koppal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Doddanagouda Hanamagouda Patil",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Agriculture,",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Govt P.U.College Kushtagi 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13144298,
+      "immovable": 25000000,
+      "total": 38183033,
+      "liabilities": 1025526
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7507",
+    "retrieved": "2026-08-27"
+  }
+}

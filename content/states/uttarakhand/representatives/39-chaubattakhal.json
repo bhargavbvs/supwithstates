@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-39-chaubattakhal",
+  "constituency": {
+    "number": 39,
+    "name": "Chaubattakhal",
+    "district": "Pauri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satpal Maharaj",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 70,
+    "profession": "Agriculture, Ex MP & Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From St. George College, Mussoorie in 1969"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69697619,
+      "immovable": 605684955,
+      "total": 873413319,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=165",
+    "retrieved": "2026-08-27"
+  }
+}

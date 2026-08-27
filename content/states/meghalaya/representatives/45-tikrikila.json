@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-45-tikrikila",
+  "constituency": {
+    "number": 45,
+    "name": "Tikrikila",
+    "district": "West G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jimmy D. Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSSLC Passed in 1995 from Dispur College, Assem Higher Secondary Education Council Guwahati-781021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6377166,
+      "immovable": 2460000,
+      "total": 8843366,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6837",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-43-tikamgarh",
+  "constituency": {
+    "number": 43,
+    "name": "Tikamgarh",
+    "district": "Tikamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yadvendra Singh (Jaggu Bhaiya)",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture and Former MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Political Science Avdhesh Pratap Singh University in 1980"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16750604,
+      "immovable": 65300000,
+      "total": 82050604,
+      "liabilities": 1442500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1467",
+    "retrieved": "2026-08-27"
+  }
+}

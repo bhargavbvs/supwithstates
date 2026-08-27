@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-76-dabugam",
+  "constituency": {
+    "number": 76,
+    "name": "Dabugam",
+    "district": "Nabarangapur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Manohar Randhari",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "HSC from RCD High School Nabarangpur through board of Secondary Education, Odisha in 1991"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13885747,
+      "immovable": 15232500,
+      "total": 29118247,
+      "liabilities": 5133722
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-27"
+  }
+}

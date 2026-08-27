@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-2-dampa",
+  "constituency": {
+    "number": 2,
+    "name": "Dampa",
+    "district": "Mamit",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalrintluanga Sailo",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9TH CLASS CH. Chhunga High School Chawlhhmun Aizawl Mizoram in 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20438367,
+      "immovable": 34800000,
+      "total": 59238367,
+      "liabilities": 12118213
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=54",
+    "retrieved": "2026-08-27"
+  }
+}

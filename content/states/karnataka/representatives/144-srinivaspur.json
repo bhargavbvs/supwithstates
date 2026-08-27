@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-144-srinivaspur",
+  "constituency": {
+    "number": 144,
+    "name": "Srinivaspur",
+    "district": "Kol",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G.K. Venkatashivareddy",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 76,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc, LLB,-1973 Govt Law collage"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6652352,
+      "immovable": 247200000,
+      "total": 158277352,
+      "liabilities": 25000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7066",
+    "retrieved": "2026-08-27"
+  }
+}

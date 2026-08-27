@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-225-ambasamudram",
+  "constituency": {
+    "number": 225,
+    "name": "Ambasamudram",
+    "district": "Tirunelveli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr.Esakki Subaya",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy in Law-University of Madras In 2018, Master of Arts In Politician Science From University of Madras In 2008"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 106431420,
+      "immovable": 4084873240,
+      "total": 4191304698,
+      "liabilities": 57666000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=830",
+    "retrieved": "2026-08-27"
+  }
+}

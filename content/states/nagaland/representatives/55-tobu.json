@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-55-tobu",
+  "constituency": {
+    "number": 55,
+    "name": "Tobu",
+    "district": "Mon",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Naiba Konyak",
+    "election": "2023",
+    "elected_party": "Lok Janshakti Party(Ram Vilas)",
+    "current_party": "Lok Janshakti Party(Ram Vilas)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Kohima College Nagaland North Eastern Hill University 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 790666,
+      "immovable": 6600000,
+      "total": 7880000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6949",
+    "retrieved": "2026-08-27"
+  }
+}

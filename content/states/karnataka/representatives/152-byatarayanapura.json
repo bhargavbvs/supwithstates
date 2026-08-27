@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-152-byatarayanapura",
+  "constituency": {
+    "number": 152,
+    "name": "Byatarayanapura",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishna Byregowda",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. In International Affairs American University Washington DC USA In the year 1999 BBM Christ College Banglore 1994"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55187987,
+      "immovable": 111868750,
+      "total": 167056737,
+      "liabilities": 9522183
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7160",
+    "retrieved": "2026-08-27"
+  }
+}

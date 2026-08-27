@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-12-pratapnagar",
+  "constituency": {
+    "number": 12,
+    "name": "Pratapnagar",
+    "district": "Tehri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vikram Singh Negi",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "NA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLB From Garhwal University Sri Nagar in 1991, M.A."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3469866,
+      "immovable": 19200000,
+      "total": 23697600,
+      "liabilities": 38520000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=237",
+    "retrieved": "2026-08-27"
+  }
+}

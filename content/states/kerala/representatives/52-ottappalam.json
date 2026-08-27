@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-52-ottappalam",
+  "constituency": {
+    "number": 52,
+    "name": "Ottappalam",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. K. Premkumar",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB, Mysore University,2002"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 4351282,
+      "immovable": 10342080,
+      "total": 15518616,
+      "liabilities": 40000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=198",
+    "retrieved": "2026-08-27"
+  }
+}

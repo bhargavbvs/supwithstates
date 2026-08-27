@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-17-nellithope",
+  "constituency": {
+    "number": 17,
+    "name": "Nellithope",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V. Cartigueyane",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Real Estate Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Kalaingar Karunandhi Government Higher secondary School Kallitheerthalkuppam Mathakadipattu Puducherry 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30477896,
+      "immovable": 206897000,
+      "total": 248363328,
+      "liabilities": 30456678
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=288",
+    "retrieved": "2026-08-27"
+  }
+}

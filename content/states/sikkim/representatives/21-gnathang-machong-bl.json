@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-21-gnathang-machong-bl",
+  "constituency": {
+    "number": 21,
+    "name": "Gnathang-Machong(Bl)",
+    "district": "Pakyong",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pamin Lepcha",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Politician (Ex-Govt. Employee)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from Sikkim Manipal Institute of Technology, Majhitar, Sikkim in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 60752465,
+      "immovable": 379138358,
+      "total": 439890827,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=41",
+    "retrieved": "2026-08-27"
+  }
+}

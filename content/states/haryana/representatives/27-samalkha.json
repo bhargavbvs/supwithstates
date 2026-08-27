@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-27-samalkha",
+  "constituency": {
+    "number": 27,
+    "name": "Samalkha",
+    "district": "Panipat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manmohan Bhadana",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Businessman & Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA, From Southeren Methodist University Dallas Texas USA In 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 93106574,
+      "immovable": 955232500,
+      "total": 1098339077,
+      "liabilities": 44817616
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=391",
+    "retrieved": "2026-08-27"
+  }
+}

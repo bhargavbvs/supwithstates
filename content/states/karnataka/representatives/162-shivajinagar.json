@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-162-shivajinagar",
+  "constituency": {
+    "number": 162,
+    "name": "Shivajinagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rizwan Arshad",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from University of Musuru- St. Philomenas College, Mysuru in 2000-2001"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17247636,
+      "immovable": 197912000,
+      "total": 215163515,
+      "liabilities": 70653192
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8298",
+    "retrieved": "2026-08-27"
+  }
+}

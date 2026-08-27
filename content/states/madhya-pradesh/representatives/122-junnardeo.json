@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-122-junnardeo",
+  "constituency": {
+    "number": 122,
+    "name": "Junnardeo",
+    "district": "Chhindwara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sunil Uikey",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "MLA from Junnardeo, Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Madhya Pradesh Open University in 2011"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 37561036,
+      "immovable": 61300000,
+      "total": 98861036,
+      "liabilities": 55801752
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1437",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-103-cherthala",
+  "constituency": {
+    "number": 103,
+    "name": "Cherthala",
+    "district": "Alappuzha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P. Prasad",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Minister of Kerala",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Mathematics From Kerala University Pandalam NSS College 1986-1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1475582,
+      "immovable": 1135000,
+      "total": 2610582,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=60",
+    "retrieved": "2026-08-27"
+  }
+}

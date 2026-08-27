@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-171-bari-sadri",
+  "constituency": {
+    "number": 171,
+    "name": "Bari Sadri",
+    "district": "Chittaurgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gautam Kumar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Agriculture, Business, Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Commerce II Year from Pandit Uday Jain College Kanod In 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13091405,
+      "immovable": 17210000,
+      "total": 30301495,
+      "liabilities": 8881923
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=153",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-65-alwar-rural",
+  "constituency": {
+    "number": 65,
+    "name": "Alwar Rural",
+    "district": "Alwar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Tikaram Jully",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B. From Rajasthan University Jaipur Year 2015, B.A (Art) From Maharshi Dayanand University Rohtak, Year 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13881617,
+      "immovable": 54195000,
+      "total": 68076621,
+      "liabilities": 9493003
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=437",
+    "retrieved": "2026-08-27"
+  }
+}

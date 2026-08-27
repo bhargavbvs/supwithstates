@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-98-erode-east",
+  "constituency": {
+    "number": 98,
+    "name": "Erode (East)",
+    "district": "Erode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.Vijay Balaji",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. (C.S) From Dr.G.R Damodaran College Coimbatore, Year-2005-08"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17009668,
+      "immovable": 17536000,
+      "total": 34546668,
+      "liabilities": 12549440
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=781",
+    "retrieved": "2026-08-27"
+  }
+}

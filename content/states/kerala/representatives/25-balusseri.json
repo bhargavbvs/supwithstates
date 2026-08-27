@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-25-balusseri",
+  "constituency": {
+    "number": 25,
+    "name": "Balusseri",
+    "district": "Kozhikode",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "V.T. Sooraj",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 30,
+    "profession": "Self Employment",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th From Naduvannur higher secondary school, vakayadu 2013"
+    },
+    "declared_cases": {
+      "total": 42,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 10,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 56900,
+      "immovable": 2200000,
+      "total": 2256900,
+      "liabilities": 650000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=42",
+    "retrieved": "2026-08-27"
+  }
+}

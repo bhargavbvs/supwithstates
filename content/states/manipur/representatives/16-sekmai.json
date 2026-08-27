@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-16-sekmai",
+  "constituency": {
+    "number": 16,
+    "name": "Sekmai",
+    "district": "Imphal West",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Heikham Dingo Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "MLA/ Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Manipur University Presidency College in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13076140,
+      "immovable": 2731000,
+      "total": 15807143,
+      "liabilities": 3784951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=62",
+    "retrieved": "2026-08-27"
+  }
+}

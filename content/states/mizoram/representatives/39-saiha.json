@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-39-saiha",
+  "constituency": {
+    "number": 39,
+    "name": "Saiha",
+    "district": "Saiha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. K. Beichhua",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Politician & MBBS",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS, from Regional Medical College, Imphal in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18981164,
+      "immovable": 35500000,
+      "total": 51355286,
+      "liabilities": 2247577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=153",
+    "retrieved": "2026-08-27"
+  }
+}

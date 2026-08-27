@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-84-palwal",
+  "constituency": {
+    "number": 84,
+    "name": "Palwal",
+    "district": "Palwal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gaurav Gautam",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 36,
+    "profession": "Salary & Social worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A., Mass Comunication In 2012 Guru Jambheshwar University of science & Technology HISA"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14066757,
+      "immovable": 31200000,
+      "total": 45266757,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=99",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-4-suratgarh",
+  "constituency": {
+    "number": 4,
+    "name": "Suratgarh",
+    "district": "Ganganagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dungarram Gedar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture,Crafts and Clay Art Board, Salary from Rajasthan Govt.",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from Mahrshi Dayanand Saraswati University Ajmer Year 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1345701,
+      "immovable": 1000000,
+      "total": 2345701,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=105",
+    "retrieved": "2026-08-27"
+  }
+}

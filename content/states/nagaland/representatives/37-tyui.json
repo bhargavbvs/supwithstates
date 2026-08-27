@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-37-tyui",
+  "constituency": {
+    "number": 37,
+    "name": "Tyui",
+    "district": "Wokha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Yanthungo Patton",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "BA (Not Completed) from St. Anthonys College, Shillong, North Eastern Hill University (NEHU) in 1980-82"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3524925,
+      "immovable": 22500000,
+      "total": 28524955,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6810",
+    "retrieved": "2026-08-27"
+  }
+}

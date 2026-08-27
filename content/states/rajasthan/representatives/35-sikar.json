@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-35-sikar",
+  "constituency": {
+    "number": 35,
+    "name": "Sikar",
+    "district": "Sikar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Pareek",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 75,
+    "profession": "MLA Salary, Allowances",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From, Rajasthan University, In 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18012904,
+      "immovable": 10165767,
+      "total": 28178671,
+      "liabilities": 8980462
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=403",
+    "retrieved": "2026-08-27"
+  }
+}

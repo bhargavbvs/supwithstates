@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-10-seppa-east",
+  "constituency": {
+    "number": 10,
+    "name": "Seppa East",
+    "district": "East Kameng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ealing Tallang",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Dera Natung Govt. College, Arunachal Pradesh in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12462934,
+      "immovable": 78465000,
+      "total": 90087934,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=73",
+    "retrieved": "2026-08-27"
+  }
+}

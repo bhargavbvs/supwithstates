@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-11-seppa-west",
+  "constituency": {
+    "number": 11,
+    "name": "Seppa West",
+    "district": "Pakke Kessang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mama Natung",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Public Leader",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Senior Secondary School Examination from National Institute of Open Schooling in 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 173899711,
+      "immovable": 100135000,
+      "total": 274034716,
+      "liabilities": 53679684
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=75",
+    "retrieved": "2026-08-27"
+  }
+}

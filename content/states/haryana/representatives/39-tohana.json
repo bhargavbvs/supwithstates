@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-39-tohana",
+  "constituency": {
+    "number": 39,
+    "name": "Tohana",
+    "district": "Fatehabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Paramvir Singh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Agriculture & Horse Breeding",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Law from Delhi University Delhi in 1977, B.A 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25145921,
+      "immovable": 174650000,
+      "total": 198845917,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=431",
+    "retrieved": "2026-08-27"
+  }
+}

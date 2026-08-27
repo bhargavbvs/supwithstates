@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-60-chopal",
+  "constituency": {
+    "number": 60,
+    "name": "Chopal",
+    "district": "Shimla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balbir Singh Verma",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Builder, Horticulturist, Hotelier, Petrol Pump",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from National Open School"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46525777,
+      "immovable": 1238000000,
+      "total": 1284525778,
+      "liabilities": 532715744
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=208",
+    "retrieved": "2026-08-27"
+  }
+}

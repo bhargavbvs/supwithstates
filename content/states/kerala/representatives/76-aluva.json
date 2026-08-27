@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-76-aluva",
+  "constituency": {
+    "number": 76,
+    "name": "Aluva",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anwar Sadath",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary School Leaving Certificate, Failed SNDP High School, Aluva, 1993"
+    },
+    "declared_cases": {
+      "total": 17,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 7,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 11434981,
+      "immovable": 2600000,
+      "total": 14034981,
+      "liabilities": 2072427
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=24",
+    "retrieved": "2026-08-27"
+  }
+}

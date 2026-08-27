@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-11-ajnala",
+  "constituency": {
+    "number": 11,
+    "name": "Ajnala",
+    "district": "Amritsar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kuldeep Singh Dhaliwal",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Standard from Jagdev Kalan Govt. School, Amritsar PSEB in 1977"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 816898,
+      "immovable": 15500000,
+      "total": 16316898,
+      "liabilities": 3655790
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=278",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-39-sugnoo",
+  "constituency": {
+    "number": 39,
+    "name": "Sugnoo",
+    "district": "Kakching",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kangujam Ranjit Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 60,
+    "profession": "Social Worker and Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University Course in Science (Under Graduate ) From Kha Manipur College Kakching , under Manipur University Canchipur year 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29723377,
+      "immovable": 12860000,
+      "total": 42583380,
+      "liabilities": 3974951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=174",
+    "retrieved": "2026-08-27"
+  }
+}

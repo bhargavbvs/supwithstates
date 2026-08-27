@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-26-madipur",
+  "constituency": {
+    "number": 26,
+    "name": "Madipur",
+    "district": "West",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kailash Gangwal",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 53,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Central Board Secondary Education in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5229369,
+      "immovable": 2450000,
+      "total": 7679369,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=815",
+    "retrieved": "2026-08-27"
+  }
+}

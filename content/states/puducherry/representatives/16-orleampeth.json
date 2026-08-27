@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-16-orleampeth",
+  "constituency": {
+    "number": 16,
+    "name": "Orleampeth",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "G. Nehru Alias Couppoussamy",
+    "election": "2026",
+    "elected_party": "Neyam Makkal Kazhagam",
+    "current_party": "Neyam Makkal Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Agriculture, Real Estate, Hotel, Ranjith Wines, Liquor Store",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "8 - th Std. (Discontinued) Petit Seminaire School, pondicherry."
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 65385057,
+      "immovable": 678427250,
+      "total": 770050328,
+      "liabilities": 167053707
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=195",
+    "retrieved": "2026-08-27"
+  }
+}

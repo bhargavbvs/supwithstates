@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-2-manendragarh",
+  "constituency": {
+    "number": 2,
+    "name": "Manendragarh",
+    "district": "Manendragarh-Chirmiri-Bharatpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shyam Bihari Jaiswal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture and Buisness",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Chem) Lahidi College Chirmiri Gurughasi das University Bilaspur Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12590329,
+      "immovable": 109921408,
+      "total": 120945487,
+      "liabilities": 50168477
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=476",
+    "retrieved": "2026-08-27"
+  }
+}

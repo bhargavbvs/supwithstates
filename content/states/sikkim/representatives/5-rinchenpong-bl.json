@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-5-rinchenpong-bl",
+  "constituency": {
+    "number": 5,
+    "name": "Rinchenpong(Bl)",
+    "district": "Soreng",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Erung Tenzing Lepcha",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Businessman, Agriculturist & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor or Arts From University of Delhi in the Year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9068875,
+      "immovable": 288500355,
+      "total": 297569235,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=95",
+    "retrieved": "2026-08-27"
+  }
+}

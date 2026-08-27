@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-132-gopalpur",
+  "constituency": {
+    "number": 132,
+    "name": "Gopalpur",
+    "district": "Ganjam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bibhuti Bhushan Jena",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc from Ganjam College Under Berhampur University Dist-Ganjam, Year-1993"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4299497,
+      "immovable": 18000000,
+      "total": 22299497,
+      "liabilities": 9071300
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=92",
+    "retrieved": "2026-08-27"
+  }
+}

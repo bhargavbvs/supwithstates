@@ -1,0 +1,25 @@
+{
+  "slug": "karnataka",
+  "name": "Karnataka",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 224,
+  "district_count": 30,
+  "term": {
+    "start": "2023"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Karnataka2023/",
+    "adr_serious_list": "https://www.myneta.info/Karnataka2023/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      76.34,
+      15.02
+    ],
+    "zoom": 6
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-24-nambol",
+  "constituency": {
+    "number": 24,
+    "name": "Nambol",
+    "district": "Bishnupur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thounaojam Basanta Kumar Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Retired IPS",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Arts (History), St. Stephen College Delhi University Year 1987, LL.B. From Manipur University Year 2002, Roll No. 155015 Registration No. 8230,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8113851,
+      "immovable": 35184750,
+      "total": 43298602,
+      "liabilities": 3953237
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=93",
+    "retrieved": "2026-08-27"
+  }
+}

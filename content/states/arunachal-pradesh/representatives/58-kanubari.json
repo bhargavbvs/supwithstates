@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-58-kanubari",
+  "constituency": {
+    "number": 58,
+    "name": "Kanubari",
+    "district": "Longding",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Gabriel Denwang Wangsu",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Public Leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Government college Itanagar, Arunachal University in Year 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7373465,
+      "immovable": 9200000,
+      "total": 16573667,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=126",
+    "retrieved": "2026-08-27"
+  }
+}

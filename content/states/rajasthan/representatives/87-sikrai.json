@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-87-sikrai",
+  "constituency": {
+    "number": 87,
+    "name": "Sikrai",
+    "district": "Dausa",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vikram Bansiwal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Rajasthan University Year 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18200020,
+      "immovable": 111150000,
+      "total": 129350020,
+      "liabilities": 1598303
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=407",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-2-tawang",
+  "constituency": {
+    "number": 2,
+    "name": "Tawang",
+    "district": "Tawang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Namgey Tsering",
+    "election": "2024",
+    "elected_party": "National Peoples Party",
+    "current_party": "National Peoples Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 42,
+    "profession": "Businessman & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Govt. Higher Secondary School, Tawang, All India Secondary School Examination-Central Board of School Education (CBSE) Year-1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 102931056,
+      "immovable": 151311600,
+      "total": 254242659,
+      "liabilities": 3261566
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=78",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-34-cheyyur",
+  "constituency": {
+    "number": 34,
+    "name": "Cheyyur",
+    "district": "Chengalpattu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajasekar. E",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 64,
+    "profession": "Real Estate, Rental Income and Vehicle Hiring",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Std-Fail, May 1977, TC dated: 2016/02/15"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 265390727,
+      "immovable": 420974422,
+      "total": 686365152,
+      "liabilities": 240582181
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=263",
+    "retrieved": "2026-08-27"
+  }
+}

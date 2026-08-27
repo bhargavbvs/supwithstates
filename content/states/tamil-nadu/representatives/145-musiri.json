@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-145-musiri",
+  "constituency": {
+    "number": 145,
+    "name": "Musiri",
+    "district": "Tiruchirappalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.Vignesh",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 34,
+    "profession": "Own Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Standard Passed 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8994967,
+      "immovable": 750000,
+      "total": 9743233,
+      "liabilities": 9755853
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=3695",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-87-badkhal",
+  "constituency": {
+    "number": 87,
+    "name": "Badkhal",
+    "district": "Faridabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhanesh Adlakha",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Rental Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA from Madurai Kamraj University in 2012"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 97826310,
+      "immovable": 157430817,
+      "total": 255168571,
+      "liabilities": 103429422
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=291",
+    "retrieved": "2026-08-27"
+  }
+}

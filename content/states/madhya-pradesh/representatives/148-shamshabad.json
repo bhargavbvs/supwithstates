@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-148-shamshabad",
+  "constituency": {
+    "number": 148,
+    "name": "Shamshabad",
+    "district": "Vidisha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surya Prakash Meena",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Former MLA and Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate ( Commerce Part) S.S.L. Jain University, Vidisha, Bhopal University, Bhopal Year 1982, 27 June"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37849527,
+      "immovable": 42211704,
+      "total": 80061231,
+      "liabilities": 24419569
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=202",
+    "retrieved": "2026-08-27"
+  }
+}

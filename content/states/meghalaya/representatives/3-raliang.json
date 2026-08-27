@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-3-raliang",
+  "constituency": {
+    "number": 3,
+    "name": "Raliang",
+    "district": "West Jaintia Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Coming One Ymbon",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Social Service, Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from Shangpung Presbyterian Secondary School in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44687682,
+      "immovable": 193900000,
+      "total": 238593686,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6885",
+    "retrieved": "2026-08-27"
+  }
+}

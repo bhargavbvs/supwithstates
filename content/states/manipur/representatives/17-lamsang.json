@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-17-lamsang",
+  "constituency": {
+    "number": 17,
+    "name": "Lamsang",
+    "district": "Imphal West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sorokhaibam Rajen Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Social Worker and MLA/Minister",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Y.K. College, Wangjing under Manipur University in 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24393826,
+      "immovable": 12000000,
+      "total": 41393826,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=56",
+    "retrieved": "2026-08-27"
+  }
+}

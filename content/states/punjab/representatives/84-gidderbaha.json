@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-84-gidderbaha",
+  "constituency": {
+    "number": 84,
+    "name": "Gidderbaha",
+    "district": "Sri Muktsar Sahib",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hardeep Singh Dimpy Dhillon",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business, Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Punjab University, Chandigarh in 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38920491,
+      "immovable": 92791967,
+      "total": 131712458,
+      "liabilities": 36041847
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1365",
+    "retrieved": "2026-08-27"
+  }
+}

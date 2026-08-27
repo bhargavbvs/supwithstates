@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-128-aska",
+  "constituency": {
+    "number": 128,
+    "name": "Aska",
+    "district": "Ganjam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saroj Kumar Padhi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 68,
+    "profession": "Advocate & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1992 Lingaraj Law College Berhampur From Berhampur University, B.Sc in 1979 Rajendra College, Balangir"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12647685,
+      "immovable": 19000000,
+      "total": 32050000,
+      "liabilities": 14899557
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=244",
+    "retrieved": "2026-08-27"
+  }
+}

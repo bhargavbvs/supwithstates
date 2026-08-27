@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-42-sham-chaurasi",
+  "constituency": {
+    "number": 42,
+    "name": "Sham Chaurasi",
+    "district": "Hoshiarpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr.Ravjot Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD in Mdicine From PGI CHD . Session 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30409330,
+      "immovable": 31100000,
+      "total": 61509330,
+      "liabilities": 4877816
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=137",
+    "retrieved": "2026-08-27"
+  }
+}

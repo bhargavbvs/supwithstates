@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-42-amarpur",
+  "constituency": {
+    "number": 42,
+    "name": "Amarpur",
+    "district": "Gomti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ranjit Das",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Cultivation & Social Works",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary (+2 States) Passed from Tripura Board of Secondary Education in the year 1998 from Amarpur H/S School"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 903315,
+      "immovable": 1550000,
+      "total": 2453315,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6880",
+    "retrieved": "2026-08-27"
+  }
+}

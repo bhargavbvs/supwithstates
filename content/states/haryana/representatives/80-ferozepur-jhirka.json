@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-80-ferozepur-jhirka",
+  "constituency": {
+    "number": 80,
+    "name": "Ferozepur Jhirka",
+    "district": "Nuh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mamman Khan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Salary (Member of State Legislative Assembly)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering (Civil), Bangalore University, Year 1994"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 14982809,
+      "immovable": 73200000,
+      "total": 88182808,
+      "liabilities": 2535328
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=139",
+    "retrieved": "2026-08-27"
+  }
+}

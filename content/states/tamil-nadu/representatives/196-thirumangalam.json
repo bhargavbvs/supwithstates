@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-196-thirumangalam",
+  "constituency": {
+    "number": 196,
+    "name": "Thirumangalam",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manimaran.M",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Standard Passed Govt High School T Kallupatti Peraiyur Taluk, Madurai District 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12385752,
+      "immovable": 24921597,
+      "total": 37307349,
+      "liabilities": 3942926
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=760",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-103-jagalur",
+  "constituency": {
+    "number": 103,
+    "name": "Jagalur",
+    "district": "D",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "B.Devendrappa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Retired Govt. Employee and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC Pass- Graduate Education Incomplete, Govt. Arts College, Chithraduraga, In 1983-84"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6154771,
+      "immovable": 15000000,
+      "total": 21154681,
+      "liabilities": 3200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7804",
+    "retrieved": "2026-08-27"
+  }
+}

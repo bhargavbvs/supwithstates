@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-31-mawthadraishan",
+  "constituency": {
+    "number": 31,
+    "name": "Mawthadraishan",
+    "district": "Eastern West Khasi Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shakliar Warjri",
+    "election": "2023",
+    "elected_party": "Hill State People’s Democratic Party",
+    "current_party": "Hill State People’s Democratic Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 26,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Human Resource Management from Madras Christian College School of Continuing Education in 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5782162,
+      "immovable": 87500000,
+      "total": 93282162,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7089",
+    "retrieved": "2026-08-27"
+  }
+}

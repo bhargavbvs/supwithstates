@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-64-bahadurgarh",
+  "constituency": {
+    "number": 64,
+    "name": "Bahadurgarh",
+    "district": "Jhajjar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Joon",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Indian Air Force Certificate Equivalent to BA in 1991, Matric from HBSE in 1984"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6305604,
+      "immovable": 604000000,
+      "total": 610304000,
+      "liabilities": 193700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=957",
+    "retrieved": "2026-08-27"
+  }
+}

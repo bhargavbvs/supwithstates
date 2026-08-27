@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-212-mudhukulathur",
+  "constituency": {
+    "number": 212,
+    "name": "Mudhukulathur",
+    "district": "Ramanathapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R.S.Rajakannappan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 77,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.L- Chennai Law college- 1975, B.Sc Mannar College, Sivagangai-1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16813640,
+      "immovable": 8895000,
+      "total": 25708640,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1198",
+    "retrieved": "2026-08-27"
+  }
+}

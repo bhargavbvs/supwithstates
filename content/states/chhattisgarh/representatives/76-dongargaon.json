@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-76-dongargaon",
+  "constituency": {
+    "number": 76,
+    "name": "Dongargaon",
+    "district": "Rajnandgaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Daleshwar Sahu",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary sarvodya Nagar Palika School Rajnandgaon, Diploma in Music 1990 Indira sangeet University Khairagarh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13906968,
+      "immovable": 14900000,
+      "total": 28281108,
+      "liabilities": 294359
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=43",
+    "retrieved": "2026-08-27"
+  }
+}

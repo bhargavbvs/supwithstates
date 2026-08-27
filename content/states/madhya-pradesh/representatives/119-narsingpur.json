@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-119-narsingpur",
+  "constituency": {
+    "number": 119,
+    "name": "Narsingpur",
+    "district": "Narsinghpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prahlad Singh Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Salary of M.P. and Central State Minister from Govt. & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. in 1980-81 & LLB in 1987 From Rani Durgawati University, Jabalpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22257399,
+      "immovable": 67020000,
+      "total": 89277399,
+      "liabilities": 14189804
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=173",
+    "retrieved": "2026-08-27"
+  }
+}

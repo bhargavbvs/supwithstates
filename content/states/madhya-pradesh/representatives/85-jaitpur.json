@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-85-jaitpur",
+  "constituency": {
+    "number": 85,
+    "name": "Jaitpur",
+    "district": "Shahdol",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Jai Singh Maravi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th from Govt. Higher Secondary School (Boys) Kotama, Distt. Anuppur (M.P. Board of Secondary Education Bhopal) In 1970"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5849510,
+      "immovable": 8655000,
+      "total": 14504510,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=304",
+    "retrieved": "2026-08-27"
+  }
+}

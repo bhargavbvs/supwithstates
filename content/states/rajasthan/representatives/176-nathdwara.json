@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-176-nathdwara",
+  "constituency": {
+    "number": 176,
+    "name": "Nathdwara",
+    "district": "Rajsamand",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vishvaraj Singh Mewar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Director- Income received from Sarvritu Horticulture Farms Pvt. Ltd.",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B..A. Economics & Commerce From St. Xavier College, Mumbai in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10045999,
+      "immovable": 0,
+      "total": 10045999,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=91",
+    "retrieved": "2026-08-27"
+  }
+}

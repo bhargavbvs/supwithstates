@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-13-st-cruz",
+  "constituency": {
+    "number": 13,
+    "name": "St. Cruz",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rodolfo Louis Fernandes",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th Passed From Dhempe College of Arts and Science Panaji Batch in 1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 98366778,
+      "immovable": 248294974,
+      "total": 346661782,
+      "liabilities": 7216182
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=53",
+    "retrieved": "2026-08-27"
+  }
+}

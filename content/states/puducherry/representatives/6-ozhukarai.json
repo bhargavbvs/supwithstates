@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-6-ozhukarai",
+  "constituency": {
+    "number": 6,
+    "name": "Ozhukarai",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K.Narayanasamy Alias Nithyanandam",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA. from (Cardiff University, United Kingdom) Year -2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 182291805,
+      "immovable": 140895856,
+      "total": 323181661,
+      "liabilities": 79652656
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=128",
+    "retrieved": "2026-08-27"
+  }
+}

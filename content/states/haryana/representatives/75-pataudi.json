@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-75-pataudi",
+  "constituency": {
+    "number": 75,
+    "name": "Pataudi",
+    "district": "Gurugram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bimla Chaudhary",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric From National Institute of Open Schooling, Year-2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7949905,
+      "immovable": 12500000,
+      "total": 20449905,
+      "liabilities": 85733
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=210",
+    "retrieved": "2026-08-27"
+  }
+}

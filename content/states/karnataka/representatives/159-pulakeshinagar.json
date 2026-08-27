@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-159-pulakeshinagar",
+  "constituency": {
+    "number": 159,
+    "name": "Pulakeshinagar",
+    "district": "Bengal#ru (Urban)",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "A C Srinivasa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Land Developers, Agriculturist, Social Worker and Education Sectors",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bcom ,V. V Puram College Bangalore University-1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 394576128,
+      "immovable": 1482207000,
+      "total": 1876783128,
+      "liabilities": 1112253548
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8220",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-79-nuh",
+  "constituency": {
+    "number": 79,
+    "name": "Nuh",
+    "district": "Nuh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aftab Ahmed",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from MD University Rohtak in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29984134,
+      "immovable": 298100000,
+      "total": 267784512,
+      "liabilities": 1255622
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=214",
+    "retrieved": "2026-08-27"
+  }
+}

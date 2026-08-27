@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-142-jalore",
+  "constituency": {
+    "number": 142,
+    "name": "Jalore",
+    "district": "Jalor",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Jogeshwar Garg",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Pensioner, MLA Salary & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (B.A.) in 1981 from Rajasthan University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6041978,
+      "immovable": 17927180,
+      "total": 28008180,
+      "liabilities": 2829276
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=222",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-57-hatta",
+  "constituency": {
+    "number": 57,
+    "name": "Hatta",
+    "district": "Damoh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Umadevi Lalchand Khatik",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "NIL",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from Hikarni School Jabalpur in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4989670,
+      "immovable": 33100000,
+      "total": 38089670,
+      "liabilities": 500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1444",
+    "retrieved": "2026-08-27"
+  }
+}

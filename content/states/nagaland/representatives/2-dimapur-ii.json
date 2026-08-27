@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-2-dimapur-ii",
+  "constituency": {
+    "number": 2,
+    "name": "Dimapur-Ii",
+    "district": "Dimapur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Moatoshi Longkumer",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Politician, MLA in 13th NLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Agriculture) from NEHU School of Agricultural Science and Rural Development Medziphema, Nagaland"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16782047,
+      "immovable": 44100000,
+      "total": 60882047,
+      "liabilities": 1981386
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6789",
+    "retrieved": "2026-08-27"
+  }
+}

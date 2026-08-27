@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-130-luni",
+  "constituency": {
+    "number": 130,
+    "name": "Luni",
+    "district": "Jodhpur Gramin",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jogaram Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB IN 1978, B.A. IN 1975 from Jai Narayan Vyas University Jodhpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7741175,
+      "immovable": 62345000,
+      "total": 70086176,
+      "liabilities": 1600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=285",
+    "retrieved": "2026-08-27"
+  }
+}

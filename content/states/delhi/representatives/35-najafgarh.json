@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-35-najafgarh",
+  "constituency": {
+    "number": 35,
+    "name": "Najafgarh",
+    "district": "South West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Neelam Pahalwan",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 43,
+    "profession": "Political, Social Worker, Invester",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (English) from Dr. Bhim Rao Ambedkar University Agra in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18685791,
+      "immovable": 106325000,
+      "total": 125010791,
+      "liabilities": 5348976
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=56",
+    "retrieved": "2026-08-27"
+  }
+}

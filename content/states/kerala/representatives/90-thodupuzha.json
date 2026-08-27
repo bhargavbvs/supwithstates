@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-90-thodupuzha",
+  "constituency": {
+    "number": 90,
+    "name": "Thodupuzha",
+    "district": "Idukki",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Apu John Joseph",
+    "election": "2026",
+    "elected_party": "Kerala Congress",
+    "current_party": "Kerala Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Agriculturist, Entrepreneur & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Enginnering in Electronics & Communication Engineering From Kumaraguru College of Technology Coimbatore, Bharathiar University In 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27690833,
+      "immovable": 124700000,
+      "total": 152390833,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=565",
+    "retrieved": "2026-08-27"
+  }
+}

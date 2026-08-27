@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-51-civil-lines",
+  "constituency": {
+    "number": 51,
+    "name": "Civil Lines",
+    "district": "Jaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gopal Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (History) from Kashi Vidhyapith Varansi 1983"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12507220,
+      "immovable": 97100000,
+      "total": 109594820,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=459",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-29-mawkynrew",
+  "constituency": {
+    "number": 29,
+    "name": "Mawkynrew",
+    "district": "East Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Banteidor Lyngdoh",
+    "election": "2023",
+    "elected_party": "PDF",
+    "current_party": "PDF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Member of Meghalaya Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelors Preparatory Programme from IGNOU in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10901290,
+      "immovable": 1500000,
+      "total": 12401290,
+      "liabilities": 454100
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6945",
+    "retrieved": "2026-08-27"
+  }
+}

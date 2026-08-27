@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-217-chamaraja",
+  "constituency": {
+    "number": 217,
+    "name": "Chamaraja",
+    "district": "Mys#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K. Harish Gowda",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "BA Failed , Maharaja College, Mysore- 1989-90"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16468047,
+      "immovable": 21825000,
+      "total": 38289960,
+      "liabilities": 6800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7892",
+    "retrieved": "2026-08-27"
+  }
+}

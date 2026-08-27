@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-74-jharigam",
+  "constituency": {
+    "number": 74,
+    "name": "Jharigam",
+    "district": "Nabarangapur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Narsing Bhatra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Cultivation & Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School from Board Of Secondary Education Odisha1995"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2261100,
+      "immovable": 3722000,
+      "total": 5733100,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-27"
+  }
+}

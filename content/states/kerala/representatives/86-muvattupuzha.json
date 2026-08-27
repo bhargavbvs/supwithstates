@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-86-muvattupuzha",
+  "constituency": {
+    "number": 86,
+    "name": "Muvattupuzha",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Mathew Kuzhalnadan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy in International Trade Law From Jawaharlal Nehru University, New Delhi in 2012"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 224108111,
+      "immovable": 174384000,
+      "total": 398492111,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=716",
+    "retrieved": "2026-08-27"
+  }
+}

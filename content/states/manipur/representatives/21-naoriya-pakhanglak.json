@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-21-naoriya-pakhanglak",
+  "constituency": {
+    "number": 21,
+    "name": "Naoriya Pakhanglak*",
+    "district": "Imphal West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sagolshem Kebi Devi",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 32,
+    "profession": "Entrepreneur/Politician/Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Class Pass from Little Master Hr. Secondary School, Samurou, Board of Secondary Education Manipur in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49191373,
+      "immovable": 13950795,
+      "total": 63552175,
+      "liabilities": 18085949
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=46",
+    "retrieved": "2026-08-27"
+  }
+}

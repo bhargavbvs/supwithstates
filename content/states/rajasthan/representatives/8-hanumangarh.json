@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-8-hanumangarh",
+  "constituency": {
+    "number": 8,
+    "name": "Hanumangarh",
+    "district": "Hanumangarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ganeshraj Bansal",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 44978448,
+      "immovable": 207532960,
+      "total": 252511408,
+      "liabilities": 1281682
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=884",
+    "retrieved": "2026-08-27"
+  }
+}

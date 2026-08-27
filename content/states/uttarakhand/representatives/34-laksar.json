@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-34-laksar",
+  "constituency": {
+    "number": 34,
+    "name": "Laksar",
+    "district": "Haridw>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shahzad",
+    "election": "2022",
+    "elected_party": "BSP",
+    "current_party": "BSP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Agriculture & MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1588239,
+      "immovable": 42000000,
+      "total": 43588239,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=11",
+    "retrieved": "2026-08-27"
+  }
+}

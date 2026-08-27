@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-192-madurai-south",
+  "constituency": {
+    "number": 192,
+    "name": "Madurai South",
+    "district": "Madurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.M.Gopison",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 40,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "PG Diploma in Project Managemnet From National Business Management In 2008, MBA. From National Business Managemnt In 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15956305,
+      "immovable": 4375000,
+      "total": 20331305,
+      "liabilities": 13700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1561",
+    "retrieved": "2026-08-27"
+  }
+}

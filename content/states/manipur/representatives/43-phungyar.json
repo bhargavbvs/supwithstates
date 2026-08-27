@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-43-phungyar",
+  "constituency": {
+    "number": 43,
+    "name": "Phungyar",
+    "district": "Kamjang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Leishiyo Keishing",
+    "election": "2022",
+    "elected_party": "NPF",
+    "current_party": "NPF",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Sitting MLA/Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from Sikkim Manipur University in 2016, PGDC From National Power Training Institute (NPTI) Under Ministry of Power Govt. of India 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10535409,
+      "immovable": 9100000,
+      "total": 19635409,
+      "liabilities": 2766760
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=216",
+    "retrieved": "2026-08-27"
+  }
+}

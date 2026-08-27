@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-40-malappuram",
+  "constituency": {
+    "number": 40,
+    "name": "Malappuram",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P.K Kunhalikutty",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 74,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from Sir Syed College, Thaliparamba, University of Calicut in 1973."
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 44588298,
+      "immovable": 27915000,
+      "total": 72503299,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=165",
+    "retrieved": "2026-08-27"
+  }
+}

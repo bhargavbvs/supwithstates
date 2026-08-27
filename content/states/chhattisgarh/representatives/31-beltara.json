@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-31-beltara",
+  "constituency": {
+    "number": 31,
+    "name": "Beltara",
+    "district": "Bilaspur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sushant Shukla",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Year 2018 C.G open school"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8913600,
+      "immovable": 33600000,
+      "total": 41928600,
+      "liabilities": 10943118
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=400",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-80-fazilka",
+  "constituency": {
+    "number": 80,
+    "name": "Fazilka",
+    "district": "Fazilka",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narinder Pal Singh Sawna",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 30,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Academic College of Early Childhood Care & Education, Acecce New Delhi In 2019, (Advanced Diploma In Child Education & Applied Psychology) Nursery Teachers Training Course (E.C.C.E.)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18370,
+      "immovable": 0,
+      "total": 18370,
+      "liabilities": 301079
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=64",
+    "retrieved": "2026-08-27"
+  }
+}

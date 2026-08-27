@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-93-senthamangalam",
+  "constituency": {
+    "number": 93,
+    "name": "Senthamangalam",
+    "district": "Namakkal",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "P Chandrasekar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Private Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA. BL. (Bachelore of Law) From Govt. Law College, Trichy In 2001. 12th Standard From kamarar Higher School, Villupuram In 1991. 10th Standard Mahatma Gandi High School, Villupuram In 1989."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5667000,
+      "immovable": 0,
+      "total": 5667000,
+      "liabilities": 1200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=775",
+    "retrieved": "2026-08-27"
+  }
+}

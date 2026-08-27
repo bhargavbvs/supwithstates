@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-2-burari",
+  "constituency": {
+    "number": 2,
+    "name": "Burari",
+    "district": "Central",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjeev Jha",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 45,
+    "profession": "MLA, NCT of Delhi",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons.) from R.K. College, Madhubani, Bihar in 2001"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 721329,
+      "immovable": 726000,
+      "total": 1447331,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=173",
+    "retrieved": "2026-08-27"
+  }
+}

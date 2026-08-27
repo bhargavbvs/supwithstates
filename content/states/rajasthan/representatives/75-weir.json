@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-75-weir",
+  "constituency": {
+    "number": 75,
+    "name": "Weir",
+    "district": "Bharatpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bahadur Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Pension ( Parliament/MLA) and Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Study till 9th Standard"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19552552,
+      "immovable": 17500000,
+      "total": 37052561,
+      "liabilities": 1464216
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=51",
+    "retrieved": "2026-08-27"
+  }
+}

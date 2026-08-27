@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-71-mauganj",
+  "constituency": {
+    "number": 71,
+    "name": "Mauganj",
+    "district": "Mauganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Agriculture, Salary, Partnership profit",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc maths from Awadhesh pratap singh university rewa in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5393188,
+      "immovable": 12700000,
+      "total": 18093188,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=749",
+    "retrieved": "2026-08-27"
+  }
+}

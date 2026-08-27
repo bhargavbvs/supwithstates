@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-69-nanak-matta",
+  "constituency": {
+    "number": 69,
+    "name": "Nanak Matta",
+    "district": "Udham Singh Nagar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Gopal Singh Rana",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 72,
+    "profession": "Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BA & LLB"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1935000,
+      "immovable": 30900000,
+      "total": 33163000,
+      "liabilities": 4525000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=229",
+    "retrieved": "2026-08-27"
+  }
+}

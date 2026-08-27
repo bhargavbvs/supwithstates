@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-61-ludhiana-south",
+  "constituency": {
+    "number": 61,
+    "name": "Ludhiana South",
+    "district": "Ludhiana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajinder Pal Kaur",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Rental, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation From Sidhwan College For Women, Ludhiana From Punjab University Chandigarh in 1989"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3031775,
+      "immovable": 6000000,
+      "total": 9031775,
+      "liabilities": 2276446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1260",
+    "retrieved": "2026-08-27"
+  }
+}

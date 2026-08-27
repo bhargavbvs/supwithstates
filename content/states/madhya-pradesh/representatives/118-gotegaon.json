@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-118-gotegaon",
+  "constituency": {
+    "number": 118,
+    "name": "Gotegaon",
+    "district": "Narsinghpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mahendra Nagesh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary in 1991 from Ma. Shi. M. Bhopal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8716989,
+      "immovable": 22600000,
+      "total": 31316989,
+      "liabilities": 1525000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=131",
+    "retrieved": "2026-08-27"
+  }
+}

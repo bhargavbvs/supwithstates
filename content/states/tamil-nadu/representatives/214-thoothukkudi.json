@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-214-thoothukkudi",
+  "constituency": {
+    "number": 214,
+    "name": "Thoothukkudi",
+    "district": "Thoothukudi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Srinath",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Actor, Director",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Tamil Nadu Government Don Bosco, Egmore, Chennai in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15780054,
+      "immovable": 17800000,
+      "total": 33580058,
+      "liabilities": 5642923
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=763",
+    "retrieved": "2026-08-27"
+  }
+}

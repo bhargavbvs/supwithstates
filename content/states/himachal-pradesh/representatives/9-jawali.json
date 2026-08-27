@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-9-jawali",
+  "constituency": {
+    "number": 9,
+    "name": "Jawali",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chander Kumar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 78,
+    "profession": "Social and Political Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA in 1966, M.Ed. from Punjab University Chandigarh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6152900,
+      "immovable": 38262568,
+      "total": 44398032,
+      "liabilities": 2802878
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=143",
+    "retrieved": "2026-08-27"
+  }
+}

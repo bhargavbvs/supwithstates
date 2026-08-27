@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-133-berhampur",
+  "constituency": {
+    "number": 133,
+    "name": "Berhampur",
+    "district": "Ganjam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K. Anil Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Modern Academy Vijayawada AP in the Year 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18432893,
+      "immovable": 15000000,
+      "total": 38432893,
+      "liabilities": 10081474
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=6",
+    "retrieved": "2026-08-27"
+  }
+}

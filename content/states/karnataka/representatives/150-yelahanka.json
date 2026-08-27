@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-150-yelahanka",
+  "constituency": {
+    "number": 150,
+    "name": "Yelahanka",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "S R Vishwanath",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Agriculture, Social Worker, MLA and President of Bengaluru Development Authority",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts, Govt Arts College Blore and ITI, MS Jairam Institute of Technology, Blore. NAC BEML."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 103301199,
+      "immovable": 546581123,
+      "total": 635856313,
+      "liabilities": 7765280
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8405",
+    "retrieved": "2026-08-27"
+  }
+}

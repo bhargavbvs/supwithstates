@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-85-bandikui",
+  "constituency": {
+    "number": 85,
+    "name": "Bandikui",
+    "district": "Dausa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhagchand Tankda",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Jaipur National University, Jaipur, Year-2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25107435,
+      "immovable": 29295836,
+      "total": 54403271,
+      "liabilities": 12146577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=146",
+    "retrieved": "2026-08-27"
+  }
+}

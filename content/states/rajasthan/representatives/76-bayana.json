@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-76-bayana",
+  "constituency": {
+    "number": 76,
+    "name": "Bayana",
+    "district": "Bharatpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Ritu Banawat",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "House Wife, Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. from Jaipur in 2014, MA Political from RU Jaipur in 2010, MA Music from MLSU Udaipur in 2007, LLB from RU Jaipur in 2017"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2441570,
+      "immovable": 8700000,
+      "total": 14122787,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1041",
+    "retrieved": "2026-08-27"
+  }
+}

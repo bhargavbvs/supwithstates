@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-54-mahendraganj",
+  "constituency": {
+    "number": 54,
+    "name": "Mahendraganj",
+    "district": "South West G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sanjay A. Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Class from Don Bosco Higher Secondary School, Tural West Garo Hills Meghalaya In 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19822629,
+      "immovable": 86500000,
+      "total": 91322630,
+      "liabilities": 3859346
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6961",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-63-athamallik",
+  "constituency": {
+    "number": 63,
+    "name": "Athamallik",
+    "district": "Anugul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nalini Kanta Pradhan",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 66,
+    "profession": "Retired Government Servant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Engineering in Civil from University College of Engineering, Burla under Sambalpur University in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21419982,
+      "immovable": 46807030,
+      "total": 68227013,
+      "liabilities": 4963475
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=544",
+    "retrieved": "2026-08-27"
+  }
+}

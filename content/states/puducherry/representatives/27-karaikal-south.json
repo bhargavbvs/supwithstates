@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-27-karaikal-south",
+  "constituency": {
+    "number": 27,
+    "name": "Karaikal South",
+    "district": "Karaikal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A.M.H. Nazeem",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Full time Politician - Cum-Landlord",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A., (Economics) Incomplete in Aringar Anna Arts College (then Madras University), Karaikal (1979 - 1982)"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9970757,
+      "immovable": 4050000,
+      "total": 12520757,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=89",
+    "retrieved": "2026-08-27"
+  }
+}

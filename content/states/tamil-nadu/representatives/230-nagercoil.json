@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-230-nagercoil",
+  "constituency": {
+    "number": 230,
+    "name": "Nagercoil",
+    "district": "Kanniyakumari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Austin",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Former Member of Legislative Assembly (MLA)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A, Scott Christian College, Nagercoil, Madurai Kamaraj University-1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1848246,
+      "immovable": 22000000,
+      "total": 23848246,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=933",
+    "retrieved": "2026-08-27"
+  }
+}

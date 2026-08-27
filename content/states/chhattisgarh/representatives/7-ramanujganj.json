@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-7-ramanujganj",
+  "constituency": {
+    "number": 7,
+    "name": "Ramanujganj",
+    "district": "Balrampur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ram Vichar Netam",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture Rent, Interest",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Higher Secondary (11th) Year 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 26155765,
+      "immovable": 37607689,
+      "total": 69283634,
+      "liabilities": 5068656
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=516",
+    "retrieved": "2026-08-27"
+  }
+}

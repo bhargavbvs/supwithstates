@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-65-kalasapakkam",
+  "constituency": {
+    "number": 65,
+    "name": "Kalasapakkam",
+    "district": "Tiruvannamalai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Agri Krishnamurthy. S S",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BL., Chennai Law College, Chennai - 2012, B.SC., (Agri) Tamil Nadu Agricultural University Coimbatore - 1982"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 99205443,
+      "immovable": 39787100,
+      "total": 138993353,
+      "liabilities": 27612118
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1367",
+    "retrieved": "2026-08-27"
+  }
+}

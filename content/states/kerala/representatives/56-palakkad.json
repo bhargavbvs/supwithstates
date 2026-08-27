@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-56-palakkad",
+  "constituency": {
+    "number": 56,
+    "name": "Palakkad",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramesh Pisharody",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre Degree, Devasom Board College, thalayolavaray, MG University,1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41297000,
+      "immovable": 31200000,
+      "total": 45172000,
+      "liabilities": 16913000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=204",
+    "retrieved": "2026-08-27"
+  }
+}

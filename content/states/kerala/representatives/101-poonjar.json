@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-101-poonjar",
+  "constituency": {
+    "number": 101,
+    "name": "Poonjar",
+    "district": "Kottayam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv.Sebastian M.J",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Own Business, Agriculture, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA - Symbiosis International University Pune-1995, L.L.B- Symbiosis Law School-1993, B.A., St. Thomas college Palai-1989"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 24837796,
+      "immovable": 88245000,
+      "total": 113082802,
+      "liabilities": 37620853
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=846",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-35-bina",
+  "constituency": {
+    "number": 35,
+    "name": "Bina",
+    "district": "Sagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Adv. Nirmla Sapre",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Philosophy in Geology (Vinayak Mission University, Selam Tamilnadu)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7922828,
+      "immovable": 16400000,
+      "total": 24322828,
+      "liabilities": 3580330
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=481",
+    "retrieved": "2026-08-27"
+  }
+}

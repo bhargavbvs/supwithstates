@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-46-phulbari",
+  "constituency": {
+    "number": 46,
+    "name": "Phulbari",
+    "district": "West G>ro Hills",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abu Taher Mondal",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "A.M.I.E. (I) in Civil Engineering from The Institution of Engineers(India), Kolkata In 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2236850,
+      "immovable": 23680000,
+      "total": 25916852,
+      "liabilities": 2089618
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7055",
+    "retrieved": "2026-08-27"
+  }
+}

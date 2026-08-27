@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-46-gudiyattam",
+  "constituency": {
+    "number": 46,
+    "name": "Gudiyattam",
+    "district": "Vellore",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "K.Sindu",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Sindhi Music and Dance Academy, Latheri",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A, (English) - Annamalai University - 2015, B.Ed., (English) - Annamalai University - 2013, +2 grade Sahay Mata Matriculation School, 2006, 10th grade, Sahay Mata Matriculation School, 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 654773,
+      "immovable": 500000,
+      "total": 1152773,
+      "liabilities": 700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1083",
+    "retrieved": "2026-08-27"
+  }
+}

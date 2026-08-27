@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-8-salghari-zoom",
+  "constituency": {
+    "number": 8,
+    "name": "Salghari-Zoom",
+    "district": "Soreng",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Madan Cintury",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Read up to Class-IVth From Government High School, Namchi Sikkim"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5091399,
+      "immovable": 7877201,
+      "total": 12968600,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=98",
+    "retrieved": "2026-08-27"
+  }
+}

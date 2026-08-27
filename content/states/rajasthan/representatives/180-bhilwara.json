@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-180-bhilwara",
+  "constituency": {
+    "number": 180,
+    "name": "Bhilwara",
+    "district": "Bhilwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Kumar Kothari",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Business & Director",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. Year 1982, M.L.V. Govt. College, Bhilwara Rajasthan University Jaipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45593856,
+      "immovable": 406750000,
+      "total": 452343856,
+      "liabilities": 254000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=787",
+    "retrieved": "2026-08-27"
+  }
+}

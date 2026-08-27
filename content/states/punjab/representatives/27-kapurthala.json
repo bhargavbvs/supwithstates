@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-27-kapurthala",
+  "constituency": {
+    "number": 27,
+    "name": "Kapurthala",
+    "district": "Kapurthala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rana Gurjeet Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation - From Dagshai Public School, Dharampur (H.P.) I.C.S.E Board Year 1972"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 473970000,
+      "immovable": 782466000,
+      "total": 1256436000,
+      "liabilities": 717502000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1102",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-23-saidapet",
+  "constituency": {
+    "number": 23,
+    "name": "Saidapet",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arul Prakasam. M",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From St. Joseph Higher Secondary School, Tirupapuliyur, Year of Completed In 1996."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9284690,
+      "immovable": 7500000,
+      "total": 16784692,
+      "liabilities": 1857994
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=858",
+    "retrieved": "2026-08-27"
+  }
+}

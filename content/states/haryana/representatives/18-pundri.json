@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-18-pundri",
+  "constituency": {
+    "number": 18,
+    "name": "Pundri",
+    "district": "Kaithal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Satpal Jamba",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Social Services, Businessman",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. History from Kurukshetra University in 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14737302,
+      "immovable": 147600000,
+      "total": 162337303,
+      "liabilities": 9758577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=354",
+    "retrieved": "2026-08-27"
+  }
+}

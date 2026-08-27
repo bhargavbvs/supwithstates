@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-81-abohar",
+  "constituency": {
+    "number": 81,
+    "name": "Abohar",
+    "district": "Fazilka",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Jakhar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From Florida International University In 2001,Hospitality Management From Hotel Institute of Montreux In 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 118180350,
+      "immovable": 154621376,
+      "total": 272801726,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=2",
+    "retrieved": "2026-08-27"
+  }
+}

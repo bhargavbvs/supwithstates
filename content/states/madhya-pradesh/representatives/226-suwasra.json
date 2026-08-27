@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-226-suwasra",
+  "constituency": {
+    "number": 226,
+    "name": "Suwasra",
+    "district": "Mandsaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dung Hardeep Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture, MLA, Cabinet Minister Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from Madhav College Ujjain in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10484307,
+      "immovable": 6682000,
+      "total": 17166307,
+      "liabilities": 3032581
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=446",
+    "retrieved": "2026-08-27"
+  }
+}

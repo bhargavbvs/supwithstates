@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-146-malkangiri",
+  "constituency": {
+    "number": 146,
+    "name": "Malkangiri",
+    "district": "Malkangiri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Narasinga Madkami",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "10th Fail from G.N. High School Banktigude Malkangiri Board of Secondary Education Odisha 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5178781,
+      "immovable": 3100000,
+      "total": 7805680,
+      "liabilities": 1558400
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=128",
+    "retrieved": "2026-08-27"
+  }
+}

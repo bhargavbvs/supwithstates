@@ -1,9 +1,16 @@
 #!/usr/bin/env node
 import { execFileSync } from 'node:child_process';
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { assertBudget } from './lib/budget.mjs';
+import { stateConfig } from './lib/states.mjs';
+import { projectGeo } from './lib/project-geo.mjs';
 
 const STATE = process.env.STATE ?? 'andhra';
+const CONF = stateConfig(STATE);
+if (CONF.blocked) {
+  console.error(`${STATE} is held back: ${CONF.note}`);
+  process.exit(1);
+}
 const OUT = new URL(`../content/states/${STATE}/geo/`, import.meta.url).pathname;
 mkdirSync(OUT, { recursive: true });
 
@@ -115,6 +122,87 @@ if (STATE === 'telangana') {
 
   console.log('districts.geojson     ', assertBudget(`${OUT}districts.geojson`, 200 * 1024), 'bytes');
   console.log('constituencies.geojson', assertBudget(`${OUT}constituencies.geojson`, 500 * 1024), 'bytes');
+  process.exit(0);
+}
+
+// Every state but the two Andhras is cut from the national assembly layer
+// the same way, so there is one path for all of them.
+//
+// Two things in that layer need handling before a join. Some states carry
+// placeholder features with AC_NO 0 and no name — Maharashtra has 14 of
+// them — which are not constituencies and are dropped. Others store a
+// single constituency as several polygons: Manipur files Andro three
+// times, Kerala files Kothamangalam twice. Those are one seat each, so
+// they are dissolved back together by their number before anything is
+// asked of them. Dropping the duplicates instead would quietly delete
+// territory; leaving them would put one seat on the map three times.
+//
+// The dissolve has to come before the district join, or the parts of one
+// constituency can be placed in different districts.
+if (CONF.geoSource !== 'ap-ac' && CONF.geoSource !== 'undivided-andhra') {
+  // How hard to simplify is not one number for the whole country. Five per
+  // cent suits a state the size of Andhra and leaves Madhya Pradesh at 1.4MB
+  // of geometry, which is a map nobody on a phone waits for. So the build
+  // tries the gentlest setting first and steps down until the state fits the
+  // same payload every other state ships in. What a reader loses at 1% on a
+  // large state is detail far below the size of one pixel at the zoom the
+  // whole state is shown at.
+  // The gate is the file the browser actually downloads. constituencies.geojson
+  // is an intermediate: projectGeo turns it into SVG path strings on a
+  // 1000-unit viewBox at two decimals, which is a good deal smaller than
+  // lng/lat at four. Measuring the geojson instead was measuring the wrong
+  // thing and simplified large states far harder than they needed.
+  // Two passes, not one.
+  //
+  // `combine-files` puts the districts and the constituencies in a single
+  // dataset with one shared arc pool, and a `-simplify` percentage is a
+  // proportion of that whole pool. With the districts in it, the
+  // constituencies came out barely simplified: Madhya Pradesh kept 31,811
+  // vertices where the same 5% applied to the layer on its own leaves
+  // 3,074. Filtering does not help — a filtered-out shape's arcs stay in
+  // the dataset until it is written. So the join is written out first, and
+  // the simplification reads that file back on its own.
+  const RAW = `${OUT}.constituencies.raw.geojson`;
+  mapshaper([
+    '-i', '.geo-src/india-districts.geojson', '.geo-src/national-ac.geojson', 'combine-files',
+    '-rename-layers', 'districts,ac',
+    '-filter', 'target=districts', `state===${JSON.stringify(CONF.districtState)}`,
+    '-filter', 'target=ac', `ST_NAME===${JSON.stringify(CONF.geoState)} && +AC_NO > 0`,
+    '-dissolve', 'target=ac', 'AC_NO', 'copy-fields=AC_NAME,PC_NO,PC_NAME',
+    '-join', 'target=ac', 'source=districts', 'point-method', 'fields=district',
+    '-filter-fields', 'target=ac', 'fields=AC_NO,AC_NAME,district,PC_NO,PC_NAME',
+    '-o', 'target=ac', 'format=geojson', RAW,
+  ]);
+
+  const MAP_BUDGET = 400 * 1024;
+  const STEPS = ['5%', '3%', '2%', '1.5%', '1%', '0.6%'];
+  let used = null;
+  let mapBytes = 0;
+  for (const pct of STEPS) {
+    mapshaper([
+      RAW, '-simplify', pct, 'keep-shapes',
+      '-o', 'format=geojson', 'precision=0.0001', `${OUT}constituencies.geojson`,
+    ]);
+    used = pct;
+    assertPlaced(`${OUT}constituencies.geojson`);
+    districtsFromConstituencies(OUT);
+    const map = projectGeo(
+      JSON.parse(readFileSync(`${OUT}constituencies.geojson`, 'utf8')),
+      JSON.parse(readFileSync(`${OUT}districts.geojson`, 'utf8')),
+    );
+    mapBytes = Buffer.byteLength(JSON.stringify(map));
+    if (mapBytes <= MAP_BUDGET) break;
+  }
+  rmSync(RAW, { force: true });
+
+  const fc = JSON.parse(readFileSync(`${OUT}constituencies.geojson`, 'utf8'));
+  const numbers = fc.features.map((f) => Number(f.properties.AC_NO));
+  console.log(`${STATE}: ${fc.features.length} constituencies, numbered 1-${Math.max(...numbers)}, `
+    + `${new Set(fc.features.map((f) => f.properties.district)).size} districts, `
+    + `simplified to ${used}, map ${Math.round(mapBytes / 1024)}KB`);
+  if (mapBytes > 400 * 1024) {
+    throw new Error(`${STATE}: map is ${mapBytes} bytes even at ${used} — too heavy to serve`);
+  }
   process.exit(0);
 }
 

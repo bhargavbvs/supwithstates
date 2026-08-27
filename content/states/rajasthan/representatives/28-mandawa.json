@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-28-mandawa",
+  "constituency": {
+    "number": 28,
+    "name": "Mandawa",
+    "district": "Jhunjhunun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kumari Rita Chaudhary",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Ex MLA Pension and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (English) from Rajasthan University Jaipur Year 2000, MBA from newport university in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1417471,
+      "immovable": 5000000,
+      "total": 6417471,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=303",
+    "retrieved": "2026-08-27"
+  }
+}

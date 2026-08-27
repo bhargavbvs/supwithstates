@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-12-mehgaon",
+  "constituency": {
+    "number": 12,
+    "name": "Mehgaon",
+    "district": "Bhind",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rakesh Shukla",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture, Ex-MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Mahraja Mansingh College Gwalior Jiwaji University, Gwalior in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2841410,
+      "immovable": 14600000,
+      "total": 17441410,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=342",
+    "retrieved": "2026-08-27"
+  }
+}

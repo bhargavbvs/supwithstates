@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-73-manika",
+  "constituency": {
+    "number": 73,
+    "name": "Manika",
+    "district": "Latehar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ramchandra Singh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 59,
+    "profession": "Politics & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate in Arts From B.N. College, Daltonganj, Ranchi University, Ranchi, Year-1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9913515,
+      "immovable": 6500000,
+      "total": 16413515,
+      "liabilities": 2239500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=278",
+    "retrieved": "2026-08-27"
+  }
+}

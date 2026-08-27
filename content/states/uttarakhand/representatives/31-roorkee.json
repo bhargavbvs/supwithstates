@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-31-roorkee",
+  "constituency": {
+    "number": 31,
+    "name": "Roorkee",
+    "district": "Haridw>r",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradeep Batra",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From BSM Degree College,Meerut University in 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55061173,
+      "immovable": 65589292,
+      "total": 120650465,
+      "liabilities": 39662241
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=23",
+    "retrieved": "2026-08-27"
+  }
+}

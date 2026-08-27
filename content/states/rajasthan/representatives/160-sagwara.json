@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-160-sagwara",
+  "constituency": {
+    "number": 160,
+    "name": "Sagwara",
+    "district": "Dungarpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shankarlal Decha",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th From National Institute of Open School Noida 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5280209,
+      "immovable": 8477000,
+      "total": 13757209,
+      "liabilities": 1099995
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=367",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-29-jhabrera",
+  "constituency": {
+    "number": 29,
+    "name": "Jhabrera",
+    "district": "Haridw>r",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Virendra Kumar",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 39,
+    "profession": "Farmer, Business, Insurance Agent",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from H.N.B Gharwal University Uttarakhand in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1517282,
+      "immovable": 7008400,
+      "total": 8510682,
+      "liabilities": 180000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=464",
+    "retrieved": "2026-08-27"
+  }
+}

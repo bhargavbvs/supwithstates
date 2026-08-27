@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-65-seelam-pur",
+  "constituency": {
+    "number": 65,
+    "name": "Seelam Pur",
+    "district": "Nazul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chaudhary Zubair Ahmad",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Jaipur National University in 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8630127,
+      "immovable": 28295806,
+      "total": 36925933,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=24",
+    "retrieved": "2026-08-27"
+  }
+}

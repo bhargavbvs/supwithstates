@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-183-maheshwar",
+  "constituency": {
+    "number": 183,
+    "name": "Maheshwar",
+    "district": "Khargone",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajkumar Mev",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Business, Rent, Salary (Pension) & Othe Source",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary (10+2) from M.Shi. M.M.P. Bhopal, New City in 1993"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14104020,
+      "immovable": 49050000,
+      "total": 63154020,
+      "liabilities": 6871032
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=10",
+    "retrieved": "2026-08-27"
+  }
+}

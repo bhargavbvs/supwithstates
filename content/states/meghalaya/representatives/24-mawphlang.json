@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-24-mawphlang",
+  "constituency": {
+    "number": 24,
+    "name": "Mawphlang",
+    "district": "East Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Matthew Beyondstar Kurbah",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Retired Government Employee (MeECL)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering (Electrical) from Dibrugarh University in 1988, First Class 10th Position"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10036265,
+      "immovable": 19700000,
+      "total": 29736265,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6915",
+    "retrieved": "2026-08-27"
+  }
+}

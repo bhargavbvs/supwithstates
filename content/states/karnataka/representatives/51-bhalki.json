@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-51-bhalki",
+  "constituency": {
+    "number": 51,
+    "name": "Bhalki",
+    "district": "B\\dar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Eshwar Khandre",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Social Service and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. from PDA College of Engineering Gulbarga in 1985"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 22842877,
+      "immovable": 64650000,
+      "total": 87442877,
+      "liabilities": 5802106
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7146",
+    "retrieved": "2026-08-27"
+  }
+}

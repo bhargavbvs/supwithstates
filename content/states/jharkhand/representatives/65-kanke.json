@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-65-kanke",
+  "constituency": {
+    "number": 65,
+    "name": "Kanke",
+    "district": "Ranchi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Suresh Kumar Baitha",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Politician, Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate from Ranchi University Ranchi in 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4470838,
+      "immovable": 6050000,
+      "total": 10411704,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=715",
+    "retrieved": "2026-08-27"
+  }
+}

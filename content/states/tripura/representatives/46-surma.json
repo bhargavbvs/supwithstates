@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-46-surma",
+  "constituency": {
+    "number": 46,
+    "name": "Surma",
+    "district": "Dhalai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Swapna Das Paul",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary (+2 State) Examination from Tripura Board of Secondary Education in 2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3122220,
+      "immovable": 4500000,
+      "total": 7622220,
+      "liabilities": 840000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6872",
+    "retrieved": "2026-08-27"
+  }
+}

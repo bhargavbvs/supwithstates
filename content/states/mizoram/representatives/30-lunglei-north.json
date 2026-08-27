@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-30-lunglei-north",
+  "constituency": {
+    "number": 30,
+    "name": "Lunglei North",
+    "district": "Lunglei",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "V. Malsawmtluanga",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 34,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Physical Education) The Gloabl Open University Dimapur Nagaland, 2016"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2881059,
+      "immovable": 23500000,
+      "total": 25881059,
+      "liabilities": 574580
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=91",
+    "retrieved": "2026-08-27"
+  }
+}

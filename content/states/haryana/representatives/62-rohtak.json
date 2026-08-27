@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-62-rohtak",
+  "constituency": {
+    "number": 62,
+    "name": "Rohtak",
+    "district": "Rohtak",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bharat Bhushan Batra",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 72,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law (LLB) from Campus Law Centre, Delhi University in 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27160906,
+      "immovable": 110500000,
+      "total": 137660906,
+      "liabilities": 21617747
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=195",
+    "retrieved": "2026-08-27"
+  }
+}

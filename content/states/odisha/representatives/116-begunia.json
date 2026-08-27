@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-116-begunia",
+  "constituency": {
+    "number": 116,
+    "name": "Begunia",
+    "district": "Khordha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradip Kumar Sahu S/O Laxmidhar Sahu",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Transporting Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Arts, Council of Higher Secondary Education, Bhubaneswar Odisha Higher Secondary Examination Certificate, from PN College, Khordha, in The Year 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 39225772,
+      "immovable": 28000000,
+      "total": 67013610,
+      "liabilities": 13656681
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=581",
+    "retrieved": "2026-08-27"
+  }
+}

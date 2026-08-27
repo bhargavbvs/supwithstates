@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-60-talcher",
+  "constituency": {
+    "number": 60,
+    "name": "Talcher",
+    "district": "Anugul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Braja Kishore Pradhan",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "+2 from P.B.M. Mahavidyalaya, Mahabirod, Dist, Dhenkanal Odisha in 1996"
+    },
+    "declared_cases": {
+      "total": 31,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6886623,
+      "immovable": 900000,
+      "total": 7786623,
+      "liabilities": 1647094
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=871",
+    "retrieved": "2026-08-27"
+  }
+}

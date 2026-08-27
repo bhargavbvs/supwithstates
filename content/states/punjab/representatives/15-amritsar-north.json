@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-15-amritsar-north",
+  "constituency": {
+    "number": 15,
+    "name": "Amritsar North",
+    "district": "Amritsar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kunwar Vijay Pratap Singh",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Retired As Inspector General Of Police",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor Of Philosophy In Faculty Of Arts & Social Science From Guru Nanak Dev University Amritsar in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12156656,
+      "immovable": 9000000,
+      "total": 21156656,
+      "liabilities": 1276538
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=449",
+    "retrieved": "2026-08-27"
+  }
+}

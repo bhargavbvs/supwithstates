@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-114-konni",
+  "constituency": {
+    "number": 114,
+    "name": "Konni",
+    "district": "Pathanamthitta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv K U Jenish Kumar",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law from Gulbarga University Karnataka in 2010, Pre Degree from Fourth Group in M.G University, Kottayam Kerala in 2000, S.S.L.C from General in Department of General Education in Kerala in 1998"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7428060,
+      "immovable": 5617235,
+      "total": 13045346,
+      "liabilities": 4610284
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=489",
+    "retrieved": "2026-08-27"
+  }
+}

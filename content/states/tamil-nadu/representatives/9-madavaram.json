@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-9-madavaram",
+  "constituency": {
+    "number": 9,
+    "name": "Madavaram",
+    "district": "Thiruvallur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M.L.Vijayprabhu",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Colored Fish Businees",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Arts & Bachelor of Laws Vikrama Simhapuri University Andhra Pradesh Stare 2017-2022, Diploma in Electrical Engineering PD Chengalvaraya Nayakku Polytechnic College 2005-2008 Class 10th STD Josephs Higher Secondary Secondary School 2004-2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4524524,
+      "immovable": 4224000,
+      "total": 9360171,
+      "liabilities": 2464733
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1031",
+    "retrieved": "2026-08-27"
+  }
+}

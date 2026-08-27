@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-26-bholath",
+  "constituency": {
+    "number": 26,
+    "name": "Bholath",
+    "district": "Kapurthala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sukhpal Singh Khaira",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A Part-2 From DAV College Chandigarh"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14293187,
+      "immovable": 489000000,
+      "total": 503293187,
+      "liabilities": 28727277
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=360",
+    "retrieved": "2026-08-27"
+  }
+}

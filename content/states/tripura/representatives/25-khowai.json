@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-25-khowai",
+  "constituency": {
+    "number": 25,
+    "name": "Khowai",
+    "district": "Khowai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nirmal Biswas",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed in 1996 from DDM College under Tripura University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1568446,
+      "immovable": 1150000,
+      "total": 2718448,
+      "liabilities": 2500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6930",
+    "retrieved": "2026-08-27"
+  }
+}

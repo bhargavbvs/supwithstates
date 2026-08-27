@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-45-mehrauli",
+  "constituency": {
+    "number": 45,
+    "name": "Mehrauli",
+    "district": "New Delhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gajender Singh Yadav",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 48,
+    "profession": "Public Life, Politicial Activity",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Political Science) from Swami Vivekanand Subharti University Meerut in 2018, PGDM From Makhahanlal Chaturvedi National University of Journalism and Communication Bhopal Year 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8242325,
+      "immovable": 292860000,
+      "total": 301102326,
+      "liabilities": 1098198
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=53",
+    "retrieved": "2026-08-27"
+  }
+}

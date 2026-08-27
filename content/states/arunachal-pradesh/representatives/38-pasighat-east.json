@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-38-pasighat-east",
+  "constituency": {
+    "number": 38,
+    "name": "Pasighat East",
+    "district": "East Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tapi Darang",
+    "election": "2024",
+    "elected_party": "National Peoples Party",
+    "current_party": "National Peoples Party",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 62,
+    "profession": "Public Leader & Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering in Civil Eng. From University of Poona , College of Engineering Pune In 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21679494,
+      "immovable": 181909000,
+      "total": 202227512,
+      "liabilities": 553925
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=65",
+    "retrieved": "2026-08-27"
+  }
+}

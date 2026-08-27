@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-47-khargapur",
+  "constituency": {
+    "number": 47,
+    "name": "Khargapur",
+    "district": "Tikamgarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chanda-Surendra Singh Gour",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture, Former MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Narendra Singh Gaur H.S. Karmaura Dist Tikamgarh in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14646564,
+      "immovable": 18000000,
+      "total": 32646564,
+      "liabilities": 1329501
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=15",
+    "retrieved": "2026-08-27"
+  }
+}

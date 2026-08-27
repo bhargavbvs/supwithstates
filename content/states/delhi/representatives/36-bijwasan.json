@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-36-bijwasan",
+  "constituency": {
+    "number": 36,
+    "name": "Bijwasan",
+    "district": "New Delhi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kailash Gahlot",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 50,
+    "profession": "Ex minister, NCT Delhi",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM ( Master of laws) from Faculty of Law, University of Delhi 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 221914609,
+      "immovable": 374500000,
+      "total": 599114620,
+      "liabilities": 28530802
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=130",
+    "retrieved": "2026-08-27"
+  }
+}

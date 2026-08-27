@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-115-shikaripura",
+  "constituency": {
+    "number": 115,
+    "name": "Shikaripura",
+    "district": "Shivamogga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijayendra Yediyurappa",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture, Educationist & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Bangalore University- Sri Jagadguru Renukacharya College of Law In 2000"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 560758614,
+      "immovable": 701119841,
+      "total": 1261878468,
+      "liabilities": 349778318
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7692",
+    "retrieved": "2026-08-27"
+  }
+}

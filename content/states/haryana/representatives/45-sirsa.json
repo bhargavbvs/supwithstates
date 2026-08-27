@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-45-sirsa",
+  "constituency": {
+    "number": 45,
+    "name": "Sirsa",
+    "district": "Sirsa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gokul Setia",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 35,
+    "profession": "Business, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduation from DAV College Sector 10, Chandigarh in the year 2009, Punjab University Chandigarh"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 21632517,
+      "immovable": 77522800,
+      "total": 99155320,
+      "liabilities": 3177629
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=449",
+    "retrieved": "2026-08-27"
+  }
+}

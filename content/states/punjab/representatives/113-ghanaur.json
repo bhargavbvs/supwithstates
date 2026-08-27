@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-113-ghanaur",
+  "constituency": {
+    "number": 113,
+    "name": "Ghanaur",
+    "district": "Patiala",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gurlal Ghanaur",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From Govt Sr Sec. School Ghanaur, Patiala From Punjab School Education Board in Year 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1499735,
+      "immovable": 22800000,
+      "total": 24299735,
+      "liabilities": 2500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=548",
+    "retrieved": "2026-08-27"
+  }
+}

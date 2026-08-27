@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-93-murwara",
+  "constituency": {
+    "number": 93,
+    "name": "Murwara",
+    "district": "Katni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sandeep Shriprasad Jaiswal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Honorarium, Agriculture and Immovable Property Rent from Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from Rani Durgawati University Jabalpur M.P in 1990, LLB in 1987 from Rani Durgawati University Jabalpur M.P"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30147214,
+      "immovable": 77515000,
+      "total": 107662214,
+      "liabilities": 10588577
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1487",
+    "retrieved": "2026-08-27"
+  }
+}

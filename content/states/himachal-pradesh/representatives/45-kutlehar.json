@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-45-kutlehar",
+  "constituency": {
+    "number": 45,
+    "name": "Kutlehar",
+    "district": "Una",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vivek Sharma (Vicku)",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Govt. College Una"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3013643,
+      "immovable": 28203077,
+      "total": 43813726,
+      "liabilities": 11917653
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=497",
+    "retrieved": "2026-08-27"
+  }
+}

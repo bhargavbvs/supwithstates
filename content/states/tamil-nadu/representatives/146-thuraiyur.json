@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-146-thuraiyur",
+  "constituency": {
+    "number": 146,
+    "name": "Thuraiyur",
+    "district": "Tiruchirappalli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ravisankar.M",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Electrician Service Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "D.EEE from MIET, Trichy in 2003-2006, 12th from National College H.S.S Trichy in 2002, 10th from ER H.S.S Trichy in 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 603658,
+      "immovable": 500000,
+      "total": 1103658,
+      "liabilities": 354500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1057",
+    "retrieved": "2026-08-27"
+  }
+}

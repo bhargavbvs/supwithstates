@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-127-chhatrapur",
+  "constituency": {
+    "number": 127,
+    "name": "Chhatrapur",
+    "district": "Ganjam",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Krushna Chandra Nayak",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 39,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th Pass from the Institute Police High School, Chatrapur under BSE Orissa in 1999"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9920699,
+      "immovable": 19686035,
+      "total": 29606734,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=7",
+    "retrieved": "2026-08-27"
+  }
+}

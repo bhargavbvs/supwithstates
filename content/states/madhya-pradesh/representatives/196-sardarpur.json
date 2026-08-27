@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-196-sardarpur",
+  "constituency": {
+    "number": 196,
+    "name": "Sardarpur",
+    "district": "Dhar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pratap Grewal",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture, MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Vikram University Ujjain under Govt. College Dhar in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5060232,
+      "immovable": 8147100,
+      "total": 13207332,
+      "liabilities": 349339
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1194",
+    "retrieved": "2026-08-27"
+  }
+}

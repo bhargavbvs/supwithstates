@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-34-mungaoli",
+  "constituency": {
+    "number": 34,
+    "name": "Mungaoli",
+    "district": "Ashoknagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Brajendra Singh Yadav",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Agriculture and Political activity",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Passed"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16087052,
+      "immovable": 17147698,
+      "total": 33234750,
+      "liabilities": 12599319
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=349",
+    "retrieved": "2026-08-27"
+  }
+}

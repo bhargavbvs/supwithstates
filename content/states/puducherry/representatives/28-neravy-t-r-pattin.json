@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-28-neravy-t-r-pattin",
+  "constituency": {
+    "number": 28,
+    "name": "Neravy- T.R. Pattin",
+    "district": "Karaikal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tksm Meenatchisundaram",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "D.Pharm"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28793202,
+      "immovable": 71973333,
+      "total": 100766534,
+      "liabilities": 5591724
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=109",
+    "retrieved": "2026-08-27"
+  }
+}

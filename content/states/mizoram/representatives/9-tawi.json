@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-9-tawi",
+  "constituency": {
+    "number": 9,
+    "name": "Tawi",
+    "district": "Saitual",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Prof. Lalnilawma",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Professor in Mizoram University",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy in Rural Development"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3267213,
+      "immovable": 16500000,
+      "total": 19767034,
+      "liabilities": 3823790
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=22",
+    "retrieved": "2026-08-27"
+  }
+}

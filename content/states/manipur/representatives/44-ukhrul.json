@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-44-ukhrul",
+  "constituency": {
+    "number": 44,
+    "name": "Ukhrul",
+    "district": "Ukhrul",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ram Muivah",
+    "election": "2022",
+    "elected_party": "NPF",
+    "current_party": "NPF",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Retired Indian Administrative Service (IAS)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA, (Public Service International), The University of Birmingham in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15926348,
+      "immovable": 160000000,
+      "total": 175926348,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=213",
+    "retrieved": "2026-08-27"
+  }
+}

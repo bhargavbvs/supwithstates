@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-49-raipur-city-west",
+  "constituency": {
+    "number": 49,
+    "name": "Raipur City West",
+    "district": "Raipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Munat",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Business & Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Hitkari School, Jabalpur Secondary Education Council Bhopal in 1980"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 71521986,
+      "immovable": 17350000,
+      "total": 88871988,
+      "liabilities": 39197112
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1089",
+    "retrieved": "2026-08-27"
+  }
+}

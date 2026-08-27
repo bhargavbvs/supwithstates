@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-86-kotma",
+  "constituency": {
+    "number": 86,
+    "name": "Kotma",
+    "district": "Anuppur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dilip Jaiswal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A Frist Year 1980, Govt. Maharaj Martand Mahavidyalay kotma Avdhesha Pratap Singh University Riwa"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9989129,
+      "immovable": 63000000,
+      "total": 72989129,
+      "liabilities": 100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=61",
+    "retrieved": "2026-08-27"
+  }
+}

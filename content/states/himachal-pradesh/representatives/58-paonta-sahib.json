@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-58-paonta-sahib",
+  "constituency": {
+    "number": 58,
+    "name": "Paonta Sahib",
+    "district": "Sirmaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sukh Ram",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A.1st Year"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10271551,
+      "immovable": 12500000,
+      "total": 22771551,
+      "liabilities": 8570000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=204",
+    "retrieved": "2026-08-27"
+  }
+}

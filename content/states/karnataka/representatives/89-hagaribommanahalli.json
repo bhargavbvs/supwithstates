@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-89-hagaribommanahalli",
+  "constituency": {
+    "number": 89,
+    "name": "Hagaribommanahalli",
+    "district": "Vijayanagara",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Nemarajanaik.K",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture, Poultry farm",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from Magad University Patna in april 2006"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12496183,
+      "immovable": 87613000,
+      "total": 100109183,
+      "liabilities": 29292072
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8946",
+    "retrieved": "2026-08-27"
+  }
+}

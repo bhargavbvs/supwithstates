@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-46-potka",
+  "constituency": {
+    "number": 46,
+    "name": "Potka",
+    "district": "East Singhbhum",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sanjib Sardar",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Politics / Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "I.A. from Chhotanagpur College, Hesal, Seraikela Kharswan, J.A.C. Ranchi in 2009, Matriculation from Gurmahsini High School, Gurmashni, Mayurbhanj, Odisha, B.S.E.B Bhubaneshwar in 2000"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10310044,
+      "immovable": 5567521,
+      "total": 16569215,
+      "liabilities": 2029800
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=13",
+    "retrieved": "2026-08-27"
+  }
+}

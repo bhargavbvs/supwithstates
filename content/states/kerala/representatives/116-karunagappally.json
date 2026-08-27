@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-116-karunagappally",
+  "constituency": {
+    "number": 116,
+    "name": "Karunagappally",
+    "district": "Kollam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C.R. Mahesh",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "(Currently a Member of Legislative Assembly)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Degree(Course Completed),D.B.College, Sasthamkotta,Kerala University(1997-2000)"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 844989,
+      "immovable": 1580000,
+      "total": 2424989,
+      "liabilities": 1683866
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=6",
+    "retrieved": "2026-08-27"
+  }
+}

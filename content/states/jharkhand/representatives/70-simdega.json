@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-70-simdega",
+  "constituency": {
+    "number": 70,
+    "name": "Simdega",
+    "district": "Gumla",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhushan Bara",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Agriculture, Business and Former MLA Simdega Vidhan Sabha",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA (History) From St. Xavier College, Ranchi, Ranchi University Year 1998"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9067795,
+      "immovable": 3395150,
+      "total": 12462945,
+      "liabilities": 4920640
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=375",
+    "retrieved": "2026-08-27"
+  }
+}

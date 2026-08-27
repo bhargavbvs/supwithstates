@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-100-hiriyur",
+  "constituency": {
+    "number": 100,
+    "name": "Hiriyur",
+    "district": "Chitradurga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "D Sudakar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com Final year Completed in the year 1980-81, National College Shivamoga, University of Mysore"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 1050119574,
+      "immovable": 308820494,
+      "total": 1356940368,
+      "liabilities": 1151310844
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7999",
+    "retrieved": "2026-08-27"
+  }
+}

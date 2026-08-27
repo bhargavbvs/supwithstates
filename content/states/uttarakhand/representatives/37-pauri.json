@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-37-pauri",
+  "constituency": {
+    "number": 37,
+    "name": "Pauri",
+    "district": "Pauri Garhw>l",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rajkumar Pori",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Pension & Tution",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Ch Charan Singh University Meerut in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 484958,
+      "immovable": 2040000,
+      "total": 2524958,
+      "liabilities": 1122780
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=81",
+    "retrieved": "2026-08-27"
+  }
+}

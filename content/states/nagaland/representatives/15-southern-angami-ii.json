@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-15-southern-angami-ii",
+  "constituency": {
+    "number": 15,
+    "name": "Southern Angami-Ii",
+    "district": "Kohima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kropol Vitsu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Retired- Superintendent Engineer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BE (Civil) from University of Madrass in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12272730,
+      "immovable": 26940000,
+      "total": 33531621,
+      "liabilities": 3524850
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6927",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-23-marcaim",
+  "constituency": {
+    "number": 23,
+    "name": "Marcaim",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sudin Alias Ramkrishna Dhavalikar",
+    "election": "2022",
+    "elected_party": "Maharashtrawadi Gomantak",
+    "current_party": "Maharashtrawadi Gomantak",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From Smt Parvaibai Chowgule Collage Margao, University of Bombay in 1977-78"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 138337576,
+      "immovable": 26610970,
+      "total": 169067222,
+      "liabilities": 5062832
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=4",
+    "retrieved": "2026-08-27"
+  }
+}

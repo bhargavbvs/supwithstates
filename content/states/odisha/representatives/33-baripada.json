@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-33-baripada",
+  "constituency": {
+    "number": 33,
+    "name": "Baripada",
+    "district": "Mayurbhanj",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Prakash Soren",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "MLA & Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Passed High School Certificate Examination from Govt. High School, Basipitha under Board of Secondary Education, Odisha in 1984"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2831842,
+      "immovable": 1080000,
+      "total": 3901842,
+      "liabilities": 1262346
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=983",
+    "retrieved": "2026-08-27"
+  }
+}

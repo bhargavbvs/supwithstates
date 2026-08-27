@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-33-lunglei-south",
+  "constituency": {
+    "number": 33,
+    "name": "Lunglei South",
+    "district": "Lunglei",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lalramliana Papuia",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Political Science) University of Pune in the year 2001"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3183553,
+      "immovable": 6800000,
+      "total": 9983553,
+      "liabilities": 404349
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=70",
+    "retrieved": "2026-08-27"
+  }
+}

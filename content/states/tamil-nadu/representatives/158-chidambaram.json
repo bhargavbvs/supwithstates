@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-158-chidambaram",
+  "constituency": {
+    "number": 158,
+    "name": "Chidambaram",
+    "district": "Cuddalore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thamimun Ansari. M",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Full time Politician and Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A(Distance Education),Annamalai University, Chithambaram-2022"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11317861,
+      "immovable": 2500000,
+      "total": 13817257,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1393",
+    "retrieved": "2026-08-27"
+  }
+}

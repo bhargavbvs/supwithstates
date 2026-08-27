@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-227-garoth",
+  "constituency": {
+    "number": 227,
+    "name": "Garoth",
+    "district": "Mandsaur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandar Singh Sisodiya",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "MLA Pension Rs.35000 Per Month, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Govt. College, Rampura University Vikram University Ujjain in 1985"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6190149,
+      "immovable": 39200000,
+      "total": 45390149,
+      "liabilities": 676574
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=691",
+    "retrieved": "2026-08-27"
+  }
+}

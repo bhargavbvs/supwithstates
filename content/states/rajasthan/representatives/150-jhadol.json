@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-150-jhadol",
+  "constituency": {
+    "number": 150,
+    "name": "Jhadol",
+    "district": "Udaipur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Babulal Kharadi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11th From, Higher Secondary School Korda 1985 Higher.Sec. Edu.Board Rajsthan"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3212818,
+      "immovable": 9450000,
+      "total": 12496818,
+      "liabilities": 4067177
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=227",
+    "retrieved": "2026-08-27"
+  }
+}

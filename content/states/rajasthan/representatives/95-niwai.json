@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-95-niwai",
+  "constituency": {
+    "number": 95,
+    "name": "Niwai",
+    "district": "Tonk",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ram Sahay Varma (Regar)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture and Pension",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary 1980 and ITI Elctrical 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5465409,
+      "immovable": 21000000,
+      "total": 26415409,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=58",
+    "retrieved": "2026-08-27"
+  }
+}

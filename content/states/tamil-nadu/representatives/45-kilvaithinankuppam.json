@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-45-kilvaithinankuppam",
+  "constituency": {
+    "number": 45,
+    "name": "Kilvaithinankuppam",
+    "district": "Vellore",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Thenral Kumar. E",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 34,
+    "profession": "VT Traders (Prop) and Lakshmi Construction (Partner)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E From Sri Krishna College Of Engineering Anaikkadu in 2012-2015, DEEE From Gudiyatham Polytechnic College in 2010- 2012, Pre Degree from Governments Boys HSS, Anaikkadu"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21023406,
+      "immovable": 6550000,
+      "total": 27573409,
+      "liabilities": 4225000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=805",
+    "retrieved": "2026-08-27"
+  }
+}

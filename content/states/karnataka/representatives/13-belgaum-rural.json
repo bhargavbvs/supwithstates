@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-13-belgaum-rural",
+  "constituency": {
+    "number": 13,
+    "name": "Belgaum Rural",
+    "district": "Belag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Laxmi R. Hebbalkar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Political Science) From University of Mysore, Year-2002"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 111261325,
+      "immovable": 20579595,
+      "total": 131840922,
+      "liabilities": 68864493
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7777",
+    "retrieved": "2026-08-27"
+  }
+}

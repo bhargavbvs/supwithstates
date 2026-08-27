@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-195-belur",
+  "constituency": {
+    "number": 195,
+    "name": "Belur",
+    "district": "H",
+    "reserved": null
+  },
+  "representative": {
+    "name": "H K Suresh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Business and Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Civil Engineering Year 1991 , Amaragin Polytechnic, Arasikere, Hassan District, Department of Technical Education State of Karnataka"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32185387,
+      "immovable": 4004859054,
+      "total": 4353050751,
+      "liabilities": 475523145
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7140",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-43-william-nagar",
+  "constituency": {
+    "number": 43,
+    "name": "William Nagar",
+    "district": "East G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Marcuise N Marak",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Ex- MLA of the state of Meghalaya",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed P.U. Arts under NEHU through Tura Govt. College in 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7399331,
+      "immovable": 29875000,
+      "total": 37274332,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6767",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-72-tindivanam",
+  "constituency": {
+    "number": 72,
+    "name": "Tindivanam",
+    "district": "Viluppuram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Vanni Arasu",
+    "election": "2026",
+    "elected_party": "Viduthalai Chiruthaigal Katchi",
+    "current_party": "Viduthalai Chiruthaigal Katchi",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "fulltime Socal Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Class XII - Government Higher Secondary School, Mallanginar-1989."
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3977751,
+      "immovable": 5400000,
+      "total": 9377751,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1277",
+    "retrieved": "2026-08-27"
+  }
+}

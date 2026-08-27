@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-25-pilani",
+  "constituency": {
+    "number": 25,
+    "name": "Pilani",
+    "district": "Jhunjhunun",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pitram Singh Kala",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. English from Maharshi Dayanand University Azmer in 1991, B.Ed From Raj. University Jaipur in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3191741,
+      "immovable": 9800000,
+      "total": 12991741,
+      "liabilities": 2818573
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=491",
+    "retrieved": "2026-08-27"
+  }
+}

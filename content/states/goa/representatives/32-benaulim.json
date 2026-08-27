@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-32-benaulim",
+  "constituency": {
+    "number": 32,
+    "name": "Benaulim",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Venzy Viegas",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Highest Nautical Diploma in Nautical Science From South Tyneside College South Shields United Kingdom in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 34763100,
+      "immovable": 16500000,
+      "total": 51232418,
+      "liabilities": 584248
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=57",
+    "retrieved": "2026-08-27"
+  }
+}

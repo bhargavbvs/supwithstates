@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-59-bawani-khera",
+  "constituency": {
+    "number": 59,
+    "name": "Bawani Khera",
+    "district": "Bhiwani",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kapoor Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 45,
+    "profession": "Out Let Fitting Worker (Shop Keeper)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from NIOS, New Delhi in 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 320000,
+      "immovable": 400000,
+      "total": 720000,
+      "liabilities": 754232
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=272",
+    "retrieved": "2026-08-27"
+  }
+}

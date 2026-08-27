@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-18-rairakhol",
+  "constituency": {
+    "number": 18,
+    "name": "Rairakhol",
+    "district": "Sambalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prasanna Acharya",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 74,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Lajpat Rai Law college Sambalpur, Sambalpur University In 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51224536,
+      "immovable": 66022678,
+      "total": 117247224,
+      "liabilities": 5806945
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=828",
+    "retrieved": "2026-08-27"
+  }
+}

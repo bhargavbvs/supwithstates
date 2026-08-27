@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-66-ollur",
+  "constituency": {
+    "number": 66,
+    "name": "Ollur",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K Rajan",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Political activity and house construction",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Sc. From Sree Kerala Varma College, affiliated with Calicut University in 1994 & LLB From Government Law College, Thiruvananthapuram in 2002"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5579983,
+      "immovable": 8252666,
+      "total": 13839293,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=196",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-22-wangoi",
+  "constituency": {
+    "number": 22,
+    "name": "Wangoi",
+    "district": "Thoubal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khuraijam Loken Singh",
+    "election": "2022",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-University Arts from Mayai Lambi College, Yumnam Huidrom, Manipur (Manipur University) in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10197967,
+      "immovable": 27333500,
+      "total": 36510553,
+      "liabilities": 8761889
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=7",
+    "retrieved": "2026-08-27"
+  }
+}

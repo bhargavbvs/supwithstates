@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-1-padampur",
+  "constituency": {
+    "number": 1,
+    "name": "Padampur",
+    "district": "Bargarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Barsha Singh Bariha",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 30,
+    "profession": "Cultivation And Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Law University Navanagar Hubbali Karnataka 2019"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11342739,
+      "immovable": 9000000,
+      "total": 20342744,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=364",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-38-lawngtlai-east",
+  "constituency": {
+    "number": 38,
+    "name": "Lawngtlai East",
+    "district": "Lawngtlai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Lorrain Lalpekliana Chinzah",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Doctor (Medical)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS, Gauhati Medical College in 2010"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4281823,
+      "immovable": 0,
+      "total": 4281824,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=140",
+    "retrieved": "2026-08-27"
+  }
+}

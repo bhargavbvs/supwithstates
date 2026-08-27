@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-127-kadur",
+  "constituency": {
+    "number": 127,
+    "name": "Kadur",
+    "district": "Chikkamagal#ru",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K S Anand",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BSC , Government First Grade College,Kaduru ,Kuvempu University ,in 2001"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 16194594,
+      "immovable": 32800000,
+      "total": 46344594,
+      "liabilities": 4168668
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7419",
+    "retrieved": "2026-08-27"
+  }
+}

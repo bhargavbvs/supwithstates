@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-10-sultan-pur-majra",
+  "constituency": {
+    "number": 10,
+    "name": "Sultan Pur Majra",
+    "district": "West",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Mukesh Kumar Ahlawat",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 49,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10+2 From CBSE Ravindra Public School, Pitampura Delhi Year 1994"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 4,
+      "note": null
+    },
+    "assets": {
+      "movable": 9163043,
+      "immovable": 101875000,
+      "total": 110982888,
+      "liabilities": 378792
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=374",
+    "retrieved": "2026-08-27"
+  }
+}

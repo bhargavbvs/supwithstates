@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-26-velachery",
+  "constituency": {
+    "number": 26,
+    "name": "Velachery",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kumar. R",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Business, Land Lord",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Business Leadership Programme from IIM Bangalore in 2024, Bachelor of Engineering in CIvil, University of Madras in 1989."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 158797647,
+      "immovable": 1019562747,
+      "total": 1178360444,
+      "liabilities": 16168124
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=865",
+    "retrieved": "2026-08-27"
+  }
+}

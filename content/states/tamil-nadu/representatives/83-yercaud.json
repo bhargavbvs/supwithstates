@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-83-yercaud",
+  "constituency": {
+    "number": 83,
+    "name": "Yercaud",
+    "district": "Salem",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "P.Usharani",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th From Government Higher Secondary School Pelukurichi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31459464,
+      "immovable": 137500000,
+      "total": 168959470,
+      "liabilities": 17515115
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1334",
+    "retrieved": "2026-08-27"
+  }
+}

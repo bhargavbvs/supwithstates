@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-3-gangotri",
+  "constituency": {
+    "number": 3,
+    "name": "Gangotri",
+    "district": "Uttark>shi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Singh Chauhan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From UP Education Board Allahabad in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 635272,
+      "immovable": 0,
+      "total": 1150000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=122",
+    "retrieved": "2026-08-27"
+  }
+}

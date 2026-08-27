@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-131-betul",
+  "constituency": {
+    "number": 131,
+    "name": "Betul",
+    "district": "Betul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hemant Vijay Khandelwal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B 1990, B.Com 1986 , J H Govt College Betul Dr Hari SINGH Gaur University Sagar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 262148086,
+      "immovable": 152938220,
+      "total": 415086306,
+      "liabilities": 173994878
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=247",
+    "retrieved": "2026-08-27"
+  }
+}

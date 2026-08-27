@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-60-singhat",
+  "constituency": {
+    "number": 60,
+    "name": "Singhat",
+    "district": "Churachandpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Chinlunthang",
+    "election": "2022",
+    "elected_party": "Kuki Peoples Alliance",
+    "current_party": "Kuki Peoples Alliance",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "L.L.B Manipur University-2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2341743,
+      "immovable": 2178000,
+      "total": 4519743,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=116",
+    "retrieved": "2026-08-27"
+  }
+}

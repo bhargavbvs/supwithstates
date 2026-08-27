@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-149-gogunda",
+  "constituency": {
+    "number": 149,
+    "name": "Gogunda",
+    "district": "Udaipur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pratap Lal Bheel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed Higher Secondary Education Board Rajasthan Open Board 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4922161,
+      "immovable": 4950000,
+      "total": 9872161,
+      "liabilities": 800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=64",
+    "retrieved": "2026-08-27"
+  }
+}

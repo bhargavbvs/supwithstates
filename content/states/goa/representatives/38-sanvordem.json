@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-38-sanvordem",
+  "constituency": {
+    "number": 38,
+    "name": "Sanvordem",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ganesh Gaonkar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 64,
+    "profession": "Dealer in Iron Ore & Transport Contractor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Jeeva Theological Open University Chennai in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41214910,
+      "immovable": 154564050,
+      "total": 195768960,
+      "liabilities": 42494120
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=34",
+    "retrieved": "2026-08-27"
+  }
+}

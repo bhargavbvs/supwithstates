@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-141-lakshmipur",
+  "constituency": {
+    "number": 141,
+    "name": "Lakshmipur",
+    "district": "Koraput",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pabitra Saunta",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 28,
+    "profession": "Social Worker / Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech (Civil) from Gopal Krushna College of Engineering and Technology, Jeypore BPUT, Odisha"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 290000,
+      "immovable": 0,
+      "total": 290000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=226",
+    "retrieved": "2026-08-27"
+  }
+}

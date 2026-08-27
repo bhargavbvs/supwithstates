@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-17-amritsar-central",
+  "constituency": {
+    "number": 17,
+    "name": "Amritsar Central",
+    "district": "Amritsar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ajay Gupta",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Practicing Doctor and Managing Director of Sanjeevan Hospital Amritsar.",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS From Govt Medical College Amritsar, Guru Nanak Dev University in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23502217,
+      "immovable": 160000000,
+      "total": 183502217,
+      "liabilities": 40001071
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=7",
+    "retrieved": "2026-08-27"
+  }
+}

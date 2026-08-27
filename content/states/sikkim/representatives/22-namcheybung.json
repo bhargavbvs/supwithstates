@@ -1,0 +1,41 @@
+{
+  "id": "sk-ac-22-namcheybung",
+  "constituency": {
+    "number": 22,
+    "name": "Namcheybung",
+    "district": "Pakyong",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Raju Basnet",
+    "election": "2024",
+    "elected_party": "Sikkim Krantikari Morcha",
+    "current_party": "Sikkim Krantikari Morcha",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Retired Government Employee",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A In Banking and Finance From Sikkim Manipal University 2012"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16789489,
+      "immovable": 294111436,
+      "total": 310031828,
+      "liabilities": 11176797
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=69",
+    "retrieved": "2026-08-27"
+  }
+}

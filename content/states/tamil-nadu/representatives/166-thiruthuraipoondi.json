@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-166-thiruthuraipoondi",
+  "constituency": {
+    "number": 166,
+    "name": "Thiruthuraipoondi",
+    "district": "Thiruvarur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Marimuthu.K",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Politics, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelore Of Commerce From Mannagrgudi, Manna Rajagopalasamy Govt Arts College In 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 548826,
+      "immovable": 175000,
+      "total": 716326,
+      "liabilities": 120000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=736",
+    "retrieved": "2026-08-27"
+  }
+}

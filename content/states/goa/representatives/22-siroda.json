@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-22-siroda",
+  "constituency": {
+    "number": 22,
+    "name": "Siroda",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subhash Shirodkar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 70,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Inter Arts {1971} Smt.Parvatibai Chowgula Collage,Margo Salcete-Goa.Teaching Diploma, Lingraj Collage Belgaum"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45791419,
+      "immovable": 2950000,
+      "total": 49231424,
+      "liabilities": 16988497
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

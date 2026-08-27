@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-39-srimadhopur",
+  "constituency": {
+    "number": 39,
+    "name": "Srimadhopur",
+    "district": "Neem-Ka-Thana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jhabar Singh Kharra",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Fomer MLA Pension, Agriculture n Animal Husbandry",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, Rajasthan Uni.Jaipur 1978"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4412627,
+      "immovable": 16100000,
+      "total": 20512628,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=36",
+    "retrieved": "2026-08-27"
+  }
+}

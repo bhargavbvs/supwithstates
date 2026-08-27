@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-49-bari",
+  "constituency": {
+    "number": 49,
+    "name": "Bari",
+    "district": "Jajapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Biswa Ranjan Mallick",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 44,
+    "profession": "Business & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Mechanical Engineering - 2018, Baji Rout Institute of Engineering & Technology, Talbarkote, Odisha, Bhubaneswar, Passed I.T.I. in Fitter trade Exam. in the year, 2001 from C.V. Raman Institute of Technology, Bhubaneswar, HSC Exam Year 1995"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10030000,
+      "immovable": 23566853,
+      "total": 30357270,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=978",
+    "retrieved": "2026-08-27"
+  }
+}

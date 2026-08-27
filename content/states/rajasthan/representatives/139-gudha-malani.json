@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-139-gudha-malani",
+  "constituency": {
+    "number": 139,
+    "name": "Gudha Malani",
+    "district": "Barmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishan Kumar Vishnoi (K.K. Vishnoi)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Marwad College, Kuchamani City, Maharshi Dayanand Saraswati University Ajmer in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 134447859,
+      "immovable": 83039554,
+      "total": 217387413,
+      "liabilities": 6500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=208",
+    "retrieved": "2026-08-27"
+  }
+}

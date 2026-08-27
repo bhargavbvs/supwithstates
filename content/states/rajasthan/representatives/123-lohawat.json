@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-123-lohawat",
+  "constituency": {
+    "number": 123,
+    "name": "Lohawat",
+    "district": "Phalodi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gajendra Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Social Service, Farmer & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.B.A. from University of Western Ontario (Canada) in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54750606,
+      "immovable": 240835667,
+      "total": 290795317,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=283",
+    "retrieved": "2026-08-27"
+  }
+}

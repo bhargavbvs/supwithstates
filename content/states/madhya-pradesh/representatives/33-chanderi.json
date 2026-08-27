@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-33-chanderi",
+  "constituency": {
+    "number": 33,
+    "name": "Chanderi",
+    "district": "Ashoknagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagannath Singh Raghuwanshi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 75,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Hamidiya College, Viram University In 1970, LLB In 1973 from Hamidiya Collage, Bhopa.Barkatullah University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9668162,
+      "immovable": 76500000,
+      "total": 86168162,
+      "liabilities": 997571
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=31",
+    "retrieved": "2026-08-27"
+  }
+}

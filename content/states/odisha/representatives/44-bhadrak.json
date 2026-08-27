@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-44-bhadrak",
+  "constituency": {
+    "number": 44,
+    "name": "Bhadrak",
+    "district": "Bhadrak",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sitansu Sekhar Mohapatra",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce Bhadrak College Bhadrak 2004 fakir Mohan University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 100426929,
+      "immovable": 49560000,
+      "total": 149926928,
+      "liabilities": 11670972
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1001",
+    "retrieved": "2026-08-27"
+  }
+}

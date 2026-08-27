@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-17-sahaspur",
+  "constituency": {
+    "number": 17,
+    "name": "Sahaspur",
+    "district": "Dehrad@n",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sahdev Singh Pundir",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From D.A.V (PG) College Dehradun and Hemvati Nandan Bahuguna Garhwal University in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24217876,
+      "immovable": 7056654,
+      "total": 33217876,
+      "liabilities": 2683480
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=264",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-110-paraswada",
+  "constituency": {
+    "number": 110,
+    "name": "Paraswada",
+    "district": "Balaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Madhu Bhau Bhagat",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Hit Karini Gorakhpur Jabalpur, Madhyamik Shiksha Mandal Bhopal In Year 1986"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1994743,
+      "immovable": 1150000,
+      "total": 3144743,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=77",
+    "retrieved": "2026-08-27"
+  }
+}

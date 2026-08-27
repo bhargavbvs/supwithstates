@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-147-bangarapet",
+  "constituency": {
+    "number": 147,
+    "name": "Bangarapet",
+    "district": "Kol",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "S.N. Narayanaswamy. K.M",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Social Worker, Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Gandhi Instiitute of Technology and Management (GITAM) Deemed to be Unversity, Completed in the Year 2021"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 104053635,
+      "immovable": 358637311,
+      "total": 462691047,
+      "liabilities": 144910671
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7123",
+    "retrieved": "2026-08-27"
+  }
+}

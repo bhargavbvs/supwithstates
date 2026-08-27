@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-111-jayadev",
+  "constituency": {
+    "number": 111,
+    "name": "Jayadev",
+    "district": "Khordha",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Naba Kishor Mallick",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture, Social worker, Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Sishu Ananta College Balipatna in the year 2004 Utkal University Vani Vihar, Bhubaneswar"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1800514,
+      "immovable": 5513667,
+      "total": 7314091,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=726",
+    "retrieved": "2026-08-27"
+  }
+}

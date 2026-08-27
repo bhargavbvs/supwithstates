@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-7-indora",
+  "constituency": {
+    "number": 7,
+    "name": "Indora",
+    "district": "K>ngra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Malender Rajan",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Businessman , Agricultrist and Govt. Contractor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Civil Engineering GPH Hamirpur in 1993, Post Graduate Diploma in computer applications from S.D. College Pathankot 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5773106,
+      "immovable": 7503850,
+      "total": 13276958,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=263",
+    "retrieved": "2026-08-27"
+  }
+}

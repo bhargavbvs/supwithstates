@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-132-kazhakoottam",
+  "constituency": {
+    "number": 132,
+    "name": "Kazhakoottam",
+    "district": "Thiruvananthapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V. Muraleedharan",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts- English Literature From Govt. Brennan College, Thalassery, Calicut, Year-1980"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8478046,
+      "immovable": 5270000,
+      "total": 13748046,
+      "liabilities": 295351
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=120",
+    "retrieved": "2026-08-27"
+  }
+}

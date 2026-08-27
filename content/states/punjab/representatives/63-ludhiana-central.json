@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-63-ludhiana-central",
+  "constituency": {
+    "number": 63,
+    "name": "Ludhiana Central",
+    "district": "Ludhiana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Parashar (Pappi)",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Shree Mahadev Cable Network, Balaji Enterprises , Ek Onkar Digital Services",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th Standard from Khalsa National Higher Secondary School, Shahpur Road, Ludhiana in 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11751862,
+      "immovable": 79100000,
+      "total": 90851862,
+      "liabilities": 16946533
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1243",
+    "retrieved": "2026-08-27"
+  }
+}

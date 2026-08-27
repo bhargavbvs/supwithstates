@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-88-hadagalli",
+  "constituency": {
+    "number": 88,
+    "name": "Hadagalli",
+    "district": "Vijayanagara",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Krishna Nayaka",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Businessman and Farmer",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Engineering Graduate, Vishveshvaraya Technological University, Belagavi."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 275237840,
+      "immovable": 153000000,
+      "total": 428052937,
+      "liabilities": 347171668
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7974",
+    "retrieved": "2026-08-27"
+  }
+}

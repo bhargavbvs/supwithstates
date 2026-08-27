@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-26-karaikal-north",
+  "constituency": {
+    "number": 26,
+    "name": "Karaikal North",
+    "district": "Karaikal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "P.R.N. Thirumurugan",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Sociology From Annamalai University Chidambaram Year 2000"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 40618340,
+      "immovable": 331634660,
+      "total": 372253000,
+      "liabilities": 17640000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=112",
+    "retrieved": "2026-08-27"
+  }
+}

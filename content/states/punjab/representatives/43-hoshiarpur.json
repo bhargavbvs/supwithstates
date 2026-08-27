@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-43-hoshiarpur",
+  "constituency": {
+    "number": 43,
+    "name": "Hoshiarpur",
+    "district": "Hoshiarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bram Shanker (Jimpa)",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Class , From Punjab School Education Board Year 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23286295,
+      "immovable": 62412000,
+      "total": 85698295,
+      "liabilities": 10866282
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=84",
+    "retrieved": "2026-08-27"
+  }
+}

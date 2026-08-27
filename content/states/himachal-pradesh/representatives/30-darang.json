@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-30-darang",
+  "constituency": {
+    "number": 30,
+    "name": "Darang",
+    "district": "Mandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Puran Chand",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 65,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From H.P. Board of School Education Himachal Pradesh Dharamshala, Year-1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4381928,
+      "immovable": 11932000,
+      "total": 16313928,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=85",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-1-mandrem",
+  "constituency": {
+    "number": 1,
+    "name": "Mandrem",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jit Vinayak Arolkar",
+    "election": "2022",
+    "elected_party": "Maharashtrawadi Gomantak",
+    "current_party": "Maharashtrawadi Gomantak",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 40,
+    "profession": "Business and Social Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "S.S.C. Examination Pass from Goa Board of Secondary and Higher Secondary Education Panji, Manguirish Vidyalaya English High School In 1999"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 25664400,
+      "immovable": 91329500,
+      "total": 116993900,
+      "liabilities": 31045680
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=21",
+    "retrieved": "2026-08-27"
+  }
+}

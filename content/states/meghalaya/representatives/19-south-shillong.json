@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-19-south-shillong",
+  "constituency": {
+    "number": 19,
+    "name": "South Shillong",
+    "district": "East Kh>si Hills",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanbor Shullai",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Ex-Member of Legislative Assembly of Meghalaya",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Pre University 1st year Synod College North Eastern Hill University in 1986 & Higher Secondary School Leaving Certificate From Meghalaya Board of School Education (MBOSE), Year-1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 79550502,
+      "immovable": 49000000,
+      "total": 128550506,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7009",
+    "retrieved": "2026-08-27"
+  }
+}

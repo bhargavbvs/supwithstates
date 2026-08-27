@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-203-srivilliputhur",
+  "constituency": {
+    "number": 203,
+    "name": "Srivilliputhur",
+    "district": "Virudhunagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Karthik.A",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Private Press Manager, Cracker Shop Owner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Ed. From Sundarewari College of Education, Malli, Year-2020 & M.A. From Manonmaniam University, Tamil Nadu Teacher Education University, Year- 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5966105,
+      "immovable": 5820000,
+      "total": 11655000,
+      "liabilities": 5349061
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1095",
+    "retrieved": "2026-08-27"
+  }
+}

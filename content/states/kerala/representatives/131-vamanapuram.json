@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-131-vamanapuram",
+  "constituency": {
+    "number": 131,
+    "name": "Vamanapuram",
+    "district": "Thiruvananthapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Muhammed Sudheersha S",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 39,
+    "profession": "Farmer, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Mathematics from Iqbal College Kerala University in 2005 - 2008"
+    },
+    "declared_cases": {
+      "total": 87,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3375500,
+      "immovable": 0,
+      "total": 3375500,
+      "liabilities": 900000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=467",
+    "retrieved": "2026-08-27"
+  }
+}

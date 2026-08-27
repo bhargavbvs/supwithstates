@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-45-tirur",
+  "constituency": {
+    "number": 45,
+    "name": "Tirur",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kurukkoli Moideen",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Farmer and Currently the MLA",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "SSLC Failed , GVHSS Kalajeri 1976-77"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 3348741,
+      "immovable": 5260000,
+      "total": 8608741,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=337",
+    "retrieved": "2026-08-27"
+  }
+}

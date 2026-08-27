@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-19-nyapin",
+  "constituency": {
+    "number": 19,
+    "name": "Nyapin",
+    "district": "Kurung Kumey",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tai Nikio",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Ex-Government Servant",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Xth Pass, Dipoma in Civil Engineering from state Council for Technical Education assam in 1990"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 47061399,
+      "immovable": 239166500,
+      "total": 286227899,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=174",
+    "retrieved": "2026-08-27"
+  }
+}

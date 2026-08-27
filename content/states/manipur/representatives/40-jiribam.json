@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-40-jiribam",
+  "constituency": {
+    "number": 40,
+    "name": "Jiribam",
+    "district": "Pherzawl",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md. Achab Uddin",
+    "election": "2022",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Ex-Member of Manipur Legislative Assembly/Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary School Leaving Certificate Examination, from Jiribam Higher Secondary School under Board of Secondary Education, Manipur (BOSEM) in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2251393,
+      "immovable": 9309886,
+      "total": 11561280,
+      "liabilities": 2816740
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=241",
+    "retrieved": "2026-08-27"
+  }
+}

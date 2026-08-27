@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-23-karera",
+  "constituency": {
+    "number": 23,
+    "name": "Karera",
+    "district": "Shivpuri",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Khatik Ramesh Prasad",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Pass in 1986 from U.U.M.V. Narwar Dist. Shivpuri"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3016833,
+      "immovable": 7400000,
+      "total": 10416833,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=735",
+    "retrieved": "2026-08-27"
+  }
+}

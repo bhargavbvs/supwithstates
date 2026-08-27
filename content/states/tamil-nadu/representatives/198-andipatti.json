@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-198-andipatti",
+  "constituency": {
+    "number": 198,
+    "name": "Andipatti",
+    "district": "Theni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Maharajan.A",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 72,
+    "profession": "Agriculture and Trade",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th In 1968-69 From S.S. Puram (Shanmugasundarapuram) Government High School, Andipatti Circle"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 80853107,
+      "immovable": 151392820,
+      "total": 232245927,
+      "liabilities": 2118120
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1409",
+    "retrieved": "2026-08-27"
+  }
+}

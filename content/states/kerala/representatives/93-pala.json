@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-93-pala",
+  "constituency": {
+    "number": 93,
+    "name": "Pala",
+    "district": "Kottayam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mani C Kappen",
+    "election": "2026",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 69,
+    "profession": "Film Producer, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-Degree Govt. College, Madapally, Christ College Irinjalakuda, Calicut University-1977, SSLC, St.Thomas High School, Pala"
+    },
+    "declared_cases": {
+      "total": 16,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 5,
+      "note": null
+    },
+    "assets": {
+      "movable": 14794054,
+      "immovable": 203000000,
+      "total": 216804053,
+      "liabilities": 116173761
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=201",
+    "retrieved": "2026-08-27"
+  }
+}

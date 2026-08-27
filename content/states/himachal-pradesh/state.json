@@ -1,0 +1,25 @@
+{
+  "slug": "himachal-pradesh",
+  "name": "Himachal Pradesh",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 68,
+  "district_count": 12,
+  "term": {
+    "start": "2022"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/HimachalPradesh2022/",
+    "adr_serious_list": "https://www.myneta.info/HimachalPradesh2022/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      77.32,
+      31.83
+    ],
+    "zoom": 7
+  }
+}

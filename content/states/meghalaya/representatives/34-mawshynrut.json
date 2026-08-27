@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-34-mawshynrut",
+  "constituency": {
+    "number": 34,
+    "name": "Mawshynrut",
+    "district": "West Khasi Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Methodius Dkhar",
+    "election": "2023",
+    "elected_party": "Hill State People’s Democratic Party",
+    "current_party": "Hill State People’s Democratic Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Economics from North Eastern Hill University, Shillong in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 219283251,
+      "immovable": 322717200,
+      "total": 551000487,
+      "liabilities": 23218103
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6972",
+    "retrieved": "2026-08-27"
+  }
+}

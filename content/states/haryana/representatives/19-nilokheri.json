@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-19-nilokheri",
+  "constituency": {
+    "number": 19,
+    "name": "Nilokheri",
+    "district": "Karnal",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bhagwan Dass",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Social Service, Khadi Worker and Consultant",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from MG University Meghalaya"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3763843,
+      "immovable": 3870000,
+      "total": 7433843,
+      "liabilities": 2942521
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=359",
+    "retrieved": "2026-08-27"
+  }
+}

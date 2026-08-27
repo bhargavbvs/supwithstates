@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-185-channapatna",
+  "constituency": {
+    "number": 185,
+    "name": "Channapatna",
+    "district": "R",
+    "reserved": null
+  },
+  "representative": {
+    "name": "C P Yogeeshwara",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BSC from V.V. Puram College Bangalore in 1983-1986"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 151824323,
+      "immovable": 584003944,
+      "total": 675545178,
+      "liabilities": 292773468
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=9526",
+    "retrieved": "2026-08-27"
+  }
+}

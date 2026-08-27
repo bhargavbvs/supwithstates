@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-105-malerkotla",
+  "constituency": {
+    "number": 105,
+    "name": "Malerkotla",
+    "district": "Maler Kotla",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohammad Jamil Ur Rehman",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Private Teaching",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From Punjabi University, Patiala 2016"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1620832,
+      "immovable": 4500000,
+      "total": 6120832,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=668",
+    "retrieved": "2026-08-27"
+  }
+}

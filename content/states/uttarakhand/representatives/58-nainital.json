@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-58-nainital",
+  "constituency": {
+    "number": 58,
+    "name": "Nainital",
+    "district": "Nainit>l",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sarita Arya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed From Distt. Government High School Bhawali in 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47086,
+      "immovable": 5500000,
+      "total": 5547086,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=225",
+    "retrieved": "2026-08-27"
+  }
+}

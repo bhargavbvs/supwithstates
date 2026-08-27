@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-162-poompuhar",
+  "constituency": {
+    "number": 162,
+    "name": "Poompuhar",
+    "district": "Mayiladuthurai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nivedha M Murugan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Standard From Porayar Andavar High School"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41738446,
+      "immovable": 85858519,
+      "total": 135246965,
+      "liabilities": 135650078
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1347",
+    "retrieved": "2026-08-27"
+  }
+}

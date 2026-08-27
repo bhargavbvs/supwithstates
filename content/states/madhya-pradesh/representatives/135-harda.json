@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-135-harda",
+  "constituency": {
+    "number": 135,
+    "name": "Harda",
+    "district": "Harda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Ram Kishore Dogne",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. From Devi Aahilya University Indore 31-12-2013"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5901751,
+      "immovable": 134405000,
+      "total": 140306751,
+      "liabilities": 1823760
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=47",
+    "retrieved": "2026-08-27"
+  }
+}

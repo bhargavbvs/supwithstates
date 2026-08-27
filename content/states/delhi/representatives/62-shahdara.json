@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-62-shahdara",
+  "constituency": {
+    "number": 62,
+    "name": "Shahdara",
+    "district": "Shahadara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Goyal",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws, Year 1991, Law Centre Mandir Marg, University of Delhi , Bachelor of Commerce (Honours) Year 1988, Shaheed Bhagat Singh College University of Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 312219216,
+      "immovable": 232525000,
+      "total": 544744218,
+      "liabilities": 64903000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=601",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-12-umroi",
+  "constituency": {
+    "number": 12,
+    "name": "Umroi",
+    "district": "Ri-Bhoi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Damanbait Lamare",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 26,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Xth Secondary School Examination From Pestle Weed College Oak Hill Est. Dehradun Uttarakhand Year 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47199980,
+      "immovable": 5360000,
+      "total": 52490698,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6784",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-102-bhadaur",
+  "constituency": {
+    "number": 102,
+    "name": "Bhadaur",
+    "district": "Barnala",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Labh Singh Ugoke",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 35,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th from Punjab School Education Board in March 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 365490,
+      "immovable": 0,
+      "total": 365490,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=748",
+    "retrieved": "2026-08-27"
+  }
+}

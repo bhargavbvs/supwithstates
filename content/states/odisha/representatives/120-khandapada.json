@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-120-khandapada",
+  "constituency": {
+    "number": 120,
+    "name": "Khandapada",
+    "district": "Nayagarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dusmanta Kumar Swain",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Technical Profession ( Architecture)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Architecture from Utkal University 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15733934,
+      "immovable": 40900000,
+      "total": 56634534,
+      "liabilities": 3500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=759",
+    "retrieved": "2026-08-27"
+  }
+}

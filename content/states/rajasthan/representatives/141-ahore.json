@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-141-ahore",
+  "constituency": {
+    "number": 141,
+    "name": "Ahore",
+    "district": "Jalor",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chhagan Singh Rajpurohit",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "LIC Agent, MLA Salary, Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. from Dakshin Bharat Hindi Prachar Sabha, Madras in 2005"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8803577,
+      "immovable": 6920000,
+      "total": 12093577,
+      "liabilities": 2485256
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=13",
+    "retrieved": "2026-08-27"
+  }
+}

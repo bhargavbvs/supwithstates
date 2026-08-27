@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-109-lanji",
+  "constituency": {
+    "number": 109,
+    "name": "Lanji",
+    "district": "Balaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajkumar Karrahe",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 46,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Govt. Jatashankar Trivedi College Balaghat in 2007"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3120736,
+      "immovable": 80000000,
+      "total": 83120736,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=744",
+    "retrieved": "2026-08-27"
+  }
+}

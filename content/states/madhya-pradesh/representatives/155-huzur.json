@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-155-huzur",
+  "constituency": {
+    "number": 155,
+    "name": "Huzur",
+    "district": "Bhopal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rameshwar Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts in 2003 from Indian Education Council, Under Uttar Pradesh"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 25926150,
+      "immovable": 58156000,
+      "total": 84082150,
+      "liabilities": 34152521
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=507",
+    "retrieved": "2026-08-27"
+  }
+}

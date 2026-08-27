@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-25-east-tuipui",
+  "constituency": {
+    "number": 25,
+    "name": "East Tuipui",
+    "district": "Champhai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Ramthanmawia",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Radio Electronics Engineering from BRC Radio Institute, Rangoon, Burma in the year of 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 40376260,
+      "immovable": 91200000,
+      "total": 131576260,
+      "liabilities": 2389147
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=135",
+    "retrieved": "2026-08-27"
+  }
+}

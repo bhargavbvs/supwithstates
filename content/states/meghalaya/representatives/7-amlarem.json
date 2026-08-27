@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-7-amlarem",
+  "constituency": {
+    "number": 7,
+    "name": "Amlarem",
+    "district": "West Jaintia Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lahkmen Rymbui",
+    "election": "2023",
+    "elected_party": "UDP",
+    "current_party": "UDP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Social Service & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science (Hons), from St. Edmunds College, Shillong NEHU in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45440747,
+      "immovable": 146500000,
+      "total": 191940765,
+      "liabilities": 3265613
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6925",
+    "retrieved": "2026-08-27"
+  }
+}

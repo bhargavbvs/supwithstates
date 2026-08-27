@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-94-bellary-city",
+  "constituency": {
+    "number": 94,
+    "name": "Bellary City",
+    "district": "Ball",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nara Bharath Reddy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 33,
+    "profession": "Business & Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BBM from Gulbarga University in 2010"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 252882141,
+      "immovable": 664765000,
+      "total": 911821808,
+      "liabilities": 343786368
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7861",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-6-mulana",
+  "constituency": {
+    "number": 6,
+    "name": "Mulana",
+    "district": "Ambala",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pooja",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Petrol Pump Owner",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B. From Panjab University Completed in The Year 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38262672,
+      "immovable": 216439490,
+      "total": 254845805,
+      "liabilities": 5861348
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=317",
+    "retrieved": "2026-08-27"
+  }
+}

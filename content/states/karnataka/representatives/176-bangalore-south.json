@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-176-bangalore-south",
+  "constituency": {
+    "number": 176,
+    "name": "Bangalore South",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M Krishnappa",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Legislators",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC ,JSS,High school ,8th block jayanagar ,,bangalore,1978-79"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 202670293,
+      "immovable": 697279500,
+      "total": 899949800,
+      "liabilities": 205114536
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7121",
+    "retrieved": "2026-08-27"
+  }
+}

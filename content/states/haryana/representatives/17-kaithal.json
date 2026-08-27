@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-17-kaithal",
+  "constituency": {
+    "number": 17,
+    "name": "Kaithal",
+    "district": "Kaithal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aditya Surjewala",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 25,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, from University of British Columbia Year 2023"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 36170637,
+      "immovable": 0,
+      "total": 291142837,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=350",
+    "retrieved": "2026-08-27"
+  }
+}

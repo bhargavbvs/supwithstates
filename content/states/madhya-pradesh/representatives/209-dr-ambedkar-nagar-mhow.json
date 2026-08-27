@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-209-dr-ambedkar-nagar-mhow",
+  "constituency": {
+    "number": 209,
+    "name": "Dr. Ambedkar Nagar-Mhow",
+    "district": "Indore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Usha Babu Singh Thakur",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Social Worker ( Cabinet Minister)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phill, BHSC From Devi Ahilya University in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5872690,
+      "immovable": 0,
+      "total": 5872690,
+      "liabilities": 82218
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=280",
+    "retrieved": "2026-08-27"
+  }
+}

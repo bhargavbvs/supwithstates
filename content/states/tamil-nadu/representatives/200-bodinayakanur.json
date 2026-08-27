@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-200-bodinayakanur",
+  "constituency": {
+    "number": 200,
+    "name": "Bodinayakanur",
+    "district": "Theni",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Panneerselvam.O",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Politician, Agriculture and Dairy Farming",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B. A (Economics) - Incomplete, 1973, Hajee Karutha Rowther Howdia College, Uthamapalayam Madurai University."
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29511388,
+      "immovable": 91717058,
+      "total": 121228446,
+      "liabilities": 54051955
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1151",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-222-kollegal",
+  "constituency": {
+    "number": 222,
+    "name": "Kollegal",
+    "district": "Ch",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "A.R.Krishnamurthy",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Ex-Chairman of Ambedkar development co-op and owner of petrol station",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Maharaja College, Year-1981-82 & Post Graduate Diploma in Journalism From Maneshar Gangotri Mysore, Year-1987-88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5198807,
+      "immovable": 40800000,
+      "total": 45848260,
+      "liabilities": 4889932
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7468",
+    "retrieved": "2026-08-27"
+  }
+}

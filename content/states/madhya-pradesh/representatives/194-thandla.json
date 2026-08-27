@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-194-thandla",
+  "constituency": {
+    "number": 194,
+    "name": "Thandla",
+    "district": "Jhabua",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Veersingh Bhuriya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondry pass in 1983 Bhopal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3799504,
+      "immovable": 5050000,
+      "total": 8849504,
+      "liabilities": 300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=443",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-30-alungtaki",
+  "constituency": {
+    "number": 30,
+    "name": "Alungtaki",
+    "district": "Mokokchung",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Temjen Imna Along",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Member of Legislative Assembly Govt. of nagaland",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre University (Comm) From City College of Arts & Comm Dimapur Nagaland University 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14653477,
+      "immovable": 85950400,
+      "total": 100603879,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6776",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-49-narnaund",
+  "constituency": {
+    "number": 49,
+    "name": "Narnaund",
+    "district": "Hisar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jassi Petwar",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 34,
+    "profession": "Farmer, Education Counsellor",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Maharshi Dayanand University Rohtak, Haryana in 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3543622,
+      "immovable": 18150000,
+      "total": 21693622,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=463",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-63-guruvayoor",
+  "constituency": {
+    "number": 63,
+    "name": "Guruvayoor",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "N. K. Akbar",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Degree, Kozhikode, University In 1993, M.A. not completed."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 214000,
+      "immovable": 4000000,
+      "total": 9678372,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=82",
+    "retrieved": "2026-08-27"
+  }
+}

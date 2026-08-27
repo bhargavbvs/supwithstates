@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-187-manamadurai",
+  "constituency": {
+    "number": 187,
+    "name": "Manamadurai",
+    "district": "Sivaganga",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Elangovan.D",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Photographer",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Pharmacy Ultra College College of Pharmacy Annanagar Madurai 2009, 12th Standard Government Higher Secondary School Keeladi 2001, 10th Standard Mangaiyarkarasi Higher Secondary School Madurai 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1270400,
+      "immovable": 0,
+      "total": 1214400,
+      "liabilities": 1816926
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1003",
+    "retrieved": "2026-08-27"
+  }
+}

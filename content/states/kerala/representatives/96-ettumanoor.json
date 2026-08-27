@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-96-ettumanoor",
+  "constituency": {
+    "number": 96,
+    "name": "Ettumanoor",
+    "district": "Kottayam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nattakom Suresh",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A in Sociology from Annamalai University by distance education, Course completed in the year 2021."
+    },
+    "declared_cases": {
+      "total": 27,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 19,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2978105,
+      "immovable": 9000000,
+      "total": 13978105,
+      "liabilities": 3723991
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=697",
+    "retrieved": "2026-08-27"
+  }
+}

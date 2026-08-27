@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-139-bissam-cuttack",
+  "constituency": {
+    "number": 139,
+    "name": "Bissam Cuttack",
+    "district": "Rayagarha",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nilamadhab Hikaka",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Cultivation",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Highest Education Qualification from National Institution Open Schooling Passed the Secondary School Examination in the year October 2018, An Autonomous Institution under MHRD Govt. India"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1751570,
+      "immovable": 3700000,
+      "total": 5039870,
+      "liabilities": 2257000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=44",
+    "retrieved": "2026-08-27"
+  }
+}

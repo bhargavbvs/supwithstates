@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-62-atam-nagar",
+  "constituency": {
+    "number": 62,
+    "name": "Atam Nagar",
+    "district": "Ludhiana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kulwant Singh Sidhu",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From Shia College Lucknow Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1129111,
+      "immovable": 171601000,
+      "total": 172730111,
+      "liabilities": 4056848
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=14",
+    "retrieved": "2026-08-27"
+  }
+}

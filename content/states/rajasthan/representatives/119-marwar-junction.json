@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-119-marwar-junction",
+  "constituency": {
+    "number": 119,
+    "name": "Marwar Junction",
+    "district": "Pali",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kesaram Choudhary",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Agriculture and Rent",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Graduate) From Jain Vishwabharti Institute Ladnun Year 2018 & ITI, Year-1972"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12400557,
+      "immovable": 32400000,
+      "total": 44794065,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=308",
+    "retrieved": "2026-08-27"
+  }
+}

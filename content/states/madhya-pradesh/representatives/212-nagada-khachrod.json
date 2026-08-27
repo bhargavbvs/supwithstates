@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-212-nagada-khachrod",
+  "constituency": {
+    "number": 212,
+    "name": "Nagada-Khachrod",
+    "district": "Ujjain",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Tejbahadur Singh Chauhan",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "N.A.",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Bhopal University Bhopal In 1988, B.H.M.S. from State Council of Homeopathy M.P. Bhopal In 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 655907,
+      "immovable": 7600000,
+      "total": 8255907,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=68",
+    "retrieved": "2026-08-27"
+  }
+}

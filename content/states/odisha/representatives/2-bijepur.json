@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-2-bijepur",
+  "constituency": {
+    "number": 2,
+    "name": "Bijepur",
+    "district": "Bargarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanat Kumar Gartia",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Cultivation & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "HSC From Board of Secondary Education Odisha Year 1982 & Diploma in Computer Studies from National Computing Centre, United Kingdom in yr- 1988"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7217844,
+      "immovable": 28700000,
+      "total": 35917845,
+      "liabilities": 479770
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=384",
+    "retrieved": "2026-08-27"
+  }
+}

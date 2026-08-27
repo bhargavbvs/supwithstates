@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-104-masuda",
+  "constituency": {
+    "number": 104,
+    "name": "Masuda",
+    "district": "Beawar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Virendra Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 58,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B. COM Rajasthan V.V Jaipur 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 846197,
+      "immovable": 7500000,
+      "total": 8346197,
+      "liabilities": 33300
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=487",
+    "retrieved": "2026-08-27"
+  }
+}

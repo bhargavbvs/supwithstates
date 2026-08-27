@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-96-kudligi",
+  "constituency": {
+    "number": 96,
+    "name": "Kudligi",
+    "district": "Vijayanagara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Srinivas N T",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MD(Ophthalmology) - All India Institute of Medical science (AIIMS), New Delhi in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28613085,
+      "immovable": 130616453,
+      "total": 159229538,
+      "liabilities": 30980000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7490",
+    "retrieved": "2026-08-27"
+  }
+}

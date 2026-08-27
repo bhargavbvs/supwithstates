@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-15-deoghar",
+  "constituency": {
+    "number": 15,
+    "name": "Deoghar",
+    "district": "Deoghar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Suresh Paswan",
+    "election": "2024",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Agriculturist & Received pension from Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Non Matric from Bihar School,(Bihar School Examination Board Patna) Year 1979"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7427421,
+      "immovable": 180000000,
+      "total": 187678000,
+      "liabilities": 5290001
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=932",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-35-jaleswar",
+  "constituency": {
+    "number": 35,
+    "name": "Jaleswar",
+    "district": "Balasore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aswini Kumar Patra",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 73,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Utkal University in 1978, LLB from Utkal University in 1977"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7499855,
+      "immovable": 8402173,
+      "total": 15902028,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1098",
+    "retrieved": "2026-08-27"
+  }
+}

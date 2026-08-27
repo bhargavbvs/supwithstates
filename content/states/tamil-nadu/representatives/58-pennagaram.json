@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-58-pennagaram",
+  "constituency": {
+    "number": 58,
+    "name": "Pennagaram",
+    "district": "Dharmapuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gajendran. S.",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "6th Standard, Government Boys Higher Secondary School, Pennagaram in 1993."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8421800,
+      "immovable": 41400000,
+      "total": 49821000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1216",
+    "retrieved": "2026-08-27"
+  }
+}

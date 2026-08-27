@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-111-mettuppalayam",
+  "constituency": {
+    "number": 111,
+    "name": "Mettuppalayam",
+    "district": "Coimbatore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunilanand",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Self Employed",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "11 Standard - Mahajana Higher Secondary School, Mettupalayam - 1991 (Intermission), 10th Standard - Mahajana Higher Secondary School, Mettupalayam - 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 137424392,
+      "immovable": 175780000,
+      "total": 313204393,
+      "liabilities": 29474769
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=877",
+    "retrieved": "2026-08-27"
+  }
+}

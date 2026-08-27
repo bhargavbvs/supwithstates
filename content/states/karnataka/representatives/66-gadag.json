@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-66-gadag",
+  "constituency": {
+    "number": 66,
+    "name": "Gadag",
+    "district": "Gadag",
+    "reserved": null
+  },
+  "representative": {
+    "name": "H. K. Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From GSS Sakti Law College, Karnataka University, Dharwad, Year-1979 & B.Sc. From GSS College, Karnataka University, Dharwad, Year-1973"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27883957,
+      "immovable": 185666500,
+      "total": 213550457,
+      "liabilities": 35305155
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7242",
+    "retrieved": "2026-08-27"
+  }
+}

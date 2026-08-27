@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-40-chittapur",
+  "constituency": {
+    "number": 40,
+    "name": "Chittapur",
+    "district": "Kalaburagi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Priyank Kharge",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "I PUC from MES College, Malleshwaram in 1996, Certified Professional in Computer Arts & Animation in 1999"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 72026018,
+      "immovable": 106341138,
+      "total": 168310621,
+      "liabilities": 2875000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7211",
+    "retrieved": "2026-08-27"
+  }
+}

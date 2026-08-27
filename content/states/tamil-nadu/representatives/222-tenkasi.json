@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-222-tenkasi",
+  "constituency": {
+    "number": 222,
+    "name": "Tenkasi",
+    "district": "Tenkasi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr.Kalai Kathiravan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Doctor",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS From Rajah Muthaiah Medical College And Hospital, Annamalai University, December, Year - 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12069462,
+      "immovable": 480000,
+      "total": 12549465,
+      "liabilities": 7336338
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1335",
+    "retrieved": "2026-08-27"
+  }
+}

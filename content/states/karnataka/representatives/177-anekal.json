@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-177-anekal",
+  "constituency": {
+    "number": 177,
+    "name": "Anekal",
+    "district": "Bengal#ru (Urban)",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "B. Shivanna",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Social Worker ,Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc., Bangalore University 1992 L.L.B Islamia Law College Bangalore 1995"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50772752,
+      "immovable": 301700000,
+      "total": 352472752,
+      "liabilities": 40725739
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7817",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-20-barkatha",
+  "constituency": {
+    "number": 20,
+    "name": "Barkatha",
+    "district": "Hazaribagh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amit Kumar Yadav",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 40,
+    "profession": "Social Service and Politician (MLA)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Vinova Bhave University Hazaribagh Year 2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23978055,
+      "immovable": 17500000,
+      "total": 41478055,
+      "liabilities": 5312700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=249",
+    "retrieved": "2026-08-27"
+  }
+}

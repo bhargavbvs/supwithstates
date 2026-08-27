@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-31-along-east",
+  "constituency": {
+    "number": 31,
+    "name": "Along East",
+    "district": "West Siang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kento Jini",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 48,
+    "profession": "Advocate & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Law (LLB) From University Law College, Gauhati University In 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 47429075,
+      "immovable": 69600000,
+      "total": 117029076,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

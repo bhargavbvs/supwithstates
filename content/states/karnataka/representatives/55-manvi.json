@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-55-manvi",
+  "constituency": {
+    "number": 55,
+    "name": "Manvi",
+    "district": "Raich#r",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "G Hampayya Nayak",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 84,
+    "profession": "Agriculture and Social Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC From Kalburgi Year 1954"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3332387,
+      "immovable": 22223178,
+      "total": 25655566,
+      "liabilities": 3435371
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8158",
+    "retrieved": "2026-08-27"
+  }
+}

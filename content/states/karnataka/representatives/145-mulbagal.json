@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-145-mulbagal",
+  "constituency": {
+    "number": 145,
+    "name": "Mulbagal",
+    "district": "Kol",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Samruddhi V. Manjunath",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Builder and Developer, Film Producer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC , Government Boys Pre University College, Srinivaspura in 2001"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 44815252,
+      "immovable": 552208297,
+      "total": 597023550,
+      "liabilities": 174598335
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7587",
+    "retrieved": "2026-08-27"
+  }
+}

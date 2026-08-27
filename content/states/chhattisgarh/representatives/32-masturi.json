@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-32-masturi",
+  "constituency": {
+    "number": 32,
+    "name": "Masturi",
+    "district": "Bilaspur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dilip Lahariya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Farmer, Folk singer, MLA Pension and Facilities received by former MLA",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Certificate from Board of Secondary Education Bhopal MP In 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1976416,
+      "immovable": 22205000,
+      "total": 24181416,
+      "liabilities": 5065562
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=483",
+    "retrieved": "2026-08-27"
+  }
+}

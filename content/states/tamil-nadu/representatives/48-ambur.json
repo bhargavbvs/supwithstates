@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-48-ambur",
+  "constituency": {
+    "number": 48,
+    "name": "Ambur",
+    "district": "Tirupathur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vilwanathan. A.C.",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "P.C.U Fail-Mazharul Uloom College, Ambur, Course Completed-August-1980. S.S.L.C -Government High School, Machambut, Umrabad Post, Gudiyatham Taluku, May 1975 -passed"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 13860735,
+      "immovable": 45330000,
+      "total": 59190735,
+      "liabilities": 1050402
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=753",
+    "retrieved": "2026-08-27"
+  }
+}

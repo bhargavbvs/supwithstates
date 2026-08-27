@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-186-bhagwanpura",
+  "constituency": {
+    "number": 186,
+    "name": "Bhagwanpura",
+    "district": "Khargone",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kedar Chidabhai Dawar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Business and Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB in 1992, B.A. in 1989 from Govt. College Khargone, Vikram University Ujjain"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10169805,
+      "immovable": 18650000,
+      "total": 28819805,
+      "liabilities": 15904954
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=248",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-98-aul",
+  "constituency": {
+    "number": 98,
+    "name": "Aul",
+    "district": "Kendrapara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pratap Keshari Deb",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Social Worker, Agriculture , Pisciculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "+3 Arts From Rajmas College Delhi 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29003287,
+      "immovable": 189817065,
+      "total": 218819991,
+      "liabilities": 818000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=948",
+    "retrieved": "2026-08-27"
+  }
+}

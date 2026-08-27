@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-12-khajuwala",
+  "constituency": {
+    "number": 12,
+    "name": "Khajuwala",
+    "district": "Bikaner",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr Vishwanath Meghwal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Social Worker & Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from SP Medical College Bikaner (Rajasthan University, Jaipur) in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5175907,
+      "immovable": 16950000,
+      "total": 22122664,
+      "liabilities": 4444812
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=242",
+    "retrieved": "2026-08-27"
+  }
+}

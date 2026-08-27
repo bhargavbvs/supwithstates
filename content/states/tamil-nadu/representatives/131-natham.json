@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-131-natham",
+  "constituency": {
+    "number": 131,
+    "name": "Natham",
+    "district": "Dindigul",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Natham Viswanathan R",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 76,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc., (Physics) From Alagappa College, (Madurai Kamaraj University) 1968-1971 & SSLC From Natham Durai Kamalam Board High School-1966"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20337422,
+      "immovable": 26208200,
+      "total": 46545624,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1202",
+    "retrieved": "2026-08-27"
+  }
+}

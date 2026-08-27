@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-89-udumbanchola",
+  "constituency": {
+    "number": 89,
+    "name": "Udumbanchola",
+    "district": "Idukki",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. Senapathy Venu",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Lawyer",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com. From Mahatma Gandhi University - 1992 & LL.M. From Mahatma Gandhi University - 2005"
+    },
+    "declared_cases": {
+      "total": 9,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 9,
+      "note": null
+    },
+    "assets": {
+      "movable": 16561647,
+      "immovable": 13000000,
+      "total": 29290644,
+      "liabilities": 1536500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=675",
+    "retrieved": "2026-08-27"
+  }
+}

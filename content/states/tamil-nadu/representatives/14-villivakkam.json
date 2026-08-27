@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-14-villivakkam",
+  "constituency": {
+    "number": 14,
+    "name": "Villivakkam",
+    "district": "Chennai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aadhav Arjuna",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A (Political Science), Madras Christian College, University of Madras, 2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3448868568,
+      "immovable": 1900168189,
+      "total": 5349036735,
+      "liabilities": 300523446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=222",
+    "retrieved": "2026-08-27"
+  }
+}

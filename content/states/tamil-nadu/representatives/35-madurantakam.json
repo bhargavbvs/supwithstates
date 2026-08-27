@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-35-madurantakam",
+  "constituency": {
+    "number": 35,
+    "name": "Madurantakam",
+    "district": "Chengalpattu",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Maragatham Kumaravel.K",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Political & House Wife",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From Tamil Nadu Open University In 2017, B.Com From Tamil Nadu Open University In 2014, HSC From Govt Model Higher Srecondary School, Saidapet In 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 15550265,
+      "immovable": 15214880,
+      "total": 30765145,
+      "liabilities": 2012704
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=848",
+    "retrieved": "2026-08-27"
+  }
+}

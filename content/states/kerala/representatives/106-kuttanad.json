@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-106-kuttanad",
+  "constituency": {
+    "number": 106,
+    "name": "Kuttanad",
+    "district": "Alappuzha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Reji Cheriyan",
+    "election": "2026",
+    "elected_party": "Kerala Congress",
+    "current_party": "Kerala Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Draughtsman Civil Engineering, ST. Johns Training Center Pathishira Alappuzha Dist Year 1984-86"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 89136082,
+      "immovable": 2100500000,
+      "total": 2189636084,
+      "liabilities": 72813450
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=156",
+    "retrieved": "2026-08-27"
+  }
+}

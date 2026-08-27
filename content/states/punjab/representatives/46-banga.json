@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-46-banga",
+  "constituency": {
+    "number": 46,
+    "name": "Banga",
+    "district": "Shahid Bhagat Singh Nagar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sukhwinder Kumar",
+    "election": "2022",
+    "elected_party": "SAD",
+    "current_party": "SAD",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Doctor (MBBS., MS (ENT)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.B.S.., M.S. (ENT) in 1992 from Dayanad Medical, College & Hospital Ludhiyana Punjab, (Punjab University, Chandigarh)"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3213965,
+      "immovable": 29900000,
+      "total": 33113965,
+      "liabilities": 9732446
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=789",
+    "retrieved": "2026-08-27"
+  }
+}

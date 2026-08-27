@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-20-aizawl-south-iii-s",
+  "constituency": {
+    "number": 20,
+    "name": "Aizawl South-Iii (S",
+    "district": "Aizawl",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Baryl Vanneihsangi",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 32,
+    "profession": "Corporator, Aizawl Municipal Corporatioln",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Department of History) in the year 2014 at North Eastern Hill University (NEHU), Shillong, Meghalaya"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5126050,
+      "immovable": 17000000,
+      "total": 18876050,
+      "liabilities": 3500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=39",
+    "retrieved": "2026-08-27"
+  }
+}

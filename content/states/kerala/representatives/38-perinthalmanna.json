@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-38-perinthalmanna",
+  "constituency": {
+    "number": 38,
+    "name": "Perinthalmanna",
+    "district": "Malappuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Najeeb Kanthapuram",
+    "election": "2026",
+    "elected_party": "Indian Union Muslim League",
+    "current_party": "Indian Union Muslim League",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Politician, Social Work and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Arts (BA), Farook College Kozhikode, Bachelor in Education B.Ed., Calicut University 1996"
+    },
+    "declared_cases": {
+      "total": 10,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 8,
+      "note": null
+    },
+    "assets": {
+      "movable": 14632619,
+      "immovable": 15340000,
+      "total": 29972619,
+      "liabilities": 7603702
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=1",
+    "retrieved": "2026-08-27"
+  }
+}

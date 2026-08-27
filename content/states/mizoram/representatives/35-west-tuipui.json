@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-35-west-tuipui",
+  "constituency": {
+    "number": 35,
+    "name": "West Tuipui",
+    "district": "Lunglei",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Prova Chakma",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 48,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts (Education) from Vinayaka Missions University, Tamilnadu, India- 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9252278,
+      "immovable": 6850000,
+      "total": 16102278,
+      "liabilities": 1100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=13",
+    "retrieved": "2026-08-27"
+  }
+}

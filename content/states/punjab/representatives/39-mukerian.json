@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-39-mukerian",
+  "constituency": {
+    "number": 39,
+    "name": "Mukerian",
+    "district": "Hoshiarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jangi Lal Mahajan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 74,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation Passed From Punjab School Education Board Punjab, Mohali in 1964"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13631777,
+      "immovable": 22233000,
+      "total": 35864777,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=202",
+    "retrieved": "2026-08-27"
+  }
+}

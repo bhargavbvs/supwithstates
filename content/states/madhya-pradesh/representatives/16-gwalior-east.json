@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-16-gwalior-east",
+  "constituency": {
+    "number": 16,
+    "name": "Gwalior East",
+    "district": "Gwalior",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Satish Sikarwar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Salary, Buildings Rent and Private work",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "PHD Year 2000 (M.L.B. College, J.U., Gwalior), High School Year 1987 ( M.S.M. Bhopal), Higher Secondary year 1989( M.S.M., Bhopal), B.A. 1992(Jeevaji University, Gwalior), M.A. year 1994(Jeevaji University, Gwalior), L.L.B. Year 2005(J.U., Gwalior), L.L.M"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7056841,
+      "immovable": 6670000,
+      "total": 13726841,
+      "liabilities": 2897305
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=45",
+    "retrieved": "2026-08-27"
+  }
+}

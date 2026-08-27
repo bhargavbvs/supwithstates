@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-73-kodungallur",
+  "constituency": {
+    "number": 73,
+    "name": "Kodungallur",
+    "district": "Thrissur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Adv. O J Janeesh",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA, LLB, Govt. Law College, Thrissur/ Calicut University Year 2019"
+    },
+    "declared_cases": {
+      "total": 68,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 65,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4208037,
+      "immovable": 1500000,
+      "total": 5708037,
+      "liabilities": 3914100
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=509",
+    "retrieved": "2026-08-27"
+  }
+}

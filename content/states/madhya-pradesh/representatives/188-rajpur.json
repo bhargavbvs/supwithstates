@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-188-rajpur",
+  "constituency": {
+    "number": 188,
+    "name": "Rajpur",
+    "district": "Barwani",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bala Bachchan",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Graduate Electronics Engineering from Shri Govindram Institute of Technology & Science College in 1993 (DAVV, Indore)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 25195561,
+      "immovable": 147807205,
+      "total": 173002766,
+      "liabilities": 4481058
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=388",
+    "retrieved": "2026-08-27"
+  }
+}

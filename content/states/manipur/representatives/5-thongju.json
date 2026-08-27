@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-5-thongju",
+  "constituency": {
+    "number": 5,
+    "name": "Thongju",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thongam Biswajit Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": "Cabinet Minister Manipur",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc From Manipur College MU in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31525163,
+      "immovable": 11792880,
+      "total": 42533844,
+      "liabilities": 3099150
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=124",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-145-basoda",
+  "constituency": {
+    "number": 145,
+    "name": "Basoda",
+    "district": "Vidisha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hari Singh Raghuwanshi (Badda)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Agriculture and MLA Pension and Buliding Rent",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Bhopal University, Bhopal L.B.S. University Ganjabasauda Graduate ( Art Department) Year 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5808630,
+      "immovable": 78500000,
+      "total": 84308630,
+      "liabilities": 440168
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=25",
+    "retrieved": "2026-08-27"
+  }
+}

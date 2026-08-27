@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-69-vandavasi",
+  "constituency": {
+    "number": 69,
+    "name": "Vandavasi",
+    "district": "Tiruvannamalai",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ambethkumar. S",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Construction work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass From Government Boys Higher Secondary School, Vandavasi. Year: 1993"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9599962,
+      "immovable": 79333315,
+      "total": 143470781,
+      "liabilities": 94539371
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1307",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-10-dehra",
+  "constituency": {
+    "number": 10,
+    "name": "Dehra",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamlesh Thakur",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Farmer, Self Employed Pvt. Tutor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from HPU in the year 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7903688,
+      "immovable": 92466894,
+      "total": 91453860,
+      "liabilities": 390012
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=509",
+    "retrieved": "2026-08-27"
+  }
+}

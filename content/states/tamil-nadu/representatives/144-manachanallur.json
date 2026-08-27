@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-144-manachanallur",
+  "constituency": {
+    "number": 144,
+    "name": "Manachanallur",
+    "district": "Tiruchirappalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kathiravan. S",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering -PSNA Engineering College - Dindigul (Anna University) - Year 1999. HSC - Bishop Heber Higher Secondary School - Trichy - Year 1992."
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 562800000,
+      "immovable": 972200000,
+      "total": 1535000000,
+      "liabilities": 763701587
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=89",
+    "retrieved": "2026-08-27"
+  }
+}

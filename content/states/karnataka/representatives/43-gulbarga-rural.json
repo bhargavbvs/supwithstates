@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-43-gulbarga-rural",
+  "constituency": {
+    "number": 43,
+    "name": "Gulbarga Rural",
+    "district": "Kalaburagi",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Basawaraj Mattimudu",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Agriculture & Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC from Govt PU College, Gundagurti in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55787941,
+      "immovable": 209594695,
+      "total": 268652641,
+      "liabilities": 119404161
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6977",
+    "retrieved": "2026-08-27"
+  }
+}

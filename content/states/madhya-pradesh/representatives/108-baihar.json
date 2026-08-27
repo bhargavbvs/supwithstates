@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-108-baihar",
+  "constituency": {
+    "number": 108,
+    "name": "Baihar",
+    "district": "Balaghat",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sanjay Uikey",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA From Vinayak Mission University Tamilnadu Year 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7346185,
+      "immovable": 12500000,
+      "total": 19846185,
+      "liabilities": 3888000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=464",
+    "retrieved": "2026-08-27"
+  }
+}

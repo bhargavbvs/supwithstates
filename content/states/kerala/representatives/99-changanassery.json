@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-99-changanassery",
+  "constituency": {
+    "number": 99,
+    "name": "Changanassery",
+    "district": "Kottayam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinu Job Kuzhimannil",
+    "election": "2026",
+    "elected_party": "Kerala Congress",
+    "current_party": "Kerala Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "SOCIAL WORKER",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com(Bachelor ofCommerce) from S.B. College, Changanacherry in the year 1987,M.G University, Kottayam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5407225,
+      "immovable": 8200000,
+      "total": 13607225,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=419",
+    "retrieved": "2026-08-27"
+  }
+}

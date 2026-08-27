@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-132-jaisalmer",
+  "constituency": {
+    "number": 132,
+    "name": "Jaisalmer",
+    "district": "Jaisalmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chhotu Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Agriculture & Pension",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Secondary Passed from Board of Secondary Education, Rajasthan Ajmer, Government High Secondary School Jailalmer in 1973-74"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1283538,
+      "immovable": 5740000,
+      "total": 7023538,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=218",
+    "retrieved": "2026-08-27"
+  }
+}

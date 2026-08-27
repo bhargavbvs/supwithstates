@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-126-chhindwara",
+  "constituency": {
+    "number": 126,
+    "name": "Chhindwara",
+    "district": "Chhindwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamal Nath",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 76,
+    "profession": "Politics",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from St . Xavier College Calcutta University in 1968"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 532264658,
+      "immovable": 810211153,
+      "total": 1342475811,
+      "liabilities": 1200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=265",
+    "retrieved": "2026-08-27"
+  }
+}

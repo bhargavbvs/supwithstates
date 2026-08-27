@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-25-hazaribagh",
+  "constituency": {
+    "number": 25,
+    "name": "Hazaribagh",
+    "district": "Hazaribagh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradip Prasad",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate (Hons) from Sant Columba College, Hazaribagh, Ranchi University in 1989"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22835891,
+      "immovable": 44101677,
+      "total": 66937567,
+      "liabilities": 12850000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=262",
+    "retrieved": "2026-08-27"
+  }
+}

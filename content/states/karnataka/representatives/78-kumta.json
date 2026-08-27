@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-78-kumta",
+  "constituency": {
+    "number": 78,
+    "name": "Kumta",
+    "district": "Uttara Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dinakar Keshav Shetty",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Owner, Vijaya Sawmill, Koppalakarwadi, Kumta,581343",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-University Education, ( Commerce) in 1975 D A.V. Baaliga Commerce College, Kumta"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18906516,
+      "immovable": 25000000,
+      "total": 43906516,
+      "liabilities": 977000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7491",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-85-piravom",
+  "constituency": {
+    "number": 85,
+    "name": "Piravom",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anoop Jacob",
+    "election": "2026",
+    "elected_party": "Kerala Congress (Jacob)",
+    "current_party": "Kerala Congress (Jacob)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B From Kerala Law Academy Year 2001, Degree From MAR Ivanios College Year 1998"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 23905800,
+      "immovable": 184825000,
+      "total": 208730800,
+      "liabilities": 1100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=223",
+    "retrieved": "2026-08-27"
+  }
+}

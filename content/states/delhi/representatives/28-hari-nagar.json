@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-28-hari-nagar",
+  "constituency": {
+    "number": 28,
+    "name": "Hari Nagar",
+    "district": "West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shyam Sharma",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th National Institute of Open Schooling Year 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8664845,
+      "immovable": 151450000,
+      "total": 160114845,
+      "liabilities": 18008337
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=133",
+    "retrieved": "2026-08-27"
+  }
+}

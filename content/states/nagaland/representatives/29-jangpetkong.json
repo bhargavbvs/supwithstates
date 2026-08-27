@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-29-jangpetkong",
+  "constituency": {
+    "number": 29,
+    "name": "Jangpetkong",
+    "district": "Mokokchung",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Temjenmenba",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Good Governance from Global Open University, Dimapur, Nagaland in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2378000,
+      "immovable": 15080000,
+      "total": 17458000,
+      "liabilities": 2773326
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6796",
+    "retrieved": "2026-08-27"
+  }
+}

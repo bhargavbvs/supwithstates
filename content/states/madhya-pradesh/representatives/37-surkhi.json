@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-37-surkhi",
+  "constituency": {
+    "number": 37,
+    "name": "Surkhi",
+    "district": "Sagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Govind Singh Rajput",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Agriculture Income (Presently MLA and Minister Madhya Pradesh Government)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA from Punjab Technical University in 2007, MA from Dr. Hari Singh Gaur University Sagar In 1984"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27507910,
+      "immovable": 119319462,
+      "total": 146827372,
+      "liabilities": 21001852
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1504",
+    "retrieved": "2026-08-27"
+  }
+}

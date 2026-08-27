@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-14-doimukh",
+  "constituency": {
+    "number": 14,
+    "name": "Doimukh",
+    "district": "Papumpare",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nabam Vivek",
+    "election": "2024",
+    "elected_party": "Peoples Party of Arunachal",
+    "current_party": "Peoples Party of Arunachal",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Entrepreneur",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A (English Literature) Rajiv Gandhi University (Erstwhile Arunachal University), Rono Hills, Doimukh"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35644000,
+      "immovable": 54744500,
+      "total": 86138500,
+      "liabilities": 24300000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=88",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-183-mandalgarh",
+  "constituency": {
+    "number": 183,
+    "name": "Mandalgarh",
+    "district": "Bhilwara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gopal Lal Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Agriculture, Business, Social Service and Allowences",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Graduate passed, Rajasthan University, Jaipur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 73867441,
+      "immovable": 136910000,
+      "total": 210777439,
+      "liabilities": 109062554
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=299",
+    "retrieved": "2026-08-27"
+  }
+}

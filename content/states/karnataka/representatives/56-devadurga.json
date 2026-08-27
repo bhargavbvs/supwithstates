@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-56-devadurga",
+  "constituency": {
+    "number": 56,
+    "name": "Devadurga",
+    "district": "Raich#r",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Karemma",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Housewife",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC Vocational Education Year 2000, S.V.E Trust pre university college, Humanabad, dist ; Bidar"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4474000,
+      "immovable": 5500000,
+      "total": 9874000,
+      "liabilities": 2159000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7933",
+    "retrieved": "2026-08-27"
+  }
+}

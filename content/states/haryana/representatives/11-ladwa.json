@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-11-ladwa",
+  "constituency": {
+    "number": 11,
+    "name": "Ladwa",
+    "district": "Kurukshetra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nayab Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Passed LL.B, Degree in 2010 from Ch. Charan Singh University, Meerut, UP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9552710,
+      "immovable": 48500000,
+      "total": 58052714,
+      "liabilities": 7482619
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=166",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-181-bhikangaon",
+  "constituency": {
+    "number": 181,
+    "name": "Bhikangaon",
+    "district": "Khargone",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Smt Jhuma Solanki",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Agriculture & LPG Gas Business & Honorarium from MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Pol.Sci.) Christian College Indore, D.A.U. Indore, Year-1982 & L.L.B From Govt. College, Khargone, D.A.U. Indore, Year-1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55200033,
+      "immovable": 19952407,
+      "total": 75152440,
+      "liabilities": 7618496
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=250",
+    "retrieved": "2026-08-27"
+  }
+}

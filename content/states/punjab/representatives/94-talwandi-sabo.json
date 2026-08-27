@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-94-talwandi-sabo",
+  "constituency": {
+    "number": 94,
+    "name": "Talwandi Sabo",
+    "district": "Bathinda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prof. Baljinder Kaur",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 37,
+    "profession": "MLA Sitting",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phil From Punjabi University, Patiala in 2011"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4771086,
+      "immovable": 6400000,
+      "total": 11171086,
+      "liabilities": 60000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=119",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-64-nagod",
+  "constituency": {
+    "number": 64,
+    "name": "Nagod",
+    "district": "Satna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nagendra Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 80,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Allahabad university U.P."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7120061,
+      "immovable": 53000000,
+      "total": 60120061,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=70",
+    "retrieved": "2026-08-27"
+  }
+}

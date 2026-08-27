@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-197-dag",
+  "constituency": {
+    "number": 197,
+    "name": "Dag",
+    "district": "Jhalawar",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kaluram",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "MLA Salary",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th From Formal Education Center Secondary School Angari District Mandsaur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4495293,
+      "immovable": 28500000,
+      "total": 32995293,
+      "liabilities": 6352500
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=75",
+    "retrieved": "2026-08-27"
+  }
+}

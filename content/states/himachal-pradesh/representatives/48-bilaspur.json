@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-48-bilaspur",
+  "constituency": {
+    "number": 48,
+    "name": "Bilaspur",
+    "district": "Bil>spur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Trilok Jamwal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Professional",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com from Himachal Pradesh University in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3619102,
+      "immovable": 26650000,
+      "total": 30244106,
+      "liabilities": 759623
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=225",
+    "retrieved": "2026-08-27"
+  }
+}

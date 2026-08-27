@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-20-rajpur-road",
+  "constituency": {
+    "number": 20,
+    "name": "Rajpur Road",
+    "district": "Dehrad@n",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Khajan Dass",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Junior High School"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11412881,
+      "immovable": 10800000,
+      "total": 23812861,
+      "liabilities": 342000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=246",
+    "retrieved": "2026-08-27"
+  }
+}

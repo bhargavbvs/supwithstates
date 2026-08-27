@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-27-jhunjhunu",
+  "constituency": {
+    "number": 27,
+    "name": "Jhunjhunu",
+    "district": "Jhunjhunun",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Bhamboo",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate (History) from Rajasthan University, Jaipur in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 216588057,
+      "immovable": 69799000,
+      "total": 286387062,
+      "liabilities": 88050991
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1927",
+    "retrieved": "2026-08-27"
+  }
+}

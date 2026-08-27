@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-107-haripad",
+  "constituency": {
+    "number": 107,
+    "name": "Haripad",
+    "district": "Alappuzha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramesh Chennithala",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 69,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From NSS Hindu College, Perunna In 1977"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 2,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 37358827,
+      "immovable": 42133092,
+      "total": 79491920,
+      "liabilities": 7794400
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=85",
+    "retrieved": "2026-08-27"
+  }
+}

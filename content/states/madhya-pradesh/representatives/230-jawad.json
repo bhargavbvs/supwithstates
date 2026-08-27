@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-230-jawad",
+  "constituency": {
+    "number": 230,
+    "name": "Jawad",
+    "district": "Neemuch",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Omprakash Sakhlecha",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "MLA , Minister Allowance , Rent & Agriculture Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, Delhi University Year 1977-78"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30949937,
+      "immovable": 45040000,
+      "total": 75989937,
+      "liabilities": 4448528
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1506",
+    "retrieved": "2026-08-27"
+  }
+}

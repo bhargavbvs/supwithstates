@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-96-bargi",
+  "constituency": {
+    "number": 96,
+    "name": "Bargi",
+    "district": "Jabalpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Neeraj Singh Lodhi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA C.M.M. College Jabalpur Rani Durgawati University in 2005, B.E Jabalpur Engineer Collage R.G.P.V. Bhopal Year 2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9628201,
+      "immovable": 59000000,
+      "total": 68628201,
+      "liabilities": 4631622
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=470",
+    "retrieved": "2026-08-27"
+  }
+}

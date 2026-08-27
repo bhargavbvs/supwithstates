@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-2-panchkula",
+  "constituency": {
+    "number": 2,
+    "name": "Panchkula",
+    "district": "Panchkula",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chander Mohan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (Hons.) from Panjab University, Chandigarh, in the year 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 104794037,
+      "immovable": 704100000,
+      "total": 808894037,
+      "liabilities": 348000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=313",
+    "retrieved": "2026-08-27"
+  }
+}

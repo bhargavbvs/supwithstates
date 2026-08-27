@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-64-durg-city",
+  "constituency": {
+    "number": 64,
+    "name": "Durg City",
+    "district": "Durg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Gajendra Yadav",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. From Pt. Ravi Shankar Shukla University, Year-2003"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8024480,
+      "immovable": 34742000,
+      "total": 42766482,
+      "liabilities": 2027663
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=432",
+    "retrieved": "2026-08-27"
+  }
+}

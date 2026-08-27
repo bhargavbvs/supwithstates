@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-37-basta",
+  "constituency": {
+    "number": 37,
+    "name": "Basta",
+    "district": "Balasore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Subasini Jena",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Entrepreneur and Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate Passed in Arts from F.M. College Utkal Unviersity Year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 475275538,
+      "immovable": 876511950,
+      "total": 1351787484,
+      "liabilities": 298377561
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1051",
+    "retrieved": "2026-08-27"
+  }
+}

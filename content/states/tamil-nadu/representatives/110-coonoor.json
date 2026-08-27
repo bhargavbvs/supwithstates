@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-110-coonoor",
+  "constituency": {
+    "number": 110,
+    "name": "Coonoor",
+    "district": "The Nilgiris",
+    "reserved": null
+  },
+  "representative": {
+    "name": "M. Raju",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Agricultural & Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Standard Government Higher Secondary School, Kotagiri, year of passing 1983 -1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13317257,
+      "immovable": 14879910,
+      "total": 29197167,
+      "liabilities": 4817000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1385",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-107-deedwana",
+  "constituency": {
+    "number": 107,
+    "name": "Deedwana",
+    "district": "Didwana-Kuchaman",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yoonus Khan",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Pensioner & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com (Business Administration) from Rajasthan University, Jaipur in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6174754,
+      "immovable": 19166189,
+      "total": 25340943,
+      "liabilities": 5718990
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1164",
+    "retrieved": "2026-08-27"
+  }
+}

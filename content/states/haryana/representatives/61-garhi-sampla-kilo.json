@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-61-garhi-sampla-kilo",
+  "constituency": {
+    "number": 61,
+    "name": "Garhi Sampla-Kilo",
+    "district": "Rohtak",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhupinder Singh Hooda",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 77,
+    "profession": "Agriculture/Advocate/Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws from Law Faculty Delhi University in 1974"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 72048054,
+      "immovable": 192876220,
+      "total": 264924276,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=254",
+    "retrieved": "2026-08-27"
+  }
+}

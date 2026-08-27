@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-143-jeypore",
+  "constituency": {
+    "number": 143,
+    "name": "Jeypore",
+    "district": "Koraput",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tara Prsada Bahinipati",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 69,
+    "profession": "Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed at Goutami High School, At/Po: Goutami, Dist.:Ganjam."
+    },
+    "declared_cases": {
+      "total": 14,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 12783318,
+      "immovable": 41169874,
+      "total": 62435338,
+      "liabilities": 12926228
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=113",
+    "retrieved": "2026-08-27"
+  }
+}

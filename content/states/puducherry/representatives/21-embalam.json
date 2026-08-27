@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-21-embalam",
+  "constituency": {
+    "number": 21,
+    "name": "Embalam",
+    "district": "Puducherry",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "E. Mohandoss",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A., Sociology, Annamalai University, Chidambaram -06-10-2010, B.Com., 2001, DCM. - 2002,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19170186,
+      "immovable": 115171120,
+      "total": 134341307,
+      "liabilities": 20070578
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=115",
+    "retrieved": "2026-08-27"
+  }
+}

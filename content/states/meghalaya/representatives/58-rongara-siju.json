@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-58-rongara-siju",
+  "constituency": {
+    "number": 58,
+    "name": "Rongara-Siju",
+    "district": "South G>ro Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rakkam A. Sangma",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 39,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. Physics Passed in 2008 From North Eastern Hill University NEHU Shillong"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11594306,
+      "immovable": 5554000,
+      "total": 17148306,
+      "liabilities": 840787
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6810",
+    "retrieved": "2026-08-27"
+  }
+}

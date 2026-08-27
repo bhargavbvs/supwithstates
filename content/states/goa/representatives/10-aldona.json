@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-10-aldona",
+  "constituency": {
+    "number": 10,
+    "name": "Aldona",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Carlos Alvares Ferreira",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 55,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws (Goa University) in 1989 and Diploma ABRSM (Piano Teaching) in 1992, B.A. from (Bombay University) in 1985"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54278787,
+      "immovable": 165000000,
+      "total": 214277799,
+      "liabilities": 1244176
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=222",
+    "retrieved": "2026-08-27"
+  }
+}

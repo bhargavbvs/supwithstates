@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-181-nelamangala",
+  "constituency": {
+    "number": 181,
+    "name": "Nelamangala",
+    "district": "Bengal#ru (Rural)",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Shreenivasaiah N",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 37,
+    "profession": "Business & Contractor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts, Bangalore University Bangalore Year of Completion 2008-09, Post Graduation Diploma in Ambedkar Studies, Bangalore University, Bangalore Year of Completion 2010-11"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29945390,
+      "immovable": 33574645,
+      "total": 63520035,
+      "liabilities": 15287028
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7619",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-29-basar",
+  "constituency": {
+    "number": 29,
+    "name": "Basar",
+    "district": "Lepa Rada",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nyabi Jini Dirchi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor or Arts From Indira Gandhi National Open University Completed in December 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 88893322,
+      "immovable": 263600000,
+      "total": 352493325,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=15",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-27-mungeli",
+  "constituency": {
+    "number": 27,
+    "name": "Mungeli",
+    "district": "Mungeli",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Punnulal Mohle",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 71,
+    "profession": "Agriculture,Through facilities received from MLA salary, Rent and Interest",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "BA Ist Year From SNG College Mungeli in year 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4390893,
+      "immovable": 45700000,
+      "total": 50090893,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=486",
+    "retrieved": "2026-08-27"
+  }
+}

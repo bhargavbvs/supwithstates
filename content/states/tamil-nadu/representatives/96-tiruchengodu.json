@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-96-tiruchengodu",
+  "constituency": {
+    "number": 96,
+    "name": "Tiruchengodu",
+    "district": "Namakkal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arunraj K G",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Doctor, Ex-IRS, Tax Consultant, Politican",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine and Bachelor of Surgery(MBBS) , The Tamil Nadu Dr.M.G.R Medicial University, 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75891642,
+      "immovable": 51823000,
+      "total": 127714655,
+      "liabilities": 14096571
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=975",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-66-alwar-urban",
+  "constituency": {
+    "number": 66,
+    "name": "Alwar Urban",
+    "district": "Alwar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjay Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Business and MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. - Rajasthan University Year 1994"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19230270,
+      "immovable": 30570000,
+      "total": 49680270,
+      "liabilities": 49193871
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=15",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-47-deoli",
+  "constituency": {
+    "number": 47,
+    "name": "Deoli",
+    "district": "South",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Prem Chauhan",
+    "election": "2025",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 37,
+    "profession": "Social Worker and Self Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts in 2024 from IGNOU, Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1649779,
+      "immovable": 0,
+      "total": 1649779,
+      "liabilities": 244200
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=256",
+    "retrieved": "2026-08-27"
+  }
+}

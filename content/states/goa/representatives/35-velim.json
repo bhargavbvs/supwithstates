@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-35-velim",
+  "constituency": {
+    "number": 35,
+    "name": "Velim",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Cruz Silva",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Civil Engineering Estate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering Goa Engineering College-Farmagudi Goa University in 1992"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13421398,
+      "immovable": 108761470,
+      "total": 122181868,
+      "liabilities": 9588514
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=166",
+    "retrieved": "2026-08-27"
+  }
+}

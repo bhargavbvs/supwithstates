@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-159-kattumannarkoil",
+  "constituency": {
+    "number": 159,
+    "name": "Kattumannarkoil",
+    "district": "Cuddalore",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "L.E. Jothimani",
+    "election": "2026",
+    "elected_party": "Viduthalai Chiruthaigal Katchi",
+    "current_party": "Viduthalai Chiruthaigal Katchi",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 71,
+    "profession": "Pensioner",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "PUC From PACHAYAPPAS COLLEGE, MADRAS, YEAR: 1979 & ENGINEERING TRADE IN MECHANIC, (DIESEL) NCVT YEAR: 1984, CHENNAI PORT TRUST"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3547835,
+      "immovable": 5000000,
+      "total": 8547835,
+      "liabilities": 342000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1170",
+    "retrieved": "2026-08-27"
+  }
+}

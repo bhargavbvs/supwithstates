@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-213-mahidpur",
+  "constituency": {
+    "number": 213,
+    "name": "Mahidpur",
+    "district": "Ujjain",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dinesh Jain Boss",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture and Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MSc Tech School of Studies in Geology Ujjain Vikram University Year 1987, MSc School of Studies in Geology Ujjain Vikram University Year 1986, B.Sc. Madhav Science College Ujjain , Vikram University Year 1984,"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18620016,
+      "immovable": 79349233,
+      "total": 97969249,
+      "liabilities": 318074649
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=745",
+    "retrieved": "2026-08-27"
+  }
+}

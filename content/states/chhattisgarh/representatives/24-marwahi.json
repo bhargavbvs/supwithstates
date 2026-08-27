@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-24-marwahi",
+  "constituency": {
+    "number": 24,
+    "name": "Marwahi",
+    "district": "Gaurela-Pendra-Marwahi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Pranav Kumar Marpachi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "Pension Allowance",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduate From Atal Bihari Vajpayee University Bilaspur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3392591,
+      "immovable": 4100000,
+      "total": 7152591,
+      "liabilities": 1230257
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=481",
+    "retrieved": "2026-08-27"
+  }
+}

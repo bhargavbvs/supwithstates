@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-19-deogarh",
+  "constituency": {
+    "number": 19,
+    "name": "Deogarh",
+    "district": "Deogarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Romancha Ranjan Biswal",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "Agriculture and Transport Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "+2 (Science) Pass from Panchayat College, Kalla (under C.H.S.E. Orrisa) in 1998"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 18782195,
+      "immovable": 18800000,
+      "total": 37582199,
+      "liabilities": 8496709
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=668",
+    "retrieved": "2026-08-27"
+  }
+}

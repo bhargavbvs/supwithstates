@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-61-chitrakoot",
+  "constituency": {
+    "number": 61,
+    "name": "Chitrakoot",
+    "district": "Satna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Surendra Singh Gahrwar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Agriculture, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. LLB and Diploma in Labour Law (T.R.S. College Rewa, Law College Satna) Awadh Pratap Singh University Rewa in 1976, 1983, 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7764316,
+      "immovable": 135400000,
+      "total": 143164316,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1490",
+    "retrieved": "2026-08-27"
+  }
+}

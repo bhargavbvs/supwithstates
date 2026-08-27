@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-20-telkoi",
+  "constituency": {
+    "number": 20,
+    "name": "Telkoi",
+    "district": "Keonjhar (Kendujhar)",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Fakir Mohan Naik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Doctor (MBBS)",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "MBBS from MKCG MCH (Maharaja Krishna Chandra Gajapati Medical & College & Hospital), Berhampur Ganjam in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9165898,
+      "immovable": 4000000,
+      "total": 13165901,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=881",
+    "retrieved": "2026-08-27"
+  }
+}

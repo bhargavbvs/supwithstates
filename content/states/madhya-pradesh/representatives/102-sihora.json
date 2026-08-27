@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-102-sihora",
+  "constituency": {
+    "number": 102,
+    "name": "Sihora",
+    "district": "Jabalpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Santosh Varkade",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 44,
+    "profession": "District Panchayat President Honorarium",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Hindi, Rani Durgawati University Jabalpur 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2583783,
+      "immovable": 0,
+      "total": 2583783,
+      "liabilities": 1205000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1202",
+    "retrieved": "2026-08-27"
+  }
+}

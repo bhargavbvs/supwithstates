@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-4-barjala",
+  "constituency": {
+    "number": 4,
+    "name": "Barjala",
+    "district": "West Tripura",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sudip Sarkar",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Agriculture Farmer",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Passed from Sukhamoy H.S. School in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 375979,
+      "immovable": 5400000,
+      "total": 5775979,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6770",
+    "retrieved": "2026-08-27"
+  }
+}

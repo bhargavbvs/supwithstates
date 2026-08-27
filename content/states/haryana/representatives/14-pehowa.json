@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-14-pehowa",
+  "constituency": {
+    "number": 14,
+    "name": "Pehowa",
+    "district": "Kurukshetra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mandeep Chatha",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 51,
+    "profession": "Agriculturist & Landlord",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Laws (Professional) from Kurukshetra university Kurukshetra, Passed in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18341384,
+      "immovable": 178100000,
+      "total": 196441384,
+      "liabilities": 44951
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=341",
+    "retrieved": "2026-08-27"
+  }
+}

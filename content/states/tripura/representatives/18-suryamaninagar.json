@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-18-suryamaninagar",
+  "constituency": {
+    "number": 18,
+    "name": "Suryamaninagar",
+    "district": "West Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ram Prasad Paul",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Politics, Social worker & Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class VIII Pass in the year 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5121657,
+      "immovable": 11500000,
+      "total": 16621657,
+      "liabilities": 2000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6962",
+    "retrieved": "2026-08-27"
+  }
+}

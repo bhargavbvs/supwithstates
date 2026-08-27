@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-147-sironj",
+  "constituency": {
+    "number": 147,
+    "name": "Sironj",
+    "district": "Vidisha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Umakant Sharma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Lal Bahadur Shastri College Sironj Bhopal"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2081563,
+      "immovable": 3366000,
+      "total": 5447563,
+      "liabilities": 649307
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=453",
+    "retrieved": "2026-08-27"
+  }
+}

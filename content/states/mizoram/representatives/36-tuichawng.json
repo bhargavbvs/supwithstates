@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-36-tuichawng",
+  "constituency": {
+    "number": 36,
+    "name": "Tuichawng",
+    "district": "Lawngtlai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rasik Mohan Chakma",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 60,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Lunglei Government College Under North Eastern Hills University 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2461907,
+      "immovable": 17844457,
+      "total": 20306364,
+      "liabilities": 155821
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=83",
+    "retrieved": "2026-08-27"
+  }
+}

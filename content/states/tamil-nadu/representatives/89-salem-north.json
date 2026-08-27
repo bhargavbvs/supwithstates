@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-89-salem-north",
+  "constituency": {
+    "number": 89,
+    "name": "Salem (North)",
+    "district": "Salem",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sivakumar. K",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Real Estate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA (Master of Business Adminstration) From Vinnayaka Mission`s University, Year- 1998-2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14839693,
+      "immovable": 62775000,
+      "total": 94915297,
+      "liabilities": 14700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=768",
+    "retrieved": "2026-08-27"
+  }
+}

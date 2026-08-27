@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-90-manpur",
+  "constituency": {
+    "number": 90,
+    "name": "Manpur",
+    "district": "Umaria",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Meena Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture 500000/-",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA Awdesh Pratap Singh University Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19696431,
+      "immovable": 12814036,
+      "total": 32510467,
+      "liabilities": 3248835
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=66",
+    "retrieved": "2026-08-27"
+  }
+}

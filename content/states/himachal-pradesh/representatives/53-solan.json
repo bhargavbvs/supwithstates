@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-53-solan",
+  "constituency": {
+    "number": 53,
+    "name": "Solan",
+    "district": "Solan",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dhani Ram Shandil",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 82,
+    "profession": "Retd.Army Personnel & Present MLA",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D (Political Sci.) From HPU Shimla 1996 ,M.Phil., M.A. from HPU Shimla"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17624314,
+      "immovable": 21643200,
+      "total": 41297517,
+      "liabilities": 4944428
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=192",
+    "retrieved": "2026-08-27"
+  }
+}

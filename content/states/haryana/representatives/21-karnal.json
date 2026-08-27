@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-21-karnal",
+  "constituency": {
+    "number": 21,
+    "name": "Karnal",
+    "district": "Karnal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagmohan Anand",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Promotor Director in Kaysons Oils Pvt. Ltd.",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A.-IInd Year from Kurukshtra University, Kurukshtra, Haryana in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44581435,
+      "immovable": 112500000,
+      "total": 157081435,
+      "liabilities": 41724405
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=230",
+    "retrieved": "2026-08-27"
+  }
+}

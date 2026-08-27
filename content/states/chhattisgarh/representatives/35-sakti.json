@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-35-sakti",
+  "constituency": {
+    "number": 35,
+    "name": "Sakti",
+    "district": "Sakti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Charan Das Mahant",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Farming",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D Barkatullah University Bhopal , M.A. Soci.1978, M.Sc.(Zoology) 1976, L.L.B 1983 , Bhopal University Bhopal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 91822293,
+      "immovable": 116701763,
+      "total": 208524056,
+      "liabilities": 1037833
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=302",
+    "retrieved": "2026-08-27"
+  }
+}

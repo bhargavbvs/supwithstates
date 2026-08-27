@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-79-bhatkal",
+  "constituency": {
+    "number": 79,
+    "name": "Bhatkal",
+    "district": "Uttara Kannada",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mankal Vaidya",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Fish business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th from Janata University murdeshwara 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 203805869,
+      "immovable": 438175000,
+      "total": 642419070,
+      "liabilities": 361187037
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7147",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-91-choudwar-cuttack",
+  "constituency": {
+    "number": 91,
+    "name": "Choudwar-Cuttack",
+    "district": "Cuttack",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Souvic Biswal",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 31,
+    "profession": "Politics & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Business Administration (HR &b Marketing) in Swami Vivekanand Subharthi University Meerut, UP in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11429228,
+      "immovable": 39000000,
+      "total": 50429232,
+      "liabilities": 17505562
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=658",
+    "retrieved": "2026-08-27"
+  }
+}

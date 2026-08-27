@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-49-jolarpet",
+  "constituency": {
+    "number": 49,
+    "name": "Jolarpet",
+    "district": "Tirupathur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Veeramani K.C.",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Standard Govt Higher secondary school Jolaerpet 1981"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 449652692,
+      "immovable": 190895434,
+      "total": 554742574,
+      "liabilities": 310290819
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1164",
+    "retrieved": "2026-08-27"
+  }
+}

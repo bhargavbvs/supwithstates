@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-17-sarangarh",
+  "constituency": {
+    "number": 17,
+    "name": "Sarangarh",
+    "district": "Sarangarh-Bilaigarh",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Uttari Jangde",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 36,
+    "profession": "Social Worker & House Wife",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Chhattisgarh State Open School, Raipur, Year-2020"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6007899,
+      "immovable": 10000000,
+      "total": 15942790,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=528",
+    "retrieved": "2026-08-27"
+  }
+}

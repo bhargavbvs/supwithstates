@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-44-gulbarga-dakshin",
+  "constituency": {
+    "number": 44,
+    "name": "Gulbarga Dakshin",
+    "district": "Kalaburagi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Allamprabhu Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Social Service, Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from SB Collge of Arts Kalaburagi in 1978-79"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14362051,
+      "immovable": 54100000,
+      "total": 68462021,
+      "liabilities": 10738899
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7963",
+    "retrieved": "2026-08-27"
+  }
+}

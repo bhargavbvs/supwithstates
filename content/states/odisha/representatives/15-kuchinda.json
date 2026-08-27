@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-15-kuchinda",
+  "constituency": {
+    "number": 15,
+    "name": "Kuchinda",
+    "district": "Sambalpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rabi Narayan Naik",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 54,
+    "profession": "Social Service & Farmer",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Secondary Education Odisha, Bhubaneswar, Kuchinda College, Kuchinda in 1991"
+    },
+    "declared_cases": {
+      "total": 17,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 5578469,
+      "immovable": 4401105,
+      "total": 9979575,
+      "liabilities": 807000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=780",
+    "retrieved": "2026-08-27"
+  }
+}

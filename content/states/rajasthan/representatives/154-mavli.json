@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-154-mavli",
+  "constituency": {
+    "number": 154,
+    "name": "Mavli",
+    "district": "Udaipur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pushkar Lal Dangi",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture Work",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed from Secondary Education Board Rajasthan Year 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3222960,
+      "immovable": 17250000,
+      "total": 20472960,
+      "liabilities": 800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=309",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-92-siruguppa",
+  "constituency": {
+    "number": 92,
+    "name": "Siruguppa",
+    "district": "Ball",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "B. M. Nagaraja",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture & Business",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "SSLC from Govt. High School, Siruguppa - Failed"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6696824,
+      "immovable": 86265784,
+      "total": 92962608,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8330",
+    "retrieved": "2026-08-27"
+  }
+}

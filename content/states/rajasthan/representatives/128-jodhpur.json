@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-128-jodhpur",
+  "constituency": {
+    "number": 128,
+    "name": "Jodhpur",
+    "district": "Jodhpur Gramin",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atul Bhansali",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Director & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "C.A., The Institute Of charted Accounts of india 1995 , B.Comm from University of Jodhpur in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 117147282,
+      "immovable": 66650000,
+      "total": 180066018,
+      "liabilities": 50830966
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=232",
+    "retrieved": "2026-08-27"
+  }
+}

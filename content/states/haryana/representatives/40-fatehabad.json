@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-40-fatehabad",
+  "constituency": {
+    "number": 40,
+    "name": "Fatehabad",
+    "district": "Fatehabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Balwan Singh Doulatpuria",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from MM College Fatehabad, Kurukshetra University, Kurukshetra in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30446878,
+      "immovable": 138200000,
+      "total": 174555878,
+      "liabilities": 21588098
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=435",
+    "retrieved": "2026-08-27"
+  }
+}

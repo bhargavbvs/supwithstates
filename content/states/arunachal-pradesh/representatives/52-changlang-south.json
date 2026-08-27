@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-52-changlang-south",
+  "constituency": {
+    "number": 52,
+    "name": "Changlang South",
+    "district": "Ch>ngl>ng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Hamjong Tangha",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Social Worker and Farmer",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class IX Passed from Government Secondary School Yanman in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2239397,
+      "immovable": 500000,
+      "total": 2739397,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=1",
+    "retrieved": "2026-08-27"
+  }
+}

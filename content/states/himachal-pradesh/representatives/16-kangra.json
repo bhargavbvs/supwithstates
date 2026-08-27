@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-16-kangra",
+  "constituency": {
+    "number": 16,
+    "name": "Kangra",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pawan Kumar Kajal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Agriculturist, Former Govt. Contractor and Politician",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matriculation From HP Board of School Education Dharamshala, Year-1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5448241,
+      "immovable": 95328367,
+      "total": 132172679,
+      "liabilities": 2522943
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=289",
+    "retrieved": "2026-08-27"
+  }
+}

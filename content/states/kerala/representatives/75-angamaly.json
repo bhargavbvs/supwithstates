@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-75-angamaly",
+  "constituency": {
+    "number": 75,
+    "name": "Angamaly",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Roji M John",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Phil. From Jawahar Lal Nehru University, JNU New Delhi,Year-2004-2006 & M.A. (Pol. Sci.) From Central University of Hyderabad, Year-2002-2004"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 3,
+      "note": null
+    },
+    "assets": {
+      "movable": 22433663,
+      "immovable": 17000000,
+      "total": 39434163,
+      "liabilities": 1519805
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=33",
+    "retrieved": "2026-08-27"
+  }
+}

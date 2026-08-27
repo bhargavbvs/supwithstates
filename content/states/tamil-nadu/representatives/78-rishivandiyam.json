@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-78-rishivandiyam",
+  "constituency": {
+    "number": 78,
+    "name": "Rishivandiyam",
+    "district": "Kallakkurichi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karthikeyan K",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Computer Science From Nehru Memorial College Puthanampatti Tamil Nadu In 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42702862,
+      "immovable": 184747151,
+      "total": 191575613,
+      "liabilities": 92131941
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=250",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-16-yachuli",
+  "constituency": {
+    "number": 16,
+    "name": "Yachuli",
+    "district": "Keyi Panyor",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Toko Tatung",
+    "election": "2024",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 47,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hon. Course) From University of Delhi, Year-2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 182047335,
+      "immovable": 393400000,
+      "total": 575447336,
+      "liabilities": 98365496
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=97",
+    "retrieved": "2026-08-27"
+  }
+}

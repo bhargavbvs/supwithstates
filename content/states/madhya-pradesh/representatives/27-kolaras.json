@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-27-kolaras",
+  "constituency": {
+    "number": 27,
+    "name": "Kolaras",
+    "district": "Shivpuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahendra Ramsingh Yadav Khatora",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Agriculture, Wear House & Ex MLA Pention",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary School from Senior Central Secondary Education Board, Senior School Certificate Inter in 1988, I.T.B.P. School Shivpuri in 1988 , Central School"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21568690,
+      "immovable": 24700000,
+      "total": 46268690,
+      "liabilities": 11272391
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=741",
+    "retrieved": "2026-08-27"
+  }
+}

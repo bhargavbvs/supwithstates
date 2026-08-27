@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-51-barwala",
+  "constituency": {
+    "number": 51,
+    "name": "Barwala",
+    "district": "Hisar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ranbir Gangwa",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 60,
+    "profession": "Farmer and Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Intermediate from Board of School Education Bhopal (M.P.) in 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12219986,
+      "immovable": 104000000,
+      "total": 116219986,
+      "liabilities": 5215738
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=276",
+    "retrieved": "2026-08-27"
+  }
+}

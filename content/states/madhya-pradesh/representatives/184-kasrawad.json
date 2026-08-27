@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-184-kasrawad",
+  "constituency": {
+    "number": 184,
+    "name": "Kasrawad",
+    "district": "Khargone",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sachin Subhashchandra Yadav",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Rent, Salary, Director Salary, Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Barkat Ullah University in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 64911681,
+      "immovable": 319852525,
+      "total": 384764206,
+      "liabilities": 86777264
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=311",
+    "retrieved": "2026-08-27"
+  }
+}

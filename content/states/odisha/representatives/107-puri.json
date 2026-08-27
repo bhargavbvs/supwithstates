@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-107-puri",
+  "constituency": {
+    "number": 107,
+    "name": "Puri",
+    "district": "Puri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunil Kumar Mohanty",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 38,
+    "profession": "Social Employed, social Service and Polities",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master in Business Administration in Marketing and Finance KIIT School of Management Bhubaneswar 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14513145,
+      "immovable": 26225000,
+      "total": 41661810,
+      "liabilities": 3634661
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=890",
+    "retrieved": "2026-08-27"
+  }
+}

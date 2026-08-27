@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-6-karnprayag",
+  "constituency": {
+    "number": 6,
+    "name": "Karnprayag",
+    "district": "Chamoli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anil Nautiyal",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 63,
+    "profession": "Pensioner, Rental Income",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed From SP Vano Sanatan Dharm, Inter College, Dehradun in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1771066,
+      "immovable": 7950000,
+      "total": 10721066,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=71",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-53-tamenglong",
+  "constituency": {
+    "number": 53,
+    "name": "Tamenglong",
+    "district": "Tamenglong",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Janghemlung Panmei",
+    "election": "2022",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 45,
+    "profession": "Politician - Ex-MLA; Proprietor M/s Axial Indane",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Kirori Mal College, University of Delhi in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1865998,
+      "immovable": 26000000,
+      "total": 27865998,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=235",
+    "retrieved": "2026-08-27"
+  }
+}

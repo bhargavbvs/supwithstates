@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-35-zunheboto",
+  "constituency": {
+    "number": 35,
+    "name": "Zunheboto",
+    "district": "Zunheboto",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "K Tokugha Sukhalu",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "Member of Nagaland Legislative Assembly (NLA)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. North Eastern Hills University 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10384363,
+      "immovable": 171100000,
+      "total": 181484363,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6801",
+    "retrieved": "2026-08-27"
+  }
+}

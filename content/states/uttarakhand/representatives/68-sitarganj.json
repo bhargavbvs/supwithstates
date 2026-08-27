@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-68-sitarganj",
+  "constituency": {
+    "number": 68,
+    "name": "Sitarganj",
+    "district": "Udham Singh Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Saurabh Bahuguna",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB From APS University Rewa MP"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 37392440,
+      "immovable": 41202777,
+      "total": 78595219,
+      "liabilities": 1254820
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=267",
+    "retrieved": "2026-08-27"
+  }
+}

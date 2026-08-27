@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-122-nayagarh",
+  "constituency": {
+    "number": 122,
+    "name": "Nayagarh",
+    "district": "Nayagarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aruna Kumar Sahoo",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 56,
+    "profession": "Social service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. in Hisotry from North Odisha University, Sriram Chandra Vihar Baripada 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13824104,
+      "immovable": 1720000,
+      "total": 15544104,
+      "liabilities": 169958
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=783",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-7-kadirgamam",
+  "constituency": {
+    "number": 7,
+    "name": "Kadirgamam",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Azhagu Alias Azhaganantham",
+    "election": "2026",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Agriculture and Business (Real Estate ) ( Painting Press)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Education from Ilango Adigal, Govt Hr. Sec School - 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14381543,
+      "immovable": 49866000,
+      "total": 64247543,
+      "liabilities": 10131539
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=256",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-17-shahpur",
+  "constituency": {
+    "number": 17,
+    "name": "Shahpur",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kewal Singh",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 53,
+    "profession": "Agriculture, Professional, Salary",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political Science From Himachal Pradesh University 1994 & LLB From Himachal Pradesh University in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8284780,
+      "immovable": 41781600,
+      "total": 32465580,
+      "liabilities": 1058000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=111",
+    "retrieved": "2026-08-27"
+  }
+}

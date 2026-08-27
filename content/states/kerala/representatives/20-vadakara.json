@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-20-vadakara",
+  "constituency": {
+    "number": 20,
+    "name": "Vadakara",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K K Rema",
+    "election": "2026",
+    "elected_party": "Revolutionary Marxist Party of India",
+    "current_party": "Revolutionary Marxist Party of India",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Business Administration (Distance Education Annamalai Uni.-2009May), JDC(EMS Memorial Co-Operative Institute Kozhikode 1999 May)"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2000300,
+      "immovable": 4000000,
+      "total": 5999400,
+      "liabilities": 2788173
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=282",
+    "retrieved": "2026-08-27"
+  }
+}

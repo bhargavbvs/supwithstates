@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-3-sabalgarh",
+  "constituency": {
+    "number": 3,
+    "name": "Sabalgarh",
+    "district": "Morena",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Smt. Sarla Vijendra Rawat",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Homemaker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Kasturba Gandhi Sanskrit Girls Higher Secondry School Dist.Sabalgarh Muraina M.P"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2114394,
+      "immovable": 1700000,
+      "total": 3814394,
+      "liabilities": 400000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=767",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-12-keisamthong",
+  "constituency": {
+    "number": 12,
+    "name": "Keisamthong",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sapam Nishikant Singh",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com (Hons), from Sriram College of Commerce, Delhi University in 1987"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 233633885,
+      "immovable": 59471487,
+      "total": 293105380,
+      "liabilities": 24808642
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=75",
+    "retrieved": "2026-08-27"
+  }
+}

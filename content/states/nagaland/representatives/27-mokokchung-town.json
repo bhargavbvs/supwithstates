@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-27-mokokchung-town",
+  "constituency": {
+    "number": 27,
+    "name": "Mokokchung Town",
+    "district": "Mokokchung",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Metsubo Jamir",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 63,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc (Agriculture) from North East Hill University (NEHU), Shillong in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 34062566,
+      "immovable": 49400000,
+      "total": 83462569,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6866",
+    "retrieved": "2026-08-27"
+  }
+}

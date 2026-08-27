@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-90-tigaon",
+  "constituency": {
+    "number": 90,
+    "name": "Tigaon",
+    "district": "Faridabad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Nagar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "10+2 From CBSE K L Mehta Dayanand Public School 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17628386,
+      "immovable": 103545000,
+      "total": 121173386,
+      "liabilities": 3482286
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=45",
+    "retrieved": "2026-08-27"
+  }
+}

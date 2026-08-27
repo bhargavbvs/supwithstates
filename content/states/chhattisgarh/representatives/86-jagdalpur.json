@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-86-jagdalpur",
+  "constituency": {
+    "number": 86,
+    "name": "Jagdalpur",
+    "district": "Bastar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kiran Deo",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from P. Ravishankar Shulk University, Raipur In 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5316816,
+      "immovable": 24833875,
+      "total": 30150691,
+      "liabilities": 1500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=5",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-61-silli",
+  "constituency": {
+    "number": 61,
+    "name": "Silli",
+    "district": "Ranchi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Amit Kumar",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Ex MLA & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering (Civil), BIT, Meshra Ranchi in 2003"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 3,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8317195,
+      "immovable": 7100000,
+      "total": 15417195,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=991",
+    "retrieved": "2026-08-27"
+  }
+}

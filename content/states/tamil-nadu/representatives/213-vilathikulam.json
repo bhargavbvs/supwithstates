@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-213-vilathikulam",
+  "constituency": {
+    "number": 213,
+    "name": "Vilathikulam",
+    "district": "Thoothukudi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Markandayan G V",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B. L Govt Law College Madurai, Appril 2000"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 72921164,
+      "immovable": 74961147,
+      "total": 131623311,
+      "liabilities": 13800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1049",
+    "retrieved": "2026-08-27"
+  }
+}

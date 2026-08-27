@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-201-dhar",
+  "constituency": {
+    "number": 201,
+    "name": "Dhar",
+    "district": "Dhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Neena Vikram Verma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 66,
+    "profession": "Agriculture, House Rent, Salary",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.A.-II Year In 1978 from University of Rajasthan"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19569042,
+      "immovable": 90919896,
+      "total": 110488938,
+      "liabilities": 11058755
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=279",
+    "retrieved": "2026-08-27"
+  }
+}

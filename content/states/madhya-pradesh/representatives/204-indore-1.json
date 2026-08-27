@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-204-indore-1",
+  "constituency": {
+    "number": 204,
+    "name": "Indore-1",
+    "district": "Indore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mahendra Hardia",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Business & MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. & B.sc. from Indore University Indore M.P. in 1978-1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22114559,
+      "immovable": 55600000,
+      "total": 77714559,
+      "liabilities": 11415350
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=716",
+    "retrieved": "2026-08-27"
+  }
+}

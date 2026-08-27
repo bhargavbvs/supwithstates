@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-229-kanniyakumari",
+  "constituency": {
+    "number": 229,
+    "name": "Kanniyakumari",
+    "district": "Kanniyakumari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thalavai Sundaram. N",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B L From Madras Law College, University Of Madras, Year - 1984, B.Sc (Zoology) - St.Xaviers College, Palayamkottai, Madurai Kamaraj University, Year - 1980, PUC From Madurai Kamaraj University, Year - 1977"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19638960,
+      "immovable": 11200000,
+      "total": 30838960,
+      "liabilities": 1993154
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1168",
+    "retrieved": "2026-08-27"
+  }
+}

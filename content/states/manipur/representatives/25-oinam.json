@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-25-oinam",
+  "constituency": {
+    "number": 25,
+    "name": "Oinam",
+    "district": "Bishnupur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Irengbam Nalini Devi",
+    "election": "2022",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "House Wife",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA 2nd Year Degree Course Year of Passing 1979 From CI College Bishnupur Gauhati University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3174791,
+      "immovable": 18820510,
+      "total": 21995301,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=86",
+    "retrieved": "2026-08-27"
+  }
+}

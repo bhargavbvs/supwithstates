@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-19-palampur",
+  "constituency": {
+    "number": 19,
+    "name": "Palampur",
+    "district": "K>ngra",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashish Butail",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 42,
+    "profession": "Employed/Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Symbiosis College of Arts and Commerce in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9605429,
+      "immovable": 292917048,
+      "total": 302522481,
+      "liabilities": 76431198
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=110",
+    "retrieved": "2026-08-27"
+  }
+}

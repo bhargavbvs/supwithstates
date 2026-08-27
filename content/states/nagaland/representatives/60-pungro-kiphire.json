@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-60-pungro-kiphire",
+  "constituency": {
+    "number": 60,
+    "name": "Pungro-Kiphire",
+    "district": "Kiphire",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "S. Kiusumew Yimchunger",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class IX from Nagaland Board of School Education in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2892408,
+      "immovable": 2050000,
+      "total": 4942408,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6876",
+    "retrieved": "2026-08-27"
+  }
+}

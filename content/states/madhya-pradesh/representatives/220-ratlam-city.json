@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-220-ratlam-city",
+  "constituency": {
+    "number": 220,
+    "name": "Ratlam City",
+    "district": "Ratlam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chetanya Kasyap",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 64,
+    "profession": "Advisor In Kashyap Sweetners Pvt. Ltd.",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com. Second year passed from Vikram University Ujjain In year 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 81491000,
+      "immovable": 2879340000,
+      "total": 2960831000,
+      "liabilities": 201735000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=396",
+    "retrieved": "2026-08-27"
+  }
+}

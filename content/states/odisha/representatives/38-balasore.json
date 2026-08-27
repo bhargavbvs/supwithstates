@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-38-balasore",
+  "constituency": {
+    "number": 38,
+    "name": "Balasore",
+    "district": "Balasore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manas Kumar Dutta",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Commerce From Balangir Mahavidyalaya Balasore under OHSE, BBSR Odisha- 2009"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 651564,
+      "immovable": 3050000,
+      "total": 3701565,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=959",
+    "retrieved": "2026-08-27"
+  }
+}

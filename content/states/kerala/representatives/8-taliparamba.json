@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-8-taliparamba",
+  "constituency": {
+    "number": 8,
+    "name": "Taliparamba",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "T K Govindan Master S/O Kunhikkannan Nambiar",
+    "election": "2026",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Retired Teacher",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "TTC,1969-70, Gov. Basic Training School,Malappuram, SSLC,1963-66, Gov.Secondary School, Mayyil."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 771013,
+      "immovable": 7650000,
+      "total": 8421014,
+      "liabilities": 1424997
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=869",
+    "retrieved": "2026-08-27"
+  }
+}

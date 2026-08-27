@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-137-kulithalai",
+  "constituency": {
+    "number": 137,
+    "name": "Kulithalai",
+    "district": "Karur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suriyanur. A. Chandran",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (History) Annamalai University Chithambaram Year 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5880356,
+      "immovable": 2200000,
+      "total": 8080356,
+      "liabilities": 1530000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1181",
+    "retrieved": "2026-08-27"
+  }
+}

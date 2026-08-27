@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-29-bilha",
+  "constituency": {
+    "number": 29,
+    "name": "Bilha",
+    "district": "Bilaspur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dharam Lal Kaushik",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 65,
+    "profession": "Social worker, Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA. from C.M. dube college bilaspur in 1981, LLB from K.R. law college bilaspur in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23620799,
+      "immovable": 73448873,
+      "total": 97069683,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=318",
+    "retrieved": "2026-08-27"
+  }
+}

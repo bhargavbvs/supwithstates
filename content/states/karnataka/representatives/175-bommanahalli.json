@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-175-bommanahalli",
+  "constituency": {
+    "number": 175,
+    "name": "Bommanahalli",
+    "district": "Bengal#ru (Urban)",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sathish Reddy .M",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Social Service, Agriculture Iindustrial",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC , RSHS High School Madivala, Bangalore"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 393638488,
+      "immovable": 831342615,
+      "total": 1224981101,
+      "liabilities": 472438558
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8577",
+    "retrieved": "2026-08-27"
+  }
+}

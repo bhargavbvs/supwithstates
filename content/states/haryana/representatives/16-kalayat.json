@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-16-kalayat",
+  "constituency": {
+    "number": 16,
+    "name": "Kalayat",
+    "district": "Kaithal",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vikas Saharan",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 35,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "LLM (Masters in Law) from Kurukshetra University in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38198254,
+      "immovable": 53954053,
+      "total": 88652309,
+      "liabilities": 13942843
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=235",
+    "retrieved": "2026-08-27"
+  }
+}

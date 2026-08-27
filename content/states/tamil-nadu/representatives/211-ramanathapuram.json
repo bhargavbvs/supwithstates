@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-211-ramanathapuram",
+  "constituency": {
+    "number": 211,
+    "name": "Ramanathapuram",
+    "district": "Ramanathapuram",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Katharbatcha Muthuramalingam",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Public Service and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSC from SBK Boys Higher Secondary School, Aruppukottai in March 1991"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18398498,
+      "immovable": 8052143,
+      "total": 26450642,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=728",
+    "retrieved": "2026-08-27"
+  }
+}

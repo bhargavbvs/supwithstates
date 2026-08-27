@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-1-nartiang",
+  "constituency": {
+    "number": 1,
+    "name": "Nartiang",
+    "district": "West Jaintia Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sniawbhalang Dhar",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Public Representative / Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary School Living Certificate Examination (Science) from St. Edmunds College in 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 199915337,
+      "immovable": 247850000,
+      "total": 453580343,
+      "liabilities": 34244582
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6866",
+    "retrieved": "2026-08-27"
+  }
+}

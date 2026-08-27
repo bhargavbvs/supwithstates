@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-75-nabarangpur",
+  "constituency": {
+    "number": 75,
+    "name": "Nabarangpur",
+    "district": "Nabarangapur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Gouri Shankar Majhi",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Social Worker, Cultivation",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed Board of Secondary Education from Siba Prasad High School, Digi Solapa, in the year 1998. Passed Council of Higher Secondary Education, Orissa from Indravati project College, Khatiguda in the year, 2001."
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1800554,
+      "immovable": 6050000,
+      "total": 7570554,
+      "liabilities": 86100
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=185",
+    "retrieved": "2026-08-27"
+  }
+}

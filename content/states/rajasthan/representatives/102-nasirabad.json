@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-102-nasirabad",
+  "constituency": {
+    "number": 102,
+    "name": "Nasirabad",
+    "district": "Ajmer",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramswaroop Lamba",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 38,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A Rajasthan University Jaipur 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7174109,
+      "immovable": 26660613,
+      "total": 33834722,
+      "liabilities": 8444760
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=9",
+    "retrieved": "2026-08-27"
+  }
+}

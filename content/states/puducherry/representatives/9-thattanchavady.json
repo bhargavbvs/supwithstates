@@ -1,0 +1,41 @@
+{
+  "id": "py-ac-9-thattanchavady",
+  "constituency": {
+    "number": 9,
+    "name": "Thattanchavady",
+    "district": "Puducherry",
+    "reserved": null
+  },
+  "representative": {
+    "name": "N. Rangasamy",
+    "election": "2026",
+    "elected_party": "All India N.R. Congress",
+    "current_party": "All India N.R. Congress",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 75,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Commerce, Tagore Arts College, Puducherry. Bachelor in Law Ambedkar Law College Puducherry Year 1977"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2125752,
+      "immovable": 277800000,
+      "total": 279925752,
+      "liabilities": 3500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=54",
+    "retrieved": "2026-08-27"
+  }
+}

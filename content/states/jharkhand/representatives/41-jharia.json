@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-41-jharia",
+  "constituency": {
+    "number": 41,
+    "name": "Jharia",
+    "district": "Dhanbad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ragini Singh",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 43,
+    "profession": "House Maker",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "Literate"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11281821,
+      "immovable": 88560025,
+      "total": 99841846,
+      "liabilities": 16392975
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=1031",
+    "retrieved": "2026-08-27"
+  }
+}

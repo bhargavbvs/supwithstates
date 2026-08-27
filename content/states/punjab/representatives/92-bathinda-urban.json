@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-92-bathinda-urban",
+  "constituency": {
+    "number": 92,
+    "name": "Bathinda Urban",
+    "district": "Bathinda",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagroop Singh Gill",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 69,
+    "profession": "Advocate &. Agriculturist",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.A. & L.L.B. Agra University , Passed in The Year 1976"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4047034,
+      "immovable": 132900000,
+      "total": 136947034,
+      "liabilities": 3200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=249",
+    "retrieved": "2026-08-27"
+  }
+}

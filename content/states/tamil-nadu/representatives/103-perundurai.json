@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-103-perundurai",
+  "constituency": {
+    "number": 103,
+    "name": "Perundurai",
+    "district": "Erode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayakumar. S",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Self-Employed",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BBM From Cheran College of Arts & Science 1999-2000, DCM Erode Cooperative Management Institute 2001-2002"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29919615,
+      "immovable": 57500000,
+      "total": 87419615,
+      "liabilities": 42081844
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=390",
+    "retrieved": "2026-08-27"
+  }
+}

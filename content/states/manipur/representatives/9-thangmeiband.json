@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-9-thangmeiband",
+  "constituency": {
+    "number": 9,
+    "name": "Thangmeiband",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Khumukcham Joykisan Singh",
+    "election": "2022",
+    "elected_party": "JD(U)",
+    "current_party": "JD(U)",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "MLA & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from D.M College of Science, Manipur University in 1989"
+    },
+    "declared_cases": {
+      "total": 8,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8458717,
+      "immovable": 26550000,
+      "total": 35008719,
+      "liabilities": 3216780
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=45",
+    "retrieved": "2026-08-27"
+  }
+}

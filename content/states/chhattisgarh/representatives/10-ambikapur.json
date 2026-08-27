@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-10-ambikapur",
+  "constituency": {
+    "number": 10,
+    "name": "Ambikapur",
+    "district": "Surguja",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajesh Agrawal",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Business & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Higher Secondary School , Exam Year 1983, Madhyamik Siksha Mandal M.P. Bhopal"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 72101905,
+      "immovable": 28426723,
+      "total": 100704128,
+      "liabilities": 26354420
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=382",
+    "retrieved": "2026-08-27"
+  }
+}

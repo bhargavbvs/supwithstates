@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-96-patkura",
+  "constituency": {
+    "number": 96,
+    "name": "Patkura",
+    "district": "Kendrapara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvind Mohapatra",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 41,
+    "profession": "Social Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech Electrical Engineering ITER BBSR BPUT Odisha 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7949238,
+      "immovable": 642500,
+      "total": 8591738,
+      "liabilities": 1480456
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1157",
+    "retrieved": "2026-08-27"
+  }
+}

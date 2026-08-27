@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-130-nilakkottai",
+  "constituency": {
+    "number": 130,
+    "name": "Nilakkottai",
+    "district": "Dindigul",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "R.Ayyanar",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Building Equipment Supplier",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Com. (CA) From Palani Andavar Collage, Palani in -2011 & BBA From Palani Andavar Collage, Palani in - 2009"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8596520,
+      "immovable": 0,
+      "total": 8596520,
+      "liabilities": 2275000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=2260",
+    "retrieved": "2026-08-27"
+  }
+}

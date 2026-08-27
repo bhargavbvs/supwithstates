@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-101-hosadurga",
+  "constituency": {
+    "number": 101,
+    "name": "Hosadurga",
+    "district": "Chitradurga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B G Govindappa",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC From JSS College Mysore In 1971-72"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8099000,
+      "immovable": 21000000,
+      "total": 29098000,
+      "liabilities": 1873590
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6985",
+    "retrieved": "2026-08-27"
+  }
+}

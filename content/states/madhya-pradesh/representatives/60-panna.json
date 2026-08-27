@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-60-panna",
+  "constituency": {
+    "number": 60,
+    "name": "Panna",
+    "district": "Panna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Brijendra Pratap Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Social Worker, Business,Agricultural Work",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Com. From BSSS College Bhopal L.L.B Daha bhai Chunasama Law college Panna 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22344225,
+      "immovable": 38580000,
+      "total": 60924225,
+      "liabilities": 21034639
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=75",
+    "retrieved": "2026-08-27"
+  }
+}

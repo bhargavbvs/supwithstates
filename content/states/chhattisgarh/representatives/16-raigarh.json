@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-16-raigarh",
+  "constituency": {
+    "number": 16,
+    "name": "Raigarh",
+    "district": "Raigarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "O.P.Choudhary",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Agriculture & Motivational Speaker, Stock Market",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc Math from Kalyan College Bhilai, P. Ravishankar Shukla University Raipur C.G. In 2002"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 98155935,
+      "immovable": 30855675,
+      "total": 129011613,
+      "liabilities": 6525000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=502",
+    "retrieved": "2026-08-27"
+  }
+}

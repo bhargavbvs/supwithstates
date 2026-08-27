@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-50-pabiachhara",
+  "constituency": {
+    "number": 50,
+    "name": "Pabiachhara",
+    "district": "Unakoti",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bhagaban Chandra Das",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "VIII Passed from Dudhpur High School in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3260758,
+      "immovable": 6600000,
+      "total": 9860757,
+      "liabilities": 5318810
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6826",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-22-nadapuram",
+  "constituency": {
+    "number": 22,
+    "name": "Nadapuram",
+    "district": "Kozhikode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K M Abhijith",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 31,
+    "profession": "Non Employed",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MCA From Calicut Univercity 2016, Mass Communication , Journalism"
+    },
+    "declared_cases": {
+      "total": 61,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 27,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6032300,
+      "immovable": 5000000,
+      "total": 11032300,
+      "liabilities": 280000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=182",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-114-tirthahalli",
+  "constituency": {
+    "number": 114,
+    "name": "Tirthahalli",
+    "district": "Shivamogga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Araga Jnanendra",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com, National commerce college , Shimoga in 1971 to 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11208538,
+      "immovable": 51650000,
+      "total": 62858539,
+      "liabilities": 600000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8360",
+    "retrieved": "2026-08-27"
+  }
+}

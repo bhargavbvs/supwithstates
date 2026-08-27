@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-207-aruppukkottai",
+  "constituency": {
+    "number": 207,
+    "name": "Aruppukkottai",
+    "district": "Virudhunagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ramachandran. K.K.S.S.R",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 76,
+    "profession": "Public Service",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "X Std Discontinued 1963-64 From S.S.Subbiah Nadar Govt. Higher Secondary School Virudhnagar"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28565065,
+      "immovable": 13232000,
+      "total": 41797067,
+      "liabilities": 7360150
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1401",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-91-barwara",
+  "constituency": {
+    "number": 91,
+    "name": "Barwara",
+    "district": "Katni",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dhirendra Bahadur Singh (Dhiru)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 43,
+    "profession": "Private teacher",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Political science tilak college rani durgawati university jabalpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2812000,
+      "immovable": 5100000,
+      "total": 7912000,
+      "liabilities": 1071000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=660",
+    "retrieved": "2026-08-27"
+  }
+}

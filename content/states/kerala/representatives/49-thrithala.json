@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-49-thrithala",
+  "constituency": {
+    "number": 49,
+    "name": "Thrithala",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "V T Balram",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Social Worker, Advocate",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBA From Calicut University Campus, Calicut University,2005, LLB- Govt. Law College, Thrissur Calicut University Year 2009, B.Tech From EEE Gov. Engineering College, Calicut University Year 2002"
+    },
+    "declared_cases": {
+      "total": 6,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 2,
+      "note": null
+    },
+    "assets": {
+      "movable": 9157607,
+      "immovable": 1783333,
+      "total": 10961490,
+      "liabilities": 1115977
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=270",
+    "retrieved": "2026-08-27"
+  }
+}

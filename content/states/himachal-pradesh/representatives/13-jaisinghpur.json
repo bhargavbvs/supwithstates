@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-13-jaisinghpur",
+  "constituency": {
+    "number": 13,
+    "name": "Jaisinghpur",
+    "district": "K>ngra",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Yadvinder Goma",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 36,
+    "profession": "Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "B.Tech, MBA"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8740000,
+      "immovable": 24000000,
+      "total": 25740000,
+      "liabilities": 6500000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=474",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-135-chikiti",
+  "constituency": {
+    "number": 135,
+    "name": "Chikiti",
+    "district": "Ganjam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoranjan Dyan Samantara",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Pharmacy from Orissa State Board of Pharmacy through Roland Pharmaceutical, Berhampur, Dist: Ganjam in the year 1994."
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7693117,
+      "immovable": 2800000,
+      "total": 10493117,
+      "liabilities": 1950000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=4",
+    "retrieved": "2026-08-27"
+  }
+}

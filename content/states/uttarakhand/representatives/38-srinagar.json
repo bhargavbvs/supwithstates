@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-38-srinagar",
+  "constituency": {
+    "number": 38,
+    "name": "Srinagar",
+    "district": "Pauri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Dhan Singh Rawat",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 52,
+    "profession": "Minister in Uttarakhand Govt.",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor of Philosophy From Hemwanti Nandan Bahuguna Garhwal University Srinagar Uttarakhand, Year-2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16651373,
+      "immovable": 6667930,
+      "total": 26763303,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=96",
+    "retrieved": "2026-08-27"
+  }
+}

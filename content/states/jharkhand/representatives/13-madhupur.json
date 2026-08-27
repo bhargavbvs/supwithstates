@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-13-madhupur",
+  "constituency": {
+    "number": 13,
+    "name": "Madhupur",
+    "district": "Deoghar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Hafizul Hassan",
+    "election": "2024",
+    "elected_party": "JMM",
+    "current_party": "JMM",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "Agriculture, Business, Salary and Allowances",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Mining Survey, Baliapur Institute of Technology-Sindri, Year-1998."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11054185,
+      "immovable": 4477582,
+      "total": 16031767,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=919",
+    "retrieved": "2026-08-27"
+  }
+}

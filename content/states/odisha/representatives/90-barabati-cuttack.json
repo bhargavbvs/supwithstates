@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-90-barabati-cuttack",
+  "constituency": {
+    "number": 90,
+    "name": "Barabati-Cuttack",
+    "district": "Cuttack",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sofia Firdous",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 32,
+    "profession": "Social Service, Politics & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Tech. (Civil Engineering) from Kalinga Institute of Industrial Technology under KIIT University, Bhubneswar in 2013, Executive General Management Program from Indian Institute of Management, Bangalore (IIMB) in 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24362531,
+      "immovable": 31300000,
+      "total": 52462540,
+      "liabilities": 2861959
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=559",
+    "retrieved": "2026-08-27"
+  }
+}

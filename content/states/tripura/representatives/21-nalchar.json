@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-21-nalchar",
+  "constituency": {
+    "number": 21,
+    "name": "Nalchar",
+    "district": "Sepahijala",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Kishor Barman",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 42,
+    "profession": "Social Worker & Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A.(Bengali) from Tripura University in the year 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4631055,
+      "immovable": 0,
+      "total": 4631056,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6937",
+    "retrieved": "2026-08-27"
+  }
+}

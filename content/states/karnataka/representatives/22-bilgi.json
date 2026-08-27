@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-22-bilgi",
+  "constituency": {
+    "number": 22,
+    "name": "Bilgi",
+    "district": "B",
+    "reserved": null
+  },
+  "representative": {
+    "name": "J. T. Patil",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 73,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc. from P.C. Jabin Science Collage Hubali of Karnataka University Dharwad in the year 1991-72"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14310462,
+      "immovable": 24095000,
+      "total": 38405462,
+      "liabilities": 47818304
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7881",
+    "retrieved": "2026-08-27"
+  }
+}

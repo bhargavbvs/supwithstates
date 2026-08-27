@@ -1,0 +1,41 @@
+{
+  "id": "hp-ac-23-kullu",
+  "constituency": {
+    "number": 23,
+    "name": "Kullu",
+    "district": "Kullu",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sunder Singh Thakur",
+    "election": "2022",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Himachal Pradesh University in 1991"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22041629,
+      "immovable": 220796507,
+      "total": 242838136,
+      "liabilities": 24386443
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=25",
+    "retrieved": "2026-08-27"
+  }
+}

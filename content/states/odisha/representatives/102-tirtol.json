@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-102-tirtol",
+  "constituency": {
+    "number": 102,
+    "name": "Tirtol",
+    "district": "Jagatsinghpur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ramakanta Bhoi",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 46,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Admitted to the Degree of DOCTOR OF PHILOSOPHY in Computer Science Under the faculty of Science And Technology in the year 2020 under Utkal University Vani Vihar, Bhubaneswar, Orissa"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6084069,
+      "immovable": 2100000,
+      "total": 9184070,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1202",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-73-vanur",
+  "constituency": {
+    "number": 73,
+    "name": "Vanur",
+    "district": "Viluppuram",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Gowtham D",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 32,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E (Civil)-from Anna University-2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38764122,
+      "immovable": 12180000,
+      "total": 50984222,
+      "liabilities": 23675425
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1087",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-52-jajpur",
+  "constituency": {
+    "number": 52,
+    "name": "Jajpur",
+    "district": "Jajapur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sujata Sahu",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 52,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "9th from Seshadev Basanti High School, Bhubaneswarpur, Jaipur in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4791968,
+      "immovable": 5280266,
+      "total": 10072234,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1061",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-70-nawagarh",
+  "constituency": {
+    "number": 70,
+    "name": "Nawagarh",
+    "district": "Bemetara",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dayal Das Baghel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Class 9th Pass from Govt. High School Sambalpur, Dist. Bemetra In 1968"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4418169,
+      "immovable": 33705469,
+      "total": 38105638,
+      "liabilities": 4390813
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=349",
+    "retrieved": "2026-08-27"
+  }
+}

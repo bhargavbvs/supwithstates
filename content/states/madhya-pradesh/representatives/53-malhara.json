@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-53-malhara",
+  "constituency": {
+    "number": 53,
+    "name": "Malhara",
+    "district": "Chhatarpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bahin Ramsiya Bharti",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 36,
+    "profession": "Priest",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Secondary Education Board MP Bhopal in 2006"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3025426,
+      "immovable": 618900,
+      "total": 3644326,
+      "liabilities": 162561
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=746",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-54-pathariya",
+  "constituency": {
+    "number": 54,
+    "name": "Pathariya",
+    "district": "Damoh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lakhan Patel",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 67,
+    "profession": "Agriculture, Retired Pension from SBI Bank & Ex MLA Pension",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. (Agriculture) from Jawahar Lal Nehru Agriculture University Jabalpur in 1978-79"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4247573,
+      "immovable": 39542000,
+      "total": 43789573,
+      "liabilities": 311307
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1450",
+    "retrieved": "2026-08-27"
+  }
+}

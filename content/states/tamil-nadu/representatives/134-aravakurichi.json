@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-134-aravakurichi",
+  "constituency": {
+    "number": 134,
+    "name": "Aravakurichi",
+    "district": "Karur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Elango R",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.E. from Coimbatore Institute of Technology, 1993, Bharathiyar University, Coimbatore."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17807187,
+      "immovable": 35600000,
+      "total": 53407188,
+      "liabilities": 3980600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1403",
+    "retrieved": "2026-08-27"
+  }
+}

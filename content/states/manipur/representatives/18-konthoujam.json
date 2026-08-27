@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-18-konthoujam",
+  "constituency": {
+    "number": 18,
+    "name": "Konthoujam",
+    "district": "Imphal West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Sapam Ranjan Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 49,
+    "profession": "Doctor of Medicine (MD- Radiodiagnosis and Medical Imaging)- 2005",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Doctor of Medicine (MD - Radiodiagnosis and Medical Imaging) from BP Koirala Institute of Health Sciences, Dharan in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21680995,
+      "immovable": 8523750,
+      "total": 30336745,
+      "liabilities": 4289417
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=159",
+    "retrieved": "2026-08-27"
+  }
+}

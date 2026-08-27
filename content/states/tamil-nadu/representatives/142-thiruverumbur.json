@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-142-thiruverumbur",
+  "constituency": {
+    "number": 142,
+    "name": "Thiruverumbur",
+    "district": "Tiruchirappalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijayakumar Alias Navalpattu S Viji",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Agriculture, Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "S.S.L.C From Mukkulathor HSS, Tiruchirappali in 1988"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 1,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 36307295,
+      "immovable": 207300000,
+      "total": 240807295,
+      "liabilities": 99765813
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1269",
+    "retrieved": "2026-08-27"
+  }
+}

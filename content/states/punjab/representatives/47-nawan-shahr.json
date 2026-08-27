@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-47-nawan-shahr",
+  "constituency": {
+    "number": 47,
+    "name": "Nawan Shahr",
+    "district": "Shahid Bhagat Singh Nagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nachhatar Pal",
+    "election": "2022",
+    "elected_party": "BSP",
+    "current_party": "BSP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Passed From PSEB in 1993 & Diploma In Pharmacy from Punjab Tech. Edu. Board"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1970711,
+      "immovable": 10450000,
+      "total": 12420711,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=194",
+    "retrieved": "2026-08-27"
+  }
+}

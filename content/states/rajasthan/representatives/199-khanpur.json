@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-199-khanpur",
+  "constituency": {
+    "number": 199,
+    "name": "Khanpur",
+    "district": "Jhalawar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suresh Gurjar",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Govt. Post Graduate College, Jhalavad University Maharshi Dayanand Sarasvati University Ajmer in 2000"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 20669389,
+      "immovable": 36450000,
+      "total": 57019339,
+      "liabilities": 4495000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=248",
+    "retrieved": "2026-08-27"
+  }
+}

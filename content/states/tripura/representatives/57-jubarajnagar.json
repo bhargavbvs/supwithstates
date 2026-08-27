@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-57-jubarajnagar",
+  "constituency": {
+    "number": 57,
+    "name": "Jubarajnagar",
+    "district": "North Tripura",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sailendra Chandra Nath",
+    "election": "2023",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Tripura University in 1988, ICWA(I) from ICWAI in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7404602,
+      "immovable": 12600000,
+      "total": 20004605,
+      "liabilities": 2223101
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6816",
+    "retrieved": "2026-08-27"
+  }
+}

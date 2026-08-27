@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-121-gadarwara",
+  "constituency": {
+    "number": 121,
+    "name": "Gadarwara",
+    "district": "Narsinghpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Uday Pratap Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B. Com S.R.T.N.E.S. University Barman Dr. Harisingh University Sagar Year 1987, Higher Secondary New Vidya Building Barmaan, Board of Secondary Education, Bhopal"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46906288,
+      "immovable": 177650000,
+      "total": 224556288,
+      "liabilities": 19221158
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=41",
+    "retrieved": "2026-08-27"
+  }
+}

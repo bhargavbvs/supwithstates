@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-8-western-angami",
+  "constituency": {
+    "number": 8,
+    "name": "Western Angami",
+    "district": "Kohima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Salhoutuonuo Kruse",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": "Proprietor of a School (North Town Higher Secondary School)",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre-University (Art) from Kohima College Kohima Under NEHU In 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18190128,
+      "immovable": 115220000,
+      "total": 130511097,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6759",
+    "retrieved": "2026-08-27"
+  }
+}

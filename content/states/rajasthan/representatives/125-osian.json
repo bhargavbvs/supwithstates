@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-125-osian",
+  "constituency": {
+    "number": 125,
+    "name": "Osian",
+    "district": "Jodhpur Gramin",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhera Ram Choudhary (Siyol)",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Business,Partnerships Solar Firms, Rents Interests Pension Agricultural Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hons.) History 1991, Jodhpur University , Jodhpur"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 41104817,
+      "immovable": 51660000,
+      "total": 91369616,
+      "liabilities": 25471876
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=327",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-68-nattika",
+  "constituency": {
+    "number": 68,
+    "name": "Nattika",
+    "district": "Thrissur",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Geethagopi",
+    "election": "2026",
+    "elected_party": "CPI",
+    "current_party": "CPI",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Pre Degree from Little Flower College under Calicutt University in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 777277,
+      "immovable": 18500000,
+      "total": 25783877,
+      "liabilities": 228718
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=854",
+    "retrieved": "2026-08-27"
+  }
+}

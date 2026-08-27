@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-104-harapanahalli",
+  "constituency": {
+    "number": 104,
+    "name": "Harapanahalli",
+    "district": "Vijayanagara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Latha Mallikarjun",
+    "election": "2023",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Agriculture, Social Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC, G.B.R College ,Huvinahadagali in 1984"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11979747,
+      "immovable": 61000000,
+      "total": 72929747,
+      "liabilities": 6491783
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8971",
+    "retrieved": "2026-08-27"
+  }
+}

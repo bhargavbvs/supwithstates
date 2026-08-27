@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-8-rudraprayag",
+  "constituency": {
+    "number": 8,
+    "name": "Rudraprayag",
+    "district": "Rudrapray>g",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bharat Singh Chaudhary",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 62,
+    "profession": "Nil",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA From Garhwal University Srinagar Garhwal in 1979"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11720421,
+      "immovable": 13500000,
+      "total": 23205421,
+      "liabilities": 5000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=92",
+    "retrieved": "2026-08-27"
+  }
+}

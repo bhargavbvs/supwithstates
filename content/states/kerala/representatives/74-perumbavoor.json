@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-74-perumbavoor",
+  "constituency": {
+    "number": 74,
+    "name": "Perumbavoor",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Manoj Moothedan",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Insurance Agent",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts,2001, Sree Sankaracharya University of Sanskrit, Kalady."
+    },
+    "declared_cases": {
+      "total": 11,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 9,
+      "note": null
+    },
+    "assets": {
+      "movable": 4122448,
+      "immovable": 2500000,
+      "total": 6622448,
+      "liabilities": 470000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=838",
+    "retrieved": "2026-08-27"
+  }
+}

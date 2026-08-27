@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-2-heingang",
+  "constituency": {
+    "number": 2,
+    "name": "Heingang",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nongthombam Biren Singh",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 61,
+    "profession": "Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from D.M. College of Arts & Commerce, Imphal Manipur in 1981"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8413360,
+      "immovable": 6335000,
+      "total": 14748361,
+      "liabilities": 144300
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=37",
+    "retrieved": "2026-08-27"
+  }
+}

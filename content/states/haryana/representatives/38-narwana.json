@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-38-narwana",
+  "constituency": {
+    "number": 38,
+    "name": "Narwana",
+    "district": "Jind",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Krishan Kumar",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 57,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.Sc. Geography, Kurukshetra University, Kurukshetra in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7835404,
+      "immovable": 40200000,
+      "total": 48035404,
+      "liabilities": 229850
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=423",
+    "retrieved": "2026-08-27"
+  }
+}

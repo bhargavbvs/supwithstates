@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-21-ponda",
+  "constituency": {
+    "number": 21,
+    "name": "Ponda",
+    "district": "North Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ravi Naik",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 75,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Political Science Madurai Kamaraj University In 2006"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 42606000,
+      "immovable": 104532000,
+      "total": 147138000,
+      "liabilities": 39600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=134",
+    "retrieved": "2026-08-27"
+  }
+}

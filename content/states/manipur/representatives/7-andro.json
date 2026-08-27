@@ -1,0 +1,41 @@
+{
+  "id": "mn-ac-7-andro",
+  "constituency": {
+    "number": 7,
+    "name": "Andro",
+    "district": "Imphal East",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thounaojam Shyamkumar",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 51,
+    "profession": "Social Worker & Politician",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "HSLC / Matriculate from Yairipok High School, Yairipok, Board BOSEM in 1987"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 8098201,
+      "immovable": 33653633,
+      "total": 41751837,
+      "liabilities": 5553171
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/manipur2022/candidate.php?candidate_id=21",
+    "retrieved": "2026-08-27"
+  }
+}

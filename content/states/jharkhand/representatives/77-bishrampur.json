@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-77-bishrampur",
+  "constituency": {
+    "number": 77,
+    "name": "Bishrampur",
+    "district": "Garhwa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Naresh Prasad Singh",
+    "election": "2024",
+    "elected_party": "RJD",
+    "current_party": "RJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 65,
+    "profession": "Contractor cum Social Worker and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "I.A. from GLA College, Daltonganj Palamu in 1978"
+    },
+    "declared_cases": {
+      "total": 5,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 64206392,
+      "immovable": 75900000,
+      "total": 140106392,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=239",
+    "retrieved": "2026-08-27"
+  }
+}

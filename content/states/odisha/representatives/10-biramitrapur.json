@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-10-biramitrapur",
+  "constituency": {
+    "number": 10,
+    "name": "Biramitrapur",
+    "district": "Sundargarh",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rohit Joseph Tirkey",
+    "election": "2024",
+    "elected_party": "BJD",
+    "current_party": "BJD",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 35,
+    "profession": "Social Service & Cultivation",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "+2 Mechanical Engineering Technician of Trade Machinist from Don Bisco Luluah Howrah WB Under Govt WB"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3321359,
+      "immovable": 190000,
+      "total": 3511379,
+      "liabilities": 3000000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=396",
+    "retrieved": "2026-08-27"
+  }
+}

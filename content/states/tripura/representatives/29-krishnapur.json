@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-29-krishnapur",
+  "constituency": {
+    "number": 29,
+    "name": "Krishnapur",
+    "district": "Khowai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bikash Debbarma",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Madhyamik Plucked from TBSE in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 115529,
+      "immovable": 5500000,
+      "total": 5605529,
+      "liabilities": 867000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7045",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-89-lalsot",
+  "constituency": {
+    "number": 89,
+    "name": "Lalsot",
+    "district": "Dausa",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rambilas",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 47,
+    "profession": "Agriculture and Business (Crusher)",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass from Secondary Education Board Rajasthan 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4947938,
+      "immovable": 48000000,
+      "total": 52947892,
+      "liabilities": 827371
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=282",
+    "retrieved": "2026-08-27"
+  }
+}

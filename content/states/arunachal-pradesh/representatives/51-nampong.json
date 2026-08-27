@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-51-nampong",
+  "constituency": {
+    "number": 51,
+    "name": "Nampong",
+    "district": "Ch>ngl>ng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Laisam Simai",
+    "election": "2024",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 49,
+    "profession": "MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (Hons) from Government College, Itanagar in 2000 Under Arunachal University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8083105,
+      "immovable": 29844875,
+      "total": 37927980,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=92",
+    "retrieved": "2026-08-27"
+  }
+}

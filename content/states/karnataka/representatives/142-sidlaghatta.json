@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-142-sidlaghatta",
+  "constituency": {
+    "number": 142,
+    "name": "Sidlaghatta",
+    "district": "Chikkaball",
+    "reserved": null
+  },
+  "representative": {
+    "name": "B N Ravikumar",
+    "election": "2023",
+    "elected_party": "JD(S)",
+    "current_party": "JD(S)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "5th Pass",
+      "detail": "7th passed government higher primary school , maloor in 1987-88"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8712400,
+      "immovable": 15000000,
+      "total": 22565901,
+      "liabilities": 20000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8312",
+    "retrieved": "2026-08-27"
+  }
+}

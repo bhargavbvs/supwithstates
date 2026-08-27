@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-73-khairagarh",
+  "constituency": {
+    "number": 73,
+    "name": "Khairagarh",
+    "district": "Khairgarh-Chhuikhadan-Gandai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Yashoda Nilamber Verma",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 45,
+    "profession": "MLA and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th From Open School, Secondary Education Board, Raipur,Year-2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11166179,
+      "immovable": 12325000,
+      "total": 23855183,
+      "liabilities": 1349012
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=9",
+    "retrieved": "2026-08-27"
+  }
+}

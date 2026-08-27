@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-61-gandhi-nagar",
+  "constituency": {
+    "number": 61,
+    "name": "Gandhi Nagar",
+    "district": "Shahadara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Arvinder Singh Lovely",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 56,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (Hons). Political Science Year 1989-1990 from SGTB Khalsa Collage Unviersity of Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 51502287,
+      "immovable": 65000000,
+      "total": 116502287,
+      "liabilities": 9700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=219",
+    "retrieved": "2026-08-27"
+  }
+}

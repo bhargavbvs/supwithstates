@@ -1,0 +1,41 @@
+{
+  "id": "hr-ac-34-julana",
+  "constituency": {
+    "number": 34,
+    "name": "Julana",
+    "district": "Jind",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinesh",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 30,
+    "profession": "Sportsperson, Ex Govt. Employee",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Dakshina Bharat Hindi Prachar Sabha Madras in 2021"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16739400,
+      "immovable": 20000000,
+      "total": 36739400,
+      "liabilities": 3294401
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=241",
+    "retrieved": "2026-08-27"
+  }
+}

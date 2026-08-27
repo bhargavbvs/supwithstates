@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-144-vidisha",
+  "constituency": {
+    "number": 144,
+    "name": "Vidisha",
+    "district": "Vidisha",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mukesh Tandan",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 61,
+    "profession": "Agriculture, Rent, Business, Bank Interest",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Govt Boys Higher Secondary School Vidisha in 1981"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5481310,
+      "immovable": 70611621,
+      "total": 76092931,
+      "liabilities": 16565589
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1663",
+    "retrieved": "2026-08-27"
+  }
+}

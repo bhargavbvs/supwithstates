@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-107-dhuri",
+  "constituency": {
+    "number": 107,
+    "name": "Dhuri",
+    "district": "Sangrur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhagwant Mann",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 48,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.Com(1st Year),From Shaheed Udhan Singh Govt.College,Sunam,In 1992"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 4810174,
+      "immovable": 14900000,
+      "total": 19710174,
+      "liabilities": 3035808
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=243",
+    "retrieved": "2026-08-27"
+  }
+}

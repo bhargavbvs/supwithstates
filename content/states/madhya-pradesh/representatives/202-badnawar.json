@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-202-badnawar",
+  "constituency": {
+    "number": 202,
+    "name": "Badnawar",
+    "district": "Dhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhanwarsingh Shekhawat (Babu Ji)",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 74,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Eco.) In 1975 & M.A.(Politician) In 1979 from Indore University, P.M.B. Gujarati Colony Indore"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 10834640,
+      "immovable": 48140000,
+      "total": 58974640,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=110",
+    "retrieved": "2026-08-27"
+  }
+}

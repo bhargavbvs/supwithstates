@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-50-longleng",
+  "constituency": {
+    "number": 50,
+    "name": "Longleng",
+    "district": "Longleng",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "A Pongshi Phom",
+    "election": "2023",
+    "elected_party": "NCP",
+    "current_party": "NCP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 54,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Diploma in Electrical Engineering Atoizu, Nagaland 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18799948,
+      "immovable": 42900000,
+      "total": 61699948,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6895",
+    "retrieved": "2026-08-27"
+  }
+}

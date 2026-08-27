@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-125-saunsar",
+  "constituency": {
+    "number": 125,
+    "name": "Saunsar",
+    "district": "Pandhurna",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Revnath Chore",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 52,
+    "profession": "Agriculture/House Rent",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass from R.D. Higher Secondary School Pandhurna Madhyamik Shiksha Mandal Madhya Pradesh Bhopal in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7192962,
+      "immovable": 11500000,
+      "total": 18692962,
+      "liabilities": 6700000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=415",
+    "retrieved": "2026-08-27"
+  }
+}

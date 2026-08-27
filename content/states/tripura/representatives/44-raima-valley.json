@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-44-raima-valley",
+  "constituency": {
+    "number": 44,
+    "name": "Raima Valley",
+    "district": "Dhalai",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Nandita Debbarma(Reang)",
+    "election": "2023",
+    "elected_party": "Tipra Motha Party",
+    "current_party": "Tipra Motha Party",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 40,
+    "profession": "Housewife",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "Madhyamik Plucked in 2000 from Karbook Panjiham class XII School Tripura Board of Secondary Education"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 63000,
+      "immovable": 0,
+      "total": 63000,
+      "liabilities": 71376
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7057",
+    "retrieved": "2026-08-27"
+  }
+}

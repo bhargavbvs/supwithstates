@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-123-pollachi",
+  "constituency": {
+    "number": 123,
+    "name": "Pollachi",
+    "district": "Coimbatore",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K. Nithyanandhan",
+    "election": "2026",
+    "elected_party": "DMK",
+    "current_party": "DMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Agricultural & Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Engineering (Mechanical) From Kongu Engineering College, Bharathiyar University, Coimbatore In April 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 209293348,
+      "immovable": 1495377545,
+      "total": 1704670893,
+      "liabilities": 269310323
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=236",
+    "retrieved": "2026-08-27"
+  }
+}

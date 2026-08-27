@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-199-sakleshpur",
+  "constituency": {
+    "number": 199,
+    "name": "Sakleshpur",
+    "district": "H",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "S Manjunatha",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 41,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC from M Manasa Highschool Sakaleshpura in the year 1996-97"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33611113,
+      "immovable": 30272000,
+      "total": 63925113,
+      "liabilities": 18164398
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7810",
+    "retrieved": "2026-08-27"
+  }
+}

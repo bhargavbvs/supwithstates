@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-65-maihar",
+  "constituency": {
+    "number": 65,
+    "name": "Maihar",
+    "district": "Maihar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Shrikant Chaturvedi",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Secondary Education Board M.P. Bhopal Higher Secondary in 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35185473,
+      "immovable": 44200000,
+      "total": 79385473,
+      "liabilities": 5559080
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=332",
+    "retrieved": "2026-08-27"
+  }
+}

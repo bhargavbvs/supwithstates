@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-3-mamit",
+  "constituency": {
+    "number": 3,
+    "name": "Mamit",
+    "district": "Mamit",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "H. Lalzirliana",
+    "election": "2023",
+    "elected_party": "MNF",
+    "current_party": "MNF",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Resign from service",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B Tech North Eastern Regional institute of science & Technology 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18278712,
+      "immovable": 19500000,
+      "total": 37776399,
+      "liabilities": 8040224
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=98",
+    "retrieved": "2026-08-27"
+  }
+}

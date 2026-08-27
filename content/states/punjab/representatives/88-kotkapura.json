@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-88-kotkapura",
+  "constituency": {
+    "number": 88,
+    "name": "Kotkapura",
+    "district": "Faridkot",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kultar Singh Sandhwan",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 46,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering (B.E.) Course name Automobile, Passed in 1997 From Guru Nanak Dev Engineering Collg, Bidar (Karnataka) Under Gulbarga University"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4255528,
+      "immovable": 157000,
+      "total": 4412528,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1035",
+    "retrieved": "2026-08-27"
+  }
+}

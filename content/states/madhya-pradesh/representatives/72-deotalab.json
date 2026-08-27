@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-72-deotalab",
+  "constituency": {
+    "number": 72,
+    "name": "Deotalab",
+    "district": "Mauganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Girish Gautam",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 70,
+    "profession": "Agriculture, rent and Salary/Honorarium",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bacherlor Degree Science From Govt. Science College Rewa in 1972 & Bachelor Degree in Law (LLB) From TRS College Rewa in 1975"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22115969,
+      "immovable": 68500000,
+      "total": 90615969,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=678",
+    "retrieved": "2026-08-27"
+  }
+}

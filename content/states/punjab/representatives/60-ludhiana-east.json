@@ -1,0 +1,41 @@
+{
+  "id": "pb-ac-60-ludhiana-east",
+  "constituency": {
+    "number": 60,
+    "name": "Ludhiana East",
+    "district": "Ludhiana",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Daljit Singh Grewal",
+    "election": "2022",
+    "elected_party": "AAP",
+    "current_party": "AAP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Matric from Khalsa National Higher Secondary School, Ludhiana in March 1984"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 6399204,
+      "immovable": 7130000,
+      "total": 13529204,
+      "liabilities": 1408583
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=872",
+    "retrieved": "2026-08-27"
+  }
+}

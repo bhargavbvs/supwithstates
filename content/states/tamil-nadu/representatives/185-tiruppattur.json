@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-185-tiruppattur",
+  "constituency": {
+    "number": 185,
+    "name": "Tiruppattur",
+    "district": "Sivaganga",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Seenivasa Sethupathy. R",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 38,
+    "profession": "Haptrend Media",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.B.A From Alagappa University - Karaikudi -2024, B.E K.S Rangaswamy College of Technology, Thiruchengode -2008, HSLC Algappa Matriculation Karaikudi -2004,"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12023335,
+      "immovable": 7000000,
+      "total": 19023335,
+      "liabilities": 15421182
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1008",
+    "retrieved": "2026-08-27"
+  }
+}

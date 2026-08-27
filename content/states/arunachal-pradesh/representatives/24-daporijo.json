@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-24-daporijo",
+  "constituency": {
+    "number": 24,
+    "name": "Daporijo",
+    "district": "Upper Subansiri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Taniya Soki",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 58,
+    "profession": "Ex-serviceman/public leader",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineer (Civil) from Delhi College of Engineering, Delhi University in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 69883416,
+      "immovable": 111500000,
+      "total": 181383416,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=26",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mz-ac-27-tuikum",
+  "constituency": {
+    "number": 27,
+    "name": "Tuikum",
+    "district": "Serchhip",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "P.C. Vanlalruata",
+    "election": "2023",
+    "elected_party": "Zoram People’s Movement",
+    "current_party": "Zoram People’s Movement",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MA (Economics), North Eastern Hills University (1999)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10149500,
+      "immovable": 55500000,
+      "total": 65649500,
+      "liabilities": 20800000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=85",
+    "retrieved": "2026-08-27"
+  }
+}

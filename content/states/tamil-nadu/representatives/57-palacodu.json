@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-57-palacodu",
+  "constituency": {
+    "number": 57,
+    "name": "Palacodu",
+    "district": "Dharmapuri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Anbalagan. K.P.",
+    "election": "2026",
+    "elected_party": "AIADMK",
+    "current_party": "AIADMK",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Agriculture & Politics",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "PUC., Pre-University Course, University of Madras,1975"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 387778535,
+      "immovable": 81000000,
+      "total": 471298836,
+      "liabilities": 95598602
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1208",
+    "retrieved": "2026-08-27"
+  }
+}

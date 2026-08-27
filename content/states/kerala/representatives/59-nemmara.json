@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-59-nemmara",
+  "constituency": {
+    "number": 59,
+    "name": "Nemmara",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "K Preman",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "No",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC, GBHS Nehmara Genral Education Department Board of Public Examination In 1988, PDC Failed, NSS College, Calicut University In 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3230856,
+      "immovable": 5000000,
+      "total": 8200826,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=191",
+    "retrieved": "2026-08-27"
+  }
+}

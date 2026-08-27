@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-33-lachhmangarh",
+  "constituency": {
+    "number": 33,
+    "name": "Lachhmangarh",
+    "district": "Sikar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Govind Singh Dotasra",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 59,
+    "profession": "Advocate & Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.Ed. Year 1989 From Maharishi Dayanand University Rohatak (Haryana) Degree Year 1991, LL.B Year 1987 From University of Rajasthan Jaipur Academic Professional 1988 M.D.S. Ajmer"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 11505010,
+      "immovable": 22150000,
+      "total": 33655010,
+      "liabilities": 5194654
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=273",
+    "retrieved": "2026-08-27"
+  }
+}

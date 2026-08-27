@@ -1,0 +1,41 @@
+{
+  "id": "ka-ac-71-dharwad",
+  "constituency": {
+    "number": 71,
+    "name": "Dharwad",
+    "district": "Dh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vinay Kulkarni",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 56,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "B.S.C(Agri), Agriculture University Dharwad- Incomplete"
+    },
+    "declared_cases": {
+      "total": 7,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 112442792,
+      "immovable": 77827500,
+      "total": 190270292,
+      "liabilities": 14439728
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7235",
+    "retrieved": "2026-08-27"
+  }
+}

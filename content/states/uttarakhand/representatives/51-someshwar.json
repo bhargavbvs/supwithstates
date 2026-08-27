@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-51-someshwar",
+  "constituency": {
+    "number": 51,
+    "name": "Someshwar",
+    "district": "Almora",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Rekha Arya",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 43,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.com Kumaon University Nainital, B Ed Kumauni University, Nainital-2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 83003401,
+      "immovable": 180100000,
+      "total": 252018003,
+      "liabilities": 8281104
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=273",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-107-mandla",
+  "constituency": {
+    "number": 107,
+    "name": "Mandla",
+    "district": "Mandla",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sampatiya Uikey",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Pension, Farmer, Ware House",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. (Hindi) from Maharshi Mahesh Yogi Vaidik University, Mehar Dist Katni M.P. in 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12871999,
+      "immovable": 80336248,
+      "total": 93208247,
+      "liabilities": 28221712
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1496",
+    "retrieved": "2026-08-27"
+  }
+}

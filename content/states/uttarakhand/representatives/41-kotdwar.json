@@ -1,0 +1,41 @@
+{
+  "id": "uk-ac-41-kotdwar",
+  "constituency": {
+    "number": 41,
+    "name": "Kotdwar",
+    "district": "Pauri Garhw>l",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ritu Khanduri Bhushan",
+    "election": "2022",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 56,
+    "profession": "MLA Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA Hons From Raghunath Girls College Meerut University UP in 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12653513,
+      "immovable": 44000000,
+      "total": 72628356,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=637",
+    "retrieved": "2026-08-27"
+  }
+}

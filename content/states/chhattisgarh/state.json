@@ -1,0 +1,25 @@
+{
+  "slug": "chhattisgarh",
+  "name": "Chhattisgarh",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 90,
+  "district_count": 33,
+  "term": {
+    "start": "2023"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Chhattisgarh2023/",
+    "adr_serious_list": "https://www.myneta.info/Chhattisgarh2023/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      82.32,
+      20.95
+    ],
+    "zoom": 6
+  }
+}

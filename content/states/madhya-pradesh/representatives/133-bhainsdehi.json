@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-133-bhainsdehi",
+  "constituency": {
+    "number": 133,
+    "name": "Bhainsdehi",
+    "district": "Betul",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Mahendra Singh Chouhan",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Pension (Ex-MLA)",
+    "photo": null,
+    "education": {
+      "level": "8th Pass",
+      "detail": "8th Secondary School Adarsh Danora Bhimpur"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6375625,
+      "immovable": 31250000,
+      "total": 37625625,
+      "liabilities": 261160
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=28",
+    "retrieved": "2026-08-27"
+  }
+}

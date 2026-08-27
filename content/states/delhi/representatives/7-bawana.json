@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-7-bawana",
+  "constituency": {
+    "number": 7,
+    "name": "Bawana",
+    "district": "North",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Ravinder Indraj Singh",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 50,
+    "profession": "Business & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Pass From School of Correspondence Courses and Continuing Education, University of Delhi, Year-2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 41155388,
+      "immovable": 31250000,
+      "total": 72337348,
+      "liabilities": 3584993
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=461",
+    "retrieved": "2026-08-27"
+  }
+}

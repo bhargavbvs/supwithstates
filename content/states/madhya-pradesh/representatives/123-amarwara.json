@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-123-amarwara",
+  "constituency": {
+    "number": 123,
+    "name": "Amarwara",
+    "district": "Chhindwara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Kamlesh Pratap Shah",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Agriculture",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass from Mathura Prasad School Chhindwara, Year-1988-89"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27680000,
+      "immovable": 139460000,
+      "total": 167140000,
+      "liabilities": 35450000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2929",
+    "retrieved": "2026-08-27"
+  }
+}

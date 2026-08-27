@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-74-nadbai",
+  "constituency": {
+    "number": 74,
+    "name": "Nadbai",
+    "district": "Bharatpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jagat Singh",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 55,
+    "profession": "Social Work & Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "BBA in 1990 from Buckingham University U.K."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21413476,
+      "immovable": 37988103,
+      "total": 59401579,
+      "liabilities": 2688510
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=315",
+    "retrieved": "2026-08-27"
+  }
+}

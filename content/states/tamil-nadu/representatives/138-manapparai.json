@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-138-manapparai",
+  "constituency": {
+    "number": 138,
+    "name": "Manapparai",
+    "district": "Tiruchirappalli",
+    "reserved": null
+  },
+  "representative": {
+    "name": "R. Kathiravan",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 33,
+    "profession": "Social service and sales profession",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. From Mechanical Engineering SA Engineering College, Chennai - 2014"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 1,
+      "note": null
+    },
+    "assets": {
+      "movable": 20520794,
+      "immovable": 1698772,
+      "total": 22219566,
+      "liabilities": 7677972
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=829",
+    "retrieved": "2026-08-27"
+  }
+}

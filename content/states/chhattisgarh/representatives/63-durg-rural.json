@@ -1,0 +1,41 @@
+{
+  "id": "cg-ac-63-durg-rural",
+  "constituency": {
+    "number": 63,
+    "name": "Durg-Rural",
+    "district": "Durg",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Lalit Chandrakar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 49,
+    "profession": "Agriculture, Rent Income",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com (Graduate) Pt.Ravishankar Shukl University CG. 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17493784,
+      "immovable": 119245757,
+      "total": 136739504,
+      "liabilities": 5206318
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=436",
+    "retrieved": "2026-08-27"
+  }
+}

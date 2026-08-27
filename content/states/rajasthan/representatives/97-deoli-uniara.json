@@ -1,0 +1,41 @@
+{
+  "id": "rj-ac-97-deoli-uniara",
+  "constituency": {
+    "number": 97,
+    "name": "Deoli-Uniara",
+    "district": "Tonk",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajendra Gurjar",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 50,
+    "profession": "Agriculture, Business & Pension",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Shobhit University Meerut , Bharat Year 2014"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7397399,
+      "immovable": 11200000,
+      "total": 18597403,
+      "liabilities": 1998242
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1918",
+    "retrieved": "2026-08-27"
+  }
+}

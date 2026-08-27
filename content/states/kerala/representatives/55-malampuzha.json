@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-55-malampuzha",
+  "constituency": {
+    "number": 55,
+    "name": "Malampuzha",
+    "district": "Palakkad",
+    "reserved": null
+  },
+  "representative": {
+    "name": "A Prabhakaran",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 74,
+    "profession": "Social worker and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Completed BA course in 1973 at Government Victoria College Palakkad University of Calicut"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 10664042,
+      "immovable": 8500000,
+      "total": 19124911,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=163",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-11-umsning",
+  "constituency": {
+    "number": 11,
+    "name": "Umsning",
+    "district": "Ri-Bhoi",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Celestine Lyngdoh",
+    "election": "2023",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 51,
+    "profession": "Physician Medical Practitioner",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MBBS, MD Forensic Medicine 17/08/2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5318000,
+      "immovable": 76000000,
+      "total": 81318000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6778",
+    "retrieved": "2026-08-27"
+  }
+}

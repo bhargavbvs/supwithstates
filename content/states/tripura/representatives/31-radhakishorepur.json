@@ -1,0 +1,41 @@
+{
+  "id": "tr-ac-31-radhakishorepur",
+  "constituency": {
+    "number": 31,
+    "name": "Radhakishorepur",
+    "district": "Gomti",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pranajit Singha Roy",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 62,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "BA from MBB College under Calcatta University in 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 43502593,
+      "immovable": 29790000,
+      "total": 73292599,
+      "liabilities": 2104600
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6861",
+    "retrieved": "2026-08-27"
+  }
+}

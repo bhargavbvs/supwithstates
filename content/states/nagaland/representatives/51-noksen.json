@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-51-noksen",
+  "constituency": {
+    "number": 51,
+    "name": "Noksen",
+    "district": "Tuensang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Y. Lima Onen Chang",
+    "election": "2023",
+    "elected_party": "Republican Party of India (Athawale)",
+    "current_party": "Republican Party of India (Athawale)",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 53,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. (Hon), Sao Chang Govt. College, Nagaland University 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 736000,
+      "immovable": 0,
+      "total": 736000,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6903",
+    "retrieved": "2026-08-27"
+  }
+}

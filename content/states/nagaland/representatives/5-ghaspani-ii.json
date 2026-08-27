@@ -1,0 +1,41 @@
+{
+  "id": "nl-ac-5-ghaspani-ii",
+  "constituency": {
+    "number": 5,
+    "name": "Ghaspani-Ii",
+    "district": "Chumoukedima",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Zhaleo Rio",
+    "election": "2023",
+    "elected_party": "NDPP",
+    "current_party": "NDPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 69,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from University of North Bengal, North Bengal In 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19197030,
+      "immovable": 73350000,
+      "total": 92547034,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6794",
+    "retrieved": "2026-08-27"
+  }
+}

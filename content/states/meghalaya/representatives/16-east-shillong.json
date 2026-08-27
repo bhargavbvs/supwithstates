@@ -1,0 +1,41 @@
+{
+  "id": "ml-ac-16-east-shillong",
+  "constituency": {
+    "number": 16,
+    "name": "East Shillong",
+    "district": "East Kh>si Hills",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Mazel Ampareen Lyngdoh",
+    "election": "2023",
+    "elected_party": "NPP",
+    "current_party": "NPP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 57,
+    "profession": "Ex MLA & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D from NEHU in 2013"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 9468596,
+      "immovable": 18500000,
+      "total": 27968597,
+      "liabilities": 2007040
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6757",
+    "retrieved": "2026-08-27"
+  }
+}

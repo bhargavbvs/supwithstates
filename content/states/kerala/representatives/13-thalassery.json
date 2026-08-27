@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-13-thalassery",
+  "constituency": {
+    "number": 13,
+    "name": "Thalassery",
+    "district": "Kannur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Karayi Rajan",
+    "election": "2026",
+    "elected_party": "CPI(M)",
+    "current_party": "CPI(M)",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 68,
+    "profession": "NIL",
+    "photo": null,
+    "education": {
+      "level": "Literate",
+      "detail": "4th std Pass From Government LP School; Pulliod, in 1968"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 7097935,
+      "immovable": 7600000,
+      "total": 14675936,
+      "liabilities": 390210
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=249",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-ac-7-bomdila",
+  "constituency": {
+    "number": 7,
+    "name": "Bomdila",
+    "district": "Bichom",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dongru Siongju",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 55,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "AISSCE from Govt. Higher Secondary School, Bomdila, Year-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35129516,
+      "immovable": 45500000,
+      "total": 66355560,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=6",
+    "retrieved": "2026-08-27"
+  }
+}

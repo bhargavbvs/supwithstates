@@ -1,0 +1,41 @@
+{
+  "id": "dl-ac-16-tri-nagar",
+  "constituency": {
+    "number": 16,
+    "name": "Tri Nagar",
+    "district": "North West",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tilak Ram Gupta",
+    "election": "2025",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2025-12",
+    "age_at_election": 73,
+    "profession": "Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Pass Year 1969 Govt. Higher Secondary School Ganeshpura, Tri Nagar, Delhi"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 22065558,
+      "immovable": 1500000,
+      "total": 23565559,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=213",
+    "retrieved": "2026-08-27"
+  }
+}

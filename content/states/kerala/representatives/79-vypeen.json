@@ -1,0 +1,41 @@
+{
+  "id": "kl-ac-79-vypeen",
+  "constituency": {
+    "number": 79,
+    "name": "Vypeen",
+    "district": "Ernakulam",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tony Chammany",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce Completed from St. Alberts College, Ernakulam under MG University, year 1989-1992., Passed Pre Degree 4th Group from St. Alberts College, Ernakulam under MG University year 1987-1989."
+    },
+    "declared_cases": {
+      "total": 15,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 11,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3692934,
+      "immovable": 51363000,
+      "total": 55040934,
+      "liabilities": 1991592
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=330",
+    "retrieved": "2026-08-27"
+  }
+}

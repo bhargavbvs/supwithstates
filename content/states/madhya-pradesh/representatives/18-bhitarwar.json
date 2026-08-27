@@ -1,0 +1,41 @@
+{
+  "id": "mp-ac-18-bhitarwar",
+  "constituency": {
+    "number": 18,
+    "name": "Bhitarwar",
+    "district": "Gwalior",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohan Singh Rathore",
+    "election": "2023",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2023-12",
+    "age_at_election": 68,
+    "profession": "799301/-",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Graduate 2nd year from Jivaji University, Gwalior in 1973"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23383823,
+      "immovable": 225900000,
+      "total": 249283823,
+      "liabilities": 16263526
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=666",
+    "retrieved": "2026-08-27"
+  }
+}

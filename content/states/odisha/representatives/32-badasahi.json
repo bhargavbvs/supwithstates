@@ -1,0 +1,41 @@
+{
+  "id": "od-ac-32-badasahi",
+  "constituency": {
+    "number": 32,
+    "name": "Badasahi",
+    "district": "Mayurbhanj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sanatan Bijuli",
+    "election": "2024",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Utkal University in 1994, F.M. College, Balasore"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 19111777,
+      "immovable": 3045000,
+      "total": 22156782,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=953",
+    "retrieved": "2026-08-27"
+  }
+}

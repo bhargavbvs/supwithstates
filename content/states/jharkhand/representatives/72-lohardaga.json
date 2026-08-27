@@ -1,0 +1,41 @@
+{
+  "id": "jh-ac-72-lohardaga",
+  "constituency": {
+    "number": 72,
+    "name": "Lohardaga",
+    "district": "Lohardaga",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rameshwar Oraon",
+    "election": "2024",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2024-12",
+    "age_at_election": 77,
+    "profession": "MLA - Minister, Govt. of Jharkhand",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D. from Magadh University Patna in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24190435,
+      "immovable": 398345359,
+      "total": 422035795,
+      "liabilities": 1943437
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=289",
+    "retrieved": "2026-08-27"
+  }
+}

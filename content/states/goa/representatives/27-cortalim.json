@@ -1,0 +1,41 @@
+{
+  "id": "ga-ac-27-cortalim",
+  "constituency": {
+    "number": 27,
+    "name": "Cortalim",
+    "district": "South Goa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Antonio Vas",
+    "election": "2022",
+    "elected_party": "IND",
+    "current_party": "IND",
+    "party_changed": null,
+    "term_start": "2022-12",
+    "age_at_election": 57,
+    "profession": "Trader in Fresh Fish & Bus Operator",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "10th Passed Goa Borad,From Our Lady of Perpetual Succor High School Cortalim Goa,Year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16182573,
+      "immovable": 33700000,
+      "total": 49882575,
+      "liabilities": 13456604
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=71",
+    "retrieved": "2026-08-27"
+  }
+}

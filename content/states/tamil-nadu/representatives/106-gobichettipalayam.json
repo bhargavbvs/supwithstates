@@ -1,0 +1,41 @@
+{
+  "id": "tn-ac-106-gobichettipalayam",
+  "constituency": {
+    "number": 106,
+    "name": "Gobichettipalayam",
+    "district": "Erode",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sengottaiyan.K.A",
+    "election": "2026",
+    "elected_party": "Tamilaga Vettri Kazhagam",
+    "current_party": "Tamilaga Vettri Kazhagam",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 78,
+    "profession": "Agriculture and Public Service",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "SSLC - Municipal High School, Gopichettipalayam /Year-1966"
+    },
+    "declared_cases": {
+      "total": 3,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 96730213,
+      "immovable": 60473973,
+      "total": 157204186,
+      "liabilities": 5948518
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=44",
+    "retrieved": "2026-08-27"
+  }
+}
