@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-42-baksa",
+  "constituency": {
+    "number": 42,
+    "name": "Baksa",
+    "district": "Baksa",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Maneswar Brahma",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Ex. MLA, Business and Agriculture",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Rangia College, Rangia, Kamrup in the year 1993 under Gauhati University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18888069,
+      "immovable": 15500000,
+      "total": 34388070,
+      "liabilities": 792349
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=168",
+    "retrieved": "2026-08-27"
+  }
+}

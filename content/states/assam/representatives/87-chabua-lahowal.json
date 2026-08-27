@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-87-chabua-lahowal",
+  "constituency": {
+    "number": 87,
+    "name": "Chabua-Lahowal",
+    "district": "Dibrugarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Binod Hazarika",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Social worker/Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Leaving Certificate (HSLC) Exam passed from Dinjoy Hajarimal H.S. School, Chabua, in the year 1992."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19274461,
+      "immovable": 20001100,
+      "total": 39271570,
+      "liabilities": 4216821
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=264",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-15-dudhnai",
+  "constituency": {
+    "number": 15,
+    "name": "Dudhnai",
+    "district": "Goalpara",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tankeswar Rabha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Politician, Social Worker & Business man",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering From Assam Engineering College, Assam Science and Technology University, Jalukbari Guwahati, Year-1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23403186,
+      "immovable": 10732400,
+      "total": 34135587,
+      "liabilities": 3100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=322",
+    "retrieved": "2026-08-27"
+  }
+}

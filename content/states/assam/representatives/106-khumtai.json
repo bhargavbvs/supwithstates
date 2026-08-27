@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-106-khumtai",
+  "constituency": {
+    "number": 106,
+    "name": "Khumtai",
+    "district": "Golaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mrinal Saikia",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Cultivator & MLA",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Passed Master of Arts (MA) with Honors in English from Gauhati University in the year 1992 conducted by Gauhati University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17852947,
+      "immovable": 18121784,
+      "total": 35974733,
+      "liabilities": 2980874
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=739",
+    "retrieved": "2026-08-27"
+  }
+}

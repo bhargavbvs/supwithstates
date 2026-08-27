@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-94-mahmora",
+  "constituency": {
+    "number": 94,
+    "name": "Mahmora",
+    "district": "Charaideo",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suruj Dehingia",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Moran College, Moranhat, Dibrugarh University in 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5477617,
+      "immovable": 21300000,
+      "total": 26777620,
+      "liabilities": 1757604
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=750",
+    "retrieved": "2026-08-27"
+  }
+}

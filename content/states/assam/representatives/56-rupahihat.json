@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-56-rupahihat",
+  "constituency": {
+    "number": 56,
+    "name": "Rupahihat",
+    "district": "Nagaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nurul Huda",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "MLA and Personal Petty Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "H.S.L.C. Pass From Mowamari High School Vill Mowamari P/S Samaguri District Nagaon (Assam)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9375643,
+      "immovable": 31000000,
+      "total": 40375643,
+      "liabilities": 9641615
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=82",
+    "retrieved": "2026-08-27"
+  }
+}

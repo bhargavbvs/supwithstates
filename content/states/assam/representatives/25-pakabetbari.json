@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-25-pakabetbari",
+  "constituency": {
+    "number": 25,
+    "name": "Pakabetbari",
+    "district": "Barpeta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jakir Hussain Sikdar",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Member of Legislative Assembly, Assam",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from Nabajyoti College, Kalgachia under GU- 2004"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 2162127,
+      "immovable": 11208160,
+      "total": 13680289,
+      "liabilities": 2200000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=330",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -30,10 +30,20 @@ export const STATES = {
   assam: {
     name: 'Assam', code: 'as', election: 'Assam2026', myNetaState: 'ASSAM',
     geoState: 'ASSAM', districtState: 'ASSAM', year: 2026, seats: 126,
-    blocked: true,
-    note: 'Assam was redelimited in 2023 and the 2026 election used the new '
-      + 'constituencies. The map layer here is the old set: 36 of 126 winners '
-      + 'name a seat it does not contain. Needs post-2023 boundaries.',
+    // Assam was redelimited in 2023 and the 2026 election used the new
+    // constituencies, which the national layer predates — only 90 of the
+    // 126 winners could be placed in it. These boundaries come instead
+    // from the Election Commission's own results portal, which serves the
+    // layer it used to draw that election's map, so the vintage cannot be
+    // wrong. Checked on arrival: 126 features, numbered 1-126 with no gap
+    // or duplicate, inside Assam's bounding box, and carrying every one of
+    // the 126 winners' constituency names.
+    //
+    //   curl --http1.1 https://results.eci.gov.in/ResultAcGenMay2026/ac/S03.js
+    //
+    // What it does not carry is PC_NO/PC_NAME, so Assam has no link from
+    // an MLA to their MP until that comes from somewhere else.
+    acFile: '.geo-src/assam-ac-2023.geojson',
   },
   bihar: {
     name: 'Bihar', code: 'br', election: 'Bihar2025', myNetaState: 'BIHAR',

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-114-lakhipur",
+  "constituency": {
+    "number": 114,
+    "name": "Lakhipur",
+    "district": "Cachar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kaushik Rai",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Salary and Business & Profession",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LL.B from Arun Kumar Chandra Law College, under Assam University, Silchar in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20353148,
+      "immovable": 19879721,
+      "total": 40696652,
+      "liabilities": 9057663
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=743",
+    "retrieved": "2026-08-27"
+  }
+}

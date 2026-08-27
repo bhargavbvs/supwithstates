@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-80-jonai",
+  "constituency": {
+    "number": 80,
+    "name": "Jonai",
+    "district": "Dhemaji",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhubon Pegu",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Social Worker and Farming/Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. Passed from Gauhati University, Assam in 1995, B.A. in 1993 from Cotton College under Gauhati University Assam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 31879770,
+      "immovable": 25400000,
+      "total": 57275772,
+      "liabilities": 12471563
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=730",
+    "retrieved": "2026-08-27"
+  }
+}

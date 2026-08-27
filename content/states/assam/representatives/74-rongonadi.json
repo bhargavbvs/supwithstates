@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-74-rongonadi",
+  "constituency": {
+    "number": 74,
+    "name": "Rongonadi",
+    "district": "Lakhimpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rishiraj Hazarika",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 36,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary in Arts Stream from The Assam Higher Secondary Education Council in 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 20498500,
+      "immovable": 38950000,
+      "total": 61682673,
+      "liabilities": 25768491
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=628",
+    "retrieved": "2026-08-27"
+  }
+}

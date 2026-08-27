@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-121-hailakandi",
+  "constituency": {
+    "number": 121,
+    "name": "Hailakandi",
+    "district": "Hailakandi",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Milon Das",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 35,
+    "profession": "Private Tution",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From Assam University Silchar AUS Year 2021 & M.Sc. From Assam University, Silchar, AUS, Year-2014"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 20406,
+      "immovable": 0,
+      "total": 20406,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=493",
+    "retrieved": "2026-08-27"
+  }
+}

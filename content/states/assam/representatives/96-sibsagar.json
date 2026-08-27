@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-96-sibsagar",
+  "constituency": {
+    "number": 96,
+    "name": "Sibsagar",
+    "district": "Sibsagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Akhil Gogoi",
+    "election": "2026",
+    "elected_party": "Raijor Dal",
+    "current_party": "Raijor Dal",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Member of Legislative Assembly, Sivasagar",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Cotton College, Guwahati in the year 1996"
+    },
+    "declared_cases": {
+      "total": 21,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 3074654,
+      "immovable": 8200000,
+      "total": 11274654,
+      "liabilities": 554896
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=89",
+    "retrieved": "2026-08-27"
+  }
+}

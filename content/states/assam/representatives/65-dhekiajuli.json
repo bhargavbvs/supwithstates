@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-65-dhekiajuli",
+  "constituency": {
+    "number": 65,
+    "name": "Dhekiajuli",
+    "district": "Sonitpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashok Singhal",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Social Worker and Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from Guwahati Commerce College (Guwahati University) in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 212965127,
+      "immovable": 133798910,
+      "total": 346764045,
+      "liabilities": 10273511
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=20",
+    "retrieved": "2026-08-27"
+  }
+}

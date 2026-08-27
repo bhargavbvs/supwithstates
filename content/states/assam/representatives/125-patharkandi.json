@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-125-patharkandi",
+  "constituency": {
+    "number": 125,
+    "name": "Patharkandi",
+    "district": "Karimganj",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishnendu Paul",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com In The Year 1995, From Karimganj College Under Assam University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 76011421,
+      "immovable": 37690000,
+      "total": 102404789,
+      "liabilities": 30769770
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=762",
+    "retrieved": "2026-08-27"
+  }
+}

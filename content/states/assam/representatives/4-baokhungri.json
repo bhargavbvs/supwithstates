@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-4-baokhungri",
+  "constituency": {
+    "number": 4,
+    "name": "Baokhungri",
+    "district": "Kokrajhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rupam Chandra Roy",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 32,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts Degree from Basugaon College under Gauhati University of Assam in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5413005,
+      "immovable": 526900,
+      "total": 5939907,
+      "liabilities": 1359361
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=635",
+    "retrieved": "2026-08-27"
+  }
+}

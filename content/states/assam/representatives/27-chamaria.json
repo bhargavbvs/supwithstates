@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-27-chamaria",
+  "constituency": {
+    "number": 27,
+    "name": "Chamaria",
+    "district": "Kamrup Rural",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rekibuddin Ahmed",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "MLA (Assam Legislative Assembly)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (BA) Passed in the yaear 2025 from Krishna Kanta Handiqui State Open University Guwahati Assam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16014431,
+      "immovable": 41250000,
+      "total": 57264431,
+      "liabilities": 3407212
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=695",
+    "retrieved": "2026-08-27"
+  }
+}

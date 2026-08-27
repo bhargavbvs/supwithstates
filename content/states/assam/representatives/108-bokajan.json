@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-108-bokajan",
+  "constituency": {
+    "number": 108,
+    "name": "Bokajan",
+    "district": "Karbi Anglong",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Surjya Rongphar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Politician & Cultivator",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (TDC) Part -II Examination under Assam University, Silchar in year of 1994 Passed from Diphu Government College, Diphu"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 33739704,
+      "immovable": 29125000,
+      "total": 62864708,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=689",
+    "retrieved": "2026-08-27"
+  }
+}

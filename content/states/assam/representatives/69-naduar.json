@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-69-naduar",
+  "constituency": {
+    "number": 69,
+    "name": "Naduar",
+    "district": "Biswanath",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Padma Hazarika",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Member of Assam Legislative Assembly and Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed P.U (Pre University) Examination from Tyagbir Hem Baruah College, Jamugurihat, under Gauhati University in 1983"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 138871098,
+      "immovable": 59985540,
+      "total": 198856644,
+      "liabilities": 27315943
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=66",
+    "retrieved": "2026-08-27"
+  }
+}

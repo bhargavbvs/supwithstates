@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-117-barkhola",
+  "constituency": {
+    "number": 117,
+    "name": "Barkhola",
+    "district": "Cachar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kishor Nath",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 60,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Class -X Pass from Govt Boys High School, Haflong, Bord of Secondary Education, Assam in 1980"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 38335955,
+      "immovable": 26750000,
+      "total": 65085955,
+      "liabilities": 9495963
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=259",
+    "retrieved": "2026-08-27"
+  }
+}

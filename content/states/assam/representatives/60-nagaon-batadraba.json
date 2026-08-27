@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-60-nagaon-batadraba",
+  "constituency": {
+    "number": 60,
+    "name": "Nagaon-Batadraba",
+    "district": "Nagaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rupak Sarmah",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Member of Legislative Assembly, Books & Stationery Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com. From Nowgong College, Nagaon, Gauhati University, Year-1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 55429847,
+      "immovable": 117898048,
+      "total": 173327895,
+      "liabilities": 16826679
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=67",
+    "retrieved": "2026-08-27"
+  }
+}

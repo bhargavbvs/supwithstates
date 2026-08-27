@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-67-tezpur",
+  "constituency": {
+    "number": 67,
+    "name": "Tezpur",
+    "district": "Sonitpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prithiraj Rava",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Member of Legislative Assembly and Retired Service",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed 2nd year B.A. (Final) from Darrang College, Tezpur, Gauhati University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 12149692,
+      "immovable": 7400000,
+      "total": 19549694,
+      "liabilities": 4647546
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=209",
+    "retrieved": "2026-08-27"
+  }
+}

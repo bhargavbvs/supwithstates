@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-109-howarghat",
+  "constituency": {
+    "number": 109,
+    "name": "Howarghat",
+    "district": "Karbi Anglong",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Lunsing Teron",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "H.S. Passed from Diphu Government College under Assam Higher Secondary Education Council (AHSEC)"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21363049,
+      "immovable": 3530000,
+      "total": 24863049,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=489",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-57-kaliabor",
+  "constituency": {
+    "number": 57,
+    "name": "Kaliabor",
+    "district": "Nagaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Keshab Mahanta",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Social worker, Politician (Presently Member of Legislative Assembly, Assam)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Gauhati University in 1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 32814468,
+      "immovable": 20400000,
+      "total": 53214468,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=733",
+    "retrieved": "2026-08-27"
+  }
+}

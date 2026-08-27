@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-111-rongkhang",
+  "constituency": {
+    "number": 111,
+    "name": "Rongkhang",
+    "district": "West Karbi Anglong",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Tuliram Ronghang",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 53,
+    "profession": "Chief Executive Member, Kabri Anglong Autonomous Council, Diphu, Karbi Anglong",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com From Gauhati Commerce College Uner Gauhati University In 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 46276099,
+      "immovable": 90820000,
+      "total": 136295809,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=116",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-61-raha",
+  "constituency": {
+    "number": 61,
+    "name": "Raha",
+    "district": "Nagaon",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Sashi Kanta Das",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Politician (Member of The Legislative Assembly Assam, Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HSSLC Passed from Morigaon College, Morigaon (Assam) Board of University Assam Higher Secondary Education Council, Guwahati, Assam in 1993 and B.A (Part-I) from Raha College, Raha, Dt. Nagaon, Gauhati University, Guwahati, Assam in 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13190151,
+      "immovable": 15462000,
+      "total": 28652151,
+      "liabilities": 5188137
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=76",
+    "retrieved": "2026-08-27"
+  }
+}

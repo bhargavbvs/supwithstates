@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-34-dimoria",
+  "constituency": {
+    "number": 34,
+    "name": "Dimoria",
+    "district": "Kamrup Metro",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dr. Tapan Das",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D From Doctor of Philosophy in 2019, University of Gauhati"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2314288,
+      "immovable": 7200000,
+      "total": 9514288,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=302",
+    "retrieved": "2026-08-27"
+  }
+}

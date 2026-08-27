@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-55-dhing",
+  "constituency": {
+    "number": 55,
+    "name": "Dhing",
+    "district": "Nagaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mehboob Muktar",
+    "election": "2026",
+    "elected_party": "Raijor Dal",
+    "current_party": "Raijor Dal",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts under Guwahati University in 2005"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5009544,
+      "immovable": 14657300,
+      "total": 19666844,
+      "liabilities": 846000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=121",
+    "retrieved": "2026-08-27"
+  }
+}

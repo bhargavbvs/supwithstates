@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-1-gossaigaon",
+  "constituency": {
+    "number": 1,
+    "name": "Gossaigaon",
+    "district": "Kokrajhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sabharam Basumatary",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Graduate From Guwahati University, Year-1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 24484824,
+      "immovable": 26199991,
+      "total": 50684815,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=332",
+    "retrieved": "2026-08-27"
+  }
+}

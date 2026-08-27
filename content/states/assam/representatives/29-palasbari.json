@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-29-palasbari",
+  "constituency": {
+    "number": 29,
+    "name": "Palasbari",
+    "district": "Kamrup Rural",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Himangshu Shekhar Baishya",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 36,
+    "profession": "Busines/ Social Activist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Guwahati Commerce College (Gauhati University), in the Year of 2011"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 77633157,
+      "immovable": 48421352,
+      "total": 126054514,
+      "liabilities": 76106345
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=403",
+    "retrieved": "2026-08-27"
+  }
+}

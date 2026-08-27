@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-116-katigorah",
+  "constituency": {
+    "number": 116,
+    "name": "Katigorah",
+    "district": "Cachar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Kamalakhya Dey Purkayastha",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Business Administration in Human Resource Management from Assm Down Town University Passed in the year January 2022"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5463882,
+      "immovable": 9000000,
+      "total": 14463782,
+      "liabilities": 10491054
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=591",
+    "retrieved": "2026-08-27"
+  }
+}

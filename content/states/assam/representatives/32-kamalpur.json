@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-32-kamalpur",
+  "constituency": {
+    "number": 32,
+    "name": "Kamalpur",
+    "district": "Kamrup Rural",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Diganta Kalita",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science in 1989 from Gauhati University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 48056262,
+      "immovable": 36617080,
+      "total": 84673343,
+      "liabilities": 32816411
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=478",
+    "retrieved": "2026-08-27"
+  }
+}

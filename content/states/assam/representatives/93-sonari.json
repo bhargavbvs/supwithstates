@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-93-sonari",
+  "constituency": {
+    "number": 93,
+    "name": "Sonari",
+    "district": "Charaideo",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhormeswar Konwar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "M.L.A",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Dhole Bagan H.S School Under The Assam Higher Secondary Educational Council In 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9511878,
+      "immovable": 12550000,
+      "total": 22061879,
+      "liabilities": 1582628
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=767",
+    "retrieved": "2026-08-27"
+  }
+}

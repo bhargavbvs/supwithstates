@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-62-binnakandi",
+  "constituency": {
+    "number": 62,
+    "name": "Binnakandi",
+    "district": "Hojai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohammed Badruddin Ajmal",
+    "election": "2026",
+    "elected_party": "All India United Democratic Front",
+    "current_party": "All India United Democratic Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed Fazil Examination, 1975 from Darul Uloom Deoband, U.P."
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 986628488,
+      "immovable": 1735611232,
+      "total": 2263100580,
+      "liabilities": 4512915
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=654",
+    "retrieved": "2026-08-27"
+  }
+}

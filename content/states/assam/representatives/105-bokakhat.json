@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-105-bokakhat",
+  "constituency": {
+    "number": 105,
+    "name": "Bokakhat",
+    "district": "Golaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Atul Bora",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Public Servant",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. in Political Science, LLB from Gauhati University, Guwahati."
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 29154896,
+      "immovable": 39645000,
+      "total": 68799900,
+      "liabilities": 1988330
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=245",
+    "retrieved": "2026-08-27"
+  }
+}

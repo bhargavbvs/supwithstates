@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-11-mankachar",
+  "constituency": {
+    "number": 11,
+    "name": "Mankachar",
+    "district": "South Salmara Mancachar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mohibur Rohman (Bappy)",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Science (Engineering) in Computer Science from Regional Insititue of Technology Jamshedpur, Jharkhand, Year-2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3366002,
+      "immovable": 3015000,
+      "total": 6331002,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=439",
+    "retrieved": "2026-08-27"
+  }
+}

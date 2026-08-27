@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-41-manas",
+  "constituency": {
+    "number": 41,
+    "name": "Manas",
+    "district": "Baksa",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Thaneswar Basumatary",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "HS Pass from Kakrajhar College, Kokrajhar, Year 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4343887,
+      "immovable": 27413000,
+      "total": 31594417,
+      "liabilities": 2539497
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=127",
+    "retrieved": "2026-08-27"
+  }
+}

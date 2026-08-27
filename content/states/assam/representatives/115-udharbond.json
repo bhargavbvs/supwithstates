@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-115-udharbond",
+  "constituency": {
+    "number": 115,
+    "name": "Udharbond",
+    "district": "Cachar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rajdeep Goala",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 42,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce Delhi College of Arts and Commerce Delhi University in 2006, Post Graduate Diploma in Economics & Finance Nottingham Business School, Nottingham Trent University United Kingdom in 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 49485325,
+      "immovable": 30000000,
+      "total": 79485325,
+      "liabilities": 16228980
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=204",
+    "retrieved": "2026-08-27"
+  }
+}

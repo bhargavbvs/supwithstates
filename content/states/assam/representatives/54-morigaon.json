@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-54-morigaon",
+  "constituency": {
+    "number": 54,
+    "name": "Morigaon",
+    "district": "Marigaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rama Kanta Dewri",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": "Member of Legislative Assembly of Assam",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "HSLC From Mikirbheta High School in Year 1983"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 9942070,
+      "immovable": 25100000,
+      "total": 35042070,
+      "liabilities": 2700759
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=65",
+    "retrieved": "2026-08-27"
+  }
+}

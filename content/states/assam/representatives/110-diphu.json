@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-110-diphu",
+  "constituency": {
+    "number": 110,
+    "name": "Diphu",
+    "district": "Karbi Anglong",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Niso Terangpi",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Sc passed in 2004 from Diphu Govt. College under Assam University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4089313,
+      "immovable": 684000,
+      "total": 10899314,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=306",
+    "retrieved": "2026-08-27"
+  }
+}

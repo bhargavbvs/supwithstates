@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-79-sissibargaon",
+  "constituency": {
+    "number": 79,
+    "name": "Sissibargaon",
+    "district": "Dhemaji",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jiban Gogoi",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Social Worker and Cultivation",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Passed H.S. from AHSEC in 1995 from Gogamukh College, Dhemaji"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 279744,
+      "immovable": 1800000,
+      "total": 2069744,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=615",
+    "retrieved": "2026-08-27"
+  }
+}

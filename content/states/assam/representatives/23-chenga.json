@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-23-chenga",
+  "constituency": {
+    "number": 23,
+    "name": "Chenga",
+    "district": "Barpeta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abdur Rahim Ahmed",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 43,
+    "profession": "Member of Assam Legislative Assembly Dispur Guwahati",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from B.H. College, Howly under Guwahati University in the year 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7155532,
+      "immovable": 1700000,
+      "total": 8855535,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=701",
+    "retrieved": "2026-08-27"
+  }
+}

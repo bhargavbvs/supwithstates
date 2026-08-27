@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-10-bilasipara",
+  "constituency": {
+    "number": 10,
+    "name": "Bilasipara",
+    "district": "Dhubri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jibesh Roy",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 41,
+    "profession": "Chief Executive Member of Kamatapur Autonomous Council.",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from Fakiragram College in the year, 2007 under Gauhati University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5913644,
+      "immovable": 7000000,
+      "total": 9056644,
+      "liabilities": 860380
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=233",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-14-goalpara-east",
+  "constituency": {
+    "number": 14,
+    "name": "Goalpara East",
+    "district": "Goalpara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Abul Kalam Rasheed Alam",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Business and Existing MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Goalpara College Under Guwahati University in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28122631,
+      "immovable": 22250000,
+      "total": 58501458,
+      "liabilities": 12266765
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=524",
+    "retrieved": "2026-08-27"
+  }
+}

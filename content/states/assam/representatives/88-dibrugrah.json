@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-88-dibrugrah",
+  "constituency": {
+    "number": 88,
+    "name": "Dibrugrah",
+    "district": "Dibrugarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Prasanta Phukan",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 71,
+    "profession": "Member of Legislative Assembly of Assam",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Leaving Certificate Exam Passed from Bagmibar Nilmoni Phukan School in 1972"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 30902486,
+      "immovable": 31670000,
+      "total": 62572493,
+      "liabilities": 7513829
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=26",
+    "retrieved": "2026-08-27"
+  }
+}

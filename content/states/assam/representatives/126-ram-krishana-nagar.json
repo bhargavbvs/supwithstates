@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-126-ram-krishana-nagar",
+  "constituency": {
+    "number": 126,
+    "name": "Ram Krishana Nagar",
+    "district": "Karimganj",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Bijoy Malakar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Salary",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "Praveshika Examination Passed (Equivalent HSLC ) From Jatindra Mohan Chatuspathi Under Assam Sanskrit Board 2015"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6382404,
+      "immovable": 19000000,
+      "total": 16382405,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=385",
+    "retrieved": "2026-08-27"
+  }
+}

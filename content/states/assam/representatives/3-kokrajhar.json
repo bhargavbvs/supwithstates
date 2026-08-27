@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-3-kokrajhar",
+  "constituency": {
+    "number": 3,
+    "name": "Kokrajhar",
+    "district": "Kokrajhar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Sewli Mohilary",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Business Women & Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Economics from University of Pune Maharashtra Year 2000"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 341849324,
+      "immovable": 290294410,
+      "total": 632088000,
+      "liabilities": 110634644
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=472",
+    "retrieved": "2026-08-27"
+  }
+}

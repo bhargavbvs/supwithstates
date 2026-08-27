@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-95-demow",
+  "constituency": {
+    "number": 95,
+    "name": "Demow",
+    "district": "Sibsagar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Susanta Borgohain",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts, City College, Dribrugarh-2004, Dibrugarh University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14110116,
+      "immovable": 47815000,
+      "total": 61925116,
+      "liabilities": 2587904
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=707",
+    "retrieved": "2026-08-27"
+  }
+}

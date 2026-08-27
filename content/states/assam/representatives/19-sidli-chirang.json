@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-19-sidli-chirang",
+  "constituency": {
+    "number": 19,
+    "name": "Sidli Chirang",
+    "district": "Chirang",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Paniram Brahma",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "MCLA of No.15 Kajalgaon (ST) BTC Consituency & Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed in The year 1996 from Gossaigaon College, Gossaigaon under Gauhati University of Assam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 18035043,
+      "immovable": 34500000,
+      "total": 52535048,
+      "liabilities": 7963668
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=91",
+    "retrieved": "2026-08-27"
+  }
+}

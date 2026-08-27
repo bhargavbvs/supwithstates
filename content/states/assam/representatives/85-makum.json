@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-85-makum",
+  "constituency": {
+    "number": 85,
+    "name": "Makum",
+    "district": "Tinsukia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sanjoy Kishan",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "High School Leaving Certificate from Senairam Higher Secondary and M.P. School, SEBA Board Assam in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6636577,
+      "immovable": 9000000,
+      "total": 15636578,
+      "liabilities": 66471291
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=123",
+    "retrieved": "2026-08-27"
+  }
+}

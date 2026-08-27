@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-82-doomdooma",
+  "constituency": {
+    "number": 82,
+    "name": "Doomdooma",
+    "district": "Tinsukia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Rupesh Gowala",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Member of Legislative Assembly, Farmer and Social Worker/Trade Unionist",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.Com from Dibrugarh University DoomDooma College in 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23441583,
+      "immovable": 830000,
+      "total": 24271585,
+      "liabilities": 1270700
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=713",
+    "retrieved": "2026-08-27"
+  }
+}

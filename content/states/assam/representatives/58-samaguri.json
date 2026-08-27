@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-58-samaguri",
+  "constituency": {
+    "number": 58,
+    "name": "Samaguri",
+    "district": "Nagaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Tanzil Hussain",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 27,
+    "profession": "Business, Student Leader, Social Worker, Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "AISSCE from Sai RNS Academy, Guwahati C.B.S.E. in 2018"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16106962,
+      "immovable": 29272000,
+      "total": 45378961,
+      "liabilities": 13672727
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=360",
+    "retrieved": "2026-08-27"
+  }
+}

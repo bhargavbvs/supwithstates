@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-91-tingkhong",
+  "constituency": {
+    "number": 91,
+    "name": "Tingkhong",
+    "district": "Dibrugarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bimal Borah",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Member Assam Legislative Assembly and Cabinet Minister, Govt of Assam",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from J.B. College, Jorhat, Dibrugarh University in 1996"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 27914414,
+      "immovable": 20309500,
+      "total": 48223916,
+      "liabilities": 5949232
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=126",
+    "retrieved": "2026-08-27"
+  }
+}

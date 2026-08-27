@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-112-amri",
+  "constituency": {
+    "number": 112,
+    "name": "Amri",
+    "district": "West Karbi Anglong",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Habbey Teron",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Senior Medical and Health Officer, Kheroni Model Hospital, West Karbi",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Medicine & Bachelor of Surgery (MBBS), from Assam Medical College, Dibrugarh in the Year 2008"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4472902,
+      "immovable": 19814314,
+      "total": 24287218,
+      "liabilities": 3429336
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=103",
+    "retrieved": "2026-08-27"
+  }
+}

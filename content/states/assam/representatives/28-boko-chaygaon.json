@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-28-boko-chaygaon",
+  "constituency": {
+    "number": 28,
+    "name": "Boko-Chaygaon",
+    "district": "Kamrup Rural",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Raju Mesh",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 47,
+    "profession": "Businessman",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts from Jawaharlal Nehru College, Boko under Gauhati University in 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 109403134,
+      "immovable": 185000000,
+      "total": 294403140,
+      "liabilities": 5267030
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=673",
+    "retrieved": "2026-08-27"
+  }
+}

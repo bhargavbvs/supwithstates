@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-2-dotma",
+  "constituency": {
+    "number": 2,
+    "name": "Dotma",
+    "district": "Kokrajhar",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rabiram Narzary",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "MLA, 29 Kokrajhar (ST) LAC cum MCLA of BTC and Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. From Kokrajhar College, Kokrajhar under Gauhati University, Year-1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7407032,
+      "immovable": 2000000,
+      "total": 9407032,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=316",
+    "retrieved": "2026-08-27"
+  }
+}

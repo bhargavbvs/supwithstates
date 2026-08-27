@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-49-sipajhar",
+  "constituency": {
+    "number": 49,
+    "name": "Sipajhar",
+    "district": "Darang",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Paramananda Rajbongshi",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 67,
+    "profession": "Retired Principal Pragjyotish College, Guwahati/(Ex. MLA Sipajhar Constituency)",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Ph.D Gauhati University in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13544974,
+      "immovable": 8055970,
+      "total": 21600944,
+      "liabilities": 271036
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=341",
+    "retrieved": "2026-08-27"
+  }
+}

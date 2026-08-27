@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-72-gohpur",
+  "constituency": {
+    "number": 72,
+    "name": "Gohpur",
+    "district": "Biswanath",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Utpal Borah",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor of Engineering from Jorhat Engineering, College Dibrugarh University in 1989"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 19031341,
+      "immovable": 37200000,
+      "total": 56231341,
+      "liabilities": 11623073
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=722",
+    "retrieved": "2026-08-27"
+  }
+}

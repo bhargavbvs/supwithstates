@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-71-behali",
+  "constituency": {
+    "number": 71,
+    "name": "Behali",
+    "district": "Biswanath",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Munindra Das",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Agriculture Income and Retail Trade Sale",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "HSLC From National Institution of Open Schooling in 2025"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 910481,
+      "immovable": 100000,
+      "total": 1010481,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=8",
+    "retrieved": "2026-08-27"
+  }
+}

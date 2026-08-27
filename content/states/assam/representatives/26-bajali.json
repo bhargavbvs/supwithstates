@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-26-bajali",
+  "constituency": {
+    "number": 26,
+    "name": "Bajali",
+    "district": "Bajali",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dharmeswar Roy",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 49,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor in Arts under Gauhati University from Bajali College in 2002"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 3229495,
+      "immovable": 1550000,
+      "total": 4779495,
+      "liabilities": 1772422
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=164",
+    "retrieved": "2026-08-27"
+  }
+}

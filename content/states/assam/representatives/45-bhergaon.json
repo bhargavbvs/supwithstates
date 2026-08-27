@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-45-bhergaon",
+  "constituency": {
+    "number": 45,
+    "name": "Bhergaon",
+    "district": "Udalguri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Maheswar Baro",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "H.S. Passed from Tangla College under Assam Higher Secondary Education Council in the year of 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 1659708,
+      "immovable": 14300000,
+      "total": 16859708,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=195",
+    "retrieved": "2026-08-27"
+  }
+}

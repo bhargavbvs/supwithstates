@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-53-laharighat",
+  "constituency": {
+    "number": 53,
+    "name": "Laharighat",
+    "district": "Marigaon",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr Asif Mohammad Nazar",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 37,
+    "profession": "Social Worker, Politican, Presently MLA, Assam and Doctor",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Post Graduation- Doctor of Medicine (MD) in Radiology from Vydehi Institute of Medical Science and Research Center in 2018, MMBS -Bachelor of Medicine, Bachelor of Surgery from Al-Ameen Medical College in 2014, Rajiv Gandhi University of Health Science"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 27439885,
+      "immovable": 143000000,
+      "total": 170439885,
+      "liabilities": 16982855
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=469",
+    "retrieved": "2026-08-27"
+  }
+}

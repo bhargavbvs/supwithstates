@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-84-digboi",
+  "constituency": {
+    "number": 84,
+    "name": "Digboi",
+    "district": "Tinsukia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Suren Phukan",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Politics",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "HSLC Pass From Soumer Vidyapith Digboi In 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21621457,
+      "immovable": 13850000,
+      "total": 35411546,
+      "liabilities": 10255941
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=712",
+    "retrieved": "2026-08-27"
+  }
+}

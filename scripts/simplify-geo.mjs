@@ -162,12 +162,19 @@ if (CONF.geoSource !== 'ap-ac' && CONF.geoSource !== 'undivided-andhra') {
   // 3,074. Filtering does not help — a filtered-out shape's arcs stay in
   // the dataset until it is written. So the join is written out first, and
   // the simplification reads that file back on its own.
+  // Most states are cut out of the national layer. A state whose election
+  // that layer predates names its own file instead — see `acFile` in
+  // scripts/lib/states.mjs for where each came from and what it lacks.
+  const acFile = CONF.acFile ?? '.geo-src/national-ac.geojson';
+  const acFilter = CONF.acFile
+    ? '+AC_NO > 0'
+    : `ST_NAME===${JSON.stringify(CONF.geoState)} && +AC_NO > 0`;
   const RAW = `${OUT}.constituencies.raw.geojson`;
   mapshaper([
-    '-i', '.geo-src/india-districts.geojson', '.geo-src/national-ac.geojson', 'combine-files',
+    '-i', '.geo-src/india-districts.geojson', acFile, 'combine-files',
     '-rename-layers', 'districts,ac',
     '-filter', 'target=districts', `state===${JSON.stringify(CONF.districtState)}`,
-    '-filter', 'target=ac', `ST_NAME===${JSON.stringify(CONF.geoState)} && +AC_NO > 0`,
+    '-filter', 'target=ac', acFilter,
     '-dissolve', 'target=ac', 'AC_NO', 'copy-fields=AC_NAME,PC_NO,PC_NAME',
     '-join', 'target=ac', 'source=districts', 'point-method', 'fields=district',
     '-filter-fields', 'target=ac', 'fields=AC_NO,AC_NAME,district,PC_NO,PC_NAME',

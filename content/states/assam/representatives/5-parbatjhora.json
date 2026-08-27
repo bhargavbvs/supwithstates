@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-5-parbatjhora",
+  "constituency": {
+    "number": 5,
+    "name": "Parbatjhora",
+    "district": "Kokrajhar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Md Ashraful Islam Sheikh",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 34,
+    "profession": "Legal Practitioner (Advocate), Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A. from Gauhati University in 2018, LLB from Dhubri Law College Dhubri, Assa in 2016, BA frppm P.B. College Gauripur, Dhubri, Assam in 2013 Gauhati University"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4824167,
+      "immovable": 0,
+      "total": 4824167,
+      "liabilities": 4417138
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=394",
+    "retrieved": "2026-08-27"
+  }
+}

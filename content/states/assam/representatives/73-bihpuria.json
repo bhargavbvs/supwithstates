@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-73-bihpuria",
+  "constituency": {
+    "number": 73,
+    "name": "Bihpuria",
+    "district": "Lakhimpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhupen Kumar Borah",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Politics (Ex M.L.A.-109, Bihpuria L.A.C)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Political Science from Dibrugarh University, Dibrugarh in the year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 21336872,
+      "immovable": 131800000,
+      "total": 112636872,
+      "liabilities": 647859
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=201",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-31-rangia",
+  "constituency": {
+    "number": 31,
+    "name": "Rangia",
+    "district": "Kamrup Rural",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bhabesh Kalita",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Member of Legislative Assembly, No. 31 Rangia Legislative Assembly Constituency",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from University law College, Guwahati University in the year 2001 under Guwahati University. & B.Sc. from Pragjyotish College in the year 1994 under Guwahati University"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 13449234,
+      "immovable": 10700000,
+      "total": 22977131,
+      "liabilities": 3695339
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=81",
+    "retrieved": "2026-08-27"
+  }
+}

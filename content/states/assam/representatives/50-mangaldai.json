@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-50-mangaldai",
+  "constituency": {
+    "number": 50,
+    "name": "Mangaldai",
+    "district": "Darang",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Nilima Devi",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Social worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from K.K. Handique State open university 2013"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2192509,
+      "immovable": 20400000,
+      "total": 22592509,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=447",
+    "retrieved": "2026-08-27"
+  }
+}

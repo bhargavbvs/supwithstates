@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-102-titabor",
+  "constituency": {
+    "number": 102,
+    "name": "Titabor",
+    "district": "Jorhat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dhiraj Gowala",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 44,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "12th Pass From Mariani College AHSEC In 2004"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 6473562,
+      "immovable": 2050000,
+      "total": 8523562,
+      "liabilities": 3150000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=799",
+    "retrieved": "2026-08-27"
+  }
+}

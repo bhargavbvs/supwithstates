@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-38-barkhetri",
+  "constituency": {
+    "number": 38,
+    "name": "Barkhetri",
+    "district": "Nalbari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Narayan Deka",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 58,
+    "profession": "Chairman Guwahati Metropolitan Authority Guwahati -5",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Examination, Arya Vidyapeeth College, Guwahati in the year 1988"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 73337214,
+      "immovable": 154259169,
+      "total": 227590612,
+      "liabilities": 76879291
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=680",
+    "retrieved": "2026-08-27"
+  }
+}

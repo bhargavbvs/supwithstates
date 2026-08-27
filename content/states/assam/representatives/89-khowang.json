@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-89-khowang",
+  "constituency": {
+    "number": 89,
+    "name": "Khowang",
+    "district": "Dibrugarh",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chakradhar Gogoi",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Member of Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Moran College under Dibrugarh University in 1993"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 16791241,
+      "immovable": 23950000,
+      "total": 40611541,
+      "liabilities": 2518277
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=476",
+    "retrieved": "2026-08-27"
+  }
+}

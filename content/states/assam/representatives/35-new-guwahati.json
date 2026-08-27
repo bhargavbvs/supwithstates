@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-35-new-guwahati",
+  "constituency": {
+    "number": 35,
+    "name": "New Guwahati",
+    "district": "Kamrup Metro",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Diplu Ranjan Sarmah",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 50,
+    "profession": "Political Activity",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Commerce from Nowgong College, Nagaon, Assam, Guwahati University in 1997"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 14355625,
+      "immovable": 15400000,
+      "total": 29755627,
+      "liabilities": 7502375
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=416",
+    "retrieved": "2026-08-27"
+  }
+}

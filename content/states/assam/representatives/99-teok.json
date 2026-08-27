@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-99-teok",
+  "constituency": {
+    "number": 99,
+    "name": "Teok",
+    "district": "Jorhat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bikash Saikia",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A From J.B College Johrat Under Krishan Kanta Handiqui State Open university In 2017"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 4014085,
+      "immovable": 6375000,
+      "total": 11789085,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=782",
+    "retrieved": "2026-08-27"
+  }
+}

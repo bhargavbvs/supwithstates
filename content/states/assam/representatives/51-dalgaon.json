@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-51-dalgaon",
+  "constituency": {
+    "number": 51,
+    "name": "Dalgaon",
+    "district": "Darang",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mazibur Rahman",
+    "election": "2026",
+    "elected_party": "All India United Democratic Front",
+    "current_party": "All India United Democratic Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 51,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "LLB from Mangaldai Law College, G.U. in 2001"
+    },
+    "declared_cases": {
+      "total": 2,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 31500417,
+      "immovable": 60639036,
+      "total": 92439453,
+      "liabilities": 14078072
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=621",
+    "retrieved": "2026-08-27"
+  }
+}

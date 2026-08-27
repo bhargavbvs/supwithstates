@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-12-jaleshwar",
+  "constituency": {
+    "number": 12,
+    "name": "Jaleshwar",
+    "district": "Goalpara",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Aftab Uddin Mollah",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts from Gauhati University in 1990"
+    },
+    "declared_cases": {
+      "total": 1,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7065766,
+      "immovable": 46100000,
+      "total": 53165769,
+      "liabilities": 1279414
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=665",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-37-jalukbari",
+  "constituency": {
+    "number": 37,
+    "name": "Jalukbari",
+    "district": "Kamrup Metro",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Himanta Biswa Sarma",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Chief Minister Assam",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "Doctor Of Philosophy (Ph.D) From Guwahati University In 2006, M.A. (Political Science) From Cotton College GU, In 1994, LLB From Guwahati University In 1995"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 159389353,
+      "immovable": 192500000,
+      "total": 351605765,
+      "liabilities": 168682932
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=46",
+    "retrieved": "2026-08-27"
+  }
+}

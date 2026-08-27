@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-68-rangapara",
+  "constituency": {
+    "number": 68,
+    "name": "Rangapara",
+    "district": "Sonitpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Krishna Kamal Tanti",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 45,
+    "profession": "Social Worker and Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "3 Year LLB (General Course) in University of Gauhati in 2014"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5167900,
+      "immovable": 6200000,
+      "total": 11367900,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=80",
+    "retrieved": "2026-08-27"
+  }
+}

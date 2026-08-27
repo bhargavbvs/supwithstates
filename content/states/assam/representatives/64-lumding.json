@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-64-lumding",
+  "constituency": {
+    "number": 64,
+    "name": "Lumding",
+    "district": "Hojai",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sibu Misra",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "10th Pass",
+      "detail": "H.S.L.C. pass from National High School, Lumding in 1985 under SEBA"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 8008214,
+      "immovable": 3000000,
+      "total": 12214259,
+      "liabilities": 2990885
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=746",
+    "retrieved": "2026-08-27"
+  }
+}

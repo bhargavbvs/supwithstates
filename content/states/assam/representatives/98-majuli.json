@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-98-majuli",
+  "constituency": {
+    "number": 98,
+    "name": "Majuli",
+    "district": "Majuli",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Bhuban Gam",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Social Worker",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Examination passed in the year 1994 from Kekuri College, under Assam Higher Secondary Education Counci al(AHSEC), Assam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 35087683,
+      "immovable": 59243200,
+      "total": 94330889,
+      "liabilities": 67627550
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=58",
+    "retrieved": "2026-08-27"
+  }
+}

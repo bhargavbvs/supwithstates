@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-118-silchar",
+  "constituency": {
+    "number": 118,
+    "name": "Silchar",
+    "district": "Cachar",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Dr. Rajdeep Roy",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 55,
+    "profession": "Orthopedic Surgeon (Profession)",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "MCH(UK) from Nine Wells Medical School Dundee University UK Year 2008, M.S. (Ortho) from AMC Dibrugarh University, Year 2003 , MBBS from S.M.C. Silchar Guwahati University Year 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 50383677,
+      "immovable": 16000000,
+      "total": 66010428,
+      "liabilities": 7526282
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=346",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-47-mazbat",
+  "constituency": {
+    "number": 47,
+    "name": "Mazbat",
+    "district": "Udalguri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Charan Boro",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 46,
+    "profession": "Politician, Business",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Arts in Mathematics from the Gauhati Unviersity, Dist. Kamrup(M) in 2003"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 29503888,
+      "immovable": 32326655,
+      "total": 61830543,
+      "liabilities": 43702921
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=64",
+    "retrieved": "2026-08-27"
+  }
+}

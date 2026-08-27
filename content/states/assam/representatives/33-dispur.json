@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-33-dispur",
+  "constituency": {
+    "number": 33,
+    "name": "Dispur",
+    "district": "Kamrup Metro",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Pradyut Bordoloi",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Ex-MP",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master Degree from The School of Social Sciences jawaharlal Nehru University New Delhi in 1980-81, Post Graduate Diploma in Management (Marketing) from Indian Institute of Marketing New Delhi in 1982-83"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 28292854,
+      "immovable": 54219350,
+      "total": 82512210,
+      "liabilities": 599774
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=310",
+    "retrieved": "2026-08-27"
+  }
+}

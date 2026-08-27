@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-48-tangla",
+  "constituency": {
+    "number": 48,
+    "name": "Tangla",
+    "district": "Udalguri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bikan Chandra Deka",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 62,
+    "profession": null,
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "B.E. (Ag) Degree from Rajasthan Agriculture University, Bikaner in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 5006140,
+      "immovable": 7000000,
+      "total": 12006140,
+      "liabilities": 969886
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=780",
+    "retrieved": "2026-08-27"
+  }
+}

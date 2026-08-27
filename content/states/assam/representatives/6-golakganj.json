@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-6-golakganj",
+  "constituency": {
+    "number": 6,
+    "name": "Golakganj",
+    "district": "Dhubri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ashwini Ray Sarkar",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Pension from Assam Legislative Assembly",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "Master of Science From Gauhati University, Assam In 1999"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 65660239,
+      "immovable": 49038000,
+      "total": 106541699,
+      "liabilities": 47000939
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=132",
+    "retrieved": "2026-08-27"
+  }
+}

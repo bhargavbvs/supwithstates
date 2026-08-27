@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-66-barchalla",
+  "constituency": {
+    "number": 66,
+    "name": "Barchalla",
+    "district": "Sonitpur",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Ritu Baran Sarmah",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 57,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Others",
+      "detail": "Three (3) Years Diploma in Civil Engineering from Assam Engineering Institute, Guwahati in the year 1991"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 7367830,
+      "immovable": 27900000,
+      "total": 45167830,
+      "liabilities": 2548535
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=105",
+    "retrieved": "2026-08-27"
+  }
+}

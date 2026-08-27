@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-52-jagiroad",
+  "constituency": {
+    "number": 52,
+    "name": "Jagiroad",
+    "district": "Marigaon",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Pijush Hazarika",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 48,
+    "profession": "Social Service",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A From Arya Vidyapeeth College Year 1998"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 75054882,
+      "immovable": 99052591,
+      "total": 174107474,
+      "liabilities": 39812302
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=45",
+    "retrieved": "2026-08-27"
+  }
+}

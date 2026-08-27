@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-24-barpeta",
+  "constituency": {
+    "number": 24,
+    "name": "Barpeta",
+    "district": "Barpeta",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Dipak Kumar Das",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 61,
+    "profession": "Advocate",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Bachelor Laws from Gauhati University Passed in the year 1992-93"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 17723035,
+      "immovable": 41717264,
+      "total": 60556573,
+      "liabilities": 2094690
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=685",
+    "retrieved": "2026-08-27"
+  }
+}

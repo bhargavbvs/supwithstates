@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-78-dhemaji",
+  "constituency": {
+    "number": 78,
+    "name": "Dhemaji",
+    "district": "Dhemaji",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Dr. Ranoj Pegu",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 64,
+    "profession": "Social Worker and Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate Professional",
+      "detail": "Passed MBBS in 1987 from Gauhati Medical College, Gauhati University, Assam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 23531787,
+      "immovable": 8600000,
+      "total": 32131787,
+      "liabilities": 30721
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=272",
+    "retrieved": "2026-08-27"
+  }
+}

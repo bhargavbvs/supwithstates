@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-104-dergaon",
+  "constituency": {
+    "number": 104,
+    "name": "Dergaon",
+    "district": "Golaghat",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Mridul Kumar Dutta",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 65,
+    "profession": "Retired Professor",
+    "photo": null,
+    "education": {
+      "level": "Doctorate",
+      "detail": "2006- Doctor Of Philosophy (PhD) from Dibrugarh University, Assam"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 2139211,
+      "immovable": 11700000,
+      "total": 13839211,
+      "liabilities": 1100000
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=144",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-40-tihu",
+  "constituency": {
+    "number": 40,
+    "name": "Tihu",
+    "district": "Nalbari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Chandramohan Patowary",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Social Worker, Politician , Cabinet Minister, Assam",
+    "photo": null,
+    "education": {
+      "level": "Post Graduate",
+      "detail": "M.A Pass From Guwahati University In 1982"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 44843834,
+      "immovable": 39713636,
+      "total": 84557470,
+      "liabilities": 23087984
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=787",
+    "retrieved": "2026-08-27"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-46-udalguri",
+  "constituency": {
+    "number": 46,
+    "name": "Udalguri",
+    "district": "Udalguri",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Rihon Daimari",
+    "election": "2026",
+    "elected_party": "Bodoland Peoples Front",
+    "current_party": "Bodoland Peoples Front",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 66,
+    "profession": "Politician",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A from N.E.H.U. In 1986"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 88259098,
+      "immovable": 9206103,
+      "total": 97465206,
+      "liabilities": 19501106
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=99",
+    "retrieved": "2026-08-27"
+  }
+}

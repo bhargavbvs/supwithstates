@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-9-birsing-jarua",
+  "constituency": {
+    "number": 9,
+    "name": "Birsing Jarua",
+    "district": "Dhubri",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Wazed Ali Choudhury",
+    "election": "2026",
+    "elected_party": "INC",
+    "current_party": "INC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 63,
+    "profession": "Social Worker, Business, Member of Legislative Assembly, (Assam)",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. from Ratnapith College Chapar, Gauhati University in 1987"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 54124701,
+      "immovable": 111847000,
+      "total": 141455644,
+      "liabilities": 43980088
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=134",
+    "retrieved": "2026-08-27"
+  }
+}

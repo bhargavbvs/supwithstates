@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-77-dhakuakhana",
+  "constituency": {
+    "number": 77,
+    "name": "Dhakuakhana",
+    "district": "Lakhimpur",
+    "reserved": "ST"
+  },
+  "representative": {
+    "name": "Shri Naba Kumar Doley",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary Pass From Arya Vidyapeeth College under Assam Higher Secondary Education Council, Guwahati Assam, Year-1990"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 90003514,
+      "immovable": 244194350,
+      "total": 334197867,
+      "liabilities": 81643277
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=269",
+    "retrieved": "2026-08-27"
+  }
+}

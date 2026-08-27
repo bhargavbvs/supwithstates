@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-36-guwahati-central",
+  "constituency": {
+    "number": 36,
+    "name": "Guwahati Central",
+    "district": "Kamrup Metro",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Vijay Kumar Gupta",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 70,
+    "profession": "Business",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Science from University of Gorakhpur in 1974"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 68908820,
+      "immovable": 12500000,
+      "total": 81093573,
+      "liabilities": 5378177
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=552",
+    "retrieved": "2026-08-27"
+  }
+}

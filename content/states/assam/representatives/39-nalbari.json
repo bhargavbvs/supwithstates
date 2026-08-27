@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-39-nalbari",
+  "constituency": {
+    "number": 39,
+    "name": "Nalbari",
+    "district": "Nalbari",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Jayanta Malla Baruah",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 54,
+    "profession": "Political/Social Activities/Cabinet Minister, Assam",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. Passed from B. Barooah College (Gauhati University) in 1994"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45225217,
+      "immovable": 155000000,
+      "total": 200225218,
+      "liabilities": 101402486
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=669",
+    "retrieved": "2026-08-27"
+  }
+}

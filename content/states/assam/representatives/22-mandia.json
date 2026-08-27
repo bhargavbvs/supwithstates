@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-22-mandia",
+  "constituency": {
+    "number": 22,
+    "name": "Mandia",
+    "district": "Barpeta",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Sherman Ali Ahmed",
+    "election": "2026",
+    "elected_party": "AITC",
+    "current_party": "AITC",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 59,
+    "profession": "Retired Govt. Employee & Ex MLA",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "B.A. In 1989 From Nabajyoti College, Kalgachia (Under Gauhati University) & Eastem Forest Rangers College (Under Indian Council of Forestry Research & Education)"
+    },
+    "declared_cases": {
+      "total": 4,
+      "serious": null,
+      "serious_declared": true,
+      "convicted": 0,
+      "note": "ADR lists this member among those declaring a case it counts as serious. The number of such cases is not published per member."
+    },
+    "assets": {
+      "movable": 35221656,
+      "immovable": 36985000,
+      "total": 72206659,
+      "liabilities": 14306950
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=452",
+    "retrieved": "2026-08-27"
+  }
+}

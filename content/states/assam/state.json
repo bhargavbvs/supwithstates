@@ -1,0 +1,25 @@
+{
+  "slug": "assam",
+  "name": "Assam",
+  "domain": "ssupwithstates.com",
+  "assembly_size": 126,
+  "district_count": 35,
+  "term": {
+    "start": "2026"
+  },
+  "sources": {
+    "myneta": "https://www.myneta.info/Assam2026/",
+    "adr_serious_list": "https://www.myneta.info/Assam2026/index.php?action=summary&subAction=serious_crime&sort=candidate",
+    "lok_sabha": "https://www.myneta.info/LokSabha2024/"
+  },
+  "contact": {
+    "corrections": "corrections@ssupwithstates.com"
+  },
+  "map": {
+    "center": [
+      92.86,
+      26.06
+    ],
+    "zoom": 6
+  }
+}

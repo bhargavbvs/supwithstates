@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-30-hajo-sualkuchi",
+  "constituency": {
+    "number": 30,
+    "name": "Hajo-Sualkuchi",
+    "district": "Kamrup Rural",
+    "reserved": "SC"
+  },
+  "representative": {
+    "name": "Prakash Chandra Das",
+    "election": "2026",
+    "elected_party": "Asom Gana Parishad",
+    "current_party": "Asom Gana Parishad",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 52,
+    "profession": "Businessman cum Social Worker",
+    "photo": null,
+    "education": {
+      "level": "Graduate",
+      "detail": "Bachelor of Arts (B.A.) from Rabindranath Tagore University, Madhya Pradesh passed in the year 2020."
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 216181,
+      "immovable": 4600000,
+      "total": 4816181,
+      "liabilities": 0
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=727",
+    "retrieved": "2026-08-27"
+  }
+}

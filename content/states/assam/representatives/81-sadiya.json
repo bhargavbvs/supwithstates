@@ -1,0 +1,41 @@
+{
+  "id": "as-ac-81-sadiya",
+  "constituency": {
+    "number": 81,
+    "name": "Sadiya",
+    "district": "Tinsukia",
+    "reserved": null
+  },
+  "representative": {
+    "name": "Bolin Chetia",
+    "election": "2026",
+    "elected_party": "BJP",
+    "current_party": "BJP",
+    "party_changed": null,
+    "term_start": "2026-12",
+    "age_at_election": 56,
+    "profession": "Business, Social Work",
+    "photo": null,
+    "education": {
+      "level": "12th Pass",
+      "detail": "Higher Secondary from Assam Higher Secondary Education Council Passed in 1988"
+    },
+    "declared_cases": {
+      "total": 0,
+      "serious": null,
+      "serious_declared": false,
+      "convicted": 0,
+      "note": null
+    },
+    "assets": {
+      "movable": 45301911,
+      "immovable": 35020550,
+      "total": 80322466,
+      "liabilities": 32856990
+    }
+  },
+  "source": {
+    "myneta_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=83",
+    "retrieved": "2026-08-27"
+  }
+}
