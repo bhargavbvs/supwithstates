@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 34,
     "profession": "Politician/Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/1100619c9fd5525765f631a456c07a7f5d26ae8e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6863"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from North Eastern Hills University Shillong College in 2009"

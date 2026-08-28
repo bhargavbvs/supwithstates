@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Business(Proprietor. NEXT SHOPPEE. Akola) & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a2e5f2feda15af03053ea1cbbcb9728beadb7aec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=379"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E Production From College of Engineering And Tech. Akola Sant Gadge Baba Amravati University in Year 1995"

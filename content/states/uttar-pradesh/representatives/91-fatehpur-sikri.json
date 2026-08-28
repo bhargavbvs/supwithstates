@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 69,
     "profession": "Pension, Agriculture & Potato Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/33bb671a3f5ab37b3984fde3340ba9c3f7887b71.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School from R.C.S. College Agra, Year-1969"

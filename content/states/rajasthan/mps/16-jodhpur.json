@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 56,
     "profession": "Minister",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/04ec34fb153c004100157434aafbfc433c78a8a5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1843"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA Jodhpur Jai Narayan Vyas University Year 1989"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Ex- MLA of the state of Meghalaya",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/34a902964bb08b32c42fa3fdc6b9b2d2543a1a1d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6767"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Passed P.U. Arts under NEHU through Tura Govt. College in 1991"

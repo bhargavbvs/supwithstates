@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Politician (Ex. MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/ada2486be00246a53b56c8231bcd78ac3e74b30c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=66"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th from Mehjoor Memorial Govt. Boys Higher Sec. School Pulwama, JKBOSE In 1981"

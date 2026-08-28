@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "MDC",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/8ef8265b58e578ce359c3a20fa5a8eb65a844761.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7093"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "P.U Com. Year 1980 NEHU"

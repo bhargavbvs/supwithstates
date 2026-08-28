@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Agriculture And Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/394903791b880494aaa004816ce67250f3483d67.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=77"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Yashwantrao Chavhan College Sillod Chhatrapati Sambhajinagar (Aurangabad) Marathwada University In The Year 1984"

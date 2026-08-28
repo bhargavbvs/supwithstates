@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 76,
     "profession": "Political Work - Member of Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d6717977982cf566c52f06794d7542888414371a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=204"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC From K.Subramania Chettiar High School, Tiruppur 1965"

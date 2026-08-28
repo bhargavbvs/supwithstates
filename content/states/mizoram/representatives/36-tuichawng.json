@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/1115d2f07876968d52b649f13d28f8abbb143ce9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=83"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Lunglei Government College Under North Eastern Hills University 1989"

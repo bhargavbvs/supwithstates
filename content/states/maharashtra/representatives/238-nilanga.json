@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Agriculture, Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a6b128e5843845dea1a11fb3752f8c6a92e50b07.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1117"
+    },
     "education": {
       "level": "Others",
       "detail": "S.P.L. (Flytech Aviation Academy) from D.G.C.A. Hyderabad in 1999"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a9afbcc7997f2936b91f989f9b234134ae8cbe91.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=809"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering from Padmashri Dr. Vitthalrao Vikhe Patil College, Pravaranagar, Dist. Ahmednagar in 1987- 88"

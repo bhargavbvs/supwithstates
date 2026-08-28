@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 50,
     "profession": "Private Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/2311787be07b8bbe1db556313ddcad40f539dae1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=44"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc From Govt College of Arts,Science & Commerce Sanquelim Goa in 1995 Goa University Goa"

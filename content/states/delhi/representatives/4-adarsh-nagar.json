@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 59,
     "profession": "Commission Agent dealing in perishable Fruits and agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/170ba7508ea3191fdbc3742ccab418cf20dd7e84.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=63"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Com (Dropped after II Year) from SGBT Khalsa Delhi University in 1985, 12th in 1982"

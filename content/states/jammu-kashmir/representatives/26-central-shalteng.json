@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/7aba746318ecbecb552f153fe5588315456d31f1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=526"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law from University of Kashmir 1979-1980"

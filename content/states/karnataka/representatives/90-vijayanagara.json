@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Social Service/ Worker & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/2c4982b31f1a4ca2784adc870af69a800bc69a0b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7385"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "1st PUC 1980-81, Vijayanagara Pre-University College Hospet"

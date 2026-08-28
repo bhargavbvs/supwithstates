@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 36,
     "profession": "Busines/ Social Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/01072af5fa76988b72b5167c3e9fa68eeaad2499.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=403"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Guwahati Commerce College (Gauhati University), in the Year of 2011"

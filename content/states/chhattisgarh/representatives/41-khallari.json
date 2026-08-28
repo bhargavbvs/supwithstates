@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/88c04bdc490945eec62e0013ec00c48af0c33240.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=449"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Paseed"

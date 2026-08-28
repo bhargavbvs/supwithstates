@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/2b912ab1666bb04b0f9a8d21ac491791d1164d2d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6837"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSSLC Passed in 1995 from Dispur College, Assem Higher Secondary Education Council Guwahati-781021"

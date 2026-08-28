@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Salary, Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/12b55575d20c962e77ad22649f5ea6295335f47e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=91"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com in 1986 & LLB in 1984 From Hemvati Nandan Bahuguna University Srinagar Garhwal"

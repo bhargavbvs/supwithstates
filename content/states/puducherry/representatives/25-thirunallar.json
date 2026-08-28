@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Business/Tire Company Business, Petrol Station, Liquor Store, Liquor Factory",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/b8098a64e7f5b2569f1d8642d857e1eac50ffacb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=113"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc."

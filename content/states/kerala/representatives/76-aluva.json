@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/d7d244e17f6446cd811845d5b88a831c1e3e5bad.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=24"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary School Leaving Certificate, Failed SNDP High School, Aluva, 1993"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=24",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 64,
     "profession": "Acting, Director of a Company",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/d5fb26fda41c95d23108ccbe3ed94770dd2960cf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1887"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate of Arts in Comparative Literature from Jadavpur University in 1986"

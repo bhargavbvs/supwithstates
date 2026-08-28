@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 73,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/b61887e6432058f6c39e3f4839a32fb90d1ae579.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=223"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "P.hd in 2008, M.A. in 2002 from Baraktullah University Bhopal"

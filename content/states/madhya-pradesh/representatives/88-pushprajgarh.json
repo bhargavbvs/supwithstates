@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Agriculture, Salary & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/9426015e9f419b5f01b60703f664e1ebacfdb8c8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=764"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Shambhunath Shukla Govt. College Shahdol, Year-2007 & LLB From Law College Shahdol, Awadh Pratap Singh University, Rewa, M.P. Year-2007"

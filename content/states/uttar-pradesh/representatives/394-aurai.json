@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Social Worker and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7388a80f5722035f4775b59796f3305e1d31794a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4346"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (P.G.) History and Sociology from Mahatma Gandhi Kashi Vidhyapith Varanasi in 1986"

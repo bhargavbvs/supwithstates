@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Social Worker and Retired Govt. Servant Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/b2986f5d0d4e2e3b2123e5403e42730bc14b2ce2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=109"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering From Board of Technical Education Delhi Year 1992"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/faaaf53b8b6c7730c0f528690a85d1008eff7d96.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1791"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Nesswadia College of Commerce, Pune University Maharashtra in the Year 2010"

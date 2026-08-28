@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Social Service, Farmer & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/1244db18e3b6b3283c2f52c053ca3f9ff2071ec1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=283"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.B.A. from University of Western Ontario (Canada) in 1983"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 39,
     "profession": "Agriculture and Milk Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9bc20f4d92c95eff1fd084e0702899e5f56f3a4d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1098"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S. (I.S.) From College of Engineering North Eastern University Boston America, Year-2012"

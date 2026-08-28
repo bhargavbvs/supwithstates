@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/78ff3600438d36556dfee96c3b4b949230e1a4ed.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3558"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Allahabad University 1999, LLB Lucknow University in 2004"

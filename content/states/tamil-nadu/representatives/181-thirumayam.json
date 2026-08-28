@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 75,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/26eec89e5b189ad62e0d19a2b95a561d6024abd9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1260"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.L From College of Law Chennai 1973. B.Sc. From Majesty College Pudukkottai Chennai University 1969"

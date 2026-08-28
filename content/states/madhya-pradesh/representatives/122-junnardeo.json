@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "MLA from Junnardeo, Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/6b0f6ee8b8d9f49d01ee234019714d5f7dad3300.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1437"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Madhya Pradesh Open University in 2011"

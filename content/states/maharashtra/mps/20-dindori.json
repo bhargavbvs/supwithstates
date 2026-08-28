@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 53,
     "profession": "Job",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/5c03d953c5d0eecffef009a8f606ef1eb3df0b26.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7089"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M A From KTHM College Nashik Pune University In The Year 1995, B A From K K Wagh College Pimpalgaon Pune University In The Year April 1993"

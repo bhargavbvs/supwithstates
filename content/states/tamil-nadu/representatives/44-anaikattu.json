@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Partner(50%) in AVS Blue Metal & Srinivasa Blue Metals",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/007cb709cdf0e254118b90ee1a7cb509fde3eab5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=842"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th STD-Pass, (11th STD-Discontinued) 1984-1985, G.H.S.School, Odugathur"

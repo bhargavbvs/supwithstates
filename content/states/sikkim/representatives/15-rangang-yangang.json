@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/d74883bda028bc30e20a8a0407c813f9b07e36b1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=84"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From North Bengal in the Year 2003"

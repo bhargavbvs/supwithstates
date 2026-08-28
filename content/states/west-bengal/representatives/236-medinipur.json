@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 42,
     "profession": "High School Teacher (Govt. Service)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/b204b2fcb5afaf024340b11911048be73e0b7b46.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1370"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "M.Sc. from Vidyasagar University then Ph.D. from Vidyasagar University"

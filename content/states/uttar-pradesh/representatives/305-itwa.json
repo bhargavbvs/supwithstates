@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 80,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0e9dcdd0f3d703631662824eef302a5d3185063a.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3941"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA From Gorakhpur University In 1965 & BA From Gorakhpur University in 1963"

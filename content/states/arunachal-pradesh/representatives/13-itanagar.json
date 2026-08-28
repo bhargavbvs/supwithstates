@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/9c75deddb7c65bcef572041d03d1b25dd4222a72.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=34"
+    },
     "education": {
       "level": "Illiterate",
       "detail": "Uneducated"

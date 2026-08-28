@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Primary School Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/70caa40df16f83b19236e2e4921acff0af0af0b9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2825"
+    },
     "education": {
       "level": "Others",
       "detail": "Junior Diploma in Engineering and Technical Education (Equivalent to the Higher Secondary School Certificate (10+1) under the Old Regulations Previously Awarded by The West Bengal Board of Secondary Education) (Satish Chandra Silpa Vidyalaya) in 1988"

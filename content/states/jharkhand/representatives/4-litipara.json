@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/d4eceaf78a518bc6bdadf638c0a9bd797eda38b3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=976"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation From SP College Dumka B.U. Year 1975 & Intermediate From SP College Dumka BU Year 1973"

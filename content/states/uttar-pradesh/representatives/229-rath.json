@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": "MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e2ebc602e8a507d63acf3f52ee475d7ed59368fb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1674"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. From Bundelkhand University, Jhansi, in 2010, High School From G.G.I.C Lalitpur in 2003"

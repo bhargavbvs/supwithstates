@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 70,
     "profession": "Proprietor, Dr. Arun Kumar Day Care Center Bareilly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/64eafec9b65ddd84dffccd9aa9f736c7c611ed12.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=827"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B. Sc, MBBS from Lucknow"

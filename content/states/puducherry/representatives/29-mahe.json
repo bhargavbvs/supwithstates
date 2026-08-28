@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/db1ef2d8c9c259d87cd8f293ae7911d0fd952673.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=99"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Legum Baccalaureus (LLB) From Valkuntabalika College of Law, Mangalore University, 1991"

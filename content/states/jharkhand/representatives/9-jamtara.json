@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Minister In Jharkhand Govt.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/2f2fee3adf0df5ddf37993ec9c8db94cb74baab1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=872"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MD Physician Lugansk University Ukraine Year 2000"

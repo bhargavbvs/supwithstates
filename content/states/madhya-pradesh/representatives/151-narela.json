@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Farm Income, Bank Interest, MLA Salary Allowances and Room Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/87ec11b91ffeb79cfcc05695639bc80203cdce09.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=354"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. Year 1993 Manohar Bhai Institute of Engineering and Technology College Gondiya Nagpur University of Nagpur, 1993"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 36,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/435bc94c37a8d5a3fd963b54360645bbea434131.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2246"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Bundelkhand University Jhansi UP In 2008"

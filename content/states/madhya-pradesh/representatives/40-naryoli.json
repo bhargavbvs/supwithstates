@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Engineer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/3e0155b368d5c45bb07e37f632d2f157cf2989fe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=358"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering from Government Polytechnic, Damoh in 1991"

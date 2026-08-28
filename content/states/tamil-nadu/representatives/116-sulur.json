@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/0cb4503666766f8da1169dc9de5aa2df67a257f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=882"
+    },
     "education": {
       "level": "Others",
       "detail": "ITI, Sri Subbaiah Industrial Training Centre, Coimbatore in 1988"

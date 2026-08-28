@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 39,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3d9ffebff9e4357f8c9cc46c7bf6040d6be8bd2d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7846"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from M.J.K.College Bettiah Pargana Champaran Year 2005 Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur Bihar"

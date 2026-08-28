@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "House Wife, Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/90261fc7ac2204942128361d6abdd2d090fbf97d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=40"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc from Jiwaji University MP (K.R.G. College Gwalior In 1986"

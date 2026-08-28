@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/63ff89cdc72511d65bbe163457ebf37da7e5a5da.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1128"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th From Karmvir Bhavrao Patil School in year 1992"

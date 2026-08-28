@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 52,
     "profession": "Agriculture& Members of the Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/a75f9d0d938ddc7debdb6003551cebb70a69c53a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=835"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. (Political Science) Deptt. of Pol..Sc, from LNMU, Darbhanga Year 2022, M.A. in 2017"

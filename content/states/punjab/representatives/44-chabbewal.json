@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 31,
     "profession": "Student (MD-Radio Diagnosis)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/punjab2022/523dee27af9a8bc392b5db8f2326943205935e0c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1343"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS from Dayanand Medical College & Hospital Ludhiana, Baba Farid University of Health Science in 2015"

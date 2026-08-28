@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/34eba40795760d6f34b1c3185c3c601284d712c6.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=30"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "B.Sc From Bomway University in 1987,PG Diploma in Computer Application Goa University in 1989"

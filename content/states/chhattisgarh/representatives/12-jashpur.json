@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "NA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/a4e90ab89833509126e4ce561867178263e2b6ff.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=445"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Govt. N.E.S. College Jashpur Year 2001"

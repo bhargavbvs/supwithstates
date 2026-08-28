@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 54,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/91be1f7a176372c4c68cb218db4d5ff251f4f5aa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=122"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed From UP Education Board Allahabad in 1984"

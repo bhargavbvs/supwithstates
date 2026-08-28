@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 34,
     "profession": "Business (Logistics)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/ca0e32f057bd90435a68587159bda89b48a77b36.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5124"
+    },
     "education": {
       "level": "Graduate",
       "detail": "PGDHRM From KSKV, Bhuj Year 2010 & B.Com From KSKV, Bhuj Year 2009"

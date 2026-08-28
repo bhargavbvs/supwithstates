@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": "Builder and Land Developer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/eb638e8996165515450836b96d02167a960165a4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=298"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B. Sri Venkateswara College of Law Tirupathi 2014, BBA University of Madras May 2007"

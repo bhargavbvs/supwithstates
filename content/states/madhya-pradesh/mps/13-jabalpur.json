@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/452f50d238a73ee5a15795940105b5f0ce1cf763.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=240"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor Of Law and Legislature From (N.E.S Vidhi Mahavidhalya/ Rani Durgavati University Jablapur) Jabalpur 2001-02"

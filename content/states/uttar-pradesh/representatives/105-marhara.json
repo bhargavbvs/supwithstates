@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Agriculture and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0913ece1e3c9a98b4fac3b322f7c2c11ac775342.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2015"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. in 1995 from J.L.N.P.G. College Etah, Dr. B.R.A.U., Agra"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/48faebfead8969bd430d0927909536baadf18499.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=455"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. Ist Year from Dr. C.V. Raman Univeristy Bilaspur in 2023"

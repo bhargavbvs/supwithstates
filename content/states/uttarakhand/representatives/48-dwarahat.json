@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/e5cb683b55f82d317091680dec9087fd642235bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=35"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Delhi University in 1991-92, B.Com from Delhi University in 1983-84"

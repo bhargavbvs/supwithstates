@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "MLA & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/rajasthan2023/f7bd364ebca1dd3916e242aa8a2e7cc4a9a7f95c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=87"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. Studying in 2023 from Suresh Gyan Vihar University, Jaipur"

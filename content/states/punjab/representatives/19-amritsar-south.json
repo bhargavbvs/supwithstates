@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Inderbir_Singh_Nijjar.jpg",
+      "credit": "Guglani",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70277535"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.D. (Radio Diagnostics) from Medical College, Amritsar, Guru Nanak Dev University Amritsar in Dec. 1988"

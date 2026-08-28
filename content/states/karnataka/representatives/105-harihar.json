@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Agriculture and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/647d8e9fecfe39b0b8bc573c9a61757643ede869.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7799"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A- M.S.B.College Davangere -1981"

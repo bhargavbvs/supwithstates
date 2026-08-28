@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 68,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/87bb56a1862516c3a1847667e3c23516a7419a2d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=479"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School Pass"

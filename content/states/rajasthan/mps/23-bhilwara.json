@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Business, Rent & Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b2cc5a3d21916939d1ce6e88acb906d5d8f1b918.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2743"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Year 1980, B.Com. Year 1977 From University of Rajasthan Jaipur"

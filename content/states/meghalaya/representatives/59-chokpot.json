@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 38,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/3e26f6023390a7ddd5cb682fd5ae46a334765686.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6820"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts Passed in 2013 from North Eastern Hill University (NEHU) Shillong"

@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 31,
     "profession": "Business and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b238d04b9d4ee027471e10844416092b2083a852.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3633"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor or Engineering from Rajiv Gandhi Proudyogiki Vishwa Vidyalaya Bhopal, in the year of 2014"

@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Honorarium and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/e085ad94100726a41ae9e37e1cadb7dceec28db3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7275"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D From Lalit Narayan Mithila University Darbhanga Bihar, Year-2006"

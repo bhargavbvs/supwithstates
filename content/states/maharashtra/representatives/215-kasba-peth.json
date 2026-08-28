@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6e7c9789adf10da852357524282b027411b7d522.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1088"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Maharashtra State Board of Secondary and Higher Secondary Education, Pune Maharashtra. Year 1988"

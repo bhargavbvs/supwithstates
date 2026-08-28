@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/91bb1b4d0361ff4c9ac01870f78082cf512d1895.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=223"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B From Kerala Law Academy Year 2001, Degree From MAR Ivanios College Year 1998"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=223",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

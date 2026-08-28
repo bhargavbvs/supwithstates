@@ -77,7 +77,12 @@
     "term_start": "2024-06",
     "age_at_election": 61,
     "profession": "Politician, Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/bb39102b5f6a83a578edc7f72a2f87020525d878.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=356"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law from Mokokchung Law College, North Eastern Hill University 1993"

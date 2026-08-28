@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 69,
     "profession": "Agriculture & MLA Wages",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7f4ff5613fb624656d7a0fdef63a36c644a32552.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=872"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter mediate from MAI College Muradabad, UP Board Allahabad in 1979"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/01ab878b17fe69495fbcc091ae10dde55069068d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2045"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Rashtrasant Tukdoji Maharaj Nagpur University in Yr 1976"

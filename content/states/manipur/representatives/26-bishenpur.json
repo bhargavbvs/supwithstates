@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Social Worker & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Govindas_Konthoujam.jpg",
+      "credit": "Shresthsachan",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=68377369"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Manipur University, Manipur in 1985 from CI College Bishnupur"

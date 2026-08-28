@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Business & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/0b99d3e6a3028b8095e3ae2c4ee7e57a0b6fb087.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=978"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Mechanical Engineering - 2018, Baji Rout Institute of Engineering & Technology, Talbarkote, Odisha, Bhubaneswar, Passed I.T.I. in Fitter trade Exam. in the year, 2001 from C.V. Raman Institute of Technology, Bhubaneswar, HSC Exam Year 1995"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Ex-MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/a65c609023f83b5a32be07cb9c3d60eb65ae99ff.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=907"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduation in Political Science from IGNOU in the year 2011"

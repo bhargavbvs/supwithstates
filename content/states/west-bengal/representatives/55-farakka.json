@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/6176494dd995880f7f0718e5140954ea94f716b1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1014"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Passed From Tildanga High School in the year l983"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "MCLA of No.15 Kajalgaon (ST) BTC Consituency & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/795cb83067493a0942d536ff5b68398adde740ba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=91"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Passed in The year 1996 from Gossaigaon College, Gossaigaon under Gauhati University of Assam"

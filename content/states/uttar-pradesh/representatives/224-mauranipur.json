@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "MLA Pension, Business (Yuvraj Gas Service)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/90e2fa3218ea617ff957ff96e7efbbc4985d7bdc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1716"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "P.Hd, Year 2009 Bundelkhand University, Jhansi, M.A. Yaer 2002 Jiwaji University Gwalior"

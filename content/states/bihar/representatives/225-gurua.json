@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 61,
     "profession": "Social Service and Ex MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/06682b68115a1484f1d069045244626e6df08ffa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2227"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "P.hd. Philosophy from Magadh University Bodhgaya in 2002 and P.G. Diploma Hindi Journalism"

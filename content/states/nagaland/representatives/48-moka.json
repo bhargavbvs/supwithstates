@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/334707368c494b778a08b23fbe751b10d1bb7a11.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6896"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Matric Appeared From Govt. High School Year 1979"

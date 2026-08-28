@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "Agriculture & Horse Breeding",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/8d06f3c0734d6b6fdee2eff97caf02f051fa26bf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=431"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Law from Delhi University Delhi in 1977, B.A 1974"

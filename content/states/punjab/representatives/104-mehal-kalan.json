@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/104-Mehal_Kalan.svg",
+      "credit": "Own work based on User:Furfur",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=51112174"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Lovely University Jalandhar in 2017"

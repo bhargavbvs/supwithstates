@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Private Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/7b820e1dabae3717d824a6b91dd599cca3b47831.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=333"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. English (Hons) from Netaji Subhas Open University (Haldia Govt. College) in 2010, D.EI.Ed. from West Bengal Board of Primary Education in 2011"

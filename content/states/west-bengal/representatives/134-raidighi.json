@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 65,
     "profession": "Fees From Tuition",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/ea1515cb6d4512b1ff7a47f1dadb61c68c8ef803.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2328"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Bengali from University of Calcutta in the year 1993"

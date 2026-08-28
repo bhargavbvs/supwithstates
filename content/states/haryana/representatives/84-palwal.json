@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 36,
     "profession": "Salary & Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/ec423878569bfc8f90da63c5c9b3aa34cd80d3fd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=99"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A., Mass Comunication In 2012 Guru Jambheshwar University of science & Technology HISA"

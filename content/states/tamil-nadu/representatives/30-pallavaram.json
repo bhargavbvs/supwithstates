@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Business including real estate, supermarket, restaurant and cinema production.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/a45962ac10e59d8558ecc1af2a6f2e6ae8bcd7b3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=302"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary School – Avvai Home TVR Girls Higher Secondary School - Completed at 1998."

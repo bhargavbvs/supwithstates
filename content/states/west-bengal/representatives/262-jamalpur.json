@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/1b9596ded5b4861b1d884e0b149d2ab3652064f5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2013"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Calcutta University in 1991"

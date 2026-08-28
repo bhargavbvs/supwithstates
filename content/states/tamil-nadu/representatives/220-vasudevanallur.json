@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "Lawyer, MLA, Agriculture., President- Tamil Nadu State Weightlifting Association",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/0f086f222af235d925431e7afc9874f53972167a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=3971"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "HSC - ICI Boys Higher Secondary School -2003 B.Com., - Sriparamagalyan College, Alwarkurichi-2007 B.L., Central Law College Salem 2010 M.A., Periyar University Salem (Distance Education) 2010"

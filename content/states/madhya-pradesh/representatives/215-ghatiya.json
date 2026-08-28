@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/d11a21f5f85e00cd4d99463c78d10f7a485b8d49.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=693"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. , Year 2010 Madhya Pradesh Bhoj University Bhopal"

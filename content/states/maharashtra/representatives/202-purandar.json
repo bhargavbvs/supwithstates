@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 65,
     "profession": "Agriculture, Dairy Business, Construction And Fish Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/fad0194fb4a686c2b8d27190baab23c314b76a00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=644"
+    },
     "education": {
       "level": "Others",
       "detail": "DME (5 Semester) From Bhagubai Mafatlal Polytechnical Mumbai In The Year 1981, DMD From Father Agnel College Bandra West In The Year 1977, SSC From Karmveer Bhaurao Patil Vidyalay Parinche Purandar Pune In The Year 1975"

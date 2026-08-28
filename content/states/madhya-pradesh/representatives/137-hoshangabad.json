@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 73,
     "profession": "Agriculture and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/add30ad423baa3406a22e97185d784d615349b9a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=710"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.B.B.S Gandhi Medical College , Bhopal University 1972, LLB from Govt. Narmada College Narmadapuram, Dr. Harisingh Gour University in 1985"

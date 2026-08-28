@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Salary and Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6ac433cdffc6f90bfc23b09dd4371f0f9f299279.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2229"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. History from Dr Harisinghgour university 1989, LLB from Bhagalpur university 1994"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 66,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/4af0d36150f47ff978f9259669644da9da100fec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=205"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M A ( History ) Rajasthan Univerrsity Year 1982"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Retired Government Employee",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/nagaland2023/5ef28355af60a1d070faddd0ba4d6ce14e503104.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6924"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Political Science) North Easter Hill University (NEHU), Shillong In 1984"

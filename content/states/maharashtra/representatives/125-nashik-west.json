@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f36cefca70780d0325ab2cf2db07b4d61f1a5f13.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1035"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from B.Y.K. College Nashik, Pune University in 1990"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/d3bddea00a9e6759960a0d3a494891d0efe4b397.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=389"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Bachelor of Arts, Part-II (General) Examination 2003, Gour Mahavidyalaya under University of North Bengal"

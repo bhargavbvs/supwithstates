@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Doctor (Medical)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/476af67933e1fc4936891b160de5aa2843231ec8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=140"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS, Gauhati Medical College in 2010"

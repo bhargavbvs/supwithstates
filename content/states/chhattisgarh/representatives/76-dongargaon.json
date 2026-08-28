@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/2913bd2674494d1a32df6b22055cdd7ec891c49f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=43"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary sarvodya Nagar Palika School Rajnandgaon, Diploma in Music 1990 Indira sangeet University Khairagarh"

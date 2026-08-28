@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/b84e44f0e406fda0e557a622ac646d5067182fff.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=330"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc from Gurughasi das university in 1997"

@@ -16,7 +16,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Political Advisor & Consultant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/48f7d7026eac8bf294deb5bb0e483fcce912fdbd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2966"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Healthcare Management (MHA) Administartive Staff from College of India (ASCI), Hyderabad SHMPD in Collaboration with John Hopkins Uiversity, USA & Hinduja Hospital in 2001-2003, BBA from Department of Business Studies, University of Lucknow, UP"

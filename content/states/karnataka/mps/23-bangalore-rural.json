@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 67,
     "profession": "Cardiologist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/db7e5485fc36039d0f7a21f87c6061429c1108e9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2597"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Doctor of Madicine in Cardiology(DM) (Cardioloy) from Kasturba Medical College of Mangalore in the year 1988"

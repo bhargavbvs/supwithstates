@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e09c35965bf492c2d86ebf536030b8d0d104185c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=341"
+    },
     "education": {
       "level": "Others",
       "detail": "Higher Secondary Education in Kola Union High School (H.S.) in 2001 and Diploma in GEMS & Jewellery form Sindhar Institute of Gemology in 2003"

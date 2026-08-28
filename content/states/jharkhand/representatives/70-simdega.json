@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Agriculture, Business and Former MLA Simdega Vidhan Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/d1860f54d03a77750e43ce7bf3970e2d907e584c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=375"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA (History) From St. Xavier College, Ranchi, Ranchi University Year 1998"

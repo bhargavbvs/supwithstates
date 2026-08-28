@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 33,
     "profession": "Agricultural and allied activities",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/1ae35beeb00c18f11425acd109228f2e2ed7bba8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=257"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BE Civil Engineering from Jai Narain College of Technology & Science, Bhopal, RGPV University in the year 2013"

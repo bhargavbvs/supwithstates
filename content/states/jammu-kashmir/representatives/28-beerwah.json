@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/58b2b74642508d3c6e883d38ffcc1d852604557c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=441"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS from Medical College Srinagar in 1979"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 30,
     "profession": "Social Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sukla_Charan_Noatia_on_the_dias_delivering_a_speech.jpg",
+      "credit": "Khorang",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=73268557"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed from CBSE In 2008"

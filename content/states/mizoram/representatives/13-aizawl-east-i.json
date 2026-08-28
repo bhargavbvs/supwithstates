@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/e536bf34ab04df6cf8f009dccd358939974d182a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=23"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Bachelor of Arts (II Year) in the year 1988, Govt. College Chandigarh, Punjab University"

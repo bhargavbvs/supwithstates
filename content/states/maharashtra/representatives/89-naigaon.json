@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Farmer, Business & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a9b8150258730b3fe770cbe96a421bfd84da8b94.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1008"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E.(Mech.) From MIT, Pune University, Year-1996"

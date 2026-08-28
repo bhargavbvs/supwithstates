@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Social Worker and Farming/Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/780c5274207d4e957fcd1e5821842a05250a4cdc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=730"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Passed from Gauhati University, Assam in 1995, B.A. in 1993 from Cotton College under Gauhati University Assam"

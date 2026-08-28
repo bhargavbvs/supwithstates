@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7df05bd71a876bd179e9b9284dbf18e90149ebea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=939"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from Manav Bharti University Solan (Himachal Pradesh) in 2012"

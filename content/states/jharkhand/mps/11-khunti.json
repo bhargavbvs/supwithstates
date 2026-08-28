@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Cultivation, Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/15859dbeaae761374eae0a13ab78c7417397f038.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5153"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter From Ranchi University Ranchi In 1982"

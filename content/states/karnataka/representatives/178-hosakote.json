@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Social Service and Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/026f5311ecdf395c333cb36bb58dd322d7a96b77.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7331"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MS, USA 2005-06"

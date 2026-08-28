@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 28,
     "profession": "Social Worker / Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/bf4f23cbd123e2c786c0496e1c10aeb1b87d68b1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=226"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech (Civil) from Gopal Krushna College of Engineering and Technology, Jeypore BPUT, Odisha"

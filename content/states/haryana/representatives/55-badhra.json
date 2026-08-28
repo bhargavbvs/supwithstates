@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Ex. Serviceman from Indian Navy, Business and Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/501a882e401caec5f1b3473c635c530f2eb35dfc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=116"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation Pass from Govt. Boys Sr.Sec School Laxmi Nagar Delhi, CBSE in 1988"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Proprietor of Indian LPG Gas agency Service , Ayarkunnam",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/a8aa9a38826b249cf90beac041ded7ea1a3bccab.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=703"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB Degree ( Bachelor of law ) Government Law college Thiruvananthapuram , Kerala University 1987-92"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=703",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

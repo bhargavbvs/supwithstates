@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 61,
     "profession": "Social Service & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/a9a287c03b8f6676ca4536ce43b2cbba6f70a350.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3567"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts Kadasiddeshwar Arts College Hubli affiliated to the Karnataka University Dharwad 1983"

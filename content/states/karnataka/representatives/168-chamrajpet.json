@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Business & Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/596ed729c0049bd9ad339f35c6d6ddd341f5193d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7812"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "SSLC Discontinued at Siddhartha High School Kunigal, Tumkur Dist In 1982-83"

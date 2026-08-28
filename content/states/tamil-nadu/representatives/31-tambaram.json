@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 34,
     "profession": "Civil Contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/f64f007d68539cb4e8f211b6abdd167c84f67be1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=503"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.B.A.. M.M .Jain College, Meenambakkam - 2012"

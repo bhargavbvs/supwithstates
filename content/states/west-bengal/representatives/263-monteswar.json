@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 34,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e421ec8ad3918b23c3dd1621c9bb8069fc669b4b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2506"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com (The University of Burdwan in the year 2014)"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 35,
     "profession": "Business, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/e3a79c842b236623fdb173ed9f7776eff314ffaf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=449"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from DAV College Sector 10, Chandigarh in the year 2009, Punjab University Chandigarh"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/5411af938e3f844017d793ec066fc71ba2f090e4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5290"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. from Gujarat University Ahmedabad in 1987, BA from RR Lalan College Bhuj in 1986"

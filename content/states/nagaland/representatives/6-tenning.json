@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Social Worker & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/53a341736003c36df97f9b76fbae875c43e8b6ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6938"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A from B.N.V. Degree College, Bundelkhand University Jhansi in 1991"

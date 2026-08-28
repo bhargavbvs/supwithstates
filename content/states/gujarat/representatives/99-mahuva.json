@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/PM_Modi_2015.jpg",
+      "credit": "Narendra Modi",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://en.wikipedia.org/?curid=37203762"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass from Shah M.N. High School In 1973"

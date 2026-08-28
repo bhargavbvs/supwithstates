@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 72,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3d9a8e7b566b46e8ba626d896029e962104a99c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1118"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Sc, (Did not pass) Sri Vasavi College, Erode (Chennai University, Year 1976)"

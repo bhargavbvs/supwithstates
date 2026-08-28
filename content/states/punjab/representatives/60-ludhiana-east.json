@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Daljit.singh.grewal.interview.2022.jpg",
+      "credit": "Kunwarveer Singh",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70293364"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from Khalsa National Higher Secondary School, Ludhiana in March 1984"

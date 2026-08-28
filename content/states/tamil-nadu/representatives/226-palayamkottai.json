@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/4ba53eec14c48e3c2fb1f35d001a5be84a01a53e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1135"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com - Sadakathullah Appa College Rahmath Nagar Tirunelveli - 627011 (1985-1986),HSC - Kamarajar Higher Secondary School Pettai, SSLC - Govt Higher Secondary School Kongarayakurichi"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Builder and Developer, Film Producer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/12319e9457e6928aa91cf6acf6dded2a108f9c1e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7587"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "PUC , Government Boys Pre University College, Srinivaspura in 2001"

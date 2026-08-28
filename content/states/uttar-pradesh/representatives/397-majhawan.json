@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Agriculture & Business (Doctor)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/9ab0bbb98784c0860e1e428581933ac7d9a4d43d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4775"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S from Dr. Bhimrao Ambedkar University, Agra & M.B.B.S from Allahabad University"

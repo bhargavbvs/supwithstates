@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 65,
     "profession": "Agriculture And Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/c5df9659e9866bdd4471ed7e0021e3867f040733.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=771"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "10th Fail From SSC Board Pune Anand Vidhyaniketan High School Vimannagar In The Year March 1976"

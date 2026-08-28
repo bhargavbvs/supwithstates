@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Advocate and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/519e7f52bd4fde130e65eebcc9b896b4b141f909.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=822"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B.From JSS Law College Mysore, Karnataka, B.Sc. From Sri Ramakrishna Mission Arts and Science College, Coimbatore."

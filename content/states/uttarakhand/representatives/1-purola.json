@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 36,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/257d1b469abea0f7b2857b39387dd41da44b46ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=389"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter From Kendriya Secondary Education Board in 2003"

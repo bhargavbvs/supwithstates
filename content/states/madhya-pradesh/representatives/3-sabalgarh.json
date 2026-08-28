@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Homemaker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/5ec9c0230c396c60fc0a589cd1971e53a0819238.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=767"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Kasturba Gandhi Sanskrit Girls Higher Secondry School Dist.Sabalgarh Muraina M.P"

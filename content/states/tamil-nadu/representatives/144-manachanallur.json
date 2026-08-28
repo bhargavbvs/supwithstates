@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/aa524d7f898ce330332508eae49b6c196583e638.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=89"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering -PSNA Engineering College - Dindigul (Anna University) - Year 1999. HSC - Bishop Heber Higher Secondary School - Trichy - Year 1992."

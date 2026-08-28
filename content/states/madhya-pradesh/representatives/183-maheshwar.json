@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Business, Rent, Salary (Pension) & Othe Source",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/19be25f39c180a9e4b9ced8220c4a26870f21af9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=10"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary (10+2) from M.Shi. M.M.P. Bhopal, New City in 1993"

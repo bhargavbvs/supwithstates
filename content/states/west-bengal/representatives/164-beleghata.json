@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/9fc731d57d3abceda78aa6e9d33795084d08f0f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1680"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Media Management from Indian Institute of Skill Development Training in 2026, Diploma in Tourism Studies- Alison in 2025, Diploma in Public Relations in 2025, BA from Sikkim Mapipal University"

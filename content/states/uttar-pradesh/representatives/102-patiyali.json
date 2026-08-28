@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 65,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/3da408ca40e04c644c9aaa44065a3487e2d8fb28.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1929"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from A.M.Y./Jamia Urdu Aligarh In 1975, UP Secondary Education Council Allahabad"

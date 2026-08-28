@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Business in Various Firms & Companies & Assembly Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e96d3989e73cda5fc8a9a94b7448c0830239f2ce.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1819"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from KK Degree College University, Lucknow i 1978, BA from VSSD Kanpur University in 1975"

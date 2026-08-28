@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a3b44610ab68e1f980dc85266a0ae3454b69a30b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3059"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A., Birla College, Kalyan University - 1993"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Agriculture, Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f4b8d3dfdc487c5178b398db41378a2adf8d7e0c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1001"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. (First Year) 2015 from Yashwant Rao Chavan Maharashtra Open University Nashik"

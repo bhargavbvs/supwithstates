@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/7b43397826f13267014a4530467951aaed51f265.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2929"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass from Mathura Prasad School Chhindwara, Year-1988-89"

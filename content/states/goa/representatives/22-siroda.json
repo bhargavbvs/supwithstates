@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 70,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/9609e9ba73660e9a8a982440f832a7df22a58b89.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=5"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter Arts {1971} Smt.Parvatibai Chowgula Collage,Margo Salcete-Goa.Teaching Diploma, Lingraj Collage Belgaum"

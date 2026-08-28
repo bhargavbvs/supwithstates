@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Agriculture Other Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/d238cb5f3b98cc2aa52b56db124bd7b6d7874893.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=209"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School in 1974 From Janta Inter College Rudrapur ,Inter in 1976 Govt Inter College Nainital"

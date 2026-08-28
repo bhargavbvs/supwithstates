@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Politics & Social Services",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/db59b95b981c187690917dedda499d51b62566df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=770"
+    },
     "education": {
       "level": "Graduate",
       "detail": "+3 Arts from KBDAV College, Nirakarpur Khordha, Utkal University in 1992"

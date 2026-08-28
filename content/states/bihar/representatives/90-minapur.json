@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 51,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/f84c4fbe5412f4457d930d93121b3b221b228dc5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=735"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate Science In 1995 From Sant Vinova F.B.R.R.K. College Purvi Champaran, Bihar Intermediate Examination Board Patna"

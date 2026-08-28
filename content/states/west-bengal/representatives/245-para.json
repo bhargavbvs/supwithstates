@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Assistant Teacher of Poradih Primary School",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/22adf86c11791bf2dadf959220ba750cb4123954.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=340"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Pass from Dubra High (H.S.) School West Bengal Council of Higher Secondary Education in 1998"

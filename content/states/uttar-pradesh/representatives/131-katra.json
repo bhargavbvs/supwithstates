@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 35,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/ec7835e69d45ea161281c579a0611fd2f4513cbd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=861"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A . Year 2015, LL.B. Year 2013 Mahatma Jyotiba Phule Rohilkhand University Bareilly"

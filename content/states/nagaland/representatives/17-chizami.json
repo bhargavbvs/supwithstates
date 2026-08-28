@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/126033354beb822cdfe8e19af9c27bf76c05cfb1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6783"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "PU Arts North Eastern Hill university 1982"

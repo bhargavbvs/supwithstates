@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/06cfed90baf916be15eb51555d64b2ca18afd790.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=145"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass NIOS 2010"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": "Advisor and Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/14a27d812be7f3bfeea4906314fb3622e7d39b66.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=204"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Chanakya Law College Rudrapur, Kumaon University, Nainital in 2014"

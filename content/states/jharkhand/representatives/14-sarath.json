@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Ex MLA, Farmer (Agriculture)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/c77ce35e3f88a01f51a57f96fc32b4f9796d83de.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=924"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Passed Higher Secondary School from JCB School, Jamtara Year 1971"

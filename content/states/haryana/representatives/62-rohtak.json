@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 72,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/e17acb733b081a99e55e23db9bc64c6a74945f3c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=195"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law (LLB) from Campus Law Centre, Delhi University in 1977"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/efd00de0df76657a089c38c1aafa98b5da86e9d2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4126"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "PG From M.L.K.P.G College Balrampur, Dr Ram Manohar Lohia University Faizabad UP in 2005"

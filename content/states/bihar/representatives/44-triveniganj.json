@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 27,
     "profession": "District Council Member",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/f48a91d1fba540151857a8d93aa98f2e666c4032.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1839"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from B.N.M.U Mdhepura Year 2025"

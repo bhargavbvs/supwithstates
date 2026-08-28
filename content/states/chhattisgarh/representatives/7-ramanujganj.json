@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Agriculture Rent, Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/feba9e4126f8eccf3fa797712da35a2628e78e1a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=516"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Higher Secondary (11th) Year 1980"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 36,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/cceccf2c577e7b21bb664c805ff0150225d51f12.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=61"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Masters in International Relations (Peace & Conflict Studies) From Islamic University of Science and Technology Awantipora JK in 2013"

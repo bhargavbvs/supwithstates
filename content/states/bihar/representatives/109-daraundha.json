@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 50,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/2b4fc6af1888c5d06248c0f110a115b907abb101.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=662"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Govt. Inter College, Allahabad, U.P. in 1991"

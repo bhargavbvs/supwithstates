@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Agriculture & Engaged in Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Birajit_Sinha_portrait.jpg",
+      "credit": "Birajit Sinha",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=41114254"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Examination form West Bengal Board of Secondary Education In 1975"

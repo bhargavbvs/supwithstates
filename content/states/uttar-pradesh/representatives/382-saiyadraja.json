@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/305a66d23fcc865261c4fb715ed2899890bf40de.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4490"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Sitaram Singh Ramanand Singh Smarak College, Samenda Azamgarh UP in 2019"

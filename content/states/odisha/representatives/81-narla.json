@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Social Service & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/ae0abc6724dc28f86425857897fcf06c5ac55674.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=236"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary Examination from Bihar Board of Open Schooling & Examination Patna in the year 2021"

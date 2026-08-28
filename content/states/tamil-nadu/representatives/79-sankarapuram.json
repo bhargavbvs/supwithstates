@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": "Self-Employed , Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/90576f4da65562c0c54127ac1cf3d3aa7bbaeed6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1235"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A B.L(Incomplete) In 2011 From Central Law College Salem University, Dr Ambedkar Law University Chennai"

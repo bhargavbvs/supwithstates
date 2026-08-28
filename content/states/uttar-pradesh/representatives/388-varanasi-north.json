@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Rent & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/04a8300f54e253bffcba0d1fc03d65fc54386afa.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4380"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com. In Year 1995 & LL.B In Year 1993 From Harish Chandra PG College Varanasi"

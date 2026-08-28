@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Member of Legislative Assembly Maharashtra and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/7ad3a81d32ae13740e8bd7c86c6e536007953b1f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=213"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Mechanical) in 2005 from Yashvantrav Chavhan College of Engineering College Nagpur, RTM Nagpur University, Nagpur"

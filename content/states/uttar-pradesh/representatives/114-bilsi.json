@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/85e8446aff46fa464799b9c09e27d5a6c1ef2685.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=901"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (Political science) from Rohilkhand University, Bareilly in 2002"

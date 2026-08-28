@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 73,
     "profession": "Hotel Business/Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/0a65d61f70a2070058ceea7afe1e83ccfa6750d0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1117"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from TRS College Reva MP Avdesh Pratap Singh University in 1972"

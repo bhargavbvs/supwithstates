@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Loan given & Interest received from bank and Dividends and salary from shares",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/2b77e6b0aa1df00adae824863a903b9173a6c0df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=410"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (Hindi) from Mets University Chhattisgarh in 2018"

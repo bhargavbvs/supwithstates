@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/673335ca9ca7ebc9ce06ddf4f637ab0dd0ad4763.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1714"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B. Year 1991 , B.Com. Year 1988 , BKD College Bundelkhand University, Jhansi"

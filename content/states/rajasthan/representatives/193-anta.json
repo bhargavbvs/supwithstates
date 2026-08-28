@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Political, Social Worker, Pension, Rent, Agriculture, Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/cbd641b9f97f3989c360bac8c99d913e92ce3a8b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1964"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary form Secondary Education Board, Madhya Pradesh Bhopal in 1981"

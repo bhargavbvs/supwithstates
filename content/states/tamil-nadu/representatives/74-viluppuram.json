@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Doctor Ex MP (2014-2020), MLA (2021-2026)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/99a995d59e3fb808fb17f4496e4b3db621727f1d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=744"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "D.Ortho Annamalai University 2004, M.B.B.S Annamalai University 1998, Higher Secondary Sacred Heart Anglo Indian Higher Secondary School Villupuram 1990"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 31,
     "profession": "Real Estate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/a5c7f89fd5114a121d93b8db67d6c98601ad66db.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1326"
+    },
     "education": {
       "level": "Others",
       "detail": "DCE - SA. Rajas Polytechnic College, Vadakkangulam, Tirunelveli District in 2016, SSLC - KVS Higher Secondary School, Virudhunagar Year 2009."

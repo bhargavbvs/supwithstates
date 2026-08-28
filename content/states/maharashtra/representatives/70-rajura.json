@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Labor Contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/bc19b0f19e25734b36734ac8e42a5d5e239c0a6d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=661"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA Politics, Sardar Patel College, Chandrapur , Nagpur Tilak Maharashtra University, Pune 2016"

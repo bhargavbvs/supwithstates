@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/4a6190e1234e7df94ea3467625327c4a3a319819.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2678"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering, (B.E) form Regional Engineering College, under Bharathi Dasas University, Tiruchirapalli Tamilnadu in 2003"

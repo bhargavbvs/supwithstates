@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Agriculture and Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6c5c97146e7676057f5ea4e112855f8ea6280af4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5236"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Madapati Hanumanthu Rao Grils High School Narayanaguda, Hyderabad up to Secondary School Certificate (SSC) Year 1973-74, RBVR Womens Collage Narayanaguda Hyderabad"

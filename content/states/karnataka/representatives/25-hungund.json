@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Agriculture, Business and social work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/0f34b61a523ca18010b159e030ca144fe407094c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7344"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "2nd PUC From SJ Independent Pre University College Hitnalli Tanda dist. Bijapura 1992"

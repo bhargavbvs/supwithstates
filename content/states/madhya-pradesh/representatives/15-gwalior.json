@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Business And Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/38a41243fc469de2fb3d58d45bbf0211c7f53c5a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=702"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th from Bhusan Higher Sec. School, Kashi Gwalior in 1994"

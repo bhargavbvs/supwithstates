@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Agriculture & Business, MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/10a4d79b0528f9ed477cdccfc671468f01332dba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7670"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering (BE-Civil) from HKE Society (PDA), Gulbarga Gulbaraga University Gulbaraga In 1985"

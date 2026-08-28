@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Actor, Film Producer, Content Creator, Singer, Musician, Youtuber",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/182a40c958fb7aa02311d7129ba77965f87a8242.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=430"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "B.A. and M.A. (History), Government Chhattisgarh University Raipur, Year 1996 and 1998, Higher Secondary, Government Bahu. Higher Secondary School, Bhatapara, Year 1993"

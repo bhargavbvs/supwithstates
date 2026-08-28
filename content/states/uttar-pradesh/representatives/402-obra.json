@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/514b1a4c2a0c035680b8decca7386a3f7c5c78f7.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4847"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School from U.P. Board of Secondary Education, Allahabad in 1991"

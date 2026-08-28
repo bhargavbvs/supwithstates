@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kuldeep_Singh_Dhaliwal.jpg",
+      "credit": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70277491"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Standard from Jagdev Kalan Govt. School, Amritsar PSEB in 1977"

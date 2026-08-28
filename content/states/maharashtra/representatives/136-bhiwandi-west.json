@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 50,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ef22b1b3e9c8db98fc9900bd6c29455d97cb064c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=435"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Arts In 1991-92 From B.N.N College Bhiwandi Thane Mumbai University"

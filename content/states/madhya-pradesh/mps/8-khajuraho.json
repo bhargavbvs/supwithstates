@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Member of Parliament,Agriculture and Buisness",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/41ef01c9d1baff00ab7cacbc300abf9759a76f59.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2455"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science (Agriculture) From Drishi Mahavidhyalay,Gwalior (Jawahar Lal Nehru Krishi Vishwavidyalay,Jabalpur) in Year 1995-1996"

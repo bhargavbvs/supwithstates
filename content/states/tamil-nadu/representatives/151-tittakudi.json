@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 67,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/31ee48111c66d55cbf38d98fc01644abf1f77ab8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1297"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA ., (History )- Madras University-1984, B.Ed-from Annamalai University Dec-1986"

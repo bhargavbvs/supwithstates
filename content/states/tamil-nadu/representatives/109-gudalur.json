@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/df8e1b5ba727b7d97d2a4bba8dd6ecf0c717f4ab.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=746"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA,BL, - B.A. Chikanna Government College (1981-1983) , M.A. - Government College, Salem (1985-1987) , B.L. - Government Law College, Coimbatore (1987-1990)"

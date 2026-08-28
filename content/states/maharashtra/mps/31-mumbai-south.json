@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 72,
     "profession": "Member of Parliament and Trade Union Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/5374794a652a69af6293f5ad38b31fa97ad0b3e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7097"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.SC. from Bhavan College, Andheri, Mumbai Year 1975"

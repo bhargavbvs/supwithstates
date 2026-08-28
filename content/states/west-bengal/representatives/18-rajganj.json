@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/134d90a8b9cbd8e69c1583e82c7c826413f41a74.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=86"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass from Ananda Model High School, in 1981"

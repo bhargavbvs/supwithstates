@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/957cc12bb8021f15c82b4bb3704d9f5b43c78c13.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=273"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.com Kumaon University Nainital, B Ed Kumauni University, Nainital-2002"

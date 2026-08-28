@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/50d995d53ae0432fc945f36b717a1a13d4a239ec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=243"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Passed from Barjora college affiliated under The Burdwan University ,YR. 2000"

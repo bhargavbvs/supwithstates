@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "Social Work, Politics, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/abd6fc05b0f204d9adbfb78d34fcef3c3e25e0b2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=1258"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculate From Rani Sonawatee Kumari High School, Nonihat in the Year 1972"

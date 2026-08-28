@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 32,
     "profession": "Cost Accountant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/8c9962e5971177458e1f3550d5f6fc5627217a07.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=566"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Buinsess Administration from Swami Vivekanand Subharti University Meerut (U.P.) in 2024"

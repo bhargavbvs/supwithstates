@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4b05e352bd2cab38e6276249acfc539b286f2b61.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=799"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Marathi School Ghatkopar Mumbai Pune - Mumbai In The Year June 1982"

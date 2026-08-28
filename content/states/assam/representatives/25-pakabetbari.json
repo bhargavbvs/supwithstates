@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Member of Legislative Assembly, Assam",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/e604bd6dfc3753af02d4b86b7931fd5610a21137.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=330"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Passed from Nabajyoti College, Kalgachia under GU- 2004"

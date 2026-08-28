@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 73,
     "profession": "Pension & Consultancy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/1a08e05576ac5007f6b5c1f741729fca4c86e6c6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4356"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Sc (Civil & Municipal Engineering), B.Tech from I.T. Banaras Hindu University In 1971"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 32,
     "profession": "Employed With Shivam Constructions",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/e2f63f3ed42c801b8b7882e2b93eeece8c9dafae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=783"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master Of Science (Construction Engineering And Management) From Columbia University New York USA In The Year 2015, Bachelor Of Civil Engineering From Mumbai University In The Year 2014"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/005eda6fddf22d0a1e3fe3ef697f906b9eb42453.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=505"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary From Maa Sharda Senior Secondary School NIOS in 2017"

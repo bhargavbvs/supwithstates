@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/af4b48eceec2c889708ba5f3d3b2162a1d608bc6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=109"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B from University of North Bengal in 2002"

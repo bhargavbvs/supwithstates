@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 44,
     "profession": "Social Worker, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/960a3745d92acb00eefae8a2db217fc95a176926.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6785"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Hons) from Patkai Christain College, Dimapur, Nagaland University in 2001"

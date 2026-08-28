@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Teacher, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/914187cce7c5dcd6199861e598a041df02d5da7a.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2777"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate from Yuvraj Datt College, Kanpur University in 1979"

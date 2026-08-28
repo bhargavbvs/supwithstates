@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Architect",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/60247dd5ee17431e5300e6a7819bd7617cbb6706.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6825"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Architecture (B.Arch) from College of Engineering Trivandrum, University of Kerala in 2001"

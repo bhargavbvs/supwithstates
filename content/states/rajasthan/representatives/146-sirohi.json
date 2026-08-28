@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Priest And Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/c78b4e9142886275c5fe040650d3263a10c101fc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=409"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th From Rajkiya M. School Mundara Teh. Bali Jila Pali Rajasthan"

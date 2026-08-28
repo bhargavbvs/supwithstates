@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 58,
     "profession": "Business, Social Worker, Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/affa8343845997457c2190299f5a650fa5cdab4a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=330"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation From Govt Boys Sr.Secondary School Delhi Cantt N. Delhi 1983"

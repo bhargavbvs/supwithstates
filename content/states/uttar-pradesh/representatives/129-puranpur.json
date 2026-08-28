@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "MLA Salary, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/c75304e99aec4b2078c146a90e48b94e272f770b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2308"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. From Bareilly College Bareilly, Ruhail Khand University Bareilly in 1984"

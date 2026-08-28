@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Business & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/38a1cdbc2f5c2389fb80e0519373357f302019f9.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=913"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Com. IInd year from Hindu Degree College Muradabad Ruhelkhand University Bareilly in 1991"

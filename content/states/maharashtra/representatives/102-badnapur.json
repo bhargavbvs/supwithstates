@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Agriculture And Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/0085e390d6e70a5dc45a339c11ca1c204d09cfd0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=158"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Dr. Babasaheb Ambedkar Marathwada University Aurangabad, Vasantrao Naik College Aurangabad In The Year October 1997"

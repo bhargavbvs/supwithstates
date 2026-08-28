@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "School Principal",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/aa9a6b0a0d12e088aaac7fc9a51782ea3c2c67d9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=2690"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA., From Annamalai University Chidhambaram Year 2015 . M.Ed., From Kaliammal College of Education, Karur Year 2022."

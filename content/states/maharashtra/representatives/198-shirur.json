@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/e38ffc905bb2a6d7fcb5022c018f0b530a622d8d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3201"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed from Shri Shivaji Maratha Memorial of Society , Pune, Maharashtra Board Year 1994-95"

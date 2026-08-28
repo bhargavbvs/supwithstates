@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "Agricultutre/MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/4dd7bd236aa9b9a95c49707bdc7bec64a6c46c24.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2702"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10 Passed -DNU Inter College Kanpur"

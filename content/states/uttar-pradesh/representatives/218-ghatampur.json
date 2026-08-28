@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 50,
     "profession": "Professional Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/4f46e13a5ce8cc70e0fe1c0ee5c103f7aa807aa1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1910"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Dayanand College of Kanpur Chhatrapati shahuji university"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Agriculture & Ex MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/252-Manjhanpur.svg",
+      "credit": "Own work based on User:Furfur",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=58510707"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Allahabad University Allahabad In 1985"

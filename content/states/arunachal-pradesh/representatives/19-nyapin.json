@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Ex-Government Servant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/172f399354a51fd6e78a339a6b6a4614631f71ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=174"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Xth Pass, Dipoma in Civil Engineering from state Council for Technical Education assam in 1990"

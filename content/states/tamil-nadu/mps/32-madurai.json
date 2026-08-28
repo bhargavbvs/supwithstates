@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Writer, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/603f80b23679eb60fb884024ae1cf345b2744bf1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1568"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "+2 (Higher Secondary) Muthukula Thevar Higher Secondary School, Thiruparangkundram 1988"

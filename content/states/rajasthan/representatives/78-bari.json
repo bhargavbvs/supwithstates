@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "Agriculture and Property Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/rajasthan2023/4d15e0c73f5010e61b3bbae96185602afbf38b66.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=731"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Passed Government Secondary School City Kotwali Dhaulpur Rajasthan Year 1969"

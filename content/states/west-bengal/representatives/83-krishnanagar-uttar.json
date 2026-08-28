@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "School Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/7c4709c8609c6a2be46e1bb3803e95b165021aad.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1781"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts In Geography From C.M.D. PG College Under The Guru Ghasidas University In The Year of 2005."

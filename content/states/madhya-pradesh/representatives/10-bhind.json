@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Agriculture and Ex MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/99b1054eb8835a704c1e00b51183895d1d8d544e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=251"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Janta School Bhind MP Bord Bhopal Year 1981"

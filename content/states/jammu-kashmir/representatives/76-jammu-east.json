@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Politcian, Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/fe5a60b4c7c8ea6d82b1663de364fd030749c62f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=943"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bechelor in Commerce from SPMR College of Commerce, Jammu in 1988"

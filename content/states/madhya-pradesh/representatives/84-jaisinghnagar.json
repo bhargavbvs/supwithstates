@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Centring Work and Agriculture Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/c5aeb97d88a213cc8b6d45f8584eac9c091713e5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=303"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Political Science) from Awadh Pratap Singh University Rewa in 2007"

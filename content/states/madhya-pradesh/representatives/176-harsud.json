@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Agriculture ,Werehouse, Gas Agency",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/3c4bcdb576540291ae5a33c6359ed4831d8f13dc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=707"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A History Devi Ahilyabai Vishwavidyalaya Indore 1986"

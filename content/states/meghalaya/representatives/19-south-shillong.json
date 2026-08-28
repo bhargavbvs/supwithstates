@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Ex-Member of Legislative Assembly of Meghalaya",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/ef6b8ac75b96d868e519b1b08b5570b064f5c5a9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7009"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Pre University 1st year Synod College North Eastern Hill University in 1986 & Higher Secondary School Leaving Certificate From Meghalaya Board of School Education (MBOSE), Year-1984"

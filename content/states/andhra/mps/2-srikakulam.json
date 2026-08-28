@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 36,
     "profession": "Public Representative",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/caa46bb2fb7d5e38494155c4173776bfb8e834d1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6620"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A from lsland University, New York USA - Year of completion - 2011."

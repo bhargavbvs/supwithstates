@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 70,
     "profession": "Pension, Rent Income and Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/5942b4b5c3ab84d183bdf7962051a5c6c47ddf5d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9428"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (History) from Post Graduate College, Gorakhpur University in 1978"

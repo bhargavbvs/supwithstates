@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Chairman Guwahati Metropolitan Authority Guwahati -5",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/8771669ac3a07dda4dd2394115ce78a8738ac063.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=680"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Examination, Arya Vidyapeeth College, Guwahati in the year 1988"

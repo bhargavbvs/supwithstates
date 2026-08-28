@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Business / Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/2c33d26a18591da491816c4e3f9d4617e296ed11.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=429"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from J&K State Board of School Education Jammu in 1970"

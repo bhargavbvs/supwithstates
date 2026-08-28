@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Retired AS Indian Administrative Service.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6852f48b8e55645585992354332a1a29048f884d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3585"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor Of Engineering, Civil, University Of Vishveshvaraya College Of Engineering, Bengaluru, 1985"

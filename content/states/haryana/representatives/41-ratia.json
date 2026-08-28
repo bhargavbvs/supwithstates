@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Ex-MLA Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/da93a024803bffd7a570989fdbfad940dccb8072.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=442"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From KUK Year 1986"

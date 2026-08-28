@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 32,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/9bb1d6e5918372ec17494f0fb775092c0c4585c2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1087"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E (Civil)-from Anna University-2017"

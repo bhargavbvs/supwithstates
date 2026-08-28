@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Farmer, businessman and social worker.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/36dd3a2e242c7b1adbc47d8f3d80ee28056400b7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6822"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Pratap School Vadodara 1983 SSC Pass."

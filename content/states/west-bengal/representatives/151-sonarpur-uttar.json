@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 50,
     "profession": "Retired Govt Employee",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/4d71741a4cefd91aadac8a70d8e790c2670a60ae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2306"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Science with physics honors from Surendranath College, Under Calcutta University in the year 1997"

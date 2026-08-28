@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Business - Banners and Design",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/f44511973882465a5549707c1bfa9a8322d4ae5d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=851"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "5th Std from (Government Higher Secondary School Thiruvanmiyur Chennai - 600041) in (1991 to 1992)"

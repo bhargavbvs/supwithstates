@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 73,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/9cd793c71d339a65bbc6a525fe048b44df1e35fb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=153"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Eco) 1976, LLB 1981 From Kurukshetra University"

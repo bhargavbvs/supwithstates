@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/58828789764bc23738243809d0297f08048dbeeb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=534"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass from New English School, Tal. Chipalun, Dist. Ratnagairi in 1974"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bhupendra_Patel_%28cropped%29.jpg",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=56209854"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in civil Engineering in 1982 from Government Polytechnic Ahmedabad, SSC in 1979 from JB Shah Jyoti Higher Secondary Ahmedabad,"

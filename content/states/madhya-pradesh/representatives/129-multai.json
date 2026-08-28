@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 67,
     "profession": "Pension Madhya Pradesh Assembly and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/2355c0cb2ba78f0905aa73c4fa827da3d3ea563c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=165"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Dr. Harisingh Gour University Sagar MP In 1986-87"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d72cf1198cb8a01b7a9df1b65413c1aa550e037e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1318"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Masters Of Technology In Computer And Technology -2008"

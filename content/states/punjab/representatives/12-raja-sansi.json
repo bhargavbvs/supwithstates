@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amritsar_Airport.jpg",
+      "credit": "Gurjodh Ghag",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=5807333"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BSC From khalsa College From Guru Nanak Dev University ,Amritsar In 1975 -76"

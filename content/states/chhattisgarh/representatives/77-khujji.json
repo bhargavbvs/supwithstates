@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/db5f276eeea4d1e302b5e596f28e45f657c8528f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=45"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th 1975 Primary School Village-Khujji"

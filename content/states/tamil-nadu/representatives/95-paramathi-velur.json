@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Politics , Civil Engineering , Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/83f35e0e31ad9e60ebf37428db0825be8a180e70.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1130"
+    },
     "education": {
       "level": "Others",
       "detail": "DCE, Govt Higher Secondary School Pandamangalam -March-1987 SCSM polytechnic Collage Mohanur May-1990"

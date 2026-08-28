@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 39,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/aa1fc14ca2e655ae17c57f8479ccbb18bcf60274.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3154"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate Year 2005 From JNM PG College Barambanki Dr. Rammanohar Lohiya Awadh University Ayodhya UP"

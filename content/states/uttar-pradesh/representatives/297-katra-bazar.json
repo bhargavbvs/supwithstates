@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Agriculture & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/6738388199011d923d3fcc3e1a0c63c7c485380e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2897"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc From MLK Degree College Balrampur Awadh University Faizabad in 1978"

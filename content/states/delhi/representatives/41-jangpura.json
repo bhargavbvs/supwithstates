@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 64,
     "profession": "Business Income/ Rental Income/ Pension Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/42d2edd6f0854b0503b33100c6861caf007eb414.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=402"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. Pass 1st Year (Undergraduate) From PGDAV College, University of Delhi, Year-1979"

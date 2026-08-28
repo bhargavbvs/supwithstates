@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "Public Representative, MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/3496d3fedac006a61d9538cb8c47e005edcff3ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1062"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC FROM SARASWATI VIDHYAMANDIR MUMBAI UNIVERSITY YEAR 1975"

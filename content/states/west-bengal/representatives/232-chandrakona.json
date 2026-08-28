@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Peon (Group D) Under W.B Govt. Aided School",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e99d27b2cd08ce25b0ab0761000303d6b5993ad2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=483"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Vidyasagar University Midnapore West Bengal in 2009"

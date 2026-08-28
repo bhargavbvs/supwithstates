@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Member of Meghalaya Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/23a1b157be2fae438ea669c24de040ed2626a4ce.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6875"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from NEHU in 1989"

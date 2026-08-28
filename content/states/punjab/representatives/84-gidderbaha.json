@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Business, Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/punjab2022/e301e77a0ee21756fa0ca6fb7625aa3f1d14df18.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/punjab2022/candidate.php?candidate_id=1365"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Punjab University, Chandigarh in 1987"

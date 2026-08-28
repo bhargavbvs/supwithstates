@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Business man",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/karnataka2023/10caaa7e182c67ddc83291ea8cbd06ebab65c821.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7304"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BE 1999-2001 Bahubali engineering college sravanabelogola"

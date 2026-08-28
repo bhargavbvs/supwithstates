@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/cd592935ddf69a08ca990f96e236354203256faf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6775"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Nagaland University in 2003, BA from Nagaland University in 1998"

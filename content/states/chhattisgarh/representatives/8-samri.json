@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "PETROL PUMP OPERATOR AND HOUSEWIFE",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/17c4cd1fede5858254dde850e3381848873090b6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=523"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary School Certificate Examination (10+2) from Board of Secondary Education Madhya Pradesh Bhopal, Govt Higher Secondary School Amarkantak (Shahdol) in 1989"

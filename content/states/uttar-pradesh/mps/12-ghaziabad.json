@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 66,
     "profession": "M.L.A .",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/09666600f236d3b7e51c9afd2d509a1567b31dca.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2518"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.com first year in 1976 from M.M.H. Degree College Ghaziabad meerut University"

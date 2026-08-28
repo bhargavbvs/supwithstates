@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/2707416c622ed95986c624aa770fa871558a1029.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2148"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Passed from Kanchrapara Harnett High School in the year 2002"

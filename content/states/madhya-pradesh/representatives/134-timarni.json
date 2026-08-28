@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 31,
     "profession": "Salary and Tuition Fees",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/00a6976c162de73adcbc66c1d6b55ca7f72e2d6a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=639"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA Tilak Maharashtra University Pune Year 2016"

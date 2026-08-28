@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Agriculture & Gardening",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/82aa2950e5e81cfd597c0d8f14080f9945c6c454.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=851"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Chaudhary Charan Singh University Meerut in 1999"

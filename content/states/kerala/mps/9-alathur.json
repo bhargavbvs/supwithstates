@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1c073b47c6cc3f63caf63d1f3d1c7ccbb212e872.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2268"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Economics, Kerala Varma College, 1985-88"

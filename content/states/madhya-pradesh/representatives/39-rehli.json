@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Agriculture Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/021791ab59f7f7e5e592a97dc65c8ce23f8a439a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=186"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in 1974, LLB in 1977 from Dr. Harisingh Gour University Sagar M.P"

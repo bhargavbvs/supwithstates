@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1cf174307a83f09747fa416c4561030a3ba91681.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5217"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. from Mahatma Gandhi Kashi Vidhyapith Varanasi UP in 2010, MBA From Allahabad University, Allahabad UP In 2000"

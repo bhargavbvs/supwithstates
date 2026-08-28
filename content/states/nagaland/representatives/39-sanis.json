@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Retired Govt. Servant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/8cea6b96c3b7115ae5ca67b79cdc47fa781dbeac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6916"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc Agriculture, Orissa University of Agriculture & Technology (OUAT) Bhubaneshwar In 1985"

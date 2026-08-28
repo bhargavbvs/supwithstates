@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Brick Kiln Industry, Pensioner MLA U.P.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/40e61c806fa837729d2d637ccbe4f8973e62910f.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3269"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter from R.C. Inter College Ghatauli Milkipur Ayodhaya, in 1984"

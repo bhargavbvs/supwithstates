@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 67,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/bc16e5eb832a67c540e67f06e1321865f1e60ab8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1168"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B L From Madras Law College, University Of Madras, Year - 1984, B.Sc (Zoology) - St.Xaviers College, Palayamkottai, Madurai Kamaraj University, Year - 1980, PUC From Madurai Kamaraj University, Year - 1977"

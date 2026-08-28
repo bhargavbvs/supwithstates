@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/aac087fc1a7b1bfc79e2d10e18d2316f09bf3ba7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=874"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc (Bachelor of Science (Computer Science), SMS College of Arts and Science in 2006-2009, 12th Standard, City Corp HSS School in 2005-2006, SSLC, CSI HSS School in 2003-2004."

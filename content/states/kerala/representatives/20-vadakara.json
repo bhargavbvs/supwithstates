@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/3683df5fda6e23b56d8e181dc03f691de2d464a7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=282"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Business Administration (Distance Education Annamalai Uni.-2009May), JDC(EMS Memorial Co-Operative Institute Kozhikode 1999 May)"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=282",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1a1244fe2cc6494fef57a589dd673bfb0e4fd6a4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1183"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. From Annamalai University Chidambaram Year 1991"

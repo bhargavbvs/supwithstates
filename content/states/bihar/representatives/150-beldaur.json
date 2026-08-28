@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 76,
     "profession": "Agriculture and Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/d3ef220e65693d48274d0d5a3bb615d662cd9360.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1063"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from High School Pansalwa, BSEB Patna in 1967"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Pvt Business, MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/b27dc629d1ce4a42d2444cbfa5229eca04305486.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=156"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Delhi University Delhi in 1990"

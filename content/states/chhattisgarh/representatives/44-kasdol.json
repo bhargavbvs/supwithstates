@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 44,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/10a642503ee36152a3cd41b647c65596ea8ef56c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1019"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A. From Kalinga University, Raipur in 2017"

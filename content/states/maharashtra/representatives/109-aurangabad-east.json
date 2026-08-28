@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/582c884c96a7b23e4a925a617a858695135c2336.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=404"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce Saraswati Bhuvan College Aurangabad Year 1985"

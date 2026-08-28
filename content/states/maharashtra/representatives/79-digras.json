@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Farmer, Salary and allowances of Minister, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/d8739c59c44b7cdbfd670c71fdffc751cb256505.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=216"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Com from Arts & Commerce College Yavatmal in Year 1993, BP.Ed. from Subhedar Ramji Ambedkar College Wardha in Year 1995"

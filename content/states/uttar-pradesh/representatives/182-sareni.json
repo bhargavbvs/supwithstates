@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Agriculture, Ambar Hotel Lucknow, Shop Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/8f459411894697c6f6b5436d2b8aabfc5d061297.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2353"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Political Science) from Lucknow University in 1979"

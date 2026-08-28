@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": "Agriculture & Journalism",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/6d628f488d95158e928969687841ff9df95c081f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3714"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. From Dr Shakuntala Misra National Rehabilitation University, Lucknow In 2021"

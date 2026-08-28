@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Agriculture, Rent Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/6cbb0a94bb0e1bb6edc5a3cfd20ac0e6ed0f3dbb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=436"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com (Graduate) Pt.Ravishankar Shukl University CG. 2003"

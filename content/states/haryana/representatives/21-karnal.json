@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Promotor Director in Kaysons Oils Pvt. Ltd.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/d85ba1d22086fad0b6f0a583e895c6d4c74807e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=230"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A.-IInd Year from Kurukshtra University, Kurukshtra, Haryana in 1989"

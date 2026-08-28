@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/ddb97dd6caa8e1cd2c65760a66b264a2185aa07a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=126"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Government college Itanagar, Arunachal University in Year 1996"

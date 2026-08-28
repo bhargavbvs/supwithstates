@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/30be222dc9cec84e10ee5aca110ec61b01a90af8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1046"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A From Rani Durgavati University Jabalpur 1987, B.Ed From Rani Durgavati University Jabalpur 1989"

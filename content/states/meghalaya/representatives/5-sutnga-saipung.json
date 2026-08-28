@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Businesswomen",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/0e65cd247fbda52d0a6ba61af18c48488b8bfb40.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6911"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of science in Optometry from Martin Luther University Shillong East Khasi hills Dist Meghalaya 2012"

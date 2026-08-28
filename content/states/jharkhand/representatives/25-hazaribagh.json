@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/9011a76e34facb3708dfd7641b99a2337f15f64b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=262"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate (Hons) from Sant Columba College, Hazaribagh, Ranchi University in 1989"

@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/ebbecd810df17231ab30b08f5f3780e80b118be3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5028"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation (Bachelor of Commerce) From Maharaja Sayajirao University of Baroda In The Year 1995,12th Pass From GSHSEB Gandhinagar In The Year 1992, 10th Pass From GSEB Board Gandhinagar In The Year 1990"

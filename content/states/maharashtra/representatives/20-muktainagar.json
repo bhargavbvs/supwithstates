@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/c083c0d7b298406a4b8b18b26185f249e9b6dd3d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2887"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA 3rd Year from Sant Muktabai College, Muktainagar, in Yr 1993-94"

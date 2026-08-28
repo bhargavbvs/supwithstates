@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 61,
     "profession": "Agriculture, Business, Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/1f7c09fe4b5e8a7164c4c489f3317743379e1b5d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=166"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from Maharishi shyam Sundar das high school Chakki in 1987"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Hotel & Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/fbccb1a44b144937a6450672175aa42c077bd242.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=288"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed From Govt Inter College Barkot in 1989"

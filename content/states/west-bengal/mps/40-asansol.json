@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 77,
     "profession": "Film actor and Member of Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f6d74caaeb3bc8fbf744fea6de70c14d0a09ff1a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5179"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Film & Television Institute Pune, Year of Passing 1967."

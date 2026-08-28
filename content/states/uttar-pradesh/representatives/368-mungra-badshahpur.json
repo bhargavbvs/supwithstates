@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 36,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/11c532dc23fb305903f3d6dce112615c0f6a5357.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4712"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Bundel Khand Degree College Jhansi UP in 2013"

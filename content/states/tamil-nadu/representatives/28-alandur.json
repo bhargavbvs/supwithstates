@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 31,
     "profession": "Business, Trustee Mahendran Charitable and Educational Trust",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b49a4199a00dbdf617845b9de8f700e6b976c561.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=305"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. in Civil From Jerusalem Collage of Engineering Pallikaranai Anna University, Year-2016 & LLB From Sri Eshwar Reddy Collage of Law Sri Venkateswara University, Year- 2022"

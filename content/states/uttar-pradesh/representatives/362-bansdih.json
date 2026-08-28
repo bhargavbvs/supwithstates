@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/9f8dbb0ef8af64dccd01ab626a5de50e9a98c039.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3780"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Shri Murli Manohar Post Graduate College, Ballia (Veer Bahadur Singh Purvanchal University, Jaunpur) in 2005"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Agriculture & MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/f6e44fefda32ec9358521d40d886260d79694421.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=230"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric From S.S. High School Gumla Bihar Education Board Patna in 1987"

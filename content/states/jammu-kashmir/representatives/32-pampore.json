@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Senior Advocate (Supreme court of India ) Former Member Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/d7215e468fc997511f0ab00a840b79164fe8928e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=15"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLM, Harvard University, Cambridge Masschusetts"

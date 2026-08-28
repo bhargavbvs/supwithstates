@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c815c34a10352a27771518419f278f66ceebb1a3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3493"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D From C.C.Singh University, Meerut UP, Year-2004 & M.A. Private From Dr.B.R.A.University, Agra, Year-2013"

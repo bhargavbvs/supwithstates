@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Agriculture, Businessman, Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/e1dfd6ac5e46ddbf672a80c41aeec7cb5ead5618.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8255"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "PUC, Government PU College, Sagara 1981-1982"

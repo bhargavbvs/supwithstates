@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Pensioner, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/f625f0616da214707385d4ef9a89ad3f02492587.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=153"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. & M.Phil. From Annamalai University"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=153",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

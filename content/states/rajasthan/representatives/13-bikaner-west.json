@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Tution Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/b9efd329c69d57d5a021380befed40a3a79b81a4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=164"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Rajkiya Dungar College Bikaner, Maharshi Dayanand Saraswati University, Ajmer in 1998"

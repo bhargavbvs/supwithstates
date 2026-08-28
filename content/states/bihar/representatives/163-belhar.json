@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 45,
     "profession": "Agriculture, Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/41171acda0207ad5adc71adcd772a43bd81532fb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2131"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "I.Sc. from Mahanth Ayodhya Yadav College, Dhaka More, Bhagalpur University in 1992"

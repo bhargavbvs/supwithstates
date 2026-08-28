@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 37,
     "profession": "Agriculture Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d183bdd10324e9be5c1855b17caaf3e9597d7301.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Monada University Hapur Uttar Pradesh India 2012"

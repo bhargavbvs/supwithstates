@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/d5639b64817728aa337cdb8cba43009ac5570660.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2222"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass In 2011 From the West Bengal Council Of Rabindra Open Schooling, Study Centre Manbhum, Victoria Institution"

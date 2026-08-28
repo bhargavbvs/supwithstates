@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Poultry, Livestock-Dairy and Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/18bb8272bf47d12059ac8a40edb93e600b21d257.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=64"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class 10th CBSE Pass from Open School, New Delhi-1989"

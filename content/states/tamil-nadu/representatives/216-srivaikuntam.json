@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 35,
     "profession": "Saravana Traders",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/82f4fc2527e7e478d9e8d827d4fd63b0833aca00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1251"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Std Government Higher Secondery School ,umarikkadu (Dis Continue In 2003-2004)"

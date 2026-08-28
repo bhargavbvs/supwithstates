@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 42,
     "profession": "Legal Practitioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/f9aa7da39130a009a8adea7a9f39a883b594df7a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2819"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLB From Balasore Law College, Balasore, Odisha, Year-2020 & M.A. from Rabindra Bharati University Kolkata, Year- 2007"

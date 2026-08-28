@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Salary and Allowances (as Parliamentarian and Agriculture)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/f3a204dabca8f177cb5e0a38453ec2c383384ef0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=471"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 1995 From University Bilaspur"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 29,
     "profession": "Tuition & Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/ac4ef430e32d621aab91624327c1f49da34ada8c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1035"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate in History from Utkal Unviersity in the year 2017 from Vani Vihar Bhubaneswar"

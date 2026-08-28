@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 28,
     "profession": "Social Worker & House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/29233a909295edb9bea62836e22d2e7c19ca4bcf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=430"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Passed Ilective History(HONOURS) from Rampurhat College under Netaji Kandi Supgftha Lniversity in 2024."

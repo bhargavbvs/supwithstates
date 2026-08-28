@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/c09d039b90b6c4b8591005920516c2a8b846898b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=259"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A from Dr. Hari Singh Gour University Sagar, Govt. Graduate College Bhua Bichhiya, Dist Mandla In 1995"

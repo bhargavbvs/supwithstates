@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Advocate, Agriculture and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/0db53d607faf1f791c634bb609f38e84dc188378.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=491"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law from L.R. Law College Sambalpur"

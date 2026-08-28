@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 50,
     "profession": "Self Employed & Salry as MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1a175c1567939bb43720b11eea63f9805aa5baeb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1297"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com, Sydenham College of Commerce & Economics Mumbai , University Of Bombay April 1995"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/936a8f05214bc4b85a445f7b6499d76c1c43d181.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=167"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Passed From Bal Mukund Janta Inter Collage Sanota Dist. Meerut in 1992"

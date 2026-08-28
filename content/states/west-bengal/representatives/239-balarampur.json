@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/19c98df896f4fb9baaf7a925d24a2aa3544419f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=64"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "H.S. Pass (W.B.C.T.V.E.)"

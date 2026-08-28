@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 42,
     "profession": "Meat Shop",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/ad61ba4cebe572cb0f7be3335511751493ec7739.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=827"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10 Standard, Muslim Higher Secondary School, Thiruvallikeni, 2001"

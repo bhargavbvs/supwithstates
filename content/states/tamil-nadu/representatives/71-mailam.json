@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Lawyer, Member of Rajya Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/6b47a3ede13f894d928ae515d12079ca416ab0d4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1189"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Law BL 5 year From Madurai Law College Madurai Kamaraj University Madurai 1990, 12th Walterkudder Higher Secondary School Tindivanam Villupuram District 1983"

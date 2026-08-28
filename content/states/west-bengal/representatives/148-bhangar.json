@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 33,
     "profession": "Cultivation & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e4818abe618068d9d48e8ccfce377d40034ef08d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2707"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Aliah University in the year of 2015"

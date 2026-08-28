@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/f7049d33a9832239179d7241e8f3e74969bed267.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=774"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A.History From MS University ,Tamilnadu 2017-18, Diploma in Visual Media and Communication From VHSE (Board of VHES,Kerala) 1997"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=774",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

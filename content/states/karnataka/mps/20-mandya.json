@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Social Worker, Politician and Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f0f6b4abe51c0bcc537f374e99008bc4a7ed7048.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2651"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Science 1978 - 79 National College Jayanagar Bangalore University"

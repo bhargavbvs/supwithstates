@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f828696b9611d3abe43eae80953d94d1854176bc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1258"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass Yashwant College, Baba Nagar, Nanded Swami Ramanand Theertha Marathwada University, Year 1997"

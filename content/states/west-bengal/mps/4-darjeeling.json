@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 38,
     "profession": "Managing Director, Surya Roshni Ltd.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3348fce886e1e61c84e533dea96b0940144722df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2218"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (B.A.) (General) from Manipur University, Duration : 2004 - 2005 to 2006 - 2007"

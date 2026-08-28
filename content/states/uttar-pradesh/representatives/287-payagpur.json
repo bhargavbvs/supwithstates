@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/17ec0dc980d2c6f63d6b5f797646b6d72c155e88.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3330"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A.(Sociology) from Kisan P.G. College, Bahraich/ Avadh University Faizabad U.P. in 1979"

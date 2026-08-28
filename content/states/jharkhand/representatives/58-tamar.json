@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 40,
     "profession": "Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/a1c683c0221e29c45ac724d4387dc2b9e3c78a8f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=333"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Utkal University, Odissa, Year-2006"

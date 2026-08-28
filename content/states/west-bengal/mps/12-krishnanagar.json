@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/fa4ed0939e21785fd4b75cfc365bbd717abaaf9f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5085"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts, (Mathematics & Economics), Magna cum Laude, 1998, Mount Holyoke College, Massachusetts, United States of America."

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/9db725aa8f59f3cff1c7b080011e4585536cf48b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1099"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Bangalore University In May 2007"

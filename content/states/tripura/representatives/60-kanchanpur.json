@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 38,
     "profession": "Social Activist and Self Employee",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Philip_Kumar_Reang.jpg",
+      "credit": "Brendonmotom",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=73211059"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (English) From Madurai Kamraj University In Year 2009"

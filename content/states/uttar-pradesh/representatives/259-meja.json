@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Shruti Rice Mill Firm Swami & Sandeep Singh & Associates",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/259-Meja.svg",
+      "credit": "Own work based on User:Furfur",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=58510884"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc From Awadesh Pratap Singh University Rewa MP in 2009"

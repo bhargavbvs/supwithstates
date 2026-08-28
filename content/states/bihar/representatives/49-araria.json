@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 60,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/a572922eb1308a7e2cca33e742a075ee38f64955.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1673"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric Pass from Azad Academy, Araria, Bihar School Examination Committee, Patna in 1980"

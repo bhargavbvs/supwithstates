@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Business, Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/835e168d80bb491c82ccb706da4d09ede3c43dbf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=149"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Geography) from Vinoba Bhave University Hazaribagh in 2004"

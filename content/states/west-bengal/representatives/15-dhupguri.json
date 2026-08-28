@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Retired BSF Person",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/553f9e4898174d9ee4f4f6df21b8c26de974f512.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=233"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass Secondary from Vidyasram Divyojoti Vidyaniketan High School in 1994"

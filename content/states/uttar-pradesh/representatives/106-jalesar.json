@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Agriculture, Shop & MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e17fd64eae1dc137dbdda33e4099d823c518dc68.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1625"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. in 2001 from Govt. Post Graduation College, Jalesar, Dr. Bhimrao Ambedkar University Agra"

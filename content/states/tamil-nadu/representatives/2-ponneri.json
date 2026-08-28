@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 67,
     "profession": "Docotor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d6f36395e90d3794b4bd23cc86372b877a3f39fb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1033"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MMBS University of Madras 1982, DM Cardiology University of Madras 1990"

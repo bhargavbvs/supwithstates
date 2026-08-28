@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/8e4bbc1daf6e450ccad1ef34b561fe0c173ca059.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=697"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A in Sociology from Annamalai University by distance education, Course completed in the year 2021."
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=697",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

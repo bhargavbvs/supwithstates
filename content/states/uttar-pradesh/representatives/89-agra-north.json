@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Loktantra Rakshak Senani Pension & interest from Bank Deposits",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/bf5c45eda4c4334652f38420e0a31d9bd1666978.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=265"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass From Secondary Education Board UP Maharishi Parsuram Inter College Agra, Year-1975"

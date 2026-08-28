@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Self-Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/98a3612a78535be8a2a6dcf658cf461983e22915.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=390"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BBM From Cheran College of Arts & Science 1999-2000, DCM Erode Cooperative Management Institute 2001-2002"

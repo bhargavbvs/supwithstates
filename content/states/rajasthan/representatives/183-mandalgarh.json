@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Agriculture, Business, Social Service and Allowences",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/b1fceb3ad4fe3c944654b190a203d54e2abb606c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=299"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Graduate passed, Rajasthan University, Jaipur"

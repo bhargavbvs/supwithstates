@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ae4c5d777f403763e4a2068200c2192a7478954a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=357"
+    },
     "education": {
       "level": "Literate",
       "detail": "4th Pass from ZP Marathi School, Shirur, Dist. Dhule in 1979"

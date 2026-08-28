@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Social Worker & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Chief_Minister_of_Manipur%2C_Shri_Biren_Singh_calling_on_the_Vice_President%2C_Shri_M._Venkaiah_Naidu%2C_in_New_Delhi_on_September_06%2C_2017_%28cropped%29.jpg",
+      "credit": "Vice President's Secretariat",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=16778897"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from D.M. College of Arts & Commerce, Imphal Manipur in 1981"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/0697bf2b66ae3b8d1dc32879ad9eb204be301ee9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4584"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Avadh University, Faizabad UP In 1993"

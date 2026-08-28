@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/f1409e0341bf228aeb732cbcfab26f49ae27c92b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=470"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA C.M.M. College Jabalpur Rani Durgawati University in 2005, B.E Jabalpur Engineer Collage R.G.P.V. Bhopal Year 2002"

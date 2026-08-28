@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 27,
     "profession": "Business, Managing Director In Companies & Partner In Firms Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/e5b056c44e52ccab8e0dd39d7a99381a6e164564.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4024"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master Of Business Administarion (MBA), Visvesvaraya Technological University, Belagavi, Karnataka, 2021"

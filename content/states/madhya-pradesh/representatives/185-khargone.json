@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Agriculture and Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/170829816131cca1d59edf53306487b487df33ba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=57"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from Devi Ahilya govt. higher secondary school khargone in 1968"

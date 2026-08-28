@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "Social Worker, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/1ebcabcb7b13b8b0b5e73c17bacfe1654bca7f0e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=661"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate Arts From Ganesh Lal Agarwal College Daltonganj Ranchi University Ranchi in 1973"

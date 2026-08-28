@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/1a652cb3ef19256ce80b1172e17f5b8a3d0b1d59.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=733"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Political science in 2008 Barkatullah University Bhopal"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 36,
     "profession": "Presently member of Kerala Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/f5e56a438f10cd123e80df18e26ffae193f9751b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=99"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Masters Degree in Phylosophy from the S.S.U.S, Kalady in the year 2021"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=99",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

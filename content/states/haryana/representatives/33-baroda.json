@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/90a64b8b9cba2616545c3f2570bac4b56e3121b4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=122"
+    },
     "education": {
       "level": "Others",
       "detail": "C.P.ED from Bhagat Singh College at Yavatmal in 1995"

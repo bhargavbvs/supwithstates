@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 33,
     "profession": "Supervisior, House Rent , Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/da92c79013c259044e6adf98d6335466ce1c3c1f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=287"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Chhattisgarh Secondary Education Board Raipur School, Bhilai Nair Samajam Higher Secondary School Sector 08 Bhilai 2007"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b4c6cbe94f82ed88ffd3a03d7cb4d7d5f1a54b04.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1117"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th from St. Aloysius Girls Higher Secondary School, Tarapuram in 1990"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "MLA, Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/989782a32821a6fb7d5360e18b0ae045af41909c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=748"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. in 1994 from Nagpur University, Dilploma in Maning Engineering in 1990 from Technical Board, Mumbai"

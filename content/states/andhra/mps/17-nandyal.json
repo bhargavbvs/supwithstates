@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 40,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d603e16b1fb949bcfb72cd568cf724b393921ee0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5114"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MD-Radio Diagnosis from Dr.NTR University of Health Sciences, Andhra Pradesh, PG Degree in yr- 2013"

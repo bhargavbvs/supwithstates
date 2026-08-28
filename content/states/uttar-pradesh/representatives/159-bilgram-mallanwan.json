@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 41,
     "profession": "Member of bar Council Uttar Pradesh",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/dac45806e5138f38c16ab809fb65d2fad05c7ab7.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2535"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D From Lucknow University in 2006, LLB From ChatrpatiShauji Maharaj University Kanpur In 2012"

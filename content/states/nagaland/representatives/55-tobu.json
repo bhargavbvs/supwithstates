@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/nagaland2023/6b7fad499a1348db21e1ec7f7a7254655744bc95.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6949"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Kohima College Nagaland North Eastern Hill University 1991"

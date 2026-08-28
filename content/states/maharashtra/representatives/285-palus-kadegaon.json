@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f55903d2dbec3d277a0a11a2d5b11f78537d430f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=595"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D (Management) in 2011, MBA in 2006 from Bharti College Abhimata University Pune"

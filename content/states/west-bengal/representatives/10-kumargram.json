@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/037c0b52b12d2fe6c835e401a9392998c8fd1afc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=153"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Sc. from Vidyasagar College under Calcutta University in 2003, B.Ed from Eastern Doors, B.Ed. Training College under North Bangal University in 2011"

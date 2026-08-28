@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 46,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/25b8c59de763455036e62815ec131559a69afac9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=259"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Lok College Hafizpur(J.P.U.) in 1998, Inter from Rajendra College in 1994, Matric from Y.K.High School, Khodai, Bagh in 1992"

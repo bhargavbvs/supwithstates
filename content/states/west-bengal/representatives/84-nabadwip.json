@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "Spritual Speaker/Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/14c1fb1cecf49a2adbc650b20dc7c551ad21ace2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2494"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA in Political Science from Netaji Subhash Open University in 2007, Bachelor of Law from Chotanagpur law college under Ranchi University 2002"

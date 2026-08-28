@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Social Service and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/687482ca5902a6c0f588e601f62638a62c857253.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=947"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "MA Year 1995 From Santhali, Ph.D Year 2010 Ranchi University Ranchi"

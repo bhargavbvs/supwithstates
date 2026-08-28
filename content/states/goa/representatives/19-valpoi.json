@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 50,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/88f4ac5638a128f02869c87ac95c59cf955e4b8a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=177"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. From Goa University, Year-1992 & PGDM From T.A. PAI Manipal Institute, Year-1994"

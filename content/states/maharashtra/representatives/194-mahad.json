@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Agriculture & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6cae7cd36bb6514912d1b19effebc4fdfc868280.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=555"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Pass from Shivaji Educational Institute, Multipurpose Technical High School in Year 1978"

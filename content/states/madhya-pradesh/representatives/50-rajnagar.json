@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Trading",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/13e813ec5a46a864ee0e5e0cec1f67cb034e8c0d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=82"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate (B.A) Year 2003 Dr. Harisingh Gaur Vishwavidyalaya Sagar MP"

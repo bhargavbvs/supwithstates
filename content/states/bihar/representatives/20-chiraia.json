@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 67,
     "profession": "Agriculture, Business & Monthly Salary of Member of Bihar Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/92e9d4b3e6772a228d96ce884b5e12c54ed42639.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2734"
+    },
     "education": {
       "level": "Literate",
       "detail": null

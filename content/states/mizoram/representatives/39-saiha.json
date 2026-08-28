@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Politician & MBBS",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/94b2c3b9f1558cf6a4fde12548ec5e598816ff95.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=153"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS, from Regional Medical College, Imphal in 1991"

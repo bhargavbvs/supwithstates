@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/989528b05f4de17af1f166219fddf70a2a304dc5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=522"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary School Of education Passed in 1989 & And Appeared in Electrical Power System Diploma 2nd Year"

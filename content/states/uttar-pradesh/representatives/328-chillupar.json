@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Politician & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c8f8cf9b46b003073e4d07df24ad63feedff85bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3825"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate in 1985 from Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur In 1985"

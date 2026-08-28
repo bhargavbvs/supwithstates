@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1e8c30e7444488ecfae2f9bb35bd58b3f9d8ea03.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=984"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Yashwantrao Chavan Maharashtra Open Univesity in 2021"

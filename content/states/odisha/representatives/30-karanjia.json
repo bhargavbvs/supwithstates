@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/70c0df02dfcc9419d6978519c2b190af4ff069ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=739"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A in history from Sambalpur University in 1986"

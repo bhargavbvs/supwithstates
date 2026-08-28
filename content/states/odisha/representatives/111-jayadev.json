@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Agriculture, Social worker, Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/49e0262b0f0ab97147ce81bc158e9ab55f42c004.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=726"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Sishu Ananta College Balipatna in the year 2004 Utkal University Vani Vihar, Bhubaneswar"

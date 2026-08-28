@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Agriculture Work & Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/1ee888d0a52ab5eb5a8edec68018fc2884346cd5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2577"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Law Graduate from Bundelkhand Degree College, Jhasi Bundelkhand University, Jhansi In 2000"

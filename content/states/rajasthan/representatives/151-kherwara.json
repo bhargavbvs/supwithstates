@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 78,
     "profession": "Ex MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/1a663d87150cabafbe5bbc80f107d7eb43def870.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=251"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. From Mohanlal Sukhadia University, Udaypur Year 2008, M.A. (Philosophy) Udaypur University Year 1970-72"

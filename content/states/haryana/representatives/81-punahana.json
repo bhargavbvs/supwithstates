@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/046f7ecce99e11c4451775f03e3ae6dce985805c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=204"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Jamia Milia Islamia University New Delhi 1979"

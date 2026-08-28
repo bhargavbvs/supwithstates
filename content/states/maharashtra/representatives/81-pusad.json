@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ae4e19210350c050c4e2cea85f9c2f625e8adaf6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=649"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.S., L.L.B. From Sri Ramanand Tirtha Marathwada University, Nanded Year 2017"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Public worker (Member of Legislative Assembly)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/81a101711a3c5a202f82e7ab018cbbeebce3c1c3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=37"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC From Government Model HSS for Girls Pattom Trivandrum, Year-1981-82"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=37",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

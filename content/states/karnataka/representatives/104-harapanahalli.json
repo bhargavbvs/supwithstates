@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Agriculture, Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/746e692ada56879bee195487f179ca80ee80b602.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8971"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "PUC, G.B.R College ,Huvinahadagali in 1984"

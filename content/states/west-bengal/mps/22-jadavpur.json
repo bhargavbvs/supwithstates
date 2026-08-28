@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 31,
     "profession": "Professional Actress, Performer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/dc6ff06c4e63707338bae2a9d8c4a722a3c3e075.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9062"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary (Council for The Indian School Certificate Examinations Board) Passed from Hirendra Leela Partranavis School in 2011"

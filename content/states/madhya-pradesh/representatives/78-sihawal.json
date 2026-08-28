@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/c3581edb9994f8e0b53c233fda65960d8a876af7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=95"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher secondary Devesar Year 1972-73"

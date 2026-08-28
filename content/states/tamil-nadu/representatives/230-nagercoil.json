@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 67,
     "profession": "Former Member of Legislative Assembly (MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1da7c0a2ce0a54952f5c4aa766b70f962ad84f7c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=933"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A, Scott Christian College, Nagercoil, Madurai Kamaraj University-1982"

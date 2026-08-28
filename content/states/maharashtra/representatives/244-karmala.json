@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1258b995a5ab1360aea1d87b8257fe6a10e11b04.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3101"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th from Kolhapur Highschool, Kolhapur in 1983"

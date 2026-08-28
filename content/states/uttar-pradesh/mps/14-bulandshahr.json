@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 46,
     "profession": "MP Salary, Rent Income, Bank Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/69d00d7db91deae7fc62a13a677aefdd1da48aea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2502"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from Chaudhary Charan Singh University Meerut in 1999"

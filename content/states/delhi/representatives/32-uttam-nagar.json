@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 65,
     "profession": "Agriculturist & Ex. MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/ef3c02f6773f0bf9b0da58d83f2013efea98231a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=389"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Political Science, Kurukshetra University, Kurukshetra in the year 2008"

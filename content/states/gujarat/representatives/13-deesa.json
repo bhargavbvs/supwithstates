@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pravin_Mali.jpg",
+      "credit": "Ronakpanchalrr",
+      "license": "CC0",
+      "source_url": "https://en.wikipedia.org/?curid=78444234"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com in 2007 from Gujarat University"

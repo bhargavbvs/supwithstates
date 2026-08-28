@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 28,
     "profession": "Advocate by Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/c69136cf526a806dc04dfb67d6d6f6495444bd55.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7599"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. (Public Policy) from University of Edinburgh, UK in 2020, BA , LLB Hons at Christ University Bengaluru in 2018"

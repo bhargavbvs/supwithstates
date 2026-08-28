@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/3b3843a5d2f153d2c20a45f42ba13eecf9e67521.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=282"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "H.S. Passed West Bengal Council of Higher Secondary Education (Bairatiguri High School, Dhupguri, Jalpaiguri)"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 72,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/ce3d07028768d28ddc3255b8e7bd986bdeb8d22d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=174"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 1976, Graduate in 1973 from Paunjab University, Chandigarh"

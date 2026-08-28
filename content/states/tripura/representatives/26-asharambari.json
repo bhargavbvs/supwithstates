@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Deputy Chief Executive Member of TTAADC",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/tripura2023/0935042506db39c73048392aef2f323014f8636c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6973"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech. (Computer Science & Engineering) From North Eastern Regional Institute of Science and Technology, Arunachal Pradesh (Deemed University), Year-1994"

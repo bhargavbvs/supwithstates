@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Medical Practitioner & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/4b6ff422cfc1a7f0997f20dbc03fafbd7644281c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6826"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Doctor of Medicine from S.N. Medical College, Agra under Dr. Bhimrao Ambedkar University, Agra in 2005"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "(Currently a Member of Legislative Assembly)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/92ff266c372aa4c95167fe7b654736b3f5dc4aa1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=6"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Degree(Course Completed),D.B.College, Sasthamkotta,Kerala University(1997-2000)"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=6",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

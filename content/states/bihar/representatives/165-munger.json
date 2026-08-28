@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 52,
     "profession": "Business, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/336cc18d175cb07730ab9f7d51a0df7a87912f5c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=392"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Tilak Manjhi Bhagalpur University 1998"

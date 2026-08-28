@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "M.L.A",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/8f2ff47fd1c0b7e6345b20e2948af1a312e68745.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=767"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Dhole Bagan H.S School Under The Assam Higher Secondary Educational Council In 1991"

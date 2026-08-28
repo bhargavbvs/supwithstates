@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Business(Real Estate)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/9bf4b3a4f8e950b8d2ec3f61a191caa6e45f7f3e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=687"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Ekamra College under Utkal University in 1992"

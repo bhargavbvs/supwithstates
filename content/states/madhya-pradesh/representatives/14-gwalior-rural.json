@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/d9cf8681df8e35da63aa0fa41a0394c634e7d606.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=704"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Jiwaji University Gwalior Mp in year 1999"

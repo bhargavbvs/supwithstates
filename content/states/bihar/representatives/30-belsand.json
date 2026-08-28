@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 34,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/d808a23c76be959b4bb29908faaf0771b883b6d6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2830"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from L.S. Commerce College, Muzaffarpur Patna In 2009"

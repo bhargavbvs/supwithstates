@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e731c586092875a385a4e582d4cfd92bbd493090.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=896"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. First year from Garhwal University Srinagar Uttarakhand"

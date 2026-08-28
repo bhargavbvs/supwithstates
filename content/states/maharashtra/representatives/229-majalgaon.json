@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Agriculture & Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f7bc655b0dc2023ac2a652cad72554d180593ed3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=559"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. in 1974 from Mumbai University, HSC in 1971 from HSC Board Pune, Fergussion College, Pune"

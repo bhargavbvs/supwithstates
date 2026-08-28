@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Contractor Business & Other Sources Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/c81a3df3f13d70b4b312d6338da652060e0bf6bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1394"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Com (Second Year) in 1986 from Bhopal University (Barkatullah University Bhopal)"

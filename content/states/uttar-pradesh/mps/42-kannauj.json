@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Agriculture, Public Interest & Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d22a62158588a70ac0a5305ec6e475861c495b58.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6236"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. from BE Civil Environment, Mysore University in 1994-95"

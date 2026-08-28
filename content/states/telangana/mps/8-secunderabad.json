@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/969091a0758f3cbb6559fc6aa13c7b741cb23ea8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5251"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Tool Designs (1975-78) (Central institute of Tool Designs, Balanagar, Hyderabad)"

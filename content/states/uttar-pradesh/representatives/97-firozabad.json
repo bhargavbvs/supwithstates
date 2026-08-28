@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/358fd07a37f3943d210d9aace72c73b50089baf9.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1668"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. in 1984 from S.R.K. College, Firozabad, Agra University, Agra"

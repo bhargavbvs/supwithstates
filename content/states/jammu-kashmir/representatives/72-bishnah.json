@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Doctor (Resigned)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/baf0392b51a2b43bd42f64c637ebf2f6c390d31d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=774"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS From Tashkent University Russia, Year-1998"

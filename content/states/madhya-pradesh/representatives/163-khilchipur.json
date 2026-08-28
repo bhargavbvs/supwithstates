@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Agriculture & MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/484dea5d7457db95c81a8bbd95ed50341e5ed624.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=317"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Govt. Boys Higher Secondary School Jirapur In 1967"

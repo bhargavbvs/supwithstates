@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/82ae631b426c2a758f43b191d1a02454d947b348.jfif",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1860"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.D.S. from Dr. B.R. Ambedkar University in 2010, P.G.S.H.M. from I.I.M. Kolkata in 2020"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "MLA Salary & Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0fe98d2cef40c6f405f9b4e9cc25f0e4e1a64488.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1136"
+    },
     "education": {
       "level": "Literate",
       "detail": "Literate"

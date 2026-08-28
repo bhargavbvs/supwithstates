@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Agriculture and Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/bee63fb85e50e8ec6ed923583483a23915510fc2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=877"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Hindu Degree College Moradabad in 1982"

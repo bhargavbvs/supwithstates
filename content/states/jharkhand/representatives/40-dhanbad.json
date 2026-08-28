@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/793cbfa03604b44f6de5b1b18589f8d572888058.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=823"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA In History Patna University in the year 1985"

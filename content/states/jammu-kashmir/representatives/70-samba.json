@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Pension from J&K Govt. and Salary Private Sh. Sahil Slathia",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/5d8ad9eda5106d9ea1f427f193568c9809b3286f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=966"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculate from JK BOSE at Govt. High School, Gurah Slathia Annual 1971"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 33,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/c3828c52bdb880bdd6b0ce882cdf38d442ccc8be.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2862"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA Pass in Bengali, University of Calcutta in 2015"

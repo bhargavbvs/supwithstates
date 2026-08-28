@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Agriculture, Business & Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/5d573bc67e10deb5a6d18b821a6ea612a16f2037.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=394"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Khalsa College, Delhi University, Year-2003"

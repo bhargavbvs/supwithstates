@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/3175ffa393a27abd75116973cfe8cc159454b55d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Pass from Dumdum Ananda Asram Sarada Vidyapith The West Bengal Council of Rabindra Open Schooling June 2022"

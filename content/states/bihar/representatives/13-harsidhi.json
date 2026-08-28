@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 61,
     "profession": "Agriculture & Social Worker, Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/569e86d94121e68454ade120425512a4db23b7f8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2790"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "I.A From M.S College Motihari, BRA Bihar University Muzaffarpur in 1986"

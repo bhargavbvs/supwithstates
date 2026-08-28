@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Politician, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/a01ec4b2f2180e8fc487c3b8ec9cc0fe0d376a53.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=64"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Mathematics from the Gauhati Unviersity, Dist. Kamrup(M) in 2003"

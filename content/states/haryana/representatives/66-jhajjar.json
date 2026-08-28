@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Politician & Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/e85d65e3a4a15950b6f759098868dcef5963c83c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=156"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Political Science from Kanpur University in 1998, LLB from University of Delhi in 1996"

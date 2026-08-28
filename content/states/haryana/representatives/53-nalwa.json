@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/3ce8627a9ee4878378d0a7cc00f6f4ee06a6f826.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=221"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th (Matric) from Board of School Education Haryana, Bhiwani in 1981"

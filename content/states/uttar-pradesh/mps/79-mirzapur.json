@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 43,
     "profession": "Social Service, Member of Parliament Lok Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/808e1008bdd376a68c4dfb9bbcb13d95fe76f376.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9380"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA From CSJM University Kanpur Year 2010"

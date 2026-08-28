@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/206e0a4686fd8619956ab031eb8fbb96b8b10647.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=432"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass from Amrit Bharati Vidhyabhaban in 1993"

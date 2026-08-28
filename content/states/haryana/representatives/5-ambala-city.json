@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/3147c1294f608ced7433680d867f230c153067d0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=301"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts in 1974 from Govt. College Hisar, Punjab University Chandigarh"

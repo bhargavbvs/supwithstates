@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 60,
     "profession": "Politician & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/2ad664a365d3f11a26e5a163a9f740657b9e8cd1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1943"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Maha Bodhy College, Chakan Gaya, Magadh University, Year-1991"

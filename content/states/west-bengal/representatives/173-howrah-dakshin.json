@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 65,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/c08fffc321f83ded51e0299cede8da68800ed508.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2808"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Sec. From Shibpur Hindu Girls School Jogamaya Devi College in 1979"

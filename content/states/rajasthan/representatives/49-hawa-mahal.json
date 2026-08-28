@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Puja Recitation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/289d5954cb24f0f6b6d8e4eee451b92dad48b6de.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=210"
+    },
     "education": {
       "level": "Literate",
       "detail": "Literate"

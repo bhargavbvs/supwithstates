@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 65,
     "profession": "Retired Professor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/64fccaadd3b5b0adbfc23fe8b151f2a9afdad7f3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=144"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "2006- Doctor Of Philosophy (PhD) from Dibrugarh University, Assam"

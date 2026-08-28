@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Tours and Travels",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/41db6f4c47b3fe4b7da4e36188b8d6cd1c683dd3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3478"
+    },
     "education": {
       "level": "Others",
       "detail": "Kari-Hafiz-Alim-Mufti, Vidhyapeeth -Darul Uloom Devband Dist. Saharanpur UP Year 1986"

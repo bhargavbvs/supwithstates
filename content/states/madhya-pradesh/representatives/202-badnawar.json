@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 74,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/a1d4d038b4452b6c30d010e63a6d92873fe00b51.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=110"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (Eco.) In 1975 & M.A.(Politician) In 1979 from Indore University, P.M.B. Gujarati Colony Indore"

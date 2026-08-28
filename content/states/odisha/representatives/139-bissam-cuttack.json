@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/3002e71acdb8d751b1c6ef8261c1fcbaef16a7f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=44"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Highest Education Qualification from National Institution Open Schooling Passed the Secondary School Examination in the year October 2018, An Autonomous Institution under MHRD Govt. India"

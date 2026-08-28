@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Private Teaching",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dr.M.J.Rahman.jpg",
+      "credit": "Justmohammad87",
+      "license": "CC0",
+      "source_url": "https://en.wikipedia.org/?curid=70293710"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D From Punjabi University, Patiala 2016"

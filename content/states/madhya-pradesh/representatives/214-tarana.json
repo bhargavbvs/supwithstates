@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 44,
     "profession": "Agriculture, Partner Ware house and Legislator salary & allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/bfdd76fb8887ac3aeb5a75bbe198e9905105666d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=215"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA L.L.B. B.A. Madhav University Ujjain, Vikram University Ujjain, yr. 2002"

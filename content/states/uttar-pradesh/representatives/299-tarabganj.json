@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c9b7b07cccd86e20b6a1c102c9d9f728d0c78115.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2919"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed From Maharaja Devi Baksh Singh Belsar Gonda Allahabad Board in 1978"

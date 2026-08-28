@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/38b4c72bd6036923e5388633f9541672c0bdac7c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=775"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Ch. Charan Singh University Meerut in 1997"

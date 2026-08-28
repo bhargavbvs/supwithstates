@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Elected Representative- MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/26c1a711573a1828a862a019fda464ba6b6a124b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=136"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Management Studies (Personnel from Mahatma Gandhi Missions Institute of Management Studies and Research, University of Mumbai completed in 2000"

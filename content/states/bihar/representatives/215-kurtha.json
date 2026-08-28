@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 47,
     "profession": "Politician, Social Worker & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/696c1b277198ce712861e738970e57adaa26b15b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1725"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from C.N.Mishra High School, Dariyapur, Arwal in 1994, B.S.E.B. Patna"

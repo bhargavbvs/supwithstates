@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 66,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/87482d0bf698e0a898f0de30c4eaba5fed7567ae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=135"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Radio Electronics Engineering from BRC Radio Institute, Rangoon, Burma in the year of 1980"

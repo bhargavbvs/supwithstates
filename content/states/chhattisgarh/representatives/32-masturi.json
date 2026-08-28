@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Farmer, Folk singer, MLA Pension and Facilities received by former MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/684017697ccf81d02a9f4c9e92af9f210f7824ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=483"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Certificate from Board of Secondary Education Bhopal MP In 1985"

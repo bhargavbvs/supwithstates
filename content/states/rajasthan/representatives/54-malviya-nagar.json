@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 72,
     "profession": "Salary Allowance as MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/e3142cc7e085fe559be5d9f200d8f8de0c343984.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=295"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate from Law College, Rajasthan Universtiy, Jaipur in 1980"

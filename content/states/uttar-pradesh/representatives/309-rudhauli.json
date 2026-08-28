@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/760bf63964b7f1cdca5a5bb56777b6f0792d9fc1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4198"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Shiv Harsh Kisan P.G. College Gorakhpur University Year 1989"

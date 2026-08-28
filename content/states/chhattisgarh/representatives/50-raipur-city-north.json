@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/7059a1e306f01ec0cb7958ff42506b7cd51a519f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1057"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "D.L.L.M& P.M . and P.M. S.R. Law College Sambalpur, year 1995-96 , L.L.B. Balangeer Law College 1991-92,B.A. Fulzar University Saraypali P.R.S. University Raipur 1980-81,"

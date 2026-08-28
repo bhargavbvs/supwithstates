@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 78,
     "profession": "Ex-MLA & Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/fd29a5e510a26a3270c2bdceeccdba845e7c7ba4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=109"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B (Professional) From Punjab University Year 1975, B.A. From Punjab University Year 1971"

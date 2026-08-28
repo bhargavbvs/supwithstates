@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Headmaster",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/da5341cef5afec9914b357a2488919e3ec2fff3c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2032"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Double Master of Arts in Bengali from Netaji Subhas Open University in the year 2011."

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "N.A.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/6a1441c162d36590ecb1aaf39e12b8d4fc2e4f98.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=68"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Bhopal University Bhopal In 1988, B.H.M.S. from State Council of Homeopathy M.P. Bhopal In 1986"

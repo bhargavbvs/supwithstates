@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 48,
     "profession": "Member of Legislative Assembaly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/571eeff159c5ecaf7178b445b6b2a668adf88a92.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6799"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre-University (Arts) In 1992 from North Eastern Hill University"

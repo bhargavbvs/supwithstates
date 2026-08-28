@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 38,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/03bd80c6108ceabe820a7dda31c0e9fc7eb05d21.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6773"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Under Matric"

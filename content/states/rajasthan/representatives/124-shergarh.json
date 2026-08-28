@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/01cbe25b80a3f92bde6ad7af300389477aea434b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=402"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.com From Jai Narayan Vyas University Jodhpur DCLL from Jai Narayan Vyas University Jodhpur Year 1995"

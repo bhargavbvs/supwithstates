@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Agriculture Income, MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/b6039f8b488086064df0ef5442783a724c78fecb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=723"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Hindi) from PG College Damoh Dr. Harisingh Gaur University Sagar in 2007"

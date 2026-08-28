@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Rural Medicial Practitioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/dcc22b38e14386a9251c3893deefb03fac6b42dd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2444"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Passed from Pandua Sashi Bhusan Saha High School, W.B.C.H.S.E. in 2002"

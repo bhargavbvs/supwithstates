@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Out Let Fitting Worker (Shop Keeper)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/7c1ccc0a8d5d084d4a1c6b6973121a818dff9a2b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=272"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from NIOS, New Delhi in 2017"

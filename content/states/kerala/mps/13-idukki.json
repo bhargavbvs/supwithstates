@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 42,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b4b347b7aa8e5c3425a4d73d96f2963f8f0b26ca.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2275"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA.(Political & Human Rights), School of International Relations and Politics, MG university, Kottayam, 2013, LLB, Kerala Law Academy Law college, University of Kerala, 2005, B.Sc.(Physics), St.Josephs college Moolamattam, MG university Kottayam, 2001"

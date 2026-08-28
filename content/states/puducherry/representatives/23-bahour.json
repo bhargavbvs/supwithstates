@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Business Aswarya Automobiles , Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/806571f93a4116fdf864b762b3a3b4166047e76b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=5"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "B. E., M.S., L.L.B Drexel University Philadelpehia USA"

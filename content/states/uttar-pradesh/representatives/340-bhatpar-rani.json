@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 67,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/952e3fbc4fc1cfa7aa7d506187b498fbb328b630.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3751"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduae from Madan Mohan Malviya P.G. College Bhatpar Rani Deoria in 1986"

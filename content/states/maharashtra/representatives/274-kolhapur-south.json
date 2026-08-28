@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a8c5a6d0a8ea40a879a986c7b316050f0222c2c2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=293"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from Vivekanand College Kolhapur (Shivaji University, Kolhapur) in Year Apr 2000"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/8cfab95751ee07d57afd26edcc3e7cc8f4bc64bf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=7"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "AISSCE Pass From CBSE, Govt. Higher Secondary School, Bomdila, Year-1991"

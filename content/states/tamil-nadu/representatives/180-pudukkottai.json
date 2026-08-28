@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Doctor and Pharmaceutical Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1ca49513f8b0a6a2eb8482180f7e38745d38da20.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1345"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.B.B.S. from Salem Vinayaka Medical College,The Tamilnadu Dr.M.G.R. Medical University-Dec 2001"

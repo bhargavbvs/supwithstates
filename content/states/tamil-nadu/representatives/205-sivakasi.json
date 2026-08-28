@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 30,
     "profession": "Consultant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b169a3162cbaae5895980bfbcf9d8afe7c2e9789.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1093"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc Statistics from Pondicherry Central University in 2019, B.Sc Mathematics from Madurai University in 2016"

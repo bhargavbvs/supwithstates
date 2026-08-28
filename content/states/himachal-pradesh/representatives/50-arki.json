@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Transporter, MLA Arki",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Arkiblockcongress.jpg",
+      "credit": "Sanjay Awasthy",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=22205155"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Government Degree College Sanjauli, Shimla in 1985-86"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Agriculture & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f4cf2afad9d3ab67f7f25a7b3cd87a396caa3880.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3365"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA from Chhatrapati Sahu Ji Maharaj University Kanpur UP in 2000 & BA from Allahabad University Allhabad in 1998"

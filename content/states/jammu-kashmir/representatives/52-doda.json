@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 36,
     "profession": "DDC ( District Devloper Counselor)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/fee323d60f839abb6152e3270d9aa6e238bb4cce.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=133"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M. A. , Jammu University 2012"

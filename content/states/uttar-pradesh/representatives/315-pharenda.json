@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f6e1e983cea4fe1007eca2c42e6fb50b7825315e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4055"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Civil) From Sidda Ganga Institute of Technology Tumkur Karnataka, Year-1991"

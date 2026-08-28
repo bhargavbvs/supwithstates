@@ -29,7 +29,12 @@
     "term_start": "2024-06",
     "age_at_election": 26,
     "profession": "Housewife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1a3068b930b857f82df5164a40950a209fac9dcc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=371"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from Maharaja Surajmal Brij University 2019"

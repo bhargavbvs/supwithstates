@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 36,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/45c887eb6f2a8bd1c586f3784f5214dbc71f1690.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=258"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Pass from Jalsara High School in 2008"

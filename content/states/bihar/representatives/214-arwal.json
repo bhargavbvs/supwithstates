@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Social Service, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/e981143b406051fc5657e4dd3bfcceaec8df25fe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1711"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate (Science) from R.P.S. College, Patna, B.S.I.C. in 1995"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Agricultural, Social work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/34128a8b7e64dacfd42dd43fcfb3512416bbaa14.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1391"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. From JH Patel College of Education Sandagi Dist. Bijapur Karnataka University Year 2006"

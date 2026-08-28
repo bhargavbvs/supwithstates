@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Agriculture Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/57cd36d89e531102769b1788250c04d3d1dd811f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=363"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Hindi Literature in 2002 from Govt. State College Sendhwa"

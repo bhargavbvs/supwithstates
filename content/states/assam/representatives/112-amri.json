@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Senior Medical and Health Officer, Kheroni Model Hospital, West Karbi",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/0b01845fb99aaafab3ec22036a284332e56d2014.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=103"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Medicine & Bachelor of Surgery (MBBS), from Assam Medical College, Dibrugarh in the Year 2008"

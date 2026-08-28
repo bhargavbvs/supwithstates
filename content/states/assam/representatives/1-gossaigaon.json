@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 67,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/01a517f3416c5b42b7c5be9bd3235ad7b26f7680.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=332"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Guwahati University, Year-1986"

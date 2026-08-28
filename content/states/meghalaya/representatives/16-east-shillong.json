@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Ex MLA & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/cd46d0252ea5860fe1de0c08a4c972fe419d35fc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6757"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from NEHU in 2013"

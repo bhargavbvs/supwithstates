@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/aa1832df0d1eed7ec2877e086e7501ac17b2272a.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2737"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate Year 1976 Hazarimal Somani Inter College, Vrindavan (Mathura) UP"

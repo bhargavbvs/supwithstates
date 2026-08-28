@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "Govt, Service, Asst.Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/d39c4b47aedb3579bfddc62c9f0c45bbc20a77ec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2581"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of science, University of Kalyani 2010. Bachelor of Education, Netaji Subhas Open University -2015"

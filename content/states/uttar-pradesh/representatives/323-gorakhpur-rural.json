@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/ce0be05a29a48d3f3e6bc6f84eaeaa85edf866b1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3658"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Swami Devanand PG College Mathlar Deoria, Deen Dayal Upadhayay University, Gorakhpur In 1988"

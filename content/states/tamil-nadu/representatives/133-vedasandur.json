@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/93c97600482f024541c71c882779f61879339efc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=915"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com - Bachelor of Commerce, APSA College - Thirupattur, Madurai Kamaraj University,1989."

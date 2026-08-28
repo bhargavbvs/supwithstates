@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/b9cc3e0d8be5076dd855a0fdf4133de4d6b23969.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=89"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Govt .Law college, kozhikodo 1999 university of calicut"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=89",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

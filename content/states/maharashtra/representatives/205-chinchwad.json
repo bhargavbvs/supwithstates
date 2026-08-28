@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 50,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/33848b91bdf853c3be4ceaef9d5896a95d6813bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3029"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Business Administration (MBA) from Savitribai Phule Pune University Maharashtra Year 2021"

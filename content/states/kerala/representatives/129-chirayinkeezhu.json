@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/250457a20b759b79de8ad33bc04574df2515c55d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=63"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC In 2002 From G.H.S. & Fashion Designing Course In 2005, Pre-Primary Entry Childhood Education In 2007 From Saward Training Centre Poovattuparamha Kozhikodi"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=63",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

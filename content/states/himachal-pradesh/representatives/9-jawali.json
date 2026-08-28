@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 78,
     "profession": "Social and Political Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chander_Kumar-Ex_Member_of_Parliament-Kangra_Chamba_Constituency-_2014-05-21_23-26.jpg",
+      "credit": "User:Sonima.bharti",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=5064644"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA in 1966, M.Ed. from Punjab University Chandigarh"

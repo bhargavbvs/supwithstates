@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Agriculture & Social Woker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/2f2232e6c84a0c777242e48b954ce428569d5b6e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4318"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Gandhi Inter College Barhar Azamgarh Year-1995"

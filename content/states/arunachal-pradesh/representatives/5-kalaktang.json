@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 40,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/d895e836bdb397bc68c709180f5b14cd90b1643c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=9"
+    },
     "education": {
       "level": "Graduate",
       "detail": "PG(Doploma) in Public Relations & Corporate Communication from Xavier Institute of Communications, St. Xaviers College, Mumbai, University of Mumbai in 2005, BA Degree from Wilson College, Mumbai , University of Mumbai in 2004"

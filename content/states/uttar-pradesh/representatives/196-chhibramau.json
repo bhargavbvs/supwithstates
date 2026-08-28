@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Salary , Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/215199adc671357b26e2216f22fca6e0eddaaf7b.jfif",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2132"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Eng Lit.) Allahabad University 1980"

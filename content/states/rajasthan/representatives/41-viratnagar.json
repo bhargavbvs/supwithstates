@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/832c0d8e9bdf2bb933a15c659d2071c2940e6c3e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=92"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Passed from National Institute of Open Schooling Year 2017-2018"

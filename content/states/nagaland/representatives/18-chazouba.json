@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Entrepreneur",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/0adc70d21d4abeeae0b5fd13d0161331877a6766.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6779"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Economics From Nagaland University Year 2000"

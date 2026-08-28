@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Land Developer & Construction and Petrol pump Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/d3200b8ce531ea22964484933cf4cfa14d7ff3d5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1161"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com, from A.V. C. College Vasai, Year 1985"

@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/b8aa53136ed232cb3bab37e71dd1e67298e17ca7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2938"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Government School, Shahganj Tehsil Budhni Dist Sihore M.P. in 1970"

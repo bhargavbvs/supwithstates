@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Member of Meghalaya Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/022575454ece119688e9f700845af237e16a9b6a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6945"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelors Preparatory Programme from IGNOU in 2014"

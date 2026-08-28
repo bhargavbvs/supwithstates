@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Business & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/1933272109c1c0d4e00d7faa2df6dfa11867c474.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=814"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Ayurved Shastri From Gurukul Ayurveda College, Jwalapur, Haridwar, Year-1995"

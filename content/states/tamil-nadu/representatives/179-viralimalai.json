@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "NIL",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/bce27395c5ac7033f0907c49149bcbaf251fb227.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1324"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.B.B.S. From Raja Muthiah Medical College, Annamalai University, Chidambaram In 1999-2000"

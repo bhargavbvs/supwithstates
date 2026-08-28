@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Discharged Govt. Employed & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/f86b80d33aff56c49d6fdc533c6028e20da97428.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6944"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Easter Hill University, Meghalaya In 2006"

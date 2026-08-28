@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 30,
     "profession": "Public Service & House Wife (Member District Panchayat Balodabazar-Bhatapara)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/4f9a4d6e581364331ee7868349097451f473a809.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=416"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Dr. C.V. Raman University Kota Bilaspur in 2020"

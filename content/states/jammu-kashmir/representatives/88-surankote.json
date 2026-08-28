@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Ex MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/5aac6c2530c752ec16b11856bfe73358fe7bf3d5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=402"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BE- Civil"

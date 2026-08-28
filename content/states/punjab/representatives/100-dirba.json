@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Advocate & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Harpal_Singh_Cheema.jpg",
+      "credit": "Govt. Of Punjab India",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=58000934"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Laws from Punjab University Patiala In 1998"

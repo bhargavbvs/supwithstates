@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "MLA & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/574a8659adc43804045535371df5c97c61eee40a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=215"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Potitical science) from Vinayaka Mission university, Tamilnadu completed in the year 2005"

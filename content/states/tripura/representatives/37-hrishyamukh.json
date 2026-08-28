@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 74,
     "profession": "Retired Government Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Asoke_Chandra_Mitra.jpg",
+      "credit": "Asoke Chandra Mitra",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=74342783"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. Examination passed in 1981 from Govt. B.Ed. College, Agartala, Under University of Calcutta, West Bengal, B.Sc. from MBB College, Agartala Under University of Calcutta West Bengal in 1969"

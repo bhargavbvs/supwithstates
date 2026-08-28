@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 37,
     "profession": "Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/da0e632198709ab531ab32f8a798e399371b0cfa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=685"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.B.S From M.U.H.S. Nashik Government Medical College, Aurangabad In Year 2011 & MD General Medicine From DY Patil Medical College University Kolhapur in Year 2017"

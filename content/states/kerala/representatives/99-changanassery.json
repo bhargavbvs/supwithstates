@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "SOCIAL WORKER",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/a44a3e0e291cf1a8c6288943bcb5b6cbf080a34b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=419"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com(Bachelor ofCommerce) from S.B. College, Changanacherry in the year 1987,M.G University, Kottayam"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=419",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

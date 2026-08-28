@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 48,
     "profession": "Business, Political & Social Acivites",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/4cb251bf4974a5c81a5d7ce9c4a83cd0860679b5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=334"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA (Correspondence) from Delhi University in 2002"

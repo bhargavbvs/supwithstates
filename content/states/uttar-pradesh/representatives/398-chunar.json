@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "MLA Salary , Business & Bank Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/8802e2808da9b4a4d026759042a2c0d3653ef3b5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4791"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate MBA , From Bundelkhand University, Jhansi Year 1996"

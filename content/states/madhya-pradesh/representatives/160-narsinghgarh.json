@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 66,
     "profession": "Pension, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/f8a00c9ee2802119dabb7d887ac8498f046b5ff3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1256"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A Passed From University of Narsinghgarh Ujjain in 1979"

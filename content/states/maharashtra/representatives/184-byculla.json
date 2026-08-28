@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Business, Secretary of Mathadi Union",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/153453dbea36738d8203aeb2e28c978b878dc36e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1280"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "H.S.C. Passed from Elphinstone Technical High School and Jounior College, Dhobi Talav, Mumbai in 1990"

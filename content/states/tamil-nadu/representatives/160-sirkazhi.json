@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "ADVOCATE",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b85364d6e4d9c3881697e946e80c85ca7e85bb69.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=966"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Annamalai University in 1999, Diploma in Criminology and Froensic Science from University of Madras in 2000"

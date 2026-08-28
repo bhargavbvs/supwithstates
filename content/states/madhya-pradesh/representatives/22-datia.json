@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 72,
     "profession": "Agiculture, Pension, House Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/5e5b1d3ae93e13203a362f459c72c4353529fa41.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2984"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Eco) From Kishori Raman College Mathura U.P. Agra University In 1976"

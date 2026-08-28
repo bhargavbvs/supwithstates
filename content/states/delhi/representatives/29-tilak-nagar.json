@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 43,
     "profession": "MLA & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/77e0f2b3d528a7344f4153cf3338f7631402d6ca.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=167"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Class 12th from Senior Seconadry School Examination from Nationa Open School in 2000"

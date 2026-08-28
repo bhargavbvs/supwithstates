@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Business, Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c24cc8ae305689521e2d366437c213bde87f4e45.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2197"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Hindi) from Kanpur University, Kanpur in 1985"

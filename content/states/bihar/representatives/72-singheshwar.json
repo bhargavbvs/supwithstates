@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 55,
     "profession": "Assistant Professor, Parwati Science College, Madhepura",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/a15d1246187a903ae22b7ce6f3857179ef3cd2d1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1193"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D In Faculty of Humanities (Philosophy) From Bhupendra Narayan Mandal University, Madhepura In 2017"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 45,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/76a6de5592179541eec161b025835b94d9ab32da.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=705"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Patna College Patna University 2003, B.Com Patna University 2000"

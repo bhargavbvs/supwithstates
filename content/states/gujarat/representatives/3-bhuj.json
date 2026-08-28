@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Agriculture& Animal husbandry",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/448202504f3ac1cab340890af779477abe422107.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4988"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Pass From Desalpar Group Primary School, Desalpar, Tal Bhuj in Year 1970"

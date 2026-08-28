@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/dbdbc02838c9a96205f447eed4e4f10898309ba8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6918"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class VIII Shillong Academy 1968"

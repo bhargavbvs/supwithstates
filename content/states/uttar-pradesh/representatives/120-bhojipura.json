@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Agriculture and Business, Surf Filling Station and Banquet Hall",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/2500272de8ec022bebef1a38aac52ebc2e618da4.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1061"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.B.A. From Mahatma Jyotiba Phule Rohilkhand University Bareilly, Year 2003"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Fisheries",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/d23b229d21fcc78d59ab5af60c647875f3edc0bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=325"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Pt. Ravi Shankar Shukla University, Raipur, Year-1995"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 75,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/6c1afcb7c432091b2c7a94a0f161aaf822bcd4fd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=31"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Hamidiya College, Viram University In 1970, LLB In 1973 from Hamidiya Collage, Bhopa.Barkatullah University"

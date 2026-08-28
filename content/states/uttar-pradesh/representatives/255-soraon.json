@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/05956e4e966a847eb917463a410c3491f03de97b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3351"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate Passed From Kashi Agriculture Inter College Harhua, Varanasi UP in 1992"

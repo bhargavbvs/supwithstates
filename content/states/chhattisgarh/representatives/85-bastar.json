@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Agriculture, Petrol Pump and Cruser",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/2615c96da12d28e82ff2eb2e4a41125246e70cac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=19"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A from Govt. Post Graduate College Jagdalpur, P. Ravishankar University Raipur (C.G.) In 1981"

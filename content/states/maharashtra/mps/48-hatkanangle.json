@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 43,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/35e79e8d2d3258f9f7ed44fd51ec2dcb617271f7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3537"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A Yashvantarao chavan Open University Nashik in Year 2016"

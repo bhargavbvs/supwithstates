@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5a15e3dfc90d626f58855f6b6e8739cc23f799ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=841"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from K.T.H.M. College, Nashik in 1991"

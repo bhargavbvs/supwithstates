@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Social Worker, Agriculture , Pisciculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/c40a8d0da90c33a91a340a662fd1dcbec6e78f26.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=948"
+    },
     "education": {
       "level": "Graduate",
       "detail": "+3 Arts From Rajmas College Delhi 1992"

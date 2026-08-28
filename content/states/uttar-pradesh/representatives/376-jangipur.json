@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": "MLA Uttar Pradesh",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f68224beed0d538f3e46f21f458b36c7a57d9c28.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4533"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. from Awadh Pratap Singh University Reva in 2015"

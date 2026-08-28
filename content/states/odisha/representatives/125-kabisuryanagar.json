@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/b9469f4101ef72d2be1399cd3280ef9535691b05.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=473"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA From Sam Higginbottam Institute of Agriculture Technology & Science Deeemed University Allahabad Year 2012"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 30,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/a0b9a6bf5e654f30e753387a5cbca97d13b4056a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=418"
+    },
     "education": {
       "level": "Graduate",
       "detail": "P.G.D.C. From Gurukul Mahila Mahabidyalaya Raipur, Year-2017"

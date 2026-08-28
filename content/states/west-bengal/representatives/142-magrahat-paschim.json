@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/bc9a522cef3348e4d79c6e557ff30da215ddc661.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2868"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Business Administration from Suresh Gyan Vihar University in 2023"

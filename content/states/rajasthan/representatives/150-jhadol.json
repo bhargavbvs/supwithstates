@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/71527375448f328efca58d4907fd327a9d88c921.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=227"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th From, Higher Secondary School Korda 1985 Higher.Sec. Edu.Board Rajsthan"

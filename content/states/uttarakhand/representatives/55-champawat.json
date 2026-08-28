@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "Salary from State Government",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/4e2776282d7127fde4a4c7c4c0a8963cfb80931a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=758"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of HRM & IR from Lucknow University in 1999"

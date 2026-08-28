@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Politician, Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/6e10d672d6404e9271a46a21fb96083f48426fd8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6834"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class IX from Govt. High School, Mon, Nagaland, Nagaland Board of School Education (NBSE) in 1985"

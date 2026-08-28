@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Social work and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7b8cb1d5232f7c4994d3fdc6a9e49b177add8f5a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1628"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B. P.Ed from Christian College, Lucknow, Lucknow University in 1977, B.A from K.K. Degree College, Etawah in 1976"

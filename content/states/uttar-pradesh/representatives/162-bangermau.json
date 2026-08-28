@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Business, Salary, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/d418ece83d8e0824643ae3cde0b35383b3b17d79.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2464"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com from D.A.V. College, Kanpur, Kanpur University, Kanpur in 1994"

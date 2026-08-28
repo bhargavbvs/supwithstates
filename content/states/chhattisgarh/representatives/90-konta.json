@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Agriculture & Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Konta_Assembly_constituency_map.svg",
+      "credit": "IJohnKennady",
+      "license": "CC0",
+      "source_url": "https://en.wikipedia.org/?curid=66683569"
+    },
     "education": {
       "level": "Literate",
       "detail": "Literate"

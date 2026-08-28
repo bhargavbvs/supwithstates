@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 37,
     "profession": "Business & Contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/ae0e29fe6bd0a85c08627c946b7d062ab497cab5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7619"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts, Bangalore University Bangalore Year of Completion 2008-09, Post Graduation Diploma in Ambedkar Studies, Bangalore University, Bangalore Year of Completion 2010-11"

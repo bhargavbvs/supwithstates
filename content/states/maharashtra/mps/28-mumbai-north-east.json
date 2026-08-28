@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Social Worker,Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/06496f846288a6a29e56cd78d716b4fb84d916e9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7094"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Mumbai University Year 1992...,HSC Pass from Mumbai Board Tear 1987,..,SSC from Pune Borad Year 1985"

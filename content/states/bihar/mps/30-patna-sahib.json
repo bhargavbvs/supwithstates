@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 69,
     "profession": "Senior Advocate, Supreme Court of India",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/70508629d4fe16a2b5e052b5c0139462ff3ae0b4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9505"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LL.B. from Patna Law College Patna University Year 1976-79 & M.A. From Patna College Patna University Year 1974-76"

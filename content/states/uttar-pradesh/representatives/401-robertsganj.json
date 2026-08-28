@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "MLA Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/394654ddc5d06c64afdd3c1a1e0e1025dda6447c.png",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4827"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Bhaurao Devras Rajkiya College Dudhi Sonbhadra, Purvanchal University Jaunpur in 1998"

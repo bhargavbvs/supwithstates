@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Business Tourism",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/986d0feb95dc9ca216e2905bd24024fba9285947.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=416"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.E.(MASTERS IN ELECTRONICS), 2004 UNIVERSITY OF MELBOURNE, AUSTRALIA-2004"

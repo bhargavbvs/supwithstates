@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 64,
     "profession": "Social Worker, Hotel Business, Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/c033ae3b89b424ea3fdeb88de849f10cbcc8b409.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1938"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass from Shivaji High school Chhatrapati Sambhajinagar 1977"

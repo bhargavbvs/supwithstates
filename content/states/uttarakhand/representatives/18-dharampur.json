@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Salon",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/385c3d0df06c91a1d7524778dc9d0803a6318e5e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=532"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc from Kanpur University In 1982"

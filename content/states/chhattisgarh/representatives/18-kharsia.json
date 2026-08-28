@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Agriculture and Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/c72375a72a96390d5229c7ae5add9c45dc1914a1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=451"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Information Technology) Pandit Ravishankar Shukla University Raipur"

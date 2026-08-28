@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 35,
     "profession": "Private Tution",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/cc0be4d55eb37e8d233e807032ef9aba9aa0506f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=493"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D From Assam University Silchar AUS Year 2021 & M.Sc. From Assam University, Silchar, AUS, Year-2014"

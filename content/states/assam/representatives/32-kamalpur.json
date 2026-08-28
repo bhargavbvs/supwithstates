@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/fb365bafd95681e7de3d5d8ca2948c9f5a764eee.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=478"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Science in 1989 from Gauhati University"

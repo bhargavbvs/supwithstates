@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 45,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/3e95efe305b14d88d6f777a99d4f3c5138098ff1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2849"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter Bihar Intermediate Education Kothil in 1999"

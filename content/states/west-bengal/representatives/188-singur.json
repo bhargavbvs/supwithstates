@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Business Man",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/4afa67a91486b8db1b58071250bd77c3f89ebe3d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1540"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Orthopaedics from University of Calcutta in 2005"

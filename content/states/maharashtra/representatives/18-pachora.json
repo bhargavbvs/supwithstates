@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/46a06d40c9f82ba3894220a93159f030bac3b811.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=588"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Certificate (HSC) from Shri Sheth Murlidharji Mansingka Arts, Science & Commerce College, Pachora in October Year 1990"

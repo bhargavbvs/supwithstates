@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Business / Contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/8589007bcafa79a906d5a5913e9a385b5e890f01.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7136"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Geography) in 2007 from North Eastern Hill University (NEHU), BA Honours in Geography in 2002 from St. Edmunds College, Shillong under North Eastern Hills University"

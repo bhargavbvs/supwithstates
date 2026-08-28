@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Mahant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/dd93dc0551bb10e83bbbd0aaccbd7f610b6b67e1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=344"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th from Grukul Education Jhajjar Rohatak Haryana"

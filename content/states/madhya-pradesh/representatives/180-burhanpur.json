@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Agriculture and other",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/0dc21c9e621302fb0789bdaaea1fd8ab28561145.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=485"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. from Nilkantheshwar College, Khandwa Dr. Hari Singh Gour University Sagar MP In 1987"

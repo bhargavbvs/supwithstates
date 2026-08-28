@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 59,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/7e487874ee0bcb51b0edaad6ec7e859209e77ae0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=333"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric 1983 from Mahavir Prasad Ramchandrapur Lakhisarai"

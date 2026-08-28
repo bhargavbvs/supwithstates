@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "Pensioner, MLA Salary & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/2587bebece86fb38afac8c7fb940d712d8a1562e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=222"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate (B.A.) in 1981 from Rajasthan University"

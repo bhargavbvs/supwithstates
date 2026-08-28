@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/2187f105d5b124c9a1466b9bc0de2e5b88e90dfa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=461"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Science from Dr. Ram Manohar Lohia Degree College, Purwa Sujan, Aurraiya Chhatrapati Shahu Ji Maharaj University, Kanpur in 2017"

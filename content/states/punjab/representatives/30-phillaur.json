@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vikramjit_Singh_Chaudhary.jpg",
+      "credit": "Manovigyan",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=71887356"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Govt. College Jalandhar in 2003"

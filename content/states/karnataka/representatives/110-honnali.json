@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 74,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/e37e6bcee7f20b3d2dfd890b4da1d21b4ced1486.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7325"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "B.Sc. in 1968-69, P.C. Jabin Science College, Karnataka University, Hubli."

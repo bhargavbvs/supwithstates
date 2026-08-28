@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/cbad02cea22dadbe26c77926d29034a289027bfe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=432"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Pt. Ravi Shankar Shukla University, Year-2003"

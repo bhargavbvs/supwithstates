@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Professional Sportsman and Ex-Serviceman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/5dcb88e5ca1605103dfffb6d2db601e0c55d1f3a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=231"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Khadakwasla in 1989 Through NDA Jawahlal Nehru University"

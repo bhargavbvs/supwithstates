@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/4357c301b79e3e6dae1218a02e9849f64481a63a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3375"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Pass From RLSJ College, Patna Bihar, Magadh University Year 1989"

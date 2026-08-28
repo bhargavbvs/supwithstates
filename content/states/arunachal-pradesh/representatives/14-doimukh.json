@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Entrepreneur",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/bef6d041bb523b22783ea89960ae0d96ca28c805.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=88"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A (English Literature) Rajiv Gandhi University (Erstwhile Arunachal University), Rono Hills, Doimukh"

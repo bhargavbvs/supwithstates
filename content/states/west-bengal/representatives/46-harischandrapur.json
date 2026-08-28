@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/679727c9608fe63306cc7bae5fe82465c7301e1e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=380"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class VIII from R.S. Public Junior High School, Lodpura (Goutam Budh Nagar), Bihar in 2004"

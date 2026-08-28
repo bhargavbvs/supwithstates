@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Business & MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/23e100a3e71e3f1130c6f0de0596f37f6d942342.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=716"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. & B.sc. from Indore University Indore M.P. in 1978-1979"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/8bcb136033deec651f59b9b32128a8d6d3b4f522.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=161"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law (LL.B) SKJ Law College Under Br. Ambedkar University, Majaffarpur, Bihar Year 1999"

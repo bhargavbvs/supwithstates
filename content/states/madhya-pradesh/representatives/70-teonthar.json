@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/4507f7eadf507e56b65d037d988a88316c037838.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1507"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E(I.T) 2004 from Rajiv Gandhi Proudyogiki Vishwavidyalaya Bhopal (R.G.P.B.)"

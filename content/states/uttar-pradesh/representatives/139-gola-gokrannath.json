@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 25,
     "profession": "Agriculture & Earning a Living",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f226de74504356a237b939bb6e44193e89c3cd53.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4852"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA, LLB (Hons.) From ICFAI Law School, Hyderabad, Year-2015-20"

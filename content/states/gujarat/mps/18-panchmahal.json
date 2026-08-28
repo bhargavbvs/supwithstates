@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 43,
     "profession": "Social Worker/Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/0978df436d92cf430040caa79d9fe23b8a74634b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3430"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. Second Year from SP Patel Arts College Simaliya Dhodhamba Panchmahal Gujarat University in 2003, 12th Pass From Shri Prakash Secondary And Higher Secondary School Simliya Bariya In The Year 2000, 10th Pass From MM Gandhi Highschool Karoli, Kalol Panc"

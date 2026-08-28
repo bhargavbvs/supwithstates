@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/cdd38ad31fc8b33bff1094bffcd46bf94e609351.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1175"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A. fro Indian School of Business Management & Administration in 2008, B.Sc. from Balwant College, Vita, Shivaji University Kolhapur in 2002, LLB from Bharati University Pune in 2023,"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/a4bf03081dbbe67603e8cb9c3302ec9c426518ed.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=61"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A Frist Year 1980, Govt. Maharaj Martand Mahavidyalay kotma Avdhesha Pratap Singh University Riwa"

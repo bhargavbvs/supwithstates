@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "NIL",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/64411d9fe0a7615f731738c2b2130983d1a11e0e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=299"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre Degree-1982-84, PM College, Perinthalmanna,Calicut University, SSLC-1980-81, Malappuram Gov. High School"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=299",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

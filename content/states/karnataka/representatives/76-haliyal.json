@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 76,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/d3a4954fdb00bf943948e6ae084b5dc46f6c764e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7284"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Shivaji University in 1970, B.A. (Hons) from Karnataka University in 1967"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Agriculture and land sales",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/79d5c52ab5b2d79524d398aabb83f0f5435c62c3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=126"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC From Kamban Government High School, Nettappakkam, Puducherry, Year-1984"

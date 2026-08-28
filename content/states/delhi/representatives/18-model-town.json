@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 57,
     "profession": "Chartered Accountant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/cfe2226d68e99458636f9cc4306c42033be894ca.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=177"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Chartered Accountant From ICAI, New Delhi, Year-1990 & B.Com. From Maharishi Dayanand University, Rohtak, Year-1986"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/2103384b1719ed5a5a0bc3470b342ae9194c855f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1273"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Sant Gora Kumbhar High School and Junior College Pashan."

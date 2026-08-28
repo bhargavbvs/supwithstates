@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Business and Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/5862935c60d55e85688110cac2303ada245234cd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=248"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 1992, B.A. in 1989 from Govt. College Khargone, Vikram University Ujjain"

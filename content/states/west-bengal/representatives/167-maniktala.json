@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 70,
     "profession": "Advocate, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/7d2e0982455969c85339927c6e66db1199eca68d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2840"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law from Surendranath Law College C.U. in 1986, Bachelor of Science from St. Pauls College, C.U. in 1982"

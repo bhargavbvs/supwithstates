@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": "Tax Advisor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/548d65786caf067f9bc6bbffe15551d4f3f34717.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=742"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Sidanham College of Commerce, Churchgate, Mumbai in Year 1997-98"

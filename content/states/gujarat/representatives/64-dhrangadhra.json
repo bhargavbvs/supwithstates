@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Salaried & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/4aa72f9880362fa667baa6f9a443690be87b0fc9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5238"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass From Secondary & Higher Secondary Board, Gandhinagar (RPTP School, Vidyanagar) in Year 1987"

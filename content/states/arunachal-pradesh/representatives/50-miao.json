@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Cultivation and MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/7ce9b886d8bac045ac6faa33539af063ce367d3d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=144"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from North Eastern Hill University, Shillong in 1990"

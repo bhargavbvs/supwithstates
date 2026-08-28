@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 67,
     "profession": "Doctor & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/270b2f3cb523d938c5ff29414633978b181024bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8110"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Surgery from PMCH, Patna University in 1991"

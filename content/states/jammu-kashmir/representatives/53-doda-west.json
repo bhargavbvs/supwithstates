@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Politician, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/7db7ead3a3fa46284a2b866e5c9ac28a1e099cbb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=143"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Hr. Sec. (12th) from JKBOSE Session 1988-1989"

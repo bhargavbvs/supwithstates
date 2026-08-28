@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 76,
     "profession": "Pension and MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/384378d2d3e53b86ea23856befbea1633d27f033.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2413"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduation (History) From Patna University 1972"

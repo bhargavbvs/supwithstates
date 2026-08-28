@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/S._Kultar_Singh_Sandhwan.jpg",
+      "credit": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70277748"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering (B.E.) Course name Automobile, Passed in 1997 From Guru Nanak Dev Engineering Collg, Bidar (Karnataka) Under Gulbarga University"

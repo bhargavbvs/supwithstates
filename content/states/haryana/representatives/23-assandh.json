@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Salaried, Business Man and Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/fadf108f3965bbea37d21be4c6241712d6e36957.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=376"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Kuruskhetra University Kuruskhetra in Year 1986"

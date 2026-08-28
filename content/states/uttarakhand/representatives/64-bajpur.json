@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 70,
     "profession": "NA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/41d46c7b02d5d0296327c7d37dd84c8096d0bae0.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=103"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From M.B.P.G.College Haldwani Kumau University Year in 1977"

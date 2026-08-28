@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Cultivation and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/cb1612c5c59c09ac0ffd0172b89eb3bc80e90abb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=3"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class X from Government High School Chheligada"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Business, Petrol Pump, Agriculture, Dharmakanta, Tol Tax Contractor & Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/fb7d0d89e7e7f144739dce841c46e6a72460f3a3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=91"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com in 1990 from Dr. Harisingh Gour University Sagar, LLB in 1996 from Rani Durgavti University Jabalpur."

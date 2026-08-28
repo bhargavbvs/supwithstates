@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/f3e4a428cd4ad03f9cd22bf8e3decd60bb1c6ac9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=320"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation from Punjab Schol Education Board in 1989"

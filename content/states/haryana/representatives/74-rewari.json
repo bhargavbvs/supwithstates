@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Social worker, Real Estate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/a1bfe575bb4e604fe6028181a01ed202f6c4a69b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=39"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation Passed From HBSE Bhiwani In 1977"

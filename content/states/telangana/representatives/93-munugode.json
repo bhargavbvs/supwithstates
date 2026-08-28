@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/fe41203d0f39ab88c350b19b6fc042af51fe0e08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=211"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (External) Osmania University, Hyderabad 1992"

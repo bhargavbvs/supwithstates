@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Member of Legislative Assembly and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/4de5215021b64f26e3b73ae099d9f8334a74d1d6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=78"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Govt. Junior College, Atmakur in 1988"

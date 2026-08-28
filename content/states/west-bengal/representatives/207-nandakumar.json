@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "School Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/d220350307c697d4ec443c024d8d5e0b1e8d232b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=357"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Education), Bachelor of Education (B.ED) from Fokirchand College at Kolkata, in 2008-10"

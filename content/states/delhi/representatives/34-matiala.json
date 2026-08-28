@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 32,
     "profession": "Social Worker & Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/3eb7a4596c9dff71572d5bc5d5d91c0d96eb7948.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=292"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BA, LLB From Chaudhary Charan Singh University, Meerut in Year 2016"

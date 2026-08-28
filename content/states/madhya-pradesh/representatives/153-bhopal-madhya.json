@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Salary, Consultancy & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/021fa9cd79018da7a50a4de5b66602ca5757f371.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=476"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com from Benjeer College in 2000, LLB from State Law College in 1998, B.Com in 1995 from Govt. Science & Commerce, Benjeer College (B.U. Bhopal)"

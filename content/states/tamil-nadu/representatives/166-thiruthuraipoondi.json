@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Politics, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/31add4afdccbd7c126bf523c453daede4d9ebab3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=736"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelore Of Commerce From Mannagrgudi, Manna Rajagopalasamy Govt Arts College In 1993"

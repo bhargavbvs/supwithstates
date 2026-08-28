@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Agricultural, Business, Petrol Pump & Assembly Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1a993b01665f6fef4fbaa3a0fa37afaf6c9e1094.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2625"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Yashwantrao Chavan Maharashtra Open Vidhyapith in 2009"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 35,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/b2f5b9ebd40028a9b7d8b7bc1cc3c90802ba1e5d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=174"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (Master of Social Work) Kalinga University in 2021"

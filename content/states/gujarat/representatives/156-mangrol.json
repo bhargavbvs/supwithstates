@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Agriculture, Business, Socialservice",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ganpatsinh_Vasava.jpg",
+      "credit": "Ganpasinh Vasava",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=37318228"
+    },
     "education": {
       "level": "Graduate",
       "detail": "M.A. Part 1 in 1995, Gujarat University Ahmedabad, B.A. in 1994"

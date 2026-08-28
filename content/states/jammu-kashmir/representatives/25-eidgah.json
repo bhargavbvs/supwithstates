@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 73,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/c17df751c44bf46d6e55456e0435f0b57685e2f5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=282"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (BA) from Kashmir University in 1978"

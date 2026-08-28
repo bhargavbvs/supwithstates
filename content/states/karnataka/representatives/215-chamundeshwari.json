@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 73,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/68b86c3ad11b53dddc4249e669bbda90800072c1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7181"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Class from Govt. High School, Mysore In 1966"

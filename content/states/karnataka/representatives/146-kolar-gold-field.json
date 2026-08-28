@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Social Service & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/f56efd5bd2fe1d3b6c2986450aaf4385cf045f40.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6845"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Political Science from Karnataka State Open University in 2012"

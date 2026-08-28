@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 53,
     "profession": "Business & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/92baafc71e77b8c41357b51ea7237b9eec53bc1b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3465"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from York University Year 1996"

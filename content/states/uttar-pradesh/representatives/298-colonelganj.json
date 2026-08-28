@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 39,
     "profession": "Teacher, Contractor, Proprietor- Aradhya Enterprises",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f650358a6dece95802b3da6aedf5efec05c23b6f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2908"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (History) from J.L.N.M. P.G. College Barabanki, Dr. Ram Manohar Lohiya University in 2005"

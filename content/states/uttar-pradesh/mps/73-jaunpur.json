@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 57,
     "profession": "Agriculture & Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d2e9c5d8bf020a4a424c7bc776095efbf4865be7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8397"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Brahma Vigyan Inter College, Atarra Banda, U.P. Board, Allahabad in 1989"

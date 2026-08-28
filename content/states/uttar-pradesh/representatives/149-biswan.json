@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Agriculture, Business, Ex MLA Pension, Rent From Telephone Exchange",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/1929ff0258aaab701c5c17d7e98058e057e6c229.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2414"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Kanpur University in 1985"

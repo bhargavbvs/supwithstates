@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/81d71b782917522f1668ad30699e15a96b191fa6.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=61"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSSC From DM HSSC Assagao Mapusa Goa ,Goa Board in March 1993"

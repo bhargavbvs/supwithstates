@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Spokesman, Atal Bihari Inter College, Unnao (Government Aided)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/d4dd4e9bd13cc1aeefe5a534e4cb57bcde4322cc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2479"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (History) from M.P.N. College Ausiya, Kanpur University Kanpur, in 1988"

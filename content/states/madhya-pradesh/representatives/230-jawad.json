@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "MLA , Minister Allowance , Rent & Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/9bbda8218f7a471a076eb45b964ba4e8820ddfb0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1506"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com, Delhi University Year 1977-78"

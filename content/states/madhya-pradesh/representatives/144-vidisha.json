@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Agriculture, Rent, Business, Bank Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/bcd63c611cf6b5882ad392482ceeb1e7e2eda42a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1663"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School Govt Boys Higher Secondary School Vidisha in 1981"

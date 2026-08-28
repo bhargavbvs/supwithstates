@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/58e7a321a6ac3e1dc2b7a8760077fda4a282b610.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=912"
+    },
     "education": {
       "level": "Others",
       "detail": "D.M.E. from Arulmigu Palaniandavar Polytechnic College, Palani – 1987"

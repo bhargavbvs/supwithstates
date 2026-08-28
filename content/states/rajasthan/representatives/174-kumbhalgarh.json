@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Marble Business, Rent, MLA Salary, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/22ab4403440d706e60f0c1eeed3a6d6b67330da8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=267"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. I Year from Mohanlal Sukhdiya University Year 1983"

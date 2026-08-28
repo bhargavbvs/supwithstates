@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 34,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/db92edcd823f4922bfa98e0628dc322512c673a0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6764"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLM from Amity Institute of Advanced Legal Studies, Amity University Uttar Pradesh in 2015, LLB from Campus Law Center, New Delhi in 2013, B.A (Hons in English) from Zakir Husain College, New Delhi in 2009"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Builder, Hotel Business, Vihang Group of Companies",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6e58d7e25d920552d331e7abafbeffa589972681.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=586"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass from SV Joshi School, Dombivali East in Year 1980-81"

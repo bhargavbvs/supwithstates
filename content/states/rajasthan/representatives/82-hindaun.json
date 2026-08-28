@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "House Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/84633c5df28a64bdc139d24bccda80d0fd8c3df1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=211"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed From Rajasthan State Open School Jaipur"

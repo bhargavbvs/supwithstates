@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 45,
     "profession": "Political Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1483a7d52dc8d76c546fd7ceb408f62ba7f84500.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5071"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BE (Computer Science ) Orissa Engineering College Utkal University 2001"

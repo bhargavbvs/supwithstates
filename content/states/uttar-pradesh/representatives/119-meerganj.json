@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Doctor (Animal Medical Clinic)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e9c06f3b617932ad6bb7766423ef7a335a78bfdf.jfif",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=875"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.S.C in 2001 from IBRI. Izzatnagar, Bareilly, BBSC & A.H in 1996 from Veterinary College Mathura, CSA University Kanpur."

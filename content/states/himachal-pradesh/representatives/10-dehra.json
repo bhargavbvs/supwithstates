@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Farmer, Self Employed Pvt. Tutor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Himachalpradesh2022/cc120137acd5979e844513c8d1bf808b9fc431f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=509"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from HPU in the year 1996"

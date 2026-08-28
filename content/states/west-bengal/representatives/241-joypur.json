@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 35,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/8ac2fdd30f322e57ad2b5c9eb709be3dfcbd13fe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=401"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering 2017, Raipur Institute of Technology"

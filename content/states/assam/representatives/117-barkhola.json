@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/5b0076578002ffc2e84c189c92940f43e5de6427.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=259"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class -X Pass from Govt Boys High School, Haflong, Bord of Secondary Education, Assam in 1980"

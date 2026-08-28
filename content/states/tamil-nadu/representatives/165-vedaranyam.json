@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 72,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/21562da25897f8257f347c969e6663f520b73a1f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=970"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre-University Course, Khadir mohideen College, Adirampattinam-1972"

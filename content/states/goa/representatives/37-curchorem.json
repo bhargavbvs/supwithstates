@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/6045fc98590a228da5922ad8361067bfab2ddcdb.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=3"
+    },
     "education": {
       "level": "Others",
       "detail": "Completed Diploma Course of Three Years in Mining and Mine Surveying in The Year 1992 at Govt Polytechnic Panaji/Board of Technical Examination-Goa"

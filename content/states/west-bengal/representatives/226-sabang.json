@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 72,
     "profession": "Cultivation and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/78983fb6708ab951821effbf7dc3eb0dd1c11c74.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=598"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Jalchak NN Vidyatan in 1973"

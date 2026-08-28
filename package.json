@@ -12,7 +12,8 @@
     "build:data": "node scripts/build-data.mjs",
     "validate": "node scripts/validate.mjs",
     "geo": "node scripts/simplify-geo.mjs",
-    "test": "vitest run"
+    "test": "vitest run",
+    "build:state": "node scripts/build-state.mjs"
   },
   "keywords": [],
   "author": "",

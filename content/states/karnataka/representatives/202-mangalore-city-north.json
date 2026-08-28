@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Prosthodontist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/3ed0d1e4dad6cc4a5cfe2158a18dcc0fc71435a0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7548"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Masters in Dentals Surgery (M.D.S.) from Rajiv Gandhi University Health Science Bangaluru in the year 1998"

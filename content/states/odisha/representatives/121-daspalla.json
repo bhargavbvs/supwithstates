@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/bb123e18b777031748a8d92822e4d67ed5361cf4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=439"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Philosophy From Jawaharlal Nehru University, New Delhi"

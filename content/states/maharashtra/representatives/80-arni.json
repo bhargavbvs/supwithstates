@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4d8809e4ba45f57e9ad7306d3dc79b3609ab0862.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1588"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Amravati University, Amravati 2001 and B.Ed. from Nagpur University, Nagpur 2004"

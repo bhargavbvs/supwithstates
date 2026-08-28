@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "Social Worker / Religious activities (Guru Maa)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/33cdb350cda73a41100a31cfe716e748ffa3a90a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2527"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in History from Rabindra Bharati University in the year of 2014"

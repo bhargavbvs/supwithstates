@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Agriculture, Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/4b97d8e3187039d4d76305c4101c87dfcd5a8cba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=413"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. Final from Govt Science College Raipur-1991"

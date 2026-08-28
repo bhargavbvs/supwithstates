@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 53,
     "profession": "Social/Political Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/dbc83343edd621a56bc05118303af317492fb4d0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2566"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From T.P. Verma College Shikarpur, Narkatiyaganj, Year-1994"

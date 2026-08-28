@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6b7176d6ba19321f73e797c005762ddba82f7c68.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3114"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B. Pharmacy From Government Polytechnic College Karad Shivaji University Kolhapur In The Year April 1997"

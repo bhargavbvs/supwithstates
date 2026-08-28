@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": "Zilla Parishad Karmadhakshya, Farmer & Consultants",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/3cf29e996cec9b412ce789f95afc0701db88a5d1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2887"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Pass from Bhangar Mahavidyalaya, Bhangar South 24 Parganas, University of Calcutta in 2007"

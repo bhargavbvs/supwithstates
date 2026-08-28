@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Agriculture and Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/2e6b459fef9bcfa48952870d0e323df623e828ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=308"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Graduate) From Jain Vishwabharti Institute Ladnun Year 2018 & ITI, Year-1972"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/0ef8802051c7f4558cdc2aefcdfc237aa8da1d3e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=247"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "SSC Pass From Amravati Board in 1988 Passed HSC From Amravati Board in 1991 Passed BA SY From Amravati University in 1993"

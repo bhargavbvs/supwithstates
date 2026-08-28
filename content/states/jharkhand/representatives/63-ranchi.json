@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": "Member of Legislative Assembly Ranchi Jharkhand",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/2842cb8a23686f5c59c68d87a19322c31c4fc6c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=342"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B Year 1983 From Chota Nagpur Law College Ranchi University"

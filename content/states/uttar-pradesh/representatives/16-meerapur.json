@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 33,
     "profession": "Farmer & Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/dce4ed6effabe379cf24824bc7ebcddcf425b6d1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=180"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A., L.L.B (Fiveyear) 2011 Sri Ram Law college Muzaffarnagar , C.C.Singh University , Senior School Certificate 2006, Steping Stone School Jaansath Road Muzaffarnagar"

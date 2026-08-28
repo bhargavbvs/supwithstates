@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Business & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/2b79596d1212a4ac076b1abe6fbc77993f009f0a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=564"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Standard 1986, St. Anthony High School Malvani Church, Malad West Mumbai 400095"

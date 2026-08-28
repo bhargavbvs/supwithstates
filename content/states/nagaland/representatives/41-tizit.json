@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Farmer, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/7c8b93aa06fa853b187322fb69533015c87569bf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6947"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. in 2004 from Dimapur Govt. College Dimapur, nagaland University"

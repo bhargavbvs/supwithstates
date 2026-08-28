@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 39,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/63454b44c5d716e014ddb0ad9e69106f1b92e526.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=7"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass from the Institute Police High School, Chatrapur under BSE Orissa in 1999"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 50,
     "profession": "Social Service, Farmer and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/ec6f31468076abba78438e7a452b5b5a176e71bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=517"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Education From Dr. C.V.Raman University, Bilaspur, Chhattisgarh, 2013"

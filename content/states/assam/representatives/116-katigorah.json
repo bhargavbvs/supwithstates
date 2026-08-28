@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/280bb832a1393ecab38570f682261c5aa94fae31.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=591"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Business Administration in Human Resource Management from Assm Down Town University Passed in the year January 2022"

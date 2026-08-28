@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 40,
     "profession": "Social Service, Environmentalist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/356af19dfdb1c001ac5195f9c4f9c1699ea78bfb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=936"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Tech. in IIT, Kharagpur in 2008"

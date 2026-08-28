@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/9ff69fbd3d906185a0e36df9d3efd7952884097c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=675"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com. From Mahatma Gandhi University - 1992 & LL.M. From Mahatma Gandhi University - 2005"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=675",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

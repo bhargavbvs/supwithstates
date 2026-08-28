@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Director & Godawon Rent Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5a0a7981bd2f0f85fe699a676931075f27745286.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=731"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th from Pune Board, Pune New High School, Dist. Solapur"

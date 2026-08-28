@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b39af65faa1c94f59fee3d4340613a044db5e6f7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=606"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. From Swami Ramanand Tirtha Marathwada University, Nanded-2018, B.E.Electrical From Government College on Engineering Karad, Shivaji University , Year 1986."

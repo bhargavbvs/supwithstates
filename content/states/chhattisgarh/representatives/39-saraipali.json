@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/d1b00d794b0c464111aab8c6b008d4f25c428d49.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1207"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "B.S.C. 2002, MA. Hindi Year 2008, B.Ed. Year 2019 P. Ravishankar Shukl University"

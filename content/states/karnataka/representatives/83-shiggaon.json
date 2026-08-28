@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/856965be8dba47c24c19b136b2a0ba83861b0d52.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=9563"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Karnatak University in 2003"

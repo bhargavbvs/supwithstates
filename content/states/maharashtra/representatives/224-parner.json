@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Farming and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/8a05112f039d5400bebef950fa179c06af8f6879.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=615"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From New Arts Commerce and Science College, Ahmednagar, Pune University, in year 1976"

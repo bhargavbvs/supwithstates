@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Pension, Farmer, Ware House",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/6f91fc786b075c144ae82ce50626904e6ca26228.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1496"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Hindi) from Maharshi Mahesh Yogi Vaidik University, Mehar Dist Katni M.P. in 2022"

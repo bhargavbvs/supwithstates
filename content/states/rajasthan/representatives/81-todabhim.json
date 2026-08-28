@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Pension and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/0bd2c611d6b53315960af6837c5da201aacbc8ce.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=503"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Rajasthan Higher Secondary School Gangapur City 1977"

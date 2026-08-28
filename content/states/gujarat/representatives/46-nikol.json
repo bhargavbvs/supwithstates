@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Business (Textstyle Mashinery Manufactring)Developers Infra Marketing",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Jagdish_Vishwakarma_%28Panchal%29.png",
+      "credit": "Skymehta143",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=71454754"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "F.Y.B.A.From Gujrat Universtiy,year-1993, 12th From G.E.S.B.March-1991,10th From G.E.S.B. Octomber 1988"

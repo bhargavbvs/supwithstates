@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Retired Director ,Agriculture Dept.Nagaland",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/nagaland2023/85f28e8b1ac40459a3aa3495bd55668d9e634874.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6766"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc.(Agri) from College of Agriculture, Medziphema, Nagaland, North Eastern Hill University Shillong in 1983"

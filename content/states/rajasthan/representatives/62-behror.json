@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "MLA/Minister Pension, Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/03200dd13fa51ade7c5163f87d98fe190587b614.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=98"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Graduate( Ayurvedic Medicine & Surgery ) From Delhi University Year 1980"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Agriculture/ Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/df9539c526e622b315adf0187c7a6e8459b453a2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=819"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Agra University Agra R.V.S. College Agra in 1981"

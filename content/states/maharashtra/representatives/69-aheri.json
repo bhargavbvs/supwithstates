@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4d762cca511017a5c2354664ea9182109abd3da8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1372"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC from Shivaji Preparatory Military School, Pune, Pune Division Board, Pune 1972"

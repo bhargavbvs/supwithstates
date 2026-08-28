@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Retired Government Employee",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/0b6c6a7012a3b450b8db700900d03d5f4f71b73d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=722"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering from Regional Engineering College Kahmir University in 1986"

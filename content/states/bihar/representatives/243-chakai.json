@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 77,
     "profession": "Agriculture and Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/87a36886e6f9f6f685974e3e545b475b9c1369e5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1910"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From Falguni Prasad Yadav College Chakai Bihar Intermediate Council Patna Year 1994"

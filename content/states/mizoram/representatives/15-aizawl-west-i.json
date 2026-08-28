@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Ex- Serviceman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/14f0f985f6c61dac92afcefd7c3ffdbf78094eec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=42"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSLC from Mizoram Board of School Education in 1998"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 82,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/185efe54cf11e6efeeda195d4870ed0d682a23dd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2600"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Passed B.Sc. from Asutosh College in 1965 and L.LB. from Hazra Law College in 1971 both under Calcutta University."

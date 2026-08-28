@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 76,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/6b9fdc5a15c0df4efcaa69f653de4e5ec8be5bb9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1202"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc., (Physics) From Alagappa College, (Madurai Kamaraj University) 1968-1971 & SSLC From Natham Durai Kamalam Board High School-1966"

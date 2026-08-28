@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Farmer, Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/2e212afc477a655b15e54c9e48647c621e672688.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=458"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Passed from Loyola Higher Secondary School, Kunkuri Madhyamik Shiksha Mandal M.P year 1981"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/MLA_Ashraf_Ali_Khan.jpg",
+      "credit": "Mohdsalikk",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70282580"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From National Open School New Delhi 1992"

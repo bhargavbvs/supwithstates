@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 69,
     "profession": "Agriculture, Salary of M.P. and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/70d90f4b7120a1f11bd59d2ef855d8289969fbac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3603"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Gujarat University in Year 1977"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Business and Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a8f9c877c9a65df51abb08509debe422d5206b7c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=288"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E.(Chemical Engineering) from Bombay University, Mumbai Thadomal Shahani Engineering College, Bandar, Mumbai in 1997"

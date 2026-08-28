@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 48,
     "profession": "Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/9046d12ae475c1ac0cd1dfddcfd1bd8dc289f35f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6959"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MLIS from NEHU Shillong in 1998, LLB from Tura Law College, Tura in 2011"

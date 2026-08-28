@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "Agriculture and Salary (MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/4fcb75ece4bff5536387bdb824b6f84d5047afa8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=48"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. First Year from Govt. Post Graduate college sehore in 1975"

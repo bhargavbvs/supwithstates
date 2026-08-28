@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/9aa9a2009e7720b0f6703c4daae89cff8381ed8a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=306"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc passed in 2004 from Diphu Govt. College under Assam University"

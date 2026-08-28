@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Agriculture & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/a08620034c779a607a77669b0dedff4333ceaa85.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3313"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From Gandhi Inter College, Bahraich Board of Secondary Education, Allahabad, U.P., Year-1981"

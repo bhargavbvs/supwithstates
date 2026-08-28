@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Farmer And Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ddc1199dd2d62ef9514f3c5b13264aa1346f8a27.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=627"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass From Mudhoji High School And Junior College Phaltan In The Year 1984-85"

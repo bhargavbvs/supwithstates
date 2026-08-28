@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Agriculture, Salary, Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/b5f2bd0ccea685bcc68399ec3bb25bffed701a9f.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3146"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation in 2018 Maharshi University lucknow"

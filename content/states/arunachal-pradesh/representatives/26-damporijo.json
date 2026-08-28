@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/7f22a75057a6ffac9abdc7f8c5f1397cf7a8f03e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=30"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class X Pass from All India Secondary School Examination (AISSE), Govt. Higher Secondary School Daporijo in 1988"

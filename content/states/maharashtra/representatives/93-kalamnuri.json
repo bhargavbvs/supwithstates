@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Agricuture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/d7fdabe7cd4ca46e2051b409de7db7909cc53e61.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1021"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Pass from Manik Samarak School Hingoli 1995"

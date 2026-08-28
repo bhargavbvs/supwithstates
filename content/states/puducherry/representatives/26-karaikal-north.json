@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/c2f05fcbfcd496e144ac40e38d886d75de4a4c6c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=112"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Sociology From Annamalai University Chidambaram Year 2000"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/158e6d4ab2b585662301e3ad14b64544f4ea344b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=491"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. English from Maharshi Dayanand University Azmer in 1991, B.Ed From Raj. University Jaipur in 1986"

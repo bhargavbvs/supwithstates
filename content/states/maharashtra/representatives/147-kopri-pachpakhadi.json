@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/8cc02233fbe9c3b1f6849daafc3ecf184aa1dfd3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=836"
+    },
     "education": {
       "level": "Graduate",
       "detail": "M.A 3rd Semester Pass from Tilak Maharashtra University in Year Dec 2021, BA from Yashwantrao Chavan Open University Nashik in Year May 2020"

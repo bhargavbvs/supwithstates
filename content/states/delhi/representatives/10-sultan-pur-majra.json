@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/06b8e09ee577610666917c8b64ff6adae59d754c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=374"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "10+2 From CBSE Ravindra Public School, Pitampura Delhi Year 1994"

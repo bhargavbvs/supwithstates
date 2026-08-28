@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Political, Agriculture (Hailing from Agriculture Family)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/5684923cef720fb69fa829a084a7218b62c6954e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=165"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (History) from Hyderabad Central University in 1986"

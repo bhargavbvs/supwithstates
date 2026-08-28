@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/4b272870e0f607f22135a42b7816e4ea0d893afb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6847"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com Passed in the year 2018 under Indira Gandhi National Open University"

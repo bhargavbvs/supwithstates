@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Advocate and Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/56d49be1e7c3af727d1ba0b2d094e736a2d25062.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=880"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B From University of Kashmir Year 2009"

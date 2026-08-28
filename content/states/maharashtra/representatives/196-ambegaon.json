@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4cb7456eb4321839809d04fde7434112ad2da4be.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=134"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLM from Govt. Law College Mumbai University in Year 1983"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/262-Allahabad_North.svg",
+      "credit": "Own work based on User:Furfur",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=49336186"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Intermediate from ISC Board in 1999, (B.Tech)Beng Software Engineering from The University of Sheffield England in 2003"

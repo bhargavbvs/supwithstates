@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Agriculture, Property Rent, Service as a MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/066da03001d1855247b56a64e017537bb3fd51da.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=285"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S.C. From Physics Garhwal University in 1985"

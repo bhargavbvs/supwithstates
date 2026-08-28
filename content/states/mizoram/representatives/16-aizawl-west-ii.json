@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/42c8f6b63dfb302982a8c7aae16449587e60bed7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=43"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of arts (History) Northern - Eastern Hill University (NEHU) in the year 2001"

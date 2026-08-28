@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Actor, Director",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/0a8f670a506e9906848d9023f712b1ce6e66eda0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=763"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th from Tamil Nadu Government Don Bosco, Egmore, Chennai in 1992"

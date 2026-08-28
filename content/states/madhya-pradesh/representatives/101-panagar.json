@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Farmer, MLA honorarium",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/86793d3738b39f247ccd473328f4a6b45e833b22.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=73"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce (B.com) from Mahatma Gandhi Chitrakoot Gramoday University, Chitrakoot Satna M.P. In Year 2013"

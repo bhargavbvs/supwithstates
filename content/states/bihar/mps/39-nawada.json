@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Agriculture Business,Social Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6598afa9f0d94fcc6b7ae91cebdf1377138cbd19.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1695"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Ex-MASTER IN INTERNATIONAL TRADE ,INDIAN INSTITUTE OF FOREIGN TRADE(IIFT)NEW DELHI -1998 L.L.B 1997,"

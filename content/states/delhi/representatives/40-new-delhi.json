@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 47,
     "profession": "Business and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/fa1441b13d579fbd09d21dfb875ef42c7824fe73.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=157"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA from School of Management, Qutab Institutional Area, New Delhi 1999"

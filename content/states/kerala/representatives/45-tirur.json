@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": "Farmer and Currently the MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/6cb22ac957991b6886fe68bec6333819bbba70ba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=337"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "SSLC Failed , GVHSS Kalajeri 1976-77"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=337",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

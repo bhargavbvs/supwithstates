@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/308258a8bc23ebbe072fc79dd7a7d99d466fe214.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=760"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Standard Passed Govt High School T Kallupatti Peraiyur Taluk, Madurai District 1988"

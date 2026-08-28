@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 32,
     "profession": "Company Director",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/03dad1fd7735639a3eb8974b6e58184299770a4e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1900"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From (Double Major in Economics & English) from University of Amherst Massachusetts, USA In 2015"

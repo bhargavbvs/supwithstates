@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5fba5749da95ff6ad16fbd9aaef4d827316dcc17.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=880"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc (Agri.) in Jan. 1991, B.Sc (Agri.) in 1988 from Kokan Agriculture College, Tal. Dapoli, Dist. Ratnagairi"

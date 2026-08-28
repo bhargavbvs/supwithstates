@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b95857ea0af8a846822e422c9e45667c10cafdd9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1724"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts, Commerce & Science College Tal Ashti, Dist Beed (M.S.) University Dr. Babasaheb Ambedkar Marathwada University, Aurangabad (M.S) in 1992-93"

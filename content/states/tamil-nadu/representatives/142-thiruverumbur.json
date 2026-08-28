@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/c0ec891ce99adffc17a9ef9708e1b2da57f2e035.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1269"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "S.S.L.C From Mukkulathor HSS, Tiruchirappali in 1988"

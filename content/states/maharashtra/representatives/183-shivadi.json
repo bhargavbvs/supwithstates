@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Business and Political Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/3e0d9fdc3dacebe502f379f8631054eaf6efe7bd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=702"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "XI Standard from Social Service League High School, Damodar Hall Compound Parel, Mumbai 400012 in Year 1970"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 29,
     "profession": "Journalist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/8adddf6632c3b4449175c6478e419cee78b42798.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1859"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts, Mass Communication and Journalism from University of Burdwan in 2020"

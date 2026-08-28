@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 76,
     "profession": "Agriculture, House Rent , MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/7d8e0e3191a7c5fac81f48d280144250695564bd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1877"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate, 1969, BSS Collège Supaul Bhagalpur University Bhagalpur"

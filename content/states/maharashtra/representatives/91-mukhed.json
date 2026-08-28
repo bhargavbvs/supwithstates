@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Agriculture & Assembly Member",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/374dacb180873c05b12d74f568f771222b10d848.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1014"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS from Mumbai in 2004, DMRE from Mumbai in 2011"

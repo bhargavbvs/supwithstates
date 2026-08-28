@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/743c7121d4f9c7770fa592bb1b598022f2c514e3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1144"
+    },
     "education": {
       "level": "Others",
       "detail": "D.Ted/State Board of School Education/2005-2007/Sri Venkateshwara Vidhyalayaa Teacher Training Institute"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Business (Construction & Transportation)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ab70d388191669b2e6c9324f5650393fbcb6f091.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=194"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "F.Y.B.A from Yashwantrao Chavhan Open University Nashik in May 2009"

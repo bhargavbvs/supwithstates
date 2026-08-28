@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Brick Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/33a6d57d7c65d1c0f7a19c958c13f44f83d2f87b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4044"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate in 1993 Secondary Education Ashok IC Naktaha Mishr Deoria"

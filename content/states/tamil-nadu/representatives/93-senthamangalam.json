@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Private Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/f1c160f82c760330f8264c619d79877a51256f6d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=775"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BA. BL. (Bachelore of Law) From Govt. Law College, Trichy In 2001. 12th Standard From kamarar Higher School, Villupuram In 1991. 10th Standard Mahatma Gandi High School, Villupuram In 1989."

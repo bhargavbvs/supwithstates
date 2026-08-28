@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/ecdb7f746eedd67ed4442f170960cf1bb34a8840.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=211"
+    },
     "education": {
       "level": "Graduate",
       "detail": "T.Y.B.Com. from DMs HSSC, Assagao, Mapusa Goa (Goa University) in 1998"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Medical Store & Patanjali Cilinic",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/59dee0f84597c4185f489074c815d5489b13a652.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=502"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th, Higher Secondary School Certificate 1988"

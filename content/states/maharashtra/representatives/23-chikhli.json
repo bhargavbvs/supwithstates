@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 41,
     "profession": "Agriculture, Director of Hawre Builders Pvt Ltd",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b4ab83bf337804705f79e6b17181bacd9001d1b5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=198"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Pharmacy From Anuradha Pharmacy College Chikhli Sant Gadge Baba Amrawati University In The Year 2003"

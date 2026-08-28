@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "School Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/3624b829f028b1fb4a52afc490b4672035628128.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=382"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science (M.Sc) from North Bengal Unversity, in the year 2008 and B.Ed. from Netaji Subhas Open University in the year 2015"

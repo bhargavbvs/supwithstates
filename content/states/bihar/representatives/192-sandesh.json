@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 67,
     "profession": "Business & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/c6c107ee69c46bf958d315b3826175e562e10784.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=688"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Pass from Madhya Vidyalaya Nathalpur Anchal Barhara"

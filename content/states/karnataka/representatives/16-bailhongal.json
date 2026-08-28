@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Advocate and Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/177e9fd3997c4a06b89b0511587fad1bddbbac43.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7119"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Laws (Special) from Karnataka University Dharwad, Karnataka University Law College, Dharwad in 1996"

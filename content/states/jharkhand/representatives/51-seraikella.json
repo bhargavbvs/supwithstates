@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/9394a38fc146d8794e3982aa504794a61f91f0c4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=734"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric From RKM High School Bistupur Jamshedpur BSEB Patna Year 1974"

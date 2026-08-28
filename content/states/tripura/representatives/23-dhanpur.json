@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Tripura2023/0cb5f6a18c5c6cbe124e2b447f9759f1efeaeaea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=7075"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Pass Under Tripura University in the Year 2004"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 72,
     "profession": "Salary & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/2094df27311c3cb9fc1c9d14a572ca52711c78b1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1647"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th , Class from K.R Inter College Farrukhabad Year 1968"

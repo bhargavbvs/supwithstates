@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/3f1a565b00ce375887c600583a1a2189dda03b9a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=100"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Law from Kumaun University Nainital in 1997, B.A. from Kumanu University in 1994"

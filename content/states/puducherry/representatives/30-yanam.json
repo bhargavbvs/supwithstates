@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 62,
     "profession": "Pensioner as MLA and Aqua Culture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/4eed47be165226b7dd7f04f8c057d4ffae13b95b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=111"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th standard: Passed in Mahatma Gandhi Govt. Boys High School, Yanam(1980)"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d4b36bdb10c9f4095aa8aecf3a74886dc9888923.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1316"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th standard-Thiru kamarajar Municipal Higher Secondary School, Villupuram, Department of School Education, Government of Tamil Nadu-1988"

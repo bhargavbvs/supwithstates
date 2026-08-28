@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 66,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/e738805c105644a8161c6f8861feea7b20e802a8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9045"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Calcutta University in 1976"

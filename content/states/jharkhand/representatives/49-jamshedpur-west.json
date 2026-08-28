@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 73,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/41321e792ee8ffae3e9db09663dfc24987e5b81b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=214"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graudation from Patna University in 1973"

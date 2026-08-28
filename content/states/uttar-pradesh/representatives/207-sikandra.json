@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Engineer, Agriculture, MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/246ea26435580b0e587a0ecfddbfcc98c79a53ab.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1739"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Tech from National Technical University Kharkiv Ukraine in 2003"

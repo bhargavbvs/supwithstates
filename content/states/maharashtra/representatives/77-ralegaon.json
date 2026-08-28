@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Principal",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a3ba510827799dbf960437a6c2977ab016162044.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=667"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc from Amravati University Amravati y 1991 ,, Aacharya At AmravUniversity Y 2003"

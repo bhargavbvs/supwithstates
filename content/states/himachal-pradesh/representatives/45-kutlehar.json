@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/himachalpradesh2022/64bb2bab4ad80f6a7619bc18db6235bae6cac029.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=497"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Govt. College Una"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 66,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/dff7fa5e9692cb7dd93587307c21ad40b33eeee2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6810"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "BA (Not Completed) from St. Anthonys College, Shillong, North Eastern Hill University (NEHU) in 1980-82"

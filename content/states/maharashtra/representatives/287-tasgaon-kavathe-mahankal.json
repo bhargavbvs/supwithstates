@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 25,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/0638d58e7f270c53137abef9f7b9d52735febb4a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1850"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Management Studies from H.R. College of Commerce and Eco. in 2021, Mumabi Vidhyapith"

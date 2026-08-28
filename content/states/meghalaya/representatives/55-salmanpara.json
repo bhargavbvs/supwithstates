@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 36,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/23a033748abac112ddc619086e86d85df465d136.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7024"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Business Administration(M.B.A.) from University of Bedfordshire, United Kingdom In 2013"

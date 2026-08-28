@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": "MLA Salary & Other Source",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/117a0767c1fda44f87250b7ccad5b0b8b4d7485b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=30"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com in 2006, LLB in 2009 Shrinagar"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 73,
     "profession": "Member of Manipur Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Okram_Ibobi_Singh_Official.jpg",
+      "credit": "Ministry of Information and Broadcasting",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=2076403"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (B.A) from D.M College of Arts Imphal Manipur under Roll No. E1675 of Guwahati University in the year 1972"

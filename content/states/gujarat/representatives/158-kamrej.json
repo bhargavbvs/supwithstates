@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Praful_Pansheriya.jpg",
+      "credit": "Sukdev World",
+      "license": "CC0",
+      "source_url": "https://en.wikipedia.org/?curid=72563234"
+    },
     "education": {
       "level": "Graduate",
       "detail": "M.A.I Political Science From Virnarmad South Gujarat University Year 2022"

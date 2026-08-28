@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 74,
     "profession": "EX MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/b04344d61b406ebab6fac6b3febeaf9d37551be9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=182"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Passed From Senior Secondary School Badshahpur"

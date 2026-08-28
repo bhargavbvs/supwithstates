@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Refrigerator Mechanic",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/3e2f828599265587a8ac598e8d863b3e0be60b67.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=345"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from B.S.E.H. in 1996"

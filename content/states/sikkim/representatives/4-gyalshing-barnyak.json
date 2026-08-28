@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Politician (MLA), Ex- Armed Police(SAP) & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/f3ef9e71b692a913c4b0a45610e6af916f5acfd4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=45"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Class 12th from Govt. Senior Secondary School, Soreng, West Sikkim in yr- 1991"

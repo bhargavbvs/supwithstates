@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/8c642f6f8ccda3c5759f1248b5b4490de5ddb71c.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1763"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Brahmanand P.G. College, Kanpur, C.S.J.M. University Kanpur in 2017"

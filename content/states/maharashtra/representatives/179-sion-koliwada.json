@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "MLA & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5d41a4a98646593bb4bb1145b86b1c27f542fc54.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3385"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC Passed (11th Passed) Passing Year 1977, from Government Higher Secondary School, Alangudi, Tamilnadui, India"

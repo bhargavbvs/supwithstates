@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 64,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/a3547c1e19b714941f3409178e557000d4b09079.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=85"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Government Degree College Anantnag (University of Kashmir)"

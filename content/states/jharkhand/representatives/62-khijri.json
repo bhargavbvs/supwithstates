@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Stone Mines & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/435ef15318c8f7ceae5e545ff3b6c4e6c71014cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=885"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation - Ranchi Universtiy - 2001"

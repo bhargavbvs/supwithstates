@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Pension ( Parliament/MLA) and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/6d425f53a5b7aa208c001e4b5ab6a38caccf52ad.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=51"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Study till 9th Standard"

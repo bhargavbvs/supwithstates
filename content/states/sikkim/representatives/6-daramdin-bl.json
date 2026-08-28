@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Politician & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/9190ad2f9614779d99399bc3511c1947c387d015.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=28"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Completed Bachelor of Arts in the year 1995 under North Bengal University from Sikkim Govt. College"

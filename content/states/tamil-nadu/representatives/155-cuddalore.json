@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Real Estate/ Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/69aacba7246eb0f9eda4a06b939a8c20705d3fbd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=890"
+    },
     "education": {
       "level": "Others",
       "detail": "DME (Diploma in Mechanical Engineering) From Muthiah Polytechnic, Chidambaram in Oct 2002"

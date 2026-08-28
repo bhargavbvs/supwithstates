@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/644f6e48711d88995a09c23ab53d03fb9e1e9ee1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=926"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from UP Board Allahabad SAM Inter College, Saharanpur in 1987"

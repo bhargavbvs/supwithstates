@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/ef8d0d9f4cebcb88ad595bddca675d4d64457146.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=448"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Berhampur University"

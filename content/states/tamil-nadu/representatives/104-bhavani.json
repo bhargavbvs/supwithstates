@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 69,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/247f39e7a6630a379cdd921aa2baa6e38dedb83d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1395"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC, GBHSS, Kavindapadi,1973"

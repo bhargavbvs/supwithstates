@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Member (Chhattisgarh Assembly)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/2d35155d7b525c35a3d17fae284c2105bbbeeb93.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=290"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Passed from Purva Madhya Kendra Charoda, vikas khand Malkharoda Dist. Sakti in 1994"

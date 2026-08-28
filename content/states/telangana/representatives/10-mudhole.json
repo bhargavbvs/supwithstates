@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/01ca62e97e8371ea08652044f8258251af9b744e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=206"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from Osmaia University, Dharmavant Science & Arts College, Yakutpur, Hyderabad in 1976"

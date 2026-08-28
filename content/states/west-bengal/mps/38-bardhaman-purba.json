@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 45,
     "profession": "Doctor, Private Practice (Formerly Govt Servixe)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/2db429202f9faaffcdc4347263c1d77b642a6dc3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5087"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Doctor of Medicine in Psychiatry in The West Bengal Univeristy of Health Sciences in 2008"

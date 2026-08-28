@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/9fc90fcaa48b17fe2f136262872590f18c8c8172.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=216"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC 1980 Govt Higher Secondary School Kirumampakkam Puducherry"

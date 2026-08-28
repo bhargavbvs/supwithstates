@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 76,
     "profession": "Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/31a05af41aa129d12c48702d00012eda5bf3ca09.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=265"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from St . Xavier College Calcutta University in 1968"

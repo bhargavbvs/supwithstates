@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Politics, Social Worker, State Education Minister Indian Govt",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1596ebf3a93c7bb60dde87fde299981f15a5470a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7285"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate in History From Ranchi University Ranchi"

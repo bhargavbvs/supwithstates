@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Ex MLA & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/91ac848a3c700b6e760ac2f5fa32800822147ce2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=991"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering (Civil), BIT, Meshra Ranchi in 2003"

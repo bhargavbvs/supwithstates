@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Agriculture , Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/830fc3b47ec45dc56caf5ff021221bf4439da8ae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1146"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "P.H.D. From Vikram University, Ujjain in 2003"

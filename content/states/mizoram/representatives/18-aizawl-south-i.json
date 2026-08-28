@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Member of Legislative Assembly, Mizoram",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/eb70364a1e6a79d79c4dd7db53767a46ffafd21e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=35"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts From North Eastern Hill University in the year 1992"

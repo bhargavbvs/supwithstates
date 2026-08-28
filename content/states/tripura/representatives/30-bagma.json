@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 66,
     "profession": "Pensioner cum Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Tripura2023/a996c18ea176aaa2a863a9ce837f5d3d6e30ffd7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6834"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Passed from Bishranganj Higher Secondary School, under West Bengal Board of Education in the year 1974"

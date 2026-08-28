@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Pension, Salary And Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/04fdcfdde4d93ce6922f48e94c660c3f46ba0a80.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=508"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "M.Com, M.Phil. and P.HD From Rajasthan Univeristy Jaipur in 1980,1981 and 1992"

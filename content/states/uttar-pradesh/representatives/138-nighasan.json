@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 32,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/3cb0c9f9a68f2b3f6703554733df2669041764ce.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2770"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA from I.C.F. A.I. Hyderabad (AP) Year-2016, Engineering Institute of Technology Pune (Maharashtra) 2013"

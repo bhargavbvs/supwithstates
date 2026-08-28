@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Social Service & MLA Odisha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1bd97c596b572a30f676788aff9e146388b84e30.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9392"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Utkal University from Rairangpur College, Rairangpur"

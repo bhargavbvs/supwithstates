@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/bec0f7163ba7f96df1a4d10895fab78ffff539c3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=731"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A 2007 from Govt. Art n Commerce College Indore, L.L.B in 2005 from Govt. Law College Indore M.P, Devi Ahilya University Indore"

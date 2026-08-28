@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Farming & Retired IPS",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/India_Gujarat_Legislative_Assembly_2025.svg",
+      "credit": "User:FlyJet777",
+      "license": "Public domain",
+      "source_url": "https://en.wikipedia.org/?curid=27740327"
+    },
     "education": {
       "level": "Graduate",
       "detail": "LLB From North Gujarat University 1988 & B.A From Gujarat University April 1984"

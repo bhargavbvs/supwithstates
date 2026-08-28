@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 38,
     "profession": "Tenancy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/deea5cae0322cadf9267df871d76efda83fc4193.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1656"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "I.A. from B.I.E.C. Patna in 2004"

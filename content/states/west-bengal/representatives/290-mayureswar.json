@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 70,
     "profession": "Agriculture and paddy seller",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/47a47f02ab2f5719ae023455253e8862f62cdfd0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=475"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor in Arts (B.A) from Abhedananda Mahavidyalaya, Sainthia, under Burdwan University in the year 1979"

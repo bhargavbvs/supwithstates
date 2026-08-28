@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/518a4e14469958596f5a787e721868381238757e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=419"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A.M.S. from Kameshwar Singh University Darbhanga (Bihar) in the year 1996"

@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/56d46b46da9f3332666d451f9e3ba82766049ac9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4892"
+    },
     "education": {
       "level": "Literate",
       "detail": "Literate"

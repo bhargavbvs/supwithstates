@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 38,
     "profession": "MLC, Landlord",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/0f51d076a63163417d0b59f22bda9f06d223b21c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=91"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Andhra University 2006"

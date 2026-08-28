@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Business, Salaried",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/690093002bc6ecc1859d397ead3021f5eda8cfff.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4507"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Samta College, Sadat Ghazipur, Gorakhpur University Gorakhpur in 1984"

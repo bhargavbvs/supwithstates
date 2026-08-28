@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/8a63524b5ffae9473420fc9d3f51b0f6f7804d4f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=382"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School From Akoor Inter College Hathras UP Education Board Year 1981"

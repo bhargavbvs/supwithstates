@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Pension and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/75337c6bddc1d52d7d281bbcb7efe052abbfe304.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=66"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (Economics) from Meerut College in 1989, B.Ed. from Meerut University in 1986"

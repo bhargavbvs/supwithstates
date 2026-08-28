@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 35,
     "profession": "Remuneration , Business & Consultancy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/71f26e1c2fd986874ac87043a7577d4c913984a1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3490"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Tourism Administration From University of Lucknow In Year 2014, BBA from Lucknow University, In 2012"

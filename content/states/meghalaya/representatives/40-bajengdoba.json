@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 38,
     "profession": "Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/f4aa34834275ee89541c5651d340249e41c7880c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6949"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Tura Government College, Tura, under NEHU in 2007"

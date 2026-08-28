@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 34,
     "profession": "Legal Practitioner (Advocate), Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/dd95c5f2f9139bfd30596341b59931d4c5eb0f30.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=394"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Gauhati University in 2018, LLB from Dhubri Law College Dhubri, Assa in 2016, BA frppm P.B. College Gauripur, Dhubri, Assam in 2013 Gauhati University"

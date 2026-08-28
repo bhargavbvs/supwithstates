@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Dentist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/43db2ec20555fcae0051d9263343c94a13d3646c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1872"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Dental Surgery from Mumbai Vidhyapith in 1996"

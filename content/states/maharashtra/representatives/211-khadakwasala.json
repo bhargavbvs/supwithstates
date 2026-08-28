@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 64,
     "profession": "Agriculture,Rent, MLA Salary, Bank Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f23061ba8a71eb716b600ec267cdde09ce082782.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1078"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass Form L.R. Shinde High School Araneshwar Pune Year 1983"

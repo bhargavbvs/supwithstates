@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 41,
     "profession": "Business, Sai Enterprises",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/c360aa94d80e3346f3798de03c53a0388da6ccb3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=680"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B. COM from Nutan Secondary and Higher Secondary School Rajapur, Yashwantrao Chavhan Mukt Vidyapith Nashik in Year 2019"

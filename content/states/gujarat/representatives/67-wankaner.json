@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Business, Commission agent, and Developers",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/2748538478e8234428b9db530daf022fe00609e8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5342"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "6th pass wankaner in 1971"

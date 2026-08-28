@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Agriculture 500000/-",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/ae229afb60d00d3ca46f5b878a78cd2c26d3587e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=66"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA Awdesh Pratap Singh University Year 1998"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 38,
     "profession": "Kashtkari & Political President",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/c8e6668233fc49306e50c3170d800099b5d000f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1667"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. from East & West College Saharsa, Bhupendra Narayan Mandal University, Madhepur in 2016-18, Graduate (Hons)- Political Science from Marwari College Bhagalpur, Bhagalpur University in 2008"

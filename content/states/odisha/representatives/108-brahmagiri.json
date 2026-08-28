@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 26,
     "profession": "Social Worker and Digital Creator",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/86b260de94dc3e36568b1be8d60cc3fa8dd33fe0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=616"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate BA from University of Mumbai 2018"

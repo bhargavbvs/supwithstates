@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 53,
     "profession": "EX MLA and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/20ab0bfe4768d185fadca8d5d73a512a99f6e8c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=147"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from HIgh School Nargada, Bihar Board in 1987"

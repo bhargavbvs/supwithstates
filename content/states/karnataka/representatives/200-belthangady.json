@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "The Director ,Fix Gram Pre Media Pvt Ltd,",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/1804f9765f5393b7c60d026981dd9793754e61a0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7139"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Mangalore University in 2008"

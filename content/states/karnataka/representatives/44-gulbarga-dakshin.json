@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 67,
     "profession": "Social Service, Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/87897b41eba5e2adca5f81a47a13718994c7ef57.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7963"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from SB Collge of Arts Kalaburagi in 1978-79"

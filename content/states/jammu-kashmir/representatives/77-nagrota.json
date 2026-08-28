@@ -16,7 +16,12 @@
     "term_start": "2024-12",
     "age_at_election": 30,
     "profession": "Business / Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/a23da2409525cd6aedefc8ba18765b7aa031ad53.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=1058"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Economics), University of California, Los Angeles (UCLA) 2016"

@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "House Wife & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/97be371fb78cb8e3bdece8a2da80fbf543fdcf17.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=763"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Inter College Kapkot In 1991"

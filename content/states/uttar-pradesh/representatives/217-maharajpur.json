@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Politics & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/52c8348ae2b166ed5a86e799f3243b2481728425.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1787"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. From Kanpur University, Year-1980"

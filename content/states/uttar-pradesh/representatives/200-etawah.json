@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "MLA Salary, Agriculture, Rent , Bank Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c4dd3946c04c16c7b651e8ed18f5b2f8b6776050.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1636"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate Pass in 1984 from Kanpur University, Kanpur UP"

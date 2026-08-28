@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Entrepreneur",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/40becefb83659c67ac77c9240052b935b7b276b9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=473"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Science from University of Jammu in 2001"

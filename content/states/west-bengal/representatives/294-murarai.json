@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 63,
     "profession": "Self Employed on Medical Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/990d7cbbf4f518b9db2b9c8342703feec6d1129a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=362"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Passed the Bachelor of Medicine and Bachelor of Surgery Examination Calcutta University in 1983, Nil Ratan Sircar Medical College & Hospital , Passed the Diploma in Child Health Examinatino, Calcutta University in 1988 B.C. Roy Children Hospital"

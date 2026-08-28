@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/77f17f04e257cbe6766e43da78127dc37176027d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=935"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA From University of Wales Institute, CARDIFF in 2008"

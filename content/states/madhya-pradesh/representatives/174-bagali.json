@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 44,
     "profession": "Teacher in Private School",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/66a72954fd900d253b5b84a0cc9f20e810eb71af.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=654"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in 2022 from Maharshi Mahesh Yogi Vedic University Katani M.P., B.A. in 2002 from Vikram University Ujjain M.P, D.L.Ed Year 2022 Maharashii Mahesh Yogi Vedic University Katni MP"

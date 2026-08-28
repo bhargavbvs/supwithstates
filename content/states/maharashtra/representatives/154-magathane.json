@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Businessman & Current MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b100ac0125f7a1e3f8c1c9b6167cb573faaaaf9f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=553"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Mumbai University in Year 1991"

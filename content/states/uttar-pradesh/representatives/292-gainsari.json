@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0a84568e18a1f976c84c71caf165e287219b86f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4928"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.Sc. (Chemistry) Dr. Ram Manohar Lohia University, Year 1999"

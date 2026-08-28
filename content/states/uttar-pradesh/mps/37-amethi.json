@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/70c5a4f926823854a06cd5a5c434667b7fe16d0c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7521"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Punjab University, Chandigarh in 1982"

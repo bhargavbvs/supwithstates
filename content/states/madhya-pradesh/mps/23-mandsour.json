@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Parliament Government of India, Agriculture, House Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d7a77aeea31459a53b54b8522a51e181e209d79a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5064"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M. Com From Govt. College, Mansaur(Vikram University Ujjain) In 1981"

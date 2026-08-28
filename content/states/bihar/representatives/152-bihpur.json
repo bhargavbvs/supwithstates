@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 58,
     "profession": "Social Work & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/bihar2025/612b0df880895081ba7424885c4be66a293e0517.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2145"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc Engineering From I.C.E. Motihari Bihar University In 1991"

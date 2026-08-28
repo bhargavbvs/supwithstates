@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/5256035d8ad3fa59302cdbaa21383c34f0c6c5a7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=41"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B. Com S.R.T.N.E.S. University Barman Dr. Harisingh University Sagar Year 1987, Higher Secondary New Vidya Building Barmaan, Board of Secondary Education, Bhopal"

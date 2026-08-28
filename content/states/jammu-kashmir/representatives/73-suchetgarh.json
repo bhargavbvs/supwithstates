@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/687caa86de614d1f89d1d02024bfc402652132d2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=771"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. in Agriculture from Indian Agriculture Research Institute New Delhi"

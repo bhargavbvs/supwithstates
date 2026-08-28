@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": "Salary (Teacher)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/ac4fe8ba790279e06bf95d062592703bccb3fd01.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=311"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. Botany from Vidyasagar University in 2009"

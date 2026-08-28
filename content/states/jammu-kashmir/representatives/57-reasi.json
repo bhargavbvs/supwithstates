@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/ad29a9b3d49dfda34e08b799180945902996d432.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=277"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Middle from Govt. Middle School (Boys) Arnas, Reasi"

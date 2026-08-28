@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Real Estate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/726f018fee4e0f3f7161ee84f21506cf2fe20a9d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=768"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA (Master of Business Adminstration) From Vinnayaka Mission`s University, Year- 1998-2000"

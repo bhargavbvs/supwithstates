@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/75995198141cc17a7c28db5b6ab1d4b2b002cd62.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=296"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "8th Standard Discontinued From Panchayat Union Middle School, Govindampalayam, Year-1978"

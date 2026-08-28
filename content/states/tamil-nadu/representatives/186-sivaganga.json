@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Self Employment",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/26a55b41fdd62fcdfc5e2c1907742fd5592ba2fe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1005"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.COM Commerce Kamaraj University Year 1993-1994, 1994-1995 Interruption HSC Government Girls Higher Secondary School Sivaganga Year 1989 SSLC Government Girls Higher Secondary School Sivaganga Year 1987"

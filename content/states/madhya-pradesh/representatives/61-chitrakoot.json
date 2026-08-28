@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Agriculture, Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/a205d8b8d5ba6271ae751262e198a84f2b5dd8cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1490"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. LLB and Diploma in Labour Law (T.R.S. College Rewa, Law College Satna) Awadh Pratap Singh University Rewa in 1976, 1983, 1984"

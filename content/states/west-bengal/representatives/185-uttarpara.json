@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Retd. Central Govt. Employee",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/2eb02ddf7f08ce84f1067974202b64e68cb82a9a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1846"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from Kanchrapara College, Kalyani University in 1986"

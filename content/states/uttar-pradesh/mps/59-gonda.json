@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Agriculture, Business , Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/98b85c51015853f4235e21a2236fee499ab023b5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7194"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science- Geology In 1988 from Lucknow University Lucknow UP"

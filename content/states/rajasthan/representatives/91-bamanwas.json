@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 36,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/rajasthan2023/f616c0ecb9e2b4205213fbb5bdc596be85c9a7d0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=143"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A From IGNOU University New Delhi in 2017"

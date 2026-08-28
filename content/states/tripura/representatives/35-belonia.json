@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Legislative_Assembly_constituencies_of_Tripura_%28Belonia_highlighted%29.png",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=66462750"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary (+2 Stage) Examination passed in the year 1983 from Vidyapith H.S. School, Belonia under Tripura Board of Secondary Education, Agartala, Tripura"

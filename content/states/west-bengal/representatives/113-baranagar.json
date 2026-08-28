@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "Partner of Firm,(Shovona Medical Foundation) Councillor of KMC",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/2cabdfc7b37141577117738e53cbae9ef42c354f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2632"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com In 1994 From University Of Calcutta"

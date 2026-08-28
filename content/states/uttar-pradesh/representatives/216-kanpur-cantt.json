@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Advocate Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f20e02cce1ab912ff55259f79272bfc91338e62d.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2232"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (Economics) from DAV College, Kanpur University, Kanpur Nagar in 1987, LLB from DAV Law College, Kanpur University Kanpur Nagar in 1992"

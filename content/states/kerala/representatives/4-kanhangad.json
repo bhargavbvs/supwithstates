@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Socio - Political Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/847088dd2028b5672d94371d6ad74c262f500dc8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=105"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Kerala University in1995 and BA from Calicut University in 1987"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=105",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

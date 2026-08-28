@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Retired Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/345971228678f24727f2ca248fb5cdb40b04f521.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=409"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Sociology) Pandit Ravishankar University Raipur in 1992"

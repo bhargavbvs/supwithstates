@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Retired from NDMVP College of Pharmacy Nashik",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/c7d3d368a7ea7ce8dafc4231cf5ece387240f31e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1032"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. from Pune University Year 1989"

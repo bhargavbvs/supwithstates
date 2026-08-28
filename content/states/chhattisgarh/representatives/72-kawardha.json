@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "Rent & Income from Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/ceff293ea0718b809e4a16ca50e594d5ed629016.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=31"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MCA from Madhya Pradesh Bhoj Open University Bhopal, M.P. In 2001, MSC (Physics) From Pt. Ravishankar Shukla University Branch Raipur M.P. In 1996"

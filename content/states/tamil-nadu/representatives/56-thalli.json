@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/4e23f3d528140a67f9b07ffaacfdedb5548c2573.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=534"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B. From V.V.Puram Law College, bangalore-1991-1994. B.Sc. From Govt. College, Krishnagiri-1987-1990"

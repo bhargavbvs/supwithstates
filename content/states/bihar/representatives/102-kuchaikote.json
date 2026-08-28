@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 51,
     "profession": "Agriculture, Business Raj Petroleum",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/b6d44c64544405cf36b45fc1b4ba97a9ab2c1c05.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=922"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Baba Bhoot Nath College, Balepur, Bathua Bazar, Gopalganj, Bihar Year 2004"

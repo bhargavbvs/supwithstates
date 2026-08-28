@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Business, Salary & Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/b2c066da156e54389c09cf19b4deba1e408d4fdf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=39"
+    },
     "education": {
       "level": "Others",
       "detail": "Fine Arts Decorative Painting Diploma , Parsons Art & Design School London 1989"

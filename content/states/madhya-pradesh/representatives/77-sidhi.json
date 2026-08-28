@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Agriculture and Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/c438a6c482eda1d60233afe19ca4d4ac1507664b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=429"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "L.L.B. from Awdhesh Pratap Singh University Rewa Year 2002 , M.A. ffrom Awdhesh Pratap Singh University Rewa Year 1999"

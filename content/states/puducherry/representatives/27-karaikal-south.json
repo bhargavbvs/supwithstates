@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 63,
     "profession": "Full time Politician - Cum-Landlord",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/9c23348c51c77d58857ab4f1bc90f44777e94ccb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=89"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A., (Economics) Incomplete in Aringar Anna Arts College (then Madras University), Karaikal (1979 - 1982)"

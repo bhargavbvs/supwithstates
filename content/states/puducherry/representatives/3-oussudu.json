@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 50,
     "profession": "Former Member of Legislative Assembly Civil Engineer and contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/3df6f09bf8ad984074cd84cfed96b233d77ed66c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=52"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering Govt Technical college Thirunallar Karaikal 1993"

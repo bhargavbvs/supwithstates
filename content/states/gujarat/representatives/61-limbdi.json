@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Joint hotel owner, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/6c5463ed6358fcfc861bc9139c41a910a8208345.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=4919"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th pass from Gujarat secondary education board limbdi"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 55,
     "profession": "Social Worker, Political Activity",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/fbc3b1eda272bd749cec8632ddd4f584efc63cdc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=114"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce (Pass) from Shyam Lal College Evening, Delhi University in 1993"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/20fcc96137c0651cabb3e758c70e0917b8b8713c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=92"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (Hons) from Government College, Itanagar in 2000 Under Arunachal University"

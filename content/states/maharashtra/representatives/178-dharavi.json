@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Service & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/7e9017a59ff9fe84701f0c8726d18e9711cd2823.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=489"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.D/M.S. Ayurveda in Branch Rachana Sharir from RA Pdar Medical College(Ayur) Mumbai in Year 2006"

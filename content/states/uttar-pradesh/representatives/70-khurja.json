@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 32,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/5fa0391ef02f360c9a603c34a6d4281edffa0aaf.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=239"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Law Graduate from M.J.P. Rohilkhand University, Bareilly In 2012"

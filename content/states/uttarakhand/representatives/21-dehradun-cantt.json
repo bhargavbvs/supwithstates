@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/9f777b45344b72d5a2cb70ac30bf39f2d90ead2f.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=6"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Madhyamik Shiksha Parishad UP In 1971"

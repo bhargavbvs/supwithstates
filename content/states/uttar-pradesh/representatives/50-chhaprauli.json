@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/d393b6545e683ff2f028b322958d3f09355fa6d3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=676"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. From Ch. Charan Singh University Meerut in 1997"

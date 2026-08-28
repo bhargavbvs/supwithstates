@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/cdf8f094c1f738458fca32729f5b7baa8063eff5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=496"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "D.Pharma, Board of Technical Education, Bhopal Year 1988, Higher Secondary, Board of Secondary Education MP. Bhopal Year 1981"

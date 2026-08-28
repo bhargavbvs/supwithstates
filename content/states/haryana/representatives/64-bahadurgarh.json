@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/0f5ba4ec40029bc882c0da76c07ae81609584285.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=957"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Indian Air Force Certificate Equivalent to BA in 1991, Matric from HBSE in 1984"

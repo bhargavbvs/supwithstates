@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/47e46f1b14264a15274acd43bdd8c21085f9051b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=636"
+    },
     "education": {
       "level": "Others",
       "detail": "ITI Machinist From Rustan Apprenticeship Chinchwad In The Year 1988-89 & SSC From Jain School Chinchwad Station Pune 411019 In The Year March 1985"

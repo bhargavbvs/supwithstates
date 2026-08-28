@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Salary, Agricultural Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/c76a45d3dc743e75badc947b04ff91d5b51a5642.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=244"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from Guwahati Commerce College under Gauhati University in the year 2003"

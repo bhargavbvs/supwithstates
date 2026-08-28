@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "Social Worker,MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/9c8a12d5aa40e0c24c95dd7ce415b84cfc30778f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=124"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Council Of Secondary Education MohalI In 2009"

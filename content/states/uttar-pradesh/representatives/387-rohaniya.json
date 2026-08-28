@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/fa0f4f65656591f54f3bf40523643b3fdaf82520.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4372"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from Udai Pratap College Varanasi In 2008"

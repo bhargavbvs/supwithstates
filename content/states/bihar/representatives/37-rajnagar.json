@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 30,
     "profession": "Business & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/b80dc05109da7ebf97059f7a28ef7b3a154abd79.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2448"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From B.S.J. College, Rajnagar, LNMU Darbhanga, Year-2016"

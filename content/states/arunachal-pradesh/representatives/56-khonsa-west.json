@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/e699f15aa14b0f3a2baf9e62f04ddecbb1c4374e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=39"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Senior Secondary Examination from National Institute of Open Schooling, New Delhi in 2007"

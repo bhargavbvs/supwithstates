@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": "Agriculture & Business Shyam Motors ( Dealer-Hero Moto Corp. Ltd. )",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/96e8acfff7897b8f757e7c1bb2d2b31b4e3f5b02.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2274"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate In 2015 from Uttar Pradesh Rajarshi Tandon Open University Prayagraj"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 35,
     "profession": "Politician, Agriculture & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/9d80369e0f7d91c49946788d00c6f3ebf1e1c159.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=142"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From University Of North Bengal Namchi Government College In 2008"

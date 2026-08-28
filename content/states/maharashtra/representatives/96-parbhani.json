@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f98fff8afe87be83e172a1b3ee844ba234c67c6c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=610"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Medicine & Bachelor in Surgery (MBBS) from Government Medical College, Chh. Sambhajinagar, Dr. Babasaheb Ambedkar Marathwada University, Chh. Sambhajinagar in 1999"

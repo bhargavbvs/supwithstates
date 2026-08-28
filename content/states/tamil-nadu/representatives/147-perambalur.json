@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/e4861477701bae55d97fc1e2ae9d2a73226f9ab1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1475"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "H.Sc From Govt. Higher Secondary School, Perambalur, Year of Completion 1996-1997"

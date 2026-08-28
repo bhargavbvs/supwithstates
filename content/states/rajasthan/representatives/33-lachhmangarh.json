@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Advocate & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/843dcfce23fa7e3dd9c52250dd1f914339757a60.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=273"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. Year 1989 From Maharishi Dayanand University Rohatak (Haryana) Degree Year 1991, LL.B Year 1987 From University of Rajasthan Jaipur Academic Professional 1988 M.D.S. Ajmer"

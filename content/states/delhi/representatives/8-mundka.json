@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 48,
     "profession": "Business, Agriculturist, Social, Political Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/530067705671ea202ea25e8f526d99b790ead7a5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=223"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (Hindi Hon.) from Rajdhani College, Delhi University in 1998"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 60,
     "profession": "Politician, Agricuture, Dairy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/cadc580591dc167cdf211a1b9dd93542d0e3a297.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2940"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. History From M.S College Motihari Bihar University Muzaffarpur in 1992, LLB From M.S College Motihari Bihar University, Muzaffarpur"

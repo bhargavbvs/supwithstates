@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 47,
     "profession": "Dental Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/009f4f12b03da98fb014be4a242ede32c119c6b0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=710"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Dental Surgery ITS Dental College & Hospital Muaradnagar CCS University Meerut Year 2013"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Ayurveda Practitioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/d856d333a9431c070660a3636ca8f3533c3eb526.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=157"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Social Work from Tilak Maharashtra Vidyapeeth Pune in 2010"

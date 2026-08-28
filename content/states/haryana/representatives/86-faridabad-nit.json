@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Property Consultant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/dd40fbadee3dcea8b7f8d1f6c5df728b1461535a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=567"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering From Govt. Polytechnic Jhajjar, State Board of Technical, Education Haryana, Year-1996"

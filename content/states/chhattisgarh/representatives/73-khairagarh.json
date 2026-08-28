@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "MLA and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/af1e7aff2269f24b45ad5ccb0994209bce03a763.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=9"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th From Open School, Secondary Education Board, Raipur,Year-2022"

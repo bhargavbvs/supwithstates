@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 54,
     "profession": "Agriculture Pension/Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f75b0fe880e666f8607da306e91ebe0fcd64b3fa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1776"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Kanpur University in 1990, Inter Pass from College, Atta in 1987, 10th Pass from M.S.B. Inter College in 1985"

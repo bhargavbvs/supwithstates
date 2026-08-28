@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 32,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/a1eb543d7de103ee524a721c250650d7dfa3dfb2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1890"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Business Management, Mahajana First Grade College, Mysuru, 2012"

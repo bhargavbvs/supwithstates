@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Former BDO and Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/a58a76198fc07236a336c1afbbc14c9dff894233.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6979"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. (Agriculture) from College of Agriculture, NEHU in 1986"

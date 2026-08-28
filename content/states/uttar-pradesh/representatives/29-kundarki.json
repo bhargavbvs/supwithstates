@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 34,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/58f52425a79b4c2f4313e869933aea0b252220f6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=914"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from C.C.A University, Meerut in 2012, B.A. from Aligarh Muslim University, Aligarh in 2008"

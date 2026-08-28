@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/36ac0145f4c4898ed197a385171b25a4a0d32dd8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1740"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA (Bengali), Eastern Institute for Integrated Learning in Management University, Sikkim in 2010"

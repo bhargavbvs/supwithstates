@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 83,
     "profession": "M.L.A Pension, Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/1aa62cb4f68cd6ba37eb832b2f0738adedeab576.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=126"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "L.L.B University Rajasthan 1967, M.Com From 1962 University of Rajasthan"

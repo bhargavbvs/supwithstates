@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Doctor, Member of Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/0d287a7d12d03014690a5e70a44226b76d7129a7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8980"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Passed Bachelor of Medicine and Bachelor of Surgery (MBBS) from RG Kar Medical College & Hospital, Kolkata in the year of 1984. Post Graduate Training in Advance Ultra Sound from Kings College Hospital Medical School (London, U.K.) in the year of 1987."

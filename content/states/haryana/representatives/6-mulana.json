@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Petrol Pump Owner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/ec4c64c78b5a0fbec0eddc7f126d503556b370b3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=317"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B. From Panjab University Completed in The Year 2008"

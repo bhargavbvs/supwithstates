@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": "Haptrend Media",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3802d6c14c1f98b9fc0376e90e15340011e9106c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1008"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A From Alagappa University - Karaikudi -2024, B.E K.S Rangaswamy College of Technology, Thiruchengode -2008, HSLC Algappa Matriculation Karaikudi -2004,"

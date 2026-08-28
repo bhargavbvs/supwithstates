@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Insurance Agent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0ca2c59f5d3db0cc23e5ecfec0131ad8169a61df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=380"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From Uday Singh Jain Girls Inter College, Aligarh, Year-1983"

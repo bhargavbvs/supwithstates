@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/d2999ea31afc03c56be88dbaa1c6e67766e2e3ed.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=204"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre Degree, Devasom Board College, thalayolavaray, MG University,1999"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=204",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

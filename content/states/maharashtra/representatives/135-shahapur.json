@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/cc164aae2ebcc37a7bc80c93f55072621ec5450e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=336"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Dnyanvardhini Mahavidyalaya Shahapur Mumbai Board In The Year April 1994, 12th Pass From G V Khade Vidyalaya Shahapur Mumbai Board In The Year March 1991"

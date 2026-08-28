@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Real Estate Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/12173e945c4445ca2eba1ae3b8308cb8d919f6fb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=288"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Kalaingar Karunandhi Government Higher secondary School Kallitheerthalkuppam Mathakadipattu Puducherry 1984"

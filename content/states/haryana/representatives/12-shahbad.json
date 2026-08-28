@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Salary as MLA & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/2ec68f6d012ed88d7461256613005af1bc9735de.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=334"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation From National Institute of Open Schooling in the year 2017"

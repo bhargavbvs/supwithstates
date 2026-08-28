@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b72d4d2e338874e24ff8f8e2911af68c311d3b00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=788"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Rizwi Law College Bandra West Year 2009"

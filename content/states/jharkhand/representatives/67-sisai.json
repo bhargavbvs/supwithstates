@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Agriculture, MLA Salary and Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/c424f9790d9e6b441eb9d0048e8e2c9c771b0751.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=227"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric Year 2006 Hindi Vidyapeeth Deoghar Jharkhand"

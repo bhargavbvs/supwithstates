@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Legal Practitioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/465776dcc08f6eee140c01e6646e2d1e8480ba9e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=580"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Department of Law, University of Jammu in 1987"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Social Worker / Academician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/2d378dfd8e074ffbcc18b64734bd6cf330472475.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6904"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy from Jawaharlal Nehru University, New Delhi- 110067 in 2018"

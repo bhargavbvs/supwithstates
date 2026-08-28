@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Partnership Firm",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a9e5843469ab7dc39a5a28b1d4b443b8a47d45c9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=539"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass from Ra. Su. Bidkar Arts, Commerce & Science College in 1986, Nagpur University"

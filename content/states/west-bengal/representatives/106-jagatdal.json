@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Retired IPS Officer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/4a83ad347181e002220f1a20a668b32315d5f66b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2074"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy, Faculty of Commerce, University of Rajasthan in 1996"

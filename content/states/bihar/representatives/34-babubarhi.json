@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 36,
     "profession": "MLA, Social Service, Agriculture Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/baefe67a1ddece2e80f35f2cdb68d984c5b7fdb5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2905"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Lalit Narayan Mithala University in 2019"

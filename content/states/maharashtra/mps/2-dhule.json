@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/516752d19223621d4e7eb4b9572339f9bea59024.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7088"
+    },
     "education": {
       "level": "Others",
       "detail": "LCEH Diploma of Licentiate of The Court of Examiners of Homeopathic And Biochemic Systems of Medicine Bombay From Dhondurama Sathe Homeopathic Medical College Pune In The Year 1983, SSC From RBH Kanya Vidyalaya Malegaon Nashik In The Year 1974"

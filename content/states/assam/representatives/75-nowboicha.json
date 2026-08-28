@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Business on Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/381f95a34fc1b500ba13f7821c8f49ac1939617f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=751"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy Assam Agricultural University, Jorhat 2011"

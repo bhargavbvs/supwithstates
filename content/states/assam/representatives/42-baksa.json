@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Ex. MLA, Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/8e5b2c33971dc4ee4150f7a9050f04f6efd3ca8c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=168"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Rangia College, Rangia, Kamrup in the year 1993 under Gauhati University"

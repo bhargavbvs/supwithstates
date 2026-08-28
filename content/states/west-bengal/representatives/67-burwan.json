@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Carpenter",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/0084c95cf5d3f97f02967d7fb071b938a31296ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=136"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Pass from The West Bengal Council of Rabindra open Schooling, C.F. Memorial School"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/0a14259b577db60e9127cd0786f1c20c1d0a4e44.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=202"
+    },
     "education": {
       "level": "Literate",
       "detail": "Literate"

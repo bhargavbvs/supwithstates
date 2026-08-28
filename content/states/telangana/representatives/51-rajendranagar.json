@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Politician & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bf9bd2614094f3a2f1e44aba41d9e1b56f5ec79d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=277"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "Primary Education"

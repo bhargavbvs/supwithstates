@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Professor, M.J.P.R. Univeristy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7788dc75c3afba55ab6cc96ba7bdb7315b3658ed.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=881"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. in 1998 & M.A. in 1989 From M.J.P.R. University, Bareilly, Year"

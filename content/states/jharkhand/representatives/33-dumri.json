@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 29,
     "profession": "Student",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/5db0e91ddc76b3a4046a4aef090a114c0fe7a03f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=855"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in English Honours from P.K. Roy Memorial College, Dhanbad, (Vinoba Bhave University) in 2017"

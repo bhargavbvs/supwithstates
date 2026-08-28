@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Agriculture & Member of Legislative Council",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/44a6b42b645d85c0b003a6ff9933fd36a8ec56ab.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=975"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Degree 1st Year Technical from Shri Datt Meghe Polytechnic College in 1996-97, SSC from Maharashtra State Board, Navyug School, Mahal, Nagpur in 1994"

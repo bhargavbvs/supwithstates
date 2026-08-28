@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 59,
     "profession": "Agriculture, Politics and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/631b7bca82e83cf98a86f8e93d2be91e1b15e676.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=642"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Ganesh Dutt College, Begusarai, BIEC in 1984"

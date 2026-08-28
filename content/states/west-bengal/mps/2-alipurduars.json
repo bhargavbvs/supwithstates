@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Primary School Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/0e2afca7747992b810781c8d38837e6d505c68f0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=13"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc(Bio) from A C College Jalpaiguri Under North Bengal University in the year 1996"

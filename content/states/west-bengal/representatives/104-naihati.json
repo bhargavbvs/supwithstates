@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 62,
     "profession": "Advocate, Calcutta High Court, Director if MACRONOVA Apparels Pvt LTd",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/afc2f9c0bc8d039444f0bee0ee67eaf88f444644.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2486"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Calcutta University"

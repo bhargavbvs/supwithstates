@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 37,
     "profession": "Business Proprietor- Alama Tamilnadu and Sri Group of Companies",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/48651b613f7678a46115ff0ab4d1d5ac9def08ee.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=217"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th From Jyothi High School , Gudiyatham , March 2005"

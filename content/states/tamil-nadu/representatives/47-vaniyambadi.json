@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 64,
     "profession": "Mango Business And Real Estate.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/df5e1981ae1cd1c899219ec301f432aa8a0ca1e1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1308"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "5th Pass From Alangayam Govt Primary School, April - 1974"

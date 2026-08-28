@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/58c06861fc0915670f8b5ed0e8de55855095140c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=770"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate Year 1999 and LLB Year 2006 From DAVPG College Dehradun Garhwal University"

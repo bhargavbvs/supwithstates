@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 34,
     "profession": "Own Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/fa93ccad74b922df58c74d80140cb3c248cce74a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=3695"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Standard Passed 2010"

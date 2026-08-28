@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Travels Tour, Hotel Business Teerth Purohit & Yajmani, LIC Agent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/54c0dabda7d67b89678ed86db712da5a18c3119a.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4766"
+    },
     "education": {
       "level": "Others",
       "detail": "Vaidik Shiksha"

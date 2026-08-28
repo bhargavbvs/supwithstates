@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 67,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/846dc39d975f95f8f3e0ddedbef0980a18d0d078.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=108"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from University of Bombay, Smt. Pravatibai Chowgule College in 1973"

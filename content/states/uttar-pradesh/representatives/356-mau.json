@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 29,
     "profession": "Rental Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0024ea2106dc3854c247cb8ea16059a4323697c5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4595"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From G.D. Goyanka World School Sohana Gurgaon Haryana in 2011"

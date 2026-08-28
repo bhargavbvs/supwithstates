@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Educational activity,Rent, & Other Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/f0aa8c2aafbf3b7694e0217310aad8f910d8bde4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=387"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. Year 2015, B.A.2005 From Kota University Rajasthan"

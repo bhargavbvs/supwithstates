@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Politician & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/d9f2d9383ae4c5e18fe919ae0bb88bde74897901.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=51"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. In 1995 Under North Bengal University from Sikkim Govt. Collage"

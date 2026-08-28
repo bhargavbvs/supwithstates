@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 71,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/22b76bbd64b1f24c0f5d0546fcf44d84cfbdc94b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2272"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Sreesankara College, Kalady, Kerala University, 1971-1972"

@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Income from Sarvritu Horticulture Farmers pvt ltd",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/2f0ec83626a88e663cf81f68a47ebb76d582a852.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2577"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A from Shriram Ladies College Delhi 1991"

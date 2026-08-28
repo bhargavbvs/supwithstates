@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 34,
     "profession": "Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/78d6e47026899ef46e27796efccd59bf3ff993e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6904"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC from MBOSE in 2004"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 66,
     "profession": "Social Service and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/deaf7704176eca2441ab3fb211da0ac256bbd96e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=892"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Non-Matric HEC, Higher Secondary School, Dhurwa, Ranchi (Jharkhand)1976"

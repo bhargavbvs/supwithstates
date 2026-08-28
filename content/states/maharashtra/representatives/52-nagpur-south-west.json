@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Social Work/Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/d77638a60f8db91f84ead7a16625a0deb4af8810.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=577"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B. from Dr. Babasaheb Ambedkar College of Law, Amravati Road, Nagpur, RSTM Nagpur University in 1992, Management Diploma in Methods and Techniques of Project Management, Berlin D.S.E. Berlin in 1998"

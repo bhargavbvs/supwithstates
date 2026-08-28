@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Retd. Govt. Servant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/57235d60596299a101ace2e93e6bbd8374f4367a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6975"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc (Agriculture) from Assam Agriculture University, Jorhat in 1989"

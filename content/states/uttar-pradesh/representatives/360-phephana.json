@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 71,
     "profession": "Agriculture, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/a37986e2bd45d547be4e6fe868e6910a465a8ee3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3603"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. from Purvanchal University, Jaunpur in 1989, B.Sc in 1982 from Gorakhpur University, Gorakhpur"

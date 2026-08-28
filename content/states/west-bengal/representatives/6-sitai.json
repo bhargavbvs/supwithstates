@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Social Service & Member of Legislative Assembly Sahayika S.S.K.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/8b30246f2ef64badc3f1c109beb96f675ee2eaaa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1212"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary From Mc William Higher Secondary School, The West Bengal Council of Rabindra Open Schooling in 2011"

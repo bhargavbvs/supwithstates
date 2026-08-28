@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 42,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/5c93626209ec8f4065499a23d3c52d688ed48e17.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2971"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA From B.S.N.V.P.G College Lucknow in Year 2003"

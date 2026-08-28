@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Salary and Business & Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/de37194d0eee7b943548f8c18fc49238dc4db17c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=743"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B from Arun Kumar Chandra Law College, under Assam University, Silchar in 2011"

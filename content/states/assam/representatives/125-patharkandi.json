@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/8d1f55c4a422f3e8341d56cbfde5ee611e8eccc0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=762"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com In The Year 1995, From Karimganj College Under Assam University"

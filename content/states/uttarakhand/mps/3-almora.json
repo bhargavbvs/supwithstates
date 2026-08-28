@@ -31,7 +31,12 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Salary and allowances received as Lok Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/44f645104c3ca07be5921875a7416fc5876fbff3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=20"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Swami Vivekananda Shubh Bharti University in year 2023 U.P"

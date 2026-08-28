@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Social Service, Political & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/f59734e5739711fd5ef4b7b7e9f04d7faa51f7b5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=628"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass From Bamebari High School Bamebari, Board of Secondary Education Odisha, Cuttack, Year-1975"

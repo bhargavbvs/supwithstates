@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Civil Contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/e301442dada459ee4714a5f282f8f2a659ecd1c1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=987"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A (Discountinue) University of Madras Chennai, ITI (Electrican) Passed St John Bosco ITI Tiruvallur 1994-1996, 12th Standard Pass Adi Dravidar Government Boy`s Higher Secondary School Arakkonam 1992, 10th Standard Pass Adi Dravidar Government Boy`s High"

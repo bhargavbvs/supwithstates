@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Real Estate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/5ed7640cbd1350694501aa1d42f3276139213f9b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1064"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC (10th Standard), K.R Government High Secondary School Reddiyarpatti -627007, Mach, 1984"

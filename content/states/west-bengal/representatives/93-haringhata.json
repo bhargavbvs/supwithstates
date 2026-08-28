@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 65,
     "profession": "Folk Singer(Kabigan)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/5619ffed3bdb590f7b3eae38c5aad874e4b72024.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1930"
+    },
     "education": {
       "level": "Literate",
       "detail": "Clas IV Pass from Subhas Nagar Kshiroda Sundari Prathamik Vidyalaya 1971"

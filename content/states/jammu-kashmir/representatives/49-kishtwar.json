@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 29,
     "profession": "Student (Research Scholar)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/7d06f0c95a317bcbb1bd376c18f9d40eb1369496.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=47"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Tech. in (Electrical Power Systems) From IK Gujral Punjab Technical University, Year-2021"

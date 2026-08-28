@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "Retired Govt. Employee (RTO) and MLA for 038 Zahirabad Constituency",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/fec9ec8a4441f43c5436923d71d958675147f861.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=355"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Automobile and Mechanical engineering from Govt. Polytechnic Masabtank Hyderabad in the year 1977& 1978"

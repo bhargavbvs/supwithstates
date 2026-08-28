@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "fulltime Socal Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/f131b1afc145814a8a78c5b88c97651354827ae0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1277"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Class XII - Government Higher Secondary School, Mallanginar-1989."

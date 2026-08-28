@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Medical Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/30bee8b9b551375af33516858e57d6d79f45be5e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3991"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S. General surgery from Ranchi University in 1995"

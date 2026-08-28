@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/285ee10ea97d826b08869a1105c8620fa39a42a7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=164"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Passed From Govt Higher Secondary School, Muthukapatty in the year 1988"

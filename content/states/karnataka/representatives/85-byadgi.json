@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Agriculture and Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/3e2e7fe1734f15c4b76a7ea9294db88f18b530b4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6789"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A-G.H College Karnataka University Dharwad -1978"

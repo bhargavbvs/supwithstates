@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "ADVOCATE",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/531d7f4c406bf2f85b6ab4183e071454ed592cb7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=140"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A L.L.B, GOVERNMENT LAW COLLEGE ,KOZHIKKODE CALICUT UNIVERSITY 2004"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=140",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

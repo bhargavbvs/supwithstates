@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/7cfd6461476b1574a7c9be0443a9a5c83c23ef11.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=57"
+    },
     "education": {
       "level": "Others",
       "detail": "Highest Nautical Diploma in Nautical Science From South Tyneside College South Shields United Kingdom in 2011"

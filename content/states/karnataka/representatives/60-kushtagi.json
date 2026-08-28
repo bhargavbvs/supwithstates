@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Agriculture,",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/679716901e1fa64677fe95e91b27f417e7aaacba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7507"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Govt P.U.College Kushtagi 1992"

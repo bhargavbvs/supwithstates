@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Contractor & Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nitin_Patel_2018.JPG",
+      "credit": "Prime Minister's Office",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=28935251"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor Of Engineering (Civil) From Maharaj Sayajirav University Vadodara Year 1989"

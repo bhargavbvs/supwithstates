@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "Social Activist, Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/715ecec268137c40ff2f1f887104d3003ed204aa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3459"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. (Political Science) From Bhavnagar University In 2021, M.A. (Political Science) From Bhavnagar University In 2016"

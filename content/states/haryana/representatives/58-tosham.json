@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/111f2906f30c5fe9eeff11b078981304d889c739.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=491"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B From B.R.Ambedkar University, Agra, Uttar Pradesh Year 2000, B.A. (Honours) From University of Delhi Year 1997"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Salary & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/3f6001d7309828eb6b8f6a069b50341ff3f38d1e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2270"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB DC Of Law From C& JMU Kanpur"

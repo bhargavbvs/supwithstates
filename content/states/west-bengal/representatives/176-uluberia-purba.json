@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/b0412bbf2048747a658431986bf836fe98bc1d53.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1682"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Masters in Arts (English), Calcutta University, in the year of 2003"

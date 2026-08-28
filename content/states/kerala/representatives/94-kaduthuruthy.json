@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/d39164d8c3607d9a4e7666b9375ce8ce0a8a2626.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=93"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLB From Law Academy College Trivandrum in 1994 and M.A. in Sociology From Annamalai University, Year- 2020"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=93",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

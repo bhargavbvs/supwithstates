@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/91c834fdc681497383b9fd1904be5e953d476b7d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1737"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th in 2000 from Calcutta Public School"

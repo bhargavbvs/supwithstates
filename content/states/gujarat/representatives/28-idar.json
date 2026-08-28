@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 70,
     "profession": "Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ramanlal_Vora_thumbnail.jpg",
+      "credit": "Mapsite",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=28935299"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from vivekanand Arts College ahemdabad, gujarat university in 1975"

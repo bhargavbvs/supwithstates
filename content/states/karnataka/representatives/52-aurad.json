@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Agriculture and work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/86db96b7e7beda83fb892b8619b681ba431f2044.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7093"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12 Th class ,Ashrama school shilavana border-1997"

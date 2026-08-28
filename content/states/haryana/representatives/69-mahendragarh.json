@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 64,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/41724885773bea9fe89e460c846714bc34d88277.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=515"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Economics from College Satna, Awdhesh Pratap Singh University Rewa M.P. in 1986"

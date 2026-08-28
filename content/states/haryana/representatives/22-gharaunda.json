@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "MLA (Gharaunda), Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/a93428b57444935f1a02a129580580c4053fccea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=252"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Civil) from Amravati University In 1990"

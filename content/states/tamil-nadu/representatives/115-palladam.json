@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 37,
     "profession": "Proprietorship",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/27ade955537d7507eb0dcdc8394b2b3a8c82dfcc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1077"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Standard K.S.C Government Hr. Sec. School, Thirupur 2004"

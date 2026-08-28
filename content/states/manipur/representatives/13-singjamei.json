@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Politician/Sitting MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Emblem_of_Manipur.svg",
+      "credit": "ChiK",
+      "license": "Public domain",
+      "source_url": "https://en.wikipedia.org/?curid=2382926"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School Leaving Certificate Examination, 1978 conducted by Board of under Secondary Education, Manipur Roll No 2425 from Ram Lal Paul High School in 1978"

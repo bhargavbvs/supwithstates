@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 33,
     "profession": "Social Service, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/37400100bbe129d3a72a7df5661f5777fac31e30.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1763"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Design from Symbiosis International University, Pune in 2016"

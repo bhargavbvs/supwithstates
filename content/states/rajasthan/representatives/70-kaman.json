@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 33,
     "profession": "NA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/42743776b368225d792c0eaf69115b8981dac899.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=472"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A Fashion Media Promotions and Commun."

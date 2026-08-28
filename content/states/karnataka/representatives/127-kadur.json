@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 44,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/cbbf6c6b347b2ca4c697fe08c86a43b25bbc6f55.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7419"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BSC , Government First Grade College,Kaduru ,Kuvempu University ,in 2001"

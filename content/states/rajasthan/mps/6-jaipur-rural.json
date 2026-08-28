@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Business and Social work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d6fcb639e8752f695ee9884312f3aa708d68c4c2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=436"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Honours Rajasthan University in 1980"

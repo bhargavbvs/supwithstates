@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 72,
     "profession": "Agriculture, Rajaya Sabha Salary and Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/e0c41252fc3fc66d906db52c29a103b4d8090e60.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=396"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS From Sardar Medical College Bikaner Rajasthan University in 1977-78"

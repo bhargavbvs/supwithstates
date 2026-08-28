@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mukesh_Agnihotri_%28cropped%29.jpg",
+      "credit": "Politicalbanda",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=54018411"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate From Public Relation"

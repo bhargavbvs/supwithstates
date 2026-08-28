@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Agriculture & R K Enterprises",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/5284dee18d36bfe626835f1f84909072610a2e2c.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=290"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter Pass from Uttar Pradesh Board"

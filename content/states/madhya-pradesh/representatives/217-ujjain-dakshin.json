@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/4fa9dbf6c66a0962e2b89f796d96d312fc6a9f9c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1291"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "P.hd., LLB, B.sc, MA., Vikram University in 2010"

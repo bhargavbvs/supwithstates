@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 57,
     "profession": "Agriculture & Contractor & Public Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/28ab8f4958f9947e5d71b14e0d33592b01ae5e96.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5079"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Abhimanyu Inter College Kailasnagar Jalone 1991"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Ex. Member of Legislative Council",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/fc97b5b61780e75099a6a6bafdde9170f7bde492.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=275"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass from J&K State Board of School Education in 1987, from Govt. Higher Secondary School Nowshera"

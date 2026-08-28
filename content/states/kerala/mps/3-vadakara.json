@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Social Work , MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/10c287974d8d024d9304fe69a68d6a239b184690.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3121"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA. WestFort.College, Thrissur, Calicut University - 2009 ,BBA Govt. College, Pattambi, Calicut University - 2005"

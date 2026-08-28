@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Social Work & Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/395b78952d634d269b9f2aa74c61063b0fbaf120.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=315"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA in 1990 from Buckingham University U.K."

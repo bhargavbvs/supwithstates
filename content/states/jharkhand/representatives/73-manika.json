@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Politics & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/211458c2f066a02b04af2913444f10328d3c49f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=278"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate in Arts From B.N. College, Daltonganj, Ranchi University, Ranchi, Year-1989"

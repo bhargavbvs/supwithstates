@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/96c3a49b78f370705f3d68f23e654a51d8c9d83b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7490"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MD(Ophthalmology) - All India Institute of Medical science (AIIMS), New Delhi in 2004"

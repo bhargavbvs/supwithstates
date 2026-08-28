@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/7c1499603855d15a17652b83c9f5aa4061991430.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=956"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A (Criminology & Police Administration) From Madurai Kamarajar University in 2012, LLB From Vivekananda College of Law, Bangalore University in 2011, B.E From RMK Engineering College, Kavarapettai, Chennai Anna University in 2003"

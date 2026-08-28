@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/fb7a5a54b7cedb0ec3f28d02b83b633b851799d3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=871"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A.,Distance Learning,Annamalai University-2006"

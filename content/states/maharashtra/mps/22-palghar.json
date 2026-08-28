@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Medical Practitioner (Orthopedic Surgeon)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/5b8a69d9047034f6fe0c0ebb2c28b202cdb40561.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7349"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Medicine and Bachelor of Surgery From University of Mumbai, Year-2001 & Diploma In Orthopedics From CPS Mumbai, Year-2007"

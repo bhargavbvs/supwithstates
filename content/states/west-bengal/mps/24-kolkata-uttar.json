@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 75,
     "profession": "M.P.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/81cfb4474336f79c5eee3f104d579e9f0ec7a9ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9027"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. From Calcutta University, Year-1970"

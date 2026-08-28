@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": "Mentha Industry",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/6dff59438463fcfbc351d0135119105e91357520.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=848"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in 2005, B. Ed. in 2009 from Ruhelkhand University Barailly"

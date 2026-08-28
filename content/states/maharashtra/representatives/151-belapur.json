@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": "House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/0faa9e4010acc6f10cfdef1d2302f8d651053756.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3080"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Pass from Brihan Mumbai Municipal Corporation Primary School Borivali East India 1972"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/849bda33e38b43e5b11eb43e2a7a9c5e31ca661e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=409"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "PHD in 2004, MA in 2004 From Kumau University Nainital,DCB Campus Nainital"

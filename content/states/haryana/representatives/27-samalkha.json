@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Businessman & Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/35eaa5356bc16e8fa21028a9a4b05a6faa7f5c0c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=391"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA, From Southeren Methodist University Dallas Texas USA In 2004"

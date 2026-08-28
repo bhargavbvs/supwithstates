@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Animal Husbandry and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/709ded9299b34a4d5d85b075e1f7082df09aa7ea.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2060"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate Sociology From CSJM University Kanpur Year 2001"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/10d372de9e7553d884b0448a1279753b6e3a2d2c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=302"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D Barkatullah University Bhopal , M.A. Soci.1978, M.Sc.(Zoology) 1976, L.L.B 1983 , Bhopal University Bhopal"

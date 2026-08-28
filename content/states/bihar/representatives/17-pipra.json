@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 59,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/8bf31ff9335435092b291b0c9eb955b1c0d0e27f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2927"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "I.A. in 1994 from Maharaja Harendra Kishor College Motihari, Bihar Intermediate Council Patna"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 38,
     "profession": "Agriculture, Animal Husbandary, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/85d262988fb4742be79df84a92ea6becb3b0d470.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1503"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate in Physics from T M B U Bhagalpur in 2005-08, B.Ed from Raj Mata Madhuri Devi Teacher Traning College KHagaria in 2017-19"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Agriculturist, Business Man",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/fb4692c1e22de85406b07c9dd2abc05f859b1d37.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=71"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from DAV College, PU, Chandigarh in 1999"

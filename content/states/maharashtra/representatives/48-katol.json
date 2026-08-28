@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 65,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/76df9d2e12fb0339eba6b7341099ba9a4a15f749.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=969"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSSC From Secondary & Higher Secondary Education Board, Nagpur Board, in Year 1988"

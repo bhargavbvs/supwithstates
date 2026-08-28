@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Agriculture, milk ayush small scale industries",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/49390435a3983cd356b3e32f32d1ce1088645656.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=204"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Passed 1977-78"

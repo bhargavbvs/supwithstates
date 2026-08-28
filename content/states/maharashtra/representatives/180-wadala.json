@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "M.L.A.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/2d982cd6070f5ac65e9a548fba7ff1853ca52fd3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=233"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "S.S.C. (Old) from Lokseva Vidyalaya, Naigaon, Mumbai-14 in 1973"

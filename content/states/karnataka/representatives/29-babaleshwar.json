@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Togetherness",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/31ba1cdb5764665ab0c6fa8326c8adf64407e4ff.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7104"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E - Civil Engineering BLDE Institute V.P.Dr. PG Halakatti College of Engineering & Technology, Vijayapura, Karnataka University, Dharward passed in 1990"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Agriculture, Business, Rent, MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9a4bf9e06541ca66433a296f45e5652a5e05ea7f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=688"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "F.Y. B.Com from Dr. Dhananjayrao Gadgil College of Commerce, Satara in 1993"

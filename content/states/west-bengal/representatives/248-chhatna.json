@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Government Sponsored Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e3edbe0d628d8b50e99321415f19e17a57056480.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=194"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A. (hons) from Binobha Bhave University and B.Ed from Calcutta University"

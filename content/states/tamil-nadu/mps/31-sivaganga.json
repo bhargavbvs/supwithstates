@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c922b506ed1ecdc9a38584ee447547cfb6973d04.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=181"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Arts (Law) from Cambridge University, U.K 1995 & BBA From University of Texas, Austin, U.S.A., Year-1993"

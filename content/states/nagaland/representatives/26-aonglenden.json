@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Politician & Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/c342ecb694ab64b800759c7a5feb06a7f22f7718.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6772"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law (LLB) from Law Centre-I, University of Delhi in 2010"

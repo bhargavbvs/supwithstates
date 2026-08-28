@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/6cb84671c0393394eaf58858a4a56dd1212b5a6b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=26"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Aligarh Muslim University (Aligarh, U.P.) in the year 1981"

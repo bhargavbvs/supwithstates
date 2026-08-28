@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Academician & Member of Legislative Counil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/0c15ff58ad8c38a9cc44b892f7704da30d515e62.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=106"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy (Ph.D) in Physics From Osmania University In 1991"

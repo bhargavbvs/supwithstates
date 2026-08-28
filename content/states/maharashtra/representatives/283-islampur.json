@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6f3fad9275ac50f34df7d1fc3dd8b0c662e9706a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2721"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. Civil from Mumbai University, V.J.T.I. Mumbai in 1983"

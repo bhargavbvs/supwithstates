@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 37,
     "profession": "Legal Practitioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/481867ce7a48a3c5fe41cde8cbdec6270d13f145.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1725"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A. LLB (Hons) Snehangshu Kantaacharya Institue of Law, Kalyani University in 2010"

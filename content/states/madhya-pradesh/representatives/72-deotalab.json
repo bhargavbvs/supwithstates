@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Agriculture, rent and Salary/Honorarium",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/75265f7c195a5a7ab4e117fd4bb5ca5e8bd1e2e1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=678"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bacherlor Degree Science From Govt. Science College Rewa in 1972 & Bachelor Degree in Law (LLB) From TRS College Rewa in 1975"

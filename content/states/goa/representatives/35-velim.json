@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Civil Engineering Estate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/b4073220f4fe574a3c51a126cea481843a35007b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=166"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering Goa Engineering College-Farmagudi Goa University in 1992"

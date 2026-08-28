@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Doctor (Consultant Bariatric, Laparoscopic, Laser Surgeon & Robotic Surgeon)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/eff06dea66c673e7961d36e60ddb6bc8ce66b07f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1068"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS From JJM Medical College, Devangere, Karnataka (Rajiv Gandhi University, Karnataka) in 2009, FALS Robotics from IAGES, recognized for Minimally Invasive training by IFSES in 2021"

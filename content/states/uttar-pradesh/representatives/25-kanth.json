@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Former Rajya Sabha Member Former Legislative Assembly Member Uttar Pradesh",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/fb6ef523ed70d30be89f6c08c1d0900dbc056263.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=908"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B. & B.A. Jamia Millia Islamia Delhi Year 1996"

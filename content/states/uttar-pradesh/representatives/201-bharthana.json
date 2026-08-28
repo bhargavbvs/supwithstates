@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Agriculture, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/638df9b4385bded2be530729f686f0de2e74b916.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1638"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate form N.D. College Shikohabad in 1997"

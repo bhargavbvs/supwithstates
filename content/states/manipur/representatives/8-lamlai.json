@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Map_of_Lamlai_AC.pdf",
+      "credit": "CEO Manipur",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=66598532"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts in Economics from Moirang College, Manipur University in 1981"

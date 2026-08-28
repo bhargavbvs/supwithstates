@@ -21,7 +21,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Public Life, Political Activity",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d9d01e0677b1c8ca1fb12995df3f3be133b50ef4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=360"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 1993 from Govt College Ajmer , University of Ajmer"

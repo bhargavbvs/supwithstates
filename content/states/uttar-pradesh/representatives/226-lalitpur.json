@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "MLA Salary and Interest Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/10b426538c26d48c406f499f0fe0712ca5e46d56.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1804"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Bundelkhand University, Jhansi in 1983"

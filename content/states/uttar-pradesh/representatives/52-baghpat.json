@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "Agriculture & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/385c92dd9717c0ab621e75b1285836b31398ba51.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=511"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From ShyamLal College Shahadra Delhi University in 1997"

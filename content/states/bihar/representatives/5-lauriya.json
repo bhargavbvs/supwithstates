@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 55,
     "profession": "Film Writer, Producer, Director, Actor, Singer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/f9e53a2af5a2ea96aa48fe394843c374f077a169.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2677"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from Patna College, Patna University Bihar Year 1992"

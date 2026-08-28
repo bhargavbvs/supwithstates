@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/fe088e44ce1f78e4270bd4271874edfc08ec51f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=317"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Womens College under Pune University Dhule in Oct. 1987"

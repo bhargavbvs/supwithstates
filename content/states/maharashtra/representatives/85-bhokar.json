@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 32,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/257944b45500fb534ed05388b379b1da4350b5df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3262"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Laws (LLB) from K.C. Law College, Churchgate, Mumbai Year 2016"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Politician & CPS/MLA in HP & Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vinay_Kumar_of_Sri_Renukaji%2C_Deputy_speeker_of_Himachal_Pradesh_Vidhan_sabha_l.jpg",
+      "credit": "DreamerKing28",
+      "license": "CC0",
+      "source_url": "https://en.wikipedia.org/?curid=75620913"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric from Punjab School Education Board in 1995"

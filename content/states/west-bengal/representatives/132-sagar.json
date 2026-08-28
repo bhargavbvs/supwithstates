@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "Asst. Teacher & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/a6e34b8d0ea34800a81b471492618e00e1c8c618.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2392"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science (Honours), Chhatrapati Shahu |i Maharaj University, Kanpur and Passing year of 2009"

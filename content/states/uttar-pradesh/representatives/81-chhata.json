@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 69,
     "profession": "Agriculture, Cooking Gas Distributor, Business, MLAs Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0586726500148b16ecf5212d0f72885490281d72.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=15"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A., LLB from Agra University Agra, In 1976"

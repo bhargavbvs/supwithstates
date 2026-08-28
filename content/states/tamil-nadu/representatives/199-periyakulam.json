@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 28,
     "profession": "Real Estate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/df63e16511d52b4768c450909f99ef268cf37da4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1030"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc : (Physics): Gandhigram University, Dindigul (2021), B.Ed : Government College of Education, Thanjavur (2019), B.Sc : (Physics): Bishop Heber College, Trichy (2017)."

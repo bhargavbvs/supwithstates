@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/673460b11b0047f2f26d5ae97340ca1ac483aa00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=225"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Passed From Distt. Government High School Bhawali in 1977"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/76a81c6e3faee0826541afe8a337499bf58fe934.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=499"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Government College Phulbani Berhampur University Year 1991"

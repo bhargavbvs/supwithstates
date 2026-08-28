@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/f9043bc2623a4bac81bf1d1ed286e69bfbcb7fa3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=239"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate in 1976 from Government Junior College, Narsampet"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 70,
     "profession": "Business & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/aae8ffd6cdf573ad959220ec953346df6adf8757.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=427"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Sc. Part -I Passed from Midnapore College, Calcutta University in 1974"

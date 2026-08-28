@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 39,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/72b98d6f28d167d30fb5ddf139212dc18ccb908b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=989"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Jubilee College Bhurkunda, Vinoba Bhave University, Hazaribagh in the Year 2006"

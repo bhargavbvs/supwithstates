@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/eab5a5616ec4034a623cd368d732eb955d23cbab.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6922"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre-University Passed in the year 1996 From Sao Chang College, Tuensang from Nagaland University"

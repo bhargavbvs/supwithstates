@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 53,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/10f52f3b95787ad484f94bdad5059f5b9e41aaef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=190"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "I.Sc from Gopeshwar College, Hathua Bihar, Bihar Univeristy Muzafarpur In 1982"

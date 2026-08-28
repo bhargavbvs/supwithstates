@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Agriculture, Pension, Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/8fdd33376f301818e016b8e6a69df1cea9096113.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=22"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA from Jaipur National University, Jaipur in 2013"

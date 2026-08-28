@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 33,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/ec938d96c212395c3ec4a9690b0a7f17252e1397.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=985"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.B.B.S Rajamuthiah Medical College (Annamalai University ) 2016 Reg No. 119859"

@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Doctor,Shri Sai Krishna Charitable Trust Bangalore Managing Trust",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/9bda6be8191c3507657cbc1146928ceb16d39cdf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1881"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS Sidharth Medical College,Tumkur,Bangalore University-2003"

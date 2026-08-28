@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 62,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/ed1beb78431e818b8de17edb74e3164065356c38.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=780"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Ag) Degree from Rajasthan Agriculture University, Bikaner in 1988"

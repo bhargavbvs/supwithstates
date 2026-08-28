@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Professor in Mizoram University",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/a4037ad94d40db039596ece55fdf12eaee72fdcd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=22"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy in Rural Development"

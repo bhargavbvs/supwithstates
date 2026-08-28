@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 65,
     "profession": "Agriculture and Legal Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/596c4a84a6b33ab937c18f3dd9014fe0638826ad.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1290"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A Annalai University 2009, B.L Government Law College, Chennai (1984- 1987), B.A. Quaid-e-Azam Millat College, Medavakkam, Chennai (1979-1982)"

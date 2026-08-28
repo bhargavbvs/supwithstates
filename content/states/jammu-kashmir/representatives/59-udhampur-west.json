@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/864970676f78b686a40c0321dc62ccfc05467867.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=574"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. - Civil from Regional Engineering College, Srinagar in 1980"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 39,
     "profession": "Agriculturist and Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/e8d8a757f616976ddc6361a6daa46f8c75fc07ec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1319"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Management Studies from H.R. College of Commerce and Economics University of Mumbai in 2007"

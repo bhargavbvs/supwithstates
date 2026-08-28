@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/ba6a287703acf72e66159053fbf154803554755d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2775"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Post Graduate Diploma in Management from Indian Institute of Management Calcutta in 2005"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/1c8a74e95fafd68d321e83df3df07a15f66b764c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=223"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (Political Science) Dr.BR Ambedkar Open University 2017"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 53,
     "profession": "Social Worker and Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/f10524b01cb95f4fb006f15f0ab62f5d7bd54ab6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1649"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th (Arts) From Mathurapur Higher Sec School mathurapur Shiv Sagar Asam in 1990"

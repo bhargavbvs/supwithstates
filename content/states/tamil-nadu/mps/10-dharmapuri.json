@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Agriculture and Legal Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/efd41b790042a4143fdd1139ed69e2964d2a8936.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=121"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.L., Central Law College, Madras University, Salem 1993"

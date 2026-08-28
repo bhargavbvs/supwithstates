@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Business & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/8b16148cf6997b30969c91e0bf803f51b8979130.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1089"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Hitkari School, Jabalpur Secondary Education Council Bhopal in 1980"

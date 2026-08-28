@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 40,
     "profession": "Social Service and Politician (MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/dd14ebd6cba93f401f10aa4641823edd37281a93.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=249"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Vinova Bhave University Hazaribagh Year 2003"

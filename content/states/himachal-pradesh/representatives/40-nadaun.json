@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Pensioner, Pvt. Contractor, Self Employed & Party Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sukhvinder_Singh_Sukhu.jpg",
+      "credit": "Prime Minister's Office (India)",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=64118592"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A., LLB from HPU in the year of 1991"

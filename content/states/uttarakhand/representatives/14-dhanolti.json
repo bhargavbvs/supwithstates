@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/1e9c5fae49063bb45d17ed0b1ffe5bc4dc6b4a5c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=112"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Hindi Sahitya Sammelan Allahabad in 2001"

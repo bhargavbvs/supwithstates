@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c6d9dd18430b5c74f0152be58e269ecb90a5c349.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4420"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate From Vir Bahadur Singh Purvanchal University, Jaunpur in 2008, Law from Chhatrapati Shahu ji Maharaj University Kanpur in 2013"

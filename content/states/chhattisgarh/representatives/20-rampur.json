@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/1b8840c2b8440da3c0e024e083c421fae7070d76.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=361"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th from Govt. Higher Secondary School Sendrapali, Board of Secondary Education 1997"

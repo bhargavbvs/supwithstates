@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Salary From Madhya Pradesh Assembly, Agriculture & House Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/ca3153bdc9e6c1cfb7eef2e6f645a3bb6a4944a5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=359"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Vikram University, Ujjain, Year-1980 & LLB From Vikram University, Ujjain, Year-1986"

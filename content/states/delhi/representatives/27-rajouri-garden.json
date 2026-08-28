@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 52,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/18bfc8e5e3ca1506fb08410ae90105781a471a7a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=348"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "2nd Year of B.A. Honours (Punjabi-Delhi University, 1992)"

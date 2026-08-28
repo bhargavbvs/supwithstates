@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3b1be71d510a3f3187cbb97a8757f2bdd60fb009.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1305"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th From Pasumalai Higher Secondary School, Madurai, Year-1993-1994"

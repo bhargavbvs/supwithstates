@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3834b2c6ef3956f3fd8c51af3c262858649d1efc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1359"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.L., (Bachelor of Law) DR. Ambedkar Law College , Chennai , University of Chennai-October 1985. B.Sc., (Bachelor of Science in Zoology), Poondi Chennai University in 1978-1981"

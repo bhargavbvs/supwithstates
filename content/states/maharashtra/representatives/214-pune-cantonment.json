@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Business Income, House Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/777a201ffe4fbb4c055c6022a23048a7fc139b50.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=640"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Pass From Maharashtra Board Secondary And Higher Secondary Education Board Pune Camp Education High School Pune In The Year 1983"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "MLA and Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/462416f7a7f89ab21040c0488dd9de4574cab352.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=135"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA (Political Science Honours) from Jawahar Lal Nehru College, Chakradharpur Under Ranchi University in 2009"

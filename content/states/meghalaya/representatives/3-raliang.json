@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Social Service, Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/bf11defa5286d6900f0f84a9b2af03d975da9363.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6885"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th from Shangpung Presbyterian Secondary School in 1984"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 52,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/0171a52264b65e4fd9c6ec9a20f3b75c1825d4f2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2342"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering Bangalore University in 1997"

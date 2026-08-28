@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 38,
     "profession": "MLA and Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/919e84c9fde7ba4feefd19612c481859d8df661a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2489"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Bachelor of Enginnering ) Ranchi"

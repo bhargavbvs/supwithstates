@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 29,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/895b7ec3fc909dce178603ddbd749bbc7c574b97.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=818"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "B.E. Civil, MBA from Yashwantrao Chavan College of Engineering Nagpur, Shrimati Leena Keshore Mamidvar Institute of Management and Research, Chandrapur. Nagpur university and Godhvana University Gadhchiroli. Year- 2020-21"

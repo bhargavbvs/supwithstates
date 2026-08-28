@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/5edb9cea02fad5273f30700a1255d4ff688709c5.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=267"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce, Madurai Kamaraj University, Madurai, Tamil Nadu, Naovember Year 2006"

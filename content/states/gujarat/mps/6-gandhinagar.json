@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Social Work & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3ea3cb7d48441c23c7a55ca3c1a40fb088268906.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4427"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "S.Y. B.Sc.From Gujarat College, Gujarat University, Ahmedabad & 12th Pass FromJ yoti Higher Secondary School, Kanta, Ahmedabad in Year 1981, 10th Pass From Nawrang Secondary School, Nawrangpura, Ahmedabad in Year 1979"

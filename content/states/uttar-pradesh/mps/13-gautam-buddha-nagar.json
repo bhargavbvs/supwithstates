@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Member of Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b4b2fa4cf715a66a8b80f52098ad9c6b7126a655.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2512"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS Delhi University , University College of Medical Science .New Delhi 1982"

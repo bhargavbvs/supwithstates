@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "Housewife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/karnataka2023/51022e54d474176a76ad675582fe040cf8e0eaac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7933"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "PUC Vocational Education Year 2000, S.V.E Trust pre university college, Humanabad, dist ; Bidar"

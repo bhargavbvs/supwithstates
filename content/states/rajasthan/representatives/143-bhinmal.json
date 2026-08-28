@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/be102ba253cb5bf4e87e7efeb9c0d0b3a5c109d0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=450"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D in 1993, M.Phil in 1991, M.A. in 1989 from JNVU Jodhpur"

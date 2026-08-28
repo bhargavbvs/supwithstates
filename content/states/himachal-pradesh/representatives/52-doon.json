@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dehradun_view_from_maggi_point.jpg",
+      "credit": "Anandsingh444",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=1156018"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA from HP University Shimla in 1993"

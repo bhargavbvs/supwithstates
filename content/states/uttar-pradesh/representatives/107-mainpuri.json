@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/357fa45794be14bb7b8c5f31cd7cc0bed0a93a78.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1813"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Kshetriya Inter College Sirsaganj, Madhyamik Shiksha Parishad UP In 1975"

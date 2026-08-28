@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Business & Ex MLC",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/a959acfc3d57d3f1104b8ef334597cf95018990f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=765"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th From JKBOSE, Year-1991"

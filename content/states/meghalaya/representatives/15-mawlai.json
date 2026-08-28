@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Assistant Professor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/3ee55da78a9dfa6bdb527d7f4ed448a53ec6177b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6907"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. ( Adult & Continuing Education) from North Eastern Hill University (NEHU) in 2015, M.A. (Human Rights & Duties Education) from University of Madras in 2013"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Business, Other income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/72fd58d68b9b2656594eb8eeaa6fda30d1a159ed.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=668"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com. from Barkatullah University in 1984"

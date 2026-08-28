@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 74,
     "profession": "Salary From Narveda Motors Pvt. Ltd. as a Director",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/546a0afb13b208cf9c5c74416c2eed1c77eb1b93.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3230"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. From N.R.C. College, Khurja, Bulandshahar, Meerut University, Year-1967"

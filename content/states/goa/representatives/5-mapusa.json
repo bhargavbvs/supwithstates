@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 33,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/56448847cf2b6c3989cdce8750a478ae9be8352b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=101"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From St Xavior College Mapusa Goa in 2009"

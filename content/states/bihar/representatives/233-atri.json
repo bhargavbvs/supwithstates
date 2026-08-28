@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 37,
     "profession": "Salary from Pvt. School",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/d36d61d8514ed35fabb62663de6dd25886451a51.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2265"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. from University of Pune 2008"

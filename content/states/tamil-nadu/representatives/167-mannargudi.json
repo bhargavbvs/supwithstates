@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Educator, Industry and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/2a9d85b040fac5ded8a7c7d749961d15c6c0d561.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1190"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com.,B.Ed., M.Com.,Thiruvika Government College, Thiruvarur, Bharathidasan University (1989) B.Ed Annamalai University (1990"

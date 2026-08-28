@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Ex. Member Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/e84c015c1ed5eeb9e2645f874302bdff292c4d82.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=452"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A. LLB from University of Jammu in 1989"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "University Teacher (State Govt. Aided), Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/db634343ca8122da073eefac76ce25a04ef2c2fe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2551"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. Botany From University of Kalyani"

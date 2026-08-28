@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 31,
     "profession": "Non Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/9ee51923fe9e43e0f68ac66d9cb38bd4269d9d83.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=182"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MCA From Calicut Univercity 2016, Mass Communication , Journalism"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=182",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

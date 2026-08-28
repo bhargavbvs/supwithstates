@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Pension, Rent, Interest and Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/48ec33597603a45ee6cfa0d4deab560360c8933b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=207"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Ninth Passed, Government Higher Secondary School, Ghatol, Year 1971"

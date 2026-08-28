@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 46,
     "profession": "Social Work and Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/38211f843dceefd6ae6d9cefcfcaacec0f4a6c28.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3607"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Lucknow University Lucknow Year 1998"

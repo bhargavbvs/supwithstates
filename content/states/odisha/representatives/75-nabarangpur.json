@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Social Worker, Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/eb671ce4911b3f393d28c93fc41200a186112c00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=185"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Passed Board of Secondary Education from Siba Prasad High School, Digi Solapa, in the year 1998. Passed Council of Higher Secondary Education, Orissa from Indravati project College, Khatiguda in the year, 2001."

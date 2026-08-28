@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/6ddd51722f6b694c78cd30e08d9cfd327d601c0e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=308"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (History) from D.A.V College Bulandshahr, Ch. Charan Singh University, Meerut in 1988"

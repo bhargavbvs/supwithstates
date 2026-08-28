@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 43,
     "profession": "Political, Social Worker, Invester",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/b76d5327399465089b263d6394daac739808aee7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=56"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (English) from Dr. Bhim Rao Ambedkar University Agra in 2004"

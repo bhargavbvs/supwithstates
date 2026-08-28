@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/9f31cfbb1e4795c3d9a7462cb80953c110f293a5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=257"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Upashastri Examination From Ananda Chandra Sanskrit Mahavidyalaya, Buguda Khurda under Shri Jagannath Sanskrit Visva Vidyalaya, Puri, Shri Vihar Puri Orissa"

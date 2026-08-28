@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Business & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/55f90ca6960c10895904d9a81d52bf749e722a31.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7552"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce From Canara College - Mangaluru University - Year 2000"

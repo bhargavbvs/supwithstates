@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/99635d770bee069c4ab2d571fff159430a63f480.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6953"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Pol. Science) from North Eastern Hill University in 2006"

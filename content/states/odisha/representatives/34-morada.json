@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/0c616ae6ef993a4aafdd3c57f4c1c033ff7214b5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1217"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachlore of Ayurvedic Medicine and Surgery passed from Mayurbhanj Ayurved Mahavidyalaya Baripada in the yaer 1997 under Utkal Univesity Vani Vihar Bhubaneswar Odisha"

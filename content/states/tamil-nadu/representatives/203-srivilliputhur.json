@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 37,
     "profession": "Private Press Manager, Cracker Shop Owner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/a8812b272bcb61fa139f53fe08ca5441be653f1d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1095"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Ed. From Sundarewari College of Education, Malli, Year-2020 & M.A. From Manonmaniam University, Tamil Nadu Teacher Education University, Year- 2018"

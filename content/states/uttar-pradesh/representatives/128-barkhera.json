@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Satsang And Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/4f7e35d5ff07dcee989eb580d4c05cdccbf0d17c.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2802"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation From Adarsh College Gurukul Shahi Pilibhit, Hindi Sahitya Sammelan Allahabad in 2016"

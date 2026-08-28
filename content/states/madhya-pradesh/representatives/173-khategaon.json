@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "MLA and Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/44f8e852600818ec66c247a28ca476b6ca3f404c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=58"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Politics and Law Graduate from Shri Krishnaji Rao Pawar University Dewas and Vikram University Ujjain"

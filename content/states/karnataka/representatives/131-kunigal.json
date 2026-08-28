@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Doctor (Medical Profession)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/ad1555e739ed13cab0b4d19918a384b4a3d59a7c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7504"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S. (Ortho) from JS Medical College, Mysore in 1998 to 2001, MBBS from KIMS, Bangalore in 1989-1996"

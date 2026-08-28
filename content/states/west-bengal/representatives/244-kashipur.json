@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Assitant Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/51ae741025872f8b4d734856e046dcf41e024765.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=420"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. In 2010 from Netaji Open University, B.Ed In 2001 from Sponsored Teachers Training College Purulia"

@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Cultivation, Politics and Social service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f0b128b3d50dddaa86fb1a8d207472445d1d1ee3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3377"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Pass in 1980 from Hareknagar Abdul Momen Institution, West Bengal Board of Secondary Education."

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Social Worker and Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/8d14e6aa57bcf01873354ed4902f3cea152903bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=1"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class IX Passed from Government Secondary School Yanman in 1994"

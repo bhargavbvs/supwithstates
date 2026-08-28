@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 75,
     "profession": "Social Worker and Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/11297913e08f3c5704b0d45164a406ffbba28c1a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=17"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Under Graduate (Degree College Anantnag)"

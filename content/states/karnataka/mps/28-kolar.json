@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Business Retail Outlet of IOCL Petrol Bunk Trade Name Shri Sai Service Station",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/bbcb15dff8dbc4b7fe336603c01d0c3e9de21ae0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1894"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA DEGREE, BANGALORE UNIVERSITY,, CENTRAL COLLEGE, BANGALORE YEAR OF PASSING APRIL 1997"

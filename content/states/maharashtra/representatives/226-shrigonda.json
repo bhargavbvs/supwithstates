@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 39,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/2dcbd43ba2f77af0f39c936549380d1ae4de5ddd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2600"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA from London International College, University Northern Way Ziniya in 2008, LLB from New Law College Pune, Bharati College, Deemed University in 2018"

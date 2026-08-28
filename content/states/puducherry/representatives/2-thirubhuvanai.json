@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "Farming, Commerce and Member of Legislative Assdembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/9ae8513e68cb90b32e5b0cd06f37bb5ab40a51c5.png",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=75"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B., 2023, Annamalai University, Chidamparam, TN and BA.(Histroy), at Tagore Arts College, Puducherry, 1994"

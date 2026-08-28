@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/7091bf2f7ef9537b693a259ae4d8cf7e0ec6c994.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7444"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from Government Arts & Science College, Karwar in 1992"

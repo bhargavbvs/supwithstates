@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 50,
     "profession": "Farmer and Insurance Agent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/8566dbca5a92db2e1eeb1a92909d00c621679030.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1623"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Pass from Borhal Kamaladebi Pratisthan W.B. B.S.E Year 1992"

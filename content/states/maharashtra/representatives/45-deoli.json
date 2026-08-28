@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Agriculture, Building Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/efd50eab1103fda240ab4ae83977d1934f7ef53f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=484"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. First Year from Sardar Patel College, Chnadrapur University, Nagpur in April 1986"

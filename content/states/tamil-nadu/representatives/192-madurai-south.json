@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/e570e037c574a619e38cd424faffb41b85ba5740.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1561"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "PG Diploma in Project Managemnet From National Business Management In 2008, MBA. From National Business Managemnt In 2011"

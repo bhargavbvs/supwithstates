@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Chatered Accountant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/dc23f2ebcfa43a9f9110e3331317372fa9387308.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=717"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.com Nainital Kumaun University, CA (ICAI) Delhi"

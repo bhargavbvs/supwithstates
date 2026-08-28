@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Retired As Inspector General Of Police",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/15-Amritsar_North.svg",
+      "credit": "Own work based on User:Furfur",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=51106544"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor Of Philosophy In Faculty Of Arts & Social Science From Guru Nanak Dev University Amritsar in 2010"

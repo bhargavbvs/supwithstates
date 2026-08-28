@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 76,
     "profession": "Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/9335e934e5003497e1c5190b3ccb65151b7693ba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1401"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "X Std Discontinued 1963-64 From S.S.Subbiah Nadar Govt. Higher Secondary School Virudhnagar"

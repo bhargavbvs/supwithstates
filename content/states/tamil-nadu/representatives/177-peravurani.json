@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "Agriculture, Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/bd3d968f33f0c5468f4e17c13f10df14f9261cd8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1217"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary School Leaving Certificate (SSLC) studied at De Britto High School DEVAKOTTAI, completed through Department of government Examination, Madras on 24.05.1977 by Registered: No:058336."

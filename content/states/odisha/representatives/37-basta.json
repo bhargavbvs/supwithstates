@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Entrepreneur and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/7e20419d19ee5d64a88284c0351c7b1ff7561f67.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1051"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate Passed in Arts from F.M. College Utkal Unviersity Year 1986"

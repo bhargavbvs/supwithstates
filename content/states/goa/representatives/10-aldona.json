@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/295539ee91dc6b77b0cafd860728ed0af7ab064f.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=222"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Laws (Goa University) in 1989 and Diploma ABRSM (Piano Teaching) in 1992, B.A. from (Bombay University) in 1985"

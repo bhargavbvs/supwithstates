@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/f453882cf63ef435b2454878f09fe2708b14026b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=958"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. From Santal Pargana College Dumka BhagalpurUniversity Bhagalpur1987"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Member of Legislative Assembly, Farmer and Social Worker/Trade Unionist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/f86b17b1167f1f29e6cdd11ac02c3898f423bbee.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=713"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Dibrugarh University DoomDooma College in 1999"

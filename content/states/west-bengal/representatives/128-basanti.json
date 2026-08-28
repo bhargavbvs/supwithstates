@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": "Agriculture and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/dc4c78fe26334756eb5a2748f4d098103a501a37.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1866"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in History from Rabindra Bharati University in 2006"

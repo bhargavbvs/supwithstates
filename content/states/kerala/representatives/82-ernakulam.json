@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 63,
     "profession": "Social Workers",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/f587514b798b74010259b6d888bd26108abc3459.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=77"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre Degree ,Private Study, Kerala university, 1981"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=77",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

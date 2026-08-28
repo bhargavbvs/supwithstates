@@ -16,7 +16,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/940338162f8066c8cb1de09b3a30a6c522da2a66.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=4373"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Dr. Babasaheb Ambedkar Marathwada University, S.B. Arts and Commerce College Aurangabad in 1983"

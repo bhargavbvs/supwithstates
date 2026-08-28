@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Service In Sail , Rourkela Steel Plant , Rourkela",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/3fb53a9d9315bd0e86ecee50cd81ef5be2161ef9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=333"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass From Cerficate Examination From Board OF Secondary Education Odisha Cuttak In 1985"

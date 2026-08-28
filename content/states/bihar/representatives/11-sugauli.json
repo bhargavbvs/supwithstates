@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 55,
     "profession": "Agriculture, Business, Social Work & Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/7e0fdc7db216ed4f1b60ef735e893d3c5e177988.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2780"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering Board, Technical Examination Bangalore in 2001"

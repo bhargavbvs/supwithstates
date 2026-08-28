@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "MLA Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/77a9b48e8a420780ca93cad4613a34e0886ce874.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=637"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Hons From Raghunath Girls College Meerut University UP in 1986"

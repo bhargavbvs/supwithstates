@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 38,
     "profession": "Advocate and Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c0036a856b6b02832376e04095b51a163f33ce11.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4065"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B From Deen Dayal Upadhyay Gorakhpur University-2008"

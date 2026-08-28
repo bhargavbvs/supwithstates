@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 70,
     "profession": "Parliament salary and allowances, Agriculture (Self Use)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d9653afa7369141fbe30f3e26a8de2c33d6020f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5083"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School Passed from Shriram Ratan Inter College Kanchosi Bazar Kanpur Dehat"

@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Social Service, Politics and Business/Corporate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/a63f1018aa4e7ff091587af1a52b102df841878f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9427"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B Tech Passed from Michigan Technological University (Houghton, United States) in 1985"

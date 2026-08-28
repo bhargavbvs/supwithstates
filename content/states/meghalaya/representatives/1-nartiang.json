@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Public Representative / Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/babd00931325612cdefcd40d30007d8dfd46711c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6866"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary School Living Certificate Examination (Science) from St. Edmunds College in 2000"

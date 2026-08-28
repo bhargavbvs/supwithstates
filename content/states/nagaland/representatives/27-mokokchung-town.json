@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/7fa39def927e1e6baa9280ff99168391e2a3b0db.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6866"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc (Agriculture) from North East Hill University (NEHU), Shillong in 1983"

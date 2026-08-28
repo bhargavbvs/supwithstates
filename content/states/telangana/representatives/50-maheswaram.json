@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Politician & Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/4155a76473cb15f65dd5b77b892c69d883093741.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=173"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Reddy College, Hyderabad 1978-80, 6th to 10th Class from Bhagya Memorial School, Tandur 1973-78, 1st to 5th Class from Christian Missionary School Zaheerabad 1968-73"

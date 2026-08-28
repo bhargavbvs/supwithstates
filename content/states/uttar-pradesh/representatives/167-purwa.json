@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 42,
     "profession": "Business, Salary , Agriculture & Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/544f228c7e1e405729524e65b635af3d3fb401cf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2505"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate Year 2014 From Baba Kaludass Inter College, Mau, Uttar Pradesh Allahabad Board"

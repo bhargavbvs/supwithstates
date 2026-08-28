@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/478921d77fcde4fcdc2e365b7183bf23bccdcb2b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=380"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Sc. (Dropout), Loyola College, Chennai, University of Madras, 1992"

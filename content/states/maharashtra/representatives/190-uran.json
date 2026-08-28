@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Business, MLA Payment",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/bee8133db7898d1a16328170293065d7279aa5aa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=769"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "SY B.Com from ASC College Panvel in Yr 1984"

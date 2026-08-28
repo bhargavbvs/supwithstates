@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Advocate (Supreme Court/High Court)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/76971f1c407021861f419813ce929e332e92d38b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=312"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Sc. & LLB From Jammu University & AMU Aligarh, Year-1997"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Retd. SSP J&K Police",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/9d2be9a3aabbd9168c5ffc114ca9a16e8b7f0b17.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=634"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc Botany From Jammu University in Year 1991"

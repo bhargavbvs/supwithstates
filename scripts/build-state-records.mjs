@@ -12,7 +12,7 @@
 // belongs to). Nothing is invented at the join — a name that cannot be
 // placed is reported and left out, because a record filed under the wrong
 // number is worse than a record that is missing.
-import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from 'node:fs';
+import { readFileSync, readdirSync, writeFileSync, mkdirSync, rmSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { stateConfig } from './lib/states.mjs';
 
@@ -293,7 +293,26 @@ if (uncrawled.length) {
 // Cleared first. Without this a record that stops being produced — a seat
 // renamed, a name that no longer joins — stays on disk from the last run
 // and ships as though it were current.
+//
+// Photographs are the one thing carried across, because they are the one
+// thing not derived from the sources this script reads: they are added
+// afterwards, some from ADR's cached pages and some from Wikipedia, and a
+// rebuild that dropped them would throw away work every time.
+//
+// They are carried by candidate, not by seat. A by-election gives a
+// constituency a new member, and moving the old member's face onto them
+// because they sit in the same chair is exactly the error worth being
+// careful about — so the key is the MyNeta URL, which names the person.
 const outDir = join(stateDir, MPS ? 'mps' : 'representatives');
+const heldPhotos = new Map();
+if (existsSync(outDir)) {
+  for (const f of readdirSync(outDir).filter((n) => n.endsWith('.json'))) {
+    const old = JSON.parse(readFileSync(join(outDir, f), 'utf8'));
+    if (old.representative?.photo && old.source?.myneta_url) {
+      heldPhotos.set(old.source.myneta_url, old.representative.photo);
+    }
+  }
+}
 rmSync(outDir, { recursive: true, force: true });
 mkdirSync(outDir, { recursive: true });
 const retrieved = new Date().toISOString().slice(0, 10);
@@ -350,7 +369,7 @@ for (const { seat, place } of records) {
       term_start: MPS ? '2024-06' : `${seat.year}-12`,
       age_at_election: d.age ?? null,
       profession: d.profession ?? null,
-      photo: null,
+      photo: heldPhotos.get(`https://www.myneta.info/${election}/candidate.php?candidate_id=${w.candidateId}`) ?? null,
       education: { level: d.education?.level ?? null, detail: d.education?.detail ?? null },
       declared_cases: {
         total: d.cases ?? w.criminalCases ?? 0,

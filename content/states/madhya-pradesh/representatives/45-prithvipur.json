@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Director of RM The Hotels and Resorts Pvt. Ltd. Company",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/3dff403f4b1d1d1490823a1be608aa0e3c65bb0d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=80"
+    },
     "education": {
       "level": "Others",
       "detail": "Intermediate from Board of Secondary Education Delhi in 1997, Hotel Management Diploma from National Council for Hotel Management and Catering Technology Minstary of Tourism Govt. of India Liverery Avenue Pusa Complex, New Delhi 110012 in 1999-2003"

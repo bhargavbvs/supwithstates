@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/4704d29c6325981f83a0a053ee205b959854b3cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1943"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary From West Bengal Council of Higher Secondary Education, Year-1992"

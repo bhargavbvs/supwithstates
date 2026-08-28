@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 44,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/d14230a9f050f3b3a7ba4b0a4a497f722740848e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=271"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in Social Work From University of Delhi 2006"

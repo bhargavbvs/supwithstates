@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/6258c8281e68c610a0bcb279df23d38ae90ae5eb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1151"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Business Administration Passed in the year 2009 form MAGNUS School of Business"

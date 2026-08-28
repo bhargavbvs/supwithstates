@@ -16,7 +16,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Politician & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/217c04a405fc7693bfd922d0fb38b712744176a0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=152"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Passed Class XIIth from Open School, Central Board of Secondary Education in the Year 1990"

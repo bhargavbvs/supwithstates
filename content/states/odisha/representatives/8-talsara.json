@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Social Worker & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/4ace7450f01c76cd56a51f93fe3f97baddac7a79.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=292"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass from Anchalik Sahayog College Subdega Under Council of Higher Secondary Education Orissa 1998"

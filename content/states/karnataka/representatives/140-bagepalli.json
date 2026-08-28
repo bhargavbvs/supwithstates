@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/6809a705f1ce7bfc51d88d24558515e1236e8f99.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7115"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC from Govt. High School Gulur Bagepalli Taluk In 1983, Techer Certificate Higher from Venkateshwara TCH Training Colelge Marathahalli, Bangalore In 1986"

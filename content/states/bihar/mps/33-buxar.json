@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Agriculture & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/44c0df73f497a378a99c55cf346828a609bf8d88.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9560"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Delhi University In 1995 , 10th Pass From Senior Secondary , UP Board Allahbad In 1992,"

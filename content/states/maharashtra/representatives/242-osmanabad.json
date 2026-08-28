@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Agriculture & Assembly Member",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/593d58152a23ae05c4e90daf7b4c3bcd201b14b4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=579"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Diploma in Electronics & Communication Engineering from Maharashtra State Technical Education Board Mumbai under Government Technical Dharashiv in 2021, BALLB (5 Years) from New Law College, Bharti University, Earwade"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/3074fd95f2490a973f9c6577bb06dc1bf646380d.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=53"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Passed From Dhempe College of Arts and Science Panaji Batch in 1982"

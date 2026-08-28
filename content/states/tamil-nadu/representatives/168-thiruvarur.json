@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Agriculture & Rice Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/524244f6e689a63ba2a642116233d9a50e794f9d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=731"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th From Koratacherry Govt Higher Secondary School In 1980-81"

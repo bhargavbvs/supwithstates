@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Former MLA pension and rental income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/738486479e9226ebf5b0901e1a7f7ad03309d9f0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1196"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass From Neelambal Subramaniam Higher Secondary School, Sooramangalam, Salem-636 005, Year-1979"

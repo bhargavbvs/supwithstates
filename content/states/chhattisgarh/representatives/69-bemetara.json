@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 35,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/36c2f72f154c30c41eb21d73b273554be0d6190c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=582"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Political Science Government Mahaprabhu Valbhacharya Post Graduate College (Chhattigarh) Year 2022"

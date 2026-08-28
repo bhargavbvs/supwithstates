@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 39,
     "profession": "Agriculture/Rent/Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/b716adc08a9ee86623c6889fef0b4a079c901359.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2597"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A. From S.I..E.C. Puna in 2004 , B.Com From Delhi University in 2002, High School From Sant Jaims School, Hardoi CBSE Board in 1997, Intermediate From D.P.S.Delhi CBSE Board in 1999,"

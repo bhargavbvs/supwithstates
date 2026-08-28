@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Presently Member And Rajasthan Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/387cb2e07c820069f71acf2bb1ec944e2cc32dad.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=11"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Khandelwal School Jaipur, Secondary Education Board Rajasthan in 1984"

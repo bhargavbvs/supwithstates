@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Agriculture Income (Presently MLA and Minister Madhya Pradesh Government)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/207ed5b48de594f4bdf537bd503d326c5ff1d923.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1504"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA from Punjab Technical University in 2007, MA from Dr. Hari Singh Gaur University Sagar In 1984"

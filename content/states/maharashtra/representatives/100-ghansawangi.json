@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Agriculture & Entrepreneur",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/aee94d82afa9111e90cb4967b69c4f119cab581e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2909"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.B.B.S (Bachelor of Medicine & Bachelor of Surgery) from Government Medical College, Aurangabad , Marathwada Unviersity Aurangabad Year 1985"

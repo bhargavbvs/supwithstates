@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 32,
     "profession": "Parental Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/48056c7ca146754aed9df0fb7e9b9424fe9dd660.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2950"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Bundelkhand University, Jhansi in 2013"

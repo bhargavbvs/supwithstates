@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Agriculture/ Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Jagdeep_Kamboj_Goldy.jpg",
+      "credit": "Kk09771",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70277844"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A & LLB From Maharaja Ganga Singh University Bikaner in 2010"

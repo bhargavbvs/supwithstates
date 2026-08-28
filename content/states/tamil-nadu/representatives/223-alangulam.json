@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/c0883368322d6758dcd2cd06adf347bb3eee0d08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1141"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor in Philosophy-Faculty of Law, University of Madras,Chennai-2024. Master of Law-University of Madras, Chennai-1997. Bachelor of law-Dr. Ambedkar Govt. Law College, Chennai-1994. 12th Std-Don Bosco Matriculation Higher Secondary School-1989."

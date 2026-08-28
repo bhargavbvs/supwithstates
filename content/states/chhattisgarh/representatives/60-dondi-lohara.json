@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/f81965df9aaf17fbbc8243fe469ba3267534eef9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=291"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (Sociology) from P. Ravishankar Shukla University Raipur in 2010"

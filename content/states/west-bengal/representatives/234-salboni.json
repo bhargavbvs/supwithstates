@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 36,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/6fdd94d5fab0c9d44a04008e5ff6c1748f175536.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=593"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Passed in 2013 from Vidyasagar University"

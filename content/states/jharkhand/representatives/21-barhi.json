@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Politician, Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/52998ee4a6d6399cb0e3d0b5eb5e216b8cade06a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=255"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate Science from Ram Lakhan Singh Yadav College, Ranchi University, Ranchi Jharkhand in 1975"

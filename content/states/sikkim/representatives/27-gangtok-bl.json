@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Politician & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/1b27a601b928bba6166ebb83a4ff3602c6f937ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=36"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class IX Pass from Tashi Namgyal Academy, Gangtok, (ICSE Board) in 1983"

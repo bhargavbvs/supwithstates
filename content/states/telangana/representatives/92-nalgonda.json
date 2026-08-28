@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Agricuture, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bc4fde92989d1f56d14701821203a245f62025f3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=226"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From N.B. Science College, Pathargatti Hyderabad 1982"

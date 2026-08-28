@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "MLA, Business and Other Sources",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/e2c19e4d11c66740e1c73073b4ef9654f3d0a2a3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=831"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th , from Uchh Vidhyalaya Amarapur Year 1993"

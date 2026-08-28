@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/e2bb830a6fc74e2a8cba923c64088f6cf6476227.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1167"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctorate of Honour from The Open University, Colombo, Sri Lanka in 2012"

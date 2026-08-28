@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 41,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/a0b3ab86a1f874825c971718668df0f7d044c763.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=145"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BA., LLB from Barkatullah University Bhopal in 2006"

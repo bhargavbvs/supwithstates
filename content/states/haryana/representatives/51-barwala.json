@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Farmer and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/c6e54b9ab0be4d400cce43651fe6f4444466bd8f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=276"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Board of School Education Bhopal (M.P.) in 1982"

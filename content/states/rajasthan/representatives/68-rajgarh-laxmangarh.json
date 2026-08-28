@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Retd.,Pension, Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/607dd686a989482d9324d9344f3ff8ab4faf9718.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=112"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BE Civil Engineering, MBM Engineering College Jodhpur, Rajasthan"

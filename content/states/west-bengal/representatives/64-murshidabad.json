@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "Business & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/cbf34b7d73f5e597278f5a9c34c3f7ee9486fe9f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=94"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate in Political Science from Rabindra Bharati University in the Year 2000"

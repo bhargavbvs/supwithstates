@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Agriculture and House wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f624785ce9212f5217bae269867c82967360cbe0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=956"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th from Girls College, Amravati in 1981-1982"

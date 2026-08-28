@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 31,
     "profession": "Printing Industry",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/e6cefc1e92ab0f834a42dcf762ab10bcf1d36408.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=979"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A., L.L.B.,(Hons) National Law School, 2014-2019"

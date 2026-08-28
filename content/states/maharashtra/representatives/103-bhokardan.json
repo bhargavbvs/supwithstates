@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 40,
     "profession": "Agriculture, Rent, Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/068b8d44716092f56e368007244dfd9b1a0105c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2964"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from Dr. Babasaheb Ambedkar Marathawada University Aurangabad, Moreshwar Arts, Science & Commerce College, Bhokardan Dist Jalna in 2007"

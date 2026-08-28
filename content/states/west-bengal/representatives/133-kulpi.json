@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Chairman OF Krishi Nirbhar Agri FPC Ltd",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/c3a209ebb272890accaf50877e07c8199a367072.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2589"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Examination In 1991 from West Bengal Board of Secondary Education, School - Nischintapur R.D. High School"

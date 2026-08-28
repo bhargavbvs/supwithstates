@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Business/Social Worker/Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/fbefb4ac607b372148f0383e2f1b2463973ac926.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=660"
+    },
     "education": {
       "level": "Others",
       "detail": "Maharashtra State Board of Secondary and Higher Secondary Eduction Divisional Board- Pune Passing Year March-1989. Technical Education (Engineering Diploma Civil Branch) Board of Technical Exmination, Bangalore Passing Year - June 1992"

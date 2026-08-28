@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/4d31ed0f09275a6c529168ad3ba5fa63eb421009.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=292"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "lntermediate First Year 1975 Government Junior College, S.P. Road, Secunderabad."

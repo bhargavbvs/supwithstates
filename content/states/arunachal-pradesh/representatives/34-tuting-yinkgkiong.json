@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/e6eec54ba125913b8d057bd9825e21d22253cab7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=82"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts From Jawaharlal Nehru College Pasighat, Arunachal University (New Rajiv Gandhi University) Year 1987"

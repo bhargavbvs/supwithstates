@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Vegetable Fruit Wholesale & Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/bb5b1641682604b3341452f9312eb438f668fc20.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=490"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class 8th Pass from Madhyamik Vidyalaya No. 3 Dabra"

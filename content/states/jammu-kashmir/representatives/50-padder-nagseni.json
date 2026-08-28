@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/81c761ba3d50248d7de2b25877d9d559f7114198.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=124"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Persuing Graduation from Lovely Professional University Jalandhar in 2023, 12th from Boys HSS Kishtwar (JKBOSE) in 1994-95"

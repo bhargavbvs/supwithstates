@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/66c65bccd14e9e3514372de138c6a1e7ffbe86a0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=562"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from University of Jodhpur in 1978, B.Com from University of Jodhpur in 1975"

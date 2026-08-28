@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Businessman and Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/94181bcaa861ea3efc8c39a2e67636cea8eadfc1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7974"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Engineering Graduate, Vishveshvaraya Technological University, Belagavi."

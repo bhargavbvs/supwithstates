@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/4d3e151b93e43badb7bc96c1c21f704672efac62.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=53"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB In from Campus Law Center, University of Delhi In 1998, B.A(Hons) Pol. Science in 1992 from Hindu College, University of Delhi"

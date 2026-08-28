@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Social Worker and Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/38f1917f4e5b6ddf6d8033232d0011b16323cd68.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=647"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate (Bachelor of Arts )from Cooch Behar College under North Bengal University in the year 1994"

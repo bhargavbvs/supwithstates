@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 35,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/eb629834358b9cab3fcd45b4633dca1ef15f13d9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=275"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. (Honors) 2nd Year Passed in 2013 from Shyam Lal College, Delhi University"

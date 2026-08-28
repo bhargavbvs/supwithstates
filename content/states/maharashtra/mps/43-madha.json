@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Service, Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/e6c619208a0f2a51b158c874842bf2410bd4e997.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4929"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Business Administration from Yashwantrao Chavan Open University, Nashik in 2021"

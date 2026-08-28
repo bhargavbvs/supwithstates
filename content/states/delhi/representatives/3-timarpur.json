@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 62,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/5e19b1346f559cb123e0fbe4e2468723d4e131e9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=120"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Campus Law Centre, Faculty of Law in 1990, B.A. from Hansraj College in 1985, Delhi University"

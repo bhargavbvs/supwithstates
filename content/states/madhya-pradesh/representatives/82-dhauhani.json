@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Agriculture & salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/7aa87b92e81d5ef4d800da53634649329540e2a3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=103"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (Sociology) in 1989, Graduate in 1987 from Awadhesh Pratap Singh University Reva M.P"

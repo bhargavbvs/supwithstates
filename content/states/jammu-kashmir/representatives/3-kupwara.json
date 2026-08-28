@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Social worker and Political Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/bcd47a55b9c7a6a5aac4a08988c6abded26b06fe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=738"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass Higher Secondary School Part II Through JKBOSE 2001"

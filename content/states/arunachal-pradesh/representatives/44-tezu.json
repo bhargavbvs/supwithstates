@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Social Service, Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/51675f3a962fc274d6c7d627f1fb5d67b59c2ce7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=79"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MD (Chest Specialist) from RIMS, Imphal, Manipur University in 2007, MBBS from Dr. B.R. Ambedkar Medical College, Bangalore University in 1996"

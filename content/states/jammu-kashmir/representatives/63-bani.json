@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Resigned as Medical Officer from PHC Koti Chandiyar Under CMO Kathua",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/dfd346fcd506e3ab911db88d3c6f328e39a7c378.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=911"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Aryurvedic Medicine and Surgery (BAMS) granted by Faculty of Ayurvedic Medicine Session 2010, University of Jammu"

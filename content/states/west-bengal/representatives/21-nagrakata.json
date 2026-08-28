@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Retired Person & MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e32314926f709b904894c39bf29bb04a9f65fec9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=369"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik passes from Nagrakata Hindi High School in the year of 1992 under West Bengal Board of Secondary Education"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9c7846b8a65f86f24487f08d6b3b0f219dab4d5d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=411"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.P.M from Indian Institute of Cost & Management Studies & Research Pune, Pune University in 1995 , DLL & LW from Symbioses Law College, Pune, Pune University , B.Co,m From Dayanand Commerce College Latur"

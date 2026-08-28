@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Retired Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5417bf69814645448d77e8b55416030e951e6cc4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=820"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC Pass from Z.P. (M.S.) Secondary School & Jr. Collge, Mangrulpir, Tal Dist. Washim in 1984, Nagpur Board"

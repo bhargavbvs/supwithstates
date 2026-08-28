@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/a809d82a1e4141fff8c90028fe07fb659c2b128a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=134"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Phil From Algappa University Karaikudi 2013"

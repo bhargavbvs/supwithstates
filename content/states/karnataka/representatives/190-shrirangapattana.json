@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "EX-MLS and Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/0019352c9a3552c4654dcd6ab398fb7c6dd78cf3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8308"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Electronic and Telecommunication - Final Year D.Banumayya College, Mysore 1989-90"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Business and Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/da2dd5dcf9b1497705f593c111bdab812baeb9f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=179"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Bankura Goeky Vidyayatan in 1991"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 32,
     "profession": "Formal Professional Footballerr",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/ebe83f8257f82cebbe9d563bf7a441f6b45716a5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=102"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "BPP Equivalent Higher Secondary School Leaving Certificate from IGNOU in 2013"

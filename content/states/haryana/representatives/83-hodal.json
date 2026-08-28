@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Social Worker, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/ac26247f4ff75448f2263906182495b965c4bdca.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=248"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Osmania University Year 1994"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "MDC",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/42b6166dcf9e7a6c0799eaa27ee224248e9dc53b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6807"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A.(Anthropology) In 2003 from NEHU"

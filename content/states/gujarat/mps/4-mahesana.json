@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Retired (Non Government Servant) And Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/fd05c88f9321f5867ddb1733db9e1b04b1821706.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3774"
+    },
     "education": {
       "level": "Others",
       "detail": "S.S.C. In 1977 from GSEB, Gandhinagar & GDA(Commercial / Applied Art) in 1982 from Gujarat State Examination Board, Gandhinagar, Kalakendra Collage of Fine Arts Vallabh Vidyanagar"

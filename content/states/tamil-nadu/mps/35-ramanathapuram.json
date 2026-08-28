@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Business and Social Services",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/bb14907db6a8add4abb575ba9c81c5fb191c3985.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=234"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Board Examination in SBK Higher Secondary School Aruppukkottai Tamil Nadu in the year 1996"

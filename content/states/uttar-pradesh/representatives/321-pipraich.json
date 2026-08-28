@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Agriculture & Business, MLA Salary & Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/863d0873a410f30712675f50fe627b89f740d200.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3643"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Digvijay Nath Degree College, Gorakhpur University in 1983"

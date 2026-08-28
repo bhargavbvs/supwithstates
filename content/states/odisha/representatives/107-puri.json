@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Social Employed, social Service and Polities",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/059be064a85397b47da87dad0964be59d317d15c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=890"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Business Administration in Marketing and Finance KIIT School of Management Bhubaneswar 2009"

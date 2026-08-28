@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 30,
     "profession": "Sun San Steels",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3c273aebd89d57dd2a1bfa1cfd0329c781355b5e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1080"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S. (Software Engineering) from VIT Chennai in 2017"

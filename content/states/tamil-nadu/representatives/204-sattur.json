@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 67,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/5cdeaaef251c06736cb21fd4b919a718871b7292.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1238"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "10th Std not Passed from Ramamurthy Government Higher Secondary School, Nadupatti in 1975"

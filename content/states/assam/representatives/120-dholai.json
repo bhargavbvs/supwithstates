@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "LICI Agent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/d57a73a97c01808e9d8841a699bf5ace1474ba02.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=292"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Political Science from Krishna Kanta Handique State Open University, in the year 2023"

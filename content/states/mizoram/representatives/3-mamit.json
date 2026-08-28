@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Resign from service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/82b6ee2d364e845ff745fa6975505f547c87be35.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=98"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B Tech North Eastern Regional institute of science & Technology 1996"

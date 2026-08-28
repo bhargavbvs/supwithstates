@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/c58fcfd4ba85b2ef8c4c2f548982f7400d40a08f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=302"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D From Doctor of Philosophy in 2019, University of Gauhati"

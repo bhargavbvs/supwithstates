@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Assistant Professor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/e3d9a191d49131d73caa0c37097806442e0f2c54.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=594"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Philosophy (Political science) From university of Hyderabad in 2003, M.A Policitcal Science From University Of Hyderabad in 2000,National Eligibility Test 2000"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=594",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

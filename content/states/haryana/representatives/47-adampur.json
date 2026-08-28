@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "Retired IAS Officer, Social Worker.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/dae0d3b746067591941671fe410bd3e0984519cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=306"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Law Faculty, Kurukshetra University Kurukshetra in Year 1981, Graduation from Dayanand College, Hisar, Kurukshetra University in 1978"

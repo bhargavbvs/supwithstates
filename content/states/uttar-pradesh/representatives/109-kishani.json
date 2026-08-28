@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Agriculture and Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/2c25fc9f2489fb0e088fb4a45ec561fb3c548b6b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1987"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate (Private) from B.D. College, Lalganj, Raebareli, Ch. Shahuji Maharaj University Kanpur in 1997 ,Diploma Engg. Frozgandhi Polytechnic Raibarely 1996"

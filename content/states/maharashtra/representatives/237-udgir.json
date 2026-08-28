@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Business, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/0c208ea2e37b7e93d2e2756882ea4162beffd5e1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=756"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSC (Science) Pass From Devgiri Collage Year 1991"

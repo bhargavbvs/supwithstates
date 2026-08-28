@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 48,
     "profession": "Agriculture and Transporting Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/0a769773af730216bb5cb8896898ed5649a8c16c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=268"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th from Rashtriy Higher Secondary School, Jagdalpur in 1995-96"

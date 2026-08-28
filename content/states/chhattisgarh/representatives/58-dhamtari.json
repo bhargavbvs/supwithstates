@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Photography",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/a8c8f58b4ebc7f0195fa41b972bf7ff2c3d852f8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=684"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed from Higher Secondary School V. K. Dhamtari Jila Dhamtari Year 2000"

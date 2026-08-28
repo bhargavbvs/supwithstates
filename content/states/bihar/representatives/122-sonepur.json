@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 62,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/cfa18bd70b98b47cb3fd8d8152596d77c042863d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=328"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com. from Bihar University in Muzaffarpur Year 1984, LL.B. from Ganga Singh Law College in,Chapra Year 1994"

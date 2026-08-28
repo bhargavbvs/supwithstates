@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Mining Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/d31999b7e991b257cd6cd75ea2b85feeb2e907b4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=65"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre University Shramjivi College Tatkalin Udaipur University in 1969"

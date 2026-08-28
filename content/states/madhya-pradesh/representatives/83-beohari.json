@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 32,
     "profession": "Agriculture /MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/8b39ef3d6558b0d755f06255ab6bf9fabfc978d6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=26"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graudation from Govt. College Beohari in 2016"

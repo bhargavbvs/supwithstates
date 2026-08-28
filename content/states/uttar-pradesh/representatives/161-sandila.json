@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 42,
     "profession": "House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/df5eec4035a73aa143cb27e01d8800f6f5b874de.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2613"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A -2007 Allahabad Agriculture Institute D University"

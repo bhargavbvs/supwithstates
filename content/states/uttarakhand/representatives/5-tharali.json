@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/415319c48436efdb347d1255e7d054495ec38085.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=279"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Passed From REK Narayangarh 1973, ITI Shrinagar 1975"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 38,
     "profession": "Agriculture,Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c89df4ebb3c97beaf74b1f628867f10483843e54.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2442"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Lucknow University In 2005, B.Ed. From Dr Ram Manohar Lohiya Awadh University In 2006"

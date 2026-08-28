@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 71,
     "profession": "Agriculture & MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/629b338a4665cb259b7844c702496c614dad448e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1107"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. (Agriculture), from Jaat Degree College Baraut, Meerut University in 1972"

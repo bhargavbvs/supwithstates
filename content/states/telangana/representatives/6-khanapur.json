@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 37,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/ba3725c73009f5ff55f4ce3535990e3fd5a3eae0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=135"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Distance Education Acharya Nagarajuna University in 2017, LLB from PMR Law College Hyderabad, Osmania University in 2018"

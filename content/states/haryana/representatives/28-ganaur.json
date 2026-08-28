@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/4feb29e0ea84f0f50b173e1152d12ebf1defd5c0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=663"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Govt. Senior Secondary School, Teh. Ganaur, Dist. Sonipat, Haryana Board of School Education, Bhiwani, Year-1999"

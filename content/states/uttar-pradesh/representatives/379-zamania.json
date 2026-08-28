@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Agriculture, Social Worker, Fomer MLA & MP Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/b212fd2296c08c0d1efaa3a2c9e592896f161039.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4553"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate from BHU Varanasi in 1983, B.P.Ed. from BHU Varanasi in 1981"

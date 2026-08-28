@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 50,
     "profession": "Educational Services",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/8c6533b5c8a47d85fce6c67f6c2b9c5fa9ed27d7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=286"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com Completed in 1995 from Vanijya Mahavidyalaya, Patna University"

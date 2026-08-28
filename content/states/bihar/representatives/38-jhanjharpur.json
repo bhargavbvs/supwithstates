@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 52,
     "profession": "Service (On Special Leave)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/bihar2025/1f44f77626bb25964dd88eb614eaa58fd69e7da6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2546"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA from Fore School of Management, New Delhi, Maastricht School of Management, The Netherlands in 1995"

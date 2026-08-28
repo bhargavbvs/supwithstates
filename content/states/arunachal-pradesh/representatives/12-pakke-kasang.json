@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/ad743ac1ef40e3514faf073ebd3d668da80e73bc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=94"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Passed from Govt. Hr. Sec. School. Bomdila"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Medical Practitioner & Member of Lagislatie Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/b28d949312e523f303bfded0cf7a4b1e17216d74.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=103"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate Degree, DOMS (Ophthalmology) at JJM Medical College, Davanagere from University of Mysore, Karnataka in 1992"

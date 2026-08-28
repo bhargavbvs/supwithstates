@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/85b9bf01e66acae92d29f975bd93096672610898.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=436"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Plitical Science) From Mahatama Gandhi Chitrakoot Gramodaya Vishwa Vidyalaya, Chotrakoot, Satna (MP)"

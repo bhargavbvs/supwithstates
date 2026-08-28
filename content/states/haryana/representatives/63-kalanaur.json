@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/6d3373f5a0ec4586da3748543ffa2e68964c9352.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=237"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Shobhit Institute of Engineering & Technology Shobhit University Meerut Year 2014"

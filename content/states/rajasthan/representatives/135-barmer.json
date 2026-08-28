@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "Pension, Agriculture and Petrol Pump Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/c23b88e8e300a33f69872fa5566fd542903d1685.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=752"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in 1996 from Rajasthan University B.D.S From Rajasthan University 2005"

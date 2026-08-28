@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Rent, Salary, Director Salary, Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/660c4a82fd196f892723c4dab7552f3516dba7bd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=311"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Barkat Ullah University in 2003"

@@ -27,7 +27,12 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": "Textile (Clothing Industry)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/09351eec21f43072f18c6da8b837946755ebf707.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3783"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A. In 1995 from Veer Narmad South Gujarat University, LLB In 1988 from V.T. Choksi Law College, Veer Narmad South Gujarat University"

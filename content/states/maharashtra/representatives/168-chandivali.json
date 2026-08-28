@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ed2c29f8450cd33bbc5dbb0542622e653708a6e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=849"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Yashwantrao Chauhan Open University in Year 2008"

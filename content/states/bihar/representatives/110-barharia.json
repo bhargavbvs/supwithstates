@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 60,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/eca0e534db5b7fac2a5f2b059659aa258ff2e5cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1037"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School from Deendaalpur High School, Siwan Bihar, BSEB in 1982"

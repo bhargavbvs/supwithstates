@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "Agriculture, Lawyer & MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7a5c0dc45da96f206997529c4e9f32edef299d06.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1721"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 1986-1987"

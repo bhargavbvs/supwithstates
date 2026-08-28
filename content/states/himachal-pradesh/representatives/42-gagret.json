@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Business, Hotelier",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/himachalpradesh2022/d9066a07c0230e71972fda91926e08909b98c4d5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=492"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate (Bachelor of Arts)"

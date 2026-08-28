@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 38,
     "profession": "Salary and Allowances from Bihar Vidhan Mandal",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/8e8077d306ef0800704c30493c635917d7c73708.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=84"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Phd from Jawahar Lal Nehru University New Delhi in 2017"

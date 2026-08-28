@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 68,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/a2a050a64d370f43068d34d50f817c4052e676e8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=304"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Ch. Charan Singh University, Meerut, Year-1996 & B.Ed. From Kurkshetra University Haryana, Year-1978"

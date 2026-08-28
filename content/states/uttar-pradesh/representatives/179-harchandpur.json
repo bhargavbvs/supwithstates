@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 25,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/43100c94304244456402499cf0475b3a8fe69902.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2325"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Babu Jaishankar GP College Chanchi Rai Sumerpur Unnaou Ch.Sahuji Maharaj University Kanpur in 2017"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Retired- Superintendent Engineer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/769829242969580304090e5f80588621c4f5c2d8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6927"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BE (Civil) from University of Madrass in 1984"

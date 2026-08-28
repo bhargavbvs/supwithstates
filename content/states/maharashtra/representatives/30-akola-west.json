@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/23cba8c2b1086e984dfe666139d66fb447c33ae1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1225"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "10th Fail in 1991 from Mungilal Bajoriya School, Akola Board, Amravati"

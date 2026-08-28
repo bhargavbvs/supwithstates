@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Agriculture And Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4f923d37217ba45f8c409b9c627e30c66ad39cff.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=122"
+    },
     "education": {
       "level": "Graduate",
       "detail": "M.Com First Year, B. Com From JES College Jalna Dr. Babasaheb Ambedkar Marathwada University Chhatrapati Sambhajinagar In The Year April 1987"

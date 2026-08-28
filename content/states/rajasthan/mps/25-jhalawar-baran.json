@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 53,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c7f6adc0c27936758e1e1c0a5445d4b9a2e45a2c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2013"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA( Hotel Administration) From Johnson & Wales University , USA In 1999"

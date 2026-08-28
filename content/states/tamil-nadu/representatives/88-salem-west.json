@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Agriculture & Manager of Private Company",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b78ccd798332108ed93cad54a4e6e606b3ecc09e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=771"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce From Arignar Anna Government Arts College for Men, Namakkal, Chennai University,Year of 1988"

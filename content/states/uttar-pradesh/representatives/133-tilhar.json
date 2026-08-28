@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Manager, Alok Pharmaceuticals",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e8e7e13601d8f5a9cf28801613d6bc27833b4df8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1000"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA Hindi Sahitya from Arya Mahila Degree College Shahjahanpur in 2002"

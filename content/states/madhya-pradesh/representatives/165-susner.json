@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/a2ddef79f837e7427946c4e8c73401c5eda9d2e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=98"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Passed 10th (High School) from Govt.H S School Barod Year 1988 Dist. Agar Malwa Madhya Pradesh."

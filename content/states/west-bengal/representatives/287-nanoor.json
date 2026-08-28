@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Assistant Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/6d1c3f51d36a9d464b75574d4f7062b330b880ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=352"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in English the University of Burdwan in the Year 2003 in 2nd Class B.Ed."

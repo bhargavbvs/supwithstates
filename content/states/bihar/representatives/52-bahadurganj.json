@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 45,
     "profession": "Agriculture, Interest from Saving Account In Bank, Household Chores, MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/bb9eb5b6f5d5e7c08d275efd38bc8d84003af4ee.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2062"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Fokania Madarsa Abidiya, Govabadi, Bahadurganj, Bihar State Madarsa Board In 1996"

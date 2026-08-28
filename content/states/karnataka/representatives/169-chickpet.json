@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/6ed2ba924c7c9ac4c220727801a8616debfc9b06.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7197"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering (Electronics) from Bangalore University in 1987"

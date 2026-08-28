@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 30,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/c7df7f1f391154922b516ee116c6c72105af9c1b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1032"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Laws LLM Comparative & International Dispute Resolution Queen Mary University of Loanda, United Kingdom 2019 Bachelor of Arts & Bachelor of Law Honours Tamil Nadu DR BR Ambedkar Law University Chennai 2018"

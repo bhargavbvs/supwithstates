@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 53,
     "profession": "FARMING AND AGRICULTURE",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/55f43405424aff8c67e3e25cdd33146020ef507d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=298"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate in 1987 from HRE College Gangoh Janpad Saharanpur UP Allahabad"

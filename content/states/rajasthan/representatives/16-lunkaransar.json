@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Business Firm Preet Medicos as a Proprietor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/57106e723203f940a97360ecdf9c77a6928bf9cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=288"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A. (Health Service Managment), Karnataka State Open University 2012, B.A. Usmaniya open University, Haidarabad 1995,"

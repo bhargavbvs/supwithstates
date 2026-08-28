@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4cd64cbefcf51c5f3da8c7b739a8886c1b4096df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=549"
+    },
     "education": {
       "level": "Literate",
       "detail": "3rd in 1974 Dist. Parishad Primary School Naikwadi Dist. Nashik"

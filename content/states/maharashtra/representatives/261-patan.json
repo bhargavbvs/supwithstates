@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Agriculture, Business & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9a8cccc2bfdb0a61675e5c38af6d055813c88788.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=622"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "S.Y.B.Com from Brihan Maharashtra College of Commerce, Pune (Savitribai Phule Pune University, Pune) in 1985-86, 12th from Dhananjay Gadgil Commerce College, Satara, (Maharashtra State Higher Secondary Education Board, Pune) in 1983-84"

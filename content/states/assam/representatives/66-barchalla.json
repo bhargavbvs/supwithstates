@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/54122454c42607d5653e372af535cbeb0d785527.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=105"
+    },
     "education": {
       "level": "Others",
       "detail": "Three (3) Years Diploma in Civil Engineering from Assam Engineering Institute, Guwahati in the year 1991"

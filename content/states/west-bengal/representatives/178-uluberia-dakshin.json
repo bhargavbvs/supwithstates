@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Business, Member West Bengal Legislative Assemble",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/327f290004736552d0bdf586342cd06b0df8e775.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2161"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Uluberia College under Calcutta University in the year of 1988"

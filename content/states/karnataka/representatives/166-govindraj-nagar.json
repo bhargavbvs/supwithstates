@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/a5b0d855bb834c3d79b1269acf6e6b5e7456499a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7960"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts from Karnataka State Open University, Mysuru In 2007, LLB from Bangalore University In 2008"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/4d427768f393a73b6154b11692f4bfcffa25bf16.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=73"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from Dera Natung Govt. College, Arunachal Pradesh in 2002"

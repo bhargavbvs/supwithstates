@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Public Representative (MP) Salary, Allowances and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6453d959f023c3960a1ce76f75c49dda9a035699.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5206"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th pass in 2008 from Ramsaran singh School Fulsanda Bijnor"

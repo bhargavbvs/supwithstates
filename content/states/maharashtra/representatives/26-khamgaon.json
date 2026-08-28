@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 41,
     "profession": "Agriculture, Salary, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/709f8e745393774367cfdbeda027bdb27a17eb62.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=939"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B I.L.S.Law College Pune 2008-09, B.Com From Go Se Science And Arts College Khamgaon Sant Gadge Baba Amrawati University In The Year 2004-2005"

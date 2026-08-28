@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Principal-Adarsh Kanya Inter College Purva Sujan Auraiya",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/2c719c2e350fd26c100e0a9b85282ee1de8676b6.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2202"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Sociology) from Kanpur University Kanpur A.N.D. College Kanpur in 1984"

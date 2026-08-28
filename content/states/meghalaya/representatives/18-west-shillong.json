@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "Member of District Council",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/3491da4a2f6f4db14846d4f7b258460fa2184c42.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7121"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Eng) from North Eastern Hill University in 1998"

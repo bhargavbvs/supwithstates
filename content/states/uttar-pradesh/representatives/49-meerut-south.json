@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 41,
     "profession": "Salary & Agrculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/1e47dae0ce5f6fdab0666e7fe49f029c6e423c6c.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=249"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "P.hd (Physics) From Ch. Charan Singh University in 2005"

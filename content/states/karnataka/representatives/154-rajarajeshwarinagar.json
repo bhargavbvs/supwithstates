@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/16876a626a03e21683abd743f3a814ae6db0ae25.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7760"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC Corporation High School Kodandaramapuram Bangalore In Year 1981"

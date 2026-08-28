@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/879b546471b3a9617c8bdb08d46fe4bc791f45c8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=69"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.P.Ed from Shivaji Univeristy Kolhapur In 1992"

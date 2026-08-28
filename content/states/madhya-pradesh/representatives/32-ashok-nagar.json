@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "(Pensioner) Retired",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/08266088c523edc19bbcffc6c6679cb862ac7f50.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=227"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. Civil in 1985 from Madhav Institute of Technology & Science, Jiwaji University Gwalior M.P"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Agriculture,Through facilities received from MLA salary, Rent and Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/ad03423e9fdfa69cc365d16154c9d97da88b744a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=486"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "BA Ist Year From SNG College Mungeli in year 1979"

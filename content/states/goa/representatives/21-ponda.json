@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 75,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/40f9b4d9bb95092bd018e21056c2cd419076044b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=134"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Political Science Madurai Kamaraj University In 2006"

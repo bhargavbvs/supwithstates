@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Social Work & Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/76c6538fff504551d7e42f419bacc5713c786f00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2461"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science From Ballygung Science College University of Calcutta in 1993"

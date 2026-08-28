@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Agriculture and Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/a86adb92e4a7d104bc782eaf5e46a4b59054ce39.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1131"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. Mechanical MITS Gwalior in 1988"

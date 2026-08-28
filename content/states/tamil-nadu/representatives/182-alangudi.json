@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/bfea322b704ea2c470a97c1b1d3685e3c02c9e01.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1413"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Computer Application (MCA), From Thanthai Hans Roever College, Perambalur, Bharathidasan University1996"

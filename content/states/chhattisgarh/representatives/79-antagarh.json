@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/b0f0b0c570d6222687bb11f6a47bf3786fdfdafd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=14"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Higher Secondary (11th) from Govt. U. Ma. Vi. Antagarh in 1986"

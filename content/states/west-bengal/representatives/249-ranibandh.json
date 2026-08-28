@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Teacher (State Government Aided School)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/8bd8a8053c83104dd1b084da6735bfa63a4296db.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=306"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Vidyasagar University in 1994, Bachelor of Education from Burdwan University in 2000"

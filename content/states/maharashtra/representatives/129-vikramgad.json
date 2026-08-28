@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9e02bcbfdeff8dc2b9dd4f133b51e390ba6e7a17.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=800"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC From Pune Board Year 1986, D.ED From Pune Board in 1988"

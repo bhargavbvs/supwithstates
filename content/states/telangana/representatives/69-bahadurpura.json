@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Corporator",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/2ae386e250f7d3a66c987574beb9f5b5011435ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=1442"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC from Zilla Parishad High School Mominpet RR District, State Board of Secondary Education A.P. Hyderabad in 1986"

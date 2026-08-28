@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 62,
     "profession": "Political Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/d30d39fb95b6101d3694cdf7f371f09dea99e04f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=37"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Law (LL.M) from Gauhati University, Assam Year 2001"

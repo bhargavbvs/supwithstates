@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 69,
     "profession": "Agriculture , Business or Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/68e6150a095081914cc7f9e16f643dcae6862d4d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=286"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. Meerut University Meerut In Year 1976 Ch.Chhotu Ram P.G.College Muzaffarnagar 1976"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "MLA, Agriculture, Officer in Territorial Army",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/0f39903a3328eef1add17c1e89cceadbd03a9051.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=428"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA, From Wharton Business School ,Univeristy of Pennsylvania, USA 2001 , Diploma in Marketing Management from Institute of Management & Technology Ghaziabad UP in Year 1998"

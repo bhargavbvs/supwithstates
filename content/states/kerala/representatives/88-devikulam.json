@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/e84d1b3b44331990b3549a2481bed0eb9294b720.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=440"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC From Govt High School, Munnar In 1989-1990"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=440",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

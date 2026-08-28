@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Pension Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/5c71053c05b1e24ed82c25e897621c64d065ef8e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=481"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate From Atal Bihari Vajpayee University Bilaspur"

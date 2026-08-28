@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 69,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/17e0be4d1b627e36800c0c5d5d0324b774a15521.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4319"
+    },
     "education": {
       "level": "Others",
       "detail": "P.D. Science From JSM College Alibaug Raigad Pune University In The Year 1974-75"

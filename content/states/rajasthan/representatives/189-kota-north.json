@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 80,
     "profession": "Rent and Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/7b41ae7a5c1f2c91745714efad61c6c3690027e9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=482"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B Final 1966 Raj. University"

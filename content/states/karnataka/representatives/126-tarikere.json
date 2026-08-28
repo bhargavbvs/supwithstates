@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/ba69e6de3ee164545d2fc90e042ad8c03c728ee0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8354"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB, National Law College ,Kuvempu University Shivamoga in 1988"

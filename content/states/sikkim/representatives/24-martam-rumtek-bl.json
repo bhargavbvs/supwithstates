@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Politician, Social Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/1f4ef9e9aab6ce311e656173a1f404981900d2ee.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=61"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate Diploma in Management from IIM Bangalore in 2001"

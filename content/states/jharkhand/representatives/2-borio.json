@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 36,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/5d4b324c971970f387f67b2b8b900fb40589323d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=892"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric From R.K. High School, Jharkhand Adhividhya Parishad, Ranchi, Year-2006"

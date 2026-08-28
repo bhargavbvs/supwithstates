@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 44,
     "profession": "Business, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/78e77d183afd22d4664ecfb9bb2cd8b4ace8c011.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=613"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor Of Arts (Public Administration), University Vinayaka Missions Sikkim University, Gangtok, Sikkim, India Directorate Of Distance Education 2018"

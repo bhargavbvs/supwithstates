@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/51ec0a9a51227f12e238e8a57d90ac113fa59663.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=124"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com Pass from Alipurduar College under North Bengal University in 1985"

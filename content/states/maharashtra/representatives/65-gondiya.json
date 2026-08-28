@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Social Worker, Farmer, Member Maharashtra Legislative Assembaly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/576d73c8cbd9536974b1b60ffbba53011fd6eb2f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=527"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSSC from Maharashtra State Board of Secondary & Higher Secondary Education, Pune Division Nagpur- N.M.D. Gondia in 1987"

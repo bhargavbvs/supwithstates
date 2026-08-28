@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 32,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/462de5e073b7c389c48d6f1040dcd35e5531d77b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=273"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Passed from Bikrampur Radha Damodar High School in 2011"

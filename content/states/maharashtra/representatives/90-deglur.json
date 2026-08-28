@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 34,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4a6d2f68819ac7cc51db9092d2e12d1569e44928.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=211"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech From St. Mary Engineering College Hyderabad In The Year 2019"

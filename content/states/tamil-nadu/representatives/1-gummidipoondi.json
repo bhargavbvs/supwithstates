@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b993452020fc2224397b4a65b4b6ba51615a8c18.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=265"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.L., Sri Venkateswara College of Law , Tripati , 2012 . B.sc Presidency College , Chennai, 1991 , Hsc - DRBCCC Hindu Hr,Sec,School ,Tiruvallur"

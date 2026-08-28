@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Agriculture, Private Job, Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/fcc0d7c26a58018fb74f518b72170afca0faddd4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=344"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter Mediate Lal Bahadur Shastri Higher Secondary School, Bhopal, M.P.S.M. , Bhopal-1990"

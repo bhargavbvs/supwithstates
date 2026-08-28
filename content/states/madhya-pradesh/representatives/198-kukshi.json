@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Agriculture & Business, Former MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/0b824a8fb3c29f1dd470ec55ac4b1d6c85f0f468.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=324"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com Baraktulla University Bhopal MP"

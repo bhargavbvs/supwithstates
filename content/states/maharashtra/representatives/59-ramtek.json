@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Social worker, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/fa4bb99c9a2f280ea1956a6193e23fdb598f1b8f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=668"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor Of Law (1993) University College Of Law Nagpur, 12th HSC (1988) CP And Berar College Nagpur, 10th SSC (1986) Shriram School Ramtek"

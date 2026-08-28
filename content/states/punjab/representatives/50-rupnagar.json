@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Dinesh_Chadha_MLA_Rupnagar.jpg",
+      "credit": "Dinesh Chadha",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70292498"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "LLB (3rd year) from Punjabi University, Patiala in 2006-2009"

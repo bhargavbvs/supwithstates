@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/ce781f883abd181bce8747272ec7b32be65fd8ae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=2293"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Surgery (General Surgeon) of Omania Univercity September 1997"

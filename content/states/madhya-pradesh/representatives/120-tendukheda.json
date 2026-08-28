@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 72,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/be0aecf6715dea223c82840a7c91bc9262f7dac0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=444"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Mahatma Gandhi Vidhyalaya Kareli, Sagar University Sagar in 1972-73"

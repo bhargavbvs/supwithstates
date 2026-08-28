@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Agriculture & Real Estate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/4b2a69a58ed30b052e6507a02bb39308f7ddfe45.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5123"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass From Shree Vallabhbhai Patel, Sant Kabir Road, Beri Para, Rajkot, in Year 1981"

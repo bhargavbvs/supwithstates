@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "M.P. Rajay Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/96aea32946bdb911ce9272723994e6471cb5b426.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=246"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Class Boiler Attendants Certificate of Competency in 1987 (Rajasthan), 10th from HBSE Bhiwani in 1985 from Govt. High School, Madlauda, Dist. Panipat"

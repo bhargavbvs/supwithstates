@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 73,
     "profession": "Political & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/701cd679a503d722cf9a85e4ecc80a29d9cd20be.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=812"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre Degree Passed from University of Calicut, MES Kalladi College, Mannarkkad in 1970"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=812",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

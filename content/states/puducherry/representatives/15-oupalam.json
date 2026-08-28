@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "No Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/531b54f71ce69bb72daf33425419c835c16b7419.png",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=118"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC From Jeevanandham Government Boys Higher Secondary School, Puducherry-1973"

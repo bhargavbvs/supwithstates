@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 51,
     "profession": "Social Worker & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/02432eb5afe340db9149301902a8bd894842dec7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=727"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate (Hons) 1995 Bhim Rao Ambedkar University Muzaffarpur"

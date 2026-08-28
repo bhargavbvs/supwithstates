@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Partnership in Hospital, Meesha Pension, MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/4f0838fd2d8ec86b78b6b871422da47e3a614e2c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1475"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.V Sc & A.H. from Jawaharlal Nehru Agriculture University in 1997"

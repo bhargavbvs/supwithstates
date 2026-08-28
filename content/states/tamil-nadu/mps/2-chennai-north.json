@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Public Life & Doctor Plastic Surgeon",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b44927a5d994467bac5d2b9818ef09ba0762cd3d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1081"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S. (General Surgery) From Sri Ramachandra Medical College, Tamil Nadu Dr.MGR Medical University, Year-1999 & M.Ch. (Plastic Surgery) From Stanley Medical College, Tamil Nadu Dr. MGR Medical University, Year-2001"

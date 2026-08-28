@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/45051fa3d6459ac0ec5a4aa21351e8c05737b6bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=240"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA in History in the year of 2010 under Rabindra Bharati University Kolkata"

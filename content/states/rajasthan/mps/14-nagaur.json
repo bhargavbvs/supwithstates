@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Agriculture, MLA Salary & Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/ca1b0349debfbe4475af296ada60d15d1b815d88.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=454"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A, L.L.B. , Rajasthan University , Jaipur 1998"

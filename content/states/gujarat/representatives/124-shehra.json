@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 72,
     "profession": "Farming, Animal Husbandry",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/4ec6f4971016f31df6ec8676ea6c35b6d3a1444b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6127"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B A Pass From Gujarat University Year May 2005, HSC Pass From Shrimati S J Dave Sarvajanik Highschool Shehera Year March 2002"

@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Lawyer and agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f5d2660975854920621d5580be3071732e5e389e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3421"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB (special), JSS sakri law vidyalaya, karnataka university hubbali 1980., B.com, jagadguru gangadhar college of commerce, karnataka university, hubbali 1977"

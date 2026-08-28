@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/0fa1aa62029644b5dd70b389116677946bcda45a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=145"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC 1974"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=145",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

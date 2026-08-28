@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 64,
     "profession": "Agriculture and Director of a company (unpaid)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/76613394c6f7a0de81a2fec83d2c854403e434c9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1282"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Standard-SSLC-Government Higher Secondary School, Ulundurpet-1976"

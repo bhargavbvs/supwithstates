@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Agriculture, Real Estate, Hotel, Ranjith Wines, Liquor Store",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/97f9b212cc3ffc5ec67f919d7ae3cbcaffc465d6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=195"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "8 - th Std. (Discontinued) Petit Seminaire School, pondicherry."

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/3fe8026f541ddc754fdce0fbc4e493457a56ed61.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=128"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Correspondence), from Kurukshetra University, Kurukshetra in 1982"

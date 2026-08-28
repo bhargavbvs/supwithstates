@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Politician, Business owner",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/RS_Bali_File_Photo.png",
+      "credit": "Ojasssvi",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=72977936"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BHM (Bachelors Degree in Hotel Management) from M.S. Ramaiah College of Hotel Management, Bengaluru Completed in 2002"

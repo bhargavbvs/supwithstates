@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 48,
     "profession": "Business, Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/e1bcaf96384eb62755728a4a4730cc12b3f2e52a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=337"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass from Katju Higher Secondary Dalauda MP Board in 1993"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Labour Contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/f775103620a2ae6c0a9bfd4fb95f2a5af1183dd1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=150"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation from National Institute of Open Schooling (NIOS), April- 2015"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 69,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/0c740a06773236113dba2581db90097f02b3410b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=254"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary Education (1974), Gangarampur High School, Dakshin Dinajpur."

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Fish Farmer & Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/51ffa4ccceee179a5fd6230e807e9bcc594ad881.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=373"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (English) in the year 2012 from CMJ University, Meghalaya"

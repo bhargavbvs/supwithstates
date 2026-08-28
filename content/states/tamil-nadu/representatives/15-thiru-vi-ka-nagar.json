@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 36,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/badb86b51e9055f9fd26c5f885e937f0961c7d77.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=859"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Discontinue- B.A. Economics Bharathi Womens College (A), Chennai Year 2010"

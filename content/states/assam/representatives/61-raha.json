@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Politician (Member of The Legislative Assembly Assam, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/f3fad11d3b8234b2b5ade11124ac6bdfb4147c50.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=76"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSSLC Passed from Morigaon College, Morigaon (Assam) Board of University Assam Higher Secondary Education Council, Guwahati, Assam in 1993 and B.A (Part-I) from Raha College, Raha, Dt. Nagaon, Gauhati University, Guwahati, Assam in 1995"

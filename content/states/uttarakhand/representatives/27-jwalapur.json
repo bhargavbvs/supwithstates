@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 38,
     "profession": "NA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/4a80441fde5b17c61fb862d6131ceb5894ce8d15.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=621"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.tech from Gurukul Kangdi University Haridwar"

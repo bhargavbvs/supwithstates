@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Member of Legislative Assembly, Barahagora, Jharkhand",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/7f221f41b2d09b0feccee2aca1ab534c63e97c9f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=183"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Ghatsila College, Ghatsila under Ranchi University in 1989"

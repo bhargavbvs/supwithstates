@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Public Service and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b8acd2a8726edba777dce6785af9c449827ecf22.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=728"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSC from SBK Boys Higher Secondary School, Aruppukottai in March 1991"

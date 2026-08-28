@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 34,
     "profession": "Dealer in two wheelers (Authorized dealer of Hero Motocorp Ltd.)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/feacd3be174fac60959a6c4c2edeaa60abdba597.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=181"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th from Sawaranprastha Public School, Passed in Year 2009"

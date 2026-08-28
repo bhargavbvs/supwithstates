@@ -27,7 +27,12 @@
     "term_start": "2024-06",
     "age_at_election": 40,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/df5be82bf596fca874f83303d9f6bb71b6b9c816.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7901"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Studies (M.St.) from St. Catherines College, University of Oxford, UK in 2009, 2007-Barrister-at-Law Honorable Inns of Inner Temple, London U.K."

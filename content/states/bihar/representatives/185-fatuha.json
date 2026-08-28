@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 69,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/d14b945da17007c92b976486f449f9a69a77ecca.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=184"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "PH.D (Chemistry) From Magadh University Bodh Gaya Year 1991"

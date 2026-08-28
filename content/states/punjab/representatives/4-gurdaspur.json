@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 41,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BarindermeetSingh_Pahra.jpg",
+      "credit": "Wikifarmers",
+      "license": "CC0",
+      "source_url": "https://en.wikipedia.org/?curid=68019629"
+    },
     "education": {
       "level": "Others",
       "detail": "Regular Diploma in Computer Engg. from SBCMS-Polytechnic, Attalgarh, Mukerian, Hoshiarpur in 2000"

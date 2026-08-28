@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 62,
     "profession": "Member of Legislative Assembly of Assam",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/2b358f3754a0f3b821fb8d9180b3fbb14655f964.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=65"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "HSLC From Mikirbheta High School in Year 1983"

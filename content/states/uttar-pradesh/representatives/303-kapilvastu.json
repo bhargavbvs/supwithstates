@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 69,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/3f06b4c251d090e1fb4de0ff98a249a511f0e34a.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3924"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Budh Vidhyapith College, Naugarh, Siddharthnagar, Year-1976"

@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 51,
     "profession": "BUSINESS",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/5184fce0e2c4fc033a9acb01d98befafdc28b0e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=196"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA from PSG College of Technology, Coimbatore In 1994"

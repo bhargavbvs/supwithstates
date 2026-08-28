@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Politician and Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/c1b95a4b390c36f2411aab7964e7fbcf844bb704.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=56"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate in Political Science from North Eastern Hills University (NEHU) Shillong Meghalaya In 1996"

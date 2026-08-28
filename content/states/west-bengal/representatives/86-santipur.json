@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 62,
     "profession": "Retired",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/fbe0635f5107498c0d724cb95e2cd3d97970ccfe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2373"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. in Physical Education from Kalyani Unviersity in 1987, Bachelor of Commerce from Santipur College in 1984"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Social Worker-Member Of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/7777466fdfd085f9446b8e0ef14bafc9f82d2d5c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=187"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed Arts From National College,Maharastra Board in 1986-87"

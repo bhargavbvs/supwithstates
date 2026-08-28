@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/4f9daeccbf2526bb60e15434757a75fa68a0b810.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=334"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate +3 (Arts) from Maharshi College of Natural Law, BBSR, Under Utkal University BBSR in 1997"

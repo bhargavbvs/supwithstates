@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Agriculture and Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/5977952faf5f94c7d81400977eb791b141676578.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=435"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA in 1994, LLB in 2000 From SSP College Jabalpur University"

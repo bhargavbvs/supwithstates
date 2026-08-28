@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Profession & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/41898135b7cc381f816b567e80ee25237192eaac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=836"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA from Ravenshaw College, Utkal University 1982"

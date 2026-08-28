@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Cultivator, Salary and Allowances of Assembly Member",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/d14de90a8b382629c6f640ff98c0dc768af59764.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=48"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary Pass from Rajasthan State Open School Rajasthan in 2018"

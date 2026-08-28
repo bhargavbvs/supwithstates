@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Farmer and Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9dfccf35bd60f48f735bcecbb8ef71ea42f0fcbf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3320"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy from Nagpur University Nagpur Year 2010"

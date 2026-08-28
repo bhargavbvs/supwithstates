@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 38,
     "profession": "Agriculture & Property Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/a2dbe6269d11eb85dff22ea338c4bf96f8bd9b34.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3304"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School from MPL Girls College, Madhyamik Shiksha Parishad, UP in 2004"

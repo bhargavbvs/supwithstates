@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 48,
     "profession": "Doctor (Dentist), Social Services",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/6ec5cc72d66cd7169409aead0393ae9daf0655e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=124"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Dental Surgery (BDS) from Magadh University, Bodh Gaya Bihar in 1998"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Medical Profession And Maruti Suzuki Company Spare Part Distributor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/64720aaf53c1374c321d02d8a1f1ceabeb1dcf75.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=196"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S. Ortho From Sancheti Hospital Pune, Pune University In The Year 2000"

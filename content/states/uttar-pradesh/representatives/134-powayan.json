@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Agriculture, MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/8b2c46b8d5f02408c69d1366e21cb154e668d9de.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=951"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A., LLB from Shiya Degree College, Lucknow (Lucknow University) in 1981"

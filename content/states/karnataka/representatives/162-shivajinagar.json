@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/2359f5a82d05401f96d5d958c591819f17d2432e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=8298"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from University of Musuru- St. Philomenas College, Mysuru in 2000-2001"

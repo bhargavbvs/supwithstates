@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 54,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/50d57457f2cc70c7da05431b050bd5d28febbb31.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=142"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Garhwal University, Srinagar, Garhwal in 1989-90"

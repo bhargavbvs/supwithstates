@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/93bf9e76f3353f6547babcc510657b138d2862ed.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6810"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. Physics Passed in 2008 From North Eastern Hill University NEHU Shillong"

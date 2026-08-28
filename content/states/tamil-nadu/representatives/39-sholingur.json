@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 32,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/0da50adc5f96ea8e20ad2b72ed5738b7b50f41a3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=492"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS Sri Lakshmi Narayana Medical College, Puducherry 2017"

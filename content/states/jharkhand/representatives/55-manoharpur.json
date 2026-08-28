@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 37,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/065e400798c4120f638827d2b138e3914a41f7ed.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=144"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. Symbiosis College of arts & Commerce 2008"

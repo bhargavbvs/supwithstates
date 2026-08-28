@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Retired, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ac44a1edfb4eb1acf55a14af4fa9be4b1923568a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=761"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Civil Engineer Professional Examination, Engineering Officer College, Nashik December 1992."

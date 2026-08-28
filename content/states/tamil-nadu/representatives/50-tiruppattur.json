@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 63,
     "profession": "Business, Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d5c34e30c53032ae356d8329de3d8c61ea2bd6cf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1074"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BVSc (1984-1989) Madras Veterinary College, Vepery, 12th (1983-1984) Government Boys Higher Sec. School, Madavalam, 10th (1981-1982) Government Boys Higher Sec. School, Madavalam"

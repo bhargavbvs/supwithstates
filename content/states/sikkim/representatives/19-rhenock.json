@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/a5cf36e39318fdd0c2bc8564d1a4cde2380abf31.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=88"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from Darjeeling Govt. College in 1988 North Bengal University"

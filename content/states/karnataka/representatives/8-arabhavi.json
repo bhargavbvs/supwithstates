@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/7485c01196cf9df614cf4550c51ff6fb9bb4f825.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7778"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "PUC 1st From J S S Arts, Science and Commerce College, Gokak, Year-1983"

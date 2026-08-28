@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 70,
     "profession": "Retired from St. Marys College, Thrissur Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/a144c14bf8f2750a5d4ca9c0b51c35b4103f5b27.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=166"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Msc.Chemistry From Calicut University In 1979"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=166",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

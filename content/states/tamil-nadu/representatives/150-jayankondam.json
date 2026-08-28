@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Politician, Agriculturalist and Business Activities",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/57b46c5eaa17c0cf4e7b4ed9b048f87a97942cc8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=765"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Sc., Govt Arts College, Ariyalur, 1994-95 ( Discontinued due to personal reasons.), +2, Govt Higher Secondary School, Vilandai - Andimadam, Ariyalur District"

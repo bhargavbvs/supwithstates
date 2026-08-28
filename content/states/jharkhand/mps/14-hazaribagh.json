@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 59,
     "profession": "Business Director in Companies Partner in LLP, Firm & Sitting MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/73efde0e697bc523280ec6d0c8b8ad7af72b5cb7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7144"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA (History Hons.) from St. Columbas College Hazaribagh Ranchi University in 1990"

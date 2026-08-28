@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 40,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/f34084ed7b1635d3cd68e99a0ef955f42d2bbd40.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=547"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Class Passed from CBSE Delhi in 2001"

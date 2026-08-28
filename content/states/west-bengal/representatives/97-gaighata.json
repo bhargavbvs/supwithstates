@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Social Work, Religious Activities",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/9e2e9ef95c263e598c7d47e5f401060aa9293d8f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1916"
+    },
     "education": {
       "level": "Others",
       "detail": "Advance Diploma (Hospitality Management) from Sydney, Australia. Austech Institute For Further Education. 2005 to2007"

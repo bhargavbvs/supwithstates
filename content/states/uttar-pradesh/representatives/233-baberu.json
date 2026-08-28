@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 67,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/bfc76d06503ff691f880599bdbe73b505b2043fe.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2589"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLB in 1986 from Dayanand Law University Kanpur, M.A. in 1982, B.A. in 1979 from DAV College Kanpur Kanpur University"

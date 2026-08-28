@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 51,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/e6cab37b2c597e8cebf9e0d017a7bb9c99d0e423.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=812"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Business , Remuneration",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/8307ce2e0c8bd9e72b6eba5f5fbb649e632b1a32.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3285"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from Shobhit University Shobhit Institute of Engineering & Technology Meerut India Year 2014"

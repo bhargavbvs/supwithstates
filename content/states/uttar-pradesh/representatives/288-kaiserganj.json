@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 54,
     "profession": "Advocate And Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/d1d45b3550f920a203fc33932cb75f5e72cec853.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3338"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB-1990, Lucknow University"

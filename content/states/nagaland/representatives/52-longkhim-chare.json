@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Social Worker/Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/d743adf2653d82c53c514a92fb5814d0958e2222.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6843"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Hons) History from Hindu College University of Delhi in 2000"

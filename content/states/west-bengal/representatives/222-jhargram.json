@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/ea1d3d46a80030daf06830cf40dc05f90ba87ce2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1507"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. (Zoolory) from Utkal University In 1999"

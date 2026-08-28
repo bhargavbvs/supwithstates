@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 48,
     "profession": "Public Life, Politicial Activity",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/85206b45dd0068896e73a0f51a01d2e177d6a27e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=53"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Political Science) from Swami Vivekanand Subharti University Meerut in 2018, PGDM From Makhahanlal Chaturvedi National University of Journalism and Communication Bhopal Year 2006"

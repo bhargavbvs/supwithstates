@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Family Cloth Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Group_of_Fakeers_in_Jumalpore%2C_Ahmedabad_%28c._1880%29.jpg",
+      "credit": "Charles Lickfold",
+      "license": "Public domain",
+      "source_url": "https://en.wikipedia.org/?curid=43526450"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th From S.S.C. From Shri N.D. Shukla Navjivan High School In Year-1983"

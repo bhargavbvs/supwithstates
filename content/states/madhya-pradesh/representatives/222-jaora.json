@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/9c1c16dfff342355b062b760dcad2eeb7f225da2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=728"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com from Vikram University Ujjain In 1985, D.H.B. from State Homeopathic Parishad Bhopal In 1983"

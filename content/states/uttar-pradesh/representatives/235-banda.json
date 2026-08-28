@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/350f14b72869373bfd75f92e166f266f202a6f32.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2257"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation (B.A) From Atria University Post Graduate College- Bundelkhand University, Jhansi Uttar Pradesh"

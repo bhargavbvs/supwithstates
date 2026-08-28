@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/dbac67db1f1c91497a61d1599dba5974b62e5c13.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=523"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class 8th Pass From West Point School Darjeeling In 1998"

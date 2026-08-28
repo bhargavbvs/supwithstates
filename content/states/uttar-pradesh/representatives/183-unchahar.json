@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Business, MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/bb9b0969eec9690b150cfbcadc82a2ed6c161e9e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2369"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Firoz Ganghi College, Rae Bareli, Kanpur University in 1992"

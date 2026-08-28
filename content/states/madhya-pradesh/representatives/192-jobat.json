@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Agriculture, Animal Husbandry, School Director",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/63af0f7684476adc493463975c6879b20bfd3957.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=310"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA M.P Bhoj Open University Bhopal Year 2014"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Business & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/2b5a4b1fa003ba8d6a8497bdebcfb87db55a4ed2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=552"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary From Rabindra Mukta School In 2005"

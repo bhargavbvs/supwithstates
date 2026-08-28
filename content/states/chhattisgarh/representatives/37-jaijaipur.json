@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 35,
     "profession": "Agriculture and Business related to agricultural products",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/6d97779a8bcffb7335e74f855ac80487211145b6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=274"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. from Dr. D. V. Raman University Bilaspur (C.G.) in 2016"

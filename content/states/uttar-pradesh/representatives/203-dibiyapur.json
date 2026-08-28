@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/5fe514dee62c7a8067edeea56b1871700dc5ee6a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1604"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Lucknow University Lucknow in 1979, B.A. from K.K. Degree College Etawah in 1975"

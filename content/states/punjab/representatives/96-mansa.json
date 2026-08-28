@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Dental Surgeon",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Dr._Vijay_Singla.jpg",
+      "credit": "Princebhikhi",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=70298470"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachlor Of Dental Surgery From Punjabi University Patiala in 1992"

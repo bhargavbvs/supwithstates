@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "Assitant Teacher of a Primary School & Member of Parliament, Cooch Behar",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/01cd0be34e9e53645fe7787df1348c98ab70cfbc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=468"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Pariksha, West Bengal Board of Secondary Education (Bhetaguri Lal Bahadur Sastri Vidyapith, Bhetaguri, Dinhata, Cooch Behar)"

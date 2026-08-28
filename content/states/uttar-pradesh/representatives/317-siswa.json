@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "MLA & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/55503439542f964cd37ce018472315846fe58dc9.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4075"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Jawaharlal Nehru PG College Maharajganj Deen Dayal Upadhay University Gorakhpur"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 62,
     "profession": "Agriculture, carton manufacturing, dyeing, textiles, crushers and politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/e37c171c5f25b73815d723d4c355c3aeeb8af855.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=59"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th from Municipal Higher Secondary School, Karur, Trichy District 1983"

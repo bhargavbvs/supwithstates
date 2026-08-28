@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 32,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1b3c83a92fabf000382b9d7fb858bb6e664703cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=816"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Sri. Kumara Guruparar Higher Secondary School Aduthurai, B.E- Dropout From Government Engineering College, Kumbakonam in 2016"

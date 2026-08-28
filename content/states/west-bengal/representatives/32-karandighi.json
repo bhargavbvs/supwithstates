@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 32,
     "profession": "Legal Practitioner(Advocate)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/c17c636b35fda5f76ccd50a50ccebcbec2bddd6b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=416"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A. LL.B (General) (Bachelor of Arts & Law) from Jalpaiguri Law College under North Bengal University in 2019"

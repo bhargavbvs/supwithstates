@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Pension & Tution",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/3b10606bca5ad8a0b74641d6c9afe776d8db4e32.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=81"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Ch Charan Singh University Meerut in 2007"

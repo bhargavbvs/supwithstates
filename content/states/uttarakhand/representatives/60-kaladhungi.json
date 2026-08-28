@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 70,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/08fcb433c30a6841283d38c12ad029dc76003369.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=459"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Passed From Mahatma Gandhi Inter College Haldwani Dist Nainital in 1965"

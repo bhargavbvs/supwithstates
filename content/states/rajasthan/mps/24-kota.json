@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 62,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/78e98d22223294834b9214878a6d37d4f85b3dc2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2567"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com. from Rajasthan University Jaipur in 1987"

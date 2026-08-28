@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 65,
     "profession": "Business and Property Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/c5b99adda46ee3769be4ef389bee2b378a8f04de.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=989"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC Pass, Govt. Higher Secondary School, Walajapet-1977"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Agriculture & Petrol Pump",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/4a1cbddd4325f32523b0282620de48c4bbfae150.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=175"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from K. Singh.S. University Darbhanga in 1999"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Politician, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/1fff51f84ef392676b558c9abb6ad48a60b0712f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=53"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class 10th from Govt. Senior Secondary School, Mangan, North Sikkim in yr- 1982"

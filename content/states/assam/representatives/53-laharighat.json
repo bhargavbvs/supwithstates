@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 37,
     "profession": "Social Worker, Politican, Presently MLA, Assam and Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/b3f01b44dd4a3fa6b57c6f7549eb0d5363e563a0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=469"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduation- Doctor of Medicine (MD) in Radiology from Vydehi Institute of Medical Science and Research Center in 2018, MMBS -Bachelor of Medicine, Bachelor of Surgery from Al-Ameen Medical College in 2014, Rajiv Gandhi University of Health Science"

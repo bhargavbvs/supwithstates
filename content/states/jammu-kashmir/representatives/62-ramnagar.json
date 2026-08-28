@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Professor in Jammu University",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/13868392c3ba2d2a68face5c5247515d51f645b2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=682"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctorate in Business Management from Jammu University 2020"

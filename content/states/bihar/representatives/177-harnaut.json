@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 78,
     "profession": "Member, Bihar Legislative Assembly Patna",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/fa9b99eef3a05d7849a2eb74c504869b826dcae5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=59"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Gradaute from Nalanda Collage Biharsharif, Nalanda, Magadh University, Bodhgya In 1965"

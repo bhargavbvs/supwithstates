@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 38,
     "profession": "Law Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/16eabfe174fce8f5e4a7ccbded5b9e0949f3afe2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=901"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from CLC University of Delhi - 2008-2012"

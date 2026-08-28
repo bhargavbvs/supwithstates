@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 75,
     "profession": "Legal Advisor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/7f8c186c1a9f070ad5905de4949e37ba2eb62059.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1840"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Commerce from University of Calcutta in the year 1970 and Bachelor in Legislative Law from University of Calcutta in the year 1977"

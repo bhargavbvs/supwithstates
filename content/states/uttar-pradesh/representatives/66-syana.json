@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 60,
     "profession": "Lawyer & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/772237fdcc3ae0327b6bd1277f078096053f2fdb.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=293"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 1989 from MIEC College Khurja, Choudhry Charan Singh University Meerut U.P"

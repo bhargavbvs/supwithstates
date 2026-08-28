@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Ex-MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/c5d96d70be0f6eb2e511efcf7cb80a594f0b3e06.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=314"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Hindi Hons From Hindi Sahitya Samelan Allahabad in 1997-98"

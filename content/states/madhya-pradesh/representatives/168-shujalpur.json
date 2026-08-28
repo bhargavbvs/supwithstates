@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Agriculture , MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/6d8366b9d624c7c29bb8dbf036e31e69f3de4625.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=92"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B Madhav College Ujjain Vikam University Ujjain Year 1993"

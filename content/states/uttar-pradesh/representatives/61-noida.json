@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "PGDM",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/847d6e1db56f7b6bd24b23dc54b50eeaea6c74a9.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=56"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Post Graudate Diploma in Management (PGDM) in 1999-2001 from Amity Business School, Noida, B.Com from Dayal Singh College (Delhi University in 1999"

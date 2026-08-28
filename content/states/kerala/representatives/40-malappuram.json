@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 74,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/912c4dcce4ba31e6126cad6c9e693ff8cfbce365.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=165"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from Sir Syed College, Thaliparamba, University of Calicut in 1973."
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=165",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Construction Industry",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3ccf7b62b6a293cb84763a19ea11f42b5d0b8768.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=253"
+    },
     "education": {
       "level": "Others",
       "detail": "10th standard, 1998 - Velammal Matriculation Higher Secondary School, Mukappeer 2. ADCA Intelegence for generating advanced computer Education, 2001"

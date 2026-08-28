@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/35099032132cf97a76cb20e42ffdd898ae061ea0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2232"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Passed, the year of passing - 1998, from Srirampur United High School under West Bengal Board of Secondary Education"

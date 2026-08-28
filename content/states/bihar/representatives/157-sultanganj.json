@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 67,
     "profession": "Retired Associate Professor and Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/98c0be87681a821cb16316ca54e4b125b8c8f2dd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2205"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.SC Physics, From P.G Department Physics Bhagalpur University in the Year of 1979"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 66,
     "profession": "MLA & Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/4b498cdad2f5bc4dc6dda6644f2f4156ddb37258.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=360"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate APSM College Barauni Intermediate Council Patna 1980"

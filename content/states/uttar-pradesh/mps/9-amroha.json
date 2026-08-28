@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Real Estate, Rent, Bank Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/661ad812b85b5e7493c95834781ba99ecf872d08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1807"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Under Matric From Govt. Higher Secondary School Fatehpur Beri Delhi in 1973-74"

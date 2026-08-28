@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Agriculture Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/a4da5943c2ecc96e58c17355e3aeff2a27dffdbc.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3512"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School Passed From Nehru Samarak Inter College Gelola Shrawasti UP Board Allahabad In 1979"

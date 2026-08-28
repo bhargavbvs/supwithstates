@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Social Service and Politics (MPs salary)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6835ba4fd778e02566e81b751e4220ad06d5cfb2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3437"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass From Kisan High School Bynaha in 1970"

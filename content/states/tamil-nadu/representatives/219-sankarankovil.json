@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 29,
     "profession": "Doctor, Owner JD Enterprises",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/370627675fd61c28e9851bed2946ba6f19f444a0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=745"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor Of Medicine And Bachelor Of Surgery Completed In The Year Of January 2019, At SRM Institute Of Science And Technology , SRM Nagar , Kattankulathur Kancheepuram District"

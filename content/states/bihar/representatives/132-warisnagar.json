@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 36,
     "profession": "Engineer Scientist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/50539fcd8cbe34d433568d9a10665e4b6e2de8da.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=103"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D In Medical Engineering From University of Texas In 2021"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 67,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/6980c22b7464b9a9dab4eb8dc39fccd736f47413.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=99"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in 04.03.2005 from Madurai Kamaraj University, Madurai, Tamilnadu, S.S.C. in May 1973 from ZPHS, Hayathnagar, R.R. District."

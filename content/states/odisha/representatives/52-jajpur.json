@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/9d1007ed51903a206de46b08a5b93376827bc8f2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1061"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th from Seshadev Basanti High School, Bhubaneswarpur, Jaipur in 1983"

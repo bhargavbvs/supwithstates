@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 62,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/b9cb8e92b6c9dbd08738b7ef60378ae52840b5b4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=446"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Pass Govt Middle School Warisnagar Dist.Samaastipur"

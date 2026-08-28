@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Agriculture, MLA Salary and Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/23c9d03bde93b6db06b45041ed0fc8e705bf09c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4479"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Sakaldiha Degree College Year 1981"

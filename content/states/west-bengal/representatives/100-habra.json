@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Business / Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/207000338bab1b685e3d3ee2825516a69f80cffb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2788"
+    },
     "education": {
       "level": "Literate",
       "detail": "Class IVth Passed from Nandadulal Vidyapith, Bongaon, North 24 Parganas West Bengal in the year of 1977"

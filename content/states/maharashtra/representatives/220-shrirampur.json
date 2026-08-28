@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Agriculture & Business (Petrol Pump)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1ab5a8515b5dcc6804bed33d7171dc1594b7740d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=710"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A From Pune University (Savitribai Phule Pune University) Pune Year 2002, Ph.D. (Studying) From Bharati University Pune"

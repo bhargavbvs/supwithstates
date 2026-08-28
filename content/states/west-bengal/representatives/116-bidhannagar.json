@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Practicing Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/fdf29268a4cf9ab97558a12190a133ed2bbb1df7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2723"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Doctor of Medicine(MD) From University College of Medicine, Calcutta University In The Year 1998"

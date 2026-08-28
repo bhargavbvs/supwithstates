@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "Business (C & F Agent of Heidegger Cement india Ltd )",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/fb0eb4ba89da3578baa89340d462a4fbb74eb200.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=828"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com Bareilly College, Bareilly in 1984"

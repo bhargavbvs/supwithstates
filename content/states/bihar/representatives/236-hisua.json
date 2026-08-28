@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 54,
     "profession": "Social Service & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/0a8a1fda2e90d624384dcf0415f583f5c94043e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2011"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Hons. From Sri Krishna Memorial College, Nawada, Magadh University, Bodh Gaya in 1989"

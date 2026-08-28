@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/be1c6c10ec09a022cf8ae4733ab79cbbef23f931.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3955"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Deen Dayal Upadhyay Gorakhpur University in 2010"

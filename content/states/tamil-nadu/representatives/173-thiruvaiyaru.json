@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/65e6ccc27d5850409b80ce38c0ecfd184fd20708.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=170"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB Bangalore University 1988 Tamilnadu Bar Council Enrolment No 65/1990"

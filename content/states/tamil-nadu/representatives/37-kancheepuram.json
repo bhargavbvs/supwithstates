@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 50,
     "profession": "Agriculture, Petrol Pump, Chicken Farming, Real Estate Commission Agent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/7b0e6d734606e391cb49136b01ff674a884fca75.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=398"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Tamilnadu Open University 2015"

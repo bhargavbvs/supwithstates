@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/fa7f64533c18e9c8d6d411cc10d8239c6cc5a88f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=382"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Higher Secondary School , Exam Year 1983, Madhyamik Siksha Mandal M.P. Bhopal"

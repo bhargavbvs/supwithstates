@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/a87feb6d412f352eba12064155bc7ad6ce9b5e96.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=146"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Jaipur National University, Jaipur, Year-2021"

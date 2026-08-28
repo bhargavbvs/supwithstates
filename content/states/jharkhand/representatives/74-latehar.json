@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Transport & Coal Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/c3a6f2911a35eca54bd6cc7da667e677f9e7095b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=283"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA from Swami Vivekanand Subharti University, Meerut Year 2017-2019"

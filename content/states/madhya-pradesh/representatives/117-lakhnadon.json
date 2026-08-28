@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Agriculture, Slaray & Allowance as a MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/8b801a726e5d7a48fb0bf3604443f77b562bf000.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=3"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in Sociology from Barkat Ullah University Bhopal, In Aprel - May 1995"

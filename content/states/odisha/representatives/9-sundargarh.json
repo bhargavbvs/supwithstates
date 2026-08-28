@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/44064506e5885d1ad22ddd03a877c969ee108531.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=302"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A (+3 Years Degree) Pass in the year- 1998 S.R.D.M.N.P. College Sargipali under Sambalpur University, Burla, Sambalpur"

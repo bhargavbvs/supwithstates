@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/f5963161077f7a85d7b8b10eafd3dc02e82f89b5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7280"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Gulbarga University, Chandrashekhar Education Society Degree College of Arts, Science & BBM, Yadgiri Karnataka in 2005"

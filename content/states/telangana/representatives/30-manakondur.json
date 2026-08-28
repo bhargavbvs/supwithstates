@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "DOCTOR",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/3eae592685eddbc02e102ac7c5a33cef9e7b05b3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=187"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS, MS General Surgery passed out in the year 1998 from kakatiya Medical College, university of Health Sciences."

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 77,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/efd6a861d8751a252c2d0bcc73a7ae85fdb3cd5a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1198"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.L- Chennai Law college- 1975, B.Sc Mannar College, Sivagangai-1972"

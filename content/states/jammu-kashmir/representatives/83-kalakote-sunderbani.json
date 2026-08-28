@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/c0b48c8d75af4f2212a7d8f7e143ec43acd49c3c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=308"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculate from Jammu Kashmir State Board of School Education"

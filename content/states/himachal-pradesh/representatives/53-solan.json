@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 82,
     "profession": "Retd.Army Personnel & Present MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dhaniram_shandil.jpg",
+      "credit": "Garconlevis",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=5064641"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D (Political Sci.) From HPU Shimla 1996 ,M.Phil., M.A. from HPU Shimla"

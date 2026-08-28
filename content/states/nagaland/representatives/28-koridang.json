@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 35,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/7be3cebc698334a7761a91b10e41af8db332e122.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6956"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Political Science from Amity University, Noida in 2012"

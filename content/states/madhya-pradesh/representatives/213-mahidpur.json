@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/cef05f49957f3dbfb79b87ae0db74b834c89e51f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=745"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MSc Tech School of Studies in Geology Ujjain Vikram University Year 1987, MSc School of Studies in Geology Ujjain Vikram University Year 1986, B.Sc. Madhav Science College Ujjain , Vikram University Year 1984,"

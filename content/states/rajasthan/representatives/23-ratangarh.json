@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Agriculture and Crasher Udhyog",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/8b9279b6f68ee789c19c25baf30ef935bd1ad326.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=360"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Com. 1981 Rajasthan Unversity Jaipur, L.L.B. 1985 Rajasthan Uni. Jaipur"

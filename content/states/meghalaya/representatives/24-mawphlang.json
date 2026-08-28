@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Retired Government Employee (MeECL)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/b7bd76fab5e441cdf077619ae79e0411229ba6cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6915"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering (Electrical) from Dibrugarh University in 1988, First Class 10th Position"

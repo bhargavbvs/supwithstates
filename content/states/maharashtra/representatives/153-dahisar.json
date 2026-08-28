@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Self Employed, Proprietor of M/s MAC International",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f0b3190a6c595927845fdb352053d896338a6fa5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=474"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc From Vasai College Mumbai University In The Year 1982, HSC From Gokhale Education Society Bordi In The Year 1979, SSC From SPH High School In The Year 1977"

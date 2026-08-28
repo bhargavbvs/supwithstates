@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 72,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/78f127eed22dee5d9afaad3a56ac5dc96f9c9a26.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1300"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Fail from New English School Murbad in Year 1972"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/44ed23c83773828bceccd608379daddc753a0318.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=678"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from Forestry in the year 2006 from Dr. Yashwant Singh Parmar, University of Horticultural & Forestry, Nauni Solan, Himachal Pradesh"

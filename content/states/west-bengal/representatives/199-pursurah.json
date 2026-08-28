@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Politician and Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/156462cb765fd65ba3195fe14b790f289b459a11.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2418"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Passed Bachelor Of Science from The University Of Burdwan in the year 2006."

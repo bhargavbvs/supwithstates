@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/00a83b0eca3d58901d0c3b901b2ea6b766dde829.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=49"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc (Maths) Course From Thomas College Thrissur, Calicut University In 1995-1998"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=49",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

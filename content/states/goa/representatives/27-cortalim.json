@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Trader in Fresh Fish & Bus Operator",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/0cbb55e38564b4a1a2d5881436f0746f3c50408b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=71"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Passed Goa Borad,From Our Lady of Perpetual Succor High School Cortalim Goa,Year 1986"

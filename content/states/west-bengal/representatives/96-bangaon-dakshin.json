@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/7c97f5b222e864c762db18051741d2d69b6bb709.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2612"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary (West Bengal Council of Rabindra open Schooling) in 2023"

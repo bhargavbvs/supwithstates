@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Social Worker and Trading",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/0afccd63f33a61e4d94d5041b7b7ca7076b8638a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2873"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation (Second Division) from Mahatma gandhi Kashi Vidhyapeeth, Varanshi Year 2000"

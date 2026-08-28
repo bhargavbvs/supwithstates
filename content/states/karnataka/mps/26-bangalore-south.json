@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 33,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3141fcc4f3b8e00b94d67dd9e01de634d059c284.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2629"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BA, LLB., Bangalore Institute of Legal Studies (Affiliated to Bangalore University) Bengaluru 2013"

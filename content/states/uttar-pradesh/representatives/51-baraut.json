@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 61,
     "profession": "Business, Agriculture, Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/ed013819958a50767282a05e6cf2536d4d7c1622.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School, Muslim Inter College Asara UP Board in 1976"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 64,
     "profession": "Agriculture,Indian Oil Corporation Ltd,Retail Sales",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/84e01b97c5ba5f567ec9b71a97d6e10e1b3107d5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=909"
+    },
     "education": {
       "level": "Graduate",
       "detail": "(B.A., Economics),American College Madurai,Madurai Kamarajar University,Madurai-1983"

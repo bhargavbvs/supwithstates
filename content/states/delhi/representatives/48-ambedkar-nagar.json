@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Self Employed, Political Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/dcb00549e067670ed969c68aa794bd6dcee64b09.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=77"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. from Amity Univesity UP in 2024"

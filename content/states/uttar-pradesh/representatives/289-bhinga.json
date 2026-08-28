@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/dbb94fd645a6ae5f8d05a35e7d3d8728ebfc4582.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3499"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From Tapsi Inter College Semrahna UP Board In 1986"

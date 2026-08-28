@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Agriculture MLA Pension & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/44328428d37470674612263ad8e81f73524dce9b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=162"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in 1995 & B.A. in 1996 From Ch. Charan Singh University, Meerut"

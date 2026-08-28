@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/4c127c381a47c397678e562b65020c0df0c4271c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5254"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc Agriculture, Marathwada Agricultural University Parbhani, Maharashtra- 1982"

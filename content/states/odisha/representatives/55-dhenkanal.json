@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Social Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/73a0396768f2fa78e3d9e2a0ba4f467af576ef92.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=676"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. Utkal University, 1988, LLB, Utkal University, 1992"

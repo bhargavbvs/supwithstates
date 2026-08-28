@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "Consultant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/340cf277d06d113e7c6355febedae9bf82b69282.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9465"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA From I.M.D. Lausanne, Switzerland, Year-1996 & B.Tech. From IIT, Indina Institute of Technology, Delhi, Year-1986"

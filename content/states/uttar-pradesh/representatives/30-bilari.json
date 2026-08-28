@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 41,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/3c23b708fe573bf877c1da205b3552179798c75e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=844"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from K.G.K. College Muradabad Sambandh Mahatma Jyotibaphule Ruhelkhand University Bareilly in 2005"

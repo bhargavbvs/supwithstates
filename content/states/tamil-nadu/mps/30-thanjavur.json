@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 46,
     "profession": "Business, Agriculture and Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6c4e0cdaa90a971fcb19558aeffcf700a8ff76df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1451"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B- Dr,Ram Manohar Lohia College of Law, Bangalore, Bangalore university, 2008, B.sc.Rajas Serfoji Govt. Arts and Science college, 2001, 12th std, Rajahs Higher Secondary School, Thanjavur, 1997 and 10th std , private, 1194"

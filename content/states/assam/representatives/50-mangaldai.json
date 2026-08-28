@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/9f26f1cb0615d00a2a82493c85af8ab3df200266.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=447"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from K.K. Handique State open university 2013"

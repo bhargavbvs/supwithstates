@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Agriculture/MLA salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/40819d321ec2074ad6ea7c543d793f345216dd0e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=74"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Graduate) from Dr. Harisingh Gaur University Sagar"

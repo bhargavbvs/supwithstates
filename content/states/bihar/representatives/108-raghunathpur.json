@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 31,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/725f1dddedacc1b9a7a124b732dbf91fb681a6b2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=425"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation under CBSE From The School-Col Satsangis Kiran Mem Sch Kiran Kunj New Delhi in 2010"

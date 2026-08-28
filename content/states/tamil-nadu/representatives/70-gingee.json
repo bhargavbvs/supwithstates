@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Business and Trustee of Educational Institution",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/0895f0338f650d267959dfdbf5de85a179eb04d3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1161"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy (Ph.D) From Anna University 2023 & Master of Engineering (Mechanical Engineering) From Anna University 2015, Bachelor of Engineering (Mechinal Engineering) Anna University 2005"

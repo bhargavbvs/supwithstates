@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Social Service & Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Tripura2023/72cf93c6572c112c09c2837303f85b1dfae0a57e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6877"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Mech.) in the year 1989 from the Calcutta University, LLB Degree in the year 1992 from the Tripura University"

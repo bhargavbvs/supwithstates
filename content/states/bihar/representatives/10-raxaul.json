@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 65,
     "profession": "Agriculture, Social Work & Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/9f38da5eaafe36b44646db2cbf7ff26496d0fe7a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2728"
+    },
     "education": {
       "level": "Literate",
       "detail": "Literate"

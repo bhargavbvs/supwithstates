@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Social Worker , BUSINESS",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/b6989b4c51b1d23568271dbbfc67bef5eea1ee65.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=466"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor in Law , Dhenkanal Law College ,Dhenkanal in 2011, B.A 2007"

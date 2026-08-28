@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Sub Contractor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/f63e344d68966e6eae06ee326a279944310f69af.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1069"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "8th Std Discontued GHS North Vijayanarayanam -1981"

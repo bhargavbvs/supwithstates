@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/ee9ae7ec787ee3023e86c604ec87d673b91fe536.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1796"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th pass from Swami Krishna Nand Inter College, Jalali Aligarh in 1981-1982"

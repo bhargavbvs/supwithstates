@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 50,
     "profession": "Doctor Consultation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/2495248958e613b54d7a3da1b5408c718ceae3f9.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=826"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MS (Orthopedic) in DD Upadhyay Gorakhpur University in April 2001"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 59,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/0482672beef7792ce259136b7de95b0f533a87f2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2047"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter Science from S.M. College, Aurangabad in 1985"

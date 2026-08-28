@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Politician/Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/092ce97ba86a283f44c6bbbb9e48b76dd85c7311.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=68"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from Indira Gandhi Govt. College, Tezu Lohit District, Arunachal Pradesh in 1991"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 42,
     "profession": "Advocate, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7868fd142c1ccd7313fdecad79df58d4a2b007f4.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=997"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Law Graduate from Krishna College of Law Bijnor, M.J.P. Ruhelkhand University in 2006"

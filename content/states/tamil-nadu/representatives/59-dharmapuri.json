@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "BA, MA, Ph.D, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/0445ca5e3cd5d3f26107e9cbc14162c39d00bc23.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1157"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. Madurai Kamarajar University 2019, M.A. Universities of Madras 1990-1992"

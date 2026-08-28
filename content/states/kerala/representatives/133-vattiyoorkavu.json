@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 69,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/dc4a25ed2d8a575447c4d74da6a3c74268b09bb0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=295"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Degree Mar Ivanios College, Kerala University, 1977-1980, SSLC, St. Joseph HS, Thiruvananthapuram, 1975"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=295",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

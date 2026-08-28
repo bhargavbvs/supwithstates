@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Housewife, Agriculture & Retired Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b7cdad5a2ad8026a2ba9cde69ba500dee2917d97.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3782"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Sahitya Sudhakar (BA Hindi Level) Second Section Examination in 2014, 12th Pass from Gujarat Secondary Education Board, Gandhinagar in Year 1994, PTC from Buniyadi Adhyapan Pravin Pramanpatra in Year 1990, 10th from Gujarat Secondary Education Board in Y"

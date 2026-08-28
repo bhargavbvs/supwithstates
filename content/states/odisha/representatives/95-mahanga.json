@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Cultivation, Social Service, Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/86577f8895b98b7835348b1b20cbb958a32d5edb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1077"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "HSC Pass in 1993 from Ramchandi High School, Erakana, Mahanga, Cuttack, Through Board of Secondary Education Orrisa, Cuttack"

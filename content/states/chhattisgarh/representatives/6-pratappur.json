@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Advocate and Salary (Sarpanch)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/8b4aafcaad6b440faca6a4dd19da0b1cfdb44148.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=496"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Law Graduate Year 2014 Sarguja University Ambikapur C.G."

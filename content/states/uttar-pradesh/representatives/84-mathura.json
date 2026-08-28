@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Cabinet Minister of UP",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e9919e58cf29d3e48f331bca271f70ba008d9643.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=157"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A (Political Science) from P.G.D.A.V. College, Delhi University in 1983"

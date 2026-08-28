@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/adcc5807ff0b8dc063ae2304a0c1f9a7112b092c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6872"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from Buddha Bhanu Saraswati College (BBS) Shillong in 2019"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "House Wife, Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/1ed765294a937d23bdaa59e914320017505ca29d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1041"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. from Jaipur in 2014, MA Political from RU Jaipur in 2010, MA Music from MLSU Udaipur in 2007, LLB from RU Jaipur in 2017"

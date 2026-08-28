@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1d4c6cd8d53a9620ba1ddb9376af88d52c5f9d45.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1181"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (History) Annamalai University Chithambaram Year 1995"

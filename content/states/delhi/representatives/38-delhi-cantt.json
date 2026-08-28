@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/2b4a80e99eee9bd72005828c4a6180e72496a664.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=252"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Law (LLM) from Kurukshetra University, Kurukshetra in the year 2011"

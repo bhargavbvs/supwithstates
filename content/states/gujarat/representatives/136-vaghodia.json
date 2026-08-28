@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Social Worker, Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/d9f381283e06893a8af6836000519d8065fc760e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6772"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC From Buddha Dev School Raika Vadodara Gujarat Secondary Education Board Gandhinagar In The Year 1984-85"

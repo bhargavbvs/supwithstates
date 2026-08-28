@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Social Worker, Business,Agricultural Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/175de1a7f646789a96d09f77f3dc17b6f1a21970.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=75"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Com. From BSSS College Bhopal L.L.B Daha bhai Chunasama Law college Panna 1991"

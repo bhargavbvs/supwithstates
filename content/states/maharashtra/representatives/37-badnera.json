@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Social Worker, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ff2662fdb17027a82a7afbcaaed65a80c795f1d7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1472"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Com-2nd From Amaravati University Year 2000, HSC From Bharatiy College, Amravati Year 1998 Amravati Board"

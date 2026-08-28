@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/c9dc807be0c4c962727ed8c0e931d8cd6e23d711.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=759"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC from SES Sitadas Khemani High School, Ulhasnagar-2 in the Year 1972"

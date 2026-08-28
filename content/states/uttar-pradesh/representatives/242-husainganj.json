@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Retail Business, Agriculture & MLA Widow Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/518ec2dbc9bca33ab58810e51dc3eed2afc3973c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2852"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate in 2005 from Ganesh Shankar Vidyarthi Inter College, Sultanpur Gosh, Khaga, Fatehpur, Madhyamik Shiksha Parishad"

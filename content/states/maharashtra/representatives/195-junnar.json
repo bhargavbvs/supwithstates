@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Obstructive",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9548d39fb6da5be0121e92036e89c4f6ce7ef8a3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=119"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "F.Y.J.C. Commerce in 1991/92 from Modern College, HSC Board, Mumbai, Vashi"

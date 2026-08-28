@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Agriculture, Business, Salary and Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/d4f2a4230700346a9fbc981554818108bccdd8d8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=919"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Mining Survey, Baliapur Institute of Technology-Sindri, Year-1998."

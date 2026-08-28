@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a13ef80b96d7b716aceb230f3e5291ee7c481b22.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=514"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Dr. Babasaheb Ambedkar Marathwada University,Aurangabad in Year -2010"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 54,
     "profession": "Ex-MLA, Bihar Vidhan Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/ea5d5d170e00dc656b721b939bb4ad23ffcc482a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=154"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Hons) Economics 1989-93 from B.D. Evening College Patna Magadh University Bodhgaya Bihar"

@@ -16,7 +16,12 @@
     "term_start": "2024-12",
     "age_at_election": 34,
     "profession": "Politician & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/d56d3063bcdef727db59b4914baabc8772f9affa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=153"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (B.A) English Hons, From Hindu College, University of Delhi in The Year 2013"

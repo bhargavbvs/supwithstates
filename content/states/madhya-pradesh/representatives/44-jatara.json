@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Salary & Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/887155102e2d4acdc8c9364c5068aca32b0ec1cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=730"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma Civil Engineering Govt. Polytechnic Naugaon Dist. Chhattarpur MP Bhopal in 1995"

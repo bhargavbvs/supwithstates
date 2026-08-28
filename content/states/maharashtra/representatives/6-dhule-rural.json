@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 31,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6382bc86301d0fc694a784e53fa0ce370a26f4e2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2488"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. from Kavayitri Bahinabai Chaudhari North Maharashtra in 2015"

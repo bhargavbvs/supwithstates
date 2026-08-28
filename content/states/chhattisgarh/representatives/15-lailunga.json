@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/43dfaff2d2dd5cc3b1cb58ec49721a21ef36ebd4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=466"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary From Awadhesh Pratap Singh University Rewa MP In 2001"

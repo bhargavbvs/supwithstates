@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Business and MLAs Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/39a279c310b1ddef3184f99ad9b4dd6f2f0a8e60.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=277"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "DIploma Hotel Managements South Delhi Year 1989, 12th MGD Girls Public School Year 1987"

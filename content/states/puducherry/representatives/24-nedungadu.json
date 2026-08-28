@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 42,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/5450d9b3b690cf403ae9bbde54f261e6c5bf1fa4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=103"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.B.B.S., PONDICHERRY UNIVERSITY - 2007 M.H.Sc., (Dialectology) - ANNAMALAI UNIVERSITY .2012"

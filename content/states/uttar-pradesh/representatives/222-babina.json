@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": "Agriculture Advisor & Other Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/8c574a66838057d841dc92e95f54226b6d59b842.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1709"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School, Uttar Pradesh Education Board Allhabad Year 1991"

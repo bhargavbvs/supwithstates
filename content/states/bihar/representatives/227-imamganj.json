@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 45,
     "profession": "Member of Bihar Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/261ab17a297f33531c8761143e8fcff4fdc88335.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2242"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate from Magadh University Bodhgaya in 2015, Graduate from Wazirganj College, Magadh University, Bodh Gaya, in 2019"

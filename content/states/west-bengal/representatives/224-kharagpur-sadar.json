@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Party Whole Timer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/b808ab6630b6c66a5010eb81197c435770269a88.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1105"
+    },
     "education": {
       "level": "Others",
       "detail": "Passed All India Trade Test Under The Apprentice Act-1961, from ITI Tollygung in the year 1983, Passed ITI from Jhargram in the year 1982, Passed Madhyamik Pariksha (Secondary Examination) from WB Board of Secondary Education in 1980"

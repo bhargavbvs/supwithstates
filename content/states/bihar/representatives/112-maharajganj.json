@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 63,
     "profession": "Business and Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/12e920ee1c6669ba08ada5abf26dcf5ad2c45274.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=72"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate (Hindi University Devghar) Year 2006"

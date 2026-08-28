@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 64,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/ff3e3850e3add681727552b435f2b88f5b299722.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Dr. Hari Singh Gaur University, Sagar, Year-1982"

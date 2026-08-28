@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Farmer and Petrol Pump Dealership",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/madhyapradesh2023/0ea1f8f8feadafdd597fd2ebcdeaa52028cf12b6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=277"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Board of Secondary Education Bhopal, Year 1979-80"

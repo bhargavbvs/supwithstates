@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 40,
     "profession": "Business and MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/57902647058b5406c4d22d07dd0a98a30623d076.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2360"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate From Ranchi University 2008, B.Ed. Daltonganj Year 2009"

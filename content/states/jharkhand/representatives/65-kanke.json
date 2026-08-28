@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Politician, Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/ad76e77d17fceeef2f00194d610af7d205a593b6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=715"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate from Ranchi University Ranchi in 1998"

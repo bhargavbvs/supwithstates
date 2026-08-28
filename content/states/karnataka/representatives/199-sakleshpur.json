@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/9d72389d12492f40210bc2a541cdcb790e2c1daa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7810"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC from M Manasa Highschool Sakaleshpura in the year 1996-97"

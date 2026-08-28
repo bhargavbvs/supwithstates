@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Social Worker & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/7254287f1353a90b4ab433a4c5bba691141f9014.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7410"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Medicine and Bachelor of Surgery (MBBS) from M S. Ramaiah Medical College, Bangalore University- Year - 1998"

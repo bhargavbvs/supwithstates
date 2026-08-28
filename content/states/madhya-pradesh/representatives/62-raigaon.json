@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 35,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/0fb93182cfbc7cad71d2d1d874d3f558292dd99d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=384"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S.W. and L.L.B. from Awdhesh Pratap Singh University Rewa MP"

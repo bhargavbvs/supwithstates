@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 61,
     "profession": "Member of Legislative Assembly of NCT of Delhi. :",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/15ff969671d2be10cad346129329fca088ad1c59.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=113"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Commerce from Delhi University, Delhi in 1986, Bachelor of Commerce (Hons) from Ramjas College, Delhi University, Delhi in 1984"

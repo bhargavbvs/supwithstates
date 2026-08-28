@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/945a2e7d44bf506533a5bb6cdd55b1c8b37ace0a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1308"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from H P T College, Tq Dist Nashik, Pune University in 1995"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": "Advocate & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/4f0bf1af9e2ba53515db74b7e4d0f263d1f4109a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=244"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 1992 Lingaraj Law College Berhampur From Berhampur University, B.Sc in 1979 Rajendra College, Balangir"

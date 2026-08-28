@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 43,
     "profession": "Politician, Chief Minister of Delhi",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/be671bf35f1f175bfb7afe7871b1a60382e101da.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=28"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science from University of Oxford in 2006"

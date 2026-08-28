@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 77,
     "profession": "Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/meghalaya2023/4990d31e114f1e25016fb4a4b0558363c28dffaa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7033"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from St. Anthony College, Shillong under Gauhati University Assam in 1969"

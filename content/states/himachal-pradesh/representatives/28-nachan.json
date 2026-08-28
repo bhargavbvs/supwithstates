@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 42,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Vinod_Kumar_MLA_Nachan-28.png",
+      "credit": "C H I N E45",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=75622140"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th From HPBOSE In 2000 from GSSS Chailchowk"

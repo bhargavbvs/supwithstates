@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0734ee9b0a0afce356ebf7da88fead47587bd6aa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=98"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc in 1985, B.Ed in 1986 & LLB in 1990 from Dharm Samaj College Aligarh"

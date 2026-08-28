@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3d70f542a497562bc8a828c454359b7a1492ada6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=830"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy in Law-University of Madras In 2018, Master of Arts In Politician Science From University of Madras In 2008"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Social Service and MLA & Former Minister of Jharkhand Govt.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/ba364625c303c2bd1f68d54ef8fe3c660eb113a9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=828"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Pravesika From Hindi Vidyapith, Deoghar, Year-2002"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 59,
     "profession": "Agriculture, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/0eaed49f016b6e643188bd86caff9c1155ede90d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=420"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th pass from Mahatama Gandhi State School Sanderao in 1977"

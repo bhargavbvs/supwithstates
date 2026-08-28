@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 36,
     "profession": "Agriculture, Joint Hotel Business, Shop",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/6eb45808e1fa896c69eca3fe720f8c93dac11900.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=63"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com Degree Garden City College, Bangalore University Bangalore Year 2011"

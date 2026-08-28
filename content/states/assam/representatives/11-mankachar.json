@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/304cc591df902482185dc59a432e97dfd52ff99c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=439"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Science (Engineering) in Computer Science from Regional Insititue of Technology Jamshedpur, Jharkhand, Year-2003"

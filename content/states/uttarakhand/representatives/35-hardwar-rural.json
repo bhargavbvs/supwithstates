@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 38,
     "profession": "Social Service & Practicing Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/2998a7821f989c1438e1edefddd62673072d88c0.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=485"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Law (LLM) from Kruksetra University in the year 2015"

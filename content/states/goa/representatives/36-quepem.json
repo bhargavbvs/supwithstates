@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/20f9cb265b69e9101dcbb17f17e2b1f67c113ed5.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=144"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10Th Class passed from Perpetual Succour Convent High School, Navelim, Affiliated to Goa Board in 1992,Passed Electric and Welding Course from Angel Trade School, Verna in 1995"

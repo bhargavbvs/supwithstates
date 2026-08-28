@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Agriculture/Pension/Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/5d7761d391a757ff0ceec5799e0a9c02ce7844a1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1698"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (D.V. Degree College Orai) in 1984"

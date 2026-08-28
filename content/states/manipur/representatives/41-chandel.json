@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/2022_Manipur_Legislative_Assembly_Election_Result_Map.svg",
+      "credit": "FlyJet777",
+      "license": "CC BY 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=62981953"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts in Political Science in 2000 from United College, Manipur University"

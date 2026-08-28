@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/df92cb0e620958456bd8631f3305b7030b3cddfc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=630"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Class from Jammu and Kashmir Board of School Education, Dewan Badrinath Vidya Mandir School in 1987"

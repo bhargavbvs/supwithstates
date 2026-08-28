@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Agriculture Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/d0edb6640da8c7609bf922721e06e05120be23d3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=62"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate Bhopal University Bhopal Year 1998, Study Government College Kurvai Dist. Vidisha"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Agriculture & MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/831c3a4d7d2acb6af399397e34fe4b3dc005e852.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4804"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from K.B.P.G. College Mirzapur, University-Purvanchal University Jaunpur in 1996"

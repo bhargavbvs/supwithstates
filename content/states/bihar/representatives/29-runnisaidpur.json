@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 51,
     "profession": "Farmer and Sensor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/059cb3c6666bcb551e0b601a13436c4aea911ddf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2845"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Baba Sahib Bhim Rao Ambedkar University Muzaffarpur in 1997"

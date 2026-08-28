@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/3a72eef3a5d560369698ac7d4e487aa5ccd012f0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=423"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. Geography, Kurukshetra University, Kurukshetra in 1993"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/6a1252562ecc7d66c15d8ddd705394de0a65c01a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=252"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech Electrical, from Nagpur University, Nagpur 1992-1993"

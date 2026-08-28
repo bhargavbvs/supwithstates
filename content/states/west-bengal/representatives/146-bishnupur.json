@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/470b71a17c4bf948a03c7019968b454769323ac2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2125"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A., Second Year (reading but not completed), Behala parnasree College Kolkata"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 36,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/a3b90d8be4174838492e9a549b2e6e58864e8080.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=628"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary in Arts Stream from The Assam Higher Secondary Education Council in 2011"

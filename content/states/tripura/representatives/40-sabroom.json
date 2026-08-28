@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Political Avtivist",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jitendra_Chaudhury_at_CPI%28M%29_rally_in_Chailengta%2C_5_February_2023.jpg",
+      "credit": "Bdm166",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=42782850"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "H.S. Passed from Umakanta Academy School Under TBSE in the year 1980"

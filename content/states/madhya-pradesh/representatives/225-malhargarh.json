@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 66,
     "profession": "Salary and Rent Received as a Minister in Madhya Pradesh Government",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/0504e8f93f5a55fd1a47f1a60e61cc40eb67b342.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=531"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Economics) from Govt. College, Rampura, Neemuch Vikram University, Ujjain in 1979"

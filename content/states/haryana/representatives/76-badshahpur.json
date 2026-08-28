@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/7671ad8086a18972180073d9e7d3e131470f23a8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=118"
+    },
     "education": {
       "level": "Graduate",
       "detail": "(a) Uttama (Sahitya Ratana) passed in 2001 from Hindi Sahitya Sammellan, Allahabad, (b) Hindi Madhyama (Visharad) passed in 1988 from Hindi Sahitya Sammellan Allahabad"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 37,
     "profession": "Business, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/473b1db70a84c830a781d81b6f87ffcd85e91cef.png",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=358"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Standard St John Eng School, Besant Nagar, Chennai, Tamilnadu Year of Complction: 2006"

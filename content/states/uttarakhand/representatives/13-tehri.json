@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Pensioneer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/65a9e74add0175dbd968503150c4f8e6b0e9b936.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=736"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Phd From Gurukul University Haridwar"

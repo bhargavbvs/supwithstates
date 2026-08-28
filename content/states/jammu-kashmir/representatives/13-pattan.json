@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Retired Govt. Employee, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/317415631996033d1ec0f2e1987548575cf24f0f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=604"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. (1972), LLB Professional (1975) from University of Kashmir"

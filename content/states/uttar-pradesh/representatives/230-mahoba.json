@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 68,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/5b95f4e9c4e9848c6842cbffbf2a2aa78b1a0239.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1806"
+    },
     "education": {
       "level": "Literate",
       "detail": "Agriculture"

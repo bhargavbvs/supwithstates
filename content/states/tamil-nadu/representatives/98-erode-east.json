@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1302f725cc83a77b06a9ec1a8d58dc8b53fd3c9c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=781"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. (C.S) From Dr.G.R Damodaran College Coimbatore, Year-2005-08"

@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 72,
     "profession": "Politician, Social Work & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/2e8849a181ade04eb785739c5aa2ed966ec08c5b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3423"
+    },
     "education": {
       "level": "Others",
       "detail": "Matric in 1967 from MIthu Das High School, Salkhua (Sahrsa), Bihar School Examination Council & Civil Diploma Engineering in 1971 from Govt. Polytechnic Saharsa & State Technical Education Council Bihar, Patna"

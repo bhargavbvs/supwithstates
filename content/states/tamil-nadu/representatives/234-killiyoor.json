@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/df81bae763ce9fb716d17e54ccdc6f5e2a330458.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1172"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA From Vinayaga Mission University -December 2007, Bachelors Of Law V.V Puram College Of Law Bangalore,Bangalore University-May 2005"

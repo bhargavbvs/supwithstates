@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Agricultural & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/b961213d40ff5df1f3a64a438564001a84aa5d66.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=236"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Engineering (Mechanical) From Kongu Engineering College, Bharathiyar University, Coimbatore In April 1994"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Retired Govt. Servant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/16dc037b02477d4016d5d64562dbef7402531d7a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6861"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. (Agriculture) from Orissa University of Agriculture and Technology, Bhubaneswar in 1986"

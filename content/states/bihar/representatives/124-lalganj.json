@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 56,
     "profession": "Salary & Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/a6f4533c4d65dde629dc9edb8b8e98f248ce79ab.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=615"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. from Munshi Singh College, Motihari, Bihar University, Muzaffarpur in 1988"

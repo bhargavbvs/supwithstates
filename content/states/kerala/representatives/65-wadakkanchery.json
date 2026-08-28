@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/b02af36040bd77d5ff1da1c6b69f04a917783497.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=296"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "SSLC (Failed) Govt. Boys High School Wadakkanchery 1985-86"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=296",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

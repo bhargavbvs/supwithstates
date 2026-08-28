@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/938a19c2314ff6efd19597fa0ccb6ba5188e555e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2748"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from West Bengal Council of Higher Secondary Education in the year 1991."

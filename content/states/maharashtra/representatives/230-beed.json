@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Agriculture, Salary , Social work & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/7f932c5edb3648e97e2dba74ea9514ff84fa9ed1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1687"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. From K.S.K. urf Kaku College, Beed, Dr.B.A.M. University, Aurangabad. Year: 2002"

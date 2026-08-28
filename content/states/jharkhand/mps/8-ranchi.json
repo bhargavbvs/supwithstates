@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Sitting Member of Parliament (Lok Sabha)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/f543866932d47ef07739585be754532b893374b2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8561"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law RU in 1983"

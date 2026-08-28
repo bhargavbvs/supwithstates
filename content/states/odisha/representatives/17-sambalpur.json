@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Social Service, Agriculture, MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/73d6dce1eab95c51da29380750724b75f769156f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=851"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A, I.A. in 1983 from Burla NAC College"

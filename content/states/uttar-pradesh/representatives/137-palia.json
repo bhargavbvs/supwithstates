@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Agriculturist/ Business and Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/32be264f58fb1b92594928c6cb46e4813ca3abbf.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2764"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Ken Grovers Nehru Degree College Gola Gokarnath Kheri in 1985"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 42,
     "profession": "Agriculture and Rental Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/1b9c981b2c1b840d561a571c0d217edf0d05b27c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=530"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate Diploma From Bhartiya Sewa Sansthan Society In Lucknow Uttar Pradesh in 2012"

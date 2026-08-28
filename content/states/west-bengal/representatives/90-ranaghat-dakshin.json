@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/3715d106213beb0f0d50d373d51d08a9f6d02470.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1989"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Passed from Gopal Nagar Haripada Instituion North 24 Parganas in 1987"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "Farmer, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/9ad76e4172100be5ac8b83671f36092d8b36bd1a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=467"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc Mathematics from Iqbal College Kerala University in 2005 - 2008"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=467",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

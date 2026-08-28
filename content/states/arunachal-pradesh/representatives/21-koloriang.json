@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Political Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/9f443f9b1e5391ac0ddbd602c3134bbf0b6212bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=134"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. (Hons.) JNC College Pasighat Year 1995-96"

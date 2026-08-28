@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 32,
     "profession": "MLA and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/b12c0f6da3ad3c6bcad95559bc131eb2f850c2a8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1109"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. (Food & Nutrition) from M.J.P. Ruhilkhand University Bareilly in 2011"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/cab8f3ea2d74d42a865f92c5a17405b0168ec21e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=324"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BITM in year 2003 (Bachelor of Information Technology and Management through Utkal University, Bhubaneswar, Orissa."

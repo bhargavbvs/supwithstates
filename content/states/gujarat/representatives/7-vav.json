@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": "Agriculture, Business, Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/9d033f9451ac489e0db7ac04290ae25306e3486f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6784"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th from National Open School in 2017"

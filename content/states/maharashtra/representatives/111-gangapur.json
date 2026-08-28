@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/d1fc948ea078098e0aaad9690c1ffb3a4f17391b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=510"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA in 1992 from Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, B.Com. in 1990 from Saraswatibhuvan College, Aurangabad"

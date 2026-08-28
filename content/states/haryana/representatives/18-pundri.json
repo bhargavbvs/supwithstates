@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Social Services, Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/399e72576be24daf30f2b6016f5742087b2e9de5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=354"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. History from Kurukshetra University in 2013"

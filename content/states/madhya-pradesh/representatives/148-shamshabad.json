@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Former MLA and Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/178d521c6ba9f8b5fe42e22f36a269c317723dd2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=202"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate ( Commerce Part) S.S.L. Jain University, Vidisha, Bhopal University, Bhopal Year 1982, 27 June"

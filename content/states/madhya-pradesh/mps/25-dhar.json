@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 45,
     "profession": "Agriculture, Rent, Frenchise Income, Pension of former MP",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1f71e8641db1f18e87553f7224ede328cbf72505.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5162"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Urdu Education Board in 2018"

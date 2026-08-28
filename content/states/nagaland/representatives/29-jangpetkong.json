@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/3b704050722890f742e2f0c6db2fa5ecb387d26b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6796"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Good Governance from Global Open University, Dimapur, Nagaland in 2011"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": "Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/51d7934c7b01550c3f393506e9491fd94367396f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1199"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D From University Of Madras, Chennai, Year - 2008, M.Phil From University Of Madras, Chennai, Year - 2000, MBA From University Of Madras, Chennai, Year - 1983"

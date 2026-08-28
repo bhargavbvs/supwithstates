@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 35,
     "profession": "Allowance (Member of District Panchayat)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/8b45fba8b6e7312f1cbd2f97ec2a993a5491640a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=71"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA, LLB( Pandit Ravishankar Vishvidhyalaya, Raipur, 2019"

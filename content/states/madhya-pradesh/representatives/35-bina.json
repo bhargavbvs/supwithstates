@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/417603939ef857a1ebb8cc3226030db211799d58.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=481"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Philosophy in Geology (Vinayak Mission University, Selam Tamilnadu)"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 32,
     "profession": "Headmaster at a private institution.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/1513ad4a374a3f57e67cf598a58f092da75d8491.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1086"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. History from Kalyani University in 2018"

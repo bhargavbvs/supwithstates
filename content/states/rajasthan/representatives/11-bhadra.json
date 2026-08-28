@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/cbb2a3559d2de41f09930fc033e52413e1c32e12.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=25"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (History) from Ajmer University Year 1992, MA (Political Science) from Ajmer University in 1990"

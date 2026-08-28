@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Lawyer And Wedding Hall Rental",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1e4c13247c7131da1e325f65c8dbabe1aa9089e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=780"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A., L.L.B - Bangalore institute of Legal studies. Bangalore, 2007"

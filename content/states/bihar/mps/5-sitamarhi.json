@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 71,
     "profession": "Social Service, Agriculture & Director of a Private Firm",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/816770fa2f2e249d20368e92793365026bc70438.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7129"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from I.L.S, Pune University Maharashtra in 1976"

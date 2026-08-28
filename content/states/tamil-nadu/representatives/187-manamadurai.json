@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Photographer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/5824bdb5319d961b41b31787066dbb2d87fd8098.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1003"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Pharmacy Ultra College College of Pharmacy Annanagar Madurai 2009, 12th Standard Government Higher Secondary School Keeladi 2001, 10th Standard Mangaiyarkarasi Higher Secondary School Madurai 1999"

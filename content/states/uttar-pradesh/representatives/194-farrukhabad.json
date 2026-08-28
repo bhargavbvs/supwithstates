@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "MLA Salary & Bank Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/67f173d563bc7e56a53a57a442d1dfea77f1dabb.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1653"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B, Year 1991, Mumbai University"

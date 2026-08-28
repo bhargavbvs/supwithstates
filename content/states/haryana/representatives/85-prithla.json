@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 66,
     "profession": "Ex MLA (Farmer)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/8f20bf74a0023aa688c027a264b18790573f8e8d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=206"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "10+2 from Senior Secondary, National Institute of Open Schooling in April 2020"

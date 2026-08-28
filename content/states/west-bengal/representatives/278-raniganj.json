@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/b64112daa2733a513fd4b222a9cd86ad4b818a3a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=304"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Law from O.P. Jindal Global University in 2022, LLB from Calcutta/Kolkata University in 2002"

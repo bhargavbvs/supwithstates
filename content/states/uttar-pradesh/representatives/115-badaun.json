@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Market Mela, Agriculture income, Rent, Salary and Pension (State minister/Mla)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f54ad71a7f2f9085f02993e605b1f0eaea736e86.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=899"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Highschool from NA Inter college in 1972"

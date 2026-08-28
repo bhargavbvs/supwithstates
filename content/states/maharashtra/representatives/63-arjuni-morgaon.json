@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9989b3073abb94a3ab48e6cbc9fc6afd1b13e4f6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1566"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Ambedkar Nagpur University Year 2019"

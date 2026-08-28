@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "High School Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/208b58e6e27799088621e114f0274874c7644cdc.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1110"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts Bengali from Vidyasagar University in 2002, Master of Arts in Education from Rabindra Bharti University in 2013"

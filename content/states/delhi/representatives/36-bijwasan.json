@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 50,
     "profession": "Ex minister, NCT Delhi",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/9de8e86aec202e486436fb69cbb399c5a1e5c1e6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=130"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLM ( Master of laws) from Faculty of Law, University of Delhi 2002"

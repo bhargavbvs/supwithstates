@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Social worker and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/0581f26442da9addbbcc1a633e1eadbef3ca53db.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=690"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. in 1994 Gujarati Arts college indore devi ahilya university"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Social Service & Acting",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/9546f959c1e2eae2a470602d3f58e72ca094f649.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1066"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Capital Law College Bhubneswar Utkal University in 2006"

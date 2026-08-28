@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Social Service, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/1ab5e6b4a8ff3b8aa510369d6557546e2a3fba7c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2859"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Shankar College Takiya Sasaram in 1993"

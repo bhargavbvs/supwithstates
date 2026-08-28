@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 58,
     "profession": "Agriculture, Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/dbb1fe0e3495594f191824ea07e11bfab53d7a32.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2635"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Arts Graduate (Political Science) from Lalit Naryan Mithila University, Kameshwar Nagar, Darbhanga, R.D.S. College Salmari"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Politician and Businessmen",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/45ce438fd37b5174ae8aa0ee686310229f59fb81.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=121"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech.,(Civil) KITS Ram Tek of Maharashtra State 1986-1990"

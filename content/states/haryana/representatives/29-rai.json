@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 72,
     "profession": "Social Welfare",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/e4c1c46383dd0412c70f436c8159fe7dc267e95d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=198"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA From Kurukshetra University Year 1992"

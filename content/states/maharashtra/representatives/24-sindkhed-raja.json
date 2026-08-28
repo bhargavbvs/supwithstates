@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 35,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9b081f50009024ceaa69b1db48cc364d339bdec5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2112"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. in 2014 from Shr. Vyankatesh Arts, Commerce & Science College College Deulgaon Raja, Dist. Buldhana, Sant Gadge Baba Amravti University, Amravati"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Salary from Vidhansabha Political and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/300858ed8dcb89c8d8cbd73e278de027bd38a3bd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=853"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from D.S. College Purnia Bihar in 1986"

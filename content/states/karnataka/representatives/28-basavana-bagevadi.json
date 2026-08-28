@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Medical Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/karnataka2023/62c8ee8f17908b44667ddcc8c4d1383934e7cc4f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=6775"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Pharmacy from KLEs J N Medical College, Belgaum in 1981"

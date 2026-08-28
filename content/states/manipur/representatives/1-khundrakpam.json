@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 55,
     "profession": "Member Of Manipur Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Thokchom_Lokeshwar_Singh.jpg",
+      "credit": "Manipur Legislative Assembly Official",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=77218266"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA From Manipur University in 2003"

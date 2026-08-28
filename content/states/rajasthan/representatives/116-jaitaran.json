@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/511aa5129cd21d454bb867b9068923385cb2f8ec.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=220"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB 2016 BJS Rampuriya College Bikaner, Maharaja Gangasingh University Bikaner"

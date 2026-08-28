@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 32,
     "profession": "Agriculture and Rent Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/53ee3ba422841461a277ad29c9489a345e8d5e4b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=494"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Tech and B.Tech From Noida University, Noida UP in 2015"

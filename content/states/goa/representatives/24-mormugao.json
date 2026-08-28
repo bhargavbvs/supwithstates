@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/4947b574ad889964e2fa4824ced56ac749922a50.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=6"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Mormugao Education Society Zuarinagar Goa University in 1997"

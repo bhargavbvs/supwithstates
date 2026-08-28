@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 35,
     "profession": "Social Service & Cultivation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/a178596b1f1c7e7bbd0b007960355d8039c05244.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=396"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "+2 Mechanical Engineering Technician of Trade Machinist from Don Bisco Luluah Howrah WB Under Govt WB"

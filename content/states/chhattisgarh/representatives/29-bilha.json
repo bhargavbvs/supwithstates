@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Social worker, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/0ee22a7a74cca7c3915330a41d7b96647290e855.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=318"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA. from C.M. dube college bilaspur in 1981, LLB from K.R. law college bilaspur in 1984"

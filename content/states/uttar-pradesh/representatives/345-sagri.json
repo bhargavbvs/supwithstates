@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Surgeon & Partner Ramrati Hospital, Proprietor Ramrati Ultrasound Clinic",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/ea0128dfb789e231dc30dd8e58840b59b2301e08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4270"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MS Surgery From Motilal Nehru Medical College Allahabad in 2006, MBBS From K.G.B.S. Lucknow Year 1998"

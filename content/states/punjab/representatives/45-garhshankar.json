@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 39,
     "profession": "Business of Photographer & Sitting MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/45-Garhshankar.svg",
+      "credit": "Own work based on User:Furfur",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=51109398"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass from Govt. Sr. Sec. School, Garhshankar in 2002"

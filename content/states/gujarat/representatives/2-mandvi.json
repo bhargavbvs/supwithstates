@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 54,
     "profession": "Lawyer And Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/41b6d50f52d67379f3f24aaf941798366799e972.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5270"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MPA From KSKV Kachchh University Year April 2011, LLB From Gujarat University Year October 1995, TYBA From Gujarat University Year April 1993"

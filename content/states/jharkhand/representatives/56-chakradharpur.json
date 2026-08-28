@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Member of Legislative Assembly, Jharkhand",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/19f3f0e3034eec87d3a068b017941276c2d47165.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=783"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate in Political Science from Jwahar Lal Nehru College, Chakradharpur, Under Kolhan University in 2014"

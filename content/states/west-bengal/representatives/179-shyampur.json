@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Actor, MLA, Councilor, Professional, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/5a72408bc90019bbec0b3d8ce36cce9da730055b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2320"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. From CMJ University In 2021, Ex-Post Ph.D. Research Fellow-IIT Kharagpur"

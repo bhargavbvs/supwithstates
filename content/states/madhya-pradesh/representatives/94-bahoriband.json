@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Agriculture and Passenger transportation",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/7fcf8a110df4d4ea54e1961ed323db7f6dbd92a5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=22"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Hindi literature) Year 2013, Swami Dwarkadas Art and Commerce University, Dheemar Kheda, Dist. Katnee (MP), Rani Durgavati University, Jabalpur"

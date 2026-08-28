@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Assistant Teacher at Benapur High School (H.S)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/dcc6bdd75ec8b32dd9e43a429f24869285f024eb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=544"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Eng) from Vidyasagar University 1998 & Bachelor of Education 1st Class Vidyasagr University in 2000"

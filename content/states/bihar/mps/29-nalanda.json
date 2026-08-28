@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "MP",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/7ace915d0bcf4fe146e6128105143ddb2286c95f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9494"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "I.A. from Sardar Patel Memorial College, Bihar Sharif in 1980"

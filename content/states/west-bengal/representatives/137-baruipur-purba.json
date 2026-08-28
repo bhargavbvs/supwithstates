@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e1356bfd4737d459ed3a8e6ba3bae2d7c5ac885b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2644"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate Under Willim Carey University at Meghalaya - India Year 2023"

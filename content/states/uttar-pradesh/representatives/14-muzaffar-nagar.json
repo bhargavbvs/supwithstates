@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Advertising Agency",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/cf067085eed78b5e07328fb91994343c07b4af4d.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=177"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from Meerut University ( C.C.S.University ) Meerut 1985"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/6e783d09bb44b9a9aa54cc0cd2bc5b61b3561757.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=501"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.S Electrical Engineering From Misigun University USA in 2000-2001, ICAS Manipal in 1999"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Sitting MLA, Namsai (A.P.)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/dc88ea17ca7366a00a27a4ac5d57136a39e0df88.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=4"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Beachlor of Arts (B.A.) From Delhi University, Delhi Year 1997"

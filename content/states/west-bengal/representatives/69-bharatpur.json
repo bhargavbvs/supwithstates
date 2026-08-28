@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/2c9143c06a8533e15aa5123f3dc4aa6c13d39f6a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=790"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class 10th Pass, Salar E.Z.H. School, W.B.B.S.E., in the year 1998"

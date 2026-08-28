@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1d7970d649614ac65add73d2514448d524a72ca4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=548"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "B.Com Shivaji University, Kolhapur Year-2011, MBA Nims University,Jaipur(Raj.) Year-2014"

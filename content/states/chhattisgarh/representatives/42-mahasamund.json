@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Rent and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/52444d36d6bb763418e42458763eceb2aae7240b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=474"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Institute of Open and Distance Education Dr. C.V.Raman University Bilaspur 2017"

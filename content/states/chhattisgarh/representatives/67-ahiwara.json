@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 75,
     "profession": "Pension and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/fc5c1f71840b549ff407eb33ef2e869dafb83f7d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=280"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA Poetical Science From P. Ravishanker Shukla University Raipur Year 1985"

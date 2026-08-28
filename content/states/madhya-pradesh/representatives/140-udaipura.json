@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Agriculture , Civil Engineering Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/15d9153c294693685243975fe267051614210617.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1147"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Civil) Samrat Ashok Engineering College, Vidisha, Year 1990"

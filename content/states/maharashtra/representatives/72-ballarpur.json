@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Vidhan Sabha Member",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/363bc4825b3fe5c7f38205746b5e781994ca1230.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1251"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Phil from Sardar Patel College, Chandrapur in March 1990, M.Com from Bahishal Vidyarthi in April 1983, LLB from Law College in 1986, Nagpur University"

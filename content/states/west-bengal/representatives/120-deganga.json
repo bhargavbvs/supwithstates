@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 38,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/1bc33e9584dac510091f4b9032e85566b3f4fe87.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1827"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor in Arts BA Passed in 2011 from Chandraketugarh Sahidullah Smriti mahavidyalaya under Calcutta University"

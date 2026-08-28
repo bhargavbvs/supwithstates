@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 40,
     "profession": "Agriculturist & Commision Agent Shop",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Laljit_Singh_Bhullar.jpg",
+      "credit": "Govt. of Punjab India",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=70277858"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed From SS School Gharyala Dist Tarn Taran Nov 1999 Punjab School Education Board Punjab"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Politician and Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/958205983fdaa49684da9d195999b2e5ad06f3e8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6771"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (B.A) from Kohima College, Nagaland University in 2003"

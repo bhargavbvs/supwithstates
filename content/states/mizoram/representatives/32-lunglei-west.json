@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Government Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/a509dee142fc7134845e14d0203c6fdf30105153.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=95"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Mater of Arts (Economics) Pune University completed in 2000"

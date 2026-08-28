@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 53,
     "profession": "Pension (EX MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/16a87140786bc744d9f3268f9dbd34e82b9196ae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1702"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Gaya College Gaya In 1988"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Umayal Agencies Owner,Puducherry-605003",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/43379cc5471b03f65721a0a51e1e181202707425.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=121"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.B.A. - Bachelor of Business Administration,Annamalai University,December 2010."

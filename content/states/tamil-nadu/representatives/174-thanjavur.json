@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 50,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/30d29d59cfd30d7ecb250a6476571c8caf2827e2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1014"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC Uma Maheshwara Higher Secondary Karanthai Thanjavur-1991"

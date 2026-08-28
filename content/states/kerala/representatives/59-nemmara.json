@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "No",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/f7765ec27bd4482e741b22eda4c42e7044128e17.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=191"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC, GBHS Nehmara Genral Education Department Board of Public Examination In 1988, PDC Failed, NSS College, Calicut University In 1990"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=191",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

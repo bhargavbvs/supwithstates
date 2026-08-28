@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/cd7ade8310473076c4b7aacd0788d9a69ebef1f0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2180"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Post Graduate Diploma in Business Management from Institute of Business Management & Research Kolkata in 1987, B.Com (Hons) from Serampore College in 1987, LLB from Surendra Nath Law College in 1985"

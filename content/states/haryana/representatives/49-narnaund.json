@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 34,
     "profession": "Farmer, Education Counsellor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/b675c01db073b174b9f4487e0717cfcbad05d956.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=463"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Maharshi Dayanand University Rohtak, Haryana in 2022"

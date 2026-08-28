@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Politician (EX-MLA) & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/3832dc4c4af86567ebe8fdd009b92545b1ccd3b7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=47"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Passed Secondary School Examination In 1975 From kumudini Homes School Kalimpong under WBBSE"

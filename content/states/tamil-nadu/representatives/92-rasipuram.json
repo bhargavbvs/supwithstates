@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 42,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d94f897757739c001c1d3381ac360bdfce1cccd7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=974"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.B.A.(Marketing Management And Personal Management )2007 The Indian Institute Of Planning And Management Delhi , B.Com. LOYOLA Chennai 2005"

@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 72,
     "profession": "Farmer and lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6c38ef259ab9879ce7d99964d72e334398e725ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3930"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BA year 1972 Basaveshwara Kala Mahavidyalaya Bagalot(KVV Dharwad). LLb year 1975 Raja Lakkammagowda Law college Balgaum(KVV Dharwada)"

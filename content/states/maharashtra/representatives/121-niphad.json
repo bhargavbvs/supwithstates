@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Agriculture ,Transport & Petrol pump Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/3563b345b76f50cec8df2788b6f06449f8d0867e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3007"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from University of Pune Year 1985"

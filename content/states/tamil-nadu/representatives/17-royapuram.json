@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Auto Consulting Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/e2cbc2d2dc1ada8d030fc9dd7f72696df30f95c6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1539"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Standard Corporation High School Papanchavadi Adyar Chennai In 1993"

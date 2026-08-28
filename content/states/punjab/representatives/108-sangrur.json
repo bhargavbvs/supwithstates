@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 27,
     "profession": "Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/108-Sangrur.svg",
+      "credit": "Own work based on User:Furfur",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=51111881"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB,From Bhai Gurdas college of Law.Sangrur,From Panjabi University,In 2021"

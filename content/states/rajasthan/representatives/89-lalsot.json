@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 47,
     "profession": "Agriculture and Business (Crusher)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/34ab81506a889c7a31a6ee188e9a78547ec8ef4f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=282"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass from Secondary Education Board Rajasthan 1996"

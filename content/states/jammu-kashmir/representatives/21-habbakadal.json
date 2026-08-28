@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/a33dda2877221adbb5bb5fa888b62576aceddfa1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=319"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A., LLB (Hons) Kashmir University Year 1983"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/4c9a5d073419c4227ec80819c062de95a4fc7b95.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=17"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed from Secondary School Shiksha Bhopal 1995-96"

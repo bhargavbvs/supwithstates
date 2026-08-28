@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 71,
     "profession": "Retired School Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/3545ce75dcdbbe461ac6f169705a288ea5052f31.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=142"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class 10th Pass from Hindusthan Shiksha Bharati, Berhampur, Murshidabad, West Bengal in 1971"

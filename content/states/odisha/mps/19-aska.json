@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 52,
     "profession": "Coaching And Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/6c44fdb83405e3508fba2b672d9a814bcb98e50b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7158"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post graduate in Political science from Utkal University in the year 1994, Bachelor of Laws from Kalinga Law College under Utkal University Odisha in the year 2006"

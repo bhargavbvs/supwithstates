@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Salary from State Govt, Rent, Interest and Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/21a94f2a3290dac89aa513341a947574349b1c45.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=320"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from D.A.V. P.G. College Dehradu, H.N.B. Garhwal University in 1983"

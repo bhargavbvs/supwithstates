@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 80,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/cecef17d59ae9e94605a458bd4f0e45fa41f3d98.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=70"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Allahabad university U.P."

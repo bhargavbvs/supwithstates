@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 67,
     "profession": "Pensioner , Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/ffe1a39d3955c6b84f6106a222b3f13b924952ea.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3572"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Political Science) Year 1988, Gorakhpur University , B.Ed. Gandi University Gorakhpur Year 1977"

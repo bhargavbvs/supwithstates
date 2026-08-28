@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Agriculture & Media Advisor & Profit From Firm",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/6872e2f0dab4ed398442484f9845a1fa5329d606.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=757"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Media Law London School Of Journalism in 2016"

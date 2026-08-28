@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/12f109f2129cbcf5c1a90c1643f5421f12f0b365.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=2"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor in Law (LLB) from Kerala Law Academy Law College, Thiruvananthapuram (Affiliated to University of Kerala), Graduated in the year 2000"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=2",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

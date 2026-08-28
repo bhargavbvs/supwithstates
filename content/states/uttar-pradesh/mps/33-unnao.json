@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Pensioner, Agriculture, Katha, Bhagwat, Teaching Institute, Donation etc.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/38c1d1479a643ea050881e571094fff031c883ef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5376"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from Haryana Sanskrit Adarsh Vidhyapeeth, Baghola Dist Palwal, Haryana in 1984, Shri Lal Bahadur Shastri National Sanskrit University, New Delhi"

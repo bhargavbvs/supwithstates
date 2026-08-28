@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/7cee2a053351f146a5f22778caf6ab5817fa42db.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7011"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS from NE Regional Medical College, Imphal, Manipur in 1989"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 73,
     "profession": "NA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6ef833da427267832ed000644b1f16c8313ead40.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=626"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "SY BA from JSM College Alibag in Year 1972"

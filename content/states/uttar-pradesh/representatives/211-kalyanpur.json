@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Rent, Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/a99a14568bf930b47ca875e5e2d4c0c7af1cafe9.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1759"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Chhatrapati Shahu Ji Maharaj University, Kanpur in 2001"

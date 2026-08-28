@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Last Sitting M.L.A. of the state of Meghalaya",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/01584f3a1ea0905ec3ab142f570dbbbbca1674e8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6770"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed under N.E.H.U through B.Ed. College, Tura Rongkhon in 2000, Bachelor of Arts under N.E.H.U. through St. Edmunds College Shillong in 1998"

@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Social Work & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/0917b7755b2cffbbda827125a6ee386347e55e0a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9528"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "M.B.B.S. from Patna Medical College, Patna University in 2000"

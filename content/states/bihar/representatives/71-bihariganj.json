@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 64,
     "profession": "Agriculture & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/d3f366e45219cf2a1c1219b9c6f4ef8d46181b12.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=509"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Mithila University, Kameshwar Nagar Darbhanga In 1990"

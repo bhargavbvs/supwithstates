@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 36,
     "profession": "Agriculture And Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/5ab536222b1f8af64d142f3939523d65597301f2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6921"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B. Sc (Computer) From Shrimati G G Khadse College Muktainagar Jalgaon In The Year 2010, HSC From KRT Arts, BH Commerce And AM Science College Nashik In The Year 2005"

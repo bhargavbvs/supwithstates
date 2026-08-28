@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 74,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1757301c815b94e7c8d7562a5206048664a3c138.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1383"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass old from KG Joshi College of Arts and NG Bedekar College of Commerce Thane"

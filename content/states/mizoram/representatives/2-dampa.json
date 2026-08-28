@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/c2181f90510101f472eb32f9f3ef65dc50ac0b24.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=54"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9TH CLASS CH. Chhunga High School Chawlhhmun Aizawl Mizoram in 1975"

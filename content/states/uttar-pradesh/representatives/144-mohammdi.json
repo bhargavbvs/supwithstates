@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "Agriculture & Businsse",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/9fc25f8b2a6ca44c54d0837248fee81bf6509bb9.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2797"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Lucknow University in 1986 & Graduate From JF(PG) Degree College Shahjahanpur, Rohailkhand University in 1983"

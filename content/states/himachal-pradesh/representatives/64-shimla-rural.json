@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 33,
     "profession": "Agriculturist, Horticulturist, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vikramaditya_Singh.jpg",
+      "credit": "News18 India",
+      "license": "CC BY 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=68041233"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Masters of Arts (History) from St. Stephen College Delhi in the year 2016. B.A. (Hons) in 2011 from Hans Raj College Delhi university"

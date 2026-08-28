@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 57,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/59375a5885a5db173a2aa831222d6cec932127f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9114"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate In 1980 from Maharana Pratap Intermediate College Gorakhpur"

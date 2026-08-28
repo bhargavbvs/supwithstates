@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Hotel Share 17%, MLA Honorarium, SB A/C Intrest, & Income from Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/6085b34739fff6040752dab65247079543c38ba1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=97"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com, B.Com from Dr. Harisingh Gaur Uni. Sagar Year 1988"

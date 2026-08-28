@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Ex-Chairman of Ambedkar development co-op and owner of petrol station",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/2b623fdb3fa77624ebcd4b88cd2ed5b76cd648a6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7468"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Maharaja College, Year-1981-82 & Post Graduate Diploma in Journalism From Maneshar Gangotri Mysore, Year-1987-88"

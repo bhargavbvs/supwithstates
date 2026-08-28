@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 28,
     "profession": "House wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/01a04c3d781902ca612e6e44c53e6b97068eb139.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=664"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in (English Literature)(M.A. English Lit) from Pavai girls arts and science Rasipuram in 2018, B.Ed Vidhya mandir college guruswamypalayam 2023"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 26,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/b0776e434fe0bd334b721f3df93dab9189601c25.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6784"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Xth Secondary School Examination From Pestle Weed College Oak Hill Est. Dehradun Uttarakhand Year 2013"

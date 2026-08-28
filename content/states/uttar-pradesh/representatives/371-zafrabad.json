@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/d92d248d7d65b97fffcad558c38c07c6d1b62de3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4745"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B From Tilakdhari Singh College Jaunpur, Gorakhpur University Year 1975"

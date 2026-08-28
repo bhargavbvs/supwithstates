@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/b2fcfc3ed6627223cd1e7e1feda9e4bd2fef6f2b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=82"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Degree, Kozhikode, University In 1993, M.A. not completed."
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=82",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

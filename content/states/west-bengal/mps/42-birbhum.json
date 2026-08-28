@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Professional Artist, Social Worker and Member of Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3d3d3348d266997ee0763c941e84cb3c8957e35e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5187"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Degree from Jogmaya Devi College under Kolkata University and Course was Completed in 1992"

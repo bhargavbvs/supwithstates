@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Agriculture Land & Jigsaw Machine Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/313d9f17627f9cfccb2e9bdf86362a3f900a0e28.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1799"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass from Anar Singh Inter College Ranamau, Amanpur in 2005"

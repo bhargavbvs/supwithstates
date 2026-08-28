@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Business Consultancy & Agriculture Allied Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/02eca510fbfa687d4df3002a4b793721ba8f0bc2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=672"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.M.S Year 2007 from AIMS, Mumbai University , B.Sc. Year 2005 from M.J.College, Jalgaon, K.B.C. University (Then -North Maharashtra University) Jalgaon"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/fb3296fcdaccefc06175ccfb824ebc03a34bbbb1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=69"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A.(Journalism) from Bangalore University, Karnataka In 2001"

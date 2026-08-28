@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Agriculture and MLA Pension and Buliding Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/cba8b1abeee59f02c71a5c0a302f053c1afc59bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=25"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Bhopal University, Bhopal L.B.S. University Ganjabasauda Graduate ( Art Department) Year 1983"

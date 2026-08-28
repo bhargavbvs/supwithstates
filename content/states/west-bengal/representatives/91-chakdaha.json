@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 67,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/b41fae4e6f58a8321d0f52ae1f12f6c3c985cb86.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2758"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th From W.B.C.H.S.E, Year-1979, ( Barajaguli Gopal Academy)"

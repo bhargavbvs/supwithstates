@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 28,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/d5f389e232864c9da2bf8f1723789a18d280ccea.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=809"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from NIOS Noida Uttar Pradesh in 2012"

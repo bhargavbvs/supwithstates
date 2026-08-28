@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 86,
     "profession": "Social Worker, MLA Salary & Allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/a8822839c7253b1821bd85df9548c5d7d542f6dc.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4303"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter from Isamilya College Gorakhpur U.P. Board in 1953, Diploma in Electrical & Mechanical Engineering Government Technical Institute Gorakhpur in 1956"

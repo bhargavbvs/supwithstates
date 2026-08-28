@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/a04a5895a373327d5946c9e2eccd41e078469419.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1044"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Veer Bahadur Singh Purvanchal Vishwavidyalaya, Janpur, Uttar Pradesh in 2001"

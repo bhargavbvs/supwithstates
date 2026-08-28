@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Agriculture and Former MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/a6dcd40dd9f9d37bfe9f75b46283b09262cd7200.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1467"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Political Science Avdhesh Pratap Singh University in 1980"

@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 42,
     "profession": "Contractor and Agriculture, Social worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/dbe378c6a0ee1a531a1e4c348f7ef2546e45be03.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3703"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Grduate from K.K. P.G. College Etawah, Chhatrapati Shahu Ji Maharaj University Kanpur in 2005, LLB from Gajendra Smriti College Bidhuna Auraiya, Chhatrapati Shahu Ji Maharaj University Kanpur in 2016"

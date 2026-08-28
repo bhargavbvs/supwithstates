@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 75,
     "profession": "Salary from Rajasthan Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/3217270de0b6193362944a222f55c817d76a7c26.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=1"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Electrical) M.B.M. Engineering. College, Jodhpur, Jodhpur University, Jodhpur in 1970"

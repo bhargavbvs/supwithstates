@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 37,
     "profession": "Agriculture & Self Employment, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/c1146d145ea5b6376877d18a2417e8b8ab0ab50f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2120"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.A. & B.Ed. From Tilka Manjhi Bhagalpur University, Year-2018"

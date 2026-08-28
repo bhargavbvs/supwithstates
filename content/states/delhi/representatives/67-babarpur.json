@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 49,
     "profession": "Politician, Minister of Delhi",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/b97d1a8c25ba515c21646a00ee0e87515be9fbea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=216"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in Sociology, passed in 1998 from Lucknow University, Uttar Pradesh"

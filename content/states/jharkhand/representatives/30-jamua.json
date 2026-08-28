@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/8139bf4fabda29c655b192507a434339ca642b68.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=846"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric From S.B.M.K. High School Bhandaro, Giridih Bihar Vidalaya Examination Board, Patna, Year-1994"

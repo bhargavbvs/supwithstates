@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Tripura2023/75a1d2e76348efc33c3353cf083a9fb7637fce71.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Tripura2023/candidate.php?candidate_id=6884"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Economic) From North Eastern Hill University (NEHU) Shillong Meghalaya Year 1988"

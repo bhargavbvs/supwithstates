@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Ex-serviceman/public leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/9fbc283ceddb352d65cdd0033686295df73232c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=26"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineer (Civil) from Delhi College of Engineering, Delhi University in 1989"

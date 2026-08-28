@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 65,
     "profession": "Social Worker, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/d433590e57def4aa345641ca4a0cb84085d0365c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=828"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Aglo Hindi High School Yavatmal"

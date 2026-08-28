@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 39,
     "profession": "Salary, Business and Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/b724e4f133ecad5fe3104b49c9cb9c03332261a9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=466"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Geography) From Vardhman Open University Kota Year 2018"

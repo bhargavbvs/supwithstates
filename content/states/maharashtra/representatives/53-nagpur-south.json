@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Business & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/ac484fb2ee32f7fa82a831349a78595270e47481.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=572"
+    },
     "education": {
       "level": "Others",
       "detail": "ITI in 1988 from Govt. Eng. Edu. Org. B.T.E. Mumbai, SSC in 1984 from Navbharat School, Maharashtra State EDucation Board"

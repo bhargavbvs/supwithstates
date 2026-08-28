@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 62,
     "profession": "Member of Bihar Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/8a6b72a3ffc53a2cc614889c1b3858ae8843eee8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2806"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Bharat Sevak Samaj College Supaul In 1986"

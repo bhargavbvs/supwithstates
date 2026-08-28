@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "NIL",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/e5ad35c937eeedfcd77e8a9ab2671a8f4eadaf4b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=229"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "S.S.L.C, Anchal East High School, Anchal, Punalur Taluk."
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=229",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

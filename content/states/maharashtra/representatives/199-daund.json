@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 47,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/036e40266b121617be7f64e7b9432235bab2c55a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=909"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From ILS Law College, Pune-Pune University Year 2000, B.A. From Fergusson College, Pune Pune University Year 1997"

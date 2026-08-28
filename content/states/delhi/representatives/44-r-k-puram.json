@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 53,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/8f38b758007b1e230bf6a765c71e630e10d4c191.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=342"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A.Hons.Political Science, 1992 From the Ram Lal Anand College Delhi University"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 52,
     "profession": "Advocate & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/e322d9429245857ab693f59f7e86bc8a02804e32.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=428"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Patna Law College, Patna University, Year-2006 & Graduate From Magadh University, Bodhgaya, year-1994"

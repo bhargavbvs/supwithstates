@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 73,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/53101c34531b963aba2764b9ef750837e1c84f1d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7881"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from P.C. Jabin Science Collage Hubali of Karnataka University Dharwad in the year 1991-72"

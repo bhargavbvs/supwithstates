@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 46,
     "profession": "Property Business, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/383832f1b7eadd3680a06fad5b1400c4dcd1c025.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1422"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School from Sarvodaya Sanskar Higher Secondary School Ghora (Tikamgarh) Madhyamik Shiksha Mandal MP Bhopal in 1998"

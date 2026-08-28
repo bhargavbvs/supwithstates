@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 65,
     "profession": "Social Service and Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/eec39ada9755c3ae51586b124cf239464f32fda4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=337"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matriculation from Arya High School Kurukshetra in 1975-76"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Agriculture and Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/bd39bfca3a519f07c2aa29ab9398c9bc33e08cd8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=243"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc.(BZC) From Vanitha Maha Vidhyalaya, Nampally, Hyderabad, Year-1988"

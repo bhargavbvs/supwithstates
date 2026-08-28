@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 46,
     "profession": "Business Income from Nayak Enterprise",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/04fc1f98396a4ad21429a7c9c5d84db9c6ad24ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=1125"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from Berhmapur University, Year-2012"

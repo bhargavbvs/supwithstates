@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/54c64179382efc8cce572331b7e1061bf2e63978.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=320"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate, AP Intermediate, Inter at Govt College Bhonagiri, Yadadri Bhonagiri (Education) 1980"

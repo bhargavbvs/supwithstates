@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Housewife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/69f9a5daef4af5cf77f1bb1953f99a7c70f0f3c8.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=159"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed From Bharat Mandir Inter College, Rishikesh in 1990"

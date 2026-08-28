@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Ex. Member of Parliament Lok Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/cc0749dfa702bf8d6a39466f44f9f3b8f0948e38.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=78"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master Degree in Dental Surgery From Ahmedabad University, Gujarat, Year-1991"

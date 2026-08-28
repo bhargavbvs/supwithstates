@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Public Leader & Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/4bfeff8bbaabfb72b5740f8caa74ec4cc594cd28.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=62"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce (Honours) from Jawaharlal Nehru College, Pasighat under Arunachal University (now RGU) in the year 1991"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/0e5250bbef29090fcb25d22d38eb6c2f18b559ac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=693"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Ruparel College, Mumbai, Mumbai University in 1993"

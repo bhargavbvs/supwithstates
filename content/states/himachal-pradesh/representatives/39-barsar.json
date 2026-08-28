@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Social and Public Service / Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/HimachalPradesh2022/4239d4cb1df81fb93c5c6b331e07f2cbd6d3d4a9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=484"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Obtained Bachelor of Arts from HP University Shimla in 1983"

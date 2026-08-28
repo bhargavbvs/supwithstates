@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Own Business, Agriculture, Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/17b115b476160607184eda184818cc9ddac03d47.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=846"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA - Symbiosis International University Pune-1995, L.L.B- Symbiosis Law School-1993, B.A., St. Thomas college Palai-1989"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=846",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

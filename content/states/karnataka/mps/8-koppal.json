@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/7b372876d0fd84c10bae343e3167f29a61a2b0b0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3400"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "PUC-Science JSS College,Dharwad,1997-98"

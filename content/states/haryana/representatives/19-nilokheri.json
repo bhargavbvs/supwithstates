@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Social Service, Khadi Worker and Consultant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/e7913c3aa724a5835be3cb18814fcebff40ee304.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=359"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from MG University Meghalaya"

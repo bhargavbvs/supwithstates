@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Social Worker, Building and Construction Contractor, Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5df5027c8013608ce1f582bfc37f05fb37d25f47.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=402"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B. Com Ist year 2014-2015 Yashwantrao Chavan Mukt Vidyapeeth Nashik, 11th Commerce, Deogiri College Chh. Sambhajinagar,"

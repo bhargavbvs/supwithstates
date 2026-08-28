@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/62d266eeb0c769b8f37559e0a42778bfd9aa3a0b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=35"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering Ramu Seetha Poly Technic, Kariapatti, Kamarajar District, Year- April 1991"

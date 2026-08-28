@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/0db4c22bb5136cd48994c9d61d976a5735989079.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1691"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Sadabad Inter College, Sadabad, Madhyamik Shiksha Parishad UP, Allahabad In 1976"

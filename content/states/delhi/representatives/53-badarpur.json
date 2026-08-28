@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 69,
     "profession": "Agriculture and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/2d7d4daf8fcf70d6fe1da6dacb02020b02ac2c4a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=79"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Class Pass, Govt. Sr. Sec. School, Badarpur, New Delhi- 110044, Year 1968-69"

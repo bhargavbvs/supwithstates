@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Politician & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/1a5807ed26f2a816aa4346e599e6ef79ffde407c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=17"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Completed Class XII from Tashi Namgyal Senior Seconadry School in 1987"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Political Leader, Business and Agriculutre",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/aa76c33a41a58097c648950dfe6b17c89eea2a91.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=142"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric Pass, from P Swami Viveka Nand High School Balidih Under Jharkhand Academic Council, Ranchi in the Year 2021"

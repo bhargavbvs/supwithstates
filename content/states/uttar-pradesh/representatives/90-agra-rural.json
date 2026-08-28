@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 65,
     "profession": "NA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/8242c686e068f1e1a9daaedc82844b89e61213d2.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=87"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. , B.Ed from agra University 1979-1980"

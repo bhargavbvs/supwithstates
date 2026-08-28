@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Business & House Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c750d298b686c0a7ceec4b261f2dbcb990ebca8b.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1685"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from D.S. College Aligarh, Agra University Agra in 1991"

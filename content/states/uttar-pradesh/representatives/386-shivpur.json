@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Agriculture and Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/bf3c3c6de3028476adcee2c23c01f0fb3fbd5c19.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4429"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Geography) From Ruhelkhand P.G. College Chandauli"

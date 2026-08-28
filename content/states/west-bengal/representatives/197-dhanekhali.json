@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 58,
     "profession": "Member of Legislative Assembly & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/ff9a8c74bbd41a156c7c146fd90f270a6dc2e1e2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1950"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Examination from West Bengal Council of Higher Secondary Education in 1988"

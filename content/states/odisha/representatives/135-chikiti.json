@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/9c22fdf3b605d76257e8839ab0fd5f7e78b567eb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=4"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Pharmacy from Orissa State Board of Pharmacy through Roland Pharmaceutical, Berhampur, Dist: Ganjam in the year 1994."

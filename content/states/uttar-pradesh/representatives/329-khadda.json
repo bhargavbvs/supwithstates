@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 41,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/e3fd2463af1e9bc5cc5b40f616c9947a7f4bac92.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3970"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Passed From Nehru Inter College Meshadpur in 2001"

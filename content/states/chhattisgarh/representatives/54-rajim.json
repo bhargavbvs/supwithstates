@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Agriculture & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/63cadf96f9f35f5db793bb0023fdc312c6885e00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=512"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Chhattisgarh State Open School, Raipur, Year-2015"

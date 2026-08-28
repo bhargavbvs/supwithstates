@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 60,
     "profession": "Social Work, Agriculture, Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/43c32efbd601da2f999a2a95a849c98a6d38a32f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=324"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Matric in 1980 from Harve High School Japla Vihar School Patna"

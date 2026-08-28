@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 69,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/75befe6f43369b4fdef520b415b27d3bfab6a9f1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2401"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter - Darshan Shah College Katihar (Mithila University Darbhanga in 1974)"

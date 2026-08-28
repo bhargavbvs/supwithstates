@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 68,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/2e1be941c11813751e475df5423b538c52d5ef08.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5118"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Economics from Loyola College, Chennai University of Madras in 1976"

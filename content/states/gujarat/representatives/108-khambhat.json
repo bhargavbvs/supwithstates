@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 45,
     "profession": "Contractor, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/4bf726c61f7c10c21b526862d05ac40dc31623a2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6757"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th Pass From GSEB Shrimati K D Patel Highschool Ralej In The Year March 1994"

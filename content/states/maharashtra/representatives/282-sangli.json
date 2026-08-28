@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/f0fa5e510da3fa648739e8952124377d5465989f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=321"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from Chintamanrao College of Commerce Shivaji University in 1974"

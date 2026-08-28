@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/bb7d0de890bd0273ce9dd53b2e48468ad0438599.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=113"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Anthropology) from NEHU in 1984"

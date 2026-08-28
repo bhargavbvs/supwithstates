@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/eae376331c993cd59409b1b70f5460e6c006188b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1036"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSLC Government Higher School Manavalanagr Thiruvallur March 1998"

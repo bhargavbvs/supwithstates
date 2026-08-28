@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 66,
     "profession": "Social Work, Govt. Salary Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/bihar2025/d5603ca41e772c9334dfaee79d07dbb94b41ea5d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1802"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th from Lalit Narayan Mithila University, Darbhanga in 1976, 10th from Sumrit High School, Banmankhi, Patna in 1974"

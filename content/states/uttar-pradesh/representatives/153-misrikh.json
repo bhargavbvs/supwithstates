@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "Agriculture & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/02e067a3b48d9789cf5d585af763df3a9d97731a.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2451"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermidiate From Raja Raghuvar Dayal Inter College Sitapur in 1976"

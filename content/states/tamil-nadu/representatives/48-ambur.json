@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/1673a248d943bef07840ce571291ef1bb09f194d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=753"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "P.C.U Fail-Mazharul Uloom College, Ambur, Course Completed-August-1980. S.S.L.C -Government High School, Machambut, Umrabad Post, Gudiyatham Taluku, May 1975 -passed"

@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Earning a Living by Farming and Sarpanch of Gram Panchayat Silpuri",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/4b02cc34b8ff9b4e9ad5f9867706c543b7ddc133.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=2959"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Sociology from Jivaji University, Gwalior M.P. in 2013"

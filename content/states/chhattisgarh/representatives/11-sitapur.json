@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 31,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/1f3745df4d34fb450f92dfcbbfc0c5a15a6b3a25.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1224"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Mats University Open and Orang Raipur"

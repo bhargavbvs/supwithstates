@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Social Worker & Legislature Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/f8ce45f96282e36306e1bd5492f9ebb4b443fee2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3096"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Highschool from Uttar Pradesh M. Shiksha Parishad Allahabad (S.P.I.C Raniganj Kaithola Pratapgarh) in 1991"

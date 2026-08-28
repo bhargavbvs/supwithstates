@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Pension , Agriculture Income, Rent, Income from Partnership firm",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/297bc188b28e5e4e6d0ea1a8bdac920973c593e8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=17"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate Year - 1991, Avdhesh Pratap Singh University Rewa (MP)"

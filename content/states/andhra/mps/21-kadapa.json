@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 39,
     "profession": "Agriculture and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/e37bfc8a95a6f9ffdc9fb9f8db8b8670c0dc9df7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5111"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Business Administration from University of Worcester, UK"

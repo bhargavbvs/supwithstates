@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 50,
     "profession": "Agriculturist, Educationist and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/4e8a2d17d11f4cfce9cbccd18fc51db3cd57e7df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=4005"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BBM- Bachelor of Business Management from Kuvempu University April 1994"

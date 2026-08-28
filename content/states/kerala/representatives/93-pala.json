@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 69,
     "profession": "Film Producer, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/f400b7da9d4990f12793692c287c40a941b5f541.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=201"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre-Degree Govt. College, Madapally, Christ College Irinjalakuda, Calicut University-1977, SSLC, St.Thomas High School, Pala"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=201",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

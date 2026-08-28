@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/2da85f926d2ad6b4dbebac4dfdf8835f8dd4e54a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Licentiate in Electrical Engineering (LEE), From Jagadish Chandra Polytechnic College"

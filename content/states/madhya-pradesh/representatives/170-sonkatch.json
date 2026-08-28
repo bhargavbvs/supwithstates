@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 55,
     "profession": "Hostel, Brokrage, Agriculture, Fomer MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/97fc48116d9ea35891e550ec328b0c238b34f615.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=449"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph. D , Devi Ahilya University 2014 Indore MP"

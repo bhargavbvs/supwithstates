@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Agriculture, Rental Income, Interest from Bank, Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/d48b004f1a51b5e9696fa5ccc49024fc1d87e8c1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=399"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass From Higher Scondary School, M.P Board, Year-1978"

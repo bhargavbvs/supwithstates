@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Ladies Parlour & Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/062d6dec533ed49307df339c77f4a17bc029a323.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=195"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A.,(Political Science) Annamalai University Year-2005"

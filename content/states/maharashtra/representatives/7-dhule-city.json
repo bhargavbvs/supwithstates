@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 50,
     "profession": "Business & Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/2ef1421c3b0fe28d57258b4c3399ea4d6f9ccf4f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=214"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass (Higher Secondary Certificate) - Commerce Year 1993 Jodhraj Ramlal City Highschool Junior College Dhule"

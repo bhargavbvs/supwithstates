@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 73,
     "profession": "Social/Political Worker, Assembly Member",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/8cfc79e3f8a2fca785326368052216800c6c6443.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2574"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from MS College, Motihari Bihar University Muzaffarpur in 1973"

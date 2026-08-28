@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Aman_Arora.png",
+      "credit": "ABP Sanjha",
+      "license": "CC BY 3.0",
+      "source_url": "https://en.wikipedia.org/?curid=56934615"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Punjab University Chandigarh in 1996"

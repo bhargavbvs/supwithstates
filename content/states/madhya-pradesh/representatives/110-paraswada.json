@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/9f63848890109ba8907cd6b28a53b81d68b543a6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=77"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Hit Karini Gorakhpur Jabalpur, Madhyamik Shiksha Mandal Bhopal In Year 1986"

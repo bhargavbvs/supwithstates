@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 49,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/de8c0a314e0fe28cd155c6bef9cebc485c2c1f72.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7151"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Homeopathy Medical Science, HKE Societys Homeopathy Medical College, Gulbarge University, Gulbarge in 1996"

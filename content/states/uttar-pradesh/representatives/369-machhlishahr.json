@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 31,
     "profession": "Doctor",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/4bf761b1bbb4d21f8cf76299a25a94fd335825bb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4722"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBBS, MD of Thermologist Eye Specialist From AIIMS New Delhi"

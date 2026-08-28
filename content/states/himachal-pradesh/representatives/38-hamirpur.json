@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Agriculturist and Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/HimachalPradesh2022/62d08294effe276a38f55f242513cc3e2227fa98.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=514"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Tech. in Electronics and Communication Engineering (ECE) from Jaypee University of Information Technology, Wakanaghat, Dist. Solan HP in 2009"

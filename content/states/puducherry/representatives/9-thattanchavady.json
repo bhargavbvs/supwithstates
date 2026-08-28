@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 75,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/9d369faf61013562c3eb9e5ed97523a6bc5ea01d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=54"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Commerce, Tagore Arts College, Puducherry. Bachelor in Law Ambedkar Law College Puducherry Year 1977"

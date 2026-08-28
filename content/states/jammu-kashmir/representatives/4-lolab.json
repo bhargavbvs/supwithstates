@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Social Activist/ Politician/ Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/8f3b7d70b51e40df9f5058e90870fb91dd38962c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=593"
+    },
     "education": {
       "level": "Others",
       "detail": "Forestry DDR FTI Haldwani, U.K. Year-2000"

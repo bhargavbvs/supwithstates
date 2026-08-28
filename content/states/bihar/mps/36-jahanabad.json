@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 65,
     "profession": "Business And Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/9e0ab3fcb7566eab5727e14f9d280e8968f4fa64.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9601"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A.(Budhist Studies) from MU Bodh Gaya, I.A., B.A.(Pass), BA(Hons)Pali"

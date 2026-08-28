@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Agriculture, Social Work, Ex-MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/6660cad63427b96d235cf70a91b50e8f076fdf76.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=870"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Fail from Adarsha Vidyamandir, Ghatla Chembur Mumbai 400071"

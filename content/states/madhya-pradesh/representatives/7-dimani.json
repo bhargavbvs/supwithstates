@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 66,
     "profession": "Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/462871e4a2a8ca63ea1c61cc5b55cf341f5a5079.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=684"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Govt. College Murar Jivaji University Gwalior in 1980"

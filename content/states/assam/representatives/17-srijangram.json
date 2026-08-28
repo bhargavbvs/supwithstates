@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Business of Trading in Goods",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/d44fd9791d0db82237bcd82611402c1cfd9d855a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=774"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc from Gauhati University, Abhyapuri College in 2003"

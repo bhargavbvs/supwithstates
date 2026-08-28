@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 51,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/f0b2e38564b9b8832f595c8c4dc36539d953ad24.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=888"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Inter Pass from B.L.N.L. Bohra College Rajmahal, Bihar Intermediate Education Council, Patna in 1991"

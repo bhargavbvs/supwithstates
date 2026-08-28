@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "LICI Agent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/beb291d0a14f5938e360525699c1ec6e96e02464.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2288"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts. (History), From Sripat Singh College, Jiaganj, Murshidabad, Passed in 1993."

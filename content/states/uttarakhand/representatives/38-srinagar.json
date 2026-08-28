@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Minister in Uttarakhand Govt.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/1cfd3f4713b77a50ace7a5076fe1958bbf6492e8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=96"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy From Hemwanti Nandan Bahuguna Garhwal University Srinagar Uttarakhand, Year-2006"

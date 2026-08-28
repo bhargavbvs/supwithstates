@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "Social Work, Politics, Ex. MLA, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/7da23820c963ff02b076c51a2276a8b2171b3049.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=61"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from G.L.A. College Daltonganj Ranchi University in 1987"

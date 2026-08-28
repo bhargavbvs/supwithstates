@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "Social Service/ Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/46014a293700f19bd48f47f47a4f9da5f7f61880.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=689"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. Shree Pancham Khemraj Mahavidyalay, Sawantwadi Mumbai University, Year-1975"

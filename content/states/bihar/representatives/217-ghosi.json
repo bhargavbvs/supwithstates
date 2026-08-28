@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 36,
     "profession": "Advocate & Social Worker.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/f349407b55f4598abca50f0296cbc2928977d6f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1931"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA LLB From Symbiosis Law School Symbiosis International University in 2011"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Agriculture, IOC Dealers and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/af811e8accc0bfb26b38afd6ed232533ff1b5e1e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7202"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA from Bharathesh College Belagavi Karnataka University Dharwad in 1999-2000"

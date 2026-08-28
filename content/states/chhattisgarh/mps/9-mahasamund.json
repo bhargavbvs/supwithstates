@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 47,
     "profession": "Agriculture & MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1babd8dd85dd2490bde303bc3036b4c2df2d6f25.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2129"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (Political Science) from Late. Shri Virendra Bahadur Singh Govt College, Saraipali, Pandit Ravishankar Shukla University, Raipur CG in 2023"

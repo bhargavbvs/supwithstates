@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Petrol Pump, Agriculture & Govt. Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/90ddb7d5e737e5d0351a957956ae9d115400ea22.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3681"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. Geography in 1975 from Shivharsh KIsan Post Graduation College, Gorakhpur University, Gorakhpur"

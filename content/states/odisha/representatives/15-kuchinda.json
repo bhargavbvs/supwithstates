@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Social Service & Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/12ec0d63f3c7fa814b938f0b175e09eb08e8231f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=780"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Secondary Education Odisha, Bhubaneswar, Kuchinda College, Kuchinda in 1991"

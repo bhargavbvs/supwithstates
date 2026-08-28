@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 46,
     "profession": "Director in 2 Company",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/4c0be1c337579fb5ba7efb2ba9f16ecfa79f1f04.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=237"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass in Arts From Haryana Council of Open Schooling, Year-2014"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 59,
     "profession": "Employed ( Rental Income)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Delhi2025/929a2c77439285d251db4a71c5a1d2aee9ffd8c9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=102"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From CBSE Delhi 1985 M.L.Govt Sr Sec School Narela Delhi"

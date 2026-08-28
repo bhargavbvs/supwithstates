@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Teaching",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/765b21c05d25162a2e1b8b0da14c3c5a005f09fb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=260"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA from AMU, Aligarh in 1993, B.Ed from AMU, Aligarh in 1994"

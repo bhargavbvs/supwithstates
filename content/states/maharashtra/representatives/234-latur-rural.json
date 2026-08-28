@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Agriculture & Executive Director",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5555783227367a56ed05c0926fe7bf58c7fb5e81.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1114"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. Dr B.A.M.B.Aurangabad 1995, B.Com. Pune Vidhyapeeth , 1988 October"

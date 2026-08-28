@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 37,
     "profession": "Colored Fish Businees",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/ae7146704be7c3d13c5fe7986c5af85aae11cc8b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1031"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Arts & Bachelor of Laws Vikrama Simhapuri University Andhra Pradesh Stare 2017-2022, Diploma in Electrical Engineering PD Chengalvaraya Nayakku Polytechnic College 2005-2008 Class 10th STD Josephs Higher Secondary Secondary School 2004-2005"

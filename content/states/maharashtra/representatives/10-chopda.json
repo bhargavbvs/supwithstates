@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Pension & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/d2a9562121baa1bf655ef34e7c395095c11db5f7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=888"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc (Zeology) from M.J. College, Jalgaon, Pune in 1988"

@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 49,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c91f5d057914d3e2c65f27a9e6b1827c2488dc7e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=6416"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Christian College Indore, Devi Ahiliya University, Indore, Year-2008 & B.A. From, Govt. College Barwani, Devi Ahiliya University, Indore, Year-1996"

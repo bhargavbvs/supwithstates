@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Agriculture And Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/211edf34970930e02cb88f66e99a3a7fb4a1c639.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1208"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A From Yashwantrao Chavan Maharashtra Open University Nashik In The Year May 2009, SSC From Pune In The Year May 1981"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Govt. Employee",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/ce2c04f5fcf03bc6968534189407c51b83c9e200.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=785"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Education from University of Kashmir, Hazaratbal Sgr in 2011"

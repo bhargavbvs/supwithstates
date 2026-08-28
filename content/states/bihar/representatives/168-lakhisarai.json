@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 58,
     "profession": "Social worker, MLA, Minister",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/4fb433e2e622fe39ea65556a971d1cdf6e7e291f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=116"
+    },
     "education": {
       "level": "Others",
       "detail": "Civil Engineering Diploma State Polytechnic Begusarai, Science and Technology Dept. Bihar Govt. 1989"

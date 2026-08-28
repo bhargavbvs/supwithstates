@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 64,
     "profession": "Social worker, Agriculture, Dairy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/5210c07026b1672f870a57ebb023cc30219b4380.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=1173"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from Jagdam College Chhapra Saran Bihar University Muzaffarpur 1980"

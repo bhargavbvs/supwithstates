@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 48,
     "profession": "Retired Joint Director, Enforcement Directorate, New Delhi",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/36debbaedbdb39eff6e6336b58cf785d531ae0dd.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2632"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from Uttar Pradesh Rajarshi Tondon Open University in 2011"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/3abbee47ee6daa6eab70132a52b360b740acb419.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1184"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (Civil) from Walchand College of Engg., Sangli, Shivaji University, Kolhapur in April 1991"

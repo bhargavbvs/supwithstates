@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Dentist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/945c6502d4fab2195b7b61dc45fc7a0bf8e3bb6e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=58"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "FICOI- Fellowship,Colombo,Sri Lanka,2019, M.Sc Gothe University Germany 2022"

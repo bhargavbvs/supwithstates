@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 53,
     "profession": "Member of Legislative Assembly, Books & Stationery Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/b2a1cbc38f30b02aadb69a25ff7496ea2b392444.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=67"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. From Nowgong College, Nagaon, Gauhati University, Year-1993"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/e1110d6474f869e21b658cc53d7973ce6426f27d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=71"
+    },
     "education": {
       "level": "Others",
       "detail": "10th Class From Govt. Junior College Godawarikhani 1978-1982, ITI from Govt. ITI College Peddapalli in 1982-1985"

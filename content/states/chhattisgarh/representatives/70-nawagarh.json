@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/1b0ef177f162f07b0d500949d7552bc554c5d6ac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=349"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class 9th Pass from Govt. High School Sambalpur, Dist. Bemetra In 1968"

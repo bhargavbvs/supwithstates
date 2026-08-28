@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 53,
     "profession": "Director & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/79a8ff7ae001c588d7c1b71e09bfc22f397068e3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=232"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "C.A., The Institute Of charted Accounts of india 1995 , B.Comm from University of Jodhpur in 1990"

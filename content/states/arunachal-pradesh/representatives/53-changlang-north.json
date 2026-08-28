@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Deputy Speaker, APLA (Govt. of A.P.)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/654b8192b56a6f01d7688373c36ed2d305dce674.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=19"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Rangfrah Government Collage, Changlang Arunachal Pradesh"

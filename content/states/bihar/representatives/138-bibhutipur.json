@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 55,
     "profession": "Agriculture, Politics (MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/a433d09cc33192241634e2aedfa7cf1957575221.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=269"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate From Samastipur College Year 1993, LL.B From B.S.G College TMN"

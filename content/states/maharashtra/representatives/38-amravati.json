@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Social Service, Agriculture,Retired",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/cfbd5bd9d32b3b82cc99df35b2cd6dca17599b89.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1232"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA-Political Science, Shri Shivaji Arts and Commerce Collage, Amravati, Amravati University (1988)"

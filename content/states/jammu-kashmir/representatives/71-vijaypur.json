@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "Business (Family Business)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/9cb7fd500a6f61ba6906f7c7f19b8713ea245c8a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=827"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Maticulation in the year 1981 from J&K State Board of School Education Jammu form Govt. High School Khairi"

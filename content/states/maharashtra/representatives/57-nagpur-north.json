@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 72,
     "profession": "Member of Legislative Assembly of Maharashtra State",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/edb48364aa8c6f171e7b30c2157d6454c090d8cf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3299"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D. from RTM Nagpur University Year 2007, M.A. from Nagpur University April, 1995"

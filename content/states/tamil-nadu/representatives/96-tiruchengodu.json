@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Doctor, Ex-IRS, Tax Consultant, Politican",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/e157faa7bfe53108f98340299a0c44f65ee6ec6d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=975"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Medicine and Bachelor of Surgery(MBBS) , The Tamil Nadu Dr.M.G.R Medicial University, 2002"

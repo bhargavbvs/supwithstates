@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Manpreet_Singh_Ayali_new.jpg",
+      "credit": "Amrit.singh7158",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=42061333"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Completed Bachelor of Arts-lst Year from Govt. College (Punjab University) Ludhiana in 1993"

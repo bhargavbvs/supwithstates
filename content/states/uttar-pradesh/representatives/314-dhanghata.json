@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 35,
     "profession": "Agriculture, Retired Govt. Job",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/7a93ad55e10fba62ec478769379529ec259b1d28.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3896"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from Deen Dayal Upadhaya Gorakhpur University in 2011"

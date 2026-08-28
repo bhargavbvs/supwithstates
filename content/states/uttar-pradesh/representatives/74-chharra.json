@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "MLA Salary, Allowances, Rent & Saving Account Interest",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c00715da53f81d6a0d1d60ced0ca257f2e37f092.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=105"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School in Year 1980"

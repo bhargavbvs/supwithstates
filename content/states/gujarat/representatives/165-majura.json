@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 37,
     "profession": "Diamond Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Harsh_Sanghavi.jpg",
+      "credit": "Harsh Jain",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=44251956"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass From T And T.V Highschool Nanpura Surat Year 31/05/2001"

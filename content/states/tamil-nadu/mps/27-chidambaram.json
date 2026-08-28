@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 61,
     "profession": "Ex. Thirumavalavn [Political Party Leader]",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b8842e81a65880943b3cc4131832c2545f572d1f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=816"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from Manonmaniam Sundaranar University, Tirunelveli 2018"

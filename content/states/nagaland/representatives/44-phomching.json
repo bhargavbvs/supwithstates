@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 67,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/1286568b5684db55a78547f7542b8ae6eae3fb97.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6847"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "Class VIII Govt High School Jotsoma Nagaland Board of School Education in 1979"

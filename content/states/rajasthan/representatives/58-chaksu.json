@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/ee0086d1e94b37ed0dccdab22f73e9de366f4a12.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=168"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10Th Pass From Rajasthan Open School Jaipur Year 2017"

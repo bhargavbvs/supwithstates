@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 58,
     "profession": "MLA, Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/e4e4bb93514e7f1fbf21be16c2c49930dd11c25b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=778"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Commerce from Dr. Babasaheb Ambedkar Marathwada University, Aurangabad in 1991"

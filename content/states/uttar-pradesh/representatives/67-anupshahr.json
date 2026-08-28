@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/0a3479ca40de7c62d3a2f46cd43314c60d7b0fc7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=39"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.E.(Master of Engineering) from Delhi Engineering College in 1997"

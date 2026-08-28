@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Member of Legislative Assembly, Mizoram",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/bbb9d1d59c4aa844163a7450dd88f875ed2bd378.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=142"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "VIII in 1976 from Govt. Region high school lawngtlai"

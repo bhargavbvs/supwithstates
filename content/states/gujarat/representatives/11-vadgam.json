@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 42,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Jignesh_Mevani_Social_activist.jpg",
+      "credit": "Gazal world",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=51251332"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Gujarat University Year 2013, Post Graduate Diploma In Journalism Bhartiya VIdhya Bhavan Rajendra Prasad Institute Year 2004, B A From H K College Gujarat University 2003"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/179ddac97a80182a4092d7928280abd59aacfdca.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2943"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce (Graduation) from Calcutta University in the year 1997"

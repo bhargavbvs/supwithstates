@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Business (General Order Supplier & Transport)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/04f0df4f856f78d5cab9ac3f90e78cef3a41fb02.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=245"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts (Honours), 1998, Contai Prabhat Kumar College (Netaji Subhas Open University)"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 70,
     "profession": "Writer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e6d264d9424574bffb987a78ad15116c4a0845cf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2397"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Doctor of Philosophy, School of Oriental and African Studies, University of London, 1980."

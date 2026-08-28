@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Agriculture, Pension and Interest from Bank",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/527b66b12453a6c6833da59646624b773f021a23.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=389"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th Pass Shasakiy Ramanuj Ucchatar Madhymik Vidyalay Baikunthpur Dist Koriya Year 1967-68"

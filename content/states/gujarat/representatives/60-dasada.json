@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/43f8fd15203ceed58efad28d8cf5cb395e3bae66.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=5308"
+    },
     "education": {
       "level": "Others",
       "detail": "Civil Engineering From Govt. Polytechnic College, Rajkot"

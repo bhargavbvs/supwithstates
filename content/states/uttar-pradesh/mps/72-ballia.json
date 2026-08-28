@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 61,
     "profession": "Agriculture & Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/080d57481a5b56997b15908aa072309280ee314a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=9447"
+    },
     "education": {
       "level": "Others",
       "detail": "Civil Diploma from Govt. Polytechnic Mirzapur in 1980"

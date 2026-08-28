@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "MLA Jharkhand assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/9b988940731b0bfd1dbba8d60d4517103b47a560.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=311"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Silly College Silly, Ranchi in 1992"

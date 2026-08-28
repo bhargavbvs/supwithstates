@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Lok Sabha member",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/d509506e49f6d085ba0c9d59e62734bae2db79a7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=301"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Higher secondary School (Chritstian Higher secondary School Jabalpur Year 1978), B.S.C (Shaskiy Science College, Rani Durgavati University Jabalpur Year 1982)"

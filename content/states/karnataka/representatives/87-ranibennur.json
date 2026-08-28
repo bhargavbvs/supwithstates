@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 54,
     "profession": "Business and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/05020d07c7a58bd5093bd4f19e0ab5dbc6778406.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7736"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. Malnad Technical College Hassan in 1987-91"

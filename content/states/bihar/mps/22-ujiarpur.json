@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 58,
     "profession": "Agriculture, Animal Husbandry",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/dcf08f04a60f125cfcd1eb648da584947c444d00.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5152"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA Honors from RN College, Hajipur, Bihar University Muzaffarpur in 1986"

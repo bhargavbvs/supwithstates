@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/4912a9e1979a1a94f351cc7c33a2a1a20811e256.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1629"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary From Shree DIDOO Maheshwari Panchayat Vidyalaya in 1989"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 43,
     "profession": "Rajasthan Assembly salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/fb447d614d21637685b47d252ed42667ab728718.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=3"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Ed from Maharshi Dayanand Saraswati University 1999"

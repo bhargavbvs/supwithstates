@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 65,
     "profession": "Agriculture & Petrol Pump",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/a5271e1f1d456ea7e06a4b1a5ca719782938a012.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4631"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate From Gorakhpur University Gorakhpur 1977"

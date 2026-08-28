@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 65,
     "profession": "Politician Retired Government Employee and Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/165a79cf003e6ce3e572ef53574af80893351156.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=122"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th From Tashi Namgyal Senior Secondary School Gangtok Year 1979"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 63,
     "profession": "Social Work and Pensioner as Ex-MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sapam_Keba_portrait.png",
+      "credit": "Tether450",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=48886110"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Science from D.M College under Guwahati University in the year 1978."

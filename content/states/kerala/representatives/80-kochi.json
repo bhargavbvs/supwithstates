@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/b9b731afcf5c3abd9a4fc28c555e4efaedcf004d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=121"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. Economics From UC College, Aluva, MG University, Year-2000"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=121",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

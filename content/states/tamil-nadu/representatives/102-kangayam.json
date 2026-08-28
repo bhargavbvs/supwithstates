@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "Agriculture, Business, Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d4736422e34a7d877f3435136850f748f1c229b2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1364"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Alagappa University, Karaikudi, Distance Education of Alagappa University, Government Higher Secondary School, Kangayam, 7th Standard-1971-1972,"

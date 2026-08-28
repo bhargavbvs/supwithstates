@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "politician & Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/096b9aea75436a167d32d4161fca542ad60854c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=179"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC From St.Pauls High School Himayatnagar Board of Secondary Education Year 1984"

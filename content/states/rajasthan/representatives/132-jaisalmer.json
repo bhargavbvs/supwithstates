@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "Agriculture & Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/e43e9514a1b041ca0d9957f633de95e7ff5b868c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=218"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary Passed from Board of Secondary Education, Rajasthan Ajmer, Government High Secondary School Jailalmer in 1973-74"

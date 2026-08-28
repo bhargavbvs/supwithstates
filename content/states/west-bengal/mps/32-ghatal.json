@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 41,
     "profession": "Professional Actor, Member of Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3f1a1389b8c55d29f6c737f206b0fc016eb66cae.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7933"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma In Computer Technology From BV Jawaharlal Nehru Institute Of Technology (Bharatiya Vidhyapeeth) In Year 2003"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/55adec8366c26e9961ae891e7a4add86e6a189de.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=123"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School Leaving Certificate from Senairam Higher Secondary and M.P. School, SEBA Board Assam in 1988"

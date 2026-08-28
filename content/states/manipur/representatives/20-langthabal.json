@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "Worker/Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Karam_shyam.jpg",
+      "credit": "Robinson1144",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=53451972"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Textile Engineering from Govt. Central Textile Institute, Kanpur (Under Kanpur University) in 1987"

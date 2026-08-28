@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Private Tutor, Sitting Member of West Bengal Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/78323d2a94c5e89b10c5a4e1009e6390854f626c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=385"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (English) from The University of Burdwan In 2009"

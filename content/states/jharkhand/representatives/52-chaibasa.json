@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Politics , Agriculture & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/8a092a0292636808b7bdeabc1ceadc0f40e548ad.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=139"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation Tata College Chaibasa Ranchi University Ranchi 1990, Inter from Ranchi College, in 1985"

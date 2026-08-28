@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "Farmer and Income From Home Property",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/a764fe89666d5dc9e9d7c5b3c01067cce398445a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=272"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. hindi from Pt. Ravishanker University in 1986"

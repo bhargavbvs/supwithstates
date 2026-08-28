@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 50,
     "profession": "Farmer, Retd. Teacher, Machinery rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/b5eda6f07f6660d713343cd0d317eb438d397730.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=23"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate (Social science) in 1998 from Rajiv Gandhi Govt. College Banda, Dist. sagar , Diploma D.Ed. 2007"

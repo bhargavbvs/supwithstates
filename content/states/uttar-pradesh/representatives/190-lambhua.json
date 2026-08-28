@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 72,
     "profession": "Pension, MLA Salary and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/981d6ead489058bf11cf6db7d99c90dc9a65f3b1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3549"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Allahabad University Year 1972, LL.B Lucknow University Year 1985-86"

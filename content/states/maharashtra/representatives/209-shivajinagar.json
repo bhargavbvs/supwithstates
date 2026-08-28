@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 45,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/4e784f8ca1fa2437fe4e7f7a5c6682a51adb997a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=704"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor Of Engineering Mechanical Engineering From University Of Pune AISS Memorial Societies College Of Engineering Bori Bhadak In The Year May 2000"

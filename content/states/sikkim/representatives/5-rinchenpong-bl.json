@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 32,
     "profession": "Businessman, Agriculturist & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/0ae2d6b7c3ad60c54d20d7ced09a485929177fbf.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=95"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor or Arts From University of Delhi in the Year 2015"

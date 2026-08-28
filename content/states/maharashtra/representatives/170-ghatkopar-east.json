@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/e901d6a848d1a8d30b8f9fab506634e4aa5018ac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3410"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce from Board of External Examinations Osmania University in 1990"

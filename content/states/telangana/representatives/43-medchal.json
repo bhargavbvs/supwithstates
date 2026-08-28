@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Member Of Legislative Assembly (MLA), Telargana State Private Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/c4706cefe00bfba201218682e4fd4e89328cf1da.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=198"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate from Raghva Laxmi Devi Government Junior College in 1973"

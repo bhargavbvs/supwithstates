@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Agriculture Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/ef5997f050d94171f944b6841b5cd6bb440aa97f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=109"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed From The University of Kashmir Shri Nagar in 2007 B.A. 2004 Maharaj Gangasingh University Bikaner"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 71,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/47f3b862fbeaf3b99eee5b776828881cf8f52772.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1170"
+    },
     "education": {
       "level": "Others",
       "detail": "PUC From PACHAYAPPAS COLLEGE, MADRAS, YEAR: 1979 & ENGINEERING TRADE IN MECHANIC, (DIESEL) NCVT YEAR: 1984, CHENNAI PORT TRUST"

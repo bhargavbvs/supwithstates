@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Ex-Legislator/ Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Nagaland2023/a5e493178d7dd657559b12ca365bd8c990b152cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6854"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. From Manipur University, Year-1990"

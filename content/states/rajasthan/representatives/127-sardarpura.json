@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 72,
     "profession": "Presently Member, Rajasthan Legislative Assembly and Chief Minister, Rajasthan",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/eb54ceb5cb6704e4620c14505029582450664cea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=389"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. (Economics) in 1973, Bachelors of Law in 1976, Bachelor of Science in 1971 from Jodhpur University"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 32,
     "profession": "MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/26ea1af5eab6d3fe78be17481744dcf26a74dbe4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6842"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Sri Ram College of Commerce Under Delhi University In 2012"

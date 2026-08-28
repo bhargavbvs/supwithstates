@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Public leader/Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/3540b23f54b97d70aaa36924201444b82f139745.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=76"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts in Political Science from Rajiv Gandhi University Doimukh Rono Hill in the year 2004"

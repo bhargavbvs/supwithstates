@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/33473de69a0f370add6ffeeff08483ce48afb4cd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=659"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School from D.A.V. Inter College Dehradun UP Board In 1975"

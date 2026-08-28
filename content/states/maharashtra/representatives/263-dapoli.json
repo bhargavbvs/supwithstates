@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Agriculture, Consultant And Land Developer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b7941de3d61b59f41bd99dc918636ba59be377c7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=206"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com From Alagappa University In The Year 2017"

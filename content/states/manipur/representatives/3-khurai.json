@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 38,
     "profession": "Member of Legislative Assembly , Social Worker & Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/L_Susindro_meitei.jpg",
+      "credit": "Chendunapukhare",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=69865730"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Passed Higher Sec. Examination in The Year 2001 From Ng. Mani Collge Under Council Higher Sec. Education Manipur"

@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 67,
     "profession": "Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/c473638bc9180deab3eeb22f16a372c3e6ca6cba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5122"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Diploma in Gemology, Gemological in Mumbai of India 1996, B.A (Litt) SIET Womens Chennai 1974"

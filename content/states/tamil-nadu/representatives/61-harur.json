@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/41c720b8e5e6cc0fac89b91141e669e2c28c7cf1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1162"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. from Tamil Nadu Teachers College, Chennai in December 2010, B.Sc form Government Arts College Salem, University of Chennai in April 2001,D.Co-op from Nachiyappa Cooperative Management Training Centre, Salem in July 1995"

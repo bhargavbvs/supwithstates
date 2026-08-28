@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 69,
     "profession": "Members of Legislative Assembly Honors and Salary as well as Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/3ca87893e04d664727c5e61db31f0fb510681f87.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3294"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MD (General Medicine) from Government Medical College, Aurangabad in 1988"

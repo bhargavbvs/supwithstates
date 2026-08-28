@@ -16,7 +16,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Agriculture and Salary Received as a Member of the Lok Sabha",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/1765e9e3eb08ce1f3a97766249dca190a2278701.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=1256"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Durg College Raipur Chhattisgarh (Pt. Ravishankar Shukla University Year 1982)"

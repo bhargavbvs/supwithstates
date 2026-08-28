@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 39,
     "profession": "Agriculture, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/7f1be1e882d97679c79d75b251d02cbb8066ec2f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2426"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from CM College Darmbhanga, LMNU Darbhanga in 2010, DCA from AICT Darbhanga in 2007"

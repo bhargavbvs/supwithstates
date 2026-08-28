@@ -16,7 +16,12 @@
     "term_start": "2024-12",
     "age_at_election": 32,
     "profession": "Practicing Advocate at High Court of J&K",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/aaafb435fe636c59cf4361603048561784abb571.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=1042"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLM (Constitution Law) Amity University (2018-2019)"

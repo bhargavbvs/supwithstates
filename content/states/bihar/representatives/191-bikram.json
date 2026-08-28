@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 44,
     "profession": "Agriculture & Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/7853d2d023e034f61ba3846e8b82e456977a25e5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=513"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate Science College Patna University Patna Year 1999"

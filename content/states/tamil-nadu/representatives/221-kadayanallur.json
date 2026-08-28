@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 61,
     "profession": "Agriculture and Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/9a2639cd971748603f295dc4d850ba44b23e34ab.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1165"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A(Public Administration), Madurai Kamaraj University in 1994, PGDPM, Annamalai University in 1992."

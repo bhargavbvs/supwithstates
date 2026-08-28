@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 57,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_Chief_Minister_of_Himachal_Pradesh%2C_Shri_Jai_Ram_Thakur_calling_on_the_Union_Minister_for_Human_Resource_Development%2C_Shri_Prakash_Javadekar%2C_in_New_Delhi_on_September_06%2C_2018.JPG_%281%29.jpg",
+      "credit": "Ministry of Education",
+      "license": "GODL-India",
+      "source_url": "https://en.wikipedia.org/?curid=28921754"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation from GDC Mandi, Himachal Pradesh, in 1987"

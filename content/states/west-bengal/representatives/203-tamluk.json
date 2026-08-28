@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": "Physician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/0569abfb4b79e29d436da2e0aedef3e05d7988f3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=674"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBBS, in the year 1985 M.D. (Medicine) in the year 1992 Calcutta University"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/2323e19adb3fe59b2cf5f74d2b64f670ea3bad40.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=5"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "3rd Year MBBS from GMC Bhopal, 10+2 from J & K State Board of School Education in 1991"

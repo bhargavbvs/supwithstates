@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 48,
     "profession": "Transporter",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/cd21ac0404156cf7c1ef2d1e1d52d4272e873c4c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=327"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Gwalior Law College Gwalior, Jivaji University Gwalior Year 2017, B.A. from Chaudhari Yadunath Singh College Bhind, Jivaji University Gwalior Year 1997"

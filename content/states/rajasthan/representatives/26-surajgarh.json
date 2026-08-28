@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 69,
     "profession": "Pension (Former MLA), Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/f5530c4b38c5dd4f8e040e6037a433b93526d1e7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=421"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Secondary Pass from Board of Secondary Education Rajasthan, Ajmer Paliram Brijfal Higher Secondary School Surajgarh in 1971"

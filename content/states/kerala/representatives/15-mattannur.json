@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 43,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/c9b09f1848bb62b7723d2bd470a91c0d3b827382.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=178"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Malayalam) Sree Sankaracharya University of Sanskrit, Kalady, Trivandrum Centre in the year 2022"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=178",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Agriculture & MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/483001e6ef888c53caf227c28c196aacf3503e65.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1396"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass from Yashwantrao Chavhan Open University, Nashik in 2013, Central Teachers College, Sorapada, Tal. Akkalkuwa, Dist. Nandurbar"

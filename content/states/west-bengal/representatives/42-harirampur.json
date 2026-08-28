@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 74,
     "profession": "Advocate and Minister in West Bengal Government",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/17f44b40da9bb76e65dcb239518054c9310e4e54.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=378"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law from Calcutta University College of Law in 1978"

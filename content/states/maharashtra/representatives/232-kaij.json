@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 35,
     "profession": "Business & Architect",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/339317cc57fa2d17f029a20f36563b4e29ecdd7e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1109"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Arch. from Kamla Raheja Girls Institute for Architecture, Mumbai University in 2012"

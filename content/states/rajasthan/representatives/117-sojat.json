@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/ec0623bbb11abc8f83f5fe961c8399fd1ca6854d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=413"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. in Social Science From MDS University Ajmer Year 2007"

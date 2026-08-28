@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/d2fda14cd2aa096c0935be64adfdb3eda5d15679.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=911"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Computer Hardware and Network, S.S.L.C from Kerala Government 1996-97"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=911",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 42,
     "profession": "Employed/Business",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/BBL_Butail.jpg",
+      "credit": "Nipunnayar",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=40620226"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Symbiosis College of Arts and Commerce in 2000"

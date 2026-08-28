@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 68,
     "profession": "Medical Business and Petrol pump , MLA allowances",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/644fced6f396b1e5ec5a370c816f5632e8277b4d.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=82"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS from Agra University Agra, S.N. Medical College Agra in 1977, Intermediate in 1970 from SMDD Inter college Nagla vishnu jagner road, Agra"

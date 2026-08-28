@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 64,
     "profession": "Salary, Agriculture & Kiln Brick business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/c37fdfe323aefc1a5f388238f7e9455bb98cfa16.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1614"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School in 1975 from DAV Inter College Aliganj Etah"

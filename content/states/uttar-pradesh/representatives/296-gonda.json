@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 33,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/308eb5b518a8442605788b2970c677a2c7e085c2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=2882"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Law From Dr. Rammanohar Lohia Awadh University Faizabad Ayodhya in 2021"

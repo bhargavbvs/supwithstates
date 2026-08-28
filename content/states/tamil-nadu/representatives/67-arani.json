@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 51,
     "profession": "Industry, Silk Trade, Rent Politics and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/06dbf1e7f8573334f290ea08d17cc6f91821c919.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1406"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Standard From Govt. Girls Higher Secondary School Aarani In March 1992"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 63,
     "profession": "Agriculturist and Public Representative",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/00f9169a1f353f7064771413aa04e69580c8a076.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=313"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Lajpat Rai Law College, Sambalpur Odisha (Sambalpur University) in 1984"

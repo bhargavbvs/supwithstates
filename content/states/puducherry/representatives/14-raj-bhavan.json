@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 27,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/b9725c9c89bbd985c259dcbaed1d435f875d0092.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=307"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor Of Commerce From St. Josephs College Of Arts And Science (Autonomous), Cuddalore Thiruvalluvar University In 2019"

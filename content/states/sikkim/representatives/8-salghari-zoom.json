@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Sikkim2024/3a622c39c1091852366cc5bb5652e905c57cfc49.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Sikkim2024/candidate.php?candidate_id=98"
+    },
     "education": {
       "level": "Literate",
       "detail": "Read up to Class-IVth From Government High School, Namchi Sikkim"

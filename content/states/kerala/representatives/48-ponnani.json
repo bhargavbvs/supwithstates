@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Social Services",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/70e7dbb5ade4231f847350074edd83bbceb4a443.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=655"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre-Degree University of Calicut In April 2000, SSLC From Board of Public Examination, GHS Kumella In March 1993"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=655",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

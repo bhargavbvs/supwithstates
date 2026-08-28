@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Member of Legislative Assembly , Haryana",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/095c2c203786bbc4a4fce1f5c19863a5d0f43bbd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=169"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Science, From S.D. College, Ambala Cantt, Punjab University, Chandigarh Year 1972"

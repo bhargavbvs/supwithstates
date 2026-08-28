@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Salaried",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/20fa741534ee90d95dc04db8fce069687e1c50ea.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=864"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "FYJC from Lions PD Dalmiya College, MAlad West in Year 1978-79"

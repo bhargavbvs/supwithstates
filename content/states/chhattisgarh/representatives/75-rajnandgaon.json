@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 71,
     "profession": "Social Worker, Farmer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/34bfca1325cda8aee037d3e628ecb13fd796ab7a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=2"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BAMS from Ayurvedik College, Raipur in 1975"

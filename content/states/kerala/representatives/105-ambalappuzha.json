@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 78,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/915452163e044f46bdf6d29a77db2224ee8ad809.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=317"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com 1969, B.Com 1967, LLB 1975"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=317",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Business & Profession",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/78eca193665e8761bc6bc60191ef175b62a2761c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=26"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. (CIVIL) From Gulbarga University, Karnataka 1989"

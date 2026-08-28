@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "MLA, Public Representative",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/663236116a66375dd6e8b10210bedbe172722361.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=512"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Hitkari Higher Secondary School, Jabalpur (Madhyamik Shiksha Mandal Bhopal Board) in 1981-82"

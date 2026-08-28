@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 34,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/4384b32493fc50544e2c2d1df2ad8aa0a323c839.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4885"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from University of Allahabad in 2008"

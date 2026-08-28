@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 73,
     "profession": "BA.BL- Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/67021768ab4f2137463669db5a4455aa805d8243.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=863"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.L. From Madras Law College In 1977 & B.A. From University of Madras (Loyola College) In 1974"

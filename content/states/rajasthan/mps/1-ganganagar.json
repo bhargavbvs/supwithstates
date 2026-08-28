@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 54,
     "profession": "AGRICULTURAL",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/3e9bfaefba1dcb278a9c00537d7da790d7f88864.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=409"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA Final in Political science in 1997 non college certificate n0.34148 serial no. 01340 result declared in 1997"

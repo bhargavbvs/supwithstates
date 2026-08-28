@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/nagaland2023/77e193501e5137d47a483026165d562427bb7902.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6872"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "BA from Dimapur College, Dimapur NEHU (Appeared) BA I in 1987 (Appeared)"

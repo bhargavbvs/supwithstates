@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 67,
     "profession": "Agriculture and Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/23d573e6621eb471a590d4c33c5c2194ba8ab17e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=705"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary, M. Education Mandal, MP Passed Year 1970"

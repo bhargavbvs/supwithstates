@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/fc63244d56c7ab6cba2564ef8d7c3c1f7b9caafe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=14"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Philosophy (Pol. Sc.) from North Eastern Hill University (NEHU) in 1986"

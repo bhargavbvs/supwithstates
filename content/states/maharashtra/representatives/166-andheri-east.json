@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Professional Service Provider",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/03a02b4b586bbae5687220b19e45c3090a82681b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1911"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Std. Y J S Gujarati Night High School Tardeo, Mumbai Year 1990"

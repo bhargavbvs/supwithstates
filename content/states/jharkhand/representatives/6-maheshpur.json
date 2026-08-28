@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 71,
     "profession": "Political Cum Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/ba27aaa8a2810e840e7143a1459a1c718a5d9195.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=980"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Bhagalpur University, Year-1974 & LLB From Bhagalpur University, Year-1977"

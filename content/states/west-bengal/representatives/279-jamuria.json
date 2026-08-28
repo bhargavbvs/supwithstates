@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 47,
     "profession": "Medical Practitioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/49503840771054fb577fa78f9cf01e8dcacaf97f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=146"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Surgery, Gynaecology from Dr. NTR University of Health Science in 2014"

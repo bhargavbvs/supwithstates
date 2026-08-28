@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 67,
     "profession": "MLA Income,Rent From Reliance Tower,Rent From Shop,Income From Chakki",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/a33cdc428ad7539765c7681a713cf0388b134b4f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=7"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA (Economics) From DSV Campus Kumaun University Nanital Uttrakhand in 1978-79"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Agriculture, Ex-MLA,property development rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/d2de5edf7e4fdcb1d5c579e8a02dfb3e8a27c7d6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7590"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Civil Engineering From Polytechnic College KR Pete Mandya in 1978-83 & 10th Pass From Sri Siddhaganga High School, Tumkur, Year-1975-78"

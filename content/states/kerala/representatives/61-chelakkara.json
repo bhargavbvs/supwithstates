@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/de83e306c6c5412b65fc98ab861d8d002b042861.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=56"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BBA from Madras University, Chennai in 1993-95"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=56",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

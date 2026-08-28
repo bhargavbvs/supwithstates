@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 39,
     "profession": "Business And Social work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/bfbc59b58aba4d31fbfae023f94e638a505d58f5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1922"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor Of Arts from The Ch. Charan Singh University Of Meerut In 2013"

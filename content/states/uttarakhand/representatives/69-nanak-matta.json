@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 72,
     "profession": "Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/b9d1fce828d62a0be528688a745b4327ec7c6a2c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=229"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BA & LLB"

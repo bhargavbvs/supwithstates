@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 51,
     "profession": "Retirement (IPS)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/116f2149e6d86fcdef862f32ed4576b2ebc28781.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1729"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate From University of British Columbia, Vancouver, Canada in 2014-15"

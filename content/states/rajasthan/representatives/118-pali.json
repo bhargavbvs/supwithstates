@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 75,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/01c195c13332ec11a932897bc09d454bb2f97933.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=329"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.E. from Mechanical Birla Institute of Technology & Science Pilani, Year-1969"

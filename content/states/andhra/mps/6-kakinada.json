@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 38,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/7444b23ac531cffbe80438c01ed963449a00f486.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5302"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate Passed Yaer - 2003 from Board of Intermediate Education Andhra Pradesh, Bachelor of Technology (Discontinued)"

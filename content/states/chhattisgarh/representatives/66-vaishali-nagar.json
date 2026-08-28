@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Social Worker, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/977f66cf93cbce3e0ba322e94e7388807da78f7c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=404"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Passed from BSP Higher Secondary School Sec-1, Bhilai in 1997"

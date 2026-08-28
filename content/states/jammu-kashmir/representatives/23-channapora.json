@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 49,
     "profession": "Business, Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/JammuKashmir2024/8dc274214c38fcfbd640c6627f6ba61ab4f629e0.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/JammuKashmir2024/candidate.php?candidate_id=334"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in Mechanical Engineering from Institute of Mechanical Engineering India Mumbai in 1994"

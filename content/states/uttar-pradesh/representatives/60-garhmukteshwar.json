@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 54,
     "profession": "Director MVP Estate Pvt. Ltd.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Uttarpradesh2022/1e9f92a8f9a70f31bbabdab04c52a15217836729.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=209"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A.(history) SSDC College, Kanpur University in 1987"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 73,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Jharkhand2024/3acedc5b450699a25465b71664bf06f111f97097.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Jharkhand2024/candidate.php?candidate_id=841"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (B.T.) from Ranchi University, Ranchi in 1984"

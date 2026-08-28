@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 69,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/ad0d3354e71c9e92b00a6150a333899e25707f09.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=348"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A (English) B.Ed & LLB From CCS University Meerut in 1983"

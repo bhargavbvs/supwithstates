@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 60,
     "profession": "Agriculture / Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/97c7d0bb98f906bae26c09cf27a406076899f54c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1331"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A from Auxilium Arts and Science College, Katpadi, Vellore, Madras University in 1986"

@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 65,
     "profession": "Lawyer, Practice Suspended Since 2003",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Jagat_Singh_Himachal.jpg",
+      "credit": "Wikimedia Commons",
+      "license": "Public domain",
+      "source_url": "https://en.wikipedia.org/?curid=43061153"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Punjab University, Chandigarh, Year-1980"

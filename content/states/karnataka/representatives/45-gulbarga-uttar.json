@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Business and Educationist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/89fdae620d55ebf6e94c2007196197b728cf423e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=9186"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre University Studied at Nampally Junior College Hyderabad"

@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 37,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/9519788babb8e47464dae43ac14999c62ae0357f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3481"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA from Amity University Noida in 2008, UP"

@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 41,
     "profession": "Agriculture Wages",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/a3ddf5a4f3f7e7d6b58df9e9288e9252db4d825a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1517"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary from Shaskiy Subhash Higher Secondary School Indore, Madhyamik Shiksha Mandal Bhopal in 2001"

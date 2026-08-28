@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Salary as MP is Rs 1 lakh per month",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/709a2f9eaf9ba615cdca77686b1485301f0c4bb9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=494"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Chhattisgarh State Open School Raipur"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 54,
     "profession": "Social Worker and Politician (Ex-MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/0d2cea71ddabb1707cab9b5c7e6e0d969610b723.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=49"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA from Decree College, Itanagar, Arunachal Pradesh, Now Dera Natung Govt. College Itanagar, Arunachal Pradesh in 1990"

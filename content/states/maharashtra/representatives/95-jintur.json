@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 44,
     "profession": "Business,Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/08b8dc480505fb0c308aef59c95d22e31c0199c1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=113"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts International Studies, Ajinkya DY Patil Vidyapith, Chaholi Budruk Pune Year 2023"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 43,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/5f9ac9acae3313c93ab322961f3fee6b20f5ee03.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=2103"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th from Kasturba Walchand College, Sangli in 2000-2001"

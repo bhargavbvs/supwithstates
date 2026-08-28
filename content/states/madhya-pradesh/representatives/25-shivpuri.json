@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 70,
     "profession": "Agriculture, Business and Former MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/e45e3a41c18fe46437af11c00a66811db1dc1925.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=622"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com 1974 Govt. Postgraduate University Shivpuri , Jiwaji University Gwalior"

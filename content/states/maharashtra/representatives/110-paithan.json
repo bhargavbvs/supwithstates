@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 38,
     "profession": "Agriculture, Rent, Business & Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/febfde5f2eabd3f804d37705285e14dd0625735a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=590"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from Yashwantrao Chavan Open University in 2013 (vivekanad Arts Sardar Dalipsing Commerce & Science College, Chhatrapati Sambhajinagar)"

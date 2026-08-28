@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "Mercury Broilers",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/6946971ae1479c6126a1e787eabcec4e1c3e7dac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=958"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BABL From Ambedkar Law College Madurai April 2010, PUC From Private Study Tamil Nadu Government Syllabus 2004, SSLC From Private Study Tamil Nadu Government Syllabus 2001"

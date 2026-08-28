@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 57,
     "profession": "Agriculture and Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/cb1c2a0c24d24a48437b11da2900a64f6b6760f4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1150"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Laws- Central Law College, Salem-June 1991, B.Sc- Jamal Mohamad College, trichy-April 1988"

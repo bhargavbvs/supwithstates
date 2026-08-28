@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 68,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/dc3b1612abe3baa88fe1f8ba12fecc914b7bf45e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=729"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Sangmeswar College Solapur Shivaji Vidhyapith Kolhapur in 1978"

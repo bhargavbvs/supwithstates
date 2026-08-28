@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Business & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/ecbb38354b5551bf745b5e01ca601b191530bc8b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=373"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com from Pt. Ravishankar Shukla University Raipur in 1990"

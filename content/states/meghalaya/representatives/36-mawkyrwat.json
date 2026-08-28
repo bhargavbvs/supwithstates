@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 51,
     "profession": "Member Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mawkyrwat_Assembly_constituency_map.svg",
+      "credit": "IJohnKennady",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=66571102"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. From North Eastern Hill University, Year-1995"

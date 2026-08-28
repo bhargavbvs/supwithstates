@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 53,
     "profession": "Doctor & MLA, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/6c30004529a18199576d31928f19d7d62bc798e1.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1664"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.S. (General Surgeon) in November 2007 from Dr. B.R. Ambedkar University Agra"

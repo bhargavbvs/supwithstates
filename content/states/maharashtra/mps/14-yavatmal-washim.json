@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Agriculture, S&D Industries",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/loksabha2024/9faa92814b64021c5045a06303acd2b06eeaf622.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1978"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B. Com From B B Art And Commerce Science College, Digras Yavatmal, Amravati University Sant Gadge Baba Amravati University In The Yeaar 1988"

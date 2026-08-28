@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 48,
     "profession": "Primary Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/460eaa64eaf8550b8ac5fc6ad4b19ed382a4447c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1123"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MA From Nashik Year-2024, B.Sc From Nashik Year-2022, SSC Bharat Vidyalay Umarga Year-1992"

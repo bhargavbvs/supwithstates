@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 52,
     "profession": "Milk Business,Agriculture,MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/34112220fe73a80f5a660c9bd39448526506dbfe.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=347"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Dr. Baba Saheb Ambedkar Marathawad University, Aurangabad Year 1993"

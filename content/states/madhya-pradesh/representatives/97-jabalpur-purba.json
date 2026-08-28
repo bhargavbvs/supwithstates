@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Legislative salaries, agricultural income, rent rates.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/be498fe75e7539c17de78e56d67b11b47ba0230d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=146"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Higher Secondary Mahakaushal U.M.V. 1997(A.P. Board), B.S.C. Shaskiy Science Mahavidyalay/R.D.V.V, Jabalpur 2001 (Rani Durgavati Vishavvidyalay, Jabalpur), LLB Hitkarni vidhi Mahavidyalay/R.D.V.V Year 2001"

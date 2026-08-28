@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 40,
     "profession": "Private Lawyer, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d71608280c79100180ba24ec950c3ac43ed3075c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=737"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB From Dr.Ambedkar Global Law Institue Tirupati College Sri Venkateswara University Tirupati In 2015, HSC From Keela Muslim Higher Secondary School Paramakudi In 2003, SSLC From Pallivasal Higher Secondary School, Mudukulathur In 2001"

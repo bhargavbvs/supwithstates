@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 52,
     "profession": "Business and Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/1b37ec884c92247d49683236a9020878acb11e52.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7140"
+    },
     "education": {
       "level": "Others",
       "detail": "Civil Engineering Year 1991 , Amaragin Polytechnic, Arasikere, Hassan District, Department of Technical Education State of Karnataka"

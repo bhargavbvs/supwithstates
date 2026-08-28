@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 34,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/1d8bb2837d78f0139cf28749643ca48800654f6e.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3218"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "MBBS From Era Medical College Lucknow, Dr. Ram Manohar Lohia Avadh University Faizabad in 2014"

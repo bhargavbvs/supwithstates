@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 74,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/e9febbf1b96cde5c21d2a1e493cf514a6f359a54.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=903"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduate from DS College Katihar LNM University Darbhanga in 1974"

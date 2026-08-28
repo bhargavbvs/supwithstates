@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 30,
     "profession": "Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/16e59611c992a38c4e333dfc0be5245bee620c33.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=309"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A in History from Kerala University in April 2024"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=309",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

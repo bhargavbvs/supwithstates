@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 58,
     "profession": "Army Officer Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/a8a97f8d0f1df24d772ec8c0a39f6e20657c0bef.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=50"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. From Jawaharlal Nehru University, Delhi"

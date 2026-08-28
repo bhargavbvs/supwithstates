@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": "Agriculturalist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/2625d364f91aeb42f575c23f6b9c422aa3c6cfa4.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=76"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "11th standard at Madras Christian College in 1977"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=76",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

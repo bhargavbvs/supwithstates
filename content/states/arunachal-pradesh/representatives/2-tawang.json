@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Businessman & Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/baab0f6b89fa415d043742ccf9dd4476eab1f80b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=78"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Pass From Govt. Higher Secondary School, Tawang, All India Secondary School Examination-Central Board of School Education (CBSE) Year-1997"

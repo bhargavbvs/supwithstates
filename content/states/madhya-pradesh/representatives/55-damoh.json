@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 76,
     "profession": "Political and Social Worker, Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/87f02d722c8ed2331cb464b0a656869ff73e4e27.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=675"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from Jabalpur University, Jabalpur In 1968"

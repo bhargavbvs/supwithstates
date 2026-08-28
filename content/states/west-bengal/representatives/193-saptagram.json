@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 45,
     "profession": "Business Man",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/88039be3491626f65af3e9804d925d8890b7a40b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2363"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Madhyamik Pass From Puinan High School For The Year 1996"

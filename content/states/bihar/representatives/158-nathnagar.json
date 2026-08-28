@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 39,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/3f3077a1846b6843019a88216950c31bc263f20d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=2212"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com(H) TM Bhagalpur University in 2012"

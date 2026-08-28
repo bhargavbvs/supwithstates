@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 45,
     "profession": "Pension, Salary, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/b94d227f249831e1f750dc2624d2fc15d423b661.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=84"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "Ph.D from Mewad University, Gangrar Chittorgarh in 2018"

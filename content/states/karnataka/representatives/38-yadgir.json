@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 75,
     "profession": "Social Service, Business, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/15eb1394675982d531d84ad5bcbf98f28c45e891.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7076"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Bachelor of science from karnataka university Dharwad (in completed) in the 1970"

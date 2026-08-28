@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 39,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/639b3761c6fa095390027adb4dbdb20edfaca2fb.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3741"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Intermediate From U.P. Board, Agricultural Intermediate College Deoria In 2006"

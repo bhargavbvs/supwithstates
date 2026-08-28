@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 38,
     "profession": "Khadiya Dhulan ka Kaam, Mining",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/58a50874e06ab5f92757cdd9a27ed518d7053c70.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=128"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Ed. from Govt. Post Graduate College in 2010"

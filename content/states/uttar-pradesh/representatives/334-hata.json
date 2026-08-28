@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 47,
     "profession": "Municipality President, Business & Agriculture Income",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/89aff1057a62ac204949d53ee8d027a11edafe13.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=4032"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Post Graduate from Buddha PG College Kushinagar, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur in 1998"

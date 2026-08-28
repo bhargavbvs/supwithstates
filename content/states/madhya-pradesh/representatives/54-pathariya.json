@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 67,
     "profession": "Agriculture, Retired Pension from SBI Bank & Ex MLA Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/madhyapradesh2023/ae7babf2df1e35f5004075e9350e2ea207b9a734.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1450"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. (Agriculture) from Jawahar Lal Nehru Agriculture University Jabalpur in 1978-79"

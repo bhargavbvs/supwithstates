@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 35,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/65a1ea34b1807dfb739dda3f21fccf4be88da1c9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=1967"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Legum Magister (LLM) From Kakatiya University 2017"

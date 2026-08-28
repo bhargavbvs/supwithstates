@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/a650e115e8e565895aaf670411f270bc874e8c15.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=130"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A (Politics) from Rajasthan University, Jaipur (Non Col) In 1993"

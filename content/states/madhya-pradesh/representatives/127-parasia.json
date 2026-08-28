@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 60,
     "profession": "MLA , Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/59e278ae9de5e5850affcf5d0a099c0c01b036e5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1806"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "BA Ist Year 1983-84 FROM SHRI LAXMI NARAYAN SASHKIY PUNCH VHELI POST GRADUATE COLLEGE, PARASIYA"

@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/bc35850ebf3439154707727ba6be0f1c7fb3e721.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2251"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Passed Madhyamik (10th Standard) In The Year 1993, Negun Deshbandhu Vidyamandir, West Bengal Board Of Secondary Education."

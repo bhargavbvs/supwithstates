@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Shopkeeper Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/6cb90ccc934353b8f4f6d28aeaa7f4dbb957ad91.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1705"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "High School, Diploma Polytechnic Orai"

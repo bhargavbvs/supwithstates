@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Member of Legislative Assembly Govt. of nagaland",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/nagaland2023/5580f49c8573063c1b168423bb82fcddc6c2c4b2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Nagaland2023/candidate.php?candidate_id=6776"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre University (Comm) From City College of Arts & Comm Dimapur Nagaland University 1999"

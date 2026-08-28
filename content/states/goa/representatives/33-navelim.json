@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 58,
     "profession": "Social Worker, Sitting, Z.P. (13-Davorlim member)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/goa2022/5d4619a11f0b52ad3aeb202c45f28a04e802a97e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/goa2022/candidate.php?candidate_id=115"
+    },
     "education": {
       "level": "Others",
       "detail": "Fitter, Industrial Trainng Institute, Farmagudi, Goa in 1982."

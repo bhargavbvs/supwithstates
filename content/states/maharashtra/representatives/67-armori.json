@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 55,
     "profession": "Retired Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/2047c836a75113c6688a760445737fd11355a267.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=391"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A Education Communication From Yashwantrao Chavhan Open University Nashik In The Year February 2014, B.Ed From Yashwantrao Chavhan Open University Nashik In The Year July 2014"

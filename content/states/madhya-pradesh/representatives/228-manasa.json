@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 62,
     "profession": "Business & Agriculture and MLA Salary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/b84a4454d6226886955c95fa94f127086f0eb1c9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=1509"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BE in Mechanical from Samrat Ashok Technological College Vidisha (M.P), Bhopal Unversity M.P. Year 1986"

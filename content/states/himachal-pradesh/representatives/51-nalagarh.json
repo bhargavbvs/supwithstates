@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 44,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/HimachalPradesh2022/852cc6966375e0467724119866567269b1df7c77.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=518"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. 2nd Year from DAV College, Sector-10, Chandigarh under Punjab University in 2000."

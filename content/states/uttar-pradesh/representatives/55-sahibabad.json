@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 59,
     "profession": "MLAs Salary and Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/38fc0c058f7ea147a64aa2e1dc36d5ab8e77fe28.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=33"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. from M.M.H Degree College Ghaziabad, Meerut University in 1983, LLB from M.M.H. Degree College, Ghaziabad, Meerut University in 1986"

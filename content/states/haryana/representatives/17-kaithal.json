@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 25,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Haryana2024/70412a60974b5a42f0e845b27a06a9d70a8d54e2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Haryana2024/candidate.php?candidate_id=350"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com, from University of British Columbia Year 2023"

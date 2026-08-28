@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 57,
     "profession": "Social Worker ( Cabinet Minister)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/05008363ec4a7b392f6801542aa50c26630add9b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=280"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Phill, BHSC From Devi Ahilya University in 1989"

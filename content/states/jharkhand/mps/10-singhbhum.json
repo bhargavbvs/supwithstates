@@ -23,7 +23,12 @@
     "term_start": "2024-06",
     "age_at_election": 60,
     "profession": "Agriculture and MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/e92986733e2821c3364cdab90510df30fdc1ed1a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5157"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "Class10, Ram Janaki Girls High School, Jugsalai, Year-1982"

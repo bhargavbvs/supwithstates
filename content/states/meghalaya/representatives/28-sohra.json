@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 31,
     "profession": "Member of Legislative Assembly (MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/c31e135c0c147cc700ce1115995615289a4a6aa9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=6788"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce (H) from North Eastern Hill University (NEHU) in 2012, Senior School Certificate Examination from Central Board Of Secondary Education (CBSE) in 2009"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 71,
     "profession": "Pension",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/77c06c51ff9116a41dd6a468dc152dc9f9130985.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=115"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com in 1975 from Commerce College Patna University"

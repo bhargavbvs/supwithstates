@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 54,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/e0b49d6a2c664913a89982cac15bcfb1a94c6b7d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=492"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A Pass From University Of Burdwan Dist West Bangal In 1996"

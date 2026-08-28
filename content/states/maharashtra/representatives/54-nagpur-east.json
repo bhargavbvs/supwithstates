@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 65,
     "profession": "Business & Social Work/Remuneration",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1eb97b417534d86f2dfeebc7f2c31a3244583df2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=570"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Pass from Shri Vidyawati Deodiya High School, Itwari, Nagpur in 1975"

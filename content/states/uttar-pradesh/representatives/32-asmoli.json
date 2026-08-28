@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 41,
     "profession": "Social Worker (M.L.A)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/fc1aa948c6431f4f5d7abbf86ec58a9465eda264.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=855"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LL.B, MJP Rohilkhand University, Bareilly Year 2008"

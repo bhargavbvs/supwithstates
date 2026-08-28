@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 77,
     "profession": "Consultancy (Legal)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/d77c9cf3319b0b56f9f7507ad30fc6500c888b5d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2654"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Passed M.Com in the year 1968 from Calcutta University and LLB in the year 1970 from Calcutta University"

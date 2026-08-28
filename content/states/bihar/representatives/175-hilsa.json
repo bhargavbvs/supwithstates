@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 74,
     "profession": "Agriculture, Sale of Agriculture Product, Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/b868715171f418d486ddc1f0ef418387c15630d6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=584"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Pre-Science In 1970 From College of Commerce, Patna Magadh University, Bodh Gaya, B.Sc Part-1 From S.U. College, Hilsa, Magadh University Bodh Gaya"

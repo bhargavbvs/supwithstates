@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 55,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/9a01ce0ec4a45405cd2811d49457ae2126a5433a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5069"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B. Com 2nd year Indira Gandhi National Open University 2021"

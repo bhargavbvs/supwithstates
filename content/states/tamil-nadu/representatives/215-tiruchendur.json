@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 73,
     "profession": "Politician, MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/d660866be614fdb17c6439878829371ef8e2a3a2.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=182"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "10th from Bishop Assyria Memorial High School, Vellalanvilai in 1969"

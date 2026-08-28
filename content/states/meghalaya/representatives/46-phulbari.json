@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 56,
     "profession": "Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Meghalaya2023/2f71366a1783bc46a29f900990613a673d525170.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Meghalaya2023/candidate.php?candidate_id=7055"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "A.M.I.E. (I) in Civil Engineering from The Institution of Engineers(India), Kolkata In 1991"

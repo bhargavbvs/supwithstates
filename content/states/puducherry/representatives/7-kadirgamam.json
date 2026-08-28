@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 46,
     "profession": "Agriculture and Business (Real Estate ) ( Painting Press)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/f16c147cb7e72ffc0523615544a8da37c07d9eba.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=256"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary Education from Ilango Adigal, Govt Hr. Sec School - 1997"

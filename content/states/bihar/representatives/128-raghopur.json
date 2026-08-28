@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 36,
     "profession": "Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/97f94963bebd45ffbcf3cde8147c4b864b5219f3.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=117"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th Pass from DPS R.K. Puram, New Delhi - Year 2006"

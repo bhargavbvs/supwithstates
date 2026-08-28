@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 35,
     "profession": "Self Employed",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/rajasthan2023/9888290d97e1d97c0a551b98da23e2501044ac50.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=157"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B. Tech In 2012 From Rajasthna Technology University Kota"

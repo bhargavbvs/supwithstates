@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Salary of M.P. and Central State Minister from Govt. & Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/48eefa491c029cb26b028036672c32959980c999.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=173"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B.Sc. in 1980-81 & LLB in 1987 From Rani Durgawati University, Jabalpur"

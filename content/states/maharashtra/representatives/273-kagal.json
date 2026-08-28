@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/76dc6378f0add5c47b55ef4ea6d0d93929e31e3f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1179"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Hons) in 1974 from Shivaji University, Kolhapur"

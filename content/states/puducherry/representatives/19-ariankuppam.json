@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 49,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Puducherry2026/0279000daffc35beaf5eff26cd928b0ec4ad3b85.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=82"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. From Mathematics Manonmaniyam Sundaranar University, Thirunelvelly in 2010"

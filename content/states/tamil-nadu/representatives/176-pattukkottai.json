@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 68,
     "profession": "Lawyer, Agriculture and Social Helper",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/68b5f7c3e9495f6cb917315f63afe040d790668e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=1124"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Law From University of Madras in November 1981, B.Sc From University of Madras in May 1978"

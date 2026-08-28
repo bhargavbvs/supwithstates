@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 63,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/2b96cf34ce78e367692240c5a6cf0dc9098d082d.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7999"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com Final year Completed in the year 1980-81, National College Shivamoga, University of Mysore"

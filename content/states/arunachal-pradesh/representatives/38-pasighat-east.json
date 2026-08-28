@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 62,
     "profession": "Public Leader & Social Activist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/32c859a643bff0ee88b033ad9ce0d255db48df9b.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=65"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Bachelor of Engineering in Civil Eng. From University of Poona , College of Engineering Pune In 1987"

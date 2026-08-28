@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 32,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/9f45c250253977bbdf0e592278fb10d1650d502f.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=1746"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "B. Ed in 2012, B.A. in 2010 from D.B.S. College Govind Nagar Kanpur Chhatrapati Shahuji Maharaj University Kanpur Nagar"

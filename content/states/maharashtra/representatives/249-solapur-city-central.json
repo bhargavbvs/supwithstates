@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 34,
     "profession": "Social Work, Agriculture, Business- Hotel Radhekrushna, Shrikrushn Lodge",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/83bfcf05eec5b0d44c3b1290e4c82e9e54c6eeb7.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=725"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "BBA from Tilak Vidyapith, Pune in 2012"

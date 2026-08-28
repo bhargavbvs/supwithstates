@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 43,
     "profession": "Agriculturist",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/d890fd61b94386799a089e7c3be9dea49a5c3955.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5174"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. (Hons) Psychology from Jesus and Mary College, New Delhi under Delhi University in the Year: 2001 and Post Graduate Diploma in Business Management from Fortune Institute of International Business, New Delhi in the Year: 2003."

@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 56,
     "profession": "Rent, Interest, Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/1eb3d7d14191700a84c2c93e47830c8f936afdc1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5080"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Phil , (Sociology) from Vinayaka Mission University, Salem, Tamilnadu in 2007 MA (Sociology)"

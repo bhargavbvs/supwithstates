@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 69,
     "profession": "Member of Legislative Assembly",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/e3e00f6674f9a247d4b0ac41770e9cedbeea7ab4.png",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=85"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From NSS Hindu College, Perunna In 1977"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=85",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

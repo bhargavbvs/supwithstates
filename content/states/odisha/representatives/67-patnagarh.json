@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 67,
     "profession": "Politician, Social Service & Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/8fad9a47d1d4862c897c8fea64eeef17c1c7847c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=368"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.A. Part-1 From Delhi University 1977, HSC-1975"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 42,
     "profession": "Agriculture, Remuneration & Other",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/e0ea9d7d64ad491efe3329b1be85fd9be50f65df.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=201"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com. from Yashwantrao Chavan Open University Nashik Year 2021"

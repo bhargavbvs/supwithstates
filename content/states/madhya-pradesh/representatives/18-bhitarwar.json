@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 68,
     "profession": "799301/-",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/b950abaaf64ae79baf8624ae8515d273503fbe66.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=666"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Graduate 2nd year from Jivaji University, Gwalior in 1973"

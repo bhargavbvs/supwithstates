@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 61,
     "profession": "Advocate",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Chhattisgarh2023/84451a6bca100a6c5324742147d82b09a8739e48.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=5"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB from P. Ravishankar Shulk University, Raipur In 1989"

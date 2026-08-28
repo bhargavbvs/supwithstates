@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Agriculture, Social service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/5c1009e2fc913f3bda9324d73b7ed803a62cf843.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=721"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "PHD From Jablpur 2018 , M.A. Economics in 2010"

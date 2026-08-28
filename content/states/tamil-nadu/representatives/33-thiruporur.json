@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 32,
     "profession": "Lawyer",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/3bb813d5958863d73a1c5492b92f3d664167a871.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=522"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB. (Hons) SRM Institute Of Science And Technology 2015-2018, B.A. (History) Saraswati Arts And Science College Tindivanam, 12th Std Anandavalli Marticulation Higher Secondary School 2012"

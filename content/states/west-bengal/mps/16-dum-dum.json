@@ -24,7 +24,12 @@
     "term_start": "2024-06",
     "age_at_election": 76,
     "profession": "Retired College Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/8b2ea800672d971185b5270131e45a11a98dc450.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8964"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Science from Presidency College in 1972, Bachelor of Law from Jogesh Chandra Chowdhury Law College in 1982, University of Calutta"

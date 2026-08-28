@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 48,
     "profession": "Business and existing MLA",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/e806178b7640d950086eac1670c4057e58e30d82.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=431"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Higher Secondary passed from Jagannath Barooah college, Jorhat under Assam Higher Secondary Education Council in 1997"

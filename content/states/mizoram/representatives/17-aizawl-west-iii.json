@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 65,
     "profession": "Politician",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/3b82b61e0b052e3b6ccf15faf5502a734ee8f0f8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=45"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "HSLC, Mizo High School Shillong-1978"

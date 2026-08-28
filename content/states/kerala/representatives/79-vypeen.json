@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 56,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/54709d06c8608058aded5b3282fe85e871200a2c.png",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=330"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Commerce Completed from St. Alberts College, Ernakulam under MG University, year 1989-1992., Passed Pre Degree 4th Group from St. Alberts College, Ernakulam under MG University year 1987-1989."
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=330",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }

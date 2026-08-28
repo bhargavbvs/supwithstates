@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Advisor In Kashyap Sweetners Pvt. Ltd.",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/MadhyaPradesh2023/4a8548382af67184b28be1fafd7717c4573de409.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/MadhyaPradesh2023/candidate.php?candidate_id=396"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.Com. Second year passed from Vikram University Ujjain In year 1976"

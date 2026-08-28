@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Farming",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/0150f7d0a434f7311647321c3cab3f8ff2c877e9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1102"
+    },
     "education": {
       "level": "8th Pass",
       "detail": "9th From Pravara Public School , Pravaranagar, Tal. Rahata, Dist. Ahilyanagar in 1984"

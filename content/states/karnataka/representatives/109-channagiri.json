@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 42,
     "profession": "Agriculture and Busniess",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Karnataka2023/3014d88daa0c5ca4911fcb005de11be34d2118f9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Karnataka2023/candidate.php?candidate_id=7898"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. A.R.M. Pre-University College, Davanagere In 2001"

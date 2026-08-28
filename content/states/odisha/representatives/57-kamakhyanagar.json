@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 59,
     "profession": "Cultivation and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/98c3f8efe37f157f3905c1ae139899e8c280450e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=733"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. From Non Collegiate, Utkal University, Year-1997 & B.A. From V.N. College, Jaipur, Utkal University, Year-1985"

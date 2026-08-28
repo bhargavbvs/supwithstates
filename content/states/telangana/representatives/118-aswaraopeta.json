@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 40,
     "profession": "Agriculture And Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/f67e2d3f5799ec636118a51f79d30f56b038b651.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=143"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc (Maths) 2012"

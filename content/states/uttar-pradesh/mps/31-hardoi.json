@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 66,
     "profession": "Salary , Agriculture , Gas Agancy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/51f26b18d2e88daaabf6c4c7d42ac85af3c1d34e.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=5076"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Graduation From Lucknow University in 1980"

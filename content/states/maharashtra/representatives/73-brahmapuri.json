@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Agriculture & Honorarium",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1c043e7ea63b4c673224546adf5f1b05c7649846.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=189"
+    },
     "education": {
       "level": "10th Pass",
       "detail": "SSC Pass from Vasant School Gadchiroli in 1978-79"

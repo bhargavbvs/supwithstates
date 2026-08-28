@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 49,
     "profession": "Salary and Allowances as a Peoples Representative (Former MP and MLA)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/14168bac14f565175d895b7ef9dfb27e34b2c182.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3801"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc. from H. N. Bahuguna University, Shrinagar Paurigarhwal in 1992"

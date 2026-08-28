@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 62,
     "profession": "Nil",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/213f4304b7bf1dcfd3dd16fbf9d90e43aa88d477.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=92"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Garhwal University Srinagar Garhwal in 1979"

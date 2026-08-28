@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 65,
     "profession": "Retired",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Gujarat2022/2b636321aa418eb2ad0b357a74419e53c4441e85.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Gujarat2022/candidate.php?candidate_id=6793"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A 1979 Gujarat University"

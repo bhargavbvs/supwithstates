@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 64,
     "profession": "Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Rajasthan2023/a5810dd937aed5120aeef086ef8782f9794214b9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Rajasthan2023/candidate.php?candidate_id=417"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Com from Jodhpur University In 1981, Interstitial Diploma from Indian Vidya Bhavan Mumbai Central Jaipur In 1983"

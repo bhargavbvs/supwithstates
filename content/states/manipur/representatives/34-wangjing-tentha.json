@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 56,
     "profession": "Member Legislative Assembly (MLA)/Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Paonam_brojen.jpg",
+      "credit": "Nssapamcha",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://en.wikipedia.org/?curid=65185742"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Fergussion College, Pune under Pune University in 1989"

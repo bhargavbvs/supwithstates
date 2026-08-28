@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 54,
     "profession": "Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarakhand2022/fd4c591f4acd7574876661d8cde9d4edfde23f34.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarakhand2022/candidate.php?candidate_id=185"
+    },
     "education": {
       "level": "Graduate",
       "detail": "BA From Uttrakhand Open University, Radhey Hari Govt. College in 2021"

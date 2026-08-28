@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 61,
     "profession": "Agriculture & Agriculture Related Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b22448d5e80ac20ad4ca807690f1f6b1b591eeb8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=314"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "BA(II) from Nagpur Unviersity in Yr 1988"

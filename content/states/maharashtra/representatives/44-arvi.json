@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 40,
     "profession": "Social Worker",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/1a70b6c26f3ca4db74a7a9e46b1ebc816a537fc6.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=1925"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "Engineering Degree from Maharashtra Academy of Engineering, Aalandi, Pune University, Pune, Engineering Degree from Government Technical Arvi, MSBTE, Mumbai in 207"

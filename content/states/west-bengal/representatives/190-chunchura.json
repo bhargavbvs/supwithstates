@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 52,
     "profession": "Businessman",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/932a397fce04e3b291be83d84e1a3ef9e7ab98aa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2928"
+    },
     "education": {
       "level": "Others",
       "detail": "Diploma in civil Engineering from West Bengal State Counsel of technical education for the year 1996 and bachelor of since from the University of Burdwan for the year 1995"

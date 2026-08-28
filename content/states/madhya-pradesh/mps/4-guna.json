@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 53,
     "profession": "Member of Parliament",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/8c7b6da734cac06d0190844a012ce4333989b791.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3613"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MBA From Standford University, Graduate School of Business Palo Alto, CA, USA 2001"

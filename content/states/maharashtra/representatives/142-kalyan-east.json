@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 53,
     "profession": "Farmer And Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/3657a0eb73692e9e857af5064360d4f3c09834e9.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=303"
+    },
     "education": {
       "level": "5th Pass",
       "detail": "7th Pass From Mahatma Gandhi Vidya Mandir Dombivli Thane In The Year 1985"

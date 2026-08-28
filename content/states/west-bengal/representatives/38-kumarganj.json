@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 66,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/WestBengal2026/908e6518d2ecc9c49105a12bdf55f7c7538f24ac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=434"
+    },
     "education": {
       "level": "Graduate",
       "detail": "Bachelor of Arts from Balurghat College under North Bengal University in 1985"

@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 56,
     "profession": "Pensioner, Business, Agriculture, JCB & Tractor Rent",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/b73339732af1afc859bfd23b1c9b0eb6684d7749.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=3450"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th in 2014 from Chhattisgarh Sanskrit Vidyamandal, Rampuram C.G."

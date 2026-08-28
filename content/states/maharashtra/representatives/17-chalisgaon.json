@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 41,
     "profession": "Agriculture And Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/b4b97756ade8ec0d9b3a588e233a71e2b2281870.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=842"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "12th Science From Maharashtra State Secondary And Higher Secondary Education Board Pune In The Year 2002"

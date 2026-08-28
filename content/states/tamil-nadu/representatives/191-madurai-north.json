@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 41,
     "profession": "Consultant",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/0086a51e1392b86565b44876c9f6d84dc210a8be.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=256"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Com (CA) Junior Degree in Commerce ( Computer Application) Saurashtra Collage Madurai Kamaraj University April-2005, 12th Saurashtra Boys High Secondary School -2002, 10th Madurai College High Secondary School 1999-2000"

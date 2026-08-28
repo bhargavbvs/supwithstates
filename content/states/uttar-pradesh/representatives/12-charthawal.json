@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 43,
     "profession": "Agriculture & Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/69160039e35683732546ce02af434522e7ed600d.jpeg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=5"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "L.L.B, D.A.V. College Muzaffarnagar, B.A. From Sanjay Gandhi P.G.College Sarurpur Khurd Meerut .C.C. University"

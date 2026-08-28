@@ -22,7 +22,12 @@
     "term_start": "2024-06",
     "age_at_election": 63,
     "profession": "Retd. Teacher",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/2281c90160d45cf605b7eb4f5af1919cd185d9cb.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=1808"
+    },
     "education": {
       "level": "Doctorate",
       "detail": "M.A., Ph.D., History from Chaudhary Charan Singh University Meerut"

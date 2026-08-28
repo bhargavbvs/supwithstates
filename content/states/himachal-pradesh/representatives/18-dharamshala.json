@@ -16,7 +16,12 @@
     "term_start": "2022-12",
     "age_at_election": 52,
     "profession": "Politician and Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/HimachalPradesh2022/4b23ea551885dbc66e09c20c4450b41262f171a5.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/HimachalPradesh2022/candidate.php?candidate_id=488"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.A. from Dav College Chandigarh (PU) in 1997"

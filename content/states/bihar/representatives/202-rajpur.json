@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 50,
     "profession": "Politician/Social Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/3f63255f3b81f9489eae8df61fd0ba4c12d212da.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=701"
+    },
     "education": {
       "level": "Graduate Professional",
       "detail": "LLB in 2009 from JKT Law College Buxar"

@@ -25,7 +25,12 @@
     "term_start": "2024-06",
     "age_at_election": 42,
     "profession": "Social Service, Agriculture and Business",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/LokSabha2024/49fdc404e140d51c6e2673c9828b908244bf8ed8.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=2193"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Second Year Pre University Examination, Department of Pre University Education, Govt of Karnataka, Sri Sathya Sai Loka Seva Pre University College, Alike Year of Passing 2000"

@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": null,
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Maharashtra2024/9fcb56833953fd7eac5fb160fc09493e0c2fa8ac.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Maharashtra2024/candidate.php?candidate_id=3166"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "T.Y. B.Com (Appeared) from T.C. College Baramati, Pune Univesity 1989-90"

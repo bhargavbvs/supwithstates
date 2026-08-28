@@ -15,7 +15,12 @@
     "term_start": "2022-12",
     "age_at_election": 66,
     "profession": "Agriculture, Dairy & Assembly Member Salary & Allowance",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/uttarpradesh2022/8624407670e3513d8e9a383a2aa40ae1e63cb1c1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3835"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.Sc. (Agriculture) From Kulbhaskar Ashram College Allahabad/ Kanpur University Kanpur in 1979"

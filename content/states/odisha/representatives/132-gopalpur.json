@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 57,
     "profession": "Social Work",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/f0afd524253bb6814bb226ab61553401d9df1c83.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=92"
+    },
     "education": {
       "level": "Graduate",
       "detail": "B.Sc from Ganjam College Under Berhampur University Dist-Ganjam, Year-1993"

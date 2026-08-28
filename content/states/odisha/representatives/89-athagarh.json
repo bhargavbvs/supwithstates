@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 70,
     "profession": "Social Service and Politics",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/563296364b963ae9a87097b83cd1b2b8b15e6b45.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=535"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A. English In 1976 from Utkal University, Vani Vihar Bhubaneswar, LLB In 1978 from Madhu Sudan Law Collage, Cuttack, Under Utkal University Vani Vihar Bhubaneswar"

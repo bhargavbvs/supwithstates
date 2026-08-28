@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 44,
     "profession": "Political & House Wife",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/TamilNadu2026/2ee2ccd87537a8392e2640185ba9e60fecad4c1c.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/TamilNadu2026/candidate.php?candidate_id=848"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "M.A From Tamil Nadu Open University In 2017, B.Com From Tamil Nadu Open University In 2014, HSC From Govt Model Higher Srecondary School, Saidapet In 2002"

@@ -15,7 +15,12 @@
     "term_start": "2025-12",
     "age_at_election": 44,
     "profession": "Business/ Social Worker/ Agriculture",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Bihar2025/485a2c731683e5ab2f7b5732a6201dfd8590b1db.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Bihar2025/candidate.php?candidate_id=588"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Business Administration From San Jose University, California, U.S.A., Year-2008 & Bachelor of Engineering (Computer Science) From B.I.T. Mesra, Ranchi, Year-2002"

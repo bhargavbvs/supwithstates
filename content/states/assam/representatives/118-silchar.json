@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 55,
     "profession": "Orthopedic Surgeon (Profession)",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Assam2026/b8822daabbaa837d4ac1466157ddd9732a909c34.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Assam2026/candidate.php?candidate_id=346"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "MCH(UK) from Nine Wells Medical School Dundee University UK Year 2008, M.S. (Ortho) from AMC Dibrugarh University, Year 2003 , MBBS from S.M.C. Silchar Guwahati University Year 1994"

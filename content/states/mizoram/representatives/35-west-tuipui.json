@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 48,
     "profession": "Pensioner",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Mizoram2023/14431ba62a16f9c20279cc8b199f9cd79ff319a1.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Mizoram2023/candidate.php?candidate_id=13"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master of Arts (Education) from Vinayaka Missions University, Tamilnadu, India- 2013"

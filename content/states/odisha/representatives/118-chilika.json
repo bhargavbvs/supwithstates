@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Consultancy",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Odisha2024/80e054ace6a16d5d6609f6ae89a70dda0c28c82a.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Odisha2024/candidate.php?candidate_id=644"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "Master in Science, Utkal University, 1987-89"

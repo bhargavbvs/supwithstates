@@ -15,7 +15,12 @@
     "term_start": "2023-12",
     "age_at_election": 74,
     "profession": "Agriculture and Public Service",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Telangana2023/da90d3cd30f6c5a8476c772f72b4e53de9e279dd.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Telangana2023/candidate.php?candidate_id=29"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "B.E (Dis-Continued) From Nagarjuna Engineering College Hyderabad in 1966 to 1969"

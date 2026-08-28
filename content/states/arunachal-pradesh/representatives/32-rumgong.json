@@ -15,7 +15,12 @@
     "term_start": "2024-12",
     "age_at_election": 56,
     "profession": "Public Leader",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/ArunachalPradesh2024/548ab296f6e4d123cf0adc8682637e3206692bfa.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/ArunachalPradesh2024/candidate.php?candidate_id=70"
+    },
     "education": {
       "level": "12th Pass",
       "detail": "Govt. Hr. Sec. School, Aalo Examination, All Indian School Certificate Examination in 1987 & Govt. Engineering College Karad, Maharashtra In 1992"

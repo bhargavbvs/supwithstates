@@ -15,7 +15,12 @@
     "term_start": "2026-12",
     "age_at_election": 59,
     "profession": "Advocate and Notary",
-    "photo": null,
+    "photo": {
+      "url": "https://myneta.info/images_candidate/Kerala2026/d19c9e9cda0aa12beaba2a04447f5dcbdcb92291.jpg",
+      "credit": "Election Commission of India via MyNeta",
+      "license": "ECI Affidavit Photo",
+      "source_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=692"
+    },
     "education": {
       "level": "Post Graduate",
       "detail": "LLM- Centre for legal studies-1997, LLB- Law academy law college, Trivandrum (1988-1991), BA-NSS college, pandalam (1985-1988)"
@@ -36,6 +41,6 @@
   },
   "source": {
     "myneta_url": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=692",
-    "retrieved": "2026-08-27"
+    "retrieved": "2026-08-28"
   }
 }
