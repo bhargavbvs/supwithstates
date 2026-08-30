@@ -12,6 +12,7 @@ import { assertBudget } from './lib/budget.mjs';
 import { projectGeo } from './lib/project-geo.mjs';
 
 const contentDir = new URL('../content/states/', import.meta.url).pathname;
+const sharedPagesDir = new URL('../content/pages/', import.meta.url).pathname;
 const publicDir = new URL('../public/', import.meta.url).pathname;
 const dataDir = join(publicDir, 'data');
 const geoDir = join(publicDir, 'geo');
@@ -52,11 +53,38 @@ for (const slug of slugs) {
     continue;
   }
 
+  // Methodology and About describe how this site reads affidavits, which is
+  // the same work in every state — so they are written once and filled in
+  // per state, rather than copied thirty-one times. Two states had their own
+  // and twenty-nine had none, which meant the menu linked twenty-nine
+  // readers to "Page not found".
+  //
+  // A state may still keep its own copy: anything in its pages/ directory
+  // wins over the shared one.
+  const vars = {
+    state: state.name,
+    year: String(state.term?.start ?? '').slice(0, 4),
+    myneta: state.sources?.myneta ?? 'https://www.myneta.info/',
+    corrections: state.contact?.corrections ?? '',
+    assembly_size: String(state.assembly_size),
+    profiled: String(constituencies.length),
+    methodology: `#/${slug}/methodology`,
+  };
+  const fill = (md) => md.replace(/\{\{(\w+)\}\}/g, (whole, key) => {
+    if (!(key in vars)) throw new Error(`${slug}: shared page uses {{${key}}}, which nothing sets`);
+    return vars[key];
+  });
+
+  const sharedPages = existsSync(sharedPagesDir)
+    ? Object.fromEntries(readdirSync(sharedPagesDir).filter((f) => f.endsWith('.md'))
+        .map((f) => [f.replace(/\.md$/, ''), fill(readFileSync(join(sharedPagesDir, f), 'utf8'))]))
+    : {};
   const pagesDir = join(stateDir, 'pages');
-  const pages = existsSync(pagesDir)
+  const ownPages = existsSync(pagesDir)
     ? Object.fromEntries(readdirSync(pagesDir).filter((f) => f.endsWith('.md'))
         .map((f) => [f.replace(/\.md$/, ''), readFileSync(join(pagesDir, f), 'utf8')]))
     : {};
+  const pages = { ...sharedPages, ...ownPages };
 
   const promiseSets = readAll(join(stateDir, 'promise-sets'));
   const promises = readAll(join(stateDir, 'promises'));

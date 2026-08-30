@@ -1808,6 +1808,31 @@ body[data-view="districts"] #app { max-width: 1100px; }
 .swatch.movable { background: #5ca88a; }
 .swatch.immovable { background: #17614a; }
 
+/* ---- The stat strip on a phone ---------------------------------------
+   Three columns across a 390px screen gives each stat about 110px, which
+   is not enough for "with declared criminal cases" — it stacked one word
+   per line into a tall thin column beside two short ones. On a phone the
+   three become three rows, each reading value then label across. */
+@media (max-width: 560px) {
+  #stats {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+  }
+
+  #stats .stat {
+    flex-direction: row;
+    align-items: baseline;
+    gap: 0.6rem;
+  }
+
+  #stats .stat b {
+    flex: 0 0 auto;
+    min-width: 6.5rem;
+  }
+
+  #stats .stat span { flex: 1 1 auto; }
+}
+
 /* ---- Header on a phone ------------------------------------------------
    The wordmark carries the state's name, which for "ssup with Madhya
    Pradesh" is most of a phone's width on its own — and beside it sit
