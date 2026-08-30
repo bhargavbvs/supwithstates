@@ -1464,3 +1464,123 @@ dd {
 
 .seg-list li a { text-decoration: none; color: var(--ink); }
 .seg-list li:hover { border-color: var(--accent); }
+
+/* ---- Header menus -----------------------------------------------------
+   Two flat links became three menus when the site outgrew them: the same
+   assembly sorted four ways, its districts as a list, and the pages that
+   used to be findable only in the footer. A phone has room for three
+   words across the top and not for six. */
+
+.menu {
+  position: relative;
+  display: inline-block;
+}
+
+.menu-btn {
+  font: inherit;
+  font-weight: 600;
+  color: var(--muted-ink, #5b5b66);
+  background: none;
+  border: 0;
+  padding: 0.35rem 0.5rem;
+  cursor: pointer;
+  border-radius: 0.4rem;
+}
+
+.menu-btn::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.35rem;
+  border: 0.28em solid transparent;
+  border-top-color: currentColor;
+  transform: translateY(0.15em);
+}
+
+.menu-btn:hover,
+.menu-btn:focus-visible { color: var(--accent-ink, #0b3d2c); }
+.menu-btn.on { color: var(--accent-ink, #0b3d2c); }
+
+/* An author `display` beats the user agent's `[hidden] { display: none }`,
+   so without this the menus render open — all three at once, over the map. */
+.menu-list[hidden] { display: none; }
+
+.menu-list {
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  z-index: 20;
+  min-width: max-content;
+  display: flex;
+  flex-direction: column;
+  padding: 0.3rem;
+  background: var(--panel, #fff);
+  border: 1px solid rgba(22, 19, 31, 0.1);
+  border-radius: 0.6rem;
+  box-shadow: 0 8px 28px rgba(22, 19, 31, 0.14);
+}
+
+.menu-list a {
+  padding: 0.5rem 0.85rem;
+  border-radius: 0.4rem;
+  white-space: nowrap;
+  text-decoration: none;
+  color: var(--ink, #16131f);
+}
+
+.menu-list a:hover { background: rgba(22, 19, 31, 0.06); }
+.menu-list a[aria-current="page"] { color: var(--accent-ink, #0b3d2c); font-weight: 600; }
+
+/* On a narrow screen the last menu would otherwise run off the right
+   edge, so it opens leftwards from its own button. */
+/* The last menu sits against the state switcher, so it opens leftwards
+   rather than off the edge of the screen. */
+.menu:last-of-type .menu-list { left: auto; right: 0; }
+
+/* ---- Sort tabs on the roster ---- */
+.sort-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.9rem 0 1.1rem;
+}
+
+.sort-tab {
+  padding: 0.35rem 0.8rem;
+  border: 1px solid rgba(22, 19, 31, 0.14);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: var(--muted-ink, #5b5b66);
+}
+
+.sort-tab:hover { border-color: var(--accent, #1f7a5a); }
+.sort-tab.on {
+  background: var(--accent-ink, #0b3d2c);
+  border-color: var(--accent-ink, #0b3d2c);
+  color: #fff;
+}
+
+/* ---- District index ---- */
+.district-index {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.6rem;
+}
+
+.district-index a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid rgba(22, 19, 31, 0.1);
+  border-radius: 0.7rem;
+  text-decoration: none;
+  color: var(--ink, #16131f);
+  background: var(--panel, #fff);
+}
+
+.district-index a:hover { border-color: var(--accent, #1f7a5a); }
+.district-index small { color: var(--muted-ink, #5b5b66); }

@@ -44,4 +44,13 @@ describe('parseRoute', () => {
   it('falls back to home for unknown routes', () => {
     expect(parseRoute('#/nonsense/x')).toEqual({ state: null, view: 'home', param: null });
   });
+
+  it('routes the roster, with and without a sort', () => {
+    expect(parseRoute('#/telangana/mlas', KNOWN)).toEqual({ state: 'telangana', view: 'roster', param: null });
+    expect(parseRoute('#/telangana/mlas/assets', KNOWN)).toEqual({ state: 'telangana', view: 'roster', param: 'assets' });
+  });
+
+  it('routes the district index', () => {
+    expect(parseRoute('#/telangana/districts', KNOWN)).toEqual({ state: 'telangana', view: 'districts', param: null });
+  });
 });

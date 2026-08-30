@@ -15,6 +15,8 @@ export function parseRoute(hash, known = []) {
   if (head === 'd' && param) return { state, view: 'district', param };
   if (head === 'c' && param) return { state, view: 'constituency', param };
   if (head === 'mps') return { state, view: 'mps', param: param ?? null };
+  if (head === 'mlas') return { state, view: 'roster', param: param ?? null };
+  if (head === 'districts') return { state, view: 'districts', param: null };
   if (head === 'promises') return { state, view: 'promises', param: null };
   if (head === 'methodology') return { state, view: 'methodology', param: null };
   if (head === 'about') return { state, view: 'about', param: null };
