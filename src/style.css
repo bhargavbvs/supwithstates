@@ -415,7 +415,7 @@ path.district-line {
   width: 9px;
   height: 9px;
   border-radius: 50%;
-  background: var(--sev-color, var(--sev-0));
+  background: var(--sev-0); /* overridden per level by .d-N below */
   border: 1px solid rgba(0, 0, 0, 0.12);
 }
 
@@ -1567,7 +1567,7 @@ dd {
   font-family: var(--font-mono);
   font-weight: 500;
   letter-spacing: 0.02em;
-  color: var(--muted-ink, #5b5b66);
+  color: var(--muted);
   background: none;
   border: 0;
   padding: 0.35rem 0.5rem;
@@ -1585,8 +1585,8 @@ dd {
 }
 
 .menu-btn:hover,
-.menu-btn:focus-visible { color: var(--accent-ink, #0b3d2c); }
-.menu-btn.on { color: var(--accent-ink, #0b3d2c); }
+.menu-btn:focus-visible { color: var(--accent-ink); }
+.menu-btn.on { color: var(--accent-ink); }
 
 /* An author `display` beats the user agent's `[hidden] { display: none }`,
    so without this the menus render open — all three at once, over the map. */
@@ -1601,7 +1601,7 @@ dd {
   display: flex;
   flex-direction: column;
   padding: 0.3rem;
-  background: var(--panel, #fff);
+  background: var(--panel);
   border: 1px solid rgba(22, 19, 31, 0.1);
   border-radius: 0.6rem;
   box-shadow: 0 8px 28px rgba(22, 19, 31, 0.14);
@@ -1612,11 +1612,11 @@ dd {
   border-radius: 0.4rem;
   white-space: nowrap;
   text-decoration: none;
-  color: var(--ink, #16131f);
+  color: var(--ink);
 }
 
 .menu-list a:hover { background: rgba(22, 19, 31, 0.06); }
-.menu-list a[aria-current="page"] { color: var(--accent-ink, #0b3d2c); font-weight: 600; }
+.menu-list a[aria-current="page"] { color: var(--accent-ink); font-weight: 600; }
 
 /* On a narrow screen the last menu would otherwise run off the right
    edge, so it opens leftwards from its own button. */
@@ -1638,27 +1638,41 @@ dd {
   border-radius: 999px;
   font-size: 0.9rem;
   text-decoration: none;
-  color: var(--muted-ink, #5b5b66);
+  color: var(--muted);
 }
 
-.sort-tab:hover { border-color: var(--accent, #1f7a5a); }
+.sort-tab:hover { border-color: var(--accent); }
 .sort-tab.on {
-  background: var(--accent-ink, #0b3d2c);
-  border-color: var(--accent-ink, #0b3d2c);
+  background: var(--accent-ink);
+  border-color: var(--accent-ink);
   color: #fff;
 }
 
 /* ---- District index ---- */
+/* A grid of navigation cards is not prose, and it does not want the prose
+   column. At 720px it could only ever be two columns, so thirty-eight
+   districts became a long scroll of half-empty cards while the page had
+   room on both sides. */
+body[data-view="districts"] #app { max-width: 1100px; }
+
 .district-index {
   list-style: none;
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-auto-rows: 1fr;
   gap: 0.6rem;
 }
 
+/* The grid stretches its items, but the item is the <li> and the card is
+   the <a> inside it — so every cell was the same height and every card
+   was not, leaving the boxes ragged against a tidy grid. Making the li a
+   flex container hands its height to the card. */
+.district-index li { display: flex; }
+
 .district-index a {
+  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 0.15rem;
@@ -1666,12 +1680,40 @@ dd {
   border: 1px solid rgba(22, 19, 31, 0.1);
   border-radius: 0.7rem;
   text-decoration: none;
-  color: var(--ink, #16131f);
-  background: var(--panel, #fff);
+  color: var(--ink);
+  background: var(--panel);
 }
 
-.district-index a:hover { border-color: var(--accent, #1f7a5a); }
-.district-index small { color: var(--muted-ink, #5b5b66); }
+.district-index a:hover { border-color: var(--accent); }
+.district-index small { color: var(--muted); }
+
+/* Figures in the mono face, as everywhere else. */
+.district-index .n { font-family: var(--font-mono); }
+
+/* The count of seats with a serious case declared gets its own line and
+   its own mark, rather than trailing the seat count as prose that wrapped
+   on nearly every card. */
+/* The mark hangs outside the text rather than sitting beside it as a flex
+   sibling: as a sibling it centred itself against a two-line block and
+   left the number stranded on its own line, away from the words it
+   counts. Hanging it lets the whole phrase wrap as one piece of prose. */
+.district-index .flagged {
+  display: block;
+  position: relative;
+  padding-left: 0.95rem;
+  margin-top: 0.15rem;
+}
+
+.district-index .flagged::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.42em;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--sev-2);
+}
 
 /* The photograph's attribution. It used to sit inside .photo-wrap, which
    is 96px wide, so "Election Commission of India via MyNeta · ECI
@@ -1681,7 +1723,7 @@ dd {
 .photo-credit {
   margin: -0.35rem 0 1rem;
   font-size: 0.78rem;
-  color: var(--muted-ink, #5b5b66);
+  color: var(--muted);
 }
 
 /* ---- Declared assets: owns against owes -------------------------------
@@ -1701,15 +1743,15 @@ dd {
   font-size: 1.9rem;
   font-weight: 800;
   letter-spacing: -0.01em;
-  color: var(--accent-ink, #0b3d2c);
+  color: var(--accent-ink);
   line-height: 1.1;
 }
 
-.worth-negative .worth-value { color: var(--sev-3, #b3261e); }
+.worth-negative .worth-value { color: var(--sev-3); }
 
 .worth-label {
   font-size: 0.85rem;
-  color: var(--muted-ink, #5b5b66);
+  color: var(--muted);
 }
 
 .ledger-row + .ledger-row { margin-top: 1.1rem; }
@@ -1727,7 +1769,7 @@ dd {
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--muted-ink, #5b5b66);
+  color: var(--muted);
 }
 
 .ledger-head b { font-size: 1.05rem; font-weight: 700; }
@@ -1737,7 +1779,7 @@ dd {
   height: 0.7rem;
   border-radius: 999px;
   overflow: hidden;
-  background: var(--line, #e6e2d9);
+  background: var(--line);
 }
 
 .ledger-bar .seg { display: block; height: 100%; }
@@ -1751,7 +1793,7 @@ dd {
   gap: 0.35rem 1.1rem;
   margin: 0.45rem 0 0;
   font-size: 0.85rem;
-  color: var(--muted-ink, #5b5b66);
+  color: var(--muted);
 }
 
 .ledger-key span { display: inline-flex; align-items: center; gap: 0.4rem; }

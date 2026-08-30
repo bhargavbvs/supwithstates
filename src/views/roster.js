@@ -91,8 +91,8 @@ export function renderDistricts(el) {
         <li>
           <a href="${store.href(`d/${store.slugify(name)}`)}">
             <b>${escapeHtml(name)}</b>
-            <small>${list.length} ${list.length === 1 ? 'constituency' : 'constituencies'}${
-  flagged ? ` · ${flagged} with a serious case declared` : ''}</small>
+            <small><span class="n">${list.length}</span> ${list.length === 1 ? 'constituency' : 'constituencies'}</small>
+            ${flagged ? `<small class="flagged"><span class="n">${flagged}</span> with a serious case declared</small>` : ''}
           </a>
         </li>`;
   }).join('')}
