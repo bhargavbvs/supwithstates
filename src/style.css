@@ -1584,3 +1584,14 @@ dd {
 
 .district-index a:hover { border-color: var(--accent, #1f7a5a); }
 .district-index small { color: var(--muted-ink, #5b5b66); }
+
+/* The photograph's attribution. It used to sit inside .photo-wrap, which
+   is 96px wide, so "Election Commission of India via MyNeta · ECI
+   Affidavit Photo" broke across five lines beside a face. One line under
+   the header instead — the Wikimedia photographs are licensed on
+   condition of credit, so it has to stay readable. */
+.photo-credit {
+  margin: -0.35rem 0 1rem;
+  font-size: 0.78rem;
+  color: var(--muted-ink, #5b5b66);
+}
