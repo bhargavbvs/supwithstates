@@ -63,6 +63,10 @@ export function renderHome(el) {
   el.innerHTML = `
     <div id="map"></div>
     <div id="map-overlay">
+      <button type="button" id="panel-toggle" aria-expanded="true" aria-controls="panel-body">
+        <span class="panel-toggle-text">Hide</span>
+      </button>
+      <div id="panel-body">
       <section id="stats">
         <div class="stat"><b>${state.assembly_size}</b><span>constituencies</span></div>
         <div class="stat"><b>${stats.pctWithDeclaredCases}%</b><span>with declared criminal cases</span></div>
@@ -88,8 +92,36 @@ export function renderHome(el) {
         </div>
       </div>
       <div id="search-slot"></div>
+      </div>
     </div>
   `;
+
+  // The panel covers a good part of the map, which is most of the point on
+  // a desktop and in the way on a phone. So it folds: the choice is the
+  // reader's and it is remembered, because someone who wants the map wants
+  // it every time, not once.
+  const overlay = el.querySelector('#map-overlay');
+  const panelToggle = el.querySelector('#panel-toggle');
+  const panelBody = el.querySelector('#panel-body');
+  const PANEL_KEY = 'ssup.panel';
+
+  function setPanel(open) {
+    overlay.classList.toggle('collapsed', !open);
+    panelBody.hidden = !open;
+    panelToggle.setAttribute('aria-expanded', String(open));
+    panelToggle.querySelector('.panel-toggle-text').textContent = open ? 'Hide' : 'Stats & filters';
+    panelToggle.setAttribute('aria-label', open ? 'Hide the panel' : 'Show stats, search and filters');
+  }
+
+  try {
+    setPanel(localStorage.getItem(PANEL_KEY) !== 'closed');
+  } catch { setPanel(true); }
+
+  panelToggle.addEventListener('click', () => {
+    const open = panelToggle.getAttribute('aria-expanded') !== 'true';
+    setPanel(open);
+    try { localStorage.setItem(PANEL_KEY, open ? 'open' : 'closed'); } catch { /* private mode */ }
+  });
 
   // The severity legend is built detached and only appended into #map once
   // renderMap() has populated it (renderMap replaces #map's innerHTML,

@@ -2,8 +2,8 @@
 
 ## What is this?
 
-A free, open-source site that shows who represents your assembly constituency in
-{{state}} — and what they declared about themselves before they were elected.
+A free, non-commercial site that shows who represents your assembly constituency
+in {{state}} — and what they declared about themselves before they were elected.
 
 Every member filed a sworn affidavit with the Election Commission before the
 {{year}} election, covering their education, declared criminal cases, assets and
@@ -26,10 +26,6 @@ maintainer is not affiliated with, employed by, or funded by any political
 party, candidate, government body, media house or NGO.** It carries no
 advertising and does not endorse, oppose, rank or score any representative or
 party.
-
-The code is open at
-[github.com/bhargavbvs/supwithstates](https://github.com/bhargavbvs/supwithstates),
-and every data change is tracked publicly.
 
 ## What this site is not
 

@@ -82,9 +82,8 @@ If something is wrong, we want to know. Write to
 wrong, and — if you have it — the ECI affidavit that shows the correct figure.
 We check it against the original and update the record.
 
-Every change is tracked in the public
-[git history](https://github.com/bhargavbvs/supwithstates), so you can see
-exactly what changed and when.
+Every profile carries the affidavit it was read from and the date it was
+retrieved, so you can check any figure here against its source yourself.
 
 ## The standing disclaimer
 

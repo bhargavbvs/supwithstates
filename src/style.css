@@ -1864,3 +1864,69 @@ body[data-view="districts"] #app { max-width: 1100px; }
   .state-switch { min-width: 0; flex: 0 1 auto; }
   .state-switch select { max-width: 100%; }
 }
+
+/* ---- Folding the map panel -------------------------------------------
+   The panel covers a good part of the map, which is the point on a desktop
+   and in the way on a phone. The reader decides, and the decision is kept
+   in localStorage: someone who wants to see the map wants it every time. */
+
+/* Left, not right: the map's zoom column lives in the top-right corner,
+   and on a phone the panel runs nearly the full width, so a button in its
+   top-right sat underneath the zoom control and could not be tapped. */
+#panel-toggle {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.7rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.5rem;
+  font: inherit;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  background: none;
+  border: 0;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+
+#panel-toggle::after {
+  content: "";
+  border: 0.3em solid transparent;
+  border-top-color: currentColor;
+  transform: translateY(0.15em);
+  transition: transform 140ms ease;
+}
+
+#panel-toggle:hover,
+#panel-toggle:focus-visible { color: var(--accent-ink); }
+
+#map-overlay.collapsed #panel-toggle::after {
+  transform: rotate(180deg) translateY(0.15em);
+}
+
+/* Collapsed, the panel is only its own button — a pill on the map rather
+   than a card over it.
+   
+   The containment has to come off with it. `container-type: inline-size`
+   means the element's width is settled without consulting its contents,
+   which is what makes the stat query work — and it also meant `width:
+   auto` shrank the collapsed panel to its borders, two pixels wide. There
+   is nothing to query when the body is hidden, so containment is only for
+   the open state. */
+#map-overlay.collapsed {
+  container-type: normal;
+  width: auto;
+  padding: 0;
+}
+
+#map-overlay.collapsed #panel-toggle {
+  position: static;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.78rem;
+  color: var(--ink);
+}
+
+/* Room for the button so it never sits on the first stat. */
+#map-overlay:not(.collapsed) { padding-top: 1.9rem; }
