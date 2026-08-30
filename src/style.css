@@ -1808,29 +1808,31 @@ body[data-view="districts"] #app { max-width: 1100px; }
 .swatch.movable { background: #5ca88a; }
 .swatch.immovable { background: #17614a; }
 
-/* ---- The stat strip on a phone ---------------------------------------
-   Three columns across a 390px screen gives each stat about 110px, which
-   is not enough for "with declared criminal cases" — it stacked one word
-   per line into a tall thin column beside two short ones. On a phone the
-   three become three rows, each reading value then label across. */
-@media (max-width: 560px) {
+/* ---- The stat strip ---------------------------------------------------
+   This has to answer to the panel it sits in, not to the window. The map
+   overlay is 340px wide at every desktop size, so three columns gave each
+   stat about 100px and "with declared criminal cases" stacked into four
+   lines — on every desktop view, not just narrow ones. A viewport media
+   query could not see that, because the viewport was 1440px while the
+   thing that mattered was 340.
+
+   Below the phone breakpoint the panel goes full width and three columns
+   are fine, which is why this was easy to miss from a phone. */
+#map-overlay { container-type: inline-size; }
+
+@container (max-width: 460px) {
+  /* Two columns for the whole strip rather than a row per stat, so the
+     figures share one column sized to the widest of them and the labels
+     all begin at the same place. Laid out per row, "₹12,392 Cr" pushed
+     its own label further right than the other two. */
   #stats {
-    grid-template-columns: 1fr;
-    gap: 0.55rem;
-  }
-
-  #stats .stat {
-    flex-direction: row;
+    grid-template-columns: auto 1fr;
+    column-gap: 0.7rem;
+    row-gap: 0.5rem;
     align-items: baseline;
-    gap: 0.6rem;
   }
 
-  #stats .stat b {
-    flex: 0 0 auto;
-    min-width: 6.5rem;
-  }
-
-  #stats .stat span { flex: 1 1 auto; }
+  #stats .stat { display: contents; }
 }
 
 /* ---- Header on a phone ------------------------------------------------
