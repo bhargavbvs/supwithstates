@@ -69,4 +69,11 @@ describe('escapeHtml', () => {
     expect(escapeHtml(null)).toBe('');
     expect(escapeHtml(undefined)).toBe('');
   });
+
+  it('formats a negative as a magnitude with a minus, not a raw number', () => {
+    // Net worth goes negative for the members who owe more than they own.
+    expect(formatRupees(-672000000)).toBe('−₹67.20 crore');
+    expect(formatRupees(-250000)).toBe('−₹2.50 lakh');
+    expect(formatRupees(-500)).toBe('−₹500');
+  });
 });

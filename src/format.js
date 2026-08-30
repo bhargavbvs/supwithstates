@@ -4,9 +4,15 @@ export const CASE_DISCLAIMER =
 
 export function formatRupees(n) {
   if (!Number.isFinite(n)) return '—';
-  if (n >= 1e7) return `₹${(n / 1e7).toFixed(2)} crore`;
-  if (n >= 1e5) return `₹${(n / 1e5).toFixed(2)} lakh`;
-  return `₹${n.toLocaleString('en-IN')}`;
+  // Sixty-one members declare liabilities larger than their assets, so net
+  // worth can be negative — and every comparison below is against a
+  // positive threshold, which sent those down the last branch and printed
+  // "₹-67,20,00,000". Format the size, then say it is owed.
+  const sign = n < 0 ? '−' : '';
+  const v = Math.abs(n);
+  if (v >= 1e7) return `${sign}₹${(v / 1e7).toFixed(2)} crore`;
+  if (v >= 1e5) return `${sign}₹${(v / 1e5).toFixed(2)} lakh`;
+  return `${sign}₹${v.toLocaleString('en-IN')}`;
 }
 
 // A whole-crore, comma-separated form for large aggregate totals (e.g. the

@@ -83,31 +83,61 @@ export function casesSection(rep) {
 
 export function assetsSection(rep) {
   const a = rep.assets;
-  const netWorth = (a.total ?? 0) - (a.liabilities ?? 0);
-  const scale = Math.max(a.movable ?? 0, a.immovable ?? 0, a.liabilities ?? 0, 1);
-  const width = (v) => `${Math.min(100, ((v ?? 0) / scale) * 100).toFixed(1)}%`;
-  const bar = (label, value, cls = '') => `
-    <div class="asset-bar${cls}">
-      <span>${label}</span>
-      <span class="track"><span class="fill" style="width:${width(value)}"></span></span>
-      <span>${formatRupees(value)}</span>
-    </div>`;
+  const owns = a.total ?? 0;
+  const owes = a.liabilities ?? 0;
+  const worth = owns - owes;
+
+  // The old card put movable, immovable and liabilities on one scale as
+  // three bars of the same kind. They are not the same kind: movable and
+  // immovable are the two halves of what a person owns, and liabilities
+  // are the opposite of owning. Read as parts of one whole they gave the
+  // wrong shape entirely.
+  //
+  // So there are two bars now — owns, and owes — sharing one scale, which
+  // makes the second bar's length mean something: how much of what they
+  // own they owe. The scale is the larger of the two because sixty-one
+  // members owe more than they own, one of them nineteen times over, and
+  // a bar pinned at full width would hide exactly the case worth seeing.
+  const scale = Math.max(owns, owes, 1);
+  const pct = (v) => `${Math.min(100, (v / scale) * 100).toFixed(1)}%`;
+
+  const share = owns > 0 ? owes / owns : null;
+  const owedLine = owes === 0
+    ? 'No liabilities declared'
+    : share >= 2
+      ? `Liabilities — ${share.toFixed(share >= 10 ? 0 : 1)}× what they declared owning`
+      : `Liabilities — ${Math.round(share * 100)}% of what they declared owning`;
 
   return `
     <section>
       <h2>Declared assets</h2>
-      <div class="net-worth-headline">
-        <span class="net-worth-label">Net worth</span>
-        <span class="net-worth-value">${formatRupees(netWorth)}</span>
+
+      <div class="worth${worth < 0 ? ' worth-negative' : ''}">
+        <span class="worth-value">${formatRupees(worth)}</span>
+        <span class="worth-label">${worth < 0
+    ? 'Declared liabilities are larger than declared assets'
+    : 'Net worth — what they own, less what they owe'}</span>
       </div>
-      <div class="asset-bars">
-        ${bar('Movable', a.movable)}
-        ${bar('Immovable', a.immovable)}
-        ${bar('Liabilities', a.liabilities, ' liabilities')}
+
+      <div class="ledger-row">
+        <div class="ledger-head"><span>Owns</span><b>${formatRupees(owns)}</b></div>
+        <div class="ledger-bar">
+          <span class="seg movable" style="width:${pct(a.movable ?? 0)}"></span>
+          <span class="seg immovable" style="width:${pct(a.immovable ?? 0)}"></span>
+        </div>
+        <p class="ledger-key">
+          <span><i class="swatch movable"></i>Movable ${formatRupees(a.movable)}</span>
+          <span><i class="swatch immovable"></i>Immovable ${formatRupees(a.immovable)}</span>
+        </p>
       </div>
-      <dl style="margin-top: 0.9rem">
-        <dt>Total assets</dt><dd>${formatRupees(a.total)}</dd>
-      </dl>
+
+      <div class="ledger-row">
+        <div class="ledger-head"><span>Owes</span><b>${formatRupees(owes)}</b></div>
+        <div class="ledger-bar">
+          <span class="seg owed" style="width:${pct(owes)}"></span>
+        </div>
+        <p class="ledger-key"><span>${escapeHtml(owedLine)}</span></p>
+      </div>
     </section>`;
 }
 
