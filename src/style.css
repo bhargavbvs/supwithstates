@@ -21,20 +21,38 @@
     U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 @font-face {
-  font-family: "Space Grotesk";
+  font-family: "Playfair Display";
   font-style: normal;
-  font-weight: 300 700;
+  font-weight: 400 900;
   font-display: swap;
-  src: url("/fonts/SpaceGrotesk-latin.woff2") format("woff2");
+  src: url("/fonts/PlayfairDisplay-latin.woff2") format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
     U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: "Space Grotesk";
+  font-family: "Playfair Display";
   font-style: normal;
-  font-weight: 300 700;
+  font-weight: 400 900;
   font-display: swap;
-  src: url("/fonts/SpaceGrotesk-latin-ext.woff2") format("woff2");
+  src: url("/fonts/PlayfairDisplay-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329,
+    U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("/fonts/JetBrainsMono-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("/fonts/JetBrainsMono-latin-ext.woff2") format("woff2");
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329,
     U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
@@ -54,7 +72,22 @@
   --shadow: 0 10px 34px rgba(33, 29, 26, 0.14);
   --radius: 18px;
   --radius-sm: 12px;
-  --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  /* Three faces, one job each — the same division schoolsthikkaro.in
+     uses, because the two sites are the same argument about the same
+     records and should read as siblings.
+
+     Serif for the name at the top of a page: this is a printed record
+     about a person, and a headline face says so. Mono for anything that
+     is a figure or a label — rupees, case counts, section headings, the
+     wordmark — because a monospace digit is the one that lines up in a
+     column and does not shift as it counts. Sans for prose.
+
+     What went wrong before was not the faces but the count of jobs: one
+     display face was doing headlines, numbers, chips and labels at once,
+     so nothing on the page told a reader which kind of thing they were
+     looking at. */
+  --font-display: "Playfair Display", Georgia, "Times New Roman", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   --font-body: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
 
   /* Severity scale: color always paired with a text label elsewhere in the
@@ -91,8 +124,36 @@ body {
   min-height: 100dvh;
 }
 
-h1, h2, .big, #stats .stat b, .party-chip, .sev-badge, .sev-tag {
+/* The only serif on the site. */
+h1 {
   font-family: var(--font-display);
+}
+
+/* Figures and labels — never sentences. A monospace face is right for a
+   rupee figure, a case count, a party code, a section heading; set a whole
+   sentence in it and the page reads like a terminal. "1 declared criminal
+   case" and "Declared cases, none serious" are sentences and stay in the
+   body face. */
+h2,
+.worth-value,
+.net-worth-value,
+#stats .stat b,
+.ledger-head,
+.party-chip,
+.sev-tag,
+.case-chip,
+.status-chip,
+.sort-tab,
+.crumb,
+.back,
+#site-header .logo,
+.menu-btn {
+  font-family: var(--font-mono);
+}
+
+.big {
+  font-family: var(--font-body);
+  font-weight: 700;
 }
 
 a {
@@ -486,14 +547,17 @@ path.district-line {
   flex-direction: column;
 }
 
+/* Mono digits are wider than the sans they replaced, and "₹937 Cr"
+   broke across two lines in a third of the stat card. */
 #stats .stat b {
-  font-size: 1.5rem;
+  font-size: clamp(1.1rem, 2.4vw, 1.35rem);
   line-height: 1.1;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.04em;
   background: linear-gradient(90deg, var(--accent-ink), var(--accent));
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+  white-space: nowrap;
 }
 
 #stats .stat span {
@@ -642,15 +706,17 @@ button {
 }
 
 h1 {
-  font-size: 1.6rem;
-  letter-spacing: -0.02em;
-  margin: 0 0 0.25rem;
+  font-size: 1.95rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 1.12;
+  margin: 0 0 0.3rem;
 }
 
 h2 {
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--muted);
   margin: 0 0 0.75rem;
@@ -892,7 +958,7 @@ section {
   border-radius: 999px;
   font-size: 0.78rem;
   font-weight: 700;
-  font-family: var(--font-display);
+  font-family: var(--font-mono);
 }
 
 .chip-ok   { background: #e5f7ec; color: #157a45; }
@@ -921,7 +987,7 @@ section {
 .net-worth-value {
   font-size: 1.75rem;
   font-weight: 700;
-  font-family: var(--font-display);
+  font-family: var(--font-mono);
   letter-spacing: -0.02em;
   line-height: 1;
   background: linear-gradient(90deg, var(--accent-ink), var(--accent));
@@ -1173,8 +1239,9 @@ dd {
 }
 
 #site-header .logo {
-  font-family: var(--font-display);
-  font-weight: 700;
+  font-family: var(--font-mono);
+  font-weight: 600;
+  letter-spacing: -0.02em;
   color: var(--accent-ink);
   text-decoration: none;
   font-size: 1.1rem;
@@ -1478,7 +1545,9 @@ dd {
 
 .menu-btn {
   font: inherit;
-  font-weight: 600;
+  font-family: var(--font-mono);
+  font-weight: 500;
+  letter-spacing: 0.02em;
   color: var(--muted-ink, #5b5b66);
   background: none;
   border: 0;
