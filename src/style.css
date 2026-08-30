@@ -58,9 +58,18 @@
 }
 
 :root {
-  --ink: #211d1a;
-  --muted: #6b655d;
-  --faint: #75705f;
+  /* Three steps of text, measured, with a real gap between each.
+     Against the page ground these are 15.8:1, 8.8:1 and 5.4:1.
+
+     There used to be two: everything was either --ink or --muted, so
+     every paragraph on the site was set at maximum black — the weight of
+     a headline, for a sentence — and there was nothing in between. The
+     third token, --faint, was 1.16× from --muted, which is a difference
+     no eye resolves; it did not add a step, it added an ambiguity. It is
+     gone and its eight uses now say --muted, which is what they meant. */
+  --ink: #211d1a;      /* names and headlines */
+  --body: #4a4640;     /* prose */
+  --muted: #6b655d;    /* labels, captions, secondary */
   --line: #e7e1d6;
   --accent: #0f6e5c;
   --accent-ink: #0b4e42;
@@ -117,7 +126,7 @@ body {
   padding: 0;
   font-family: var(--font-body);
   line-height: 1.5;
-  color: var(--ink);
+  color: var(--body);
   background: var(--bg);
   display: flex;
   flex-direction: column;
@@ -154,6 +163,7 @@ h2,
 .big {
   font-family: var(--font-body);
   font-weight: 700;
+  color: var(--ink);
 }
 
 a {
@@ -396,7 +406,7 @@ path.district-line {
 }
 
 #map-legend .count {
-  color: var(--faint);
+  color: var(--muted);
   font-variant-numeric: tabular-nums;
 }
 
@@ -460,7 +470,7 @@ path.district-line {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  color: var(--faint);
+  color: var(--muted);
 }
 
 .chip-row {
@@ -567,7 +577,7 @@ path.district-line {
 
 .disclaimer {
   font-size: 0.72rem;
-  color: var(--faint);
+  color: var(--muted);
   margin: 0.7rem 0 0.9rem;
 }
 
@@ -706,6 +716,7 @@ button {
 }
 
 h1 {
+  color: var(--ink);
   font-size: 1.95rem;
   font-weight: 800;
   letter-spacing: 0;
@@ -817,7 +828,7 @@ h2 {
 .ac-list small {
   display: block;
   font-size: 0.78rem;
-  color: var(--faint);
+  color: var(--muted);
   margin-top: 0.15rem;
 }
 
@@ -862,7 +873,7 @@ h2 {
 
 .credit {
   display: block;
-  color: var(--faint);
+  color: var(--muted);
   font-size: 0.68rem;
 }
 
@@ -885,10 +896,16 @@ h2 {
   background: currentColor;
 }
 
-.sev-badge.sev-0 { background: #e5f7ec; color: #157a45; }
-.sev-badge.sev-1 { background: #fdf1d9; color: #a8730b; }
-.sev-badge.sev-2 { background: #fbe4dc; color: #b6431f; }
-.sev-badge.sev-3 { background: #f6dde2; color: #7d1526; }
+/* Measured against their own ground, not guessed. The amber badge was
+   3.66:1 at 12px, which is below the 4.5:1 a reader is owed for text that
+   size — and it is the badge that says a member has declared cases, so it
+   is not one to leave hard to read. The green and orange passed at 4.83
+   and 4.52, close enough to the line that a slightly different screen
+   loses them, so both got headroom too. */
+.sev-badge.sev-0 { background: #e5f7ec; color: #146c3e; }  /* 5.81:1 */
+.sev-badge.sev-1 { background: #fdf1d9; color: #875c07; }  /* 5.26:1 */
+.sev-badge.sev-2 { background: #fbe4dc; color: #a83c1b; }  /* 5.18:1 */
+.sev-badge.sev-3 { background: #f6dde2; color: #7d1526; }  /* 8.15:1 */
 
 .party-chip {
   display: inline-flex;
@@ -1116,7 +1133,7 @@ section {
 }
 
 .result-bar.runner-up .fill {
-  background: var(--faint);
+  background: var(--muted);
 }
 
 .margin-note {
@@ -1342,7 +1359,7 @@ dd {
   font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--faint);
+  color: var(--muted);
   font-weight: 700;
 }
 
@@ -1383,7 +1400,7 @@ dd {
 .promise-evidence h4 {
   font-size: 0.8rem;
   text-transform: uppercase;
-  color: var(--faint);
+  color: var(--muted);
   letter-spacing: 0.05em;
   margin: 0 0 0.5rem;
 }
@@ -1423,7 +1440,9 @@ dd {
   padding: 0.1rem 0.4rem;
   background: var(--line);
   border-radius: 4px;
-  color: var(--muted);
+  /* --muted is a colour for text on the page ground. This chip has its
+     own, darker ground, which took it to 4.43:1 at ten pixels. */
+  color: var(--body);
   text-transform: uppercase;
 }
 
