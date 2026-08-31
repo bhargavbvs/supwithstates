@@ -83,7 +83,7 @@ export function renderBudget(el, param) {
         <div class="spend-track">
           <span class="spend-fill" style="width:${pct(s.budgeted, widest).toFixed(1)}%"></span>
         </div>
-        <p class="spend-share">₹${sectorShare.get(s.name)} of every ₹100 the state spends${
+        <p class="spend-share">${sectorShare.get(s.name)}% of everything the state spends${
   diff == null ? '' : ` · ${change}`}</p>
       </div>`;
   }).join('');
@@ -122,13 +122,13 @@ export function renderBudget(el, param) {
       <h2>The year in one line</h2>
       <p class="sub">Everything the state plans to spend is either money it has, or money it borrows.</p>
       <div class="split" role="img"
-        aria-label="Of ${crore(h.netExpenditure)} to spend, ${crore(h.netReceipts)} is money it has and ${crore(h.fiscalDeficit)} is borrowed">
+        aria-label="Of ${crore(h.netExpenditure)} to spend, ${splitShares[0]}% is money it has and ${splitShares[1]}% is borrowed">
         <span class="split-have" style="width:${pct(h.netReceipts, h.netExpenditure).toFixed(1)}%">
-          <span class="split-amt">₹${splitShares[0]} of every ₹100</span>
+          <span class="split-amt">${splitShares[0]}%</span>
           <span class="split-label">money it has · ${crore(h.netReceipts)}</span>
         </span>
         <span class="split-borrow" style="width:${pct(h.fiscalDeficit, h.netExpenditure).toFixed(1)}%">
-          <span class="split-amt">₹${splitShares[1]}</span>
+          <span class="split-amt">${splitShares[1]}%</span>
           <span class="split-label">borrowed · ${crore(h.fiscalDeficit)}</span>
         </span>
       </div>
@@ -137,16 +137,16 @@ export function renderBudget(el, param) {
     </section>
 
     <section>
-      <h2>Where every ₹100 comes from</h2>
-      <p class="sub">Not all of it is the state's own money. Of every ₹100 it plans to spend:</p>
-      <div class="r100" role="img" aria-label="${escapeHtml(r100.map((p) => `₹${p.share} ${p.name}`).join(', '))}">
+      <h2>Where the money comes from</h2>
+      <p class="sub">Not all of it is the state's own. Of everything it plans to spend this year:</p>
+      <div class="r100" role="img" aria-label="${escapeHtml(r100.map((p) => `${p.share}% ${p.name}`).join(', '))}">
         ${r100.map((p) => `<span class="r100-seg ${p.cls}" style="width:${p.share}%"></span>`).join('')}
       </div>
       <ul class="r100-key">
         ${r100.map((p) => `
           <li>
             <i class="swatch ${p.cls}"></i>
-            <span class="r100-share">₹${p.share}</span>
+            <span class="r100-share">${p.share}%</span>
             <span class="r100-name">
               ${escapeHtml(p.plain ?? p.name)}
               ${p.plain ? `<small>${escapeHtml(p.name)}</small>` : ''}

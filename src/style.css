@@ -2085,7 +2085,7 @@ body[data-view="districts"] #app { max-width: 1100px; }
    block and the whole row drifted. */
 .r100-key li {
   display: grid;
-  grid-template-columns: 0.6rem 2.4rem 1fr auto;
+  grid-template-columns: 0.6rem 2.7rem 1fr auto;
   align-items: baseline;
   gap: 0.55rem;
 }
