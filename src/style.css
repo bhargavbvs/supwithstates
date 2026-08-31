@@ -2049,3 +2049,100 @@ body[data-view="districts"] #app { max-width: 1100px; }
   .alloc-list li { flex-direction: column; gap: 0.1rem; }
   .alloc-amt { flex: 0 0 auto; text-align: left; }
 }
+
+/* ---- Every ₹100 ------------------------------------------------------
+   One strip, five segments, integer rupees that reach exactly 100. Green
+   for what the state raises itself, a lighter green for what the centre
+   sends, and the page's gap colour for what is borrowed — the same orange
+   the fiscal deficit is printed in above, because it is the same fact. */
+
+.r100 {
+  display: flex;
+  height: 2.1rem;
+  border-radius: 0.55rem;
+  overflow: hidden;
+}
+
+.r100-seg.own { background: var(--accent-ink); }
+.r100-seg.own + .r100-seg.own { background: var(--accent); }
+.r100-seg.centre { background: #8fbcab; }
+.r100-seg.centre + .r100-seg.centre { background: #b7d4c8; }
+.r100-seg.borrowed { background: var(--sev-2); }
+
+.r100-key {
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.45rem;
+}
+
+.r100-key li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.55rem;
+}
+
+.r100-key .swatch { align-self: center; }
+.r100-key .swatch.own { background: var(--accent-ink); }
+.r100-key li:nth-child(2) .swatch.own { background: var(--accent); }
+.r100-key .swatch.centre { background: #8fbcab; }
+.r100-key li:nth-child(4) .swatch.centre { background: #b7d4c8; }
+.r100-key .swatch.borrowed { background: var(--sev-2); }
+
+.r100-share {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  flex: 0 0 2.2rem;
+  text-align: right;
+}
+
+.r100-name { flex: 1 1 auto; }
+
+.r100-amt {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+/* ---- Treemap ---------------------------------------------------------
+   Area is the encoding, so nothing else is allowed to exaggerate: three
+   quiet greens rotate so neighbours read apart, and "everything else" sits
+   in the line colour to say it is context, not a sector. */
+
+#treemap {
+  position: relative;
+  border-radius: 0.7rem;
+  overflow: hidden;
+}
+
+.tm-tile {
+  position: absolute;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.1rem;
+  padding: 0.5rem 0.6rem;
+  border: 2px solid var(--bg);
+  border-radius: 0.45rem;
+  overflow: hidden;
+}
+
+.tm-0 { background: var(--accent-ink); color: #eaf3ef; }
+.tm-1 { background: #2e7d5f; color: #eef6f1; }
+.tm-2 { background: #5ca88a; color: #10362a; }
+.tm-other { background: var(--line); color: var(--muted); }
+
+.tm-name {
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.tm-amt {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  opacity: 0.85;
+}
