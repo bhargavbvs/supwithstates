@@ -41,6 +41,7 @@ export const store = {
   get mps() { return data.mps ?? []; },
   get promises() { return data.promises ?? []; },
   get promiseSets() { return data.promiseSets ?? []; },
+  get budget() { return data.budget ?? null; },
 
   /** The member of parliament for the seat a constituency sits in.
    *

@@ -63,6 +63,24 @@ state's assembly and their party. Where that cannot be shown, no photograph is
 used and the page shows their initials. A wrong face on a named person is worse
 than no face.
 
+## Budget figures
+
+Where a state's budget is shown, the figures come from **PRS Legislative
+Research**, an independent institute that reads each state's Annual Financial
+Statement and budget documents and publishes an analysis of them. We read that
+analysis, not the state's own scanned volumes, because it is the only form these
+numbers exist in that anyone can check line by line — and every figure links
+back to the document it was taken from.
+
+They are **budget estimates**: what the state has said it plans to spend, not
+what it has spent. The comparison shown against each head of spending is with
+the previous year's revised estimate.
+
+The named schemes are listed on their own rather than filed under a head of
+spending. The budget documents print them alongside the sector tables without
+tying each one to a row, so attaching them by position would be guessing which
+purpose the money serves.
+
 ## What is missing, and why
 
 Some seats have no member on this site. In every case it is because the source

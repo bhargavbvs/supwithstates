@@ -86,6 +86,11 @@ for (const slug of slugs) {
     : {};
   const pages = { ...sharedPages, ...ownPages };
 
+  // The state's budget, where it has been parsed. Absent for a state whose
+  // PRS analysis has not been read yet, and the page is simply not offered.
+  const budgetPath = join(stateDir, 'budget.json');
+  const budget = existsSync(budgetPath) ? JSON.parse(readFileSync(budgetPath, 'utf8')) : null;
+
   const promiseSets = readAll(join(stateDir, 'promise-sets'));
   const promises = readAll(join(stateDir, 'promises'));
 
@@ -105,6 +110,7 @@ for (const slug of slugs) {
     constituencies,
     mps,
     pcOf,
+    budget,
     promiseSets,
     promises,
   }));

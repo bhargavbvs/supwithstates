@@ -1,0 +1,159 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 322359,
+    "netExpenditure": 297929,
+    "totalReceipts": 321659,
+    "netReceipts": 218002,
+    "borrowings": 103657,
+    "fiscalDeficit": 79927,
+    "revenueDeficit": 33186,
+    "gsdp": 1825000
+  },
+  "sectors": [
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 36185,
+      "budgeted": 52047,
+      "changePct": 35
+    },
+    {
+      "name": "Education, Sports, Arts and Culture",
+      "actuals": 31400,
+      "budgeted": 35213,
+      "changePct": 10
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 15106,
+      "budgeted": 19589,
+      "changePct": 14
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 14147,
+      "budgeted": 18140,
+      "changePct": 50
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 6802,
+      "budgeted": 16490,
+      "changePct": 77
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 10022,
+      "budgeted": 14138,
+      "changePct": 128
+    },
+    {
+      "name": "Energy",
+      "actuals": 14927,
+      "budgeted": 13135,
+      "changePct": -9
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 8633,
+      "budgeted": 11625,
+      "changePct": -8
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 5957,
+      "budgeted": 9071,
+      "changePct": -38
+    },
+    {
+      "name": "Transport",
+      "actuals": 6105,
+      "budgeted": 8055,
+      "changePct": 12
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 19899,
+      "text": "NTR Bharosa pension scheme"
+    },
+    {
+      "amount": 20492,
+      "text": "teaching grants"
+    },
+    {
+      "amount": 2335,
+      "text": "Samagra Shiksha"
+    },
+    {
+      "amount": 4000,
+      "text": "Dr Nandamuri Taraka Ramarao Vaidya Seva trust"
+    },
+    {
+      "amount": 1385,
+      "text": "teaching hospitals"
+    },
+    {
+      "amount": 5956,
+      "text": "rural employment"
+    },
+    {
+      "amount": 6705,
+      "text": "Polavaram project"
+    },
+    {
+      "amount": 3447,
+      "text": "irrigation projects in Anantpur"
+    },
+    {
+      "amount": 6300,
+      "text": "Annadatta Sukhibhava scheme"
+    },
+    {
+      "amount": 11883,
+      "text": "power subsidy for agricultural and allied activities"
+    },
+    {
+      "amount": 6000,
+      "text": "Amaravati capital city development project"
+    },
+    {
+      "amount": 3344,
+      "text": "subsidy on rice"
+    },
+    {
+      "amount": 900,
+      "text": "Bala Sanjeevani scheme"
+    },
+    {
+      "amount": 1968,
+      "text": "capital outlay on roads and bridges"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 109007
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 19119
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 57566
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 32284
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/andhra-pradesh-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/andhra-pradesh/2025/AP_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

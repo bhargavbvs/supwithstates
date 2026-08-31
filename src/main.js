@@ -7,6 +7,7 @@ import { renderStatic } from './views/static.js';
 import { renderPromises } from './views/promises.js';
 import { renderMps } from './views/mps.js';
 import { renderRoster, renderDistricts } from './views/roster.js';
+import { renderBudget } from './views/budget.js';
 import { escapeHtml } from './format.js';
 
 const app = document.getElementById('app');
@@ -18,6 +19,7 @@ const views = {
   mps: renderMps,
   roster: renderRoster,
   districts: renderDistricts,
+  budget: renderBudget,
   promises: renderPromises,
   methodology: (el) => renderStatic(el, 'methodology'),
   about: (el) => renderStatic(el, 'about'),
@@ -49,6 +51,7 @@ function paintChrome(view) {
       [store.href('mps'), `${store.state.name} in the Lok Sabha`, ['mps']],
     ]],
     ['More', [
+      ...(store.budget ? [[store.href('budget'), 'Budget', ['budget']]] : []),
       ...(store.promiseSets.length ? [[store.href('promises'), 'Govt Tracker', ['promises']]] : []),
       [store.href('methodology'), 'Methodology', ['methodology']],
       [store.href('about'), 'About', ['about']],

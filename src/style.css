@@ -1930,3 +1930,122 @@ body[data-view="districts"] #app { max-width: 1100px; }
 
 /* Room for the button so it never sits on the first stat. */
 #map-overlay:not(.collapsed) { padding-top: 1.9rem; }
+
+/* ---- Budget ----------------------------------------------------------
+   Bars drawn against the largest head of spending, not against the total,
+   because the total is not on the page and a bar the reader cannot measure
+   against anything is decoration. The share is written out beside it. */
+
+.budget-heads {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 0.9rem;
+}
+
+.budget-head {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.budget-head-value {
+  font-family: var(--font-mono);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent-ink);
+  line-height: 1.15;
+}
+
+.budget-head-value.gap { color: var(--sev-2); }
+
+.budget-head-label {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.spend-row + .spend-row { margin-top: 0.85rem; }
+.spend-row.compact + .spend-row.compact { margin-top: 0.6rem; }
+
+.spend-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.8rem;
+  margin-bottom: 0.3rem;
+}
+
+.spend-name { font-weight: 600; }
+
+.spend-amt {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  white-space: nowrap;
+  flex: 0 0 auto;
+}
+
+.spend-amt .chg {
+  margin-left: 0.35rem;
+  font-size: 0.8rem;
+}
+
+/* Neither colour nor red. A state raising welfare spending by 35% has not
+   done something alarming, and one cutting it by 38% has not done
+   something good — this site does not score, and the severity palette
+   means something specific here. The sign carries the direction and
+   nothing else is implied. */
+.spend-amt .chg { color: var(--muted); }
+.spend-amt .chg.up { color: var(--body); }
+
+.spend-track {
+  height: 0.6rem;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+}
+
+.spend-fill {
+  display: block;
+  height: 100%;
+  background: var(--accent-ink);
+}
+
+.spend-fill.in { background: #5ca88a; }
+
+.spend-share {
+  margin: 0.25rem 0 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.alloc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.1rem;
+}
+
+.alloc-list li {
+  display: flex;
+  gap: 0.9rem;
+  align-items: baseline;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.alloc-list li:last-child { border-bottom: 0; }
+
+.alloc-amt {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  color: var(--accent-ink);
+  flex: 0 0 9.5rem;
+  text-align: right;
+}
+
+.alloc-text { flex: 1 1 auto; }
+
+@media (max-width: 520px) {
+  .alloc-list li { flex-direction: column; gap: 0.1rem; }
+  .alloc-amt { flex: 0 0 auto; text-align: left; }
+}
