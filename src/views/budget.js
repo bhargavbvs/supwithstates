@@ -89,21 +89,20 @@ export function renderBudget(el) {
       Money is in crore — one crore is ten million rupees — written <b>cr</b>.</p>
 
     <section>
-      <h2>The year in three numbers</h2>
-      <div class="budget-heads">
-        <div class="budget-head">
-          <span class="budget-head-value">${crore(h.netExpenditure)}</span>
-          <span class="budget-head-label">is what the state plans to <b>spend</b> this year</span>
-        </div>
-        <div class="budget-head">
-          <span class="budget-head-value">${crore(h.netReceipts)}</span>
-          <span class="budget-head-label">is what it expects to <b>get</b> — taxes, and money from Delhi</span>
-        </div>
-        <div class="budget-head short">
-          <span class="budget-head-value gap">${crore(h.fiscalDeficit)}</span>
-          <span class="budget-head-label">is the <b>shortfall</b>. It will borrow this, and pay it back later</span>
-        </div>
+      <h2>The year in one line</h2>
+      <p class="sub">Everything the state plans to spend is either money it has, or money it borrows.</p>
+      <div class="split" role="img"
+        aria-label="Of ${crore(h.netExpenditure)} to spend, ${crore(h.netReceipts)} is money it has and ${crore(h.fiscalDeficit)} is borrowed">
+        <span class="split-have" style="width:${pct(h.netReceipts, h.netExpenditure).toFixed(1)}%">
+          <span class="split-amt">${crore(h.netReceipts)}</span>
+          <span class="split-label">money it has</span>
+        </span>
+        <span class="split-borrow" style="width:${pct(h.fiscalDeficit, h.netExpenditure).toFixed(1)}%">
+          <span class="split-amt">${crore(h.fiscalDeficit)}</span>
+          <span class="split-label">borrowed</span>
+        </span>
       </div>
+      <p class="split-total">${crore(h.netExpenditure)} to spend in all</p>
     </section>
 
     <section>
@@ -137,6 +136,31 @@ export function renderBudget(el) {
         up or down since last year:</p>
       ${sectorRows}
     </section>
+
+    ${!b.years || !b.overYears ? '' : `
+    <section>
+      <h2>Year by year</h2>
+      <p class="sub">The same three lines across the years the budget reports. They are not the same
+        kind of number — ${escapeHtml(b.years.map((y) => `${y.label} is what was ${y.kind}`).join(', '))} —
+        so each bar says which it is.</p>
+      ${['netExpenditure', 'netReceipts', 'fiscalDeficit'].map((key) => {
+    const row = b.overYears[key];
+    const label = { netExpenditure: 'Spending', netReceipts: 'Money it has', fiscalDeficit: 'Borrowed' }[key];
+    const top = Math.max(...b.years.map((y) => row[y.key] ?? 0), 1);
+    return `
+      <div class="years-row">
+        <h3>${label}</h3>
+        ${b.years.map((y) => `
+          <div class="years-bar">
+            <span class="years-when">${escapeHtml(y.label)}</span>
+            <span class="track"><span class="fill ${key === 'fiscalDeficit' ? 'owed' : ''}"
+              style="width:${(((row[y.key] ?? 0) / top) * 100).toFixed(1)}%"></span></span>
+            <span class="years-amt">${crore(row[y.key])}</span>
+            <span class="years-kind">${escapeHtml(y.kind)}</span>
+          </div>`).join('')}
+      </div>`;
+  }).join('')}
+    </section>`}
 
     <section>
       <h2>What it pays for</h2>

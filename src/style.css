@@ -2229,3 +2229,107 @@ body[data-view="districts"] #app { max-width: 1100px; }
 }
 
 .tm-tile:has(.tm-amt.upright) { justify-content: center; align-items: center; padding: 0.3rem; }
+
+/* ---- The year in one line ---------------------------------------------
+   Spending split into the part the state has and the part it borrows. A
+   bar rather than three separate figures, because the fact worth seeing is
+   the proportion between them and no set of numbers side by side shows a
+   proportion. */
+
+.split {
+  display: flex;
+  height: 4.6rem;
+  border-radius: 0.6rem;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.split-have,
+.split-borrow {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.1rem;
+  padding: 0 0.85rem;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.split-have { background: var(--accent-ink); color: #eef6f1; }
+.split-borrow { background: var(--sev-2); color: #fff; }
+
+.split-amt {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.98rem;
+  white-space: nowrap;
+}
+
+.split-label { font-size: 0.78rem; opacity: 0.92; white-space: nowrap; }
+
+.split-total {
+  margin: 0 0 1.3rem;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+/* ---- Year by year -----------------------------------------------------
+   Spent, revised and budgeted are three different kinds of number, so each
+   bar carries the word for what it is rather than being drawn as though
+   they were one series. */
+
+.years-row + .years-row { margin-top: 1.3rem; }
+
+.years-row h3 {
+  margin: 0 0 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.years-bar {
+  display: grid;
+  grid-template-columns: 4.2rem 1fr auto 4.6rem;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.35rem;
+}
+
+.years-when,
+.years-amt {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+}
+
+.years-amt { text-align: right; white-space: nowrap; }
+
+.years-kind {
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
+.years-bar .track {
+  height: 0.55rem;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+}
+
+.years-bar .fill {
+  display: block;
+  height: 100%;
+  background: var(--accent-ink);
+}
+
+.years-bar .fill.owed { background: var(--sev-2); }
+
+@media (max-width: 520px) {
+  .years-bar { grid-template-columns: 3.6rem 1fr auto; }
+  .years-kind { grid-column: 2 / -1; margin-top: -0.15rem; }
+  .split { height: auto; flex-direction: column; }
+  .split-have, .split-borrow { width: 100% !important; padding: 0.6rem 0.85rem; }
+}

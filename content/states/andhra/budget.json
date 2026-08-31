@@ -11,64 +11,121 @@
     "revenueDeficit": 33186,
     "gsdp": 1825000
   },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 236511,
+      "budgetedPrev": 269928,
+      "revisedPrev": 249418,
+      "budgeted": 297929
+    },
+    "netReceipts": {
+      "actuals": 173791,
+      "budgetedPrev": 201186,
+      "revisedPrev": 176056,
+      "budgeted": 218002
+    },
+    "fiscalDeficit": {
+      "actuals": 62720,
+      "budgetedPrev": 68743,
+      "revisedPrev": 73362,
+      "budgeted": 79927
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
   "sectors": [
     {
       "name": "Welfare of SC, ST, OBC, and Minorities",
       "actuals": 36185,
+      "budgetedPrev": 47277,
+      "revisedPrev": 38475,
       "budgeted": 52047,
       "changePct": 35
     },
     {
       "name": "Education, Sports, Arts and Culture",
       "actuals": 31400,
+      "budgetedPrev": 33111,
+      "revisedPrev": 31882,
       "budgeted": 35213,
       "changePct": 10
     },
     {
       "name": "Health and Family Welfare",
       "actuals": 15106,
+      "budgetedPrev": 18732,
+      "revisedPrev": 17202,
       "budgeted": 19589,
       "changePct": 14
     },
     {
       "name": "Rural Development",
       "actuals": 14147,
+      "budgetedPrev": 15899,
+      "revisedPrev": 12073,
       "budgeted": 18140,
       "changePct": 50
     },
     {
       "name": "Irrigation and Flood Control",
       "actuals": 6802,
+      "budgetedPrev": 15237,
+      "revisedPrev": 9339,
       "budgeted": 16490,
       "changePct": 77
     },
     {
       "name": "Agriculture and Allied Activities",
       "actuals": 10022,
+      "budgetedPrev": 12514,
+      "revisedPrev": 6192,
       "budgeted": 14138,
       "changePct": 128
     },
     {
       "name": "Energy",
       "actuals": 14927,
+      "budgetedPrev": 7612,
+      "revisedPrev": 14466,
       "budgeted": 13135,
       "changePct": -9
     },
     {
       "name": "Urban Development",
       "actuals": 8633,
+      "budgetedPrev": 11168,
+      "revisedPrev": 12604,
       "budgeted": 11625,
       "changePct": -8
     },
     {
       "name": "Social Welfare and Nutrition",
       "actuals": 5957,
+      "budgetedPrev": 11899,
+      "revisedPrev": 14700,
       "budgeted": 9071,
       "changePct": -38
     },
     {
       "name": "Transport",
       "actuals": 6105,
+      "budgetedPrev": 8035,
+      "revisedPrev": 7192,
       "budgeted": 8055,
       "changePct": 12
     }

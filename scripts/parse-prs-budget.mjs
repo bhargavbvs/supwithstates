@@ -49,6 +49,15 @@ async function pdfUrl() {
   return { page, pdf: hit[1].startsWith('http') ? hit[1] : `https://prsindia.org${hit[1]}` };
 }
 
+// "2025-26" -> the three columns the table carries, oldest first.
+const endYear = Number(YEAR.slice(0, 4));
+const label = (start) => `${start}-${String(start + 1).slice(2)}`;
+const YEAR_LABELS = [
+  { key: 'actuals', label: label(endYear - 2), kind: 'spent' },
+  { key: 'revisedPrev', label: label(endYear - 1), kind: 'revised' },
+  { key: 'budgeted', label: label(endYear), kind: 'budgeted' },
+];
+
 const { page, pdf } = await pdfUrl();
 const file = `${CACHE}/${SLUG}-${YEAR}.pdf`;
 if (!existsSync(file)) {
@@ -83,6 +92,10 @@ function row(rows, label) {
 // ---- Table 1: what the state takes in and what it spends ---------------
 const t1 = table('Table 1:');
 const pick = (label, i) => (row(t1, label) ?? [])[i] ?? null;
+const series = (label) => {
+  const r = row(t1, label) ?? [];
+  return { actuals: r[0] ?? null, budgetedPrev: r[1] ?? null, revisedPrev: r[2] ?? null, budgeted: r[4] ?? null };
+};
 const headline = {
   totalExpenditure: pick('Total Expenditure', 4),
   netExpenditure: pick('Net Expenditure', 4),
@@ -92,6 +105,14 @@ const headline = {
   fiscalDeficit: pick('Fiscal Deficit', 4),
   revenueDeficit: pick('Revenue Deficit', 4),
   gsdp: pick('GSDP', 4),
+};
+
+// The same three lines across the years the table covers, so the page can
+// show a direction and not only a destination.
+const overYears = {
+  netExpenditure: series('Net Expenditure'),
+  netReceipts: series('Net Receipts'),
+  fiscalDeficit: series('Fiscal Deficit'),
 };
 
 // ---- Table 4: where it goes -------------------------------------------
@@ -153,7 +174,18 @@ for (let i = 0; i < t4.length; i += 1) {
 
   const name = parts.filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
   if (!name || /\d/.test(name) || HEADER.test(name)) continue;
-  sectors.push({ name, actuals: figures[0], budgeted: figures[3], changePct: figures[4] ?? null });
+  // All four columns, not two. The table gives what was actually spent
+  // two years ago, what was budgeted last year, what last year's figure
+  // was revised to, and what is budgeted now — which is the difference
+  // between a number and a direction of travel.
+  sectors.push({
+    name,
+    actuals: figures[0],
+    budgetedPrev: figures[1],
+    revisedPrev: figures[2],
+    budgeted: figures[3],
+    changePct: figures[4] ?? null,
+  });
 }
 
 // The scheme column, read down the page. It is found by its bullet rather
@@ -224,6 +256,12 @@ const out = {
   year: YEAR,
   unit: 'rupees crore',
   headline,
+  overYears,
+  // The three years the table carries, oldest first, each labelled with
+  // what kind of figure it is — spent, revised, or budgeted. They are not
+  // the same kind of number and the page must not draw them as if they
+  // were.
+  years: YEAR_LABELS,
   sectors,
   namedAllocations,
   receipts,
