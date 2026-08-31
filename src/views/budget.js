@@ -119,6 +119,13 @@ export function renderBudget(el, param) {
       <h2>Debt and deficits</h2>
       <p class="sub">The three figures a state's finances are usually judged on, each as a share of
         the size of the state's economy — which is how they are set, compared and capped.</p>
+      ${!h.gsdp ? '' : `
+      <p class="gsdp">
+        <span class="gsdp-label">The state's economy · GSDP</span>
+        <b class="gsdp-amt">${crore(h.gsdp)}</b>
+        <span class="gsdp-note">the value of everything produced in the state in a year.
+          Each figure below is a share of this.</span>
+      </p>`}
       <dl class="fiscal">
         ${b.fiscal.fiscalDeficit?.budgeted == null ? '' : `
         <div>
@@ -142,8 +149,8 @@ export function renderBudget(el, param) {
           <dd class="fiscal-note">Everything borrowed and not yet repaid, added up over the years.</dd>
         </div>`}
       </dl>
-      <p class="sub">"the state's economy" is its GSDP${h.gsdp ? `, ${crore(h.gsdp)} this year` : ''} —
-        the value of everything produced in the state in a year.</p>
+      ${h.gsdp ? '' : `<p class="sub">"the state's economy" is its GSDP — the value of everything
+        produced in the state in a year.</p>`}
     </section>`;
 
   el.innerHTML = `
