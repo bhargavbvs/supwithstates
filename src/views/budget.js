@@ -174,19 +174,76 @@ export function renderBudget(el) {
   function paint() {
     const w = box.clientWidth;
     if (!w) return;
-    const hgt = Math.max(300, Math.min(460, Math.round(w * 0.62)));
+    // A phone is narrow, not short. At a landscape aspect ratio eleven
+    // tiles in 358px left four of them too small to carry even a figure,
+    // so on a narrow screen the treemap gets taller instead — the same
+    // areas, in a shape that has room for the labels.
+    const hgt = w < 520
+      ? Math.max(460, Math.min(700, Math.round(w * 1.8)))
+      : Math.max(300, Math.min(460, Math.round(w * 0.62)));
     box.style.height = `${hgt}px`;
+    // The figure comes first and the name yields to it.
+    //
+    // Deciding both from the tile's size dropped the rupees from three
+    // blocks: they were large enough to qualify, but a four-line name had
+    // already eaten the room the number needed. And guessing the width of
+    // a figure from its character count was no better — seven pixels a
+    // character clipped the longest ones, seven and a half refused two
+    // that would have fitted.
+    //
+    // So the figures are laid out and then measured, and each steps down
+    // through the forms it can take until one fits: the full "₹8,055
+    // crore", the short "₹8,055", the same turned on its side for a tile
+    // that is tall and narrow, and only then nothing. Measuring is not an
+    // estimate.
+    const PAD = 16;
+    const AMT_LINE = 17;
+    const NAME_LINE = 15;
+    const shortCrore = (n) => (n >= 100000 ? `₹${(n / 100000).toFixed(2)}L cr` : `₹${n.toLocaleString('en-IN')}`);
+
     box.innerHTML = treemap(items, w, hgt).map(({ x, y, w: tw, h: th, item }) => {
-      const big = tw > 110 && th > 56;
-      const mid = tw > 72 && th > 34;
-      const label = item.other ? 'Everything else' : item.name;
+      const room = th - PAD;
+      const nameLines = Math.floor((room - AMT_LINE) / NAME_LINE);
+      const showName = tw > 70 && nameLines >= 1;
       return `<div class="tm-tile ${item.other ? 'tm-other' : `tm-${item.rank % 3}`}"
         style="left:${x.toFixed(2)}px;top:${y.toFixed(2)}px;width:${tw.toFixed(2)}px;height:${th.toFixed(2)}px"
-        title="${escapeHtml(`${item.official ?? label} — ${crore(item.value)}`)}">
-        ${mid ? `<span class="tm-name">${escapeHtml(label)}</span>` : ''}
-        ${big ? `<span class="tm-amt">${crore(item.value)}</span>` : ''}
+        title="${escapeHtml(`${item.official ?? item.name} — ${crore(item.value)}`)}">
+        ${showName ? `<span class="tm-name" style="-webkit-line-clamp:${nameLines}">${escapeHtml(item.name)}</span>` : ''}
+        <span class="tm-amt" data-value="${item.value}">${crore(item.value)}</span>
       </div>`;
     }).join('');
+
+    for (const tile of box.children) {
+      const amt = tile.querySelector('.tm-amt');
+      const value = Number(amt.dataset.value);
+      const cs = getComputedStyle(tile);
+      const innerW = tile.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+      const innerH = tile.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom);
+
+      // The span shrinks to its text, so its own box is the figure's real
+      // size — scrollWidth on a stretched flex child measured the tile
+      // rather than the number and sent almost every label to the
+      // vertical fallback.
+      const fits = () => {
+        const r = amt.getBoundingClientRect();
+        return r.width <= innerW + 0.5 && r.height <= innerH + 0.5;
+      };
+
+      let placed = false;
+      for (const [text, tight] of [[crore(value), false], [shortCrore(value), true]]) {
+        amt.textContent = text;
+        amt.classList.toggle('tight', tight);
+        if (fits()) { placed = true; break; }
+      }
+      if (!placed) {
+        amt.classList.add('upright', 'tight');
+        amt.textContent = shortCrore(value);
+        const name = tile.querySelector('.tm-name');
+        if (name) name.remove();
+        placed = fits();
+      }
+      if (!placed) amt.remove();
+    }
   }
 
   paint();
