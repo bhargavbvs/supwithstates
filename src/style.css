@@ -111,6 +111,12 @@
   --sev-1: #f59e0b;
   --sev-2: #c2410c;
   --sev-3: #b91c1c;
+
+  /* Direction of a budget line. Deliberately not the severity tokens
+     above: those mean something specific about criminal cases, and one
+     scale should never be retuned by a change meant for the other. */
+  --rise: #166534;
+  --fall: #a4262c;
 }
 
 * {
@@ -1990,13 +1996,17 @@ body[data-view="districts"] #app { max-width: 1100px; }
 
 
 
-/* Neither colour nor red. A state raising welfare spending by 35% has not
-   done something alarming, and one cutting it by 38% has not done
-   something good — this site does not score, and the severity palette
-   means something specific here. The arrow carries the direction and
-   nothing else is implied. */
-.spend-share .chg { color: var(--body); white-space: nowrap; }
-.spend-share .chg.down { color: var(--muted); }
+/* Green for up, red for down: direction, not a verdict. This site does not
+   score budgets — a state raising welfare spending 35% has not done
+   something good, and one cutting it 38% has not done something bad — and
+   the colour says only which way the number moved.
+
+   Measured against both grounds this text sits on: 7.1:1 and 6.7:1 for the
+   green, 7.3:1 and 6.9:1 for the red. AA throughout, and within 0.2 of each
+   other so neither reads as the louder of the two. Colour is never the only
+   channel — the arrow points, and the sentence says "up" or "down". */
+.spend-share .chg { color: var(--rise); white-space: nowrap; }
+.spend-share .chg.down { color: var(--fall); }
 
 .chg-arrow {
   width: 0.78em;
