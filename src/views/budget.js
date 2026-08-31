@@ -10,6 +10,16 @@ import { escapeHtml } from '../format.js';
 import { treemap, shares } from '../treemap.js';
 import { plainSector, plainReceipt } from '../plain-words.mjs';
 
+/** A drawn arrow rather than ▲ and ▼. The glyph triangles sit off the
+ *  baseline, are supplied by whichever fallback font happens to have them,
+ *  and land at a heavier weight than the sentence around them. This one is
+ *  drawn to the text's own size, inherits its colour, and points the same
+ *  way in every font. Direction only — see the note on .chg in style.css
+ *  for why neither arrow is coloured. */
+const arrow = (up) => '<svg class="chg-arrow" viewBox="0 0 12 12" aria-hidden="true">'
+  + `<path d="M6 1.6V10.4"/><path d="${up ? 'M2.3 5.3 6 1.6l3.7 3.7' : 'M2.3 6.7 6 10.4l3.7-3.7'}"/>`
+  + '</svg>';
+
 /** Crore, as the budget itself states them: "₹52,047 crore". Lakh crore
  *  for the totals, where a five-figure crore number stops being a size a
  *  reader can feel. */
@@ -68,7 +78,7 @@ export function renderBudget(el, param) {
     const diff = before == null ? null : s.budgeted - before;
     const change = diff == null
       ? ''
-      : `<span class="chg ${diff >= 0 ? 'up' : 'down'}">${diff >= 0 ? '▲ up' : '▼ down'}
+      : `<span class="chg ${diff >= 0 ? 'up' : 'down'}">${arrow(diff >= 0)} ${diff >= 0 ? 'up' : 'down'}
            ${crore(Math.abs(diff))} from ${escapeHtml(lastYear)}${
   s.changePct == null ? '' : ` (${s.changePct > 0 ? '+' : ''}${s.changePct}%)`}</span>`;
     return `
@@ -125,13 +135,15 @@ export function renderBudget(el, param) {
         aria-label="Of ${crore(h.netExpenditure)} to spend, ${splitShares[0]}% is money it has and ${splitShares[1]}% is borrowed">
         <span class="split-have" style="width:${pct(h.netReceipts, h.netExpenditure).toFixed(1)}%">
           <span class="split-amt">${splitShares[0]}%</span>
-          <span class="split-label">money it has · ${crore(h.netReceipts)}</span>
         </span>
         <span class="split-borrow" style="width:${pct(h.fiscalDeficit, h.netExpenditure).toFixed(1)}%">
           <span class="split-amt">${splitShares[1]}%</span>
-          <span class="split-label">borrowed · ${crore(h.fiscalDeficit)}</span>
         </span>
       </div>
+      <ul class="split-key">
+        <li><i class="sw have"></i>money it has · <b>${crore(h.netReceipts)}</b></li>
+        <li><i class="sw borrow"></i>borrowed · <b>${crore(h.fiscalDeficit)}</b></li>
+      </ul>
       <p class="split-total">${crore(h.netExpenditure)} to spend in all. The borrowed part is what the
         budget calls the <b>fiscal deficit</b>.</p>
     </section>
