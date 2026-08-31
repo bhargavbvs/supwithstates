@@ -8,6 +8,7 @@
 import { store } from '../store.js';
 import { escapeHtml } from '../format.js';
 import { treemap, shares } from '../treemap.js';
+import { plainSector, plainReceipt } from '../plain-words.mjs';
 
 /** Crore, as the budget itself states them: "₹52,047 crore". Lakh crore
  *  for the totals, where a five-figure crore number stops being a size a
@@ -41,13 +42,16 @@ export function renderBudget(el) {
     return `
       <div class="spend-row">
         <div class="spend-head">
-          <span class="spend-name">${escapeHtml(s.name)}</span>
+          <span class="spend-name">
+            ${escapeHtml(plainSector(s.name) ?? s.name)}
+            ${plainSector(s.name) ? `<small>${escapeHtml(s.name)}</small>` : ''}
+          </span>
           <span class="spend-amt"><span class="amt-num">${crore(s.budgeted)}</span>${change}</span>
         </div>
         <div class="spend-track">
           <span class="spend-fill" style="width:${pct(s.budgeted, widest).toFixed(1)}%"></span>
         </div>
-        <p class="spend-share">${pct(s.budgeted, sectorTotal).toFixed(0)}% of the spending shown here</p>
+        <p class="spend-share">₹${Math.round(pct(s.budgeted, sectorTotal))} of every ₹100 shown here</p>
       </div>`;
   }).join('');
 
@@ -60,12 +64,14 @@ export function renderBudget(el) {
   // deficit in the budget's own arithmetic. Integer rupees that reach 100.
   const r100src = [
     ...b.receipts.map((r) => ({ name: r.name, value: r.budgeted, cls: 'own' })),
-    { name: 'Borrowed', value: h.fiscalDeficit, cls: 'borrowed' },
+    // The budget's own word for this is the fiscal deficit; "borrowed" is
+    // the plain one, and both are shown like every other row here.
+    { name: 'Fiscal Deficit', value: h.fiscalDeficit, cls: 'borrowed' },
   ];
   r100src[2].cls = 'centre';
   r100src[3].cls = 'centre';
   const r100shares = shares(r100src.map((p) => p.value), 100);
-  const r100 = r100src.map((p, i) => ({ ...p, share: r100shares[i] }));
+  const r100 = r100src.map((p, i) => ({ ...p, share: r100shares[i], plain: plainReceipt(p.name) }));
 
 
 
@@ -73,28 +79,30 @@ export function renderBudget(el) {
     <a class="back" href="${store.href()}">← Map</a>
     <h1>${escapeHtml(store.state.name)}'s budget</h1>
     <p class="sub">${escapeHtml(b.year)} · every figure as the state budgeted it</p>
+    <p class="lede">A budget is a plan for the year: how much money the state thinks it will get,
+      and what it means to spend it on. Everything below is that plan, not what has been spent.</p>
 
     <section>
       <h2>The year in three numbers</h2>
       <div class="budget-heads">
         <div class="budget-head">
           <span class="budget-head-value">${crore(h.netExpenditure)}</span>
-          <span class="budget-head-label">to spend, once debt repayment is set aside</span>
+          <span class="budget-head-label">is what the state plans to <b>spend</b> this year</span>
         </div>
         <div class="budget-head">
           <span class="budget-head-value">${crore(h.netReceipts)}</span>
-          <span class="budget-head-label">to receive, before borrowing</span>
+          <span class="budget-head-label">is what it expects to <b>get</b> — taxes, and money from Delhi</span>
         </div>
         <div class="budget-head short">
           <span class="budget-head-value gap">${crore(h.fiscalDeficit)}</span>
-          <span class="budget-head-label">the gap between them, to be borrowed</span>
+          <span class="budget-head-label">is the <b>shortfall</b>. It will borrow this, and pay it back later</span>
         </div>
       </div>
     </section>
 
     <section>
       <h2>Where every ₹100 comes from</h2>
-      <p class="sub">Of every ₹100 the state plans to spend this year:</p>
+      <p class="sub">Not all of it is the state's own money. Of every ₹100 it plans to spend:</p>
       <div class="r100" role="img" aria-label="${escapeHtml(r100.map((p) => `₹${p.share} ${p.name}`).join(', '))}">
         ${r100.map((p) => `<span class="r100-seg ${p.cls}" style="width:${p.share}%"></span>`).join('')}
       </div>
@@ -103,7 +111,10 @@ export function renderBudget(el) {
           <li>
             <i class="swatch ${p.cls}"></i>
             <span class="r100-share">₹${p.share}</span>
-            <span class="r100-name">${escapeHtml(p.name)}</span>
+            <span class="r100-name">
+              ${escapeHtml(p.plain ?? p.name)}
+              ${p.plain ? `<small>${escapeHtml(p.name)}</small>` : ''}
+            </span>
             <span class="r100-amt">${crore(p.value)}</span>
           </li>`).join('')}
       </ul>
@@ -111,20 +122,20 @@ export function renderBudget(el) {
 
     <section>
       <h2>Where it goes</h2>
-      <p class="sub">Every tile is a head of spending, drawn to scale — twice the money is twice the
-        area. The ${b.sectors.length} largest are named in the budget's own sector table; the grey tile
-        is everything else the state spends on.</p>
+      <p class="sub">Each block is one thing the state spends on, and its size is the money: a block
+        twice as big is twice the rupees. The ${b.sectors.length} biggest are shown; the grey block is
+        everything else put together.</p>
       <div id="treemap" role="img"
         aria-label="${escapeHtml(b.sectors.map((s) => `${s.name} ${crore(s.budgeted)}`).join(', '))}, everything else ${crore(rest)}"></div>
-      <p class="sub" style="margin-top:0.9rem">The same figures, with the change against last year's
-        revised estimate:</p>
+      <p class="sub" style="margin-top:0.9rem">The same spending as a list, with how much it has gone
+        up or down since last year:</p>
       ${sectorRows}
     </section>
 
     <section>
       <h2>What it pays for</h2>
-      <p class="sub">Schemes and projects the budget names with a figure of their own. This is not the
-        whole of the spending above — it is the part the budget speaks about by name.</p>
+      <p class="sub">Things the budget names one by one, with a figure beside each. This is not all
+        the spending above — it is the part the budget talks about by name.</p>
       <ul class="alloc-list">
         ${allocations.map((a) => `
           <li>
@@ -143,6 +154,9 @@ export function renderBudget(el) {
         <li><a href="${escapeHtml(b.source.analysis)}">${escapeHtml(b.source.name)}: budget analysis</a></li>
         <li><a href="${escapeHtml(b.source.pdf)}">The analysis as published (PDF)</a></li>
       </ul>
+      <p>The plain wording on this page is ours, to make the budget readable. The official name of
+         every heading is printed underneath it, so any figure here can be found in the source
+         document by the name it uses there.</p>
       <p class="retrieved">Retrieved ${escapeHtml(b.source.retrieved)}</p>
     </section>`;
 
@@ -151,7 +165,9 @@ export function renderBudget(el) {
   // a different box, not a scaled one.
   const box = el.querySelector('#treemap');
   const items = [
-    ...b.sectors.map((s, i) => ({ value: s.budgeted, name: s.name, rank: i, other: false })),
+    ...b.sectors.map((s, i) => ({
+      value: s.budgeted, name: plainSector(s.name) ?? s.name, official: s.name, rank: i, other: false,
+    })),
     { value: rest, name: 'Everything else', rank: -1, other: true },
   ];
 
@@ -166,7 +182,7 @@ export function renderBudget(el) {
       const label = item.other ? 'Everything else' : item.name;
       return `<div class="tm-tile ${item.other ? 'tm-other' : `tm-${item.rank % 3}`}"
         style="left:${x.toFixed(2)}px;top:${y.toFixed(2)}px;width:${tw.toFixed(2)}px;height:${th.toFixed(2)}px"
-        title="${escapeHtml(`${label} — ${crore(item.value)}`)}">
+        title="${escapeHtml(`${item.official ?? label} — ${crore(item.value)}`)}">
         ${mid ? `<span class="tm-name">${escapeHtml(label)}</span>` : ''}
         ${big ? `<span class="tm-amt">${crore(item.value)}</span>` : ''}
       </div>`;
