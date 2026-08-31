@@ -1976,15 +1976,21 @@ body[data-view="districts"] #app { max-width: 1100px; }
 
 .spend-name { font-weight: 600; }
 
+/* The change sits in a fixed slot so every row's crore figure ends at the
+   same distance from the right edge — "+35%" and "+128%" are different
+   widths, and without the slot the amounts zig-zagged down the page. */
 .spend-amt {
   font-family: var(--font-mono);
   font-size: 0.9rem;
   white-space: nowrap;
   flex: 0 0 auto;
+  display: inline-flex;
+  align-items: baseline;
 }
 
 .spend-amt .chg {
-  margin-left: 0.35rem;
+  min-width: 3.4rem;
+  text-align: right;
   font-size: 0.8rem;
 }
 
@@ -2077,13 +2083,18 @@ body[data-view="districts"] #app { max-width: 1100px; }
   gap: 0.45rem;
 }
 
+/* A grid, not a flex row: when "Grants-in-aid from Centre" wraps on a
+   phone, its dot must stay on the first line and its amount on the shared
+   right edge — in a flex row the dot centred itself against the two-line
+   block and the whole row drifted. */
 .r100-key li {
-  display: flex;
+  display: grid;
+  grid-template-columns: 0.6rem 2.4rem 1fr auto;
   align-items: baseline;
   gap: 0.55rem;
 }
 
-.r100-key .swatch { align-self: center; }
+.r100-key .swatch { align-self: start; margin-top: 0.34em; }
 .r100-key .swatch.own { background: var(--accent-ink); }
 .r100-key li:nth-child(2) .swatch.own { background: var(--accent); }
 .r100-key .swatch.centre { background: #8fbcab; }
@@ -2093,17 +2104,15 @@ body[data-view="districts"] #app { max-width: 1100px; }
 .r100-share {
   font-family: var(--font-mono);
   font-weight: 700;
-  flex: 0 0 2.2rem;
   text-align: right;
 }
-
-.r100-name { flex: 1 1 auto; }
 
 .r100-amt {
   font-family: var(--font-mono);
   font-size: 0.82rem;
   color: var(--muted);
   white-space: nowrap;
+  text-align: right;
 }
 
 /* ---- Treemap ---------------------------------------------------------
@@ -2139,6 +2148,10 @@ body[data-view="districts"] #app { max-width: 1100px; }
   font-size: 0.8rem;
   font-weight: 600;
   line-height: 1.25;
+  /* "Urban Development" in a tile narrower than the word was clipped at
+     the edge mid-letter. Break the word rather than the tile. */
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .tm-amt {

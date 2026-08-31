@@ -36,13 +36,13 @@ export function renderBudget(el) {
 
   const sectorRows = b.sectors.map((s) => {
     const up = s.changePct != null && s.changePct > 0;
-    const change = s.changePct == null ? ''
+    const change = s.changePct == null ? '<span class="chg"></span>'
       : `<span class="chg ${up ? 'up' : 'down'}">${up ? '+' : ''}${s.changePct}%</span>`;
     return `
       <div class="spend-row">
         <div class="spend-head">
           <span class="spend-name">${escapeHtml(s.name)}</span>
-          <span class="spend-amt">${crore(s.budgeted)} ${change}</span>
+          <span class="spend-amt"><span class="amt-num">${crore(s.budgeted)}</span>${change}</span>
         </div>
         <div class="spend-track">
           <span class="spend-fill" style="width:${pct(s.budgeted, widest).toFixed(1)}%"></span>
