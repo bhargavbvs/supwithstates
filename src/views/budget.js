@@ -44,7 +44,22 @@ export function renderBudget(el) {
   // against when. The figure it is measured from is in the data, so the
   // row says the change in rupees and in words — up ₹13,572 cr from last
   // year — and keeps the percentage after it for anyone who wants it.
+  // Everything the plan spends that the sector table does not name. Shown,
+  // not dropped: without it the tiles would claim to be the whole.
+  const rest = Math.max(0, h.netExpenditure - sectorTotal);
+
   const lastYear = b.years?.find((y) => y.key === 'revisedPrev')?.label ?? 'last year';
+
+  // One denominator for the whole page: everything the state spends. The
+  // rows used to be a share of the ten sectors shown while the treemap
+  // included everything else, so the same block was 26% in one place and
+  // 17% in the other. Largest-remainder so the eleven shares reach exactly
+  // 100 — the treemap draws all of them, and a reader who adds them up
+  // should not find a rupee missing.
+  const shareOf = [...b.sectors.map((x) => x.budgeted), rest];
+  const shareVals = shares(shareOf, 100);
+  const sectorShare = new Map(b.sectors.map((x, i) => [x.name, shareVals[i]]));
+  const restShare = shareVals[shareVals.length - 1];
   const sectorRows = b.sectors.map((s) => {
     const before = s.revisedPrev;
     const diff = before == null ? null : s.budgeted - before;
@@ -65,14 +80,10 @@ export function renderBudget(el) {
         <div class="spend-track">
           <span class="spend-fill" style="width:${pct(s.budgeted, widest).toFixed(1)}%"></span>
         </div>
-        <p class="spend-share">₹${Math.round(pct(s.budgeted, sectorTotal))} of every ₹100 shown here${
+        <p class="spend-share">₹${sectorShare.get(s.name)} of every ₹100 the state spends${
   diff == null ? '' : ` · ${change}`}</p>
       </div>`;
   }).join('');
-
-  // Everything the plan spends that the sector table does not name. Shown,
-  // not dropped: without it the tiles would claim to be the whole.
-  const rest = Math.max(0, h.netExpenditure - sectorTotal);
 
   // Every ₹100: the four kinds of receipt, then borrowing — which closes
   // the sum exactly, because net expenditure = net receipts + fiscal
@@ -138,8 +149,8 @@ export function renderBudget(el) {
     <section>
       <h2>Where it goes</h2>
       <p class="sub">Each block is one thing the state spends on, and its size is the money: a block
-        twice as big is twice the rupees. The ${b.sectors.length} biggest are shown; the grey block is
-        everything else put together.</p>
+        twice as big is twice the rupees. The percentage is that block's share of everything the state
+        spends, so all eleven add up to 100. The grey block is everything else put together.</p>
       <div id="treemap" role="img"
         aria-label="${escapeHtml(b.sectors.map((s) => `${s.name} ${crore(s.budgeted)}`).join(', '))}, everything else ${crore(rest)}"></div>
       <p class="sub" style="margin-top:0.9rem">The same spending as a list. Beside each one is how much
@@ -207,9 +218,10 @@ export function renderBudget(el) {
   const box = el.querySelector('#treemap');
   const items = [
     ...b.sectors.map((s, i) => ({
-      value: s.budgeted, name: plainSector(s.name) ?? s.name, official: s.name, rank: i, other: false,
+      value: s.budgeted, name: plainSector(s.name) ?? s.name, official: s.name,
+      share: sectorShare.get(s.name), rank: i, other: false,
     })),
-    { value: rest, name: 'Everything else', rank: -1, other: true },
+    { value: rest, name: 'Everything else', share: restShare, rank: -1, other: true },
   ];
 
   function paint() {
@@ -244,7 +256,7 @@ export function renderBudget(el) {
         style="left:${x.toFixed(2)}px;top:${y.toFixed(2)}px;width:${tw.toFixed(2)}px;height:${th.toFixed(2)}px"
         title="${escapeHtml(`${item.official ?? item.name} — ${crore(item.value)}`)}">
         ${tw > 70 ? `<span class="tm-name">${escapeHtml(item.name)}</span>` : ''}
-        <span class="tm-amt" data-value="${item.value}">${crore(item.value)}</span>
+        <span class="tm-amt" data-value="${item.value}" data-share="${item.share}">${crore(item.value)}</span>
       </div>`).join('');
 
     for (const tile of box.children) {
@@ -263,15 +275,26 @@ export function renderBudget(el) {
         return r.width <= innerW + 0.5 && r.height <= innerH + 0.5;
       };
 
+      // The share is the last thing to go, not the first. Area already
+      // encodes it, so the percentage is what makes the area readable —
+      // and a share is what a reader carries away from a page like this,
+      // where a five-figure rupee number is not. The rupees give way
+      // first: every one of them is in the list directly below, and none
+      // of the shares is.
+      const share = amt.dataset.share;
       let placed = false;
-      for (const [text, tight] of [[crore(value), false], [shortCrore(value), true]]) {
+      for (const [text, tight] of [
+        [`${crore(value)} · ${share}%`, false],
+        [`${shortCrore(value)} · ${share}%`, true],
+        [`${share}%`, false],
+      ]) {
         amt.textContent = text;
         amt.classList.toggle('tight', tight);
         if (fits()) { placed = true; break; }
       }
       if (!placed) {
         amt.classList.add('upright', 'tight');
-        amt.textContent = shortCrore(value);
+        amt.textContent = `${share}%`;
         const name = tile.querySelector('.tm-name');
         if (name) name.remove();
         placed = fits();
