@@ -1,0 +1,228 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 495467,
+    "netExpenditure": 334796,
+    "totalReceipts": 486805,
+    "netReceipts": 264787,
+    "borrowings": 222019,
+    "fiscalDeficit": 70009,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 25758
+    },
+    "gsdp": 1781078
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.3,
+      "budgeted": 3.9
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2,
+      "budgeted": 1.4
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 246452,
+      "budgetedPrev": 297091,
+      "revisedPrev": 303089,
+      "budgeted": 334796
+    },
+    "netReceipts": {
+      "actuals": 195424,
+      "budgetedPrev": 234319,
+      "revisedPrev": 238007,
+      "budgeted": 264787
+    },
+    "fiscalDeficit": {
+      "actuals": 51029,
+      "budgetedPrev": 62772,
+      "revisedPrev": 65082,
+      "budgeted": 70009
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 45896,
+      "budgetedPrev": 57953,
+      "revisedPrev": 59593,
+      "budgeted": 65073,
+      "changePct": 9
+    },
+    {
+      "name": "Energy",
+      "actuals": 26472,
+      "budgetedPrev": 26371,
+      "revisedPrev": 31816,
+      "budgeted": 30729,
+      "changePct": -3
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 15445,
+      "budgetedPrev": 22064,
+      "revisedPrev": 23973,
+      "budgeted": 27660,
+      "changePct": 15
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 17946,
+      "budgetedPrev": 20318,
+      "revisedPrev": 20439,
+      "budgeted": 24060,
+      "changePct": 18
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 16935,
+      "budgetedPrev": 20418,
+      "revisedPrev": 17725,
+      "budgeted": 20494,
+      "changePct": 16
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 8982,
+      "budgetedPrev": 14040,
+      "revisedPrev": 12835,
+      "budgeted": 16918,
+      "changePct": 32
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 10425,
+      "budgetedPrev": 12864,
+      "revisedPrev": 13679,
+      "budgeted": 14544,
+      "changePct": 6
+    },
+    {
+      "name": "Transport",
+      "actuals": 7689,
+      "budgetedPrev": 11412,
+      "revisedPrev": 12322,
+      "budgeted": 13436,
+      "changePct": 9
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 6668,
+      "budgetedPrev": 9773,
+      "revisedPrev": 9222,
+      "budgeted": 11270,
+      "changePct": 22
+    },
+    {
+      "name": "Police",
+      "actuals": 7928,
+      "budgetedPrev": 9030,
+      "revisedPrev": 9151,
+      "budgeted": 10203,
+      "changePct": 11
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 5697,
+      "budgetedPrev": 9000,
+      "revisedPrev": 8606,
+      "budgeted": 10044,
+      "changePct": 17
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 17854,
+      "text": "has been allocated for Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 27897,
+      "text": "has been allocated as grants and subsidies to DISCOMS"
+    },
+    {
+      "amount": 8888,
+      "text": "have been allocated to allopathy health services"
+    },
+    {
+      "amount": 8625,
+      "text": "has been allocated for CM Vriddhajan Samman Pension Yojana"
+    },
+    {
+      "amount": 5174,
+      "text": "has been allocated to Mahatma Gandhi Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 5548,
+      "text": "has been allocated for grants to Nagar Palika and Nagar Parishads"
+    },
+    {
+      "amount": 2000,
+      "text": "has been allocated for Fasal Bima Yojana"
+    },
+    {
+      "amount": 9376,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 6074,
+      "text": "has been allocated for capital outlay on water supply and sanitation"
+    },
+    {
+      "amount": 7173,
+      "text": "has been allocated for capital outlay on irrigation and flood control projects"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 125525
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 22665
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 79587
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 36684
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 326
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/rajasthan-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/rajasthan/2024/Rajasthan_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

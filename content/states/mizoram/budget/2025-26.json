@@ -1,0 +1,171 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 15043,
+    "netExpenditure": 14624,
+    "totalReceipts": 15199,
+    "netReceipts": 12973,
+    "borrowings": 4,
+    "fiscalDeficit": 1652,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 563
+    },
+    "gsdp": 36089
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 7.6,
+      "budgeted": 4.6
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -0.1,
+      "budgeted": 1.6
+    },
+    "outstandingDebtPctGsdp": 38.8,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 12116,
+      "budgetedPrev": 13786,
+      "revisedPrev": 15925,
+      "budgeted": 14624
+    },
+    "netReceipts": {
+      "actuals": 11438,
+      "budgetedPrev": 12420,
+      "revisedPrev": 13328,
+      "budgeted": 12973
+    },
+    "fiscalDeficit": {
+      "actuals": 678,
+      "budgetedPrev": 1366,
+      "revisedPrev": 2597,
+      "budgeted": 1652
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 1738,
+      "budgetedPrev": 2374,
+      "revisedPrev": 2550,
+      "budgeted": 2093,
+      "changePct": -18
+    },
+    {
+      "name": "Energy",
+      "actuals": 841,
+      "budgetedPrev": 944,
+      "revisedPrev": 1158,
+      "budgeted": 980,
+      "changePct": -15
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 771,
+      "budgetedPrev": 857,
+      "revisedPrev": 943,
+      "budgeted": 827,
+      "changePct": -12
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 644,
+      "budgetedPrev": 840,
+      "revisedPrev": 1100,
+      "budgeted": 826,
+      "changePct": -25
+    },
+    {
+      "name": "Police",
+      "actuals": 738,
+      "budgetedPrev": 726,
+      "revisedPrev": 771,
+      "budgeted": 753,
+      "changePct": -2
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 585,
+      "budgetedPrev": 612,
+      "revisedPrev": 651,
+      "budgeted": 651,
+      "changePct": 0
+    },
+    {
+      "name": "Transport",
+      "actuals": 970,
+      "budgetedPrev": 673,
+      "revisedPrev": 1020,
+      "budgeted": 599,
+      "changePct": -41
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 224,
+      "budgetedPrev": 438,
+      "revisedPrev": 504,
+      "budgeted": 417,
+      "changePct": -17
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 211,
+      "budgetedPrev": 319,
+      "revisedPrev": 616,
+      "budgeted": 400,
+      "changePct": -35
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 1478
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 1138
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 7112
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 3219
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 25
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/mizoram-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/mizoram/2025/Mizoram_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

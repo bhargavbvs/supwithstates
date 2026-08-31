@@ -1,0 +1,232 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 615519,
+    "netExpenditure": 582956,
+    "totalReceipts": 590952,
+    "netReceipts": 501778,
+    "borrowings": 89174,
+    "fiscalDeficit": 81178,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 43124
+    },
+    "gsdp": 2048234
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.27,
+      "budgeted": 3.96
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 1.26,
+      "budgeted": 2.11
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 351933,
+      "budgetedPrev": 511402,
+      "revisedPrev": 455809,
+      "budgeted": 582956
+    },
+    "netReceipts": {
+      "actuals": 297311,
+      "budgetedPrev": 420672,
+      "revisedPrev": 381063,
+      "budgeted": 501778
+    },
+    "fiscalDeficit": {
+      "actuals": 54622,
+      "budgetedPrev": 90730,
+      "revisedPrev": 74746,
+      "budgeted": 81178
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 54844,
+      "budgetedPrev": 67683,
+      "revisedPrev": 57577,
+      "budgeted": 75165,
+      "changePct": 31
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 21549,
+      "budgetedPrev": 32009,
+      "revisedPrev": 26328,
+      "budgeted": 40991,
+      "changePct": 56
+    },
+    {
+      "name": "Transport",
+      "actuals": 28238,
+      "budgetedPrev": 44255,
+      "revisedPrev": 36002,
+      "budgeted": 39864,
+      "changePct": 11
+    },
+    {
+      "name": "Energy",
+      "actuals": 19647,
+      "budgetedPrev": 27248,
+      "revisedPrev": 31980,
+      "budgeted": 37566,
+      "changePct": 17
+    },
+    {
+      "name": "Police",
+      "actuals": 19791,
+      "budgetedPrev": 29172,
+      "revisedPrev": 24140,
+      "budgeted": 31443,
+      "changePct": 30
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 14753,
+      "budgetedPrev": 24420,
+      "revisedPrev": 23466,
+      "budgeted": 31239,
+      "changePct": 33
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 23247,
+      "budgetedPrev": 27455,
+      "revisedPrev": 24883,
+      "budgeted": 29541,
+      "changePct": 19
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 16386,
+      "budgetedPrev": 23980,
+      "revisedPrev": 18349,
+      "budgeted": 27111,
+      "changePct": 48
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 3569,
+      "budgetedPrev": 17439,
+      "revisedPrev": 13775,
+      "budgeted": 21733,
+      "changePct": 58
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 13617,
+      "budgetedPrev": 20418,
+      "revisedPrev": 17751,
+      "budgeted": 21431,
+      "changePct": 21
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 15169,
+      "text": "has been allocated towards primary education under Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 987,
+      "text": "has been allocated for capital expenditure towards public health services"
+    },
+    {
+      "amount": 32150,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 12100,
+      "text": "has been allocated for providing subsidies for electricity supply"
+    },
+    {
+      "amount": 21463,
+      "text": "has been allocated towards the district police"
+    },
+    {
+      "amount": 3684,
+      "text": "has been allocated towards special police"
+    },
+    {
+      "amount": 9035,
+      "text": "has been allocated for child welfare"
+    },
+    {
+      "amount": 3136,
+      "text": "has been allocated towards the welfare of women"
+    },
+    {
+      "amount": 4823,
+      "text": "has been allocated for capital outlay under MGNREGS"
+    },
+    {
+      "amount": 4200,
+      "text": "has been allocated for grants towards the creation of capital assets under PM Awas Yojana (Urban)"
+    },
+    {
+      "amount": 816,
+      "text": "has been allocated towards Swachh Bharat Mission 2.0"
+    },
+    {
+      "amount": 206,
+      "text": "has been allocated for the urban water supply programme"
+    },
+    {
+      "amount": 4255,
+      "text": "has been allocated for capital outlay on major irrigation"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax*",
+      "budgeted": 210044
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 23406
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 146499
+    },
+    {
+      "name": "Grants-in-aid from Centre*",
+      "budgeted": 119264
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2565
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/uttar-pradesh-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/uttar-pradesh/2022/Uttar%20Pradesh%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 117751,
+    "netExpenditure": 115028,
+    "totalReceipts": 119028,
+    "netReceipts": 99674,
+    "borrowings": 19354,
+    "fiscalDeficit": 15354,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 3295
+    },
+    "gsdp": 481657
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 8.52,
+      "budgeted": 3.19
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -0.86,
+      "budgeted": 0.68
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 77007,
+      "budgetedPrev": 104020,
+      "revisedPrev": 133018,
+      "budgeted": 115028
+    },
+    "netReceipts": {
+      "actuals": 65899,
+      "budgetedPrev": 88992,
+      "revisedPrev": 96055,
+      "budgeted": 99674
+    },
+    "fiscalDeficit": {
+      "actuals": 11108,
+      "budgetedPrev": 15028,
+      "revisedPrev": 36963,
+      "budgeted": 15354
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 16410,
+      "budgetedPrev": 20049,
+      "revisedPrev": 22161,
+      "budgeted": 23095,
+      "changePct": 4
+    },
+    {
+      "name": "Transport",
+      "actuals": 8977,
+      "budgetedPrev": 9755,
+      "revisedPrev": 12659,
+      "budgeted": 9644,
+      "changePct": -24
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 6250,
+      "budgetedPrev": 7397,
+      "revisedPrev": 9853,
+      "budgeted": 7516,
+      "changePct": -24
+    },
+    {
+      "name": "Police",
+      "actuals": 4097,
+      "budgetedPrev": 5182,
+      "revisedPrev": 5332,
+      "budgeted": 6921,
+      "changePct": 30
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 3928,
+      "budgetedPrev": 5647,
+      "revisedPrev": 6566,
+      "budgeted": 5270,
+      "changePct": -20
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 2900,
+      "budgetedPrev": 4508,
+      "revisedPrev": 5606,
+      "budgeted": 4151,
+      "changePct": -26
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 3630,
+      "budgetedPrev": 5297,
+      "revisedPrev": 5565,
+      "budgeted": 4145,
+      "changePct": -26
+    },
+    {
+      "name": "Housing",
+      "actuals": 1717,
+      "budgetedPrev": 2920,
+      "revisedPrev": 5677,
+      "budgeted": 4048,
+      "changePct": -29
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1052,
+      "budgetedPrev": 3158,
+      "revisedPrev": 3997,
+      "budgeted": 3731,
+      "changePct": -7
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 654,
+      "budgetedPrev": 1845,
+      "revisedPrev": 2186,
+      "budgeted": 2953,
+      "changePct": 35
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 2181,
+      "text": "has been allocated for Sarva Siksha Abhiyan"
+    },
+    {
+      "amount": 688,
+      "text": "has been allocated for National Mid- Day Meal Programme"
+    },
+    {
+      "amount": 4042,
+      "text": "has been allocated towards Rural Health Services - Allopathy"
+    },
+    {
+      "amount": 414,
+      "text": "has been allocated towards Urban Health Services - Allopathy"
+    },
+    {
+      "amount": 3462,
+      "text": "has been allocated for district police forces"
+    },
+    {
+      "amount": 931,
+      "text": "has been allocated for crop husbandry"
+    },
+    {
+      "amount": 443,
+      "text": "has been allocated for agricultural research and education"
+    },
+    {
+      "amount": 957,
+      "text": "has been allocated for child welfare"
+    },
+    {
+      "amount": 166,
+      "text": "has been allocated towards welfare of handicapped"
+    },
+    {
+      "amount": 3889,
+      "text": "has been allocated towards Pradhan Mantri Awas Yojana (Gramin)"
+    },
+    {
+      "amount": 3889,
+      "text": "has been allocated towards Pradhan Mantri Awas Yojana – Gramin"
+    },
+    {
+      "amount": 211,
+      "text": "has been allocated for Atal Mission for Rejuvenation and Urban Transformation"
+    },
+    {
+      "amount": 433,
+      "text": "has been allocated towards capital outlay on welfare of SC, ST and OBC"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 22385
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 6677
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 25545
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 45056
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 12
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/assam-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/assam/2022/Assam%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

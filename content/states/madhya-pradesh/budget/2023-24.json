@@ -1,0 +1,224 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 306103,
+    "netExpenditure": 281552,
+    "totalReceipts": 305944,
+    "netReceipts": 225843,
+    "borrowings": 80100,
+    "fiscalDeficit": 55708,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 413
+    },
+    "gsdp": 1387117
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.6,
+      "budgeted": 4
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.11,
+      "budgeted": 0.03
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 225023,
+      "budgetedPrev": 247715,
+      "revisedPrev": 251347,
+      "budgeted": 281552
+    },
+    "netReceipts": {
+      "actuals": 187536,
+      "budgetedPrev": 195204,
+      "revisedPrev": 204008,
+      "budgeted": 225843
+    },
+    "fiscalDeficit": {
+      "actuals": 37487,
+      "budgetedPrev": 52511,
+      "revisedPrev": 47339,
+      "budgeted": 55708
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 30998,
+      "budgetedPrev": 39326,
+      "revisedPrev": 37599,
+      "budgeted": 44949,
+      "changePct": 20
+    },
+    {
+      "name": "Energy",
+      "actuals": 24436,
+      "budgetedPrev": 21816,
+      "revisedPrev": 23040,
+      "budgeted": 25276,
+      "changePct": 10
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 11476,
+      "budgetedPrev": 11730,
+      "revisedPrev": 11247,
+      "budgeted": 20977,
+      "changePct": 87
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 17149,
+      "budgetedPrev": 16784,
+      "revisedPrev": 16030,
+      "budgeted": 17938,
+      "changePct": 12
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 12669,
+      "budgetedPrev": 13903,
+      "revisedPrev": 13687,
+      "budgeted": 16299,
+      "changePct": 19
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 12448,
+      "budgetedPrev": 14313,
+      "revisedPrev": 13891,
+      "budgeted": 12528,
+      "changePct": -10
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 11136,
+      "budgetedPrev": 8438,
+      "revisedPrev": 12879,
+      "budgeted": 10268,
+      "changePct": -20
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 10211,
+      "budgetedPrev": 8657,
+      "revisedPrev": 7967,
+      "budgeted": 9995,
+      "changePct": 25
+    },
+    {
+      "name": "Police",
+      "actuals": 6973,
+      "budgetedPrev": 8813,
+      "revisedPrev": 8597,
+      "budgeted": 9507,
+      "changePct": 11
+    },
+    {
+      "name": "Transport",
+      "actuals": 8518,
+      "budgetedPrev": 7299,
+      "revisedPrev": 8261,
+      "budgeted": 8848,
+      "changePct": 7
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 22359,
+      "text": "has been allocated for state primary schools"
+    },
+    {
+      "amount": 9246,
+      "text": "has been allocated for assistance to electricity boards"
+    },
+    {
+      "amount": 7824,
+      "text": "has been allocated for investments in public sector undertakings"
+    },
+    {
+      "amount": 9553,
+      "text": "has been allocated for women welfare"
+    },
+    {
+      "amount": 2001,
+      "text": "has been allocated towards PM-Fasal Bima Yojana"
+    },
+    {
+      "amount": 6585,
+      "text": "has been allocated for hospitals and dispensaries"
+    },
+    {
+      "amount": 5261,
+      "text": "has been allocated for assistance to gram panchayats"
+    },
+    {
+      "amount": 8529,
+      "text": "has been allocated for capital outlay on irrigation and flood control"
+    },
+    {
+      "amount": 300,
+      "text": "has been allocated as assistance to Gram Panchayats"
+    },
+    {
+      "amount": 5451,
+      "text": "has been allocated towards district police"
+    },
+    {
+      "amount": 8603,
+      "text": "has been allocated towards roads and bridges"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 86500
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 14913
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 80184
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 44113
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 134
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/madhya-pradesh-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/madhya-pradesh/2023/MP_State_Budget_Analysis_2023-24.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

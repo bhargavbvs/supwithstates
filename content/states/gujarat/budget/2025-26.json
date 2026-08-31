@@ -1,0 +1,179 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 365746,
+    "netExpenditure": 332150,
+    "totalReceipts": 363254,
+    "netReceipts": 273753,
+    "borrowings": 89501,
+    "fiscalDeficit": 58397,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 19695
+    },
+    "gsdp": 2982032
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 1.9,
+      "budgeted": 2
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.8,
+      "budgeted": 0.7
+    },
+    "outstandingDebtPctGsdp": 15.3,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 247632,
+      "budgetedPrev": 299362,
+      "revisedPrev": 283902,
+      "budgeted": 332150
+    },
+    "netReceipts": {
+      "actuals": 224138,
+      "budgetedPrev": 247445,
+      "revisedPrev": 233331,
+      "budgeted": 273753
+    },
+    "fiscalDeficit": {
+      "actuals": 23493,
+      "budgetedPrev": 51917,
+      "revisedPrev": 50570,
+      "budgeted": 58397
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 37901,
+      "budgetedPrev": 44579,
+      "revisedPrev": 43395,
+      "budgeted": 48476,
+      "changePct": 12
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 16973,
+      "budgetedPrev": 18634,
+      "revisedPrev": 19744,
+      "budgeted": 25750,
+      "changePct": 30
+    },
+    {
+      "name": "Transport",
+      "actuals": 19348,
+      "budgetedPrev": 22692,
+      "revisedPrev": 22554,
+      "budgeted": 24980,
+      "changePct": 11
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 16211,
+      "budgetedPrev": 19348,
+      "revisedPrev": 20589,
+      "budgeted": 22840,
+      "changePct": 11
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 12104,
+      "budgetedPrev": 17438,
+      "revisedPrev": 14309,
+      "budgeted": 18476,
+      "changePct": 29
+    },
+    {
+      "name": "Energy",
+      "actuals": 15287,
+      "budgetedPrev": 20267,
+      "revisedPrev": 15616,
+      "budgeted": 18444,
+      "changePct": 18
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 9950,
+      "budgetedPrev": 11857,
+      "revisedPrev": 10863,
+      "budgeted": 14144,
+      "changePct": 30
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 11901,
+      "budgetedPrev": 11358,
+      "revisedPrev": 14362,
+      "budgeted": 12971,
+      "changePct": -10
+    },
+    {
+      "name": "Police",
+      "actuals": 7420,
+      "budgetedPrev": 8712,
+      "revisedPrev": 8593,
+      "budgeted": 10029,
+      "changePct": 17
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 6138,
+      "budgetedPrev": 8555,
+      "revisedPrev": 8039,
+      "budgeted": 8513,
+      "changePct": 6
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 158482
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 23659
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 49401
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 20011
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 22000
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/gujarat-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/gujarat/2025/Gujarat_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

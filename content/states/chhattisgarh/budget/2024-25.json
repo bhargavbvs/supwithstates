@@ -1,0 +1,179 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 156801,
+    "netExpenditure": 147440,
+    "totalReceipts": 155160,
+    "netReceipts": 126050,
+    "borrowings": 29110,
+    "fiscalDeficit": 17990,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 1060
+    },
+    "gsdp": 561736
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 6.5,
+      "budgeted": 3.2
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -3.1,
+      "budgeted": 0.2
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 98691,
+      "budgetedPrev": 121495,
+      "revisedPrev": 148612,
+      "budgeted": 147440
+    },
+    "netReceipts": {
+      "actuals": 94000,
+      "budgetedPrev": 106301,
+      "revisedPrev": 111550,
+      "budgeted": 126050
+    },
+    "fiscalDeficit": {
+      "actuals": 4691,
+      "budgetedPrev": 15194,
+      "revisedPrev": 33062,
+      "budgeted": 17990
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 18230,
+      "budgetedPrev": 23493,
+      "revisedPrev": 23687,
+      "budgeted": 25340,
+      "changePct": 7
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 17528,
+      "budgetedPrev": 19896,
+      "revisedPrev": 33719,
+      "budgeted": 23357,
+      "changePct": -31
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 6614,
+      "budgetedPrev": 7842,
+      "revisedPrev": 9812,
+      "budgeted": 10459,
+      "changePct": 14
+    },
+    {
+      "name": "Housing",
+      "actuals": 1367,
+      "budgetedPrev": 3335,
+      "revisedPrev": 7240,
+      "budgeted": 8548,
+      "changePct": 18
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 2971,
+      "budgetedPrev": 4581,
+      "revisedPrev": 6596,
+      "budgeted": 8073,
+      "changePct": 22
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 4846,
+      "budgetedPrev": 5920,
+      "revisedPrev": 6508,
+      "budgeted": 7414,
+      "changePct": 14
+    },
+    {
+      "name": "Energy",
+      "actuals": 6073,
+      "budgetedPrev": 5860,
+      "revisedPrev": 7926,
+      "budgeted": 7224,
+      "changePct": -9
+    },
+    {
+      "name": "Police",
+      "actuals": 4772,
+      "budgetedPrev": 6189,
+      "revisedPrev": 6361,
+      "budgeted": 7134,
+      "changePct": 12
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 5557,
+      "budgetedPrev": 6595,
+      "revisedPrev": 6097,
+      "budgeted": 6855,
+      "changePct": 12
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 2925,
+      "budgetedPrev": 3178,
+      "revisedPrev": 5720,
+      "budgeted": 5437,
+      "changePct": -5
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 49700
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 18700
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 44000
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 13500
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 150
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/chhattisgarh-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/chhattisgarh/2024/Chhattisgarh_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 196462,
+    "netExpenditure": 134836,
+    "totalReceipts": 194462,
+    "netReceipts": 100052,
+    "borrowings": 94410,
+    "fiscalDeficit": 34784,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 24589
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 5.2,
+      "budgeted": 5
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 3.7,
+      "budgeted": 3.5
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 106222,
+      "budgetedPrev": 119913,
+      "revisedPrev": 127379,
+      "budgeted": 134836
+    },
+    "netReceipts": {
+      "actuals": 78375,
+      "budgetedPrev": 96078,
+      "revisedPrev": 94163,
+      "budgeted": 100052
+    },
+    "fiscalDeficit": {
+      "actuals": 27847,
+      "budgetedPrev": 23835,
+      "revisedPrev": 33216,
+      "budgeted": 34784
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 12908,
+      "budgetedPrev": 15654,
+      "revisedPrev": 15589,
+      "budgeted": 17525,
+      "changePct": 12
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 10233,
+      "budgetedPrev": 11239,
+      "revisedPrev": 12986,
+      "budgeted": 13704,
+      "changePct": 6
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 7022,
+      "budgetedPrev": 7595,
+      "revisedPrev": 8791,
+      "budgeted": 8963,
+      "changePct": 2
+    },
+    {
+      "name": "Police",
+      "actuals": 7201,
+      "budgetedPrev": 7705,
+      "revisedPrev": 8046,
+      "budgeted": 8528,
+      "changePct": 6
+    },
+    {
+      "name": "Energy",
+      "actuals": 4537,
+      "budgetedPrev": 6406,
+      "revisedPrev": 8292,
+      "budgeted": 7894,
+      "changePct": -5
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 3942,
+      "budgetedPrev": 5600,
+      "revisedPrev": 5232,
+      "budgeted": 5595,
+      "changePct": 7
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1997,
+      "budgetedPrev": 3188,
+      "revisedPrev": 2923,
+      "budgeted": 2682,
+      "changePct": -8
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 1972,
+      "budgetedPrev": 2547,
+      "revisedPrev": 2281,
+      "budgeted": 2630,
+      "changePct": 15
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 1476,
+      "budgetedPrev": 1500,
+      "revisedPrev": 951,
+      "budgeted": 2443,
+      "changePct": 157
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1071,
+      "budgetedPrev": 2374,
+      "revisedPrev": 1566,
+      "budgeted": 1987,
+      "changePct": 27
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 8645,
+      "text": "has been allocated to government secondary schools"
+    },
+    {
+      "amount": 7465,
+      "text": "has been allocated for power subsidy to farmers"
+    },
+    {
+      "amount": 2876,
+      "text": "has been allocated to pensions under social security schemes"
+    },
+    {
+      "amount": 7779,
+      "text": "has been allocated towards subsidies"
+    },
+    {
+      "amount": 1137,
+      "text": "has been allocated for AMRUT"
+    },
+    {
+      "amount": 855,
+      "text": "has been allocated for capital outlay on medium irrigation"
+    },
+    {
+      "amount": 2147,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 413,
+      "text": "has been allocated for sewerage and sanitation"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 51835
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 7824
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 18458
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 20735
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 1200
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/punjab-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/punjab/2023/State_Budget_Analysis_2023-24_Punjab.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

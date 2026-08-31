@@ -1,0 +1,216 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 237691,
+    "netExpenditure": 223021,
+    "totalReceipts": 237892,
+    "netReceipts": 197136,
+    "borrowings": 40756,
+    "fiscalDeficit": 25885,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 4748
+    },
+    "gsdp": 745310
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 11.31,
+      "budgeted": 3.47
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -5.48,
+      "budgeted": 0.64
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 158816,
+      "budgetedPrev": 209208,
+      "revisedPrev": 246379,
+      "budgeted": 223021
+    },
+    "netReceipts": {
+      "actuals": 128989,
+      "budgetedPrev": 186698,
+      "revisedPrev": 169541,
+      "budgeted": 197136
+    },
+    "fiscalDeficit": {
+      "actuals": 29827,
+      "budgetedPrev": 22511,
+      "revisedPrev": 76838,
+      "budgeted": 25885
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 27347,
+      "budgetedPrev": 39467,
+      "revisedPrev": 48593,
+      "budgeted": 40828,
+      "changePct": -16
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 15647,
+      "budgetedPrev": 24156,
+      "revisedPrev": 28914,
+      "budgeted": 23553,
+      "changePct": -19
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 9152,
+      "budgetedPrev": 13012,
+      "revisedPrev": 17506,
+      "budgeted": 15898,
+      "changePct": -9
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 15764,
+      "budgetedPrev": 12610,
+      "revisedPrev": 17819,
+      "budgeted": 13208,
+      "changePct": -26
+    },
+    {
+      "name": "Police",
+      "actuals": 7888,
+      "budgetedPrev": 11558,
+      "revisedPrev": 12448,
+      "budgeted": 11911,
+      "changePct": -4
+    },
+    {
+      "name": "Energy",
+      "actuals": 8625,
+      "budgetedPrev": 8473,
+      "revisedPrev": 9938,
+      "budgeted": 11376,
+      "changePct": 14
+    },
+    {
+      "name": "Housing",
+      "actuals": 4941,
+      "budgetedPrev": 9075,
+      "revisedPrev": 9948,
+      "budgeted": 9405,
+      "changePct": -5
+    },
+    {
+      "name": "of which Roads and Bridges",
+      "actuals": 6575,
+      "budgetedPrev": 7800,
+      "revisedPrev": 9120,
+      "budgeted": 8365,
+      "changePct": -8
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 3374,
+      "budgetedPrev": 7604,
+      "revisedPrev": 7818,
+      "budgeted": 7712,
+      "changePct": -1
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 5001,
+      "budgetedPrev": 6853,
+      "revisedPrev": 8852,
+      "budgeted": 7133,
+      "changePct": -19
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 300,
+      "text": "has been allocated towards the mid-day meal scheme"
+    },
+    {
+      "amount": 5014,
+      "text": "have been allocated towards PMGSY"
+    },
+    {
+      "amount": 2500,
+      "text": "has been allocated towards MGNREGS"
+    },
+    {
+      "amount": 3156,
+      "text": "has been allocated towards the provision of health services in urban areas. Rs 120 crore has been allocated towards incentives to ASHA workers"
+    },
+    {
+      "amount": 810,
+      "text": "has been allocated towards Mukhyamantri Vriddhhajan Pension Yojana"
+    },
+    {
+      "amount": 9653,
+      "text": "has been allocated towards assistance to the state power holding corporation"
+    },
+    {
+      "amount": 8689,
+      "text": "has been allocated towards Indira Awas Yojana"
+    },
+    {
+      "amount": 145,
+      "text": "has been allocated towards organic farming. Rs 76 crore has been allocated towards Pradhan Mantri Krishi Sinchai Yojana"
+    },
+    {
+      "amount": 524,
+      "text": "has been allocated towards Housing for all–Awas yojana"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 41387
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 6136
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 91181
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 58001
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 432
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/bihar-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/bihar/2022/Bihar%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

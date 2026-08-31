@@ -1,0 +1,228 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 265000,
+    "netExpenditure": 243908,
+    "totalReceipts": 254000,
+    "netReceipts": 211505,
+    "borrowings": 42495,
+    "fiscalDeficit": 32403,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 27437
+    },
+    "gsdp": 926000
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3,
+      "budgeted": 3.5
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 2.7,
+      "budgeted": 3
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 166513,
+      "budgetedPrev": 211214,
+      "revisedPrev": 211577,
+      "budgeted": 243908
+    },
+    "netReceipts": {
+      "actuals": 151294,
+      "budgetedPrev": 185370,
+      "revisedPrev": 186595,
+      "budgeted": 211505
+    },
+    "fiscalDeficit": {
+      "actuals": 15219,
+      "budgetedPrev": 25844,
+      "revisedPrev": 24982,
+      "budgeted": 32403
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 25078,
+      "budgetedPrev": 27593,
+      "revisedPrev": 29848,
+      "budgeted": 32329,
+      "changePct": 8
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 9216,
+      "budgetedPrev": 12760,
+      "revisedPrev": 13467,
+      "budgeted": 28144,
+      "changePct": 109
+    },
+    {
+      "name": "Transport",
+      "actuals": 13515,
+      "budgetedPrev": 17730,
+      "revisedPrev": 18104,
+      "budgeted": 22983,
+      "changePct": 27
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 12318,
+      "budgetedPrev": 15933,
+      "revisedPrev": 16274,
+      "budgeted": 21099,
+      "changePct": 30
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 11188,
+      "budgetedPrev": 12671,
+      "revisedPrev": 14267,
+      "budgeted": 19539,
+      "changePct": 37
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 10196,
+      "budgetedPrev": 14795,
+      "revisedPrev": 19384,
+      "budgeted": 17685,
+      "changePct": -9
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 10233,
+      "budgetedPrev": 11536,
+      "revisedPrev": 14238,
+      "budgeted": 14286,
+      "changePct": 0
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 5788,
+      "budgetedPrev": 13025,
+      "revisedPrev": 9517,
+      "budgeted": 11404,
+      "changePct": 20
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 3644,
+      "budgetedPrev": 4906,
+      "revisedPrev": 5785,
+      "budgeted": 6718,
+      "changePct": 16
+    },
+    {
+      "name": "Welfare of SC, ST, OBC and Minorities",
+      "actuals": 3346,
+      "budgetedPrev": 4311,
+      "revisedPrev": 4485,
+      "budgeted": 5522,
+      "changePct": 23
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 10000,
+      "text": "has been allocated towards the Subhadra Yojana"
+    },
+    {
+      "amount": 15865,
+      "text": "has been allocated as capital outlay on roads and bridges"
+    },
+    {
+      "amount": 1085,
+      "text": "has been allocated for Gramanchal Paribahan Yojana"
+    },
+    {
+      "amount": 5000,
+      "text": "has been allocated for Samrudha Krushaka Yojana"
+    },
+    {
+      "amount": 1935,
+      "text": "has been allocated for CM- KISAN"
+    },
+    {
+      "amount": 1990,
+      "text": "has been allocated towards the Setu Bandhan Yojana"
+    },
+    {
+      "amount": 100,
+      "text": "has been allocated for Gangadhar Meher Lift Canal System"
+    },
+    {
+      "amount": 2000,
+      "text": "has been allocated for the BASUDHA scheme"
+    },
+    {
+      "amount": 616,
+      "text": "has been allocated for Pradhan Mantri Awaas Yojana (Urban)"
+    },
+    {
+      "amount": 344,
+      "text": "has been allocated for kalyan mandaps and parks under UNNATI"
+    },
+    {
+      "amount": 200,
+      "text": "has been allocated for Mukhamantri Janajati Jeebika Mission"
+    },
+    {
+      "amount": 156,
+      "text": "has been allocated for Madho Singh Haath Kharcha"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 60000
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 58000
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 55232
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 37768
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 505
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/odisha-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/odisha/2024/Odisha_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

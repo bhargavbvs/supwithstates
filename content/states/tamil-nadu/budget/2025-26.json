@@ -1,0 +1,232 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 486332,
+    "netExpenditure": 439293,
+    "totalReceipts": 484364,
+    "netReceipts": 332325,
+    "borrowings": 152040,
+    "fiscalDeficit": 106968,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 41635
+    },
+    "gsdp": 3567818
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.3,
+      "budgeted": 3
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 1.5,
+      "budgeted": 1.2
+    },
+    "outstandingDebtPctGsdp": 26.1,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 359063,
+      "budgetedPrev": 412504,
+      "revisedPrev": 399203,
+      "budgeted": 439293
+    },
+    "netReceipts": {
+      "actuals": 268621,
+      "budgetedPrev": 303810,
+      "revisedPrev": 297846,
+      "budgeted": 332325
+    },
+    "fiscalDeficit": {
+      "actuals": 90442,
+      "budgetedPrev": 108693,
+      "revisedPrev": 101356,
+      "budgeted": 106968
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 47223,
+      "budgetedPrev": 54327,
+      "revisedPrev": 49783,
+      "budgeted": 57783,
+      "changePct": 16
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 28155,
+      "budgetedPrev": 34548,
+      "revisedPrev": 36182,
+      "budgeted": 38096,
+      "changePct": 5
+    },
+    {
+      "name": "Transport",
+      "actuals": 20433,
+      "budgetedPrev": 23828,
+      "revisedPrev": 21991,
+      "budgeted": 27971,
+      "changePct": 27
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 21231,
+      "budgetedPrev": 24232,
+      "revisedPrev": 22513,
+      "budgeted": 23964,
+      "changePct": 6
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 17773,
+      "budgetedPrev": 19730,
+      "revisedPrev": 21525,
+      "budgeted": 21348,
+      "changePct": -1
+    },
+    {
+      "name": "Energy",
+      "actuals": 24166,
+      "budgetedPrev": 21606,
+      "revisedPrev": 22970,
+      "budgeted": 20354,
+      "changePct": -11
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 8922,
+      "budgetedPrev": 12043,
+      "revisedPrev": 11403,
+      "budgeted": 13132,
+      "changePct": 15
+    },
+    {
+      "name": "Police",
+      "actuals": 10490,
+      "budgetedPrev": 11965,
+      "revisedPrev": 11302,
+      "budgeted": 12714,
+      "changePct": 12
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 6607,
+      "budgetedPrev": 7763,
+      "revisedPrev": 6889,
+      "budgeted": 8888,
+      "changePct": 29
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 7761,
+      "budgetedPrev": 6025,
+      "revisedPrev": 5603,
+      "budgeted": 7936,
+      "changePct": 42
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 13974,
+      "text": "government secondary schools"
+    },
+    {
+      "amount": 14328,
+      "text": "government primary schools"
+    },
+    {
+      "amount": 13807,
+      "text": "Magalir Urimai Thogai scheme"
+    },
+    {
+      "amount": 18456,
+      "text": "capital outlay on roads and bridges"
+    },
+    {
+      "amount": 8126,
+      "text": "payment to electricity board on behalf of farmers using pump sets"
+    },
+    {
+      "amount": 5926,
+      "text": "allopathic urban health services"
+    },
+    {
+      "amount": 7546,
+      "text": "power subsidy for domestic consumers"
+    },
+    {
+      "amount": 7700,
+      "text": "loss funding for TANGEDCO"
+    },
+    {
+      "amount": 3699,
+      "text": "rural employment guarantee scheme"
+    },
+    {
+      "amount": 7605,
+      "text": "district police"
+    },
+    {
+      "amount": 2565,
+      "text": "capital outlay on major irrigation"
+    },
+    {
+      "amount": 2000,
+      "text": "implementation of Kalaignar Nagarpura Membattu Thittam"
+    },
+    {
+      "amount": 850,
+      "text": "Singara Chennai 2.0 scheme"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 220895
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 28819
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 58022
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 23834
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 756
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/tamil-nadu/2025/TN_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

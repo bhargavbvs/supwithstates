@@ -1,0 +1,244 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 327747,
+    "netExpenditure": 305306,
+    "totalReceipts": 324478,
+    "netReceipts": 238660,
+    "borrowings": 85818,
+    "fiscalDeficit": 66646,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 12523
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.8,
+      "budgeted": 2.6
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 0.3,
+      "budgeted": 0.5
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 261512,
+      "budgetedPrev": 251541,
+      "revisedPrev": 273677,
+      "budgeted": 305306
+    },
+    "netReceipts": {
+      "actuals": 195895,
+      "budgetedPrev": 189977,
+      "revisedPrev": 212540,
+      "budgeted": 238660
+    },
+    "fiscalDeficit": {
+      "actuals": 65617,
+      "budgetedPrev": 61564,
+      "revisedPrev": 61137,
+      "budgeted": 66646
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 17790,
+      "budgetedPrev": 15528,
+      "revisedPrev": 17487,
+      "budgeted": 34834,
+      "changePct": 99
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 30774,
+      "budgetedPrev": 32018,
+      "revisedPrev": 33494,
+      "budgeted": 33271,
+      "changePct": -1
+    },
+    {
+      "name": "Energy",
+      "actuals": 17645,
+      "budgetedPrev": 12226,
+      "revisedPrev": 14829,
+      "budgeted": 22662,
+      "changePct": 53
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 20769,
+      "budgetedPrev": 17039,
+      "revisedPrev": 16351,
+      "budgeted": 22158,
+      "changePct": 36
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 21054,
+      "budgetedPrev": 20652,
+      "revisedPrev": 22933,
+      "budgeted": 19057,
+      "changePct": -17
+    },
+    {
+      "name": "Transport",
+      "actuals": 14748,
+      "budgetedPrev": 12105,
+      "revisedPrev": 18868,
+      "budgeted": 15023,
+      "changePct": -20
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 15345,
+      "budgetedPrev": 14368,
+      "revisedPrev": 13576,
+      "budgeted": 14761,
+      "changePct": 9
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 9526,
+      "budgetedPrev": 9180,
+      "revisedPrev": 11100,
+      "budgeted": 10972,
+      "changePct": -1
+    },
+    {
+      "name": "Police",
+      "actuals": 6801,
+      "budgetedPrev": 8007,
+      "revisedPrev": 8946,
+      "budgeted": 10011,
+      "changePct": 12
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 8427,
+      "budgetedPrev": 9295,
+      "revisedPrev": 11491,
+      "budgeted": 9494,
+      "changePct": -17
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 17500,
+      "text": "has been allocated for Gruha Lakshmi scheme"
+    },
+    {
+      "amount": 13530,
+      "text": "has been allocated for block grants for various districts"
+    },
+    {
+      "amount": 1938,
+      "text": "has been allocated for Sarva Shiksha Abhiyana"
+    },
+    {
+      "amount": 13143,
+      "text": "has been allocated for subsidies"
+    },
+    {
+      "amount": 9000,
+      "text": "has been allocated for Gruha Jyothi scheme"
+    },
+    {
+      "amount": 10275,
+      "text": "has been allocated for Annabhagya scheme"
+    },
+    {
+      "amount": 15248,
+      "text": "has been allocated for capital outlay on medium irrigation"
+    },
+    {
+      "amount": 8208,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 2800,
+      "text": "has been allocated for Shakthi scheme"
+    },
+    {
+      "amount": 2166,
+      "text": "has been allocated for block grants"
+    },
+    {
+      "amount": 1586,
+      "text": "has been allocated for psychiatric clinics, hospitals, and blood banks"
+    },
+    {
+      "amount": 4300,
+      "text": "has been allocated for welfare of scheduled castes"
+    },
+    {
+      "amount": 1520,
+      "text": "has been allocated for welfare of scheduled tribes"
+    },
+    {
+      "amount": 6568,
+      "text": "has been allocated for police establishment in existing districts"
+    },
+    {
+      "amount": 2117,
+      "text": "has been allocated for 15th Finance Commission grants to gram panchayats"
+    },
+    {
+      "amount": 1700,
+      "text": "has been allocated for maintenance grants to taluka panchayats"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 173303
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 12500
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 37252
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 15355
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 250
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/karnataka-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/karnataka/2023/Karnataka_Budget_Analysis_2023-24.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

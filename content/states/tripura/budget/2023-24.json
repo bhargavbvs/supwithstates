@@ -1,0 +1,174 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 27654,
+    "netExpenditure": 26736,
+    "totalReceipts": 25643,
+    "netReceipts": 22330,
+    "borrowings": 3314,
+    "fiscalDeficit": 4407,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 12
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": null,
+    "revenueBalance": {
+      "kind": "surplus"
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 17548,
+      "budgetedPrev": 25870,
+      "revisedPrev": 24192,
+      "budgeted": 26736
+    },
+    "netReceipts": {
+      "actuals": 17615,
+      "budgetedPrev": 21048,
+      "revisedPrev": 21306,
+      "budgeted": 22330
+    },
+    "fiscalDeficit": {
+      "actuals": -67,
+      "budgetedPrev": 4821,
+      "revisedPrev": 2886,
+      "budgeted": 4407
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 2364,
+      "budgetedPrev": 3480,
+      "revisedPrev": 2912,
+      "budgeted": 3281,
+      "changePct": 13
+    },
+    {
+      "name": "Police",
+      "actuals": 1459,
+      "budgetedPrev": 1959,
+      "revisedPrev": 1834,
+      "budgeted": 2094,
+      "changePct": 14
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 1006,
+      "budgetedPrev": 2110,
+      "revisedPrev": 1773,
+      "budgeted": 1818,
+      "changePct": 3
+    },
+    {
+      "name": "Housing",
+      "actuals": 1149,
+      "budgetedPrev": 1300,
+      "revisedPrev": 2219,
+      "budgeted": 1734,
+      "changePct": -22
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1171,
+      "budgetedPrev": 1482,
+      "revisedPrev": 1481,
+      "budgeted": 1671,
+      "changePct": 13
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 934,
+      "budgetedPrev": 1313,
+      "revisedPrev": 1352,
+      "budgeted": 1612,
+      "changePct": 19
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 889,
+      "budgetedPrev": 1449,
+      "revisedPrev": 1337,
+      "budgeted": 1526,
+      "changePct": 14
+    },
+    {
+      "name": "Transport",
+      "actuals": 690,
+      "budgetedPrev": 820,
+      "revisedPrev": 878,
+      "budgeted": 1462,
+      "changePct": 66
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 422,
+      "budgetedPrev": 977,
+      "revisedPrev": 681,
+      "budgeted": 1222,
+      "changePct": 79
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 502,
+      "budgetedPrev": 928,
+      "revisedPrev": 863,
+      "budgeted": 1135,
+      "changePct": 32
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 3360
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 450
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 7232
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 11266
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 22
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/tripura-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/tripura/2023/TR_State_Budget_Analysis_2023-24.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 35022,
+    "netExpenditure": 30312,
+    "totalReceipts": 34251,
+    "netReceipts": 27551,
+    "borrowings": 6700,
+    "fiscalDeficit": 2760,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 7255
+    },
+    "gsdp": 45145
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 6.9,
+      "budgeted": 6.1
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 16.2,
+      "budgeted": 16.1
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 15897,
+      "budgetedPrev": 27200,
+      "revisedPrev": 28154,
+      "budgeted": 30312
+    },
+    "netReceipts": {
+      "actuals": 14093,
+      "budgetedPrev": 24452,
+      "revisedPrev": 25605,
+      "budgeted": 27551
+    },
+    "fiscalDeficit": {
+      "actuals": 1803,
+      "budgetedPrev": 2748,
+      "revisedPrev": 2550,
+      "budgeted": 2760
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Rural Development",
+      "actuals": 2181,
+      "budgetedPrev": 4131,
+      "revisedPrev": 4893,
+      "budgeted": 4857,
+      "changePct": -1
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 1858,
+      "budgetedPrev": 2714,
+      "revisedPrev": 2723,
+      "budgeted": 3474,
+      "changePct": 28
+    },
+    {
+      "name": "Police",
+      "actuals": 2077,
+      "budgetedPrev": 2187,
+      "revisedPrev": 2226,
+      "budgeted": 2418,
+      "changePct": 9
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 875,
+      "budgetedPrev": 2334,
+      "revisedPrev": 1980,
+      "budgeted": 2222,
+      "changePct": 12
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1069,
+      "budgetedPrev": 1482,
+      "revisedPrev": 1747,
+      "budgeted": 1920,
+      "changePct": 10
+    },
+    {
+      "name": "of which Roads and Bridges",
+      "actuals": 522,
+      "budgetedPrev": 939,
+      "revisedPrev": 1038,
+      "budgeted": 1574,
+      "changePct": 52
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 510,
+      "budgetedPrev": 1336,
+      "revisedPrev": 1101,
+      "budgeted": 1297,
+      "changePct": 18
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 243,
+      "budgetedPrev": 1336,
+      "revisedPrev": 979,
+      "budgeted": 1214,
+      "changePct": 24
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 470,
+      "budgetedPrev": 930,
+      "revisedPrev": 1392,
+      "budgeted": 1049,
+      "changePct": -25
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 214,
+      "budgetedPrev": 748,
+      "revisedPrev": 812,
+      "budgeted": 1008,
+      "changePct": 24
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 3200
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 400
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 7314
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 16634
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 4
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/manipur-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/manipur/2023/Budget_Analysis_2023-24_Manipur.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 27072,
+    "netExpenditure": 25574,
+    "totalReceipts": 27072,
+    "netReceipts": 23545,
+    "borrowings": 3527,
+    "fiscalDeficit": 2029,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 3862
+    },
+    "gsdp": 52974
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.9,
+      "budgeted": 3.8
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 8.2,
+      "budgeted": 7.3
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 17641,
+      "budgetedPrev": 21034,
+      "revisedPrev": 24064,
+      "budgeted": 25574
+    },
+    "netReceipts": {
+      "actuals": 14844,
+      "budgetedPrev": 19442,
+      "revisedPrev": 22216,
+      "budgeted": 23545
+    },
+    "fiscalDeficit": {
+      "actuals": 2796,
+      "budgetedPrev": 1592,
+      "revisedPrev": 1849,
+      "budgeted": 2029
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 3085,
+      "budgetedPrev": 3109,
+      "revisedPrev": 3429,
+      "budgeted": 3846,
+      "changePct": 12
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 1185,
+      "budgetedPrev": 1593,
+      "revisedPrev": 3368,
+      "budgeted": 2001,
+      "changePct": -41
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1487,
+      "budgetedPrev": 1805,
+      "revisedPrev": 1862,
+      "budgeted": 1971,
+      "changePct": 6
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 1385,
+      "budgetedPrev": 1483,
+      "revisedPrev": 1702,
+      "budgeted": 1877,
+      "changePct": 10
+    },
+    {
+      "name": "Energy",
+      "actuals": 868,
+      "budgetedPrev": 704,
+      "revisedPrev": 1403,
+      "budgeted": 1539,
+      "changePct": 10
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 894,
+      "budgetedPrev": 1196,
+      "revisedPrev": 1086,
+      "budgeted": 1290,
+      "changePct": 19
+    },
+    {
+      "name": "Police",
+      "actuals": 1052,
+      "budgetedPrev": 1207,
+      "revisedPrev": 1267,
+      "budgeted": 1279,
+      "changePct": 1
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 397,
+      "budgetedPrev": 832,
+      "revisedPrev": 769,
+      "budgeted": 1022,
+      "changePct": 33
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 365,
+      "budgetedPrev": 487,
+      "revisedPrev": 972,
+      "budgeted": 932,
+      "changePct": -4
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 710,
+      "budgetedPrev": 640,
+      "revisedPrev": 732,
+      "budgeted": 902,
+      "changePct": 23
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 4041
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 747
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 9356
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 9371
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 30
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/meghalaya-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/meghalaya/2024/Meghalaya_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

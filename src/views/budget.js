@@ -114,18 +114,29 @@ export function renderBudget(el, param) {
 
 
 
-  const debt = !b.fiscal ? '' : `
+  // Not every analysis states these. Delhi's gives no deficit as a share of
+  // GSDP and no GSDP to take a share of, and Tripura's gives the economy
+  // but not the ratios — so the card was rendering as a heading, a promise
+  // of "three figures", and nothing at all, at the top of the page. It is
+  // built from what exists: no figures and no GSDP means no card, and the
+  // sentence about three figures waits until there is at least one.
+  const hasFiscal = !!b.fiscal && (b.fiscal.fiscalDeficit?.budgeted != null
+    || b.fiscal.revenueBalance?.budgeted != null
+    || b.fiscal.outstandingDebtPctGsdp != null);
+  const debt = (!hasFiscal && !h.gsdp) ? '' : `
     <section>
-      <h2>Debt and deficits</h2>
-      <p class="sub">The three figures a state's finances are usually judged on, each as a share of
-        the size of the state's economy — which is how they are set, compared and capped.</p>
+      <h2>${hasFiscal ? 'Debt and deficits' : "The state's economy"}</h2>
+      ${!hasFiscal ? '' : `<p class="sub">The figures a state's finances are usually judged on, each
+        as a share of the size of the state's economy — which is how they are set, compared and
+        capped.</p>`}
       ${!h.gsdp ? '' : `
       <p class="gsdp">
         <span class="gsdp-label">The state's economy · GSDP</span>
         <b class="gsdp-amt">${crore(h.gsdp)}</b>
-        <span class="gsdp-note">the value of everything produced in the state in a year.
-          Each figure below is a share of this.</span>
+        <span class="gsdp-note">the value of everything produced in the state in a year.${
+  hasFiscal ? ' Each figure below is a share of this.' : ''}</span>
       </p>`}
+      ${!hasFiscal ? '' : `
       <dl class="fiscal">
         ${b.fiscal.fiscalDeficit?.budgeted == null ? '' : `
         <div>
@@ -135,12 +146,18 @@ export function renderBudget(el, param) {
             ${b.fiscal.fiscalDeficitCeilingPctGsdp == null ? ''
     : `The centre's limit for states is ${b.fiscal.fiscalDeficitCeilingPctGsdp}%.`}</dd>
         </div>`}
-        ${b.fiscal.revenueDeficit?.budgeted == null ? '' : `
+        ${b.fiscal.revenueBalance?.budgeted == null ? '' : `
         <div>
-          <dt>Revenue deficit</dt>
-          <dd><b>${b.fiscal.revenueDeficit.budgeted}%</b> of the state's economy</dd>
-          <dd class="fiscal-note">Borrowing that pays for running costs rather than for anything
-            built or bought — salaries, pensions, interest.</dd>
+          <dt>Revenue ${b.fiscal.revenueBalance.kind}</dt>
+          <dd><b>${b.fiscal.revenueBalance.budgeted}%</b> of the state's economy</dd>
+          <dd class="fiscal-note">${{
+    surplus: `It takes in more for its running costs than it spends on them, so it is not borrowing
+              to pay for salaries, pensions and interest.`,
+    balance: `It expects to take in exactly what its running costs come to — neither borrowing for
+              them nor putting anything by.`,
+    deficit: `Borrowing that pays for running costs rather than for anything built or bought —
+              salaries, pensions, interest.`,
+  }[b.fiscal.revenueBalance.kind]}</dd>
         </div>`}
         ${b.fiscal.outstandingDebtPctGsdp == null ? '' : `
         <div>
@@ -148,7 +165,7 @@ export function renderBudget(el, param) {
           <dd><b>${b.fiscal.outstandingDebtPctGsdp}%</b> of the state's economy</dd>
           <dd class="fiscal-note">Everything borrowed and not yet repaid, added up over the years.</dd>
         </div>`}
-      </dl>
+      </dl>`}
       ${h.gsdp ? '' : `<p class="sub">"the state's economy" is its GSDP — the value of everything
         produced in the state in a year.</p>`}
     </section>`;
@@ -174,11 +191,11 @@ export function renderBudget(el, param) {
       <p class="sub">Everything the state plans to spend is either money it has, or money it borrows.</p>
       <div class="split" role="img"
         aria-label="Of ${crore(h.netExpenditure)} to spend, ${splitShares[0]}% is money it has and ${splitShares[1]}% is borrowed">
-        <span class="split-have" style="width:${pct(h.netReceipts, h.netExpenditure).toFixed(1)}%">
+        <span class="split-have" style="width:${splitShares[0]}%">
           <span class="split-amt">${splitShares[0]}%</span>
           <span class="split-label">money it has</span>
         </span>
-        <span class="split-borrow" style="width:${pct(h.fiscalDeficit, h.netExpenditure).toFixed(1)}%">
+        <span class="split-borrow" style="width:${splitShares[1]}%">
           <span class="split-amt">${splitShares[1]}%</span>
           <span class="split-label">borrowed</span>
         </span>
@@ -277,6 +294,8 @@ export function renderBudget(el, param) {
          document by the name it uses there.</p>
       <p class="retrieved">Retrieved ${escapeHtml(b.source.retrieved)}</p>
     </section>`;
+
+  fitSplitLabels(el);
 
   // The treemap is geometry against the box it lives in, so it is painted
   // after layout and repainted when its width changes — a rotated phone is
@@ -384,4 +403,48 @@ export function renderBudget(el, param) {
 
   paint();
   new ResizeObserver(paint).observe(box);
+}
+
+/** The words stay in the bar only while they fit it.
+ *
+ *  A segment is as wide as its share, so at Odisha's 13% deficit the word
+ *  "borrowed" has 56px and wants 58, and with wrapping allowed it broke
+ *  mid-word into "borrowe / d". No width fixes this: a state with an 8%
+ *  deficit has less room again, whatever the screen. So it is measured
+ *  after layout rather than guessed at, and where the word does not fit,
+ *  the segment shows its percentage alone — the key below the bar still
+ *  says which colour is which, and carries the figure. */
+function fitSplitLabels(el) {
+  const segs = [...el.querySelectorAll('.split-have, .split-borrow')];
+  if (!segs.length) return;
+  const measure = () => {
+    for (const seg of segs) {
+      const label = seg.querySelector('.split-label');
+      if (!label) continue;
+      // Not unhidden first: the segment's width comes from its inline
+      // share, not from the label, so it can be measured either way — and
+      // toggling here changed the bar's height inside the observer's own
+      // callback, which set it off again ("ResizeObserver loop completed
+      // with undelivered notifications").
+      const cs = getComputedStyle(seg);
+      const avail = seg.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+      // A copy off to one side, unwrapped, is the only honest measure of
+      // what the text wants: the label itself is a shrunk flex item, and
+      // measuring that returns the width it was squeezed to.
+      const probe = document.createElement('span');
+      probe.textContent = label.textContent;
+      probe.style.cssText = 'position:absolute;left:-9999px;top:0;white-space:nowrap;'
+        + `font:${getComputedStyle(label).font}`;
+      document.body.append(probe);
+      const need = probe.getBoundingClientRect().width;
+      probe.remove();
+      label.hidden = need > avail;
+    }
+  };
+  measure();
+  let queued = 0;
+  new ResizeObserver(() => {
+    cancelAnimationFrame(queued);
+    queued = requestAnimationFrame(measure);
+  }).observe(segs[0].parentElement);
 }

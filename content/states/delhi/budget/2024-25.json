@@ -1,0 +1,173 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 76000,
+    "netExpenditure": 71086,
+    "totalReceipts": 74521,
+    "netReceipts": 64521,
+    "borrowings": 10000,
+    "fiscalDeficit": 6565,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 3231
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": null,
+      "budgeted": null
+    },
+    "revenueBalance": {
+      "kind": "surplus"
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 59395,
+      "budgetedPrev": 73760,
+      "revisedPrev": 69906,
+      "budgeted": 71086
+    },
+    "netReceipts": {
+      "actuals": 63961,
+      "budgetedPrev": 63374,
+      "revisedPrev": 62028,
+      "budgeted": 64521
+    },
+    "fiscalDeficit": {
+      "actuals": -4565,
+      "budgetedPrev": 10386,
+      "revisedPrev": 7878,
+      "budgeted": 6565
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 14071,
+      "budgetedPrev": 16574,
+      "revisedPrev": 15727,
+      "budgeted": 16146,
+      "changePct": 3
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 8250,
+      "budgetedPrev": 9742,
+      "revisedPrev": 8969,
+      "budgeted": 8685,
+      "changePct": -3
+    },
+    {
+      "name": "Transport",
+      "actuals": 7822,
+      "budgetedPrev": 8481,
+      "revisedPrev": 10226,
+      "budgeted": 6865,
+      "changePct": -33
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 4170,
+      "budgetedPrev": 4794,
+      "revisedPrev": 4478,
+      "budgeted": 6437,
+      "changePct": 44
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 2632,
+      "budgetedPrev": 4455,
+      "revisedPrev": 3053,
+      "budgeted": 4290,
+      "changePct": 41
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1747,
+      "budgetedPrev": 2866,
+      "revisedPrev": 2547,
+      "budgeted": 3442,
+      "changePct": 34
+    },
+    {
+      "name": "Energy",
+      "actuals": 3183,
+      "budgetedPrev": 3348,
+      "revisedPrev": 3409,
+      "budgeted": 3350,
+      "changePct": -2
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 129,
+      "budgetedPrev": 152,
+      "revisedPrev": 221,
+      "budgeted": 922,
+      "changePct": 316
+    },
+    {
+      "name": "Police",
+      "actuals": 91,
+      "budgetedPrev": 398,
+      "revisedPrev": 180,
+      "budgeted": 338,
+      "changePct": 88
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 380,
+      "budgetedPrev": 603,
+      "revisedPrev": 373,
+      "budgeted": 302,
+      "changePct": -19
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 58750
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 1000
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 4392
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 379
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/delhi-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/delhi/2024/Delhi_Budget_Analysis_2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

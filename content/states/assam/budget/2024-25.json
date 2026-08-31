@@ -1,0 +1,240 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 143891,
+    "netExpenditure": 136699,
+    "totalReceipts": 143606,
+    "netReceipts": 114165,
+    "borrowings": 29441,
+    "fiscalDeficit": 22534,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 1852
+    },
+    "gsdp": 643089
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 5.2,
+      "budgeted": 3.5
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -0.2,
+      "budgeted": 0.3
+    },
+    "outstandingDebtPctGsdp": 25.2,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 119952,
+      "budgetedPrev": 135348,
+      "revisedPrev": 150050,
+      "budgeted": 136699
+    },
+    "netReceipts": {
+      "actuals": 89747,
+      "budgetedPrev": 114392,
+      "revisedPrev": 120395,
+      "budgeted": 114165
+    },
+    "fiscalDeficit": {
+      "actuals": 30205,
+      "budgetedPrev": 20957,
+      "revisedPrev": 29655,
+      "budgeted": 22534
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 19810,
+      "budgetedPrev": 22766,
+      "revisedPrev": 25926,
+      "budgeted": 23227,
+      "changePct": -10
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 7051,
+      "budgetedPrev": 10042,
+      "revisedPrev": 11723,
+      "budgeted": 11088,
+      "changePct": -5
+    },
+    {
+      "name": "Transport",
+      "actuals": 9847,
+      "budgetedPrev": 13261,
+      "revisedPrev": 13321,
+      "budgeted": 10146,
+      "changePct": -24
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 6876,
+      "budgetedPrev": 7506,
+      "revisedPrev": 8242,
+      "budgeted": 8399,
+      "changePct": 2
+    },
+    {
+      "name": "Police",
+      "actuals": 5206,
+      "budgetedPrev": 7894,
+      "revisedPrev": 8482,
+      "budgeted": 7121,
+      "changePct": -16
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 4138,
+      "budgetedPrev": 5460,
+      "revisedPrev": 6229,
+      "budgeted": 6091,
+      "changePct": -2
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 5376,
+      "budgetedPrev": 5619,
+      "revisedPrev": 5640,
+      "budgeted": 5121,
+      "changePct": -9
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 2532,
+      "budgetedPrev": 2892,
+      "revisedPrev": 2977,
+      "budgeted": 3859,
+      "changePct": 30
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 3182,
+      "budgetedPrev": 3639,
+      "revisedPrev": 3678,
+      "budgeted": 3402,
+      "changePct": -7
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 2762,
+      "budgetedPrev": 4083,
+      "revisedPrev": 4805,
+      "budgeted": 3127,
+      "changePct": -35
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 6650,
+      "text": "has been allocated for government primary schools"
+    },
+    {
+      "amount": 5884,
+      "text": "has been allocated for assistance to non-government secondary schools"
+    },
+    {
+      "amount": 3800,
+      "text": "has been allocated for Orunodoi scheme"
+    },
+    {
+      "amount": 1792,
+      "text": "has been allocated for child welfare"
+    },
+    {
+      "amount": 8166,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 3782,
+      "text": "has been allocated for Rural Health Services – Allopathy"
+    },
+    {
+      "amount": 1157,
+      "text": "has been allocated for Urban Health Services – Allopathy"
+    },
+    {
+      "amount": 3359,
+      "text": "has been allocated for district police"
+    },
+    {
+      "amount": 1437,
+      "text": "has been allocated for crop husbandry – horticulture"
+    },
+    {
+      "amount": 1349,
+      "text": "has been allocated for forestry and wildlife"
+    },
+    {
+      "amount": 1421,
+      "text": "has been allocated for NREGS"
+    },
+    {
+      "amount": 569,
+      "text": "has been allocated for Panchayati Raj"
+    },
+    {
+      "amount": 1586,
+      "text": "has been allocated for capital outlay on flood control projects"
+    },
+    {
+      "amount": 2678,
+      "text": "has been allocated for welfare of scheduled tribes"
+    },
+    {
+      "amount": 1240,
+      "text": "has been allocated for integrated development of small and medium towns"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 34148
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 8871
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 40000
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 28924
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2221
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/assam-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/assam/2024/Assam_Budget_Analysis_2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

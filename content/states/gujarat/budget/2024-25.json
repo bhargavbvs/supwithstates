@@ -1,0 +1,212 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 328447,
+    "netExpenditure": 299362,
+    "totalReceipts": 324945,
+    "netReceipts": 247445,
+    "borrowings": 77500,
+    "fiscalDeficit": 51917,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 9821
+    },
+    "gsdp": 2792545
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 1.7,
+      "budgeted": 1.9
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.8,
+      "budgeted": 0.4
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 216508,
+      "budgetedPrev": 270270,
+      "revisedPrev": 258543,
+      "budgeted": 299362
+    },
+    "netReceipts": {
+      "actuals": 199662,
+      "budgetedPrev": 225340,
+      "revisedPrev": 216063,
+      "budgeted": 247445
+    },
+    "fiscalDeficit": {
+      "actuals": 16845,
+      "budgetedPrev": 44930,
+      "revisedPrev": 42480,
+      "budgeted": 51917
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 35458,
+      "budgetedPrev": 38403,
+      "revisedPrev": 38826,
+      "budgeted": 44579,
+      "changePct": 15
+    },
+    {
+      "name": "Transport",
+      "actuals": 13172,
+      "budgetedPrev": 20990,
+      "revisedPrev": 18911,
+      "budgeted": 22692,
+      "changePct": 20
+    },
+    {
+      "name": "Energy",
+      "actuals": 16218,
+      "budgetedPrev": 20823,
+      "revisedPrev": 15476,
+      "budgeted": 20267,
+      "changePct": 31
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 13401,
+      "budgetedPrev": 15141,
+      "revisedPrev": 16809,
+      "budgeted": 19348,
+      "changePct": 15
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 12652,
+      "budgetedPrev": 17710,
+      "revisedPrev": 18394,
+      "budgeted": 18634,
+      "changePct": 1
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 7802,
+      "budgetedPrev": 15401,
+      "revisedPrev": 12991,
+      "budgeted": 17438,
+      "changePct": 34
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 7786,
+      "budgetedPrev": 11643,
+      "revisedPrev": 10882,
+      "budgeted": 11857,
+      "changePct": 9
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 9613,
+      "budgetedPrev": 10413,
+      "revisedPrev": 12106,
+      "budgeted": 11358,
+      "changePct": -6
+    },
+    {
+      "name": "Police",
+      "actuals": 6421,
+      "budgetedPrev": 7108,
+      "revisedPrev": 7687,
+      "budgeted": 8712,
+      "changePct": 13
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 8230,
+      "budgetedPrev": 7721,
+      "revisedPrev": 7535,
+      "budgeted": 8,
+      "changePct": 555
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 16816,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 12207,
+      "text": "has been allocated towards power subsidies for agriculture"
+    },
+    {
+      "amount": 2191,
+      "text": "has been allocated towards the Aarogya Suraksha Yojana"
+    },
+    {
+      "amount": 8864,
+      "text": "has been allocated towards the Swarnim Jayanti Mukhya Mantri Shaheri Vikas Yojana"
+    },
+    {
+      "amount": 5609,
+      "text": "has been allocated towards capital outlay on medium irrigation, and Rs 2,493 crore towards capital outlay on minor irrigation"
+    },
+    {
+      "amount": 1140,
+      "text": "has been allocated towards financial assistance to farmers for interest subvention"
+    },
+    {
+      "amount": 7127,
+      "text": "has been allocated towards District Police"
+    },
+    {
+      "amount": 1184,
+      "text": "has been allocated towards grants to panchayats for creation of capital assets"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 148950
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 19675
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 42245
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 18783
+    },
+    {
+      "name": "Non-Debt Capital Receipts",
+      "budgeted": 17792
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/gujarat-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/gujarat/2024/Gujarat_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

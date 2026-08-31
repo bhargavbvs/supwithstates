@@ -1,0 +1,228 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 228785,
+    "netExpenditure": 173588,
+    "totalReceipts": 217525,
+    "netReceipts": 134471,
+    "borrowings": 83054,
+    "fiscalDeficit": 39117,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 22968
+    },
+    "gsdp": 999643
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.17,
+      "budgeted": 3.91
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.57,
+      "budgeted": 2.3
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 138884,
+      "budgetedPrev": 162032,
+      "revisedPrev": 164800,
+      "budgeted": 173588
+    },
+    "netReceipts": {
+      "actuals": 103681,
+      "budgetedPrev": 131335,
+      "revisedPrev": 127144,
+      "budgeted": 134471
+    },
+    "fiscalDeficit": {
+      "actuals": 35204,
+      "budgetedPrev": 30698,
+      "revisedPrev": 37656,
+      "budgeted": 39117
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 16862,
+      "budgetedPrev": 23662,
+      "revisedPrev": 25500,
+      "budgeted": 25430,
+      "changePct": 0
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 14069,
+      "budgetedPrev": 11058,
+      "revisedPrev": 10393,
+      "budgeted": 13497,
+      "changePct": 30
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 8802,
+      "budgetedPrev": 10354,
+      "revisedPrev": 12098,
+      "budgeted": 9967,
+      "changePct": -18
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 10932,
+      "budgetedPrev": 8983,
+      "revisedPrev": 8764,
+      "budgeted": 7737,
+      "changePct": -12
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 4002,
+      "budgetedPrev": 6893,
+      "revisedPrev": 3154,
+      "budgeted": 6901,
+      "changePct": 119
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 5807,
+      "budgetedPrev": 4883,
+      "revisedPrev": 6390,
+      "budgeted": 5664,
+      "changePct": -11
+    },
+    {
+      "name": "Police",
+      "actuals": 3321,
+      "budgetedPrev": 4406,
+      "revisedPrev": 4782,
+      "budgeted": 4574,
+      "changePct": -4
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 2788,
+      "budgetedPrev": 3202,
+      "revisedPrev": 2173,
+      "budgeted": 3333,
+      "changePct": 53
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1552,
+      "budgetedPrev": 1525,
+      "revisedPrev": 1871,
+      "budgeted": 2303,
+      "changePct": 23
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1584,
+      "budgetedPrev": 2083,
+      "revisedPrev": 1112,
+      "budgeted": 1902,
+      "changePct": 71
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 586,
+      "text": "has been allocated towards Samagra Shiksha Abhiyaan"
+    },
+    {
+      "amount": 148,
+      "text": "has been allocated towards NOKRA department for welfare of non- resident Keralites"
+    },
+    {
+      "amount": 875,
+      "text": "has been allocated towards national health mission"
+    },
+    {
+      "amount": 500,
+      "text": "has been allocated towards subsidies for rubber sector"
+    },
+    {
+      "amount": 250,
+      "text": "has been allocated towards loan for agriculture sector"
+    },
+    {
+      "amount": 260,
+      "text": "has been allocated towards various activities of Kudumbasree"
+    },
+    {
+      "amount": 2364,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 3115,
+      "text": "and Rs 648 crore have been allocated towards district police and special police respectively"
+    },
+    {
+      "amount": 1935,
+      "text": "and Rs 736 crore have been allocated towards welfare activities of SCs and STs"
+    },
+    {
+      "amount": 1000,
+      "text": "has been allocated towards Jalajeevan mission"
+    },
+    {
+      "amount": 406,
+      "text": "has been allocated towards implementing projects of Jalanidhi and Kerala Water Authority"
+    },
+    {
+      "amount": 125,
+      "text": "has been allocated towards Ayyankali Urban Employment Guarantee Scheme"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 74098
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 11770
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 17721
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 30510
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 373
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/kerala-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/kerala/2022/Kerala%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

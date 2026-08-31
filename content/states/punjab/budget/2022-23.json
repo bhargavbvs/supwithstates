@@ -1,0 +1,220 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 155860,
+    "netExpenditure": 119913,
+    "totalReceipts": 151129,
+    "netReceipts": 96078,
+    "borrowings": 55051,
+    "fiscalDeficit": 23835,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 12554
+    },
+    "gsdp": 629834
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 5.65,
+      "budgeted": 3.78
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 3.66,
+      "budgeted": 1.99
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 91683,
+      "budgetedPrev": 119502,
+      "revisedPrev": 114117,
+      "budgeted": 119913
+    },
+    "netReceipts": {
+      "actuals": 69099,
+      "budgetedPrev": 95263,
+      "revisedPrev": 81684,
+      "budgeted": 96078
+    },
+    "fiscalDeficit": {
+      "actuals": 22584,
+      "budgetedPrev": 24240,
+      "revisedPrev": 32433,
+      "budgeted": 23835
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 12149,
+      "budgetedPrev": 13652,
+      "revisedPrev": 14093,
+      "budgeted": 15654,
+      "changePct": 11
+    },
+    {
+      "name": "Agriculture and allied",
+      "actuals": 8310,
+      "budgetedPrev": 12902,
+      "revisedPrev": 10721,
+      "budgeted": 11239,
+      "changePct": 5
+    },
+    {
+      "name": "activities Police",
+      "actuals": 6234,
+      "budgetedPrev": 7058,
+      "revisedPrev": 7496,
+      "budgeted": 7705,
+      "changePct": 3
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 3985,
+      "budgetedPrev": 6562,
+      "revisedPrev": 8304,
+      "budgeted": 7595,
+      "changePct": -9
+    },
+    {
+      "name": "Energy",
+      "actuals": 2210,
+      "budgetedPrev": 1758,
+      "revisedPrev": 4609,
+      "budgeted": 6406,
+      "changePct": 39
+    },
+    {
+      "name": "Health and Family",
+      "actuals": 3853,
+      "budgetedPrev": 4662,
+      "revisedPrev": 4876,
+      "budgeted": 5600,
+      "changePct": 15
+    },
+    {
+      "name": "Welfare Urban Development",
+      "actuals": 1338,
+      "budgetedPrev": 3925,
+      "revisedPrev": 2209,
+      "budgeted": 3188,
+      "changePct": 44
+    },
+    {
+      "name": "Irrigation and Flood",
+      "actuals": 1762,
+      "budgetedPrev": 3214,
+      "revisedPrev": 2578,
+      "budgeted": 2547,
+      "changePct": -1
+    },
+    {
+      "name": "Control Water Supply and Sanitation",
+      "actuals": 1095,
+      "budgetedPrev": 2148,
+      "revisedPrev": 1594,
+      "budgeted": 2374,
+      "changePct": 49
+    },
+    {
+      "name": "Transport",
+      "actuals": 1466,
+      "budgetedPrev": 2191,
+      "revisedPrev": 2184,
+      "budgeted": 1857,
+      "changePct": -15
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 4472,
+      "text": "has been allocated towards elementary education. Rs 1,093 crore has been allocated towards university and higher education"
+    },
+    {
+      "amount": 6947,
+      "text": "has been allocated for providing free power for farmers. Rs 450 crore has been allocated towards direct seeding of rice"
+    },
+    {
+      "amount": 4705,
+      "text": "has been allocated towards district police. Rs 1,498 crore has been allocated towards special police"
+    },
+    {
+      "amount": 4720,
+      "text": "has been allocated towards social security pensions"
+    },
+    {
+      "amount": 6395,
+      "text": "has been allocated towards subsidies in the power sector"
+    },
+    {
+      "amount": 150,
+      "text": "has been allocated towards opening of new medical colleges in the state"
+    },
+    {
+      "amount": 1259,
+      "text": "has been allocated towards Smart Cities Mission. Rs 847 crore has been allocated towards Urban Rejuvenation Mission"
+    },
+    {
+      "amount": 1402,
+      "text": "has been allocated towards capital outlay on irrigation and flood control projects"
+    },
+    {
+      "amount": 722,
+      "text": "have been allocated towards rural water supply schemes"
+    },
+    {
+      "amount": 1360,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 45588
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 6302
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 14757
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 28731
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 700
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/punjab-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/punjab/2022/Punjab%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

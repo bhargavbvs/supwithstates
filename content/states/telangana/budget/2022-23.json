@@ -1,0 +1,220 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 256959,
+    "netExpenditure": 245257,
+    "totalReceipts": 252761,
+    "netReceipts": 193089,
+    "borrowings": 59672,
+    "fiscalDeficit": 52167,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 3755
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.88,
+      "budgeted": 4
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.38,
+      "budgeted": 0.29
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 150011,
+      "budgetedPrev": 221687,
+      "revisedPrev": 200943,
+      "budgeted": 245257
+    },
+    "netReceipts": {
+      "actuals": 100973,
+      "budgetedPrev": 176177,
+      "revisedPrev": 156177,
+      "budgeted": 193089
+    },
+    "fiscalDeficit": {
+      "actuals": 49038,
+      "budgetedPrev": 45510,
+      "revisedPrev": 44766,
+      "budgeted": 52167
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 9078,
+      "budgetedPrev": 15729,
+      "revisedPrev": 17637,
+      "budgeted": 31427,
+      "changePct": 78
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 17808,
+      "budgetedPrev": 26822,
+      "revisedPrev": 23312,
+      "budgeted": 27228,
+      "changePct": 17
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 15957,
+      "budgetedPrev": 18997,
+      "revisedPrev": 17872,
+      "budgeted": 18602,
+      "changePct": 4
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 12744,
+      "budgetedPrev": 13498,
+      "revisedPrev": 13509,
+      "budgeted": 16043,
+      "changePct": 19
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 6005,
+      "budgetedPrev": 5868,
+      "revisedPrev": 5868,
+      "budgeted": 10954,
+      "changePct": 87
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 8715,
+      "budgetedPrev": 7979,
+      "revisedPrev": 7979,
+      "budgeted": 10946,
+      "changePct": 37
+    },
+    {
+      "name": "Energy",
+      "actuals": 9984,
+      "budgetedPrev": 10663,
+      "revisedPrev": 10663,
+      "budgeted": 10625,
+      "changePct": 0
+    },
+    {
+      "name": "Police",
+      "actuals": 6040,
+      "budgetedPrev": 6049,
+      "revisedPrev": 6049,
+      "budgeted": 8764,
+      "changePct": 45
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 7873,
+      "budgetedPrev": 6728,
+      "revisedPrev": 7228,
+      "budgeted": 8557,
+      "changePct": 18
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 1587,
+      "budgetedPrev": 5187,
+      "revisedPrev": 5187,
+      "budgeted": 7089,
+      "changePct": 37
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 14800,
+      "text": "has been allocated to Rythu Bandhu Scheme"
+    },
+    {
+      "amount": 4000,
+      "text": "has been allocated to debt relief to farmers"
+    },
+    {
+      "amount": 9947,
+      "text": "has been allocated towards the Aasara pensions"
+    },
+    {
+      "amount": 4868,
+      "text": "and Rs 4,434 crore have been allocated as assistance to local bodies for primary education and secondary education, respectively"
+    },
+    {
+      "amount": 822,
+      "text": "has been allocated towards the National Health Mission"
+    },
+    {
+      "amount": 2000,
+      "text": "has been allocated towards construction of medical colleges and super specialty hospitals"
+    },
+    {
+      "amount": 9958,
+      "text": "has been allocated towards the capital outlay on irrigation and flood control"
+    },
+    {
+      "amount": 7665,
+      "text": "has been allocated towards assistance to the Transmission Corporation of Telangana Limited for subsidy to agricultural consumers"
+    },
+    {
+      "amount": 1460,
+      "text": "has been allocated towards the MGNREGS scheme"
+    },
+    {
+      "amount": 4472,
+      "text": "has been allocated towards the capital outlay on roads and bridges"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 108212
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 25422
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 18394
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 41002
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 60
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/telangana-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/telangana/2022/Telangana%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

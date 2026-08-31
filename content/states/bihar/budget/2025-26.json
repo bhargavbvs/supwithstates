@@ -1,0 +1,228 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 316895,
+    "netExpenditure": 294075,
+    "totalReceipts": 317095,
+    "netReceipts": 261357,
+    "borrowings": 55738,
+    "fiscalDeficit": 32718,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 8831
+    },
+    "gsdp": 1097264
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 9.2,
+      "budgeted": 3
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 4.1,
+      "budgeted": 0.8
+    },
+    "outstandingDebtPctGsdp": 37,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 229103,
+      "budgetedPrev": 256333,
+      "revisedPrev": 327425,
+      "budgeted": 294075
+    },
+    "netReceipts": {
+      "actuals": 193443,
+      "budgetedPrev": 227238,
+      "revisedPrev": 244947,
+      "budgeted": 261357
+    },
+    "fiscalDeficit": {
+      "actuals": 35660,
+      "budgetedPrev": 29095,
+      "revisedPrev": 82478,
+      "budgeted": 32718
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 43878,
+      "budgetedPrev": 54605,
+      "revisedPrev": 79915,
+      "budgeted": 63335,
+      "changePct": -21
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 25207,
+      "budgetedPrev": 27101,
+      "revisedPrev": 30910,
+      "budgeted": 30150,
+      "changePct": -2
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 13014,
+      "budgetedPrev": 14488,
+      "revisedPrev": 20355,
+      "budgeted": 19184,
+      "changePct": -6
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 12437,
+      "budgetedPrev": 14718,
+      "revisedPrev": 20930,
+      "budgeted": 15344,
+      "changePct": -27
+    },
+    {
+      "name": "Police",
+      "actuals": 11742,
+      "budgetedPrev": 13528,
+      "revisedPrev": 14074,
+      "budgeted": 14653,
+      "changePct": 4
+    },
+    {
+      "name": "Energy",
+      "actuals": 15892,
+      "budgetedPrev": 11334,
+      "revisedPrev": 20897,
+      "budgeted": 13401,
+      "changePct": -36
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 8788,
+      "budgetedPrev": 10370,
+      "revisedPrev": 13528,
+      "budgeted": 10928,
+      "changePct": -19
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 7382,
+      "budgetedPrev": 5388,
+      "revisedPrev": 6783,
+      "budgeted": 9238,
+      "changePct": 36
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 13142,
+      "budgetedPrev": 7723,
+      "revisedPrev": 11784,
+      "budgeted": 8832,
+      "changePct": -25
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 5159,
+      "budgetedPrev": 7943,
+      "revisedPrev": 9371,
+      "budgeted": 8039,
+      "changePct": -14
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 13421,
+      "text": "has been allocated as assistance to government schools for salaries and allowances"
+    },
+    {
+      "amount": 5584,
+      "text": "has been allocated as assistance to universities"
+    },
+    {
+      "amount": 4392,
+      "text": "has been allocated towards MGNREGS"
+    },
+    {
+      "amount": 4320,
+      "text": "is allocated towards Pradhan Mantri Awas Yojana"
+    },
+    {
+      "amount": 4198,
+      "text": "has been allocated towards Urban health facilities-Allopathy"
+    },
+    {
+      "amount": 828,
+      "text": "has been allocated towards the Mukhyamantri Vriddhhajan Pension Yojana"
+    },
+    {
+      "amount": 8448,
+      "text": "is allocated towards the district police"
+    },
+    {
+      "amount": 10638,
+      "text": "has been allocated towards subsidies for affordable power"
+    },
+    {
+      "amount": 2355,
+      "text": "has been allocated towards PM Awas Yojana-Urban"
+    },
+    {
+      "amount": 7642,
+      "text": "is allocated towards capital outlay on irrigation and flood control"
+    },
+    {
+      "amount": 4487,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 340,
+      "text": "has been allocated towards animal husbandry, Rs 170 crore towards dairy development, and Rs 228 crore towards fisheries"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 59520
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 8221
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 138516
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 54575
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 525
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/bihar-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/bihar/2025/Bihar_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

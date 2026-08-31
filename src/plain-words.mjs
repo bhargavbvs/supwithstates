@@ -37,6 +37,7 @@ const RECEIPTS = {
   "State's Own Non-Tax": 'Other money the state earns',
   'Share in Central Taxes': 'Its share of taxes collected for the whole country',
   'Grants-in-aid from Centre': 'Grants sent by the central government',
+  'Non-debt Capital Receipts': 'Money from selling things it owns, and loans repaid to it',
   'Fiscal Deficit': 'Borrowed — it has to pay this back later',
 };
 

@@ -1,0 +1,224 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 89230,
+    "netExpenditure": 70094,
+    "totalReceipts": 88597,
+    "netReceipts": 60677,
+    "borrowings": 27920,
+    "fiscalDeficit": 9416,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 4737
+    },
+    "gsdp": 394675
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.2,
+      "budgeted": 2.4
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.9,
+      "budgeted": 1.2
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 52061,
+      "budgetedPrev": 66179,
+      "revisedPrev": 62160,
+      "budgeted": 70094
+    },
+    "netReceipts": {
+      "actuals": 49112,
+      "budgetedPrev": 57133,
+      "revisedPrev": 54701,
+      "budgeted": 60677
+    },
+    "fiscalDeficit": {
+      "actuals": 2949,
+      "budgetedPrev": 9047,
+      "revisedPrev": 7459,
+      "budgeted": 9416
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 9831,
+      "budgetedPrev": 10907,
+      "revisedPrev": 10435,
+      "budgeted": 11700,
+      "changePct": 12
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 3993,
+      "budgetedPrev": 4435,
+      "revisedPrev": 5052,
+      "budgeted": 4574,
+      "changePct": -9
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 3709,
+      "budgetedPrev": 4558,
+      "revisedPrev": 4714,
+      "budgeted": 4572,
+      "changePct": -3
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 4102,
+      "budgetedPrev": 4845,
+      "revisedPrev": 4132,
+      "budgeted": 4552,
+      "changePct": 10
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 3296,
+      "budgetedPrev": 5037,
+      "revisedPrev": 4486,
+      "budgeted": 4450,
+      "changePct": -1
+    },
+    {
+      "name": "Police",
+      "actuals": 2150,
+      "budgetedPrev": 2447,
+      "revisedPrev": 2334,
+      "budgeted": 2667,
+      "changePct": 14
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 1717,
+      "budgetedPrev": 2257,
+      "revisedPrev": 2555,
+      "budgeted": 2389,
+      "changePct": -7
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 875,
+      "budgetedPrev": 1507,
+      "revisedPrev": 1082,
+      "budgeted": 2191,
+      "changePct": 103
+    },
+    {
+      "name": "Energy",
+      "actuals": 168,
+      "budgetedPrev": 1172,
+      "revisedPrev": 518,
+      "budgeted": 1263,
+      "changePct": 144
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1159,
+      "budgetedPrev": 1283,
+      "revisedPrev": 1748,
+      "budgeted": 1186,
+      "changePct": -32
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 3864,
+      "text": "revenue expenditure is budgeted for government secondary schools"
+    },
+    {
+      "amount": 619,
+      "text": "has been allocated for prevention and control of diseases"
+    },
+    {
+      "amount": 1359,
+      "text": "is proposed to be spent on allopathic rural health services such as primary health centres and community health centres"
+    },
+    {
+      "amount": 350,
+      "text": "has been allocated for the National Old Age Pension programme"
+    },
+    {
+      "amount": 2217,
+      "text": "has been allocated towards community development including schemes such as Pandit Deendayal Upadhyay Rural Skill Scheme, PMAY and PMGSY"
+    },
+    {
+      "amount": 157,
+      "text": "is allocated for research assistance to agriculture institutions"
+    },
+    {
+      "amount": 1466,
+      "text": "is proposed to be spent on district police"
+    },
+    {
+      "amount": 1955,
+      "text": "has been allocated towards district and other roads"
+    },
+    {
+      "amount": 1587,
+      "text": "is allocated for major irrigation"
+    },
+    {
+      "amount": 823,
+      "text": "is proposed to be spent as capital outlay on transmission and distribution for power projects"
+    },
+    {
+      "amount": 525,
+      "text": "has been allocated towards urban water supply programmes and Rs 427 crore towards rural water supply programmes"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 22509
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 4873
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 13637
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 19533
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 124
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/uttarakhand-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/uttarakhand/2024/Uttrakhand_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

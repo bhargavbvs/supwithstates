@@ -1,0 +1,179 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 11807,
+    "netExpenditure": 11510,
+    "totalReceipts": 11955,
+    "netReceipts": 9363,
+    "borrowings": 2592,
+    "fiscalDeficit": 2147,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 42
+    },
+    "gsdp": 47331
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.7,
+      "budgeted": 4.5
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 2.1,
+      "budgeted": 0.1
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 7985,
+      "budgetedPrev": 9949,
+      "revisedPrev": 10989,
+      "budgeted": 11510
+    },
+    "netReceipts": {
+      "actuals": 7081,
+      "budgetedPrev": 8421,
+      "revisedPrev": 9090,
+      "budgeted": 9363
+    },
+    "fiscalDeficit": {
+      "actuals": 904,
+      "budgetedPrev": 1528,
+      "revisedPrev": 1899,
+      "budgeted": 2147
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 1441,
+      "budgetedPrev": 1635,
+      "revisedPrev": 1672,
+      "budgeted": 1884,
+      "changePct": 13
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 502,
+      "budgetedPrev": 739,
+      "revisedPrev": 671,
+      "budgeted": 775,
+      "changePct": 16
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 589,
+      "budgetedPrev": 756,
+      "revisedPrev": 833,
+      "budgeted": 756,
+      "changePct": -9
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 600,
+      "budgetedPrev": 611,
+      "revisedPrev": 645,
+      "budgeted": 706,
+      "changePct": 9
+    },
+    {
+      "name": "Police",
+      "actuals": 483,
+      "budgetedPrev": 550,
+      "revisedPrev": 554,
+      "budgeted": 575,
+      "changePct": 4
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 98,
+      "budgetedPrev": 203,
+      "revisedPrev": 358,
+      "budgeted": 565,
+      "changePct": 58
+    },
+    {
+      "name": "Energy",
+      "actuals": 390,
+      "budgetedPrev": 493,
+      "revisedPrev": 633,
+      "budgeted": 469,
+      "changePct": -26
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 225,
+      "budgetedPrev": 389,
+      "revisedPrev": 334,
+      "budgeted": 457,
+      "changePct": 37
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 237,
+      "budgetedPrev": 281,
+      "revisedPrev": 299,
+      "budgeted": 345,
+      "changePct": 15
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 123,
+      "budgetedPrev": 487,
+      "revisedPrev": 487,
+      "budgeted": 262,
+      "changePct": -46
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 1727
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 1079
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 3963
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 2593
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 0.33
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/sikkim-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/sikkim/2023/State_Budget_Analysis_2023-24_Sikkim.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

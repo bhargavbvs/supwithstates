@@ -1,0 +1,204 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 14210,
+    "netExpenditure": 12767,
+    "totalReceipts": 14210,
+    "netReceipts": 11520,
+    "borrowings": 2690,
+    "fiscalDeficit": 1247,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 418
+    },
+    "gsdp": 35904
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 7,
+      "budgeted": 3.5
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 2,
+      "budgeted": 1.2
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 9564,
+      "budgetedPrev": 12670,
+      "revisedPrev": 14579,
+      "budgeted": 12767
+    },
+    "netReceipts": {
+      "actuals": 9192,
+      "budgetedPrev": 11460,
+      "revisedPrev": 12477,
+      "budgeted": 11520
+    },
+    "fiscalDeficit": {
+      "actuals": 373,
+      "budgetedPrev": 1210,
+      "revisedPrev": 2102,
+      "budgeted": 1247
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 1545,
+      "budgetedPrev": 1795,
+      "revisedPrev": 2018,
+      "budgeted": 1872,
+      "changePct": -7
+    },
+    {
+      "name": "Energy",
+      "actuals": 765,
+      "budgetedPrev": 645,
+      "revisedPrev": 1006,
+      "budgeted": 832,
+      "changePct": -17
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 690,
+      "budgetedPrev": 873,
+      "revisedPrev": 1095,
+      "budgeted": 793,
+      "changePct": -28
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 710,
+      "budgetedPrev": 721,
+      "revisedPrev": 926,
+      "budgeted": 751,
+      "changePct": -19
+    },
+    {
+      "name": "Police",
+      "actuals": 637,
+      "budgetedPrev": 636,
+      "revisedPrev": 714,
+      "budgeted": 700,
+      "changePct": -2
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 288,
+      "budgetedPrev": 708,
+      "revisedPrev": 740,
+      "budgeted": 595,
+      "changePct": -20
+    },
+    {
+      "name": "Transport",
+      "actuals": 620,
+      "budgetedPrev": 1128,
+      "revisedPrev": 1647,
+      "budgeted": 555,
+      "changePct": -66
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 602,
+      "budgetedPrev": 492,
+      "revisedPrev": 554,
+      "budgeted": 506,
+      "changePct": -9
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 424,
+      "budgetedPrev": 471,
+      "revisedPrev": 787,
+      "budgeted": 481,
+      "changePct": -39
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 246,
+      "budgetedPrev": 410,
+      "revisedPrev": 540,
+      "budgeted": 337,
+      "changePct": -38
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1521,
+      "text": "has been budgeted towards school education"
+    },
+    {
+      "amount": 30,
+      "text": "has been allocated towards the Pradhan Mantri Krishi Sinchayee Yojana"
+    },
+    {
+      "amount": 105,
+      "text": "has been budgeted to build public health centres in rural areas"
+    },
+    {
+      "amount": 300,
+      "text": "of central grants for creating capital assets under PMGSY, similar to PMAY-U"
+    },
+    {
+      "amount": 506,
+      "text": "budgeted for three Autonomous District Councils"
+    },
+    {
+      "amount": 111,
+      "text": "will be allocated towards rural employment"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 1084
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 897
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 5107
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 4398
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 34
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/mizoram-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/mizoram/2023/State_Budget_Analysis_2023-24_Mizoram.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 128900,
+    "netExpenditure": 120400,
+    "totalReceipts": 128900,
+    "netReceipts": 110900,
+    "borrowings": 18000,
+    "fiscalDeficit": 9500,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 18968
+    },
+    "gsdp": 470104
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.7,
+      "budgeted": 2
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 1.7,
+      "budgeted": 4
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 84908,
+      "budgetedPrev": 110093,
+      "revisedPrev": 114209,
+      "budgeted": 120400
+    },
+    "netReceipts": {
+      "actuals": 80292,
+      "budgetedPrev": 98418,
+      "revisedPrev": 102518,
+      "budgeted": 110900
+    },
+    "fiscalDeficit": {
+      "actuals": 4617,
+      "budgetedPrev": 11675,
+      "revisedPrev": 11691,
+      "budgeted": 9500
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Rural Development",
+      "actuals": 8458,
+      "budgetedPrev": 14405,
+      "revisedPrev": 11896,
+      "budgeted": 18473,
+      "changePct": 55
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 12665,
+      "budgetedPrev": 15384,
+      "revisedPrev": 15078,
+      "budgeted": 15194,
+      "changePct": 1
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 5886,
+      "budgetedPrev": 8811,
+      "revisedPrev": 8813,
+      "budgeted": 9694,
+      "changePct": 10
+    },
+    {
+      "name": "Police",
+      "actuals": 6306,
+      "budgetedPrev": 7085,
+      "revisedPrev": 7441,
+      "budgeted": 7392,
+      "changePct": -1
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 5285,
+      "budgetedPrev": 7050,
+      "revisedPrev": 6715,
+      "budgeted": 7232,
+      "changePct": 8
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 3730,
+      "budgetedPrev": 5848,
+      "revisedPrev": 5495,
+      "budgeted": 6389,
+      "changePct": 16
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 3412,
+      "budgetedPrev": 5831,
+      "revisedPrev": 5128,
+      "budgeted": 6017,
+      "changePct": 17
+    },
+    {
+      "name": "Energy",
+      "actuals": 3685,
+      "budgetedPrev": 3617,
+      "revisedPrev": 10850,
+      "budgeted": 4779,
+      "changePct": -56
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 2158,
+      "budgetedPrev": 4393,
+      "revisedPrev": 3979,
+      "budgeted": 4707,
+      "changePct": 18
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 3296,
+      "budgetedPrev": 3004,
+      "revisedPrev": 3529,
+      "budgeted": 3513,
+      "changePct": 0
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 4832,
+      "text": "has been allocated towards the Abua Awas Yojana"
+    },
+    {
+      "amount": 1673,
+      "text": "has been allocated towards the Indira Awas Yojana"
+    },
+    {
+      "amount": 2257,
+      "text": "has been allocated towards the Sarva Siksha Abhiyan"
+    },
+    {
+      "amount": 3107,
+      "text": "has been allocated towards the Mukhyamantri Sarvajan Pension Yojana"
+    },
+    {
+      "amount": 3713,
+      "text": "has been allocated towards the district police"
+    },
+    {
+      "amount": 1779,
+      "text": "has been allocated towards the National Health Mission"
+    },
+    {
+      "amount": 5800,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 346,
+      "text": "has been allocated towards the Loan Waiver Scheme for farmers"
+    },
+    {
+      "amount": 320,
+      "text": "has been allocated towards the State Horticulture Development Scheme"
+    },
+    {
+      "amount": 2700,
+      "text": "has been allocated towards power tariff subsidy"
+    },
+    {
+      "amount": 3517,
+      "text": "has been allocated towards the Jal Jeevan Mission"
+    },
+    {
+      "amount": 500,
+      "text": "has been allocated towards post-matric scholarships for OBCs, and Rs 420 crore towards post-matric scholarships for STs"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 34198
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 19300
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 40340
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 16961
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 100
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/jharkhand-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/jharkhand/2024/Jharkhand_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 405315,
+    "netExpenditure": 375335,
+    "totalReceipts": 405186,
+    "netReceipts": 296435,
+    "borrowings": 108751,
+    "fiscalDeficit": 78900,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 618
+    },
+    "gsdp": 1694477
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.2,
+      "budgeted": 4.7
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.07,
+      "budgeted": 0.04
+    },
+    "outstandingDebtPctGsdp": 31.3,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 278886,
+      "budgetedPrev": 326381,
+      "revisedPrev": 328363,
+      "budgeted": 375335
+    },
+    "netReceipts": {
+      "actuals": 234401,
+      "budgetedPrev": 263819,
+      "revisedPrev": 265930,
+      "budgeted": 296435
+    },
+    "fiscalDeficit": {
+      "actuals": 44485,
+      "budgetedPrev": 62562,
+      "revisedPrev": 62433,
+      "budgeted": 78900
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 40491,
+      "budgetedPrev": 48087,
+      "revisedPrev": 45372,
+      "budgeted": 51509,
+      "changePct": 14
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 27842,
+      "budgetedPrev": 34049,
+      "revisedPrev": 32449,
+      "budgeted": 34580,
+      "changePct": 7
+    },
+    {
+      "name": "Energy",
+      "actuals": 28024,
+      "budgetedPrev": 24891,
+      "revisedPrev": 30496,
+      "budgeted": 34130,
+      "changePct": 12
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 15265,
+      "budgetedPrev": 22193,
+      "revisedPrev": 20041,
+      "budgeted": 23822,
+      "changePct": 19
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 16310,
+      "budgetedPrev": 21714,
+      "revisedPrev": 20750,
+      "budgeted": 23813,
+      "changePct": 15
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 11760,
+      "budgetedPrev": 9832,
+      "revisedPrev": 13654,
+      "budgeted": 20124,
+      "changePct": 47
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 16168,
+      "budgetedPrev": 12998,
+      "revisedPrev": 16768,
+      "budgeted": 17214,
+      "changePct": 3
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 12151,
+      "budgetedPrev": 16350,
+      "revisedPrev": 14878,
+      "budgeted": 15166,
+      "changePct": 2
+    },
+    {
+      "name": "Transport",
+      "actuals": 13108,
+      "budgetedPrev": 9386,
+      "revisedPrev": 10018,
+      "budgeted": 12941,
+      "changePct": 29
+    },
+    {
+      "name": "Police",
+      "actuals": 8442,
+      "budgetedPrev": 10663,
+      "revisedPrev": 10642,
+      "budgeted": 12197,
+      "changePct": 15
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 25499,
+      "text": "has been allocated for Primary Education"
+    },
+    {
+      "amount": 18669,
+      "text": "has been allocated towards the Mukhya Mantri Ladli Behna Yojana"
+    },
+    {
+      "amount": 7132,
+      "text": "has been allocated for the Atal Griha Jyoti Scheme"
+    },
+    {
+      "amount": 13909,
+      "text": "has been allocated towards the Atal Kisan Jyoti Scheme"
+    },
+    {
+      "amount": 5299,
+      "text": "has been allocated for the provision of free electricity supply to 5 HP agricultural pumps"
+    },
+    {
+      "amount": 12816,
+      "text": "has allocated for urban health services – allopathy"
+    },
+    {
+      "amount": 2133,
+      "text": "has been allocated for rural health services – allopathy"
+    },
+    {
+      "amount": 17136,
+      "text": "has been allocated for the Jal Jeevan Mission – National Rural Drinking Water Mission"
+    },
+    {
+      "amount": 501,
+      "text": "has been allocated towards minor and micro irrigation schemes"
+    },
+    {
+      "amount": 200,
+      "text": "has been allocated for Minor Irrigation Schemes"
+    },
+    {
+      "amount": 4050,
+      "text": "has been allocated towards the National Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 10421,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 6918,
+      "text": "has been allocated towards District Police"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 109157
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 21399
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 111662
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 48661
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 5556
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/madhya-pradesh-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/madhya-pradesh/2025/MP_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 101175,
+    "netExpenditure": 75170,
+    "totalReceipts": 101035,
+    "netReceipts": 62565,
+    "borrowings": 38470,
+    "fiscalDeficit": 12605,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 2586
+    },
+    "gsdp": 429308
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.5,
+      "budgeted": 2.9
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.8,
+      "budgeted": 0.6
+    },
+    "outstandingDebtPctGsdp": 25,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 58380,
+      "budgetedPrev": 70094,
+      "revisedPrev": 68786,
+      "budgeted": 75170
+    },
+    "netReceipts": {
+      "actuals": 50631,
+      "budgetedPrev": 60677,
+      "revisedPrev": 59260,
+      "budgeted": 62565
+    },
+    "fiscalDeficit": {
+      "actuals": 7749,
+      "budgetedPrev": 9416,
+      "revisedPrev": 9526,
+      "budgeted": 12605
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 10268,
+      "budgetedPrev": 11700,
+      "revisedPrev": 11931,
+      "budgeted": 12466,
+      "changePct": 4
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 3690,
+      "budgetedPrev": 4450,
+      "revisedPrev": 4451,
+      "budgeted": 5051,
+      "changePct": 13
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 4597,
+      "budgetedPrev": 4574,
+      "revisedPrev": 4383,
+      "budgeted": 4748,
+      "changePct": 8
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 4348,
+      "budgetedPrev": 4572,
+      "revisedPrev": 5380,
+      "budgeted": 4509,
+      "changePct": -16
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 3713,
+      "budgetedPrev": 4552,
+      "revisedPrev": 4259,
+      "budgeted": 4363,
+      "changePct": 2
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1731,
+      "budgetedPrev": 1186,
+      "revisedPrev": 1220,
+      "budgeted": 3131,
+      "changePct": 157
+    },
+    {
+      "name": "Police",
+      "actuals": 2323,
+      "budgetedPrev": 2667,
+      "revisedPrev": 2615,
+      "budgeted": 2856,
+      "changePct": 9
+    },
+    {
+      "name": "Transport",
+      "actuals": 2570,
+      "budgetedPrev": 2894,
+      "revisedPrev": 2878,
+      "budgeted": 2648,
+      "changePct": -8
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 1162,
+      "budgetedPrev": 2175,
+      "revisedPrev": 1822,
+      "budgeted": 1926,
+      "changePct": 6
+    },
+    {
+      "name": "Energy",
+      "actuals": 673,
+      "budgetedPrev": 1263,
+      "revisedPrev": 911,
+      "budgeted": 1403,
+      "changePct": 54
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 3618,
+      "text": "has been allocated towards government primary schools, and Rs 4,014 crore towards government secondary schools"
+    },
+    {
+      "amount": 688,
+      "text": "has been allocated towards horticulture and vegetable crops"
+    },
+    {
+      "amount": 1662,
+      "text": "has been allocated towards allopathic rural health services and Rs 927 crore towards allopathic urban health services"
+    },
+    {
+      "amount": 945,
+      "text": "has been allocated towards child welfare and Rs 725 crore towards pensions under social security schemes"
+    },
+    {
+      "amount": 1138,
+      "text": "Pradhan Mantri Gram Sadak Yojana"
+    },
+    {
+      "amount": 1843,
+      "text": "has been allocated towards Jal Jeevan Mission"
+    },
+    {
+      "amount": 1961,
+      "text": "has been allocated towards district and other roads"
+    },
+    {
+      "amount": 1312,
+      "text": "major irrigation, and Rs 273 crore towards minor irrigation"
+    },
+    {
+      "amount": 1202,
+      "text": "has been allocated as capital outlay on power projects"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 24015
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 4395
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 15903
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 18227
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 24
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/uttarakhand-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/uttarakhand/2025/Uttarakhand_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

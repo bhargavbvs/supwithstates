@@ -1,0 +1,232 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 177256,
+    "netExpenditure": 142204,
+    "totalReceipts": 162255,
+    "netReceipts": 107192,
+    "borrowings": 55063,
+    "fiscalDeficit": 35012,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 9774
+    },
+    "gsdp": 994195
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.54,
+      "budgeted": 3.52
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 1.4,
+      "budgeted": 0.98
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 96742,
+      "budgetedPrev": 127484,
+      "revisedPrev": 125223,
+      "budgeted": 142204
+    },
+    "netReceipts": {
+      "actuals": 67993,
+      "budgetedPrev": 88480,
+      "revisedPrev": 93488,
+      "budgeted": 107192
+    },
+    "fiscalDeficit": {
+      "actuals": 28749,
+      "budgetedPrev": 39004,
+      "revisedPrev": 31734,
+      "budgeted": 35012
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 14439,
+      "budgetedPrev": 18891,
+      "revisedPrev": 16570,
+      "budgeted": 19711,
+      "changePct": 19
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 9751,
+      "budgetedPrev": 9970,
+      "revisedPrev": 10840,
+      "budgeted": 12098,
+      "changePct": 12
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 5847,
+      "budgetedPrev": 7317,
+      "revisedPrev": 7284,
+      "budgeted": 8595,
+      "changePct": 18
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 4181,
+      "budgetedPrev": 5155,
+      "revisedPrev": 7345,
+      "budgeted": 7990,
+      "changePct": 9
+    },
+    {
+      "name": "Energy",
+      "actuals": 6315,
+      "budgetedPrev": 7162,
+      "revisedPrev": 7821,
+      "budgeted": 7190,
+      "changePct": -8
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 4596,
+      "budgetedPrev": 6017,
+      "revisedPrev": 3752,
+      "budgeted": 6867,
+      "changePct": 83
+    },
+    {
+      "name": "Transport",
+      "actuals": 3956,
+      "budgetedPrev": 5161,
+      "revisedPrev": 6494,
+      "budgeted": 6533,
+      "changePct": 1
+    },
+    {
+      "name": "Police",
+      "actuals": 4779,
+      "budgetedPrev": 5768,
+      "revisedPrev": 5955,
+      "budgeted": 6377,
+      "changePct": 7
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 2940,
+      "budgetedPrev": 5162,
+      "revisedPrev": 4118,
+      "budgeted": 6204,
+      "changePct": 51
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 3034,
+      "budgetedPrev": 4386,
+      "revisedPrev": 6734,
+      "budgeted": 6026,
+      "changePct": -11
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 500,
+      "text": "has been allocated to Sarva Shiksha Abhiyaan"
+    },
+    {
+      "amount": 321,
+      "text": "has been allocated to Mid- Day Meals Scheme"
+    },
+    {
+      "amount": 6826,
+      "text": "has been allocated for pension under social security schemes"
+    },
+    {
+      "amount": 883,
+      "text": "has been allocated towards strengthening urban hospitals and dispensaries"
+    },
+    {
+      "amount": 52,
+      "text": "has been allocated towards National Urban Health Mission"
+    },
+    {
+      "amount": 4555,
+      "text": "has been allocated towards capital outlay on urban development"
+    },
+    {
+      "amount": 768,
+      "text": "has been allocated towards capital outlay on power projects"
+    },
+    {
+      "amount": 483,
+      "text": "has been allocated towards subsidised tariff to domestic consumers"
+    },
+    {
+      "amount": 105,
+      "text": "has been allocated towards Swarnajayanti Gram Swarozgar Yojana"
+    },
+    {
+      "amount": 2040,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 4641,
+      "text": "has been allocated towards district police"
+    },
+    {
+      "amount": 1879,
+      "text": "has been allocated towards capital outlay on major irrigation"
+    },
+    {
+      "amount": 600,
+      "text": "has been allocated towards Pradhanmantri Fasal Bima Yojana"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 73728
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 12205
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 8926
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 11566
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 767
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/haryana-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/haryana/2022/Haryana%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

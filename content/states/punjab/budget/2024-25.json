@@ -1,0 +1,224 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 204918,
+    "netExpenditure": 135051,
+    "totalReceipts": 203418,
+    "netReceipts": 104586,
+    "borrowings": 98831,
+    "fiscalDeficit": 30465,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 23198
+    },
+    "gsdp": 802701
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.12,
+      "budgeted": 3.8
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 3.23,
+      "budgeted": 2.89
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 121710,
+      "budgetedPrev": 134836,
+      "revisedPrev": 129450,
+      "budgeted": 135051
+    },
+    "netReceipts": {
+      "actuals": 87779,
+      "budgetedPrev": 100052,
+      "revisedPrev": 99140,
+      "budgeted": 104586
+    },
+    "fiscalDeficit": {
+      "actuals": 33930,
+      "budgetedPrev": 34784,
+      "revisedPrev": 30311,
+      "budgeted": 30465
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 14649,
+      "budgetedPrev": 17525,
+      "revisedPrev": 16397,
+      "budgeted": 17330,
+      "changePct": 6
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 12601,
+      "budgetedPrev": 13704,
+      "revisedPrev": 13093,
+      "budgeted": 13660,
+      "changePct": 4
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 7815,
+      "budgetedPrev": 8963,
+      "revisedPrev": 9177,
+      "budgeted": 9004,
+      "changePct": -2
+    },
+    {
+      "name": "Police",
+      "actuals": 8003,
+      "budgetedPrev": 8528,
+      "revisedPrev": 8246,
+      "budgeted": 8453,
+      "changePct": 3
+    },
+    {
+      "name": "Energy",
+      "actuals": 8292,
+      "budgetedPrev": 7894,
+      "revisedPrev": 7836,
+      "budgeted": 7934,
+      "changePct": 1
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 4782,
+      "budgetedPrev": 5595,
+      "revisedPrev": 5281,
+      "budgeted": 6171,
+      "changePct": 17
+    },
+    {
+      "name": "Transport",
+      "actuals": 1183,
+      "budgetedPrev": 2940,
+      "revisedPrev": 1989,
+      "budgeted": 2340,
+      "changePct": 18
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 2070,
+      "budgetedPrev": 2630,
+      "revisedPrev": 2166,
+      "budgeted": 2107,
+      "changePct": -3
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1463,
+      "budgetedPrev": 1987,
+      "revisedPrev": 1432,
+      "budgeted": 1549,
+      "changePct": 8
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 809,
+      "budgetedPrev": 1046,
+      "revisedPrev": 1341,
+      "budgeted": 1505,
+      "changePct": 12
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1593,
+      "text": "has been allocated towards Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 9330,
+      "text": "has been allocated towards power subsidy to farmers"
+    },
+    {
+      "amount": 5925,
+      "text": "has been allocated towards social security assistance"
+    },
+    {
+      "amount": 7780,
+      "text": "has been allocated towards free power to domestic consumers"
+    },
+    {
+      "amount": 961,
+      "text": "has been allocated towards National Health Mission"
+    },
+    {
+      "amount": 249,
+      "text": "has been allocated towards Aam Aadmi Clinics"
+    },
+    {
+      "amount": 1672,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 862,
+      "text": "has been allocated towards capital outlay on irrigation and flood control"
+    },
+    {
+      "amount": 620,
+      "text": "has been allocated towards rural water supply"
+    },
+    {
+      "amount": 611,
+      "text": "has been allocated for Pradhan Mantri Adarsh Gram Yojna"
+    },
+    {
+      "amount": 245,
+      "text": "has been allocated for post matric scholarship for scheduled castes"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 58900
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 11246
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 22041
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 11748
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 650
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/punjab-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/punjab/2024/Punjab_Budget_Analysis_2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

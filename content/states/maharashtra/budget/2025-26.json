@@ -1,0 +1,179 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 757576,
+    "netExpenditure": 700020,
+    "totalReceipts": 719189,
+    "netReceipts": 563786,
+    "borrowings": 155403,
+    "fiscalDeficit": 136235,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 45891
+    },
+    "gsdp": 4939355
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.9,
+      "budgeted": 2.8
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 0.6,
+      "budgeted": 0.9
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 521898,
+      "budgetedPrev": 612293,
+      "revisedPrev": 672030,
+      "budgeted": 700020
+    },
+    "netReceipts": {
+      "actuals": 431339,
+      "budgetedPrev": 501938,
+      "revisedPrev": 539157,
+      "budgeted": 563786
+    },
+    "fiscalDeficit": {
+      "actuals": 90559,
+      "budgetedPrev": 110355,
+      "revisedPrev": 132873,
+      "budgeted": 136235
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 92116,
+      "budgetedPrev": 98985,
+      "revisedPrev": 96102,
+      "budgeted": 106338,
+      "changePct": 11
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 23130,
+      "budgetedPrev": 32754,
+      "revisedPrev": 61592,
+      "budgeted": 58363,
+      "changePct": -5
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 36017,
+      "budgetedPrev": 35859,
+      "revisedPrev": 47985,
+      "budgeted": 40748,
+      "changePct": -15
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 34977,
+      "budgetedPrev": 37898,
+      "revisedPrev": 44104,
+      "budgeted": 37756,
+      "changePct": -14
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 17667,
+      "budgetedPrev": 23782,
+      "revisedPrev": 26697,
+      "budgeted": 34531,
+      "changePct": 29
+    },
+    {
+      "name": "Police",
+      "actuals": 21756,
+      "budgetedPrev": 29338,
+      "revisedPrev": 25726,
+      "budgeted": 33743,
+      "changePct": 31
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 24139,
+      "budgetedPrev": 27748,
+      "revisedPrev": 35339,
+      "budgeted": 30920,
+      "changePct": -13
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 24548,
+      "budgetedPrev": 26967,
+      "revisedPrev": 30851,
+      "budgeted": 29070,
+      "changePct": -6
+    },
+    {
+      "name": "Energy",
+      "actuals": 14941,
+      "budgetedPrev": 13635,
+      "revisedPrev": 20422,
+      "budgeted": 26034,
+      "changePct": 27
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 23875,
+      "budgetedPrev": 22759,
+      "revisedPrev": 32047,
+      "budgeted": 21884,
+      "changePct": -32
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 387674
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 33052
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 89726
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 50511
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2822
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/maharashtra-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/maharashtra/2025/MH_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

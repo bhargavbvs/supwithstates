@@ -1,0 +1,179 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 669491,
+    "netExpenditure": 612293,
+    "totalReceipts": 639408,
+    "netReceipts": 501938,
+    "borrowings": 137470,
+    "fiscalDeficit": 110355,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 20051
+    },
+    "gsdp": 4267771
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.8,
+      "budgeted": 2.6
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 0.5,
+      "budgeted": 0.5
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 473922,
+      "budgetedPrev": 547450,
+      "revisedPrev": 600498,
+      "budgeted": 612293
+    },
+    "netReceipts": {
+      "actuals": 406321,
+      "budgetedPrev": 451949,
+      "revisedPrev": 488542,
+      "budgeted": 501938
+    },
+    "fiscalDeficit": {
+      "actuals": 67602,
+      "budgetedPrev": 95501,
+      "revisedPrev": 111956,
+      "budgeted": 110355
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 81560,
+      "budgetedPrev": 89705,
+      "revisedPrev": 97200,
+      "budgeted": 98985,
+      "changePct": 2
+    },
+    {
+      "name": "Transport",
+      "actuals": 37775,
+      "budgetedPrev": 35077,
+      "revisedPrev": 41041,
+      "budgeted": 42415,
+      "changePct": 3
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 34079,
+      "budgetedPrev": 32077,
+      "revisedPrev": 42016,
+      "budgeted": 35859,
+      "changePct": -15
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 20677,
+      "budgetedPrev": 20050,
+      "revisedPrev": 28364,
+      "budgeted": 32754,
+      "changePct": 15
+    },
+    {
+      "name": "Police",
+      "actuals": 20072,
+      "budgetedPrev": 26906,
+      "revisedPrev": 24050,
+      "budgeted": 29338,
+      "changePct": 22
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 20387,
+      "budgetedPrev": 25015,
+      "revisedPrev": 30630,
+      "budgeted": 27748,
+      "changePct": -9
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 20025,
+      "budgetedPrev": 24787,
+      "revisedPrev": 28879,
+      "budgeted": 26967,
+      "changePct": -7
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 16708,
+      "budgetedPrev": 25308,
+      "revisedPrev": 25424,
+      "budgeted": 23782,
+      "changePct": -6
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 18349,
+      "budgetedPrev": 20761,
+      "revisedPrev": 31082,
+      "budgeted": 22759,
+      "changePct": -27
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 13431,
+      "budgetedPrev": 19958,
+      "revisedPrev": 18907,
+      "budgeted": 21428,
+      "changePct": 13
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 342919
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 26775
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 77054
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 52715
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2475
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/maharashtra-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/maharashtra/2024/Maharashtra_Budget_Analysis_2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 290000,
+    "netExpenditure": 266800,
+    "totalReceipts": 279000,
+    "netReceipts": 232600,
+    "borrowings": 46400,
+    "fiscalDeficit": 34200,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 31800
+    },
+    "gsdp": 1063000
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.1,
+      "budgeted": 3.2
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 2.9,
+      "budgeted": 3
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 194895,
+      "budgetedPrev": 243908,
+      "revisedPrev": 243908,
+      "budgeted": 266800
+    },
+    "netReceipts": {
+      "actuals": 180153,
+      "budgetedPrev": 211505,
+      "revisedPrev": 214505,
+      "budgeted": 232600
+    },
+    "fiscalDeficit": {
+      "actuals": 14743,
+      "budgetedPrev": 32403,
+      "revisedPrev": 29403,
+      "budgeted": 34200
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 27285,
+      "budgetedPrev": 32329,
+      "revisedPrev": 32756,
+      "budgeted": 37310,
+      "changePct": 14
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 12465,
+      "budgetedPrev": 28144,
+      "revisedPrev": 28749,
+      "budgeted": 29627,
+      "changePct": 3
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 15914,
+      "budgetedPrev": 21099,
+      "revisedPrev": 22376,
+      "budgeted": 22909,
+      "changePct": 2
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 14058,
+      "budgetedPrev": 19539,
+      "revisedPrev": 18886,
+      "budgeted": 21233,
+      "changePct": 12
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 16387,
+      "budgetedPrev": 19456,
+      "revisedPrev": 21329,
+      "budgeted": 20228,
+      "changePct": -5
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 18051,
+      "budgetedPrev": 17685,
+      "revisedPrev": 16966,
+      "budgeted": 19448,
+      "changePct": 15
+    },
+    {
+      "name": "Irrigation and Flood",
+      "actuals": 13772,
+      "budgetedPrev": 14286,
+      "revisedPrev": 13079,
+      "budgeted": 16273,
+      "changePct": 24
+    },
+    {
+      "name": "Control Water Supply and Sanitation",
+      "actuals": 5505,
+      "budgetedPrev": 11404,
+      "revisedPrev": 10903,
+      "budgeted": 11287,
+      "changePct": 4
+    },
+    {
+      "name": "Police",
+      "actuals": 4498,
+      "budgetedPrev": 5131,
+      "revisedPrev": 5809,
+      "budgeted": 6831,
+      "changePct": 18
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 4122,
+      "budgetedPrev": 5522,
+      "revisedPrev": 5585,
+      "budgeted": 6191,
+      "changePct": 11
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 943,
+      "text": "has been allocated as capital outlay for sports infrastructure development"
+    },
+    {
+      "amount": 3881,
+      "text": "has been allocated for Mukhya Mantri Swasthya Seva Mission"
+    },
+    {
+      "amount": 6000,
+      "text": "has been allocated for Samrudha Krushak Yojana for subsidies"
+    },
+    {
+      "amount": 2020,
+      "text": "has been allocated for income support to farmers under CM-KISAN"
+    },
+    {
+      "amount": 16030,
+      "text": "has been allocated as capital expenditure on roads and bridges"
+    },
+    {
+      "amount": 2000,
+      "text": "has been allocated for Bikashita Gaon Bikashita Odisha"
+    },
+    {
+      "amount": 532,
+      "text": "has been allocated to introduce Commissionerate system in Cuttack and Bhubaneswar"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 66000
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 60000
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 64408
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 41592
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 600
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/odisha-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/odisha/2025/Odisha_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

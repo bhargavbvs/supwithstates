@@ -1,0 +1,179 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 39842,
+    "netExpenditure": 38809,
+    "totalReceipts": 39714,
+    "netReceipts": 34554,
+    "borrowings": 5160,
+    "fiscalDeficit": 4255,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 4581
+    },
+    "gsdp": 47823
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 7,
+      "budgeted": 8.9
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 15.1,
+      "budgeted": 9.6
+    },
+    "outstandingDebtPctGsdp": 45.9,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 29031,
+      "budgetedPrev": 34270,
+      "revisedPrev": 36889,
+      "budgeted": 38809
+    },
+    "netReceipts": {
+      "actuals": 27447,
+      "budgetedPrev": 31277,
+      "revisedPrev": 33556,
+      "budgeted": 34554
+    },
+    "fiscalDeficit": {
+      "actuals": 1585,
+      "budgetedPrev": 2993,
+      "revisedPrev": 3333,
+      "budgeted": 4255
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Transport",
+      "actuals": 5323,
+      "budgetedPrev": 4490,
+      "revisedPrev": 6168,
+      "budgeted": 4142,
+      "changePct": -33
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 3197,
+      "budgetedPrev": 4087,
+      "revisedPrev": 4231,
+      "budgeted": 3466,
+      "changePct": -18
+    },
+    {
+      "name": "Police",
+      "actuals": 1408,
+      "budgetedPrev": 1689,
+      "revisedPrev": 1651,
+      "budgeted": 3075,
+      "changePct": 86
+    },
+    {
+      "name": "Energy",
+      "actuals": 2343,
+      "budgetedPrev": 2733,
+      "revisedPrev": 3359,
+      "budgeted": 2869,
+      "changePct": -15
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 1685,
+      "budgetedPrev": 2657,
+      "revisedPrev": 2463,
+      "budgeted": 2618,
+      "changePct": 6
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1300,
+      "budgetedPrev": 1350,
+      "revisedPrev": 1600,
+      "budgeted": 1738,
+      "changePct": 9
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 980,
+      "budgetedPrev": 1147,
+      "revisedPrev": 2265,
+      "budgeted": 1679,
+      "changePct": -26
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 1464,
+      "budgetedPrev": 1549,
+      "revisedPrev": 1490,
+      "budgeted": 1410,
+      "changePct": -5
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1683,
+      "budgetedPrev": 1767,
+      "revisedPrev": 1977,
+      "budgeted": 1257,
+      "changePct": -36
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 1165,
+      "budgetedPrev": 1148,
+      "revisedPrev": 1292,
+      "budgeted": 1192,
+      "changePct": -8
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 3396
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 1212
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 24992
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 4944
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 10
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/arunachal-pradesh-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/arunachal-pradesh/2025/Arunachal_Pradesh_State_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

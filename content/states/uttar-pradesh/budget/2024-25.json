@@ -1,0 +1,179 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 736438,
+    "netExpenditure": 696632,
+    "totalReceipts": 721334,
+    "netReceipts": 610101,
+    "borrowings": 111233,
+    "fiscalDeficit": 86531,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 74147
+    },
+    "gsdp": 2499076
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.49,
+      "budgeted": 3.46
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 2.98,
+      "budgeted": 2.97
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 483215,
+      "budgetedPrev": 659061,
+      "revisedPrev": 611045,
+      "budgeted": 696632
+    },
+    "netReceipts": {
+      "actuals": 418579,
+      "budgetedPrev": 574178,
+      "revisedPrev": 528530,
+      "budgeted": 610101
+    },
+    "fiscalDeficit": {
+      "actuals": 64636,
+      "budgetedPrev": 84883,
+      "revisedPrev": 82515,
+      "budgeted": 86531
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 70008,
+      "budgetedPrev": 85003,
+      "revisedPrev": 64766,
+      "budgeted": 100335,
+      "changePct": 55
+    },
+    {
+      "name": "Energy",
+      "actuals": 38424,
+      "budgetedPrev": 43330,
+      "revisedPrev": 51582,
+      "budgeted": 45832,
+      "changePct": -11
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 31171,
+      "budgetedPrev": 47404,
+      "revisedPrev": 40999,
+      "budgeted": 42774,
+      "changePct": 4
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 27938,
+      "budgetedPrev": 38338,
+      "revisedPrev": 40079,
+      "budgeted": 40686,
+      "changePct": 2
+    },
+    {
+      "name": "Police",
+      "actuals": 26771,
+      "budgetedPrev": 35579,
+      "revisedPrev": 28867,
+      "budgeted": 37398,
+      "changePct": 30
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 24871,
+      "budgetedPrev": 32771,
+      "revisedPrev": 31055,
+      "budgeted": 35993,
+      "changePct": 16
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 24641,
+      "budgetedPrev": 33378,
+      "revisedPrev": 31117,
+      "budgeted": 34747,
+      "changePct": 12
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 13189,
+      "budgetedPrev": 24504,
+      "revisedPrev": 23298,
+      "budgeted": 28054,
+      "changePct": 20
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 17777,
+      "budgetedPrev": 28465,
+      "revisedPrev": 29164,
+      "budgeted": 23744,
+      "changePct": -19
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 12310,
+      "budgetedPrev": 22038,
+      "revisedPrev": 19770,
+      "budgeted": 22843,
+      "changePct": 16
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 256351
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 24435
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 218817
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 107200
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 3299
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/uttar-pradesh-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/uttar-pradesh/2024/UP_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

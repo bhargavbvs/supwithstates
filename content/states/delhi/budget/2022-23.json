@@ -1,0 +1,198 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 75800,
+    "netExpenditure": 71085,
+    "totalReceipts": 72091,
+    "netReceipts": 61891,
+    "borrowings": 10200,
+    "fiscalDeficit": 9194,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 7601
+    },
+    "gsdp": 923967
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": null,
+      "budgeted": null
+    },
+    "revenueBalance": {
+      "kind": "surplus"
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 49203,
+      "budgetedPrev": 64735,
+      "revisedPrev": 62785,
+      "budgeted": 71085
+    },
+    "netReceipts": {
+      "actuals": 42495,
+      "budgetedPrev": 54070,
+      "revisedPrev": 48223,
+      "budgeted": 61891
+    },
+    "fiscalDeficit": {
+      "actuals": 6708,
+      "budgetedPrev": 10665,
+      "revisedPrev": 14562,
+      "budgeted": 9194
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 10656,
+      "budgetedPrev": 15707,
+      "revisedPrev": 14420,
+      "budgeted": 15507,
+      "changePct": 8
+    },
+    {
+      "name": "Health and Family",
+      "actuals": 6397,
+      "budgetedPrev": 9934,
+      "revisedPrev": 10446,
+      "budgeted": 9769,
+      "changePct": -6
+    },
+    {
+      "name": "Welfare Transport",
+      "actuals": 6136,
+      "budgetedPrev": 8944,
+      "revisedPrev": 7792,
+      "budgeted": 8616,
+      "changePct": 11
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 3836,
+      "budgetedPrev": 4144,
+      "revisedPrev": 5506,
+      "budgeted": 4874,
+      "changePct": -11
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1892,
+      "budgetedPrev": 1631,
+      "revisedPrev": 1246,
+      "budgeted": 3557,
+      "changePct": 185
+    },
+    {
+      "name": "Energy",
+      "actuals": 2962,
+      "budgetedPrev": 3225,
+      "revisedPrev": 3292,
+      "budgeted": 3340,
+      "changePct": 1
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1952,
+      "budgetedPrev": 3083,
+      "revisedPrev": 2291,
+      "budgeted": 3253,
+      "changePct": 42
+    },
+    {
+      "name": "Irrigation and Flood",
+      "actuals": 333,
+      "budgetedPrev": 798,
+      "revisedPrev": 452,
+      "budgeted": 1131,
+      "changePct": 150
+    },
+    {
+      "name": "Control expenditure on all",
+      "actuals": 76,
+      "budgetedPrev": 76,
+      "revisedPrev": 76,
+      "budgeted": 76,
+      "changePct": null
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 3485,
+      "text": "has been allocated towards government primary schools"
+    },
+    {
+      "amount": 1460,
+      "text": "has been allocated for assistance to local bodies for primary education"
+    },
+    {
+      "amount": 2340,
+      "text": "has been allocated towards urban health services"
+    },
+    {
+      "amount": 1100,
+      "text": "has been allocated towards hospitals and dispensaries"
+    },
+    {
+      "amount": 1425,
+      "text": "Senior Citizen Pension Scheme"
+    },
+    {
+      "amount": 600,
+      "text": "has been allocated for subsidy to consumers through Delhi Jal Board"
+    },
+    {
+      "amount": 1298,
+      "text": "has been allocated towards development of unauthorised colonies"
+    },
+    {
+      "amount": 882,
+      "text": "has been allocated towards capital outlay for irrigation and flood control"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 47700
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 1000
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 12589
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 602
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/delhi-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/delhi/2022/Delhi_Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

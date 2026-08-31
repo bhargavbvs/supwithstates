@@ -1,0 +1,179 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 255386,
+    "netExpenditure": 184327,
+    "totalReceipts": 246845,
+    "netReceipts": 139798,
+    "borrowings": 107047,
+    "fiscalDeficit": 44529,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 27846
+    },
+    "gsdp": 1311437
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.45,
+      "budgeted": 3.4
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.09,
+      "budgeted": 2.12
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 158738,
+      "budgetedPrev": 176089,
+      "revisedPrev": 168407,
+      "budgeted": 184327
+    },
+    "netReceipts": {
+      "actuals": 133184,
+      "budgetedPrev": 136427,
+      "revisedPrev": 127946,
+      "budgeted": 139798
+    },
+    "fiscalDeficit": {
+      "actuals": 25555,
+      "budgetedPrev": 39662,
+      "revisedPrev": 40461,
+      "budgeted": 44529
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 22603,
+      "budgetedPrev": 24328,
+      "revisedPrev": 22187,
+      "budgeted": 24256,
+      "changePct": 9
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 13333,
+      "budgetedPrev": 12411,
+      "revisedPrev": 10751,
+      "budgeted": 13473,
+      "changePct": 25
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 10210,
+      "budgetedPrev": 9935,
+      "revisedPrev": 9259,
+      "budgeted": 10087,
+      "changePct": 9
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 6360,
+      "budgetedPrev": 7853,
+      "revisedPrev": 6559,
+      "budgeted": 7742,
+      "changePct": 18
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 3404,
+      "budgetedPrev": 7038,
+      "revisedPrev": 3127,
+      "budgeted": 7365,
+      "changePct": 136
+    },
+    {
+      "name": "Transport",
+      "actuals": 5816,
+      "budgetedPrev": 4835,
+      "revisedPrev": 4473,
+      "budgeted": 5287,
+      "changePct": 18
+    },
+    {
+      "name": "Police",
+      "actuals": 4284,
+      "budgetedPrev": 4699,
+      "revisedPrev": 4390,
+      "budgeted": 4714,
+      "changePct": 7
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 2559,
+      "budgetedPrev": 3109,
+      "revisedPrev": 2102,
+      "budgeted": 3284,
+      "changePct": 56
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1563,
+      "budgetedPrev": 1856,
+      "revisedPrev": 1029,
+      "budgeted": 1720,
+      "changePct": 67
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1997,
+      "budgetedPrev": 1310,
+      "revisedPrev": 1552,
+      "budgeted": 1311,
+      "changePct": -16
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 84884
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 18356
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 23882
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 11533
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 1143
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/kerala-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/kerala/2024/Kerala_State_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

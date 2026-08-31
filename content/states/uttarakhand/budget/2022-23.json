@@ -1,0 +1,232 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 65571,
+    "netExpenditure": 60003,
+    "totalReceipts": 63775,
+    "netReceipts": 51500,
+    "borrowings": 12275,
+    "fiscalDeficit": 8504,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 2461
+    },
+    "gsdp": 276677
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 1.93,
+      "budgeted": 3.07
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.88,
+      "budgeted": 0.89
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 43667,
+      "budgetedPrev": 53159,
+      "revisedPrev": 48628,
+      "budgeted": 60003
+    },
+    "netReceipts": {
+      "actuals": 38228,
+      "budgetedPrev": 44174,
+      "revisedPrev": 43724,
+      "budgeted": 51500
+    },
+    "fiscalDeficit": {
+      "actuals": 5439,
+      "budgetedPrev": 8985,
+      "revisedPrev": 4904,
+      "budgeted": 8504
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 8411,
+      "budgetedPrev": 9744,
+      "revisedPrev": 9087,
+      "budgeted": 10896,
+      "changePct": 20
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 3581,
+      "budgetedPrev": 3439,
+      "revisedPrev": 3398,
+      "budgeted": 4922,
+      "changePct": 45
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 2850,
+      "budgetedPrev": 3406,
+      "revisedPrev": 3820,
+      "budgeted": 4572,
+      "changePct": 20
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 2489,
+      "budgetedPrev": 3439,
+      "revisedPrev": 3003,
+      "budgeted": 4416,
+      "changePct": 47
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 2845,
+      "budgetedPrev": 3545,
+      "revisedPrev": 3082,
+      "budgeted": 4059,
+      "changePct": 32
+    },
+    {
+      "name": "Police",
+      "actuals": 1832,
+      "budgetedPrev": 2220,
+      "revisedPrev": 2035,
+      "budgeted": 2333,
+      "changePct": 15
+    },
+    {
+      "name": "Transport",
+      "actuals": 1662,
+      "budgetedPrev": 2390,
+      "revisedPrev": 1883,
+      "budgeted": 2184,
+      "changePct": 16
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 699,
+      "budgetedPrev": 1354,
+      "revisedPrev": 754,
+      "budgeted": 1365,
+      "changePct": 81
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1048,
+      "budgetedPrev": 1893,
+      "revisedPrev": 1651,
+      "budgeted": 1279,
+      "changePct": -23
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1205,
+      "budgetedPrev": 1000,
+      "revisedPrev": 680,
+      "budgeted": 886,
+      "changePct": 30
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 3515,
+      "text": "has been allocated to government secondary schools"
+    },
+    {
+      "amount": 1247,
+      "text": "has been allocated towards Samagra Shikhsha Abhiyaan"
+    },
+    {
+      "amount": 3274,
+      "text": "has been allocated towards community development"
+    },
+    {
+      "amount": 297,
+      "text": "has been allocated towards National Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 878,
+      "text": "has been allocated for welfare of women"
+    },
+    {
+      "amount": 769,
+      "text": "has been allocated to Urban Health Services"
+    },
+    {
+      "amount": 1660,
+      "text": "has been allocated to Rural Health Services-Allopathy"
+    },
+    {
+      "amount": 289,
+      "text": "has been allocated towards National Bamboo Mission"
+    },
+    {
+      "amount": 1363,
+      "text": "has been allocated towards District Police"
+    },
+    {
+      "amount": 1439,
+      "text": "has been allocated towards capital outlay for roads and bridges"
+    },
+    {
+      "amount": 535,
+      "text": "has been allocated towards capital outlay on major irrigation"
+    },
+    {
+      "amount": 538,
+      "text": "has been allocated towards capital outlay for rural water supply"
+    },
+    {
+      "amount": 902,
+      "text": "has been allocated towards Integrated Development of Small and Medium Towns"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 15371
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 5521
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 9130
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 21453
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 25
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/uttarakhand-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/uttarakhand/2022/Uttarakhand%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

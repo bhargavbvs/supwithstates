@@ -1,0 +1,228 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 110012,
+    "netExpenditure": 104000,
+    "totalReceipts": 105912,
+    "netReceipts": 89400,
+    "borrowings": 16512,
+    "fiscalDeficit": 14600,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 702
+    },
+    "gsdp": 438478
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.81,
+      "budgeted": 3.33
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -0.26,
+      "budgeted": 0.16
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 79108,
+      "budgetedPrev": 97107,
+      "revisedPrev": 99559,
+      "budgeted": 104000
+    },
+    "netReceipts": {
+      "actuals": 63285,
+      "budgetedPrev": 79645,
+      "revisedPrev": 84301,
+      "budgeted": 89400
+    },
+    "fiscalDeficit": {
+      "actuals": 15823,
+      "budgetedPrev": 17461,
+      "revisedPrev": 15257,
+      "budgeted": 14600
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 14608,
+      "budgetedPrev": 18394,
+      "revisedPrev": 18238,
+      "budgeted": 19574,
+      "changePct": 7
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 13902,
+      "budgetedPrev": 16640,
+      "revisedPrev": 16665,
+      "budgeted": 17287,
+      "changePct": 4
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 4410,
+      "budgetedPrev": 6761,
+      "revisedPrev": 6487,
+      "budgeted": 6534,
+      "changePct": 1
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 5684,
+      "budgetedPrev": 5902,
+      "revisedPrev": 7622,
+      "budgeted": 6465,
+      "changePct": -15
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 4058,
+      "budgetedPrev": 4727,
+      "revisedPrev": 5126,
+      "budgeted": 6040,
+      "changePct": 18
+    },
+    {
+      "name": "Police",
+      "actuals": 4016,
+      "budgetedPrev": 4958,
+      "revisedPrev": 4972,
+      "budgeted": 5463,
+      "changePct": 10
+    },
+    {
+      "name": "Energy",
+      "actuals": 4996,
+      "budgetedPrev": 4666,
+      "revisedPrev": 4723,
+      "budgeted": 4714,
+      "changePct": 0
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 2940,
+      "budgetedPrev": 3801,
+      "revisedPrev": 3801,
+      "budgeted": 3864,
+      "changePct": 2
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 1679,
+      "budgetedPrev": 2642,
+      "revisedPrev": 2311,
+      "budgeted": 3113,
+      "changePct": 35
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 2186,
+      "budgetedPrev": 2618,
+      "revisedPrev": 2815,
+      "budgeted": 2570,
+      "changePct": -9
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1380,
+      "text": "has been allocated towards Sarva Shiksha Abhiyan"
+    },
+    {
+      "amount": 674,
+      "text": "has been allocated towards PM-POSHAN"
+    },
+    {
+      "amount": 6000,
+      "text": "has been allocated to Rajiv Gandhi Kisan Nyaya Yojana"
+    },
+    {
+      "amount": 5173,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 1200,
+      "text": "has been allocated towards National Health Mission"
+    },
+    {
+      "amount": 1702,
+      "text": "has been allocated towards MGNREGS"
+    },
+    {
+      "amount": 25,
+      "text": "has been allocated for modernisation of police force"
+    },
+    {
+      "amount": 2600,
+      "text": "has been allocated for providing free power supply to agricultural pumps"
+    },
+    {
+      "amount": 205,
+      "text": "has been allocated towards Chief Minister Pension Scheme"
+    },
+    {
+      "amount": 190,
+      "text": "has been allocated for National Old Age Pension"
+    },
+    {
+      "amount": 453,
+      "text": "has been allocated towards minor irrigation schemes"
+    },
+    {
+      "amount": 1052,
+      "text": "has been allocated towards financial assistance for urban local bodies"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 29000
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 15500
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 27823
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 16750
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 327
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/chhattisgarh-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/chhattisgarh/2022/Chattisgarh_State%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

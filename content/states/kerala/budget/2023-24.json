@@ -1,0 +1,228 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 225640,
+    "netExpenditure": 176089,
+    "totalReceipts": 214530,
+    "netReceipts": 136427,
+    "borrowings": 78104,
+    "fiscalDeficit": 39662,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 23942
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.6,
+      "budgeted": 3.5
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2,
+      "budgeted": 2.1
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 163226,
+      "budgetedPrev": 173588,
+      "revisedPrev": 166719,
+      "budgeted": 176089
+    },
+    "netReceipts": {
+      "actuals": 117180,
+      "budgetedPrev": 134471,
+      "revisedPrev": 129955,
+      "budgeted": 136427
+    },
+    "fiscalDeficit": {
+      "actuals": 46046,
+      "budgetedPrev": 39117,
+      "revisedPrev": 36764,
+      "budgeted": 39662
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 25259,
+      "budgetedPrev": 25430,
+      "revisedPrev": 22745,
+      "budgeted": 24328,
+      "changePct": 7
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 9143,
+      "budgetedPrev": 13497,
+      "revisedPrev": 12129,
+      "budgeted": 12411,
+      "changePct": 2
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 11940,
+      "budgetedPrev": 9967,
+      "revisedPrev": 9403,
+      "budgeted": 9935,
+      "changePct": 6
+    },
+    {
+      "name": "Agriculture and Allied activities",
+      "actuals": 9097,
+      "budgetedPrev": 7737,
+      "revisedPrev": 7646,
+      "budgeted": 7853,
+      "changePct": 3
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 2747,
+      "budgetedPrev": 6901,
+      "revisedPrev": 2948,
+      "budgeted": 7038,
+      "changePct": 139
+    },
+    {
+      "name": "Transport",
+      "actuals": 7161,
+      "budgetedPrev": 6429,
+      "revisedPrev": 6576,
+      "budgeted": 4835,
+      "changePct": -26
+    },
+    {
+      "name": "Police",
+      "actuals": 5032,
+      "budgetedPrev": 4574,
+      "revisedPrev": 4414,
+      "budgeted": 4699,
+      "changePct": 6
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 2792,
+      "budgetedPrev": 3333,
+      "revisedPrev": 3007,
+      "budgeted": 3109,
+      "changePct": 3
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 928,
+      "budgetedPrev": 1902,
+      "revisedPrev": 1473,
+      "budgeted": 1856,
+      "changePct": 26
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 2532,
+      "budgetedPrev": 2303,
+      "revisedPrev": 1586,
+      "budgeted": 1310,
+      "changePct": -17
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 584,
+      "text": "has been allocated towards the Samagra Shiksha Kerala programme"
+    },
+    {
+      "amount": 569,
+      "text": "has been allocated towards the Mid Day Meals programme in schools"
+    },
+    {
+      "amount": 1484,
+      "text": "has been allocated for child welfare"
+    },
+    {
+      "amount": 2426,
+      "text": "has been allocated for urban health services - allopathy, and Rs 1,307 crore for rural health services - allopathy"
+    },
+    {
+      "amount": 1427,
+      "text": "has been allocated for crop husbandry"
+    },
+    {
+      "amount": 4297,
+      "text": "has been allocated towards MGNREGS"
+    },
+    {
+      "amount": 525,
+      "text": "has been allocated towards the LIFE – Parppida Mission for rural housing"
+    },
+    {
+      "amount": 2404,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 165,
+      "text": "has been allocated towards modernisation of police force"
+    },
+    {
+      "amount": 1739,
+      "text": "and Rs 795 crore have been allocated for the welfare of scheduled castes, and scheduled tribes respectively"
+    },
+    {
+      "amount": 455,
+      "text": "has been allocated towards the % Smart Cities Mission"
+    },
+    {
+      "amount": 500,
+      "text": "has been allocated for the Jal Jeevan Mission"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 81039
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 17089
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 21425
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 15866
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 1008
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/kerala-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/kerala/2023/KL_State_Budget_Analysis_2023-24.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

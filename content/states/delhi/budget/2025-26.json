@@ -1,0 +1,214 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 100000,
+    "netExpenditure": 95358,
+    "totalReceipts": 97035,
+    "netReceipts": 81655,
+    "borrowings": 15380,
+    "fiscalDeficit": 13703,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 9661
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": null,
+      "budgeted": null
+    },
+    "revenueBalance": {
+      "kind": "surplus"
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 60830,
+      "budgetedPrev": 71086,
+      "revisedPrev": 64586,
+      "budgeted": 95358
+    },
+    "netReceipts": {
+      "actuals": 56896,
+      "budgetedPrev": 64521,
+      "revisedPrev": 63062,
+      "budgeted": 81655
+    },
+    "fiscalDeficit": {
+      "actuals": 3934,
+      "budgetedPrev": 6565,
+      "revisedPrev": 1524,
+      "budgeted": 13703
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 14681,
+      "budgetedPrev": 16146,
+      "revisedPrev": 15924,
+      "budgeted": 19039,
+      "changePct": 20
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 7555,
+      "budgetedPrev": 8685,
+      "revisedPrev": 8519,
+      "budgeted": 12894,
+      "changePct": 51
+    },
+    {
+      "name": "Transport",
+      "actuals": 9129,
+      "budgetedPrev": 6865,
+      "revisedPrev": 6535,
+      "budgeted": 10677,
+      "changePct": 63
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 3969,
+      "budgetedPrev": 6437,
+      "revisedPrev": 4438,
+      "budgeted": 10232,
+      "changePct": 131
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1828,
+      "budgetedPrev": 3442,
+      "revisedPrev": 1589,
+      "budgeted": 4917,
+      "changePct": 209
+    },
+    {
+      "name": "Energy",
+      "actuals": 3272,
+      "budgetedPrev": 3350,
+      "revisedPrev": 3648,
+      "budgeted": 3843,
+      "changePct": 5
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 2211,
+      "budgetedPrev": 4290,
+      "revisedPrev": 2316,
+      "budgeted": 3213,
+      "changePct": 39
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 168,
+      "budgetedPrev": 922,
+      "revisedPrev": 192,
+      "budgeted": 1024,
+      "changePct": 434
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 335,
+      "budgetedPrev": 302,
+      "revisedPrev": 397,
+      "budgeted": 581,
+      "changePct": 46
+    },
+    {
+      "name": "Police",
+      "actuals": 162,
+      "budgetedPrev": 338,
+      "revisedPrev": 114,
+      "budgeted": 425,
+      "changePct": 274
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 12732,
+      "text": "has been allocated towards secondary education"
+    },
+    {
+      "amount": 1667,
+      "text": "has been allocated to introduce Pradhan Mantri Ayushman Bharat Health Infrastructure Mission"
+    },
+    {
+      "amount": 2000,
+      "text": "has been allocated as revenue grants to Delhi Transport Corporation for financing their working deficit"
+    },
+    {
+      "amount": 5110,
+      "text": "has been allocated towards Mahila Samridhi Yojana"
+    },
+    {
+      "amount": 2050,
+      "text": "has been allocated as grants to Delhi Jal Board for capital projects"
+    },
+    {
+      "amount": 3600,
+      "text": "has been allocated towards power subsidy to consumers"
+    },
+    {
+      "amount": 609,
+      "text": "has been allocated towards grants to local bodies under AMRUT 2.0"
+    },
+    {
+      "amount": 999,
+      "text": "has been allocated towards Village Board for Integrated Development of Rural Villages"
+    },
+    {
+      "amount": 475,
+      "text": "has been allocated towards drainage"
+    },
+    {
+      "amount": 183,
+      "text": "has been allocated towards Forensic Science laboratories"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 68700
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 750
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 12096
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 109
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/delhi-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/delhi/2025/Delhi_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

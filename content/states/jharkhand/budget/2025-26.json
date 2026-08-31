@@ -1,0 +1,216 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 145400,
+    "netExpenditure": 136653,
+    "totalReceipts": 145400,
+    "netReceipts": 125400,
+    "borrowings": 20000,
+    "fiscalDeficit": 11253,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 14517
+    },
+    "gsdp": 556286
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.3,
+      "budgeted": 2
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 2.3,
+      "budgeted": 2.6
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 101537,
+      "budgetedPrev": 120400,
+      "revisedPrev": 122201,
+      "budgeted": 136653
+    },
+    "netReceipts": {
+      "actuals": 95205,
+      "budgetedPrev": 110900,
+      "revisedPrev": 110718,
+      "budgeted": 125400
+    },
+    "fiscalDeficit": {
+      "actuals": 6332,
+      "budgetedPrev": 9500,
+      "revisedPrev": 11483,
+      "budgeted": 11253
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 7311,
+      "budgetedPrev": 9694,
+      "revisedPrev": 17187,
+      "budgeted": 23914,
+      "changePct": 39
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 12574,
+      "budgetedPrev": 15194,
+      "revisedPrev": 15078,
+      "budgeted": 18076,
+      "changePct": 20
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 10236,
+      "budgetedPrev": 18473,
+      "revisedPrev": 15706,
+      "budgeted": 16538,
+      "changePct": 5
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 5526,
+      "budgetedPrev": 7232,
+      "revisedPrev": 6564,
+      "budgeted": 7481,
+      "changePct": 14
+    },
+    {
+      "name": "Police",
+      "actuals": 6732,
+      "budgetedPrev": 7392,
+      "revisedPrev": 7881,
+      "budgeted": 7396,
+      "changePct": -6
+    },
+    {
+      "name": "Energy",
+      "actuals": 11155,
+      "budgetedPrev": 4779,
+      "revisedPrev": 7116,
+      "budgeted": 6655,
+      "changePct": -6
+    },
+    {
+      "name": "Transport",
+      "actuals": 5857,
+      "budgetedPrev": 6742,
+      "revisedPrev": 6179,
+      "budgeted": 6241,
+      "changePct": 1
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 3747,
+      "budgetedPrev": 6017,
+      "revisedPrev": 5522,
+      "budgeted": 6007,
+      "changePct": 9
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 3765,
+      "budgetedPrev": 4707,
+      "revisedPrev": 2370,
+      "budgeted": 4721,
+      "changePct": 99
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1816,
+      "budgetedPrev": 3285,
+      "revisedPrev": 2334,
+      "budgeted": 3425,
+      "changePct": 47
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 2057,
+      "text": "has been allocated towards Sarva Siksha Abhiyan"
+    },
+    {
+      "amount": 3000,
+      "text": "has been allocated for Abua Aawas Yojana"
+    },
+    {
+      "amount": 168,
+      "text": "has been allocated for the National Ayush Mission"
+    },
+    {
+      "amount": 3620,
+      "text": "has been allocated for district police"
+    },
+    {
+      "amount": 5005,
+      "text": "has been allocated as power subsidy for consumers"
+    },
+    {
+      "amount": 5300,
+      "text": "has been allocated as capital outlay on roads and bridges"
+    },
+    {
+      "amount": 140,
+      "text": "has been allocated for distribution of agriculture equipment to farmers and women SHGs"
+    },
+    {
+      "amount": 4142,
+      "text": "has been allocated as capital outlay for water supply and sanitation"
+    },
+    {
+      "amount": 130,
+      "text": "has been allocated for urban transport system in ULBs"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 35200
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 25856
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 47040
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 17057
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 247
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/jharkhand-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/jharkhand/2025/Jharkhand_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

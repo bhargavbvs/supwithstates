@@ -1,0 +1,216 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 296574,
+    "netExpenditure": 270270,
+    "totalReceipts": 293341,
+    "netReceipts": 225340,
+    "borrowings": 68001,
+    "fiscalDeficit": 44930,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 9038
+    },
+    "gsdp": 2562975
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 1.5,
+      "budgeted": 1.8
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.3,
+      "budgeted": 0.4
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 189677,
+      "budgetedPrev": 218408,
+      "revisedPrev": 229950,
+      "budgeted": 270270
+    },
+    "netReceipts": {
+      "actuals": 166986,
+      "budgetedPrev": 182295,
+      "revisedPrev": 196537,
+      "budgeted": 225340
+    },
+    "fiscalDeficit": {
+      "actuals": 22692,
+      "budgetedPrev": 36113,
+      "revisedPrev": 33412,
+      "budgeted": 44930
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 28162,
+      "budgetedPrev": 30537,
+      "revisedPrev": 37002,
+      "budgeted": 38403,
+      "changePct": 4
+    },
+    {
+      "name": "Transport",
+      "actuals": 11417,
+      "budgetedPrev": 10908,
+      "revisedPrev": 13519,
+      "budgeted": 20990,
+      "changePct": 55
+    },
+    {
+      "name": "Energy",
+      "actuals": 14796,
+      "budgetedPrev": 13483,
+      "revisedPrev": 16260,
+      "budgeted": 20823,
+      "changePct": 28
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 10533,
+      "budgetedPrev": 12639,
+      "revisedPrev": 13893,
+      "budgeted": 17710,
+      "changePct": 27
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 6648,
+      "budgetedPrev": 9109,
+      "revisedPrev": 9090,
+      "budgeted": 15401,
+      "changePct": 69
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 14241,
+      "budgetedPrev": 12207,
+      "revisedPrev": 14461,
+      "budgeted": 15141,
+      "changePct": 5
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 7124,
+      "budgetedPrev": 9002,
+      "revisedPrev": 9857,
+      "budgeted": 11643,
+      "changePct": 18
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 9418,
+      "budgetedPrev": 8414,
+      "revisedPrev": 10118,
+      "budgeted": 10413,
+      "changePct": 3
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 5016,
+      "budgetedPrev": 7269,
+      "revisedPrev": 8707,
+      "budgeted": 7721,
+      "changePct": -11
+    },
+    {
+      "name": "Police",
+      "actuals": 5489,
+      "budgetedPrev": 6666,
+      "revisedPrev": 6686,
+      "budgeted": 7108,
+      "changePct": 6
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 3728,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 6211,
+      "text": "has been allocated for capital outlay on strengthening transmission and distribution networks"
+    },
+    {
+      "amount": 8086,
+      "text": "has been allocated towards the Swarnim Jayanti Mukhya Mantri Shaheri Vikas Yojana"
+    },
+    {
+      "amount": 1001,
+      "text": "has been allocated for drip irrigation under the Rashtriya Krishi Vikas Yojana Per Drop More Crop Scheme"
+    },
+    {
+      "amount": 1146,
+      "text": "has been allocated towards the National Health Mission"
+    },
+    {
+      "amount": 1024,
+      "text": "is estimated to be spent on crop insurance in 2023-24"
+    },
+    {
+      "amount": 2545,
+      "text": "has been allocated for the Special Nutritions Programme"
+    },
+    {
+      "amount": 1127,
+      "text": "has been allocated for various rural employment guarantee schemes"
+    },
+    {
+      "amount": 275,
+      "text": "has been allocated for police housing"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 138848
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 17013
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 35559
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 16290
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 17630
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/gujarat-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/gujarat/2023/GJ_State_Budget_Analysis_2023-24.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

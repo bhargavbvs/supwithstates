@@ -1,0 +1,204 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 53413,
+    "netExpenditure": 47926,
+    "totalReceipts": 50546,
+    "netReceipts": 38026,
+    "borrowings": 12520,
+    "fiscalDeficit": 9900,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 4704
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 6.4,
+      "budgeted": 4.6
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": -3.2,
+      "budgeted": -2.2
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 42602,
+      "budgetedPrev": 46023,
+      "revisedPrev": 51523,
+      "budgeted": 47926
+    },
+    "netReceipts": {
+      "actuals": 37357,
+      "budgetedPrev": 36420,
+      "revisedPrev": 39039,
+      "budgeted": 38026
+    },
+    "fiscalDeficit": {
+      "actuals": 5245,
+      "budgetedPrev": 9602,
+      "revisedPrev": 12483,
+      "budgeted": 9900
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 7197,
+      "budgetedPrev": 8669,
+      "revisedPrev": 9251,
+      "budgeted": 9068,
+      "changePct": -2
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 3733,
+      "budgetedPrev": 3958,
+      "revisedPrev": 4149,
+      "budgeted": 3548,
+      "changePct": -14
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 2871,
+      "budgetedPrev": 3032,
+      "revisedPrev": 3796,
+      "budgeted": 3116,
+      "changePct": -18
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 2659,
+      "budgetedPrev": 2709,
+      "revisedPrev": 3121,
+      "budgeted": 2828,
+      "changePct": -9
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 1971,
+      "budgetedPrev": 2300,
+      "revisedPrev": 2825,
+      "budgeted": 2764,
+      "changePct": -2
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 2223,
+      "budgetedPrev": 1850,
+      "revisedPrev": 2168,
+      "budgeted": 1700,
+      "changePct": -22
+    },
+    {
+      "name": "Police",
+      "actuals": 1307,
+      "budgetedPrev": 1593,
+      "revisedPrev": 1616,
+      "budgeted": 1589,
+      "changePct": -2
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 707,
+      "budgetedPrev": 935,
+      "revisedPrev": 986,
+      "budgeted": 861,
+      "changePct": -13
+    },
+    {
+      "name": "Energy",
+      "actuals": 1778,
+      "budgetedPrev": 672,
+      "revisedPrev": 1247,
+      "budgeted": 625,
+      "changePct": -50
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 860,
+      "budgetedPrev": 734,
+      "revisedPrev": 945,
+      "budgeted": 615,
+      "changePct": -35
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 4147,
+      "text": "has been allocated for elementary education"
+    },
+    {
+      "amount": 1691,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 152,
+      "text": "has been allocated for food subsidy"
+    },
+    {
+      "amount": 390,
+      "text": "has been allocated for capital outlay on irrigation and flood control"
+    },
+    {
+      "amount": 267,
+      "text": "has been allocated for assistance to electricity boards"
+    },
+    {
+      "amount": 255,
+      "text": "has been allocated for assistance to local bodies, corporations"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 13026
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 3447
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 8478
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 13049
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 26
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/himachal-pradesh-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/himachal-pradesh/2023/State_Budget_Analysis_2023-24_HP.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

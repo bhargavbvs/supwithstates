@@ -1,0 +1,220 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 26631,
+    "netExpenditure": 24751,
+    "totalReceipts": 26465,
+    "netReceipts": 21750,
+    "borrowings": 4715,
+    "fiscalDeficit": 3001,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 1844
+    },
+    "gsdp": 121309
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.8,
+      "budgeted": 2.5
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.9,
+      "budgeted": 1.5
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 18329,
+      "budgetedPrev": 24571,
+      "revisedPrev": 24638,
+      "budgeted": 24751
+    },
+    "netReceipts": {
+      "actuals": 17285,
+      "budgetedPrev": 20262,
+      "revisedPrev": 20872,
+      "budgeted": 21750
+    },
+    "fiscalDeficit": {
+      "actuals": 1044,
+      "budgetedPrev": 4308,
+      "revisedPrev": 3766,
+      "budgeted": 3001
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Energy",
+      "actuals": 3231,
+      "budgetedPrev": 3790,
+      "revisedPrev": 4000,
+      "budgeted": 3943,
+      "changePct": -1
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 2498,
+      "budgetedPrev": 3651,
+      "revisedPrev": 3786,
+      "budgeted": 3585,
+      "changePct": -5
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1430,
+      "budgetedPrev": 2271,
+      "revisedPrev": 2262,
+      "budgeted": 2077,
+      "changePct": -8
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 622,
+      "budgetedPrev": 938,
+      "revisedPrev": 896,
+      "budgeted": 1203,
+      "changePct": 34
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 764,
+      "budgetedPrev": 1030,
+      "revisedPrev": 1132,
+      "budgeted": 1147,
+      "changePct": 1
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 954,
+      "budgetedPrev": 1010,
+      "revisedPrev": 1024,
+      "budgeted": 1014,
+      "changePct": -1
+    },
+    {
+      "name": "Police",
+      "actuals": 644,
+      "budgetedPrev": 947,
+      "revisedPrev": 953,
+      "budgeted": 901,
+      "changePct": -5
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 439,
+      "budgetedPrev": 574,
+      "revisedPrev": 626,
+      "budgeted": 646,
+      "changePct": 3
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 471,
+      "budgetedPrev": 661,
+      "revisedPrev": 685,
+      "budgeted": 628,
+      "changePct": -8
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 382,
+      "budgetedPrev": 644,
+      "revisedPrev": 567,
+      "budgeted": 440,
+      "changePct": -22
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1880,
+      "text": "has been allocated towards purchase of power from NTPC, KPTCL, RSPCL"
+    },
+    {
+      "amount": 1459,
+      "text": "has been allocated towards Secondary Education, and Rs 631 crore for elementary education"
+    },
+    {
+      "amount": 1056,
+      "text": "has been allocated towards hospitals and dispensaries, and Rs 130 crore towards Primary Health Centres"
+    },
+    {
+      "amount": 460,
+      "text": "has been allocated for the urban water supply programme"
+    },
+    {
+      "amount": 743,
+      "text": "has been allocated towards district and other roads, and Rs 216 crore towards state highways"
+    },
+    {
+      "amount": 360,
+      "text": "has been allocated for alleviating hunger among the aged, infirm, and destitute"
+    },
+    {
+      "amount": 745,
+      "text": "has been allocated towards District Police"
+    },
+    {
+      "amount": 216,
+      "text": "has been allocated towards medium irrigation, and Rs 219 crore towards minor irrigation"
+    },
+    {
+      "amount": 214,
+      "text": "has been allocated towards crop husbandry, and Rs 135 crore towards forestry and wildlife"
+    },
+    {
+      "amount": 124,
+      "text": "has been allocated under the AMRUT 2.0 mission"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 9392
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 6124
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 4708
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 1507
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 18
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/goa-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/goa/2024/Goa_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

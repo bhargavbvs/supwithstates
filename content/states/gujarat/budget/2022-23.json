@@ -1,0 +1,232 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 240434,
+    "netExpenditure": 218408,
+    "totalReceipts": 233296,
+    "netReceipts": 182295,
+    "borrowings": 51001,
+    "fiscalDeficit": 36113,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 1006
+    },
+    "gsdp": 2203062
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 1.51,
+      "budgeted": 1.64
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.04,
+      "budgeted": 0.05
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 178717,
+      "budgetedPrev": 199003,
+      "revisedPrev": 192541,
+      "budgeted": 218408
+    },
+    "netReceipts": {
+      "actuals": 138279,
+      "budgetedPrev": 168219,
+      "revisedPrev": 163270,
+      "budgeted": 182295
+    },
+    "fiscalDeficit": {
+      "actuals": 40438,
+      "budgetedPrev": 30783,
+      "revisedPrev": 29270,
+      "budgeted": 36113
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 26727,
+      "budgetedPrev": 28503,
+      "revisedPrev": 29018,
+      "budgeted": 30537,
+      "changePct": 5
+    },
+    {
+      "name": "Energy",
+      "actuals": 13282,
+      "budgetedPrev": 12895,
+      "revisedPrev": 14632,
+      "budgeted": 13483,
+      "changePct": -8
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 9702,
+      "budgetedPrev": 11943,
+      "revisedPrev": 10643,
+      "budgeted": 12639,
+      "changePct": 19
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 10988,
+      "budgetedPrev": 11304,
+      "revisedPrev": 14522,
+      "budgeted": 12207,
+      "changePct": -16
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 9699,
+      "budgetedPrev": 8472,
+      "revisedPrev": 9931,
+      "budgeted": 9341,
+      "changePct": -6
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 7109,
+      "budgetedPrev": 10137,
+      "revisedPrev": 7114,
+      "budgeted": 9109,
+      "changePct": 28
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 8296,
+      "budgetedPrev": 8752,
+      "revisedPrev": 7724,
+      "budgeted": 9002,
+      "changePct": 17
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 8428,
+      "budgetedPrev": 7160,
+      "revisedPrev": 9627,
+      "budgeted": 8414,
+      "changePct": -13
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 6517,
+      "budgetedPrev": 6612,
+      "revisedPrev": 6663,
+      "budgeted": 7269,
+      "changePct": 9
+    },
+    {
+      "name": "Police",
+      "actuals": 5308,
+      "budgetedPrev": 6512,
+      "revisedPrev": 5665,
+      "budgeted": 6666,
+      "changePct": 18
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1079,
+      "text": "has been allocated towards Samagra Shiksha Abhiyan and Rs 733 crore has been allocated towards the Mid-Day Meal Scheme"
+    },
+    {
+      "amount": 1400,
+      "text": "has been allocated to the Gujarat Urja Vikas Nigam Limited (GUVNL) for strengthening transmission networks"
+    },
+    {
+      "amount": 700,
+      "text": "has been allocated to the GUVNL for release of agricultural connections"
+    },
+    {
+      "amount": 3822,
+      "text": "has been allocated to urban development authorities under Swarnim Jayanti Mukhymantri Shehari Vikas Yojana"
+    },
+    {
+      "amount": 404,
+      "text": "has been allocated towards National Health Mission"
+    },
+    {
+      "amount": 1100,
+      "text": "has been allocated towards Mukhya Mantri Gram Sadak Yojana"
+    },
+    {
+      "amount": 1240,
+      "text": "has been allocated to the Bhadbut Barrage scheme for the construction of a water reservoir on river Narmada"
+    },
+    {
+      "amount": 710,
+      "text": "has been allocated to the Saurashtra Narmada Avtaran Irrigation Yojana"
+    },
+    {
+      "amount": 2283,
+      "text": "has been allocated for various schemes for crop husbandry"
+    },
+    {
+      "amount": 721,
+      "text": "has been allocated for agricultural research and education"
+    },
+    {
+      "amount": 977,
+      "text": "has been allocated to the Niradhar Vrudhdh Pension Yojana"
+    },
+    {
+      "amount": 503,
+      "text": "has been allocated to increase the monthly sustenance allowance of tribal students"
+    },
+    {
+      "amount": 3369,
+      "text": "has been allocated towards the salaries of district police"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 114883
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 17762
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 28418
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 20983
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 250
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/gujarat-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/gujarat/2022/Gujarat_State%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

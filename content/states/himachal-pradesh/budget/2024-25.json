@@ -1,0 +1,228 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 58444,
+    "netExpenditure": 52965,
+    "totalReceipts": 55090,
+    "netReceipts": 42181,
+    "borrowings": 12909,
+    "fiscalDeficit": 10784,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 4513
+    },
+    "gsdp": 227136
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 5.9,
+      "budgeted": 4.8
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.6,
+      "budgeted": 1.9
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 50565,
+      "budgetedPrev": 47926,
+      "revisedPrev": 52768,
+      "budgeted": 52965
+    },
+    "netReceipts": {
+      "actuals": 38185,
+      "budgetedPrev": 38026,
+      "revisedPrev": 40474,
+      "budgeted": 42181
+    },
+    "fiscalDeficit": {
+      "actuals": 12380,
+      "budgetedPrev": 9900,
+      "revisedPrev": 12295,
+      "budgeted": 10784
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 9057,
+      "budgetedPrev": 9068,
+      "revisedPrev": 9132,
+      "budgeted": 9812,
+      "changePct": 7
+    },
+    {
+      "name": "Transport",
+      "actuals": 5005,
+      "budgetedPrev": 4621,
+      "revisedPrev": 5589,
+      "budgeted": 5289,
+      "changePct": -5
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 3713,
+      "budgetedPrev": 3116,
+      "revisedPrev": 3494,
+      "budgeted": 3390,
+      "changePct": -3
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 2625,
+      "budgetedPrev": 2764,
+      "revisedPrev": 3603,
+      "budgeted": 3051,
+      "changePct": -15
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 3039,
+      "budgetedPrev": 2828,
+      "revisedPrev": 3019,
+      "budgeted": 2755,
+      "changePct": -9
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 2041,
+      "budgetedPrev": 1892,
+      "revisedPrev": 1844,
+      "budgeted": 2145,
+      "changePct": 16
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 2137,
+      "budgetedPrev": 1700,
+      "revisedPrev": 2296,
+      "budgeted": 1998,
+      "changePct": -13
+    },
+    {
+      "name": "Police",
+      "actuals": 1619,
+      "budgetedPrev": 1589,
+      "revisedPrev": 1654,
+      "budgeted": 1701,
+      "changePct": 3
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 801,
+      "budgetedPrev": 861,
+      "revisedPrev": 947,
+      "budgeted": 1382,
+      "changePct": 46
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1045,
+      "budgetedPrev": 615,
+      "revisedPrev": 946,
+      "budgeted": 645,
+      "changePct": -32
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 893,
+      "text": "has been allocated for elementary education and Rs 236 crore for secondary education under Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 3809,
+      "text": "has been allocated for district and other roads"
+    },
+    {
+      "amount": 333,
+      "text": "have been allocated for hospitals and dispensaries in urban areas"
+    },
+    {
+      "amount": 500,
+      "text": "has been allocated hospitals and dispensaries in rural areas"
+    },
+    {
+      "amount": 1031,
+      "text": "has been allocated for pension under various social security schemes"
+    },
+    {
+      "amount": 307,
+      "text": "has been allocated towards horticulture and vegetable crops"
+    },
+    {
+      "amount": 399,
+      "text": "has been allocated towards the National Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 403,
+      "text": "has been allocated for assistance to gram panchayats"
+    },
+    {
+      "amount": 355,
+      "text": "have been allocated towards urban water supply programme and Rs 1123 crore towards rural water supply programme"
+    },
+    {
+      "amount": 890,
+      "text": "is allocated towards district police"
+    },
+    {
+      "amount": 996,
+      "text": "has been allocated for minor irrigation"
+    },
+    {
+      "amount": 259,
+      "text": "has been allocated as assistance to local bodies, corporations, urban development authorities, and town improvement boards"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 15101
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 3641
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 10124
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 13287
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 28
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/himachal-pradesh-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/himachal-pradesh/2024/HP_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

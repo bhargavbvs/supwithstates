@@ -1,0 +1,236 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 265720,
+    "netExpenditure": 251541,
+    "totalReceipts": 261977,
+    "netReceipts": 189977,
+    "borrowings": 72000,
+    "fiscalDeficit": 61564,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 14699
+    },
+    "gsdp": 1885750
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.84,
+      "budgeted": 3.26
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 0.36,
+      "budgeted": 0.78
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 224129,
+      "budgetedPrev": 231642,
+      "revisedPrev": 238600,
+      "budgeted": 251541
+    },
+    "netReceipts": {
+      "actuals": 157032,
+      "budgetedPrev": 172402,
+      "revisedPrev": 189710,
+      "budgeted": 189977
+    },
+    "fiscalDeficit": {
+      "actuals": 67098,
+      "budgetedPrev": 59240,
+      "revisedPrev": 48890,
+      "budgeted": 61564
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 25483,
+      "budgetedPrev": 29100,
+      "revisedPrev": 29607,
+      "budgeted": 32018,
+      "changePct": 8
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 19968,
+      "budgetedPrev": 19367,
+      "revisedPrev": 18391,
+      "budgeted": 20652,
+      "changePct": 12
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 17328,
+      "budgetedPrev": 14976,
+      "revisedPrev": 15429,
+      "budgeted": 17039,
+      "changePct": 10
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 14672,
+      "budgetedPrev": 13651,
+      "revisedPrev": 15242,
+      "budgeted": 15528,
+      "changePct": 2
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 11868,
+      "budgetedPrev": 12235,
+      "revisedPrev": 14632,
+      "budgeted": 14368,
+      "changePct": -2
+    },
+    {
+      "name": "Energy",
+      "actuals": 14927,
+      "budgetedPrev": 12579,
+      "revisedPrev": 12398,
+      "budgeted": 12226,
+      "changePct": -1
+    },
+    {
+      "name": "Transport",
+      "actuals": 15562,
+      "budgetedPrev": 12736,
+      "revisedPrev": 12282,
+      "budgeted": 12105,
+      "changePct": -1
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 9231,
+      "budgetedPrev": 9191,
+      "revisedPrev": 9434,
+      "budgeted": 9295,
+      "changePct": -1
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 7457,
+      "budgetedPrev": 8686,
+      "revisedPrev": 8596,
+      "budgeted": 9180,
+      "changePct": 7
+    },
+    {
+      "name": "Police",
+      "actuals": 6306,
+      "budgetedPrev": 7235,
+      "revisedPrev": 7263,
+      "budgeted": 8007,
+      "changePct": 10
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 17184,
+      "text": "has been allocated towards elementary education"
+    },
+    {
+      "amount": 960,
+      "text": "has been allocated for Mid-Day Meal Programme"
+    },
+    {
+      "amount": 15984,
+      "text": "has been allocated for investments in public sector and other undertakings"
+    },
+    {
+      "amount": 2000,
+      "text": "has been allocated towards Pradhan Mantri Kisan Samman Yojana"
+    },
+    {
+      "amount": 927,
+      "text": "has been allocated towards crop insurance"
+    },
+    {
+      "amount": 3885,
+      "text": "has been allocated towards pension under social security scheme"
+    },
+    {
+      "amount": 1956,
+      "text": "has been allocated for distribution of nutritious foods and beverages"
+    },
+    {
+      "amount": 2375,
+      "text": "has been allocated for Urban Health Services – Allopathy"
+    },
+    {
+      "amount": 1039,
+      "text": "has been allocated to Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana"
+    },
+    {
+      "amount": 9419,
+      "text": "has been allocated for subsidies to Karnataka Power Transmission Corporation Limited"
+    },
+    {
+      "amount": 1327,
+      "text": "has been allocated towards assistance to public sector and other undertakings"
+    },
+    {
+      "amount": 1283,
+      "text": "has been allocated towards MGNREGS"
+    },
+    {
+      "amount": 3818,
+      "text": "has been allocated for welfare of scheduled castes"
+    },
+    {
+      "amount": 5675,
+      "text": "has been allocated for district police"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 126883
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 10941
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 29783
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 22281
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 89
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/karnataka-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/karnataka/2022/Karnataka%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

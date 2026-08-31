@@ -8,7 +8,10 @@
     "netReceipts": 206280,
     "borrowings": 72022,
     "fiscalDeficit": 54588,
-    "revenueDeficit": 22317,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 22317
+    },
     "gsdp": 1449501
   },
   "fiscal": {
@@ -16,7 +19,8 @@
       "revisedPrev": 3.6,
       "budgeted": 3.8
     },
-    "revenueDeficit": {
+    "revenueBalance": {
+      "kind": "deficit",
       "revisedPrev": 2.2,
       "budgeted": 1.5
     },
@@ -188,6 +192,10 @@
     {
       "name": "Grants from Centre",
       "budgeted": 46835
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 56
     }
   ],
   "source": {

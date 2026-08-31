@@ -1,0 +1,179 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 28162,
+    "netExpenditure": 25639,
+    "totalReceipts": 27994,
+    "netReceipts": 22706,
+    "borrowings": 5288,
+    "fiscalDeficit": 2932,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 2404
+    },
+    "gsdp": 138625
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.5,
+      "budgeted": 2.1
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.9,
+      "budgeted": 1.7
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 20655,
+      "budgetedPrev": 24875,
+      "revisedPrev": 25513,
+      "budgeted": 25639
+    },
+    "netReceipts": {
+      "actuals": 18289,
+      "budgetedPrev": 21750,
+      "revisedPrev": 21301,
+      "budgeted": 22706
+    },
+    "fiscalDeficit": {
+      "actuals": 2366,
+      "budgetedPrev": 3125,
+      "revisedPrev": 4212,
+      "budgeted": 2932
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Energy",
+      "actuals": 3972,
+      "budgetedPrev": 3943,
+      "revisedPrev": 4153,
+      "budgeted": 4077,
+      "changePct": -2
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 3143,
+      "budgetedPrev": 3585,
+      "revisedPrev": 3533,
+      "budgeted": 3497,
+      "changePct": -1
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1699,
+      "budgetedPrev": 2077,
+      "revisedPrev": 2127,
+      "budgeted": 2029,
+      "changePct": -5
+    },
+    {
+      "name": "Transport",
+      "actuals": 1204,
+      "budgetedPrev": 1611,
+      "revisedPrev": 1702,
+      "budgeted": 1680,
+      "changePct": -1
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 928,
+      "budgetedPrev": 1203,
+      "revisedPrev": 1230,
+      "budgeted": 1221,
+      "changePct": -1
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 744,
+      "budgetedPrev": 1014,
+      "revisedPrev": 1014,
+      "budgeted": 1097,
+      "changePct": 8
+    },
+    {
+      "name": "Police",
+      "actuals": 764,
+      "budgetedPrev": 901,
+      "revisedPrev": 914,
+      "budgeted": 1042,
+      "changePct": 14
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 549,
+      "budgetedPrev": 628,
+      "revisedPrev": 631,
+      "budgeted": 749,
+      "changePct": 19
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 509,
+      "budgetedPrev": 646,
+      "revisedPrev": 701,
+      "budgeted": 735,
+      "changePct": 5
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 402,
+      "budgetedPrev": 440,
+      "revisedPrev": 530,
+      "budgeted": 489,
+      "changePct": -8
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 9743
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 6106
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 5491
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 1364
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 3
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/goa-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/goa/2025/Goa_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

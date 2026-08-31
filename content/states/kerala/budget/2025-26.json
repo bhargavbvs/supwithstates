@@ -1,0 +1,179 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 313543,
+    "netExpenditure": 198582,
+    "totalReceipts": 309353,
+    "netReceipts": 153544,
+    "borrowings": 155809,
+    "fiscalDeficit": 45039,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 27125
+    },
+    "gsdp": 1427145
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.5,
+      "budgeted": 3.2
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.3,
+      "budgeted": 1.9
+    },
+    "outstandingDebtPctGsdp": 33.8,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 159507,
+      "budgetedPrev": 184327,
+      "revisedPrev": 178772,
+      "budgeted": 198582
+    },
+    "netReceipts": {
+      "actuals": 125248,
+      "budgetedPrev": 139798,
+      "revisedPrev": 134025,
+      "budgeted": 153544
+    },
+    "fiscalDeficit": {
+      "actuals": 34258,
+      "budgetedPrev": 44529,
+      "revisedPrev": 44747,
+      "budgeted": 45039
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 22373,
+      "budgetedPrev": 24256,
+      "revisedPrev": 23597,
+      "budgeted": 26398,
+      "changePct": 12
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 8506,
+      "budgetedPrev": 13473,
+      "revisedPrev": 15306,
+      "budgeted": 16054,
+      "changePct": 5
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 9577,
+      "budgetedPrev": 10087,
+      "revisedPrev": 9583,
+      "budgeted": 10874,
+      "changePct": 13
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 6368,
+      "budgetedPrev": 7742,
+      "revisedPrev": 7092,
+      "budgeted": 8259,
+      "changePct": 16
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 2704,
+      "budgetedPrev": 7365,
+      "revisedPrev": 3785,
+      "budgeted": 8021,
+      "changePct": 112
+    },
+    {
+      "name": "Transport",
+      "actuals": 4193,
+      "budgetedPrev": 5287,
+      "revisedPrev": 3961,
+      "budgeted": 5411,
+      "changePct": 37
+    },
+    {
+      "name": "Police",
+      "actuals": 4423,
+      "budgetedPrev": 4714,
+      "revisedPrev": 4660,
+      "budgeted": 5098,
+      "changePct": 9
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 2793,
+      "budgetedPrev": 3284,
+      "revisedPrev": 2335,
+      "budgeted": 3488,
+      "changePct": 49
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 1206,
+      "budgetedPrev": 1720,
+      "revisedPrev": 1580,
+      "budgeted": 2049,
+      "changePct": 30
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1470,
+      "budgetedPrev": 1311,
+      "revisedPrev": 1628,
+      "budgeted": 1299,
+      "changePct": -20
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 91515
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 19146
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 28617
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 13075
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 1192
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/kerala-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/kerala/2025/Kerala_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

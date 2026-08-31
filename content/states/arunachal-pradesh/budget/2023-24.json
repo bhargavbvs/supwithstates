@@ -1,0 +1,179 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 29513,
+    "netExpenditure": 28683,
+    "totalReceipts": 29657,
+    "netReceipts": 26168,
+    "borrowings": 3490,
+    "fiscalDeficit": 2515,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 3063
+    },
+    "gsdp": 37870
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 7.8,
+      "budgeted": 6.6
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 15.1,
+      "budgeted": 8.1
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 22342,
+      "budgetedPrev": 24908,
+      "revisedPrev": 29253,
+      "budgeted": 28683
+    },
+    "netReceipts": {
+      "actuals": 21238,
+      "budgetedPrev": 23864,
+      "revisedPrev": 26315,
+      "budgeted": 26168
+    },
+    "fiscalDeficit": {
+      "actuals": 1103,
+      "budgetedPrev": 1045,
+      "revisedPrev": 2938,
+      "budgeted": 2515
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Roads and Bridges",
+      "actuals": 3470,
+      "budgetedPrev": 3214,
+      "revisedPrev": 5066,
+      "budgeted": 3272,
+      "changePct": -35
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 2596,
+      "budgetedPrev": 2528,
+      "revisedPrev": 3490,
+      "budgeted": 2838,
+      "changePct": -19
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 1284,
+      "budgetedPrev": 2032,
+      "revisedPrev": 2388,
+      "budgeted": 2179,
+      "changePct": -9
+    },
+    {
+      "name": "Energy",
+      "actuals": 1811,
+      "budgetedPrev": 1723,
+      "revisedPrev": 2393,
+      "budgeted": 2158,
+      "changePct": -10
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1372,
+      "budgetedPrev": 1287,
+      "revisedPrev": 1672,
+      "budgeted": 1500,
+      "changePct": -10
+    },
+    {
+      "name": "Police",
+      "actuals": 1348,
+      "budgetedPrev": 1398,
+      "revisedPrev": 1382,
+      "budgeted": 1319,
+      "changePct": -5
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1291,
+      "budgetedPrev": 910,
+      "revisedPrev": 1334,
+      "budgeted": 1214,
+      "changePct": -9
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 741,
+      "budgetedPrev": 372,
+      "revisedPrev": 645,
+      "budgeted": 1186,
+      "changePct": 84
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 885,
+      "budgetedPrev": 996,
+      "revisedPrev": 727,
+      "budgeted": 951,
+      "changePct": 31
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 711,
+      "budgetedPrev": 1012,
+      "revisedPrev": 1316,
+      "budgeted": 946,
+      "changePct": -28
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 2565
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 848
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 17947
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 4798
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 10
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/arunachal-pradesh-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/arunachal-pradesh/2023/Budget_Analysis_2023-24_Arunachal_Pradesh.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 24274,
+    "netExpenditure": 21691,
+    "totalReceipts": 22960,
+    "netReceipts": 17388,
+    "borrowings": 5571,
+    "fiscalDeficit": 4303,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 434
+    },
+    "gsdp": 91417
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 7.53,
+      "budgeted": 4.71
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -0.02,
+      "budgeted": 0.48
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 14138,
+      "budgetedPrev": 22469,
+      "revisedPrev": 24154,
+      "budgeted": 21691
+    },
+    "netReceipts": {
+      "actuals": 11408,
+      "budgetedPrev": 16594,
+      "revisedPrev": 17424,
+      "budgeted": 17388
+    },
+    "fiscalDeficit": {
+      "actuals": 2730,
+      "budgetedPrev": 5875,
+      "revisedPrev": 6730,
+      "budgeted": 4303
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Energy",
+      "actuals": 2305,
+      "budgetedPrev": 3033,
+      "revisedPrev": 3078,
+      "budgeted": 3135,
+      "changePct": 2
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 2126,
+      "budgetedPrev": 3076,
+      "revisedPrev": 3208,
+      "budgeted": 3071,
+      "changePct": -4
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1250,
+      "budgetedPrev": 1595,
+      "revisedPrev": 1970,
+      "budgeted": 1966,
+      "changePct": 0
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 768,
+      "budgetedPrev": 2012,
+      "revisedPrev": 2022,
+      "budgeted": 1086,
+      "changePct": -46
+    },
+    {
+      "name": "Transport",
+      "actuals": 618,
+      "budgetedPrev": 1678,
+      "revisedPrev": 1926,
+      "budgeted": 1072,
+      "changePct": -44
+    },
+    {
+      "name": "Police",
+      "actuals": 564,
+      "budgetedPrev": 578,
+      "revisedPrev": 644,
+      "budgeted": 939,
+      "changePct": 46
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 715,
+      "budgetedPrev": 957,
+      "revisedPrev": 1174,
+      "budgeted": 922,
+      "changePct": -21
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 425,
+      "budgetedPrev": 538,
+      "revisedPrev": 725,
+      "budgeted": 703,
+      "changePct": -3
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 170,
+      "budgetedPrev": 568,
+      "revisedPrev": 686,
+      "budgeted": 613,
+      "changePct": -11
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 286,
+      "budgetedPrev": 528,
+      "revisedPrev": 594,
+      "budgeted": 532,
+      "changePct": -10
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1900,
+      "text": "has been allocated towards cost of bulk supply of power from NTPC, KPTCL, and RSPCL"
+    },
+    {
+      "amount": 1035,
+      "text": "has been allocated for assistance to non-government secondary schools"
+    },
+    {
+      "amount": 562,
+      "text": "has been allocated towards elementary education"
+    },
+    {
+      "amount": 804,
+      "text": "has been allocated towards Urban Health Services- Allopathy"
+    },
+    {
+      "amount": 352,
+      "text": "has been allocated towards capital outlay on sewerage and sanitation"
+    },
+    {
+      "amount": 324,
+      "text": "has been allocated for Urban Water Supply Programme"
+    },
+    {
+      "amount": 685,
+      "text": "has been allocated towards roads and bridges"
+    },
+    {
+      "amount": 554,
+      "text": "has been allocated towards District Police"
+    },
+    {
+      "amount": 357,
+      "text": "has been allocated towards welfare of aged, infirm, and destitute"
+    },
+    {
+      "amount": 252,
+      "text": "has been allocated towards crop husbandry"
+    },
+    {
+      "amount": 136,
+      "text": "has been allocated for Assistance to Local Bodies Corporation, Urban Development Authorities, and Town Implementation Boards etc"
+    },
+    {
+      "amount": 352,
+      "text": "has been allocated for Panchayati Raj"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 6241
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 5126
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 3174
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 2808
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 38
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/goa-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/goa/2022/Goa%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

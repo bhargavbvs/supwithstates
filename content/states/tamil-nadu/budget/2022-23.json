@@ -1,0 +1,208 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 360379,
+    "netExpenditure": 333251,
+    "totalReceipts": 357617,
+    "netReceipts": 236638,
+    "borrowings": 120979,
+    "fiscalDeficit": 90114,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 52781
+    },
+    "gsdp": 2484807
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.8,
+      "budgeted": 3.63
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.54,
+      "budgeted": 2.12
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 273305,
+      "budgetedPrev": 309177,
+      "revisedPrev": 300651,
+      "budgeted": 333251
+    },
+    "netReceipts": {
+      "actuals": 179322,
+      "budgetedPrev": 208553,
+      "revisedPrev": 209824,
+      "budgeted": 236638
+    },
+    "fiscalDeficit": {
+      "actuals": 87742,
+      "budgetedPrev": 92529,
+      "revisedPrev": 82732,
+      "budgeted": 90114
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 38578,
+      "budgetedPrev": 40208,
+      "revisedPrev": 38775,
+      "budgeted": 43799,
+      "changePct": 13
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 15455,
+      "budgetedPrev": 23398,
+      "revisedPrev": 21833,
+      "budgeted": 21363,
+      "changePct": -2
+    },
+    {
+      "name": "Transport",
+      "actuals": 15116,
+      "budgetedPrev": 18156,
+      "revisedPrev": 15842,
+      "budgeted": 20059,
+      "changePct": 27
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 17394,
+      "budgetedPrev": 18632,
+      "revisedPrev": 20080,
+      "budgeted": 17733,
+      "changePct": -12
+    },
+    {
+      "name": "Energy",
+      "actuals": 16577,
+      "budgetedPrev": 16020,
+      "revisedPrev": 15626,
+      "budgeted": 17433,
+      "changePct": 12
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 24520,
+      "budgetedPrev": 24527,
+      "revisedPrev": 25448,
+      "budgeted": 16674,
+      "changePct": -34
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 5702,
+      "budgetedPrev": 8803,
+      "revisedPrev": 9455,
+      "budgeted": 10396,
+      "changePct": 10
+    },
+    {
+      "name": "Police",
+      "actuals": 7710,
+      "budgetedPrev": 8601,
+      "revisedPrev": 8493,
+      "budgeted": 9857,
+      "changePct": 16
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 5122,
+      "budgetedPrev": 8965,
+      "revisedPrev": 8876,
+      "budgeted": 9562,
+      "changePct": 8
+    },
+    {
+      "name": "Housing",
+      "actuals": 5382,
+      "budgetedPrev": 5719,
+      "revisedPrev": 5530,
+      "budgeted": 7218,
+      "changePct": 31
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1760,
+      "text": "has been allocated towards crop insurance. Rs 487 crore has been allocated towards agricultural research and education"
+    },
+    {
+      "amount": 16311,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 1576,
+      "text": "has been allocated towards the primary health centre"
+    },
+    {
+      "amount": 13108,
+      "text": "has been allocated towards funding losses of TANGEDCO as per the UDAY scheme"
+    },
+    {
+      "amount": 3350,
+      "text": "has been allocated towards pension under social security schemes"
+    },
+    {
+      "amount": 1875,
+      "text": "has been allocated towards the implementation of the SMART cities mission"
+    },
+    {
+      "amount": 2800,
+      "text": "has been allocated towards MGNREGS. Rs 440 crore has been allocated towards road/bridge works under PMGSY-III"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 142800
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 15537
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 33311
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 39759
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 5230
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/tamil-nadu/2022/Tamil%20Nadu%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

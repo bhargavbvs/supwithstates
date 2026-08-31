@@ -1,0 +1,214 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 78800,
+    "netExpenditure": 73760,
+    "totalReceipts": 73374,
+    "netReceipts": 63374,
+    "borrowings": 10000,
+    "fiscalDeficit": 10386,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 5769
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": null,
+      "budgeted": null
+    },
+    "revenueBalance": {
+      "kind": "surplus"
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 56957,
+      "budgetedPrev": 71085,
+      "revisedPrev": 67785,
+      "budgeted": 73760
+    },
+    "netReceipts": {
+      "actuals": 49936,
+      "budgetedPrev": 61891,
+      "revisedPrev": 63426,
+      "budgeted": 63374
+    },
+    "fiscalDeficit": {
+      "actuals": 7021,
+      "budgetedPrev": 9194,
+      "revisedPrev": 4359,
+      "budgeted": 10386
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 12977,
+      "budgetedPrev": 15507,
+      "revisedPrev": 15328,
+      "budgeted": 16575,
+      "changePct": 8
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 9073,
+      "budgetedPrev": 9769,
+      "revisedPrev": 9410,
+      "budgeted": 9742,
+      "changePct": 4
+    },
+    {
+      "name": "Transport",
+      "actuals": 7562,
+      "budgetedPrev": 8616,
+      "revisedPrev": 9197,
+      "budgeted": 8481,
+      "changePct": -8
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 4787,
+      "budgetedPrev": 4874,
+      "revisedPrev": 4976,
+      "budgeted": 4794,
+      "changePct": -4
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 2049,
+      "budgetedPrev": 3253,
+      "revisedPrev": 3511,
+      "budgeted": 4455,
+      "changePct": 27
+    },
+    {
+      "name": "Energy",
+      "actuals": 3275,
+      "budgetedPrev": 3340,
+      "revisedPrev": 3212,
+      "budgeted": 3348,
+      "changePct": 4
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1137,
+      "budgetedPrev": 3557,
+      "revisedPrev": 1973,
+      "budgeted": 2866,
+      "changePct": 45
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 407,
+      "budgetedPrev": 1131,
+      "revisedPrev": 455,
+      "budgeted": 603,
+      "changePct": 33
+    },
+    {
+      "name": "Police",
+      "actuals": 54,
+      "budgetedPrev": 99,
+      "revisedPrev": 113,
+      "budgeted": 398,
+      "changePct": 254
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 282,
+      "budgetedPrev": 314,
+      "revisedPrev": 269,
+      "budgeted": 313,
+      "changePct": 16
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 8321,
+      "text": "has been allocated towards secondary education"
+    },
+    {
+      "amount": 2036,
+      "text": "has been allocated towards urban health services"
+    },
+    {
+      "amount": 3017,
+      "text": "has been allocated towards capital outlay on roads"
+    },
+    {
+      "amount": 1200,
+      "text": "has been allocated towards the senior citizen pension scheme"
+    },
+    {
+      "amount": 1000,
+      "text": "has been allocated towards development of unauthorised colonies"
+    },
+    {
+      "amount": 3250,
+      "text": "has been allocated towards power subsidy for consumers through DISCOMS"
+    },
+    {
+      "amount": 1580,
+      "text": "has been allocated to the Delhi Jal Board as a grant for the creation of sewage facilities in unauthorised colonies"
+    },
+    {
+      "amount": 320,
+      "text": "of capital outlay has been allocated towards irrigation and flood control"
+    },
+    {
+      "amount": 284,
+      "text": "has been allocated towards the Safe City Project as a grant under the Nirbhaya Fund"
+    },
+    {
+      "amount": 60,
+      "text": "of capital outlay has been allocated towards agriculture and allied activities"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 53565
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 1050
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 8137
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 622
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/delhi-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/delhi/2023/State_Budget_Analysis_2023-24_Delhi.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

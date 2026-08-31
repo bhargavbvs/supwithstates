@@ -8,7 +8,10 @@
     "netReceipts": 201186,
     "borrowings": 91443,
     "fiscalDeficit": 68743,
-    "revenueDeficit": 34743,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 34743
+    },
     "gsdp": 1640581
   },
   "fiscal": {
@@ -16,7 +19,8 @@
       "revisedPrev": 4.3,
       "budgeted": 4.2
     },
-    "revenueDeficit": {
+    "revenueBalance": {
+      "kind": "deficit",
       "revisedPrev": 2.7,
       "budgeted": 2.1
     },
@@ -208,6 +212,10 @@
     {
       "name": "Grants-in-aid from Centre",
       "budgeted": 30334
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 12
     }
   ],
   "source": {

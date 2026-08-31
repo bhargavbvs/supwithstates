@@ -1,0 +1,244 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 537069,
+    "netExpenditure": 379617,
+    "totalReceipts": 528461,
+    "netReceipts": 294973,
+    "borrowings": 233488,
+    "fiscalDeficit": 84644,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 31009
+    },
+    "gsdp": 1989000
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.1,
+      "budgeted": 4.3
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 1.9,
+      "budgeted": 1.6
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 269275,
+      "budgetedPrev": 334796,
+      "revisedPrev": 333259,
+      "budgeted": 379617
+    },
+    "netReceipts": {
+      "actuals": 203695,
+      "budgetedPrev": 264787,
+      "revisedPrev": 263168,
+      "budgeted": 294973
+    },
+    "fiscalDeficit": {
+      "actuals": 65580,
+      "budgetedPrev": 70009,
+      "revisedPrev": 70091,
+      "budgeted": 84644
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 51220,
+      "budgetedPrev": 65073,
+      "revisedPrev": 63516,
+      "budgeted": 68369,
+      "changePct": 8
+    },
+    {
+      "name": "Energy",
+      "actuals": 28895,
+      "budgetedPrev": 30729,
+      "revisedPrev": 33051,
+      "budgeted": 40198,
+      "changePct": 22
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 21273,
+      "budgetedPrev": 27660,
+      "revisedPrev": 27707,
+      "budgeted": 31888,
+      "changePct": 15
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 18375,
+      "budgetedPrev": 24060,
+      "revisedPrev": 22797,
+      "budgeted": 26639,
+      "changePct": 17
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 12856,
+      "budgetedPrev": 19610,
+      "revisedPrev": 20827,
+      "budgeted": 24586,
+      "changePct": 18
+    },
+    {
+      "name": "Transport",
+      "actuals": 12481,
+      "budgetedPrev": 13436,
+      "revisedPrev": 13665,
+      "budgeted": 18909,
+      "changePct": 38
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 8876,
+      "budgetedPrev": 16918,
+      "revisedPrev": 14641,
+      "budgeted": 16811,
+      "changePct": 15
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 11837,
+      "budgetedPrev": 14544,
+      "revisedPrev": 14036,
+      "budgeted": 16558,
+      "changePct": 18
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 7820,
+      "budgetedPrev": 11270,
+      "revisedPrev": 11544,
+      "budgeted": 13559,
+      "changePct": 17
+    },
+    {
+      "name": "Police",
+      "actuals": 8515,
+      "budgetedPrev": 10203,
+      "revisedPrev": 10112,
+      "budgeted": 11125,
+      "changePct": 10
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 29363,
+      "text": "has been allocated for Primary Education"
+    },
+    {
+      "amount": 33792,
+      "text": "has been allocated Secondary Education"
+    },
+    {
+      "amount": 22819,
+      "text": "has been allocated as grants for non- revision of electricity tariffs"
+    },
+    {
+      "amount": 4336,
+      "text": "has been allocated towards urban health services – allopathy"
+    },
+    {
+      "amount": 3586,
+      "text": "has been allocated towards rural health services – allopathy"
+    },
+    {
+      "amount": 16618,
+      "text": "has been allocated as assistance to Zila Parishads and Panchayats"
+    },
+    {
+      "amount": 7566,
+      "text": "has been allocated as assistance to Gram Panchayats"
+    },
+    {
+      "amount": 6053,
+      "text": "has been allocated towards the Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 14016,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 5506,
+      "text": "has been allocated as assistance to Municipalities and Municipal Corporations"
+    },
+    {
+      "amount": 3592,
+      "text": "has been allocated as Assistance to Urban Development Authorities and Town Development Boards"
+    },
+    {
+      "amount": 6609,
+      "text": "has been allocated towards crop husbandry"
+    },
+    {
+      "amount": 3618,
+      "text": "has been allocated towards animal husbandry"
+    },
+    {
+      "amount": 5197,
+      "text": "has been allocated for rural water supply"
+    },
+    {
+      "amount": 5926,
+      "text": "has been allocated for urban water supply"
+    },
+    {
+      "amount": 7880,
+      "text": "has been allocated towards District Police"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 142743
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 26883
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 85716
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 39193
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 436
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/rajasthan-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/rajasthan/2025/RJ_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

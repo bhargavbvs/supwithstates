@@ -1,0 +1,179 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 23728,
+    "netExpenditure": 19485,
+    "totalReceipts": 23978,
+    "netReceipts": 18035,
+    "borrowings": 5943,
+    "fiscalDeficit": 1450,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 1141
+    },
+    "gsdp": 48375
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 6.1,
+      "budgeted": 3
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 1,
+      "budgeted": 2.4
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 16115,
+      "budgetedPrev": 16904,
+      "revisedPrev": 19343,
+      "budgeted": 19485
+    },
+    "netReceipts": {
+      "actuals": 14552,
+      "budgetedPrev": 15783,
+      "revisedPrev": 16590,
+      "budgeted": 18035
+    },
+    "fiscalDeficit": {
+      "actuals": 1563,
+      "budgetedPrev": 1121,
+      "revisedPrev": 2754,
+      "budgeted": 1450
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 2322,
+      "budgetedPrev": 2722,
+      "revisedPrev": 2555,
+      "budgeted": 2712,
+      "changePct": 6
+    },
+    {
+      "name": "Police",
+      "actuals": 1964,
+      "budgetedPrev": 1910,
+      "revisedPrev": 2008,
+      "budgeted": 1947,
+      "changePct": -3
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 549,
+      "budgetedPrev": 789,
+      "revisedPrev": 1182,
+      "budgeted": 1452,
+      "changePct": 23
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 874,
+      "budgetedPrev": 1108,
+      "revisedPrev": 1233,
+      "budgeted": 1362,
+      "changePct": 11
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 1230,
+      "budgetedPrev": 997,
+      "revisedPrev": 903,
+      "budgeted": 957,
+      "changePct": 6
+    },
+    {
+      "name": "Energy",
+      "actuals": 824,
+      "budgetedPrev": 788,
+      "revisedPrev": 928,
+      "budgeted": 845,
+      "changePct": -9
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 1110,
+      "budgetedPrev": 738,
+      "revisedPrev": 1238,
+      "budgeted": 742,
+      "changePct": -40
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 380,
+      "budgetedPrev": 223,
+      "revisedPrev": 672,
+      "budgeted": 515,
+      "changePct": -23
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 453,
+      "budgetedPrev": 486,
+      "revisedPrev": 600,
+      "budgeted": 482,
+      "changePct": -20
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 50,
+      "budgetedPrev": 121,
+      "revisedPrev": 158,
+      "budgeted": 327,
+      "changePct": 107
+    }
+  ],
+  "namedAllocations": [],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 1787
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 464
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 6941
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 8843
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/nagaland-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/nagaland/2024/Nagaland_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

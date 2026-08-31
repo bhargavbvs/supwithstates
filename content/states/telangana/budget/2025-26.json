@@ -1,0 +1,220 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 304965,
+    "netExpenditure": 284837,
+    "totalReceipts": 300467,
+    "netReceipts": 230828,
+    "borrowings": 69639,
+    "fiscalDeficit": 54010,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 2738
+    },
+    "gsdp": 1800325
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.9,
+      "budgeted": 3
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.4,
+      "budgeted": 0.2
+    },
+    "outstandingDebtPctGsdp": 28.1,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 219307,
+      "budgetedPrev": 274058,
+      "revisedPrev": 248933,
+      "budgeted": 284837
+    },
+    "netReceipts": {
+      "actuals": 169329,
+      "budgetedPrev": 224802,
+      "revisedPrev": 202169,
+      "budgeted": 230828
+    },
+    "fiscalDeficit": {
+      "actuals": 49977,
+      "budgetedPrev": 49255,
+      "revisedPrev": 46764,
+      "budgeted": 54010
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 10381,
+      "budgetedPrev": 23026,
+      "revisedPrev": 22255,
+      "budgeted": 32743,
+      "changePct": 47
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 29643,
+      "budgetedPrev": 51463,
+      "revisedPrev": 41061,
+      "budgeted": 26684,
+      "changePct": -35
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 19765,
+      "budgetedPrev": 21801,
+      "revisedPrev": 21485,
+      "budgeted": 23729,
+      "changePct": 10
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 15746,
+      "budgetedPrev": 22085,
+      "revisedPrev": 22070,
+      "budgeted": 23158,
+      "changePct": 5
+    },
+    {
+      "name": "Energy",
+      "actuals": 15945,
+      "budgetedPrev": 16254,
+      "revisedPrev": 14582,
+      "budgeted": 19617,
+      "changePct": 35
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 27566,
+      "budgetedPrev": 12408,
+      "revisedPrev": 12408,
+      "budgeted": 13478,
+      "changePct": 9
+    },
+    {
+      "name": "Housing",
+      "actuals": 432,
+      "budgetedPrev": 7903,
+      "revisedPrev": 1480,
+      "budgeted": 12744,
+      "changePct": 761
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 9534,
+      "budgetedPrev": 11800,
+      "revisedPrev": 11176,
+      "budgeted": 12742,
+      "changePct": 14
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 4093,
+      "budgetedPrev": 10670,
+      "revisedPrev": 8685,
+      "budgeted": 12731,
+      "changePct": 47
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 7241,
+      "budgetedPrev": 10245,
+      "revisedPrev": 10053,
+      "budgeted": 10721,
+      "changePct": 7
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1000,
+      "text": "Telangana Dalit Bandhu scheme"
+    },
+    {
+      "amount": 18000,
+      "text": "investment support scheme for farmers (Rythu Bharosa)"
+    },
+    {
+      "amount": 12601,
+      "text": "assistance to local bodies for primary and secondary education"
+    },
+    {
+      "amount": 14861,
+      "text": "Cheyutha pensions"
+    },
+    {
+      "amount": 8260,
+      "text": "assistance to state discom for agricultural power subsidy"
+    },
+    {
+      "amount": 2685,
+      "text": "capital outlay on Kaleshwaram project"
+    },
+    {
+      "amount": 7927,
+      "text": "Indiramma housing scheme for urban and rural poor"
+    },
+    {
+      "amount": 1034,
+      "text": "Aarogyasri health care trust"
+    },
+    {
+      "amount": 2654,
+      "text": "to GHMC for Hyderabad city innovative and transformative infrastructure"
+    },
+    {
+      "amount": 1773,
+      "text": "MGNREGS"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 145420
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 31619
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 29900
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 22783
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 1107
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/telangana-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/telangana/2025/Telengana_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 548408,
+    "netExpenditure": 495405,
+    "totalReceipts": 533745,
+    "netReceipts": 405806,
+    "borrowings": 127938,
+    "fiscalDeficit": 89598,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 24353
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.79,
+      "budgeted": 2.5
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 0.96,
+      "budgeted": 0.68
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 342638,
+      "budgetedPrev": 437960,
+      "revisedPrev": 453547,
+      "budgeted": 495405
+    },
+    "netReceipts": {
+      "actuals": 271080,
+      "budgetedPrev": 371319,
+      "revisedPrev": 364465,
+      "budgeted": 405806
+    },
+    "fiscalDeficit": {
+      "actuals": 71558,
+      "budgetedPrev": 66641,
+      "revisedPrev": 89082,
+      "budgeted": 89598
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 62322,
+      "budgetedPrev": 74830,
+      "revisedPrev": 71642,
+      "budgeted": 80437,
+      "changePct": null
+    },
+    {
+      "name": "Transport",
+      "actuals": 16676,
+      "budgetedPrev": 25686,
+      "revisedPrev": 31597,
+      "budgeted": 31113,
+      "changePct": null
+    },
+    {
+      "name": "Agriculture and allied",
+      "actuals": 35194,
+      "budgetedPrev": 26483,
+      "revisedPrev": 26673,
+      "budgeted": 29393,
+      "changePct": null
+    },
+    {
+      "name": "activities Police",
+      "actuals": 15361,
+      "budgetedPrev": 21558,
+      "revisedPrev": 18933,
+      "budgeted": 24663,
+      "changePct": null
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 11433,
+      "budgetedPrev": 21044,
+      "revisedPrev": 21323,
+      "budgeted": 22984,
+      "changePct": null
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 11373,
+      "budgetedPrev": 22194,
+      "revisedPrev": 19411,
+      "budgeted": 22844,
+      "changePct": null
+    },
+    {
+      "name": "Health and Family",
+      "actuals": 17092,
+      "budgetedPrev": 19060,
+      "revisedPrev": 26017,
+      "budgeted": 22536,
+      "changePct": null
+    },
+    {
+      "name": "Welfare Irrigation and Flood",
+      "actuals": 9668,
+      "budgetedPrev": 17938,
+      "revisedPrev": 15943,
+      "budgeted": 18727,
+      "changePct": null
+    },
+    {
+      "name": "Control Urban Development",
+      "actuals": 10177,
+      "budgetedPrev": 16050,
+      "revisedPrev": 17250,
+      "budgeted": 18347,
+      "changePct": null
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 18879,
+      "budgetedPrev": 16378,
+      "revisedPrev": 23474,
+      "budgeted": 16617,
+      "changePct": null
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 26200,
+      "text": "has been allocated towards assistance to non-government secondary schools and junior colleges"
+    },
+    {
+      "amount": 20133,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 2420,
+      "text": "has been allocated towards crop insurance scheme"
+    },
+    {
+      "amount": 869,
+      "text": "has been allocated towards the veterinary services and animal health"
+    },
+    {
+      "amount": 16471,
+      "text": "has been allocated towards district police"
+    },
+    {
+      "amount": 1824,
+      "text": "has been allocated towards various scholarships/stipends"
+    },
+    {
+      "amount": 3192,
+      "text": "has been allocated towards Jawahar Gram Samrudhi Yojana"
+    },
+    {
+      "amount": 3034,
+      "text": "has been allocated towards National Rural Health Mission"
+    },
+    {
+      "amount": 15980,
+      "text": "has been allocated towards capital outlay on irrigation and flood control"
+    },
+    {
+      "amount": 1765,
+      "text": "has been allocated towards Smart City Abhiyan"
+    },
+    {
+      "amount": 2664,
+      "text": "has been allocated towards integrated child development scheme"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 256526
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 27128
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 51588
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 68186
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2379
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/maharashtra-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/maharashtra/2022/Maharashtra%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 101101,
+    "netExpenditure": 94387,
+    "totalReceipts": 101101,
+    "netReceipts": 83101,
+    "borrowings": 18000,
+    "fiscalDeficit": 11286,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 6752
+    },
+    "gsdp": 401997
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.03,
+      "budgeted": 2.81
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.14,
+      "budgeted": 1.68
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 71110,
+      "budgetedPrev": 86988,
+      "revisedPrev": 84918,
+      "budgeted": 94387
+    },
+    "netReceipts": {
+      "actuals": 56198,
+      "budgetedPrev": 76776,
+      "revisedPrev": 73935,
+      "budgeted": 83101
+    },
+    "fiscalDeficit": {
+      "actuals": 14912,
+      "budgetedPrev": 10212,
+      "revisedPrev": 10983,
+      "budgeted": 11286
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 10147,
+      "budgetedPrev": 13596,
+      "revisedPrev": 12112,
+      "budgeted": 14220,
+      "changePct": 17
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 9521,
+      "budgetedPrev": 12899,
+      "revisedPrev": 11246,
+      "budgeted": 12711,
+      "changePct": 13
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 4784,
+      "budgetedPrev": 6624,
+      "revisedPrev": 6837,
+      "budgeted": 7287,
+      "changePct": 7
+    },
+    {
+      "name": "Police",
+      "actuals": 5510,
+      "budgetedPrev": 5971,
+      "revisedPrev": 6136,
+      "budgeted": 6532,
+      "changePct": 6
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 4070,
+      "budgetedPrev": 4445,
+      "revisedPrev": 5237,
+      "budgeted": 5630,
+      "changePct": 8
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 2160,
+      "budgetedPrev": 4990,
+      "revisedPrev": 4828,
+      "budgeted": 5054,
+      "changePct": 5
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 1295,
+      "budgetedPrev": 3387,
+      "revisedPrev": 1865,
+      "budgeted": 4072,
+      "changePct": 118
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 3489,
+      "budgetedPrev": 4018,
+      "revisedPrev": 3891,
+      "budgeted": 3840,
+      "changePct": -1
+    },
+    {
+      "name": "Energy",
+      "actuals": 2648,
+      "budgetedPrev": 2712,
+      "revisedPrev": 3549,
+      "budgeted": 3478,
+      "changePct": -2
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 2862,
+      "budgetedPrev": 2775,
+      "revisedPrev": 2590,
+      "budgeted": 2998,
+      "changePct": 16
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1933,
+      "text": "has been allocated for Samagra Shiksha"
+    },
+    {
+      "amount": 655,
+      "text": "has been allocated for Mid-Day Meal Programme"
+    },
+    {
+      "amount": 1300,
+      "text": "has been allocated for Mahatma Gandhi National Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 945,
+      "text": "has been allocated towards State Old Age Pension Scheme"
+    },
+    {
+      "amount": 3306,
+      "text": "and Rs 297 crore has been allocated for district police and village police, respectively"
+    },
+    {
+      "amount": 1467,
+      "text": "has been allocated for National Health Mission"
+    },
+    {
+      "amount": 372,
+      "text": "has been allocated for Paramparagat Krishi Vikas Yojana"
+    },
+    {
+      "amount": 3472,
+      "text": "has been allocated towards capital outlay on water supply and sanitation"
+    },
+    {
+      "amount": 1800,
+      "text": "has been allocated towards tariff subsidy scheme for consumers through Jharkhand Bijli Vitran Nigam Limited"
+    },
+    {
+      "amount": 360,
+      "text": "has been allocated for PMAY (Urban)"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 24850
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 13763
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 27007
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 17405
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 76
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/jharkhand-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/jharkhand/2022/Jharkhand%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

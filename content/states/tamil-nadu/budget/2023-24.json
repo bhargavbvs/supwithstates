@@ -1,0 +1,208 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 409147,
+    "netExpenditure": 365321,
+    "totalReceipts": 407192,
+    "netReceipts": 273246,
+    "borrowings": 133945,
+    "fiscalDeficit": 92075,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 37540
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3,
+      "budgeted": 3.25
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 1.23,
+      "budgeted": 1.33
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 294682,
+      "budgetedPrev": 333251,
+      "revisedPrev": 321325,
+      "budgeted": 365321
+    },
+    "netReceipts": {
+      "actuals": 212847,
+      "budgetedPrev": 236638,
+      "revisedPrev": 246800,
+      "budgeted": 273246
+    },
+    "fiscalDeficit": {
+      "actuals": 73739,
+      "budgetedPrev": 90114,
+      "revisedPrev": 74525,
+      "budgeted": 92075
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 38678,
+      "budgetedPrev": 43799,
+      "revisedPrev": 43517,
+      "budgeted": 49700,
+      "changePct": 14
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 24087,
+      "budgetedPrev": 16674,
+      "revisedPrev": 17498,
+      "budgeted": 26614,
+      "changePct": 52
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 21497,
+      "budgetedPrev": 21363,
+      "revisedPrev": 23374,
+      "budgeted": 22971,
+      "changePct": -2
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 14612,
+      "budgetedPrev": 17652,
+      "revisedPrev": 14854,
+      "budgeted": 18861,
+      "changePct": 27
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 19012,
+      "budgetedPrev": 17733,
+      "revisedPrev": 18065,
+      "budgeted": 18545,
+      "changePct": 3
+    },
+    {
+      "name": "Police",
+      "actuals": 8051,
+      "budgetedPrev": 9857,
+      "revisedPrev": 9869,
+      "budgeted": 10368,
+      "changePct": 5
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 8817,
+      "budgetedPrev": 9562,
+      "revisedPrev": 9713,
+      "budgeted": 9413,
+      "changePct": -3
+    },
+    {
+      "name": "Energy",
+      "actuals": 15584,
+      "budgetedPrev": 17433,
+      "revisedPrev": 17830,
+      "budgeted": 8426,
+      "changePct": -53
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 9827,
+      "budgetedPrev": 10396,
+      "revisedPrev": 10269,
+      "budgeted": 8331,
+      "changePct": -19
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 4695,
+      "budgetedPrev": 6785,
+      "revisedPrev": 6368,
+      "budgeted": 7755,
+      "changePct": 22
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 7000,
+      "text": "has been allocated towards the Magalir Urimai Thogai scheme, which provides cash transfer to women"
+    },
+    {
+      "amount": 6537,
+      "text": "has been allocated towards power subsidy for farmers. Rs 1,761 crore has been allocated towards crop insurance"
+    },
+    {
+      "amount": 17421,
+      "text": "has been allocated towards the capital outlay on roads and bridges"
+    },
+    {
+      "amount": 1416,
+      "text": "has been allocated towards Chief Minister’s Comprehensive Health Insurance Scheme"
+    },
+    {
+      "amount": 6722,
+      "text": "has been allocated towards subsidy to domestic consumers. Rs 1,523 crore has been allocated towards covering losses of TANGEDCO under UDAY scheme"
+    },
+    {
+      "amount": 2050,
+      "text": "has been allocated towards Chennai Metropolitan Development Authority"
+    },
+    {
+      "amount": 5071,
+      "text": "has been allocated towards the capital outlay on irrigation and flood control"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 181182
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 20224
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 41665
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 27445
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2731
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/tamil-nadu/2023/TN_Budget_Analysis_2023-24.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

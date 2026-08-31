@@ -1,0 +1,228 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 321030,
+    "netExpenditure": 260629,
+    "totalReceipts": 313191,
+    "netReceipts": 198232,
+    "borrowings": 114959,
+    "fiscalDeficit": 62397,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 28280
+    },
+    "gsdp": 1713154
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.48,
+      "budgeted": 3.64
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.15,
+      "budgeted": 1.65
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 193232,
+      "budgetedPrev": 247685,
+      "revisedPrev": 229634,
+      "budgeted": 260629
+    },
+    "netReceipts": {
+      "actuals": 148544,
+      "budgetedPrev": 186821,
+      "revisedPrev": 176202,
+      "budgeted": 198232
+    },
+    "fiscalDeficit": {
+      "actuals": 44688,
+      "budgetedPrev": 60864,
+      "revisedPrev": 53432,
+      "budgeted": 62397
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 35873,
+      "budgetedPrev": 43195,
+      "revisedPrev": 38440,
+      "budgeted": 43466,
+      "changePct": 13
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 15822,
+      "budgetedPrev": 37868,
+      "revisedPrev": 36770,
+      "budgeted": 36448,
+      "changePct": -1
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 19080,
+      "budgetedPrev": 20053,
+      "revisedPrev": 14083,
+      "budgeted": 22236,
+      "changePct": 58
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 12831,
+      "budgetedPrev": 16576,
+      "revisedPrev": 16229,
+      "budgeted": 17786,
+      "changePct": 10
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 5011,
+      "budgetedPrev": 12936,
+      "revisedPrev": 8944,
+      "budgeted": 12709,
+      "changePct": 42
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 7469,
+      "budgetedPrev": 11320,
+      "revisedPrev": 9725,
+      "budgeted": 11606,
+      "changePct": 19
+    },
+    {
+      "name": "Police",
+      "actuals": 8923,
+      "budgetedPrev": 9503,
+      "revisedPrev": 10068,
+      "budgeted": 10410,
+      "changePct": 3
+    },
+    {
+      "name": "Transport",
+      "actuals": 4859,
+      "budgetedPrev": 6878,
+      "revisedPrev": 6165,
+      "budgeted": 6843,
+      "changePct": 11
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 3599,
+      "budgetedPrev": 5966,
+      "revisedPrev": 4657,
+      "budgeted": 6581,
+      "changePct": 41
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 2725,
+      "budgetedPrev": 5075,
+      "revisedPrev": 3548,
+      "budgeted": 5321,
+      "changePct": 50
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1930,
+      "text": "has been allocated towards mid-day meal scheme"
+    },
+    {
+      "amount": 2117,
+      "text": "has been allocated towards Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 1048,
+      "text": "and Rs 331 crore has been allocated towards old age pension scheme for SCs and STs"
+    },
+    {
+      "amount": 1560,
+      "text": "has been allocated towards MGNREGS"
+    },
+    {
+      "amount": 5832,
+      "text": "has been allocated towards Pradhan Mantri Awas Yojana – Gramin"
+    },
+    {
+      "amount": 2263,
+      "text": "has been allocated towards capital outlay on medical and public health"
+    },
+    {
+      "amount": 4994,
+      "text": "has been allocated towards Krishak Bandhu scheme"
+    },
+    {
+      "amount": 825,
+      "text": "has been allocated towards Housing for All scheme"
+    },
+    {
+      "amount": 6302,
+      "text": "has been allocated towards district police. Rs 232 crore has been allocated towards special police"
+    },
+    {
+      "amount": 4165,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 143,
+      "text": "has been allocated towards the Board of Wakfs, West Bengal"
+    },
+    {
+      "amount": 3857,
+      "text": "has been allocated towards capital outlay on Irrigation and flood control"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 79347
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 6672
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 61437
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 50592
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 185
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/west-bengal-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/west-bengal/2022/West%20Bengal%20Budget%20Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

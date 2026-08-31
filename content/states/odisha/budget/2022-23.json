@@ -1,0 +1,220 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 200000,
+    "netExpenditure": 185999,
+    "totalReceipts": 189000,
+    "netReceipts": 164411,
+    "borrowings": 24589,
+    "fiscalDeficit": 21588,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 18239
+    },
+    "gsdp": null
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 0.38,
+      "budgeted": 3
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 3.29,
+      "budgeted": 2.54
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 114857,
+      "budgetedPrev": 146479,
+      "revisedPrev": 145246,
+      "budgeted": 185999
+    },
+    "netReceipts": {
+      "actuals": 105071,
+      "budgetedPrev": 126014,
+      "revisedPrev": 142791,
+      "budgeted": 164411
+    },
+    "fiscalDeficit": {
+      "actuals": 9786,
+      "budgetedPrev": 20465,
+      "revisedPrev": 2455,
+      "budgeted": 21588
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 17824,
+      "budgetedPrev": 21591,
+      "revisedPrev": 22241,
+      "budgeted": 24994,
+      "changePct": 12
+    },
+    {
+      "name": "Transport",
+      "actuals": 8928,
+      "budgetedPrev": 12007,
+      "revisedPrev": 9424,
+      "budgeted": 15509,
+      "changePct": 65
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 11361,
+      "budgetedPrev": 10850,
+      "revisedPrev": 12238,
+      "budgeted": 14298,
+      "changePct": 17
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 7875,
+      "budgetedPrev": 9340,
+      "revisedPrev": 11383,
+      "budgeted": 12490,
+      "changePct": 10
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 8892,
+      "budgetedPrev": 10705,
+      "revisedPrev": 10897,
+      "budgeted": 12128,
+      "changePct": 11
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 8092,
+      "budgetedPrev": 9709,
+      "revisedPrev": 10690,
+      "budgeted": 11341,
+      "changePct": 6
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 4480,
+      "budgetedPrev": 10686,
+      "revisedPrev": 10024,
+      "budgeted": 11048,
+      "changePct": 10
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 4794,
+      "budgetedPrev": 8300,
+      "revisedPrev": 7851,
+      "budgeted": 10896,
+      "changePct": 39
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 2554,
+      "budgetedPrev": 2209,
+      "revisedPrev": 1931,
+      "budgeted": 4580,
+      "changePct": 137
+    },
+    {
+      "name": "Police",
+      "actuals": 3359,
+      "budgetedPrev": 4141,
+      "revisedPrev": 4419,
+      "budgeted": 4360,
+      "changePct": -1
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 3581,
+      "text": "has been allocated towards Samagra Shiksha Abhiyan. Mo School Abhiyan and Odisha Adarsh Vidyalaya programme has been allocated Rs 646 crore and Rs 420 crore, respectively"
+    },
+    {
+      "amount": 11484,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 5906,
+      "text": "has been allocated towards Pradhan Mantri Awas Yojana-Gramin. Rs 1,550 crore has been allocated towards Pradhan Mantri Gram Sadak Yojana"
+    },
+    {
+      "amount": 2664,
+      "text": "has been allocated towards the Biju Swasthya Kalyan Yojana. Rs 2,156 crore has been allocated towards National Health Mission"
+    },
+    {
+      "amount": 1874,
+      "text": "has been allocated towards the KALIA (Krushak Assistance for Livelihood and Income Augmentation) scheme. Rs 893 crore has been allocated towards interest subvention for farmers"
+    },
+    {
+      "amount": 2397,
+      "text": "has been allocated for the Saksham Anganwadi and Poshan 2.0 scheme. Rs 2,017 crore has been allocated towards Madhubabu Pension Yojana"
+    },
+    {
+      "amount": 6000,
+      "text": "has been allocated towards the Jal Jeevan Mission. Rs 1,850 crore has been allocated towards the BASUDHA scheme to provide potable water to rural areas"
+    },
+    {
+      "amount": 7882,
+      "text": "has been allocated towards capital outlay on irrigation projects"
+    },
+    {
+      "amount": 601,
+      "text": "has been allocated towards the AMRUT scheme. Rs 334 crore has been allocated towards new city development"
+    },
+    {
+      "amount": 2038,
+      "text": "has been allocated to the district police"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 46000
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 48200
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 36978
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 32789
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 444
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/odisha-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/odisha/2022/Odisha_Budget_Analysis_2022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

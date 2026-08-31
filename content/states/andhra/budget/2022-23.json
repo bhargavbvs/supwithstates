@@ -8,7 +8,10 @@
     "netReceipts": 191262,
     "borrowings": 64816,
     "fiscalDeficit": 48724,
-    "revenueDeficit": 17036,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 17036
+    },
     "gsdp": 1338575
   },
   "fiscal": {
@@ -16,7 +19,8 @@
       "revisedPrev": 3.18,
       "budgeted": 3.64
     },
-    "revenueDeficit": {
+    "revenueBalance": {
+      "kind": "deficit",
       "revisedPrev": 1.63,
       "budgeted": 1.27
     },
@@ -70,7 +74,7 @@
       "changePct": 80
     },
     {
-      "name": "Education, Sports, Arts,",
+      "name": "Education, Sports, Arts, and Culture",
       "actuals": 24206,
       "budgetedPrev": 27212,
       "revisedPrev": 25882,
@@ -78,7 +82,7 @@
       "changePct": 17
     },
     {
-      "name": "and Culture Rural Development",
+      "name": "Rural Development",
       "actuals": 14452,
       "budgetedPrev": 14943,
       "revisedPrev": 11832,
@@ -216,6 +220,10 @@
     {
       "name": "Grants-in-aid from Centre",
       "budgeted": 56033
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 37
     }
   ],
   "source": {

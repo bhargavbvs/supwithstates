@@ -1,0 +1,244 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 389194,
+    "netExpenditure": 341462,
+    "totalReceipts": 379056,
+    "netReceipts": 268284,
+    "borrowings": 110772,
+    "fiscalDeficit": 73178,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 35315
+    },
+    "gsdp": 2031805
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4,
+      "budgeted": 3.6
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.4,
+      "budgeted": 1.7
+    },
+    "outstandingDebtPctGsdp": 38,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 255717,
+      "budgetedPrev": 304689,
+      "revisedPrev": 300831,
+      "budgeted": 341462
+    },
+    "netReceipts": {
+      "actuals": 201724,
+      "budgetedPrev": 236438,
+      "revisedPrev": 227813,
+      "budgeted": 268284
+    },
+    "fiscalDeficit": {
+      "actuals": 53993,
+      "budgetedPrev": 68250,
+      "revisedPrev": 73018,
+      "budgeted": 73178
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 39140,
+      "budgetedPrev": 47470,
+      "revisedPrev": 49277,
+      "budgeted": 50559,
+      "changePct": 3
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 31543,
+      "budgetedPrev": 44834,
+      "revisedPrev": 42476,
+      "budgeted": 47234,
+      "changePct": 11
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 16979,
+      "budgetedPrev": 22620,
+      "revisedPrev": 22225,
+      "budgeted": 23283,
+      "changePct": 5
+    },
+    {
+      "name": "Housing",
+      "actuals": 499,
+      "budgetedPrev": 7333,
+      "revisedPrev": 9442,
+      "budgeted": 22810,
+      "changePct": 142
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 17226,
+      "budgetedPrev": 20053,
+      "revisedPrev": 22493,
+      "budgeted": 21939,
+      "changePct": -2
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 18166,
+      "budgetedPrev": 18892,
+      "revisedPrev": 13213,
+      "budgeted": 14227,
+      "changePct": 8
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 8040,
+      "budgetedPrev": 5052,
+      "revisedPrev": 7676,
+      "budgeted": 13772,
+      "changePct": 79
+    },
+    {
+      "name": "Police",
+      "actuals": 10135,
+      "budgetedPrev": 10984,
+      "revisedPrev": 11341,
+      "budgeted": 12281,
+      "changePct": 8
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 10442,
+      "budgetedPrev": 12198,
+      "revisedPrev": 10640,
+      "budgeted": 12138,
+      "changePct": 14
+    },
+    {
+      "name": "Transport",
+      "actuals": 8009,
+      "budgetedPrev": 7437,
+      "revisedPrev": 6972,
+      "budgeted": 9287,
+      "changePct": 33
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 19343,
+      "text": "has been allocated for assistance to non-government secondary schools"
+    },
+    {
+      "amount": 9799,
+      "text": "has been allocated for assistance to non-government primary schools"
+    },
+    {
+      "amount": 26700,
+      "text": "has been allocated for Lakshmir Bhandar"
+    },
+    {
+      "amount": 2102,
+      "text": "has been allocated for old age pension under Jai Bangla"
+    },
+    {
+      "amount": 5782,
+      "text": "has been allocated for financial support to Krishak Bandhu"
+    },
+    {
+      "amount": 5715,
+      "text": "has been allocated for food subsidies"
+    },
+    {
+      "amount": 15457,
+      "text": "has been allocated for Banglar Bari (Gramin)"
+    },
+    {
+      "amount": 6996,
+      "text": "has been allocated for Urban Health Services – Allopathy"
+    },
+    {
+      "amount": 3118,
+      "text": "has been allocated for Rural Health Services – Allopathy"
+    },
+    {
+      "amount": 5351,
+      "text": "has been allocated for assistance to various panchayats"
+    },
+    {
+      "amount": 4746,
+      "text": "has been allocated for rural employment guarantee schemes"
+    },
+    {
+      "amount": 10294,
+      "text": "has been allocated for capital outlay on water supply and sanitation"
+    },
+    {
+      "amount": 8240,
+      "text": "has been allocated for district police"
+    },
+    {
+      "amount": 3743,
+      "text": "has been allocated for assistance to municipalities/municipal councils"
+    },
+    {
+      "amount": 2893,
+      "text": "has been allocated for assistance to local bodies corporations, urban development authorities, and town improvement boards"
+    },
+    {
+      "amount": 5864,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 112544
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 9360
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 106999
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 37158
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 2224
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/west-bengal-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/west-bengal/2025/West_Bengal_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

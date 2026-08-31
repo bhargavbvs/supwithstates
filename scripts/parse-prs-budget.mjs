@@ -48,8 +48,13 @@ async function pdfUrl() {
   if (!hit) throw new Error(`no PDF linked on ${page}`);
   const href = hit[1].startsWith('http') ? hit[1] : `https://prsindia.org${hit[1]}`;
   // Some of these filenames carry a space — "Andhra Pradesh_Budget_Analysis
-  // 2022-23.pdf" — which fetch will not send unencoded.
-  return { page, pdf: href.replace(/ /g, '%20') };
+  // 2022-23.pdf" — which fetch will not send unencoded. And the href comes
+  // out of HTML, so its entities are still escaped: Jammu & Kashmir's file
+  // is linked as "J&amp;K_Budget_Analysis_2025-26.pdf", and fetching that
+  // literally returned a 404 page that then got cached as if it were the
+  // PDF — pdftotext called it "may not be a PDF file" a step later.
+  const decoded = href.replace(/&amp;/g, '&').replace(/&#0?39;/g, "'");
+  return { page, pdf: decoded.replace(/ /g, '%20') };
 }
 
 // "2025-26" -> the three columns the table carries, oldest first.
@@ -72,9 +77,17 @@ const text = execFileSync('pdftotext', ['-layout', file, '-']).toString();
 const lines = text.split('\n');
 
 /** The lines of one table, from its caption to its Sources: footer. */
+// Found by what a table is called, not by its number. Jammu & Kashmir
+// carries an extra "Committed Expenditure" table ahead of the others, so
+// its sectors are Table 5 and its receipts Table 6 where every other state
+// has them at 4 and 5 — reading by number there read the wrong tables and
+// still produced figures, which is the worst kind of wrong.
 function table(caption) {
-  const start = lines.findIndex((l) => l.trim().startsWith(caption));
-  if (start < 0) throw new Error(`${SLUG}: "${caption}" not in the PDF`);
+  const want = caption instanceof RegExp ? caption : null;
+  const start = want
+    ? lines.findIndex((l) => /^\s*Table \d+:/.test(l) && want.test(l))
+    : lines.findIndex((l) => l.trim().startsWith(caption));
+  if (start < 0) throw new Error(`${SLUG}: no table captioned ${caption} in the PDF`);
   const end = lines.findIndex((l, i) => i > start && /^\s*(Sources?|Note):/i.test(l));
   return lines.slice(start + 1, end < 0 ? start + 40 : end);
 }
@@ -89,24 +102,65 @@ function row(rows, label) {
   // Repayment of debt" has none, but "Share in Central Taxes" could — can
   // never be mistaken for a figure.
   const at = line.toLowerCase().indexOf(label.toLowerCase());
-  return (line.slice(at + label.length).match(/-?[\d,]+\.?\d*%?/g) ?? []).map(num);
+  // A dash is an empty cell, and it has to be counted as one. Dropping it
+  // collapsed the row and shifted every later figure a column left: Sikkim
+  // writes "-" where the other states write a percentage, so its GSDP came
+  // back as 8 — the trailing growth figure — instead of 57,000, and the
+  // deficit check caught it as 41,287% of GSDP. Matched as a placeholder,
+  // num() turns it into the null it is and the columns stay put.
+  return (line.slice(at + label.length)
+    .match(/-?[\d,]+\.?\d*%?|(?<=\s)-(?=\s|$)/g) ?? []).map(num);
 }
 
 // ---- Table 1: what the state takes in and what it spends ---------------
-const t1 = table('Table 1:');
+const t1 = table(/key figures/i);
 const pick = (label, i) => (row(t1, label) ?? [])[i] ?? null;
 const series = (label) => {
   const r = row(t1, label) ?? [];
   return { actuals: r[0] ?? null, budgetedPrev: r[1] ?? null, revisedPrev: r[2] ?? null, budgeted: r[4] ?? null };
 };
+// This row is labelled three different ways across the states, and the
+// third states its meaning in the sign rather than in the word. Andhra has
+// a "Revenue Deficit", Odisha a "Revenue Surplus", and Bihar, Chhattisgarh,
+// Mizoram and Assam a signed "Revenue Balance" — where Chhattisgarh's own
+// footnote reads "Negative revenue balance indicates revenue deficit,
+// positive indicates surplus".
+//
+// So the label alone cannot be trusted to say which way a state is
+// running. Reading a Revenue Balance row as a deficit would have printed
+// Bihar's Rs 8,831 crore surplus as a shortfall of the same size — an
+// inversion, not a rounding error. The kind is taken from the sign where
+// the sign is what carries it, and the magnitude is kept unsigned.
+// The deficit row carries a sign convention in its label, and the two
+// conventions are opposites. Most states write "Fiscal Deficit (E-R)",
+// where a positive figure is a deficit; Delhi writes "Fiscal Balance
+// (R-E)", where a deficit is negative. Reading the figure without its
+// formula turned Delhi's Rs 6,565 crore shortfall into a surplus of the
+// same size, so the formula printed in the label decides the sign.
+const fiscalRow = ['Fiscal Deficit', 'Fiscal Balance', 'Fiscal Surplus'].find((l) => row(t1, l)) ?? null;
+const fiscalLine = fiscalRow
+  ? (t1.find((l) => l.trim().toLowerCase().startsWith(fiscalRow.toLowerCase())) ?? '') : '';
+const deficitSign = /\(\s*R\s*-\s*E\s*\)/i.test(fiscalLine) ? -1 : 1;
+const signed = (v) => (v == null ? null : v * deficitSign);
+
+const revenueRow = ['Revenue Deficit', 'Revenue Surplus', 'Revenue Balance']
+  .find((l) => row(t1, l)) ?? null;
+const revenueRaw = revenueRow ? (row(t1, revenueRow) ?? [])[4] ?? null : null;
+const revenueKind = !revenueRow ? null
+  : revenueRow === 'Revenue Deficit' ? 'deficit'
+    : revenueRow === 'Revenue Surplus' ? 'surplus'
+      : revenueRaw == null ? null
+        : revenueRaw > 0 ? 'surplus' : revenueRaw < 0 ? 'deficit' : 'balance';
+
 const headline = {
   totalExpenditure: pick('Total Expenditure', 4),
   netExpenditure: pick('Net Expenditure', 4),
   totalReceipts: pick('Total Receipts', 4),
   netReceipts: pick('Net Receipts', 4),
   borrowings: pick('(-) Borrowings', 4),
-  fiscalDeficit: pick('Fiscal Deficit', 4),
-  revenueDeficit: pick('Revenue Deficit', 4),
+  fiscalDeficit: fiscalRow ? signed((row(t1, fiscalRow) ?? [])[4] ?? null) : null,
+  revenueBalance: !revenueRow ? null
+    : { kind: revenueKind, amount: revenueRaw == null ? null : Math.abs(revenueRaw) },
   // A row in the recent template, a sentence in the older one.
   gsdp: pick('GSDP', 4) ?? (() => {
     const m = text.replace(/\s+/g, ' ')
@@ -123,7 +177,7 @@ function pctUnder(label) {
   if (i < 0) return null;
   const next = t1[i + 1] ?? '';
   if (!/as % of GSDP/i.test(next)) return null;
-  const figures = (next.match(/[\d.]+%/g) ?? []).map((v) => Number(v.replace('%', '')));
+  const figures = (next.match(/-?[\d.]+%/g) ?? []).map((v) => Number(v.replace('%', '')));
   return { revisedPrev: figures[2] ?? null, budgeted: figures[3] ?? null };
 }
 
@@ -139,9 +193,23 @@ const fiscalDeficitCeilingPctGsdp = Number(
   prose.match(/permitted fiscal deficit of up to ([\d.]+)% of GSDP/i)?.[1] ?? NaN,
 );
 
+const revenuePct = (() => {
+  const fromTable = revenueRow ? pctUnder(revenueRow) : null;
+  if (fromTable?.budgeted != null) return fromTable;
+  if (revenueKind === 'balance') return { revisedPrev: null, budgeted: 0 };
+  const m = prose.match(new RegExp(
+    `revenue (?:surplus|deficit) in ${YEAR} is estimated to be ([\\d.]+)% of GSDP`, 'i'))
+    ?? prose.match(new RegExp(
+      `estimates? a revenue (?:surplus|deficit) of ([\\d.]+)% of GSDP[^.]*?in ${YEAR}`, 'i'));
+  return m ? { revisedPrev: null, budgeted: Number(m[1]) } : {};
+})();
+
 const fiscal = {
-  fiscalDeficit: pctUnder('Fiscal Deficit'),
-  revenueDeficit: pctUnder('Revenue Deficit'),
+  fiscalDeficit: !fiscalRow ? null : (() => {
+    const p = pctUnder(fiscalRow);
+    return p && { revisedPrev: signed(p.revisedPrev), budgeted: signed(p.budgeted) };
+  })(),
+  revenueBalance: !revenueRow ? null : { kind: revenueKind, ...revenuePct },
   outstandingDebtPctGsdp: Number.isFinite(outstandingDebtPctGsdp) ? outstandingDebtPctGsdp : null,
   fiscalDeficitCeilingPctGsdp: Number.isFinite(fiscalDeficitCeilingPctGsdp)
     ? fiscalDeficitCeilingPctGsdp : null,
@@ -152,7 +220,8 @@ const fiscal = {
 const overYears = {
   netExpenditure: series('Net Expenditure'),
   netReceipts: series('Net Receipts'),
-  fiscalDeficit: series('Fiscal Deficit'),
+  fiscalDeficit: !fiscalRow ? { actuals: null, budgetedPrev: null, revisedPrev: null, budgeted: null }
+    : Object.fromEntries(Object.entries(series(fiscalRow)).map(([k, v]) => [k, signed(v)])),
 };
 
 // ---- Table 4: where it goes -------------------------------------------
@@ -171,7 +240,7 @@ const overYears = {
 // money to the wrong purpose. They are collected as what they are: the
 // named allocations this budget makes, in the order the document gives
 // them.
-const t4 = table('Table 4:');
+const t4 = table(/sector-wise expenditure/i);
 
 // The columns move between years. In the 2025-26 template the sector name
 // runs to column 28 and the scheme bullets start at 90; in 2023-24 both
@@ -200,15 +269,33 @@ const FIGURES_END = bulletAts.length ? Math.min(...bulletAts) : 200;
 // last sector, plus the fragment on the following line when there is one.
 // Where the name is short enough to share its line with the figures, the
 // next line's left column is empty and nothing is taken from it.
-// The layout truncates its own headings — "Actuals" arrives as "Actua" —
-// so these match on the stem rather than the whole word.
-const HEADER = /^(sector|actua|budget|% of total|expenditure on all|items?$)/i;
+// The layout truncates its own headings at whatever column the name box
+// ends, so "Actuals" arrives as "Actua" in one state and "Ac" in another,
+// and the footer label wraps so its tail "on all sectors" lands in the
+// name column looking like a sector carrying 57 where a sector carries
+// crore. Rather than guess at stems, anything that is a prefix of one of
+// the table's own headings — or begins with one — is treated as heading.
+const HEAD_WORDS = ['sectors', 'sector', 'actuals', 'budgeted', 'revised', 'items', 'item',
+  'demand', '% of total', 'expenditure on all', 'on all sectors', 'on all'];
+const HEADER = {
+  test(t) {
+    const v = String(t ?? '').trim().toLowerCase();
+    if (!v) return false;
+    return HEAD_WORDS.some((w) => w.startsWith(v) || v.startsWith(w));
+  },
+};
 const nameAt = (l) => (l ?? '').slice(0, NAME_END).trim();
 const figuresAt = (l) => ((l ?? '').slice(NAME_END, FIGURES_END).match(/-?[\d,]+%?/g) ?? []).map(num);
 
+// A name that breaks off mid-phrase — on a comma, or on "and"/"of"/"&" —
+// is still waiting for its next line.
+const INCOMPLETE = /(?:,|\band|\bof|&|-)\s*$/i;
+
 const sectors = [];
+const consumed = new Set();
 let pending = [];
 for (let i = 0; i < t4.length; i += 1) {
+  if (consumed.has(i)) continue;
   const figures = figuresAt(t4[i]);
   const here = nameAt(t4[i]);
   if (figures.length < 4) {
@@ -220,8 +307,54 @@ for (let i = 0; i < t4.length; i += 1) {
     continue;
   }
   const parts = [...pending, here];
-  const next = nameAt(t4[i + 1]);
-  if (next && !HEADER.test(next)) { parts.push(next); i += 1; }
+  // The tail of a wrapped name is not reliably on the next line. Kerala
+  // prints the scheme column between the two halves —
+  //
+  //   Education,
+  //                     ▪ Rs 3,149 crore has been …
+  //   Sports, Arts,     22,373  24,256  23,597  26,398  12%
+  //                     ▪ Rs 644 crore has been …
+  //   and Culture
+  //
+  // — so looking only one line down lost "and Culture" and published a
+  // sector called "Education, Sports, Arts,". Looking further down without
+  // a stopping rule does the opposite: the smaller states write each
+  // sector complete on its own line, and the next non-empty line there is
+  // the NEXT sector, which is how Nagaland ended up with "Education,
+  // Sports, Arts, and Culture Police" and lost Police's money entirely.
+  //
+  // So a tail is only sought when the name is visibly unfinished: it began
+  // on an earlier line, or it breaks off on a comma or a conjunction. A
+  // name that reads as complete takes nothing from below it.
+  const joined = (ps) => ps.filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
+  // What separates a tail from the next sector is the blank line. Kerala
+  // prints the scheme column between the halves of a name, so the line
+  // between them is not empty — it carries a bullet. Uttarakhand ends a
+  // sector's block with genuinely empty lines before the next one starts.
+  // So the scan steps over a line that still has scheme text on it and
+  // stops dead at one with nothing on it at all. Neither test alone was
+  // enough: requiring an unfinished-looking name truncated "Health and
+  // Family" (its "Welfare" reads as complete), and allowing any wrapped
+  // name to look downwards walked Uttarakhand into the next sector.
+  let want = pending.length > 0 || INCOMPLETE.test(joined(parts));
+  // And no further than two lines. Uttarakhand's scheme column prints on
+  // every line between sectors, so "stop at a blank line" never fired
+  // there and the scan reached the next sector's name four lines down —
+  // which put Social Welfare's money under a label reading "and Nutrition
+  // Health and". A real tail sits directly under its figures, one line
+  // down, or two when the scheme column takes the line between.
+  for (let j = i + 1; want && j < t4.length && j <= i + 2; j += 1) {
+    if (figuresAt(t4[j]).length >= 4) break;
+    const tail = nameAt(t4[j]);
+    if (!tail) {
+      if (!t4[j].trim()) break;
+      continue;
+    }
+    if (HEADER.test(tail) || /\d/.test(tail)) break;
+    parts.push(tail);
+    consumed.add(j);
+    want = INCOMPLETE.test(joined(parts));
+  }
   pending = [];
 
   const name = parts.filter(Boolean).join(' ').replace(/\s+/g, ' ').trim();
@@ -267,11 +400,20 @@ const namedAllocations = provisions
   }));
 
 // ---- Table 5: where the money comes from -------------------------------
-const t5 = table('Table 5:');
+const t5 = table(/break-?up of the state/i);
 // The grants row is "Grants-in-aid from Centre" in one year and "Grants
 // from Centre" in another, so each source is found by the shortest form
 // that identifies it and keeps whichever wording the document used.
-const RECEIPT_ROWS = ["State's Own Tax", "State's Own Non-Tax", 'Share in Central Taxes', 'Grants'];
+//
+// Non-debt capital receipts belong here too. The four revenue rows sum to
+// Revenue Receipts, not to Net Receipts, and the difference is whatever the
+// state raises by selling assets or recovering loans. For Andhra that is
+// Rs 26 crore and the check passed on its 5% tolerance; for Gujarat it is
+// Rs 22,000 crore of disinvestment — 8% of the state's money, which the
+// page would have shown as coming from nowhere. Carried, so the sources
+// add up to the "money it has" side of the bar.
+const RECEIPT_ROWS = ["State's Own Tax", "State's Own Non-Tax", 'Share in Central Taxes', 'Grants',
+  'Non-debt Capital Receipts'];
 const receipts = RECEIPT_ROWS.map((label) => {
   const line = t5.find((l) => l.trim().toLowerCase().startsWith(label.toLowerCase()));
   if (!line) return null;
@@ -281,8 +423,18 @@ const receipts = RECEIPT_ROWS.map((label) => {
 
 // ---- Refuse to write something that does not add up --------------------
 const problems = [];
-for (const [k, v] of Object.entries(headline)) if (v == null) problems.push(`headline.${k} missing`);
+const OPTIONAL_HEADLINE = new Set(['gsdp']);
+for (const [k, v] of Object.entries(headline)) {
+  if (v == null && !OPTIONAL_HEADLINE.has(k)) problems.push(`headline.${k} missing`);
+}
 if (sectors.length < 6) problems.push(`only ${sectors.length} sectors parsed`);
+if (headline.fiscalDeficit != null && headline.fiscalDeficit < 0) {
+  problems.push(`fiscal deficit is negative (${headline.fiscalDeficit}) — a budgeted surplus, `
+    + 'which the "money it has / borrowed" bar cannot show');
+}
+if (headline.revenueBalance && headline.revenueBalance.amount == null) {
+  problems.push('headline.revenueBalance has no figure');
+}
 for (const s of sectors) {
   if (s.budgeted == null) problems.push(`${s.name} has no ${YEAR} figure`);
   if (s.name.split(' ').length > 8) problems.push(`"${s.name}" reads like two sectors run together`);
@@ -296,13 +448,33 @@ const share = sectorSum / headline.netExpenditure;
 if (!(share > 0.4 && share < 0.95)) {
   problems.push(`sectors sum to ${Math.round(share * 100)}% of net expenditure — expected 40-95%`);
 }
-if (fiscal.fiscalDeficit?.budgeted != null) {
+if (fiscal.fiscalDeficit?.budgeted != null && headline.gsdp != null) {
   const implied = (headline.fiscalDeficit / headline.gsdp) * 100;
   if (Math.abs(implied - fiscal.fiscalDeficit.budgeted) > 0.3) {
     problems.push(`fiscal deficit is ${fiscal.fiscalDeficit.budgeted}% of GSDP in the table but `
       + `${implied.toFixed(1)}% by its own figures`);
   }
 }
+// What it spends is what it has plus what it borrows — but only where the
+// document defines the deficit that way. The label prints its own formula
+// and three appear across the states: "(E-R)" and Delhi's "(R-E)" are the
+// identity, while Chhattisgarh's "(E-R-F)" subtracts a third term and does
+// not balance against two. Tamil Nadu's does not balance either, for the
+// reason its own footnote gives — borrowings there include the back-to-back
+// GST compensation loan, which the deficit excludes. Checked where it is
+// meant to hold, skipped where the document says it will not.
+const identityHolds = ['E-R', 'R-E'].includes(
+  (fiscalLine.match(/\(([ERF\s+-]+)\)/i)?.[1] ?? '').replace(/\s/g, '').toUpperCase(),
+) && !/back-to-back loan in lieu of GST compensation/i.test(prose);
+if (identityHolds && headline.netReceipts != null && headline.fiscalDeficit != null) {
+  const gap = Math.abs(headline.netReceipts + headline.fiscalDeficit - headline.netExpenditure);
+  if (gap / headline.netExpenditure > 0.01) {
+    problems.push(`net receipts ${headline.netReceipts} + fiscal deficit ${headline.fiscalDeficit} `
+      + `= ${headline.netReceipts + headline.fiscalDeficit}, but net expenditure is `
+      + `${headline.netExpenditure}`);
+  }
+}
+
 const receiptSum = receipts.reduce((a, r) => a + r.budgeted, 0);
 if (Math.abs(receiptSum - headline.netReceipts) / headline.netReceipts > 0.05) {
   problems.push(`receipts sum to ${receiptSum} against net receipts ${headline.netReceipts}`);

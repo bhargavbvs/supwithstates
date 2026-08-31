@@ -1,0 +1,232 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 291159,
+    "netExpenditure": 274058,
+    "totalReceipts": 286915,
+    "netReceipts": 224802,
+    "borrowings": 62112,
+    "fiscalDeficit": 49255,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 297
+    },
+    "gsdp": 1647324
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.4,
+      "budgeted": 3
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": 0.1,
+      "budgeted": 0
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 192536,
+      "budgetedPrev": 277690,
+      "revisedPrev": 218498,
+      "budgeted": 274058
+    },
+    "netReceipts": {
+      "actuals": 159979,
+      "budgetedPrev": 239455,
+      "revisedPrev": 169126,
+      "budgeted": 224802
+    },
+    "fiscalDeficit": {
+      "actuals": 32557,
+      "budgetedPrev": 38235,
+      "revisedPrev": 49373,
+      "budgeted": 49255
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 18825,
+      "budgetedPrev": 29164,
+      "revisedPrev": 29834,
+      "budgeted": 51463,
+      "changePct": 73
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 11783,
+      "budgetedPrev": 33075,
+      "revisedPrev": 10381,
+      "budgeted": 23026,
+      "changePct": 122
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 14837,
+      "budgetedPrev": 19416,
+      "revisedPrev": 16229,
+      "budgeted": 22085,
+      "changePct": 36
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 17728,
+      "budgetedPrev": 18955,
+      "revisedPrev": 19426,
+      "budgeted": 21801,
+      "changePct": 12
+    },
+    {
+      "name": "Energy",
+      "actuals": 17679,
+      "budgetedPrev": 12125,
+      "revisedPrev": 15945,
+      "budgeted": 16254,
+      "changePct": 2
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 8581,
+      "budgetedPrev": 11169,
+      "revisedPrev": 27566,
+      "budgeted": 12408,
+      "changePct": -55
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 8330,
+      "budgetedPrev": 12378,
+      "revisedPrev": 9441,
+      "budgeted": 11800,
+      "changePct": 25
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 4285,
+      "budgetedPrev": 6999,
+      "revisedPrev": 4093,
+      "budgeted": 10670,
+      "changePct": 161
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 7985,
+      "budgetedPrev": 8947,
+      "revisedPrev": 7241,
+      "budgeted": 10245,
+      "changePct": 41
+    },
+    {
+      "name": "Police",
+      "actuals": 8427,
+      "budgetedPrev": 9023,
+      "revisedPrev": 9303,
+      "budgeted": 8972,
+      "changePct": -4
+    },
+    {
+      "name": "Transport",
+      "actuals": 3061,
+      "budgetedPrev": 10060,
+      "revisedPrev": 3967,
+      "budgeted": 8911,
+      "changePct": 125
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 15470,
+      "text": "has been allocated for debt relief for farmers"
+    },
+    {
+      "amount": 2000,
+      "text": "has been allocated to the CM Dalit Empowerment Programme"
+    },
+    {
+      "amount": 7376,
+      "text": "has been allocated to Aasara pensions"
+    },
+    {
+      "amount": 11547,
+      "text": "has been allocated for assistance to local bodies for primary and secondary education"
+    },
+    {
+      "amount": 1825,
+      "text": "has been allocated to the Gruha Jyoti scheme"
+    },
+    {
+      "amount": 1676,
+      "text": "has been allocated to the Kaleshwaram Project"
+    },
+    {
+      "amount": 696,
+      "text": "has been allocated to the Aarogyasri Healthcare Trust"
+    },
+    {
+      "amount": 1500,
+      "text": "has been allocated to the Musi Riverfront Development"
+    },
+    {
+      "amount": 1773,
+      "text": "has been allocated to the MGNREGS"
+    },
+    {
+      "amount": 4228,
+      "text": "has been allocated to district police"
+    },
+    {
+      "amount": 3083,
+      "text": "has been allocated for the Mahalakshmi scheme"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 138181
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 35208
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 26216
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 21636
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 3560
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/telangana-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/telangana/2024/State_Budget_Analysis-2024-25_Telangana.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

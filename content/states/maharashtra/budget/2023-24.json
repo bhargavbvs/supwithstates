@@ -1,0 +1,200 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 602008,
+    "netExpenditure": 547450,
+    "totalReceipts": 583156,
+    "netReceipts": 451949,
+    "borrowings": 131207,
+    "fiscalDeficit": 95501,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 16122
+    },
+    "gsdp": 3879792
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 2.7,
+      "budgeted": 2.5
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 0.6,
+      "budgeted": 0.4
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 398792,
+      "budgetedPrev": 495405,
+      "revisedPrev": 528286,
+      "budgeted": 547450
+    },
+    "netReceipts": {
+      "actuals": 334490,
+      "budgetedPrev": 405806,
+      "revisedPrev": 433304,
+      "budgeted": 451949
+    },
+    "fiscalDeficit": {
+      "actuals": 64302,
+      "budgetedPrev": 89598,
+      "revisedPrev": 94982,
+      "budgeted": 95501
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 68770,
+      "budgetedPrev": 80437,
+      "revisedPrev": 83316,
+      "budgeted": 89705,
+      "changePct": 8
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 22977,
+      "budgetedPrev": 29393,
+      "revisedPrev": 38734,
+      "budgeted": 32077,
+      "changePct": -17
+    },
+    {
+      "name": "Roads and Bridges",
+      "actuals": 27886,
+      "budgetedPrev": 27902,
+      "revisedPrev": 37672,
+      "budgeted": 31563,
+      "changePct": -16
+    },
+    {
+      "name": "Police",
+      "actuals": 17426,
+      "budgetedPrev": 24663,
+      "revisedPrev": 21409,
+      "budgeted": 26906,
+      "changePct": 26
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 10852,
+      "budgetedPrev": 22844,
+      "revisedPrev": 22843,
+      "budgeted": 25308,
+      "changePct": 11
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 21067,
+      "budgetedPrev": 22536,
+      "revisedPrev": 24988,
+      "budgeted": 25015,
+      "changePct": 0
+    },
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 17279,
+      "budgetedPrev": 22984,
+      "revisedPrev": 22801,
+      "budgeted": 24787,
+      "changePct": 9
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 13166,
+      "budgetedPrev": 18347,
+      "revisedPrev": 25441,
+      "budgeted": 20761,
+      "changePct": -18
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 19881,
+      "budgetedPrev": 16617,
+      "revisedPrev": 22314,
+      "budgeted": 20050,
+      "changePct": -10
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 12426,
+      "budgetedPrev": 18727,
+      "revisedPrev": 16645,
+      "budgeted": 19958,
+      "changePct": 20
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1080,
+      "text": "have been allocated for various scholarships for technical education"
+    },
+    {
+      "amount": 916,
+      "text": "has been allocated for veterinary services and animal health"
+    },
+    {
+      "amount": 18047,
+      "text": "has been allocated for district police"
+    },
+    {
+      "amount": 3103,
+      "text": "has been allocated towards Jawahar Gram Samrudhi Yojana"
+    },
+    {
+      "amount": 1624,
+      "text": "has been allocated for building primary health centres in rural areas"
+    },
+    {
+      "amount": 1530,
+      "text": "has been allocated towards the Shravan Bal Seva Rajya Nivruti Vetan Yojana"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 298181
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 24170
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 64525
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 62647
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/maharashtra-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/maharashtra/2023/State_Budget_Analysis_2023-24_Maharashtra.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

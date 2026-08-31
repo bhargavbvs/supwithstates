@@ -1,0 +1,244 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 453682,
+    "netExpenditure": 412504,
+    "totalReceipts": 449311,
+    "netReceipts": 303814,
+    "borrowings": 145497,
+    "fiscalDeficit": 108690,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 49279
+    },
+    "gsdp": 3155096
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.5,
+      "budgeted": 3.4
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 1.6,
+      "budgeted": 1.6
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": 3.5
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 326755,
+      "budgetedPrev": 365321,
+      "revisedPrev": 369251,
+      "budgeted": 412504
+    },
+    "netReceipts": {
+      "actuals": 244869,
+      "budgetedPrev": 273246,
+      "revisedPrev": 275195,
+      "budgeted": 303814
+    },
+    "fiscalDeficit": {
+      "actuals": 81886,
+      "budgetedPrev": 92075,
+      "revisedPrev": 94060,
+      "budgeted": 108690
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 45147,
+      "budgetedPrev": 49700,
+      "revisedPrev": 48596,
+      "budgeted": 54327,
+      "changePct": 12
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 18219,
+      "budgetedPrev": 26614,
+      "revisedPrev": 30233,
+      "budgeted": 34548,
+      "changePct": 14
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 23648,
+      "budgetedPrev": 22971,
+      "revisedPrev": 21108,
+      "budgeted": 24232,
+      "changePct": 15
+    },
+    {
+      "name": "Transport",
+      "actuals": 19807,
+      "budgetedPrev": 22306,
+      "revisedPrev": 21250,
+      "budgeted": 23828,
+      "changePct": 12
+    },
+    {
+      "name": "Energy",
+      "actuals": 17642,
+      "budgetedPrev": 8426,
+      "revisedPrev": 24176,
+      "budgeted": 21606,
+      "changePct": -11
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 17621,
+      "budgetedPrev": 18545,
+      "revisedPrev": 18796,
+      "budgeted": 19730,
+      "changePct": 5
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 10527,
+      "budgetedPrev": 9413,
+      "revisedPrev": 9614,
+      "budgeted": 12043,
+      "changePct": 25
+    },
+    {
+      "name": "Police",
+      "actuals": 9683,
+      "budgetedPrev": 10368,
+      "revisedPrev": 10731,
+      "budgeted": 11965,
+      "changePct": 11
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 6297,
+      "budgetedPrev": 7755,
+      "revisedPrev": 7146,
+      "budgeted": 7763,
+      "changePct": 9
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 2951,
+      "budgetedPrev": 6418,
+      "revisedPrev": 4432,
+      "budgeted": 6993,
+      "changePct": 58
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 14795,
+      "text": "has been allocated for government secondary schools"
+    },
+    {
+      "amount": 13026,
+      "text": "has been allocated for government primary schools"
+    },
+    {
+      "amount": 13720,
+      "text": "has been allocated towards Magalir Urimai Thogai scheme"
+    },
+    {
+      "amount": 3851,
+      "text": "has been allocated for pension under social security schemes"
+    },
+    {
+      "amount": 7216,
+      "text": "has been allocated for payment to Tamil Nadu electricity board for usage of farm pump sets"
+    },
+    {
+      "amount": 1338,
+      "text": "has been allocated for crop insurance"
+    },
+    {
+      "amount": 17889,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 14442,
+      "text": "has been allocated for funding losses of TANGEDCO"
+    },
+    {
+      "amount": 6743,
+      "text": "has been allocated for power tariff subsidy for domestic consumers"
+    },
+    {
+      "amount": 5116,
+      "text": "has been allocated for urban health services – allopathy"
+    },
+    {
+      "amount": 1827,
+      "text": "has been allocated for rural health service – allopathy"
+    },
+    {
+      "amount": 3875,
+      "text": "has been allocated for rural employment guarantee scheme"
+    },
+    {
+      "amount": 7119,
+      "text": "has been allocated towards district police"
+    },
+    {
+      "amount": 2557,
+      "text": "has been allocated for capital outlay on major irrigation"
+    },
+    {
+      "amount": 546,
+      "text": "has been allocated towards capital outlay on medium irrigation"
+    },
+    {
+      "amount": 3843,
+      "text": "has been allocated for capital outlay on rural water supply"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 195173
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 30728
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 49755
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 23354
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 4804
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/tamil-nadu-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/tamil-nadu/2024/Tamil_Nadu_Budget_Analysis_2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

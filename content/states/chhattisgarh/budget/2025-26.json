@@ -1,0 +1,232 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 176337,
+    "netExpenditure": 165000,
+    "totalReceipts": 175437,
+    "netReceipts": 141100,
+    "borrowings": 34337,
+    "fiscalDeficit": 23900,
+    "revenueBalance": {
+      "kind": "surplus",
+      "amount": 2804
+    },
+    "gsdp": 635917
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 5.3,
+      "budgeted": 3.8
+    },
+    "revenueBalance": {
+      "kind": "surplus",
+      "revisedPrev": -1.3,
+      "budgeted": 0.4
+    },
+    "outstandingDebtPctGsdp": 29.6,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 130471,
+      "budgetedPrev": 147440,
+      "revisedPrev": 151700,
+      "budgeted": 165000
+    },
+    "netReceipts": {
+      "actuals": 103534,
+      "budgetedPrev": 126050,
+      "revisedPrev": 121350,
+      "budgeted": 141100
+    },
+    "fiscalDeficit": {
+      "actuals": 26938,
+      "budgetedPrev": 21390,
+      "revisedPrev": 30350,
+      "budgeted": 23900
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 33299,
+      "budgetedPrev": 23357,
+      "revisedPrev": 25646,
+      "budgeted": 26754,
+      "changePct": 4
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 21281,
+      "budgetedPrev": 25340,
+      "revisedPrev": 23339,
+      "budgeted": 26730,
+      "changePct": 15
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 6907,
+      "budgetedPrev": 10459,
+      "revisedPrev": 10420,
+      "budgeted": 11205,
+      "changePct": 8
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 5765,
+      "budgetedPrev": 8073,
+      "revisedPrev": 10095,
+      "budgeted": 10710,
+      "changePct": 6
+    },
+    {
+      "name": "Housing",
+      "actuals": 3473,
+      "budgetedPrev": 8548,
+      "revisedPrev": 8397,
+      "budgeted": 9138,
+      "changePct": 9
+    },
+    {
+      "name": "Transport",
+      "actuals": 5202,
+      "budgetedPrev": 6939,
+      "revisedPrev": 7492,
+      "budgeted": 8537,
+      "changePct": 14
+    },
+    {
+      "name": "Police",
+      "actuals": 5336,
+      "budgetedPrev": 7134,
+      "revisedPrev": 6781,
+      "budgeted": 7897,
+      "changePct": 16
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 5447,
+      "budgetedPrev": 7414,
+      "revisedPrev": 7747,
+      "budgeted": 7627,
+      "changePct": -2
+    },
+    {
+      "name": "Energy",
+      "actuals": 7794,
+      "budgetedPrev": 7224,
+      "revisedPrev": 8366,
+      "budgeted": 6248,
+      "changePct": -25
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 3482,
+      "budgetedPrev": 5296,
+      "revisedPrev": 6042,
+      "budgeted": 5601,
+      "changePct": -7
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 10000,
+      "text": "has been allocated towards the Krishak Unnati Yojana"
+    },
+    {
+      "amount": 5394,
+      "text": "has been allocated for Higher Secondary Schools"
+    },
+    {
+      "amount": 5859,
+      "text": "has been allocated for Government Primary Schools"
+    },
+    {
+      "amount": 1850,
+      "text": "has been allocated towards the National Health Mission"
+    },
+    {
+      "amount": 1500,
+      "text": "has been allocated towards Shahid Veernarayan Singh Ayushman Swasthya Yojana"
+    },
+    {
+      "amount": 5500,
+      "text": "has been allocated for the Mahatari Vandan Yojana"
+    },
+    {
+      "amount": 8500,
+      "text": "has been allocated towards Pradhan Mantri Awas Yojana – Gramin"
+    },
+    {
+      "amount": 7186,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 4012,
+      "text": "has been allocated towards District Police"
+    },
+    {
+      "amount": 2800,
+      "text": "has been allocated towards National Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 800,
+      "text": "has been allocated for the National Rural Ajeevika Misssion"
+    },
+    {
+      "amount": 3500,
+      "text": "has been allocated for grants for free electricity for agricultural pumps"
+    },
+    {
+      "amount": 947,
+      "text": "has been allocated towards Naya Raipur Atal Nagar Vikas Pradhikaran"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 54000
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 22000
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 50000
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 15000
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 100
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/chhattisgarh-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/chhattisgarh/2025/CG_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

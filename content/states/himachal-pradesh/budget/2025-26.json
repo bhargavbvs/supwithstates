@@ -1,0 +1,240 @@
+{
+  "year": "2025-26",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 58514,
+    "netExpenditure": 52709,
+    "totalReceipts": 55745,
+    "netReceipts": 42371,
+    "borrowings": 13375,
+    "fiscalDeficit": 10338,
+    "revenueBalance": {
+      "kind": "deficit",
+      "amount": 6390
+    },
+    "gsdp": 255636
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 6.6,
+      "budgeted": 4
+    },
+    "revenueBalance": {
+      "kind": "deficit",
+      "revisedPrev": 2.8,
+      "budgeted": 2.5
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 50468,
+      "budgetedPrev": 52965,
+      "revisedPrev": 59142,
+      "budgeted": 52709
+    },
+    "netReceipts": {
+      "actuals": 39203,
+      "budgetedPrev": 42181,
+      "revisedPrev": 43733,
+      "budgeted": 42371
+    },
+    "fiscalDeficit": {
+      "actuals": 11266,
+      "budgetedPrev": 10784,
+      "revisedPrev": 15409,
+      "budgeted": 10338
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2023-24",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2024-25",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2025-26",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 8400,
+      "budgetedPrev": 9812,
+      "revisedPrev": 10117,
+      "budgeted": 9965,
+      "changePct": -2
+    },
+    {
+      "name": "Transport",
+      "actuals": 5134,
+      "budgetedPrev": 5289,
+      "revisedPrev": 6398,
+      "budgeted": 3858,
+      "changePct": -40
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 3201,
+      "budgetedPrev": 3390,
+      "revisedPrev": 3871,
+      "budgeted": 3332,
+      "changePct": -14
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 3444,
+      "budgetedPrev": 3051,
+      "revisedPrev": 3426,
+      "budgeted": 3158,
+      "changePct": -8
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 2553,
+      "budgetedPrev": 2755,
+      "revisedPrev": 2947,
+      "budgeted": 2601,
+      "changePct": -12
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 1307,
+      "budgetedPrev": 2145,
+      "revisedPrev": 2367,
+      "budgeted": 2106,
+      "changePct": -11
+    },
+    {
+      "name": "Water Supply and Sanitation",
+      "actuals": 2327,
+      "budgetedPrev": 1998,
+      "revisedPrev": 2242,
+      "budgeted": 1721,
+      "changePct": -23
+    },
+    {
+      "name": "Police",
+      "actuals": 1592,
+      "budgetedPrev": 1701,
+      "revisedPrev": 1661,
+      "budgeted": 1643,
+      "changePct": -1
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 835,
+      "budgetedPrev": 1382,
+      "revisedPrev": 1409,
+      "budgeted": 1023,
+      "changePct": -27
+    },
+    {
+      "name": "Energy",
+      "actuals": 1175,
+      "budgetedPrev": 566,
+      "revisedPrev": 1648,
+      "budgeted": 823,
+      "changePct": -50
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 951,
+      "text": "has been allocated towards the Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 133,
+      "text": "has been allocated for PM-POSHAN"
+    },
+    {
+      "amount": 1492,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 807,
+      "text": "is estimated to be spent on medical education, training, and research"
+    },
+    {
+      "amount": 399,
+      "text": "has been allocated for the National Rural Health Mission"
+    },
+    {
+      "amount": 1214,
+      "text": "is estimated to be spent on pensions under various social security schemes"
+    },
+    {
+      "amount": 259,
+      "text": "has been allocated for integrated child care services"
+    },
+    {
+      "amount": 63,
+      "text": "has been allocated for extension services and farmers training"
+    },
+    {
+      "amount": 33,
+      "text": "has been allocated for the National Mission on Natural Farming"
+    },
+    {
+      "amount": 460,
+      "text": "has been allocated towards the National Rural Employment Guarantee Scheme"
+    },
+    {
+      "amount": 128,
+      "text": "has been allocated for PM Awas Yojana – Gramin"
+    },
+    {
+      "amount": 684,
+      "text": "has been allocated towards the rural water supply programme, and Rs 311 crore towards the urban water supply programme"
+    },
+    {
+      "amount": 890,
+      "text": "has been allocated towards district police"
+    },
+    {
+      "amount": 989,
+      "text": "has been allocated for minor irrigation"
+    },
+    {
+      "amount": 461,
+      "text": "has been allocated as assistance to electricity boards"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 16101
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 4193
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 11806
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 10243
+    },
+    {
+      "name": "Non-debt Capital Receipts",
+      "budgeted": 28
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/himachal-pradesh-budget-analysis-2025-26",
+    "pdf": "https://prsindia.org/files/budget/budget_state/himachal-pradesh/2025/HP_State_Budget_Analysis_2025-26.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}
