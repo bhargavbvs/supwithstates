@@ -13,10 +13,15 @@ import { plainSector, plainReceipt } from '../plain-words.mjs';
 /** Crore, as the budget itself states them: "₹52,047 crore". Lakh crore
  *  for the totals, where a five-figure crore number stops being a size a
  *  reader can feel. */
+/** Figures are written the way an Indian newspaper writes them — "₹52,047
+ *  cr" — because "crore" spelled out is three times the width for no more
+ *  meaning, and in a treemap that width is the difference between a block
+ *  that carries its number and one that does not. The lede says once what
+ *  a crore is, for a reader who does not already know. */
 function crore(n) {
   if (!Number.isFinite(n)) return '—';
-  if (n >= 100000) return `₹${(n / 100000).toFixed(2)} lakh crore`;
-  return `₹${n.toLocaleString('en-IN')} crore`;
+  if (n >= 100000) return `₹${(n / 100000).toFixed(2)} lakh cr`;
+  return `₹${n.toLocaleString('en-IN')} cr`;
 }
 
 const pct = (n, of) => (of > 0 ? (n / of) * 100 : 0);
@@ -80,7 +85,8 @@ export function renderBudget(el) {
     <h1>${escapeHtml(store.state.name)}'s budget</h1>
     <p class="sub">${escapeHtml(b.year)} · every figure as the state budgeted it</p>
     <p class="lede">A budget is a plan for the year: how much money the state thinks it will get,
-      and what it means to spend it on. Everything below is that plan, not what has been spent.</p>
+      and what it means to spend it on. Everything below is that plan, not what has been spent.
+      Money is in crore — one crore is ten million rupees — written <b>cr</b>.</p>
 
     <section>
       <h2>The year in three numbers</h2>
@@ -196,22 +202,15 @@ export function renderBudget(el) {
     // crore", the short "₹8,055", the same turned on its side for a tile
     // that is tall and narrow, and only then nothing. Measuring is not an
     // estimate.
-    const PAD = 16;
-    const AMT_LINE = 17;
-    const NAME_LINE = 15;
     const shortCrore = (n) => (n >= 100000 ? `₹${(n / 100000).toFixed(2)}L cr` : `₹${n.toLocaleString('en-IN')}`);
 
-    box.innerHTML = treemap(items, w, hgt).map(({ x, y, w: tw, h: th, item }) => {
-      const room = th - PAD;
-      const nameLines = Math.floor((room - AMT_LINE) / NAME_LINE);
-      const showName = tw > 70 && nameLines >= 1;
-      return `<div class="tm-tile ${item.other ? 'tm-other' : `tm-${item.rank % 3}`}"
+    box.innerHTML = treemap(items, w, hgt).map(({ x, y, w: tw, h: th, item }) => `
+      <div class="tm-tile ${item.other ? 'tm-other' : `tm-${Math.min(item.rank, 9)}`}"
         style="left:${x.toFixed(2)}px;top:${y.toFixed(2)}px;width:${tw.toFixed(2)}px;height:${th.toFixed(2)}px"
         title="${escapeHtml(`${item.official ?? item.name} — ${crore(item.value)}`)}">
-        ${showName ? `<span class="tm-name" style="-webkit-line-clamp:${nameLines}">${escapeHtml(item.name)}</span>` : ''}
+        ${tw > 70 ? `<span class="tm-name">${escapeHtml(item.name)}</span>` : ''}
         <span class="tm-amt" data-value="${item.value}">${crore(item.value)}</span>
-      </div>`;
-    }).join('');
+      </div>`).join('');
 
     for (const tile of box.children) {
       const amt = tile.querySelector('.tm-amt');
@@ -243,6 +242,19 @@ export function renderBudget(el) {
         placed = fits();
       }
       if (!placed) amt.remove();
+
+      // Then the name takes the lines actually left over. Estimating this
+      // from a nominal line height ran "Food, and help for people who need
+      // it" straight into its own figure — the clamp allowed three lines
+      // where two fitted. The line height and the figure's height are both
+      // measurable, so they are measured.
+      const name = tile.querySelector('.tm-name');
+      if (!name) continue;
+      const lineHeight = parseFloat(getComputedStyle(name).lineHeight) || 15;
+      const used = amt.isConnected ? amt.getBoundingClientRect().height : 0;
+      const lines = Math.floor((innerH - used) / lineHeight);
+      if (lines < 1) name.remove();
+      else name.style.webkitLineClamp = String(lines);
     }
   }
 

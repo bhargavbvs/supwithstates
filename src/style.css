@@ -2139,10 +2139,31 @@ body[data-view="districts"] #app { max-width: 1100px; }
   overflow: hidden;
 }
 
-.tm-0 { background: var(--accent-ink); color: #eaf3ef; }
-.tm-1 { background: #2e7d5f; color: #eef6f1; }
-.tm-2 { background: #5ca88a; color: #10362a; }
-.tm-other { background: var(--line); color: var(--muted); }
+/* One hue, ten steps, ordered by size: the biggest head of spending is the
+   darkest and each one after it a shade lighter. The three rotating greens
+   before this were assigned by position, so the colour meant nothing while
+   looking as though it might — a reader could reasonably have taken two
+   tiles of the same green for two things of the same kind. Now the colour
+   says what the area says, which is the only thing this chart claims.
+
+   Text flips from light to dark at step 4, where the tint stops carrying
+   pale type: every step here clears 4.5:1 with one or the other, measured,
+   and the palest carries the darkest. */
+.tm-0 { background: #0b4e42; color: #eef6f1; }
+.tm-1 { background: #115a4b; color: #eef6f1; }
+.tm-2 { background: #166655; color: #eef6f1; }
+.tm-3 { background: #1c725e; color: #eef6f1; }
+.tm-4 { background: #5aa88d; color: #0d2f26; }
+.tm-5 { background: #78bda3; color: #0d2f26; }
+.tm-6 { background: #95ceb8; color: #0d2f26; }
+.tm-7 { background: #b0dccb; color: #0d2f26; }
+.tm-8 { background: #c8e6d8; color: #0d2f26; }
+.tm-9 { background: #dcefe6; color: #0d2f26; }
+
+/* Not a step on the ramp: everything the sector table does not name is
+   context, not a sector, so it sits outside the scale in the page's own
+   line colour. */
+.tm-other { background: var(--line); color: var(--body); }
 
 .tm-name {
   font-size: 0.8rem;
