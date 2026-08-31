@@ -114,6 +114,38 @@ export function renderBudget(el, param) {
 
 
 
+  const debt = !b.fiscal ? '' : `
+    <section>
+      <h2>Debt and deficits</h2>
+      <p class="sub">The three figures a state's finances are usually judged on, each as a share of
+        the size of the state's economy — which is how they are set, compared and capped.</p>
+      <dl class="fiscal">
+        ${b.fiscal.fiscalDeficit?.budgeted == null ? '' : `
+        <div>
+          <dt>Fiscal deficit</dt>
+          <dd><b>${b.fiscal.fiscalDeficit.budgeted}%</b> of the state's economy</dd>
+          <dd class="fiscal-note">Everything it spends beyond what it receives — the borrowed part of the bar below.
+            ${b.fiscal.fiscalDeficitCeilingPctGsdp == null ? ''
+    : `The centre's limit for states is ${b.fiscal.fiscalDeficitCeilingPctGsdp}%.`}</dd>
+        </div>`}
+        ${b.fiscal.revenueDeficit?.budgeted == null ? '' : `
+        <div>
+          <dt>Revenue deficit</dt>
+          <dd><b>${b.fiscal.revenueDeficit.budgeted}%</b> of the state's economy</dd>
+          <dd class="fiscal-note">Borrowing that pays for running costs rather than for anything
+            built or bought — salaries, pensions, interest.</dd>
+        </div>`}
+        ${b.fiscal.outstandingDebtPctGsdp == null ? '' : `
+        <div>
+          <dt>Outstanding debt</dt>
+          <dd><b>${b.fiscal.outstandingDebtPctGsdp}%</b> of the state's economy</dd>
+          <dd class="fiscal-note">Everything borrowed and not yet repaid, added up over the years.</dd>
+        </div>`}
+      </dl>
+      <p class="sub">"the state's economy" is its GSDP${h.gsdp ? `, ${crore(h.gsdp)} this year` : ''} —
+        the value of everything produced in the state in a year.</p>
+    </section>`;
+
   el.innerHTML = `
     <a class="back" href="${store.href()}">← Map</a>
     <h1>${escapeHtml(store.state.name)}'s budget</h1>
@@ -128,6 +160,8 @@ export function renderBudget(el, param) {
       and what it means to spend it on. Everything below is that plan, not what has been spent.
       Money is in crore — one crore is ten million rupees — written <b>cr</b>.</p>
 
+    ${debt}
+
     <section>
       <h2>The year in one line</h2>
       <p class="sub">Everything the state plans to spend is either money it has, or money it borrows.</p>
@@ -135,15 +169,13 @@ export function renderBudget(el, param) {
         aria-label="Of ${crore(h.netExpenditure)} to spend, ${splitShares[0]}% is money it has and ${splitShares[1]}% is borrowed">
         <span class="split-have" style="width:${pct(h.netReceipts, h.netExpenditure).toFixed(1)}%">
           <span class="split-amt">${splitShares[0]}%</span>
+          <span class="split-label">money it has<br><b>${crore(h.netReceipts)}</b></span>
         </span>
         <span class="split-borrow" style="width:${pct(h.fiscalDeficit, h.netExpenditure).toFixed(1)}%">
           <span class="split-amt">${splitShares[1]}%</span>
+          <span class="split-label">borrowed<br><b>${crore(h.fiscalDeficit)}</b></span>
         </span>
       </div>
-      <ul class="split-key">
-        <li><i class="sw have"></i>money it has · <b>${crore(h.netReceipts)}</b></li>
-        <li><i class="sw borrow"></i>borrowed · <b>${crore(h.fiscalDeficit)}</b></li>
-      </ul>
       <p class="split-total">${crore(h.netExpenditure)} to spend in all. The borrowed part is what the
         budget calls the <b>fiscal deficit</b>.</p>
     </section>
@@ -206,37 +238,6 @@ export function renderBudget(el, param) {
   }).join('')}
     </section>`}
 
-    ${!b.fiscal ? '' : `
-    <section>
-      <h2>Debt and deficits</h2>
-      <p class="sub">The three figures a state's finances are usually judged on, each as a share of
-        the size of the state's economy — which is how they are set, compared and capped.</p>
-      <dl class="fiscal">
-        ${b.fiscal.fiscalDeficit?.budgeted == null ? '' : `
-        <div>
-          <dt>Fiscal deficit</dt>
-          <dd><b>${b.fiscal.fiscalDeficit.budgeted}%</b> of the state's economy</dd>
-          <dd class="fiscal-note">Everything it spends beyond what it receives — the borrowing above.
-            ${b.fiscal.fiscalDeficitCeilingPctGsdp == null ? ''
-    : `The centre's limit for states is ${b.fiscal.fiscalDeficitCeilingPctGsdp}%.`}</dd>
-        </div>`}
-        ${b.fiscal.revenueDeficit?.budgeted == null ? '' : `
-        <div>
-          <dt>Revenue deficit</dt>
-          <dd><b>${b.fiscal.revenueDeficit.budgeted}%</b> of the state's economy</dd>
-          <dd class="fiscal-note">Borrowing that pays for running costs rather than for anything
-            built or bought — salaries, pensions, interest.</dd>
-        </div>`}
-        ${b.fiscal.outstandingDebtPctGsdp == null ? '' : `
-        <div>
-          <dt>Outstanding debt</dt>
-          <dd><b>${b.fiscal.outstandingDebtPctGsdp}%</b> of the state's economy</dd>
-          <dd class="fiscal-note">Everything borrowed and not yet repaid, added up over the years.</dd>
-        </div>`}
-      </dl>
-      <p class="sub">"the state's economy" is its GSDP${h.gsdp ? `, ${crore(h.gsdp)} this year` : ''} —
-        the value of everything produced in the state in a year.</p>
-    </section>`}
 
     <section>
       <h2>What it pays for</h2>

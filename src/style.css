@@ -2255,7 +2255,8 @@ body[data-view="districts"] #app { max-width: 1100px; }
 
 .split {
   display: flex;
-  height: 3.5rem;
+  height: auto;
+  min-height: 3.9rem;
   border-radius: 0.6rem;
   overflow: hidden;
   margin-bottom: 0.5rem;
@@ -2282,36 +2283,22 @@ body[data-view="districts"] #app { max-width: 1100px; }
   white-space: nowrap;
 }
 
-/* The two money figures sit under the bar rather than inside it. A
-   segment's width is its share, so the label had whatever room the share
-   happened to leave: at a 20% deficit that was 130px of "borrowed ·
-   ₹48,724 cr" in 96px of colour. The label is a flex item inside
-   overflow:hidden, so it was shrunk rather than overflowed — nothing
-   reported it as clipped and the "cr" simply stopped being drawn. Below
-   the bar every figure has the full width, whatever the share. */
-.split-key {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem 1.5rem;
-  margin: 0 0 0.55rem;
-  padding: 0;
-  list-style: none;
-  font-size: 0.88rem;
-  color: var(--body);
+/* The label wraps rather than being cropped. A segment's width is its
+   share, so it has only the room the share leaves — at a 20% deficit that
+   was 130px of "borrowed · ₹48,724 cr" in 96px of colour. Because the
+   label is a flex item inside overflow:hidden it was shrunk rather than
+   overflowed, so nothing reported it as clipped and the "cr" simply
+   stopped being drawn. Wrapping onto a second line, in a bar that grows to
+   fit, is what keeps the figure whole at every share and every width. */
+.split-label {
+  font-size: 0.78rem;
+  opacity: 0.92;
+  line-height: 1.3;
+  white-space: normal;
+  overflow-wrap: anywhere;
 }
 
-.split-key li { display: flex; align-items: center; gap: 0.45rem; }
-.split-key b { font-family: var(--font-mono); font-weight: 700; }
-
-.split-key .sw {
-  flex: none;
-  width: 0.72rem;
-  height: 0.72rem;
-  border-radius: 0.2rem;
-}
-
-.split-key .sw.have { background: var(--accent-ink); }
-.split-key .sw.borrow { background: var(--sev-2); }
+.split-label b { font-family: var(--font-mono); font-weight: 700; }
 
 .split-total {
   margin: 0 0 1.3rem;
@@ -2376,9 +2363,11 @@ body[data-view="districts"] #app { max-width: 1100px; }
 @media (max-width: 520px) {
   .years-bar { grid-template-columns: 3.6rem 1fr auto; }
   .years-kind { grid-column: 2 / -1; margin-top: -0.15rem; }
-  .split { height: 3rem; }
-  .split-have, .split-borrow { padding: 0 0.5rem; }
-  .split-amt { font-size: 0.9rem; }
+  .split { min-height: 0; flex-direction: column; }
+  .split-have, .split-borrow { width: 100% !important; padding: 0.55rem 0.85rem; }
+  .split-label { display: inline; }
+  .split-label br { display: none; }
+  .split-label b::before { content: " · "; }
 }
 
 /* ---- Budget year picker ---- */
