@@ -169,13 +169,17 @@ export function renderBudget(el, param) {
         aria-label="Of ${crore(h.netExpenditure)} to spend, ${splitShares[0]}% is money it has and ${splitShares[1]}% is borrowed">
         <span class="split-have" style="width:${pct(h.netReceipts, h.netExpenditure).toFixed(1)}%">
           <span class="split-amt">${splitShares[0]}%</span>
-          <span class="split-label">money it has<br><b>${crore(h.netReceipts)}</b></span>
+          <span class="split-label">money it has</span>
         </span>
         <span class="split-borrow" style="width:${pct(h.fiscalDeficit, h.netExpenditure).toFixed(1)}%">
           <span class="split-amt">${splitShares[1]}%</span>
-          <span class="split-label">borrowed<br><b>${crore(h.fiscalDeficit)}</b></span>
+          <span class="split-label">borrowed</span>
         </span>
       </div>
+      <ul class="split-key">
+        <li><i class="sw have"></i>${crore(h.netReceipts)}</li>
+        <li><i class="sw borrow"></i>${crore(h.fiscalDeficit)}</li>
+      </ul>
       <p class="split-total">${crore(h.netExpenditure)} to spend in all. The borrowed part is what the
         budget calls the <b>fiscal deficit</b>.</p>
     </section>
