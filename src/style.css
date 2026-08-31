@@ -1988,19 +1988,15 @@ body[data-view="districts"] #app { max-width: 1100px; }
   align-items: baseline;
 }
 
-.spend-amt .chg {
-  min-width: 3.4rem;
-  text-align: right;
-  font-size: 0.8rem;
-}
+
 
 /* Neither colour nor red. A state raising welfare spending by 35% has not
    done something alarming, and one cutting it by 38% has not done
    something good — this site does not score, and the severity palette
-   means something specific here. The sign carries the direction and
+   means something specific here. The arrow carries the direction and
    nothing else is implied. */
-.spend-amt .chg { color: var(--muted); }
-.spend-amt .chg.up { color: var(--body); }
+.spend-share .chg { color: var(--body); white-space: nowrap; }
+.spend-share .chg.down { color: var(--muted); }
 
 .spend-track {
   height: 0.6rem;

@@ -40,10 +40,19 @@ export function renderBudget(el) {
   const receiptTotal = b.receipts.reduce((a, r) => a + r.budgeted, 0);
   const allocations = [...b.namedAllocations].sort((x, y) => y.amount - x.amount);
 
+  // "+35%" on its own says nothing a reader can use: 35% of what, and
+  // against when. The figure it is measured from is in the data, so the
+  // row says the change in rupees and in words — up ₹13,572 cr from last
+  // year — and keeps the percentage after it for anyone who wants it.
+  const lastYear = b.years?.find((y) => y.key === 'revisedPrev')?.label ?? 'last year';
   const sectorRows = b.sectors.map((s) => {
-    const up = s.changePct != null && s.changePct > 0;
-    const change = s.changePct == null ? '<span class="chg"></span>'
-      : `<span class="chg ${up ? 'up' : 'down'}">${up ? '+' : ''}${s.changePct}%</span>`;
+    const before = s.revisedPrev;
+    const diff = before == null ? null : s.budgeted - before;
+    const change = diff == null
+      ? ''
+      : `<span class="chg ${diff >= 0 ? 'up' : 'down'}">${diff >= 0 ? '▲ up' : '▼ down'}
+           ${crore(Math.abs(diff))} from ${escapeHtml(lastYear)}${
+  s.changePct == null ? '' : ` (${s.changePct > 0 ? '+' : ''}${s.changePct}%)`}</span>`;
     return `
       <div class="spend-row">
         <div class="spend-head">
@@ -51,12 +60,13 @@ export function renderBudget(el) {
             ${escapeHtml(plainSector(s.name) ?? s.name)}
             ${plainSector(s.name) ? `<small>${escapeHtml(s.name)}</small>` : ''}
           </span>
-          <span class="spend-amt"><span class="amt-num">${crore(s.budgeted)}</span>${change}</span>
+          <span class="spend-amt"><span class="amt-num">${crore(s.budgeted)}</span></span>
         </div>
         <div class="spend-track">
           <span class="spend-fill" style="width:${pct(s.budgeted, widest).toFixed(1)}%"></span>
         </div>
-        <p class="spend-share">₹${Math.round(pct(s.budgeted, sectorTotal))} of every ₹100 shown here</p>
+        <p class="spend-share">₹${Math.round(pct(s.budgeted, sectorTotal))} of every ₹100 shown here${
+  diff == null ? '' : ` · ${change}`}</p>
       </div>`;
   }).join('');
 
@@ -132,8 +142,9 @@ export function renderBudget(el) {
         everything else put together.</p>
       <div id="treemap" role="img"
         aria-label="${escapeHtml(b.sectors.map((s) => `${s.name} ${crore(s.budgeted)}`).join(', '))}, everything else ${crore(rest)}"></div>
-      <p class="sub" style="margin-top:0.9rem">The same spending as a list, with how much it has gone
-        up or down since last year:</p>
+      <p class="sub" style="margin-top:0.9rem">The same spending as a list. Beside each one is how much
+        more, or less, it is than ${escapeHtml(lastYear)} — comparing this year's plan with what last
+        year's spending was finally revised to.</p>
       ${sectorRows}
     </section>
 
