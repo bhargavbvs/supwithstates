@@ -1,0 +1,228 @@
+{
+  "year": "2022-23",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 256257,
+    "netExpenditure": 239986,
+    "totalReceipts": 256078,
+    "netReceipts": 191262,
+    "borrowings": 64816,
+    "fiscalDeficit": 48724,
+    "revenueDeficit": 17036,
+    "gsdp": 1338575
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.18,
+      "budgeted": 3.64
+    },
+    "revenueDeficit": {
+      "revisedPrev": 1.63,
+      "budgeted": 1.27
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 173367,
+      "budgetedPrev": 214276,
+      "revisedPrev": 193548,
+      "budgeted": 239986
+    },
+    "netReceipts": {
+      "actuals": 118199,
+      "budgetedPrev": 177247,
+      "revisedPrev": 155324,
+      "budgeted": 191262
+    },
+    "fiscalDeficit": {
+      "actuals": 55167,
+      "budgetedPrev": 37030,
+      "revisedPrev": 38224,
+      "budgeted": 48724
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2020-21",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2021-22",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2022-23",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 22580,
+      "budgetedPrev": 27870,
+      "revisedPrev": 25565,
+      "budgeted": 45927,
+      "changePct": 80
+    },
+    {
+      "name": "Education, Sports, Arts,",
+      "actuals": 24206,
+      "budgetedPrev": 27212,
+      "revisedPrev": 25882,
+      "budgeted": 30385,
+      "changePct": 17
+    },
+    {
+      "name": "and Culture Rural Development",
+      "actuals": 14452,
+      "budgetedPrev": 14943,
+      "revisedPrev": 11832,
+      "budgeted": 16040,
+      "changePct": 36
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 9511,
+      "budgetedPrev": 14088,
+      "revisedPrev": 13940,
+      "budgeted": 15708,
+      "changePct": 13
+    },
+    {
+      "name": "Agriculture and allied activities",
+      "actuals": 11373,
+      "budgetedPrev": 13299,
+      "revisedPrev": 11824,
+      "budgeted": 13640,
+      "changePct": 15
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 7734,
+      "budgetedPrev": 11383,
+      "revisedPrev": 8355,
+      "budgeted": 10976,
+      "changePct": 31
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 4716,
+      "budgetedPrev": 12691,
+      "revisedPrev": 7888,
+      "budgeted": 10541,
+      "changePct": 34
+    },
+    {
+      "name": "Energy",
+      "actuals": 6018,
+      "budgetedPrev": 6091,
+      "revisedPrev": 11730,
+      "budgeted": 9451,
+      "changePct": -19
+    },
+    {
+      "name": "Transport",
+      "actuals": 5066,
+      "budgetedPrev": 7458,
+      "revisedPrev": 5563,
+      "budgeted": 8597,
+      "changePct": 55
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 4644,
+      "budgetedPrev": 8330,
+      "revisedPrev": 7647,
+      "budgeted": 8495,
+      "changePct": 11
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 1156,
+      "text": "has been allocated for Andhra Pradesh Scheduled Tribes Co-operative Finance Corporation"
+    },
+    {
+      "amount": 8015,
+      "text": "has been allocated towards teaching grants to Mandal Praja Parishads"
+    },
+    {
+      "amount": 2136,
+      "text": "has been allocated towards Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 5000,
+      "text": "has been allocated towards the MGNREGS"
+    },
+    {
+      "amount": 2462,
+      "text": "has been allocated towards the National Health Mission"
+    },
+    {
+      "amount": 1009,
+      "text": "has been allocated for Primary Health Centres (PHCs)"
+    },
+    {
+      "amount": 3900,
+      "text": "has been allocated for the YSR Rythu Bharosa scheme"
+    },
+    {
+      "amount": 4163,
+      "text": "has been allocated for the Andhra Pradesh Scheduled Castes Corporation"
+    },
+    {
+      "amount": 2366,
+      "text": "has been allocated towards dam works"
+    },
+    {
+      "amount": 1256,
+      "text": "has been allocated towards resettlement and rehabilitation"
+    },
+    {
+      "amount": 4500,
+      "text": "has been allocated for free power supply of nine hours"
+    },
+    {
+      "amount": 2173,
+      "text": "has been allocated for capital outlay on roads and bridges"
+    },
+    {
+      "amount": 1000,
+      "text": "has been allocated towards Smart Cities Mission"
+    },
+    {
+      "amount": 800,
+      "text": "has been allocated for creation of essential infrastructure for the new capital city. -3- PRS Legislative Research"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 91050
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 11093
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 33050
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 56033
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/andhra-pradesh-budget-analysis-2022-23",
+    "pdf": "https://prsindia.org/files/budget/budget_state/andhra-pradesh/2022/Andhra%20Pradesh_Budget_Analysis%202022-23.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

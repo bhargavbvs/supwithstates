@@ -1,0 +1,220 @@
+{
+  "year": "2024-25",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 294427,
+    "netExpenditure": 269928,
+    "totalReceipts": 292629,
+    "netReceipts": 201186,
+    "borrowings": 91443,
+    "fiscalDeficit": 68743,
+    "revenueDeficit": 34743,
+    "gsdp": 1640581
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.3,
+      "budgeted": 4.2
+    },
+    "revenueDeficit": {
+      "revisedPrev": 2.7,
+      "budgeted": 2.1
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 210272,
+      "budgetedPrev": 260868,
+      "revisedPrev": 236511,
+      "budgeted": 269928
+    },
+    "netReceipts": {
+      "actuals": 157764,
+      "budgetedPrev": 206280,
+      "revisedPrev": 173791,
+      "budgeted": 201186
+    },
+    "fiscalDeficit": {
+      "actuals": 52508,
+      "budgetedPrev": 54588,
+      "revisedPrev": 62720,
+      "budgeted": 68743
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2022-23",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2023-24",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2024-25",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 22531,
+      "budgetedPrev": 50992,
+      "revisedPrev": 36185,
+      "budgeted": 47277,
+      "changePct": 31
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 26158,
+      "budgetedPrev": 32658,
+      "revisedPrev": 31400,
+      "budgeted": 33111,
+      "changePct": 5
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 11488,
+      "budgetedPrev": 16207,
+      "revisedPrev": 15106,
+      "budgeted": 18732,
+      "changePct": 24
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 12194,
+      "budgetedPrev": 16159,
+      "revisedPrev": 14147,
+      "budgeted": 15899,
+      "changePct": 12
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 5053,
+      "budgetedPrev": 10969,
+      "revisedPrev": 6802,
+      "budgeted": 15237,
+      "changePct": 124
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 11272,
+      "budgetedPrev": 13961,
+      "revisedPrev": 10022,
+      "budgeted": 12514,
+      "changePct": 25
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 13401,
+      "budgetedPrev": 11230,
+      "revisedPrev": 5957,
+      "budgeted": 11899,
+      "changePct": 100
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 6185,
+      "budgetedPrev": 8996,
+      "revisedPrev": 8633,
+      "budgeted": 11168,
+      "changePct": 29
+    },
+    {
+      "name": "Transport",
+      "actuals": 5083,
+      "budgetedPrev": 8679,
+      "revisedPrev": 6105,
+      "budgeted": 8035,
+      "changePct": 32
+    },
+    {
+      "name": "Police",
+      "actuals": 6622,
+      "budgetedPrev": 7631,
+      "revisedPrev": 7248,
+      "budgeted": 7874,
+      "changePct": 9
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 4407,
+      "text": "has been allocated towards NTR Bharosa Pension Scheme"
+    },
+    {
+      "amount": 3507,
+      "text": "has been allocated towards the Samagra Shiksha Abhiyan"
+    },
+    {
+      "amount": 4000,
+      "text": "will be allocated to the Dr. Nandamuri Taraka Ramarao Vaidya Seva Trust"
+    },
+    {
+      "amount": 4415,
+      "text": "will be spent on rural employment"
+    },
+    {
+      "amount": 5449,
+      "text": "is estimated to be spent on the Polavaram Project"
+    },
+    {
+      "amount": 1000,
+      "text": "has been allocated towards the Annadata Sukhibhava Scheme"
+    },
+    {
+      "amount": 1023,
+      "text": "has been allocated for PM Fasal Bima Yojana"
+    },
+    {
+      "amount": 2345,
+      "text": "has been allocated to provide subsidies on rice"
+    },
+    {
+      "amount": 3000,
+      "text": "has been allocated for Amravati Capital City Development Projects"
+    },
+    {
+      "amount": 1054,
+      "text": "has been allocated for development of the Andhra Pradesh Capital Region"
+    },
+    {
+      "amount": 1942,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 4495,
+      "text": "will be provided for the District Police Force"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 109789
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 10576
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 50475
+    },
+    {
+      "name": "Grants-in-aid from Centre",
+      "budgeted": 30334
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/andhra-pradesh-budget-analysis-2024-25",
+    "pdf": "https://prsindia.org/files/budget/budget_state/andhra-pradesh/2024/Andhra_Pradesh_Budget_Analysis-2024-25.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

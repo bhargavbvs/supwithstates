@@ -2329,3 +2329,65 @@ body[data-view="districts"] #app { max-width: 1100px; }
   .split { height: auto; flex-direction: column; }
   .split-have, .split-borrow { width: 100% !important; padding: 0.6rem 0.85rem; }
 }
+
+/* ---- Budget year picker ---- */
+.year-pick {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.2rem 0 1.1rem;
+}
+
+.year-tab {
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  text-decoration: none;
+  color: var(--muted);
+}
+
+.year-tab:hover { border-color: var(--accent); }
+
+.year-tab.on {
+  background: var(--accent-ink);
+  border-color: var(--accent-ink);
+  color: #fff;
+}
+
+/* ---- Debt and deficits ------------------------------------------------
+   Percentages of the state's economy, because that is the unit these are
+   set and capped in — a rupee figure for outstanding debt would invite a
+   comparison with the year's spending that means nothing. */
+.fiscal {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1.1rem;
+  margin: 0 0 1rem;
+}
+
+.fiscal dt {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.25rem;
+}
+
+.fiscal dd { margin: 0; }
+
+.fiscal dd b {
+  font-family: var(--font-mono);
+  font-size: 1.5rem;
+  color: var(--accent-ink);
+  line-height: 1.1;
+}
+
+.fiscal-note {
+  margin-top: 0.3rem !important;
+  font-size: 0.83rem;
+  color: var(--muted);
+}

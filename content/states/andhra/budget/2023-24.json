@@ -1,0 +1,200 @@
+{
+  "year": "2023-24",
+  "unit": "rupees crore",
+  "headline": {
+    "totalExpenditure": 279279,
+    "netExpenditure": 260868,
+    "totalReceipts": 278302,
+    "netReceipts": 206280,
+    "borrowings": 72022,
+    "fiscalDeficit": 54588,
+    "revenueDeficit": 22317,
+    "gsdp": 1449501
+  },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 3.6,
+      "budgeted": 3.8
+    },
+    "revenueDeficit": {
+      "revisedPrev": 2.2,
+      "budgeted": 1.5
+    },
+    "outstandingDebtPctGsdp": null,
+    "fiscalDeficitCeilingPctGsdp": null
+  },
+  "overYears": {
+    "netExpenditure": {
+      "actuals": 177674,
+      "budgetedPrev": 239986,
+      "revisedPrev": 224219,
+      "budgeted": 260868
+    },
+    "netReceipts": {
+      "actuals": 152662,
+      "budgetedPrev": 191262,
+      "revisedPrev": 176502,
+      "budgeted": 206280
+    },
+    "fiscalDeficit": {
+      "actuals": 25013,
+      "budgetedPrev": 48724,
+      "revisedPrev": 47717,
+      "budgeted": 54588
+    }
+  },
+  "years": [
+    {
+      "key": "actuals",
+      "label": "2021-22",
+      "kind": "spent"
+    },
+    {
+      "key": "revisedPrev",
+      "label": "2022-23",
+      "kind": "revised"
+    },
+    {
+      "key": "budgeted",
+      "label": "2023-24",
+      "kind": "budgeted"
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Welfare of SC, ST, OBC, and Minorities",
+      "actuals": 22325,
+      "budgetedPrev": 45927,
+      "revisedPrev": 42436,
+      "budgeted": 51292,
+      "changePct": 21
+    },
+    {
+      "name": "Education, Sports, Arts, and Culture",
+      "actuals": 25796,
+      "budgetedPrev": 30385,
+      "revisedPrev": 28351,
+      "budgeted": 32658,
+      "changePct": 15
+    },
+    {
+      "name": "Health and Family Welfare",
+      "actuals": 11271,
+      "budgetedPrev": 15707,
+      "revisedPrev": 13424,
+      "budgeted": 16207,
+      "changePct": 21
+    },
+    {
+      "name": "Rural Development",
+      "actuals": 9917,
+      "budgetedPrev": 16040,
+      "revisedPrev": 11872,
+      "budgeted": 16159,
+      "changePct": 36
+    },
+    {
+      "name": "Agriculture and Allied Activities",
+      "actuals": 8033,
+      "budgetedPrev": 13640,
+      "revisedPrev": 12173,
+      "budgeted": 13961,
+      "changePct": 15
+    },
+    {
+      "name": "Social Welfare and Nutrition",
+      "actuals": 6979,
+      "budgetedPrev": 10976,
+      "revisedPrev": 9195,
+      "budgeted": 11230,
+      "changePct": 22
+    },
+    {
+      "name": "Irrigation and Flood Control",
+      "actuals": 7027,
+      "budgetedPrev": 10541,
+      "revisedPrev": 9805,
+      "budgeted": 10969,
+      "changePct": 12
+    },
+    {
+      "name": "Urban Development",
+      "actuals": 4821,
+      "budgetedPrev": 8495,
+      "revisedPrev": 7168,
+      "budgeted": 8996,
+      "changePct": 26
+    },
+    {
+      "name": "Transport",
+      "actuals": 4663,
+      "budgetedPrev": 8597,
+      "revisedPrev": 5171,
+      "budgeted": 8679,
+      "changePct": 68
+    },
+    {
+      "name": "Police",
+      "actuals": 5940,
+      "budgetedPrev": 7034,
+      "revisedPrev": 6458,
+      "budgeted": 7631,
+      "changePct": 18
+    }
+  ],
+  "namedAllocations": [
+    {
+      "amount": 4360,
+      "text": "has been allocated towards Andhra Pradesh Scheduled Castes Corporations"
+    },
+    {
+      "amount": 1051,
+      "text": "has been allocated towards the Andhra Pradesh Scheduled Tribes Co- operative Finance Corporation"
+    },
+    {
+      "amount": 1162,
+      "text": "have been allocated towards primary health centres"
+    },
+    {
+      "amount": 4020,
+      "text": "will be provided for YSR Rythu Bharosa"
+    },
+    {
+      "amount": 5415,
+      "text": "has been allocated towards the Polavaram Project"
+    },
+    {
+      "amount": 3357,
+      "text": "has been allocated towards capital outlay on roads and bridges"
+    },
+    {
+      "amount": 4216,
+      "text": "will be provided for the district police force"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "State's Own Tax",
+      "budgeted": 102599
+    },
+    {
+      "name": "State's Own Non-Tax",
+      "budgeted": 15400
+    },
+    {
+      "name": "Share in Central Taxes",
+      "budgeted": 41391
+    },
+    {
+      "name": "Grants from Centre",
+      "budgeted": 46835
+    }
+  ],
+  "source": {
+    "name": "PRS Legislative Research",
+    "analysis": "https://prsindia.org/budgets/states/andhra-pradesh-budget-analysis-2023-24",
+    "pdf": "https://prsindia.org/files/budget/budget_state/andhra-pradesh/2023/State_Budget_Analysis_2023-24_AP.pdf",
+    "note": "PRS compiles these from the state's own Annual Financial Statement and budget documents.",
+    "retrieved": "2026-08-31"
+  }
+}

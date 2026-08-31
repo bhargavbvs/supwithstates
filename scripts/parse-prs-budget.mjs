@@ -46,7 +46,10 @@ async function pdfUrl() {
   const hit = html.match(/href="(https:\/\/prsindia\.org\/files\/budget\/[^"]+\.pdf)"/i)
     ?? html.match(/href="(\/files\/budget\/[^"]+\.pdf)"/i);
   if (!hit) throw new Error(`no PDF linked on ${page}`);
-  return { page, pdf: hit[1].startsWith('http') ? hit[1] : `https://prsindia.org${hit[1]}` };
+  const href = hit[1].startsWith('http') ? hit[1] : `https://prsindia.org${hit[1]}`;
+  // Some of these filenames carry a space — "Andhra Pradesh_Budget_Analysis
+  // 2022-23.pdf" — which fetch will not send unencoded.
+  return { page, pdf: href.replace(/ /g, '%20') };
 }
 
 // "2025-26" -> the three columns the table carries, oldest first.
@@ -104,7 +107,44 @@ const headline = {
   borrowings: pick('(-) Borrowings', 4),
   fiscalDeficit: pick('Fiscal Deficit', 4),
   revenueDeficit: pick('Revenue Deficit', 4),
-  gsdp: pick('GSDP', 4),
+  // A row in the recent template, a sentence in the older one.
+  gsdp: pick('GSDP', 4) ?? (() => {
+    const m = text.replace(/\s+/g, ' ')
+      .match(/GSDP\)? of [^.]*?is (?:projected|estimated) to be [^\d]*([\d,]+) crore/i);
+    return m ? num(m[1]) : null;
+  })(),
+};
+
+// The "as % of GSDP" line sits directly under the deficit it belongs to,
+// and there is one under each — so they are read by position rather than
+// by label, which would match whichever came first.
+function pctUnder(label) {
+  const i = t1.findIndex((l) => l.trim().toLowerCase().startsWith(label.toLowerCase()));
+  if (i < 0) return null;
+  const next = t1[i + 1] ?? '';
+  if (!/as % of GSDP/i.test(next)) return null;
+  const figures = (next.match(/[\d.]+%/g) ?? []).map((v) => Number(v.replace('%', '')));
+  return { revisedPrev: figures[2] ?? null, budgeted: figures[3] ?? null };
+}
+
+// Outstanding debt and the borrowing ceiling are written in prose, not in
+// any table. Read as stated and never converted to rupees: "35% of GSDP"
+// is one significant figure, and multiplying it out would manufacture a
+// precision the document does not have.
+const prose = text.replace(/\s+/g, ' ');
+const outstandingDebtPctGsdp = Number(
+  prose.match(/outstanding debt is estimated to be ([\d.]+)% of GSDP/i)?.[1] ?? NaN,
+);
+const fiscalDeficitCeilingPctGsdp = Number(
+  prose.match(/permitted fiscal deficit of up to ([\d.]+)% of GSDP/i)?.[1] ?? NaN,
+);
+
+const fiscal = {
+  fiscalDeficit: pctUnder('Fiscal Deficit'),
+  revenueDeficit: pctUnder('Revenue Deficit'),
+  outstandingDebtPctGsdp: Number.isFinite(outstandingDebtPctGsdp) ? outstandingDebtPctGsdp : null,
+  fiscalDeficitCeilingPctGsdp: Number.isFinite(fiscalDeficitCeilingPctGsdp)
+    ? fiscalDeficitCeilingPctGsdp : null,
 };
 
 // The same three lines across the years the table covers, so the page can
@@ -131,9 +171,21 @@ const overYears = {
 // money to the wrong purpose. They are collected as what they are: the
 // named allocations this budget makes, in the order the document gives
 // them.
-const NAME_END = 28;
-const FIGURES_END = 90;
 const t4 = table('Table 4:');
+
+// The columns move between years. In the 2025-26 template the sector name
+// runs to column 28 and the scheme bullets start at 90; in 2023-24 both
+// sit several characters left, and hardcoding either produced a table read
+// down the wrong lines. So the boundaries are measured from the table:
+// where its own figures begin, and where its own bullets do.
+const BULLET = '\u25AA';
+const figureLines = t4.filter((l) => (l.match(/[\d,]{3,}/g) ?? []).length >= 4);
+const NAME_END = Math.min(
+  ...figureLines.map((l) => l.search(/\d/)).filter((i) => i > 0),
+  40,
+);
+const bulletAts = t4.map((l) => l.indexOf(BULLET)).filter((i) => i > NAME_END);
+const FIGURES_END = bulletAts.length ? Math.min(...bulletAts) : 200;
 
 // A sector is delimited by its own figures row, not by blank lines — the
 // scheme column runs on past every gap, so no line in the table is ever
@@ -193,7 +245,6 @@ for (let i = 0; i < t4.length; i += 1) {
 // its line with the figures, the bullet starts earlier than usual and a
 // fixed column cut it in half, so four separate schemes arrived joined
 // into one sentence.
-const BULLET = '\u25AA';
 const provisions = [];
 for (const line of t4) {
   const at = line.indexOf(BULLET);
@@ -217,13 +268,16 @@ const namedAllocations = provisions
 
 // ---- Table 5: where the money comes from -------------------------------
 const t5 = table('Table 5:');
-const receipts = [
-  ["State's Own Tax", "State's Own Tax"],
-  ["State's Own Non-Tax", "State's Own Non-Tax"],
-  ['Share in Central Taxes', 'Share in Central Taxes'],
-  ['Grants-in-aid from Centre', 'Grants-in-aid from Centre'],
-].map(([label, name]) => ({ name, budgeted: (row(t5, label) ?? [])[4] ?? null }))
-  .filter((r) => r.budgeted != null);
+// The grants row is "Grants-in-aid from Centre" in one year and "Grants
+// from Centre" in another, so each source is found by the shortest form
+// that identifies it and keeps whichever wording the document used.
+const RECEIPT_ROWS = ["State's Own Tax", "State's Own Non-Tax", 'Share in Central Taxes', 'Grants'];
+const receipts = RECEIPT_ROWS.map((label) => {
+  const line = t5.find((l) => l.trim().toLowerCase().startsWith(label.toLowerCase()));
+  if (!line) return null;
+  const name = line.trim().split(/\s{2,}/)[0].trim();
+  return { name, budgeted: (row(t5, label) ?? [])[4] ?? null };
+}).filter((r) => r && r.budgeted != null);
 
 // ---- Refuse to write something that does not add up --------------------
 const problems = [];
@@ -242,6 +296,13 @@ const share = sectorSum / headline.netExpenditure;
 if (!(share > 0.4 && share < 0.95)) {
   problems.push(`sectors sum to ${Math.round(share * 100)}% of net expenditure — expected 40-95%`);
 }
+if (fiscal.fiscalDeficit?.budgeted != null) {
+  const implied = (headline.fiscalDeficit / headline.gsdp) * 100;
+  if (Math.abs(implied - fiscal.fiscalDeficit.budgeted) > 0.3) {
+    problems.push(`fiscal deficit is ${fiscal.fiscalDeficit.budgeted}% of GSDP in the table but `
+      + `${implied.toFixed(1)}% by its own figures`);
+  }
+}
 const receiptSum = receipts.reduce((a, r) => a + r.budgeted, 0);
 if (Math.abs(receiptSum - headline.netReceipts) / headline.netReceipts > 0.05) {
   problems.push(`receipts sum to ${receiptSum} against net receipts ${headline.netReceipts}`);
@@ -256,6 +317,7 @@ const out = {
   year: YEAR,
   unit: 'rupees crore',
   headline,
+  fiscal,
   overYears,
   // The three years the table carries, oldest first, each labelled with
   // what kind of figure it is — spent, revised, or budgeted. They are not
@@ -273,7 +335,11 @@ const out = {
     retrieved: new Date().toISOString().slice(0, 10),
   },
 };
-const dest = `content/states/${SLUG}/budget.json`;
+// One file per year, so a reader can go back through them and a parser
+// fix to one year never touches another.
+const dir = `content/states/${SLUG}/budget`;
+mkdirSync(dir, { recursive: true });
+const dest = `${dir}/${YEAR}.json`;
 writeFileSync(dest, `${JSON.stringify(out, null, 2)}\n`);
 console.log(`✔ ${SLUG} ${YEAR}: ${sectors.length} sectors, `
   + `₹${headline.netExpenditure.toLocaleString('en-IN')} crore net expenditure, `

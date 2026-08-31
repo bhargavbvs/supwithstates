@@ -11,6 +11,18 @@
     "revenueDeficit": 33186,
     "gsdp": 1825000
   },
+  "fiscal": {
+    "fiscalDeficit": {
+      "revisedPrev": 4.6,
+      "budgeted": 4.4
+    },
+    "revenueDeficit": {
+      "revisedPrev": 3,
+      "budgeted": 1.8
+    },
+    "outstandingDebtPctGsdp": 35,
+    "fiscalDeficitCeilingPctGsdp": 3
+  },
   "overYears": {
     "netExpenditure": {
       "actuals": 236511,
