@@ -10,6 +10,7 @@ import { join } from 'node:path';
 import { computeStats } from './lib/compute-stats.mjs';
 import { assertBudget } from './lib/budget.mjs';
 import { projectGeo } from './lib/project-geo.mjs';
+import { projectIndia } from './lib/project-india.mjs';
 
 const contentDir = new URL('../content/states/', import.meta.url).pathname;
 const sharedPagesDir = new URL('../content/pages/', import.meta.url).pathname;
@@ -32,6 +33,7 @@ const slugs = readdirSync(contentDir, { withFileTypes: true })
   .sort();
 
 const index = [];
+const nationalMps = [];
 
 for (const slug of slugs) {
   const stateDir = join(contentDir, slug);
@@ -132,6 +134,12 @@ for (const slug of slugs) {
     profiled: constituencies.length, mps: mps.length,
   });
 
+  // The national map needs every MP in one payload, tagged with the state
+  // and seat number the map file names them by. Kept alongside the
+  // per-state build rather than re-read later, so the two can never fall
+  // out of step.
+  for (const mp of mps) nationalMps.push({ state: slug, pc_no: mp.constituency.number, ...mp });
+
   console.log(`✔ ${slug}: ${constituencies.length} constituencies, ${mps.length} MPs, `
     + `${assertBudget(out, 400 * 1024)} bytes; map ${assertBudget(mapOut, 400 * 1024)} bytes`);
 }
@@ -139,5 +147,22 @@ for (const slug of slugs) {
 // Alphabetical, so the switcher does not reorder itself when a state is
 // added.
 index.sort((a, b) => a.name.localeCompare(b.name));
+// The national map: dissolved and simplified offline by
+// scripts/build-india-map.mjs, projected here so public/geo can be rebuilt
+// from what is committed.
+const indiaDir = 'content/india';
+if (existsSync(join(indiaDir, 'pc.geojson'))) {
+  const indiaMap = join(geoDir, 'india-map.json');
+  writeFileSync(indiaMap, JSON.stringify(projectIndia(
+    JSON.parse(readFileSync(join(indiaDir, 'pc.geojson'), 'utf8')),
+    JSON.parse(readFileSync(join(indiaDir, 'state-outlines.geojson'), 'utf8')),
+  )));
+  console.log(`✔ india-map.json: ${assertBudget(indiaMap, 400 * 1024)} bytes`);
+}
+
+writeFileSync(join(dataDir, 'india.json'), JSON.stringify({ mps: nationalMps }));
+console.log(`✔ india.json: ${nationalMps.length} MPs, `
+  + `${assertBudget(join(dataDir, 'india.json'), 500 * 1024)} bytes`);
+
 writeFileSync(join(dataDir, 'states.json'), JSON.stringify(index));
 console.log(`✔ states.json: ${index.map((s) => s.name).join(', ')}`);

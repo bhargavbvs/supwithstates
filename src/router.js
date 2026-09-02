@@ -11,6 +11,10 @@ export function parseRoute(hash, known = []) {
   const state = known.includes(parts[0]) ? parts.shift() : null;
   const [head, param = null] = parts;
 
+  // The one address that is not about a single state: the national map
+  // covers every state at once, so it names none.
+  if (head === 'india' || parts[0] === 'india') return { state: null, view: 'india', param: null };
+
   if (!head) return { state, view: 'home', param: null };
   if (head === 'd' && param) return { state, view: 'district', param };
   if (head === 'c' && param) return { state, view: 'constituency', param };

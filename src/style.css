@@ -203,7 +203,12 @@ a {
 
 /* ---- Home: full-screen map hero ---- */
 
-body[data-view="home"] #app {
+/* The national map is the same full-bleed hero as a state's, so it takes
+   the same layout. Scoped to "home" alone, #app kept its page padding and
+   the absolutely-positioned #map anchored to the viewport instead — which
+   put the panel 52px up behind the header. */
+body[data-view="home"] #app,
+body[data-view="india"] #app {
   padding: 0;
   max-width: none;
   margin: 0;
@@ -535,6 +540,15 @@ path.district-line {
 #map-legend .dot.d-1::before { background: var(--sev-1); }
 #map-legend .dot.d-2::before { background: var(--sev-2); }
 #map-legend .dot.d-3::before { background: var(--sev-3); }
+
+/* The national map is the width of the country, and the panel sits over
+   its western third — Gujarat and Maharashtra were behind it. Insetting the
+   map's own box moves the whole country into what is left, so the panel
+   covers sea rather than seats. Only where the panel is beside the map: on
+   a phone it sits below, and the map has the full width. */
+@media (min-width: 900px) {
+  #map.panel-inset { padding-left: 374px; }
+}
 
 #map-overlay {
   position: absolute;

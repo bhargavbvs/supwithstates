@@ -8,6 +8,7 @@ import { renderPromises } from './views/promises.js';
 import { renderMps } from './views/mps.js';
 import { renderRoster, renderDistricts } from './views/roster.js';
 import { renderBudget } from './views/budget.js';
+import { renderIndia } from './views/india.js';
 import { escapeHtml } from './format.js';
 
 const app = document.getElementById('app');
@@ -20,6 +21,7 @@ const views = {
   roster: renderRoster,
   districts: renderDistricts,
   budget: renderBudget,
+  india: renderIndia,
   promises: renderPromises,
   methodology: (el) => renderStatic(el, 'methodology'),
   about: (el) => renderStatic(el, 'about'),
@@ -49,6 +51,7 @@ function paintChrome(view) {
     ]],
     ['MPs', [
       [store.href('mps'), `${store.state.name} in the Lok Sabha`, ['mps']],
+      ['#/india', 'Every MP in India', ['india']],
     ]],
     ['More', [
       ...(store.budget ? [[store.href('budget'), 'Budget', ['budget']]] : []),
@@ -72,7 +75,8 @@ function paintChrome(view) {
   }).join('');
 
   document.getElementById('site-header').innerHTML = `
-    <a href="${store.href()}" class="logo">ssup with ${escapeHtml(store.state.name)}</a>
+    <a href="${view === 'india' ? '#/india' : store.href()}" class="logo">ssup with ${
+  view === 'india' ? 'India' : escapeHtml(store.state.name)}</a>
     <nav>
       ${markup}
       <label class="state-switch">
@@ -120,19 +124,25 @@ async function boot() {
   onRouteChange(async (hash) => {
     const route = parseRoute(hash, known);
 
-    // An address that does not name a state gets one — the reader's last,
-    // or the first we hold — and is rewritten so it can be shared.
-    if (!route.state) {
+    // The national map is the one page that is about no single state, so
+    // it keeps its address instead of being sent to one. Everything else
+    // without a state gets one — the reader's last, or the first we hold —
+    // and is rewritten so it can be shared.
+    if (!route.state && route.view !== 'india') {
       const rest = String(hash || '').replace(/^#\/?/, '');
       window.location.replace(`#/${store.preferred()}${rest ? `/${rest}` : ''}`);
       return;
     }
 
-    await store.load(route.state);
-    store.remember(route.state);
+    // The header still names a state — its switcher and menus are built
+    // from one — so the national page borrows the reader's own without
+    // claiming to be about it.
+    const chromeState = route.state ?? store.preferred();
+    await store.load(chromeState);
+    if (route.state) store.remember(route.state);
 
     const view = views[route.view] ? route.view : 'home';
-    document.title = `ssup with ${store.state.name}`;
+    document.title = view === 'india' ? 'Every MP in India' : `ssup with ${store.state.name}`;
     paintChrome(view);
     app.innerHTML = '';
     document.body.dataset.view = view;
