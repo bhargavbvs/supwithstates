@@ -27,6 +27,7 @@ export function projectIndia(pcFc, outlinesFc) {
   const byId = new Map(pcFc.features.map((f) => [f.properties.id, f.properties]));
   return {
     viewBox: projected.viewBox,
+    projection: projected.projection,
     constituencies: projected.constituencies.map((c) => {
       const p = byId.get(c.ac_no);
       return {

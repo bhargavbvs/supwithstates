@@ -108,6 +108,8 @@ export function renderIndia(el) {
                    autocomplete="off" aria-label="Find an MP or a Lok Sabha seat" />
             <ul id="results" role="listbox"></ul>
           </div>
+          <button id="locate" type="button">Find my MP</button>
+          <p id="locate-status" role="status"></p>
         </div>
         <p class="map-note">A seat's boundary is its assembly segments joined together.
           ${counts['-1'] > 0 ? `${counts['-1']} seat${counts['-1'] === 1 ? '' : 's'} on this map
@@ -189,19 +191,85 @@ export function renderIndia(el) {
       applyFilters();
     });
 
+    const status = el.querySelector('#locate-status');
+
     const seatHref = (id) => {
       const s = seatOf.get(id);
       return s ? `#/${s.state}/mps/${s.pc_no}` : '#/india';
+    };
+
+    // Two seats are drawn with no member's record read yet. Sending a
+    // reader to their page produced "No such seat", which is not true — the
+    // seat is real and it is the record that is missing. So the map says
+    // that instead of navigating anywhere.
+    const hasRecord = new Set(records.map((r) => r.constituency.number));
+    const openSeat = (id) => {
+      if (hasRecord.has(id)) { window.location.hash = seatHref(id); return; }
+      const s = seatOf.get(id);
+      status.textContent = s
+        ? `${s.name} (${s.stateName}) — no member's record has been read for this seat yet.`
+        : 'No record for that seat yet.';
     };
 
     const mapEl = el.querySelector('#map');
     map = renderMap(mapEl, {
       mapData,
       records,
-      onSelect: (id) => { window.location.hash = seatHref(id); },
+      onSelect: openSeat,
     });
     mapEl.appendChild(legend);
     applyFilters();
+
+    // Which seat a point falls in, asked of the shapes already on screen.
+    //
+    // The alternative was to serve the unprojected geometry a second time —
+    // another 430KB for one question — when the browser can already test a
+    // point against a path it has drawn. The map file carries the numbers
+    // its paths were projected with, so a longitude and latitude can be put
+    // into the picture's own coordinates and handed to isPointInFill.
+    //
+    // Zoom and pan live on a transform above these paths, and a path's local
+    // coordinate system is the one its "d" is written in, so the answer does
+    // not change with the view.
+    function seatAtPoint(lng, lat) {
+      const svg = el.querySelector('#ap-svg');
+      const pr = mapData.projection;
+      if (!svg || !pr || typeof DOMPoint === 'undefined') return null;
+      const pt = new DOMPoint(
+        (lng * pr.xScale - pr.rawMinX) * pr.scale,
+        pr.viewHeight - (lat - pr.minLat) * pr.scale,
+      );
+      for (const path of svg.querySelectorAll('path.ac')) {
+        if (typeof path.isPointInFill === 'function' && path.isPointInFill(pt)) {
+          return Number(path.dataset.acNo);
+        }
+      }
+      return null;
+    }
+    el.__seatAtPoint = seatAtPoint; // exercised by the browser check in CI
+
+    el.querySelector('#locate').addEventListener('click', () => {
+      if (!navigator.geolocation) {
+        status.textContent = 'Location is not available in this browser.';
+        return;
+      }
+      status.textContent = 'Finding your seat…';
+      navigator.geolocation.getCurrentPosition(({ coords }) => {
+        const id = seatAtPoint(coords.longitude, coords.latitude);
+        if (id == null) {
+          const s = seatOf.size;
+          status.textContent = s
+            ? 'That point is not inside a seat on this map — Assam and Jammu & Kashmir are '
+              + 'not drawn here. Try searching instead.'
+            : 'Could not work that out. Try searching instead.';
+          return;
+        }
+        status.textContent = '';
+        openSeat(id);
+      }, () => {
+        status.textContent = 'Location permission denied. Try searching instead.';
+      }, { enableHighAccuracy: false, timeout: 10000 });
+    });
 
     const input = el.querySelector('#q');
     const results = el.querySelector('#results');

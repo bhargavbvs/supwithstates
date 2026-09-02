@@ -82,7 +82,7 @@ writeFileSync(`${TMP}/st-all.json`, JSON.stringify({ type: 'FeatureCollection', 
 // ---- 2. Simplify until it fits what a reader should have to download
 // Highest fidelity first: the budget is what a reader downloads, so the
 // question is how much detail fits inside it, not how little will do.
-const STEPS = ['60%', '40%', '28%', '20%', '14%', '10%', '6%', '4%', '2%', '1%'];
+const STEPS = ['100%', '85%', '70%', '55%', '40%', '28%', '20%', '14%', '10%', '6%', '3%'];
 let chosen = null;
 for (const pct of STEPS) {
   mapshaper([`${TMP}/pc-all.json`, '-simplify', pct, 'keep-shapes', '-clean',

@@ -99,6 +99,11 @@ export function projectGeo(constituenciesFc, districtsFc) {
 
   return {
     viewBox: `0 0 ${VIEW_WIDTH.toFixed(2)} ${viewHeight.toFixed(2)}`,
+    // The same numbers the paths were drawn with, so a caller can put a
+    // longitude and latitude into this picture's own coordinates — which is
+    // what "find my seat" needs, and is cheaper than shipping the
+    // unprojected geometry a second time to answer one question.
+    projection: { xScale, rawMinX, scale, viewHeight, minLat },
     constituencies,
     districts
   };
