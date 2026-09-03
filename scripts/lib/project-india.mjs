@@ -35,6 +35,15 @@ export function projectIndia(pcFc, outlinesFc) {
         pc_no: p.pc_no, d: c.d,
       };
     }),
-    districts: projected.districts,
+    // projectGeo keeps feature order, so the flag is re-attached by index —
+    // it only carries a name and a path through.
+    districts: projected.districts.map((d, i) => ({
+      ...d,
+      state_name: outlinesFc.features[i].properties.state_name,
+      covered: outlinesFc.features[i].properties.covered !== false,
+    })),
+    notCovered: outlinesFc.features
+      .filter((f) => f.properties.covered === false)
+      .map((f) => f.properties.state_name),
   };
 }

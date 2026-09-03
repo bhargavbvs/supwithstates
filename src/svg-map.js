@@ -31,8 +31,13 @@ export function renderMap(container, { mapData, records, onSelect }) {
       aria-label="${escapeHtml(c.name)}${rec ? `, ${escapeHtml(rec.representative.name)}` : ''}"></path>`;
   }).join('');
 
+  // A region the map draws but holds no members for is filled differently,
+  // so it reads as "nothing known here" rather than as an ordinary blank
+  // part of the picture. State maps carry no such flag and are unaffected.
   const districtFills = mapData.districts.map((d) =>
-    `<path d="${d.d}" fill-rule="evenodd"></path>`
+    `<path${d.covered === false ? ' class="not-covered"' : ''} d="${d.d}" fill-rule="evenodd"${
+  d.covered === false && d.state_name
+    ? ` aria-label="${escapeHtml(d.state_name)}: not covered"` : ''}></path>`
   ).join('');
   const districtPaths = mapData.districts.map((d) =>
     `<path class="district-line" d="${d.d}" fill-rule="evenodd"></path>`

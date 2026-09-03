@@ -278,6 +278,10 @@ body[data-view="india"] #app {
   pointer-events: none;
 }
 
+/* Drawn, but nothing known inside it. Grey rather than the pale green of
+   the ordinary base, so a reader can tell "no data" from "sea". */
+#base-layer path.not-covered { fill: #d8d5cf; }
+
 path.ac {
   stroke: #ffffff;
   stroke-width: 0.8;

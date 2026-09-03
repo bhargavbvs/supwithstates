@@ -41,17 +41,25 @@ for (const slug of buildable()) {
   const fc = JSON.parse(readFileSync(src, 'utf8'));
   const withPc = fc.features.filter((f) => f.properties?.PC_NO !== undefined
     && f.properties.PC_NO !== null && String(f.properties.PC_NO) !== '');
-  if (!withPc.length) { skipped.push([slug, 'assembly seats carry no PC number']); continue; }
+
+  // A state whose seats cannot be drawn is still part of the country. Left
+  // out entirely, Jammu & Kashmir took the top of the map with it and India
+  // simply ended above Himachal — which reads as a clipped picture rather
+  // than as missing data. Its outline is drawn, unfilled by any seat, and
+  // the page says why.
+  const covered = withPc.length > 0;
+  if (!covered) skipped.push([slug, 'assembly seats carry no parliamentary seat number']);
 
   const tagged = {
     type: 'FeatureCollection',
-    features: withPc.map((f) => ({
+    features: (covered ? withPc : fc.features).map((f) => ({
       ...f,
       properties: {
         state: slug,
         state_name: stateConfig(slug).name,
         pc_no: Number(f.properties.PC_NO),
         pc_name: f.properties.PC_NAME ?? '',
+        covered,
       },
     })),
   };
@@ -62,9 +70,9 @@ for (const slug of buildable()) {
   mapshaper([inFile, '-dissolve', 'pc_no,state',
     'copy-fields=state_name,pc_name', '-o', `${TMP}/${slug}-pc.json`]);
   mapshaper([inFile, '-dissolve', 'state',
-    'copy-fields=state_name', '-o', `${TMP}/${slug}-outline.json`]);
+    'copy-fields=state_name,covered', '-o', `${TMP}/${slug}-outline.json`]);
 
-  pcParts.push(...JSON.parse(readFileSync(`${TMP}/${slug}-pc.json`, 'utf8')).features);
+  if (covered) pcParts.push(...JSON.parse(readFileSync(`${TMP}/${slug}-pc.json`, 'utf8')).features);
   stParts.push(...JSON.parse(readFileSync(`${TMP}/${slug}-outline.json`, 'utf8')).features);
 }
 
@@ -106,4 +114,4 @@ rmSync(TMP, { recursive: true, force: true });
 console.log(`\n✔ ${OUT}/: ${chosen.projected.constituencies.length} constituencies, `
   + `${chosen.projected.districts.length} state outlines, simplified to ${chosen.pct}, `
   + `${(chosen.bytes / 1024).toFixed(0)} KB gzipped once projected`);
-for (const [slug, why] of skipped) console.log(`  — ${slug} left out: ${why}`);
+for (const [slug, why] of skipped) console.log(`  — ${slug} drawn but uncoloured: ${why}`);

@@ -114,8 +114,10 @@ export function renderIndia(el) {
         <p class="map-note">A seat's boundary is its assembly segments joined together.
           ${counts['-1'] > 0 ? `${counts['-1']} seat${counts['-1'] === 1 ? '' : 's'} on this map
           ${counts['-1'] === 1 ? 'has' : 'have'} no member's record read yet.` : ''}
-          Assam and Jammu &amp; Kashmir are missing: the boundary files for those two carry no
-          parliamentary seat, so their seats cannot be drawn from what is here.</p>
+          ${!(mapData.notCovered ?? []).length ? '' : `${
+  mapData.notCovered.map(escapeHtml).join(' and ')} ${mapData.notCovered.length === 1 ? 'is' : 'are'}
+          drawn in grey: their boundary files carry no parliamentary seat, so the seats inside
+          ${mapData.notCovered.length === 1 ? 'it' : 'them'} cannot be drawn from what is here.`}</p>
         </div>
       </div>`;
 
