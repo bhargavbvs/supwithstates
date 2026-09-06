@@ -208,7 +208,7 @@ a {
    the absolutely-positioned #map anchored to the viewport instead — which
    put the panel 52px up behind the header. */
 body[data-view="home"] #app,
-body[data-view="india"] #app {
+body[data-hero="map"] #app {
   padding: 0;
   max-width: none;
   margin: 0;

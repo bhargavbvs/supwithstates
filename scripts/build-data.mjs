@@ -129,6 +129,27 @@ for (const slug of slugs) {
   const mapOut = join(geoDir, `${slug}-map.json`);
   writeFileSync(mapOut, JSON.stringify(projectGeo(acFc, districtsFc)));
 
+  // The same state, drawn as its parliamentary seats instead of its
+  // assembly ones. The shapes come from the national file — a PC is its
+  // assembly segments dissolved together — so the two maps of a state can
+  // never disagree about where a boundary runs.
+  let pcMapNote = '';
+  const pcSrc = 'content/india/pc.geojson';
+  if (existsSync(pcSrc)) {
+    const pcAll = JSON.parse(readFileSync(pcSrc, 'utf8'));
+    const mine = pcAll.features.filter((f) => f.properties.state === slug);
+    if (mine.length) {
+      const pcMapOut = join(geoDir, `${slug}-pc-map.json`);
+      writeFileSync(pcMapOut, JSON.stringify(projectGeo(
+        { type: 'FeatureCollection',
+          features: mine.map((f) => ({ ...f, properties: {
+            AC_NO: f.properties.pc_no, AC_NAME: f.properties.pc_name, district: slug } })) },
+        districtsFc,
+      )));
+      pcMapNote = `, ${mine.length} PC map ${assertBudget(pcMapOut, 400 * 1024)} bytes`;
+    }
+  }
+
   index.push({
     slug, name: state.name, assembly_size: state.assembly_size,
     profiled: constituencies.length, mps: mps.length,
@@ -141,7 +162,7 @@ for (const slug of slugs) {
   for (const mp of mps) nationalMps.push({ state: slug, pc_no: mp.constituency.number, ...mp });
 
   console.log(`✔ ${slug}: ${constituencies.length} constituencies, ${mps.length} MPs, `
-    + `${assertBudget(out, 400 * 1024)} bytes; map ${assertBudget(mapOut, 400 * 1024)} bytes`);
+    + `${assertBudget(out, 400 * 1024)} bytes; map ${assertBudget(mapOut, 400 * 1024)} bytes${pcMapNote}`);
 }
 
 // Alphabetical, so the switcher does not reorder itself when a state is

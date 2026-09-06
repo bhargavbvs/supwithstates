@@ -145,6 +145,7 @@ async function boot() {
     document.title = view === 'india' ? 'Every MP in India' : `ssup with ${store.state.name}`;
     paintChrome(view);
     app.innerHTML = '';
+    delete document.body.dataset.hero;
     document.body.dataset.view = view;
     (views[view] ?? renderHome)(app, route.param);
     window.scrollTo(0, 0);

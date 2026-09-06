@@ -1,5 +1,8 @@
 import { store } from '../store.js';
-import { formatDeclaredCases, severityOf, initials, escapeHtml } from '../format.js';
+import { mountMapHero } from './map-hero.js';
+import {
+  formatDeclaredCases, severityOf, initials, escapeHtml, formatRupeesCompact, CASE_DISCLAIMER,
+} from '../format.js';
 import {
   profileHead, severityBadge, casesSection, assetsSection, educationSection, partyChip,
 } from './profile.js';
@@ -16,7 +19,7 @@ function profile(rec) {
     + `${rep.profession ? ` · ${escapeHtml(rep.profession)}` : ''}`;
 
   return `
-    <a class="back" href="${store.href('mps')}">← All MPs</a>
+    <a class="back" href="${store.href('mps')}">← Lok Sabha map</a>
     ${profileHead(rep, seatLine)}
     ${severityBadge(rep)}
     <p class="disclaimer">${formatDeclaredCases(rep.declared_cases).disclaimer}</p>
@@ -44,26 +47,59 @@ function profile(rec) {
     </section>`;
 }
 
-export function renderMps(el, param) {
-  const mps = store.mps;
+/** The seats of one state, drawn.
+ *
+ *  The shapes come from the national parliamentary file — a PC is its
+ *  assembly segments dissolved together — so this map and the state's
+ *  assembly map can never disagree about where a boundary runs.
+ */
+function renderMpMap(el, mps) {
+  el.innerHTML = '<div id="map"></div><p class="loading">Loading the map…</p>';
+  fetch(`/geo/${store.slug}-pc-map.json`).then((r) => {
+    if (!r.ok) throw new Error('no parliamentary map for this state');
+    return r.json();
+  }).then((mapData) => {
+    const withCases = mps.filter((m) => (m.representative.declared_cases?.total ?? 0) > 0).length;
+    const assets = mps.reduce((a, m) => a + (m.representative.assets?.total ?? 0), 0);
+    const byNo = new Map(mps.map((m) => [m.constituency.number, m]));
+    const nameOf = new Map(mapData.constituencies.map((c) => [c.ac_no, c.name]));
 
-  if (!mps.length) {
-    el.innerHTML = `<p class="empty">No members of parliament are profiled for
-      ${escapeHtml(store.state.name)} yet. <a href="${store.href()}">Back to map</a></p>`;
-    return;
-  }
+    mountMapHero(el, {
+      mapData,
+      records: mps,
+      seats: mapData.constituencies.length,
+      title: `${store.state.name} in the Lok Sabha`,
+      stats: [
+        { value: mapData.constituencies.length, label: 'Lok Sabha seats' },
+        { value: `${Math.round((withCases / mps.length) * 100)}%`, label: 'with declared criminal cases' },
+        { value: formatRupeesCompact(assets), label: 'total declared assets' },
+      ],
+      hrefFor: (id) => (byNo.has(id) ? store.href(`mps/${id}`) : null),
+      missingText: (id) => `${nameOf.get(id) ?? 'That seat'} — no member's record has been read yet.`,
+      note: `${CASE_DISCLAIMER}
+        <a href="${store.href('mps/all')}">See them as a list</a>.`,
+      search: {
+        placeholder: 'Find an MP or a Lok Sabha seat',
+        run: (q) => {
+          const t = q.toLowerCase();
+          return mps.filter((m) => m.representative.name.toLowerCase().includes(t)
+            || m.constituency.name.toLowerCase().includes(t))
+            .slice(0, 12)
+            .map((m) => ({
+              href: store.href(`mps/${m.constituency.number}`),
+              title: m.constituency.name,
+              sub: m.representative.name,
+            }));
+        },
+      },
+    });
+  }).catch(() => renderMpList(el, mps));
+}
 
-  if (param) {
-    const one = mps.find((m) => String(m.constituency.number) === String(param));
-    el.innerHTML = one
-      ? profile(one)
-      : `<p class="empty">No such seat. <a href="${store.href('mps')}">All MPs</a></p>`;
-    return;
-  }
-
+function renderMpList(el, mps) {
   const withCases = mps.filter((m) => m.representative.declared_cases.total > 0).length;
   el.innerHTML = `
-    <a class="back" href="${store.href()}">← Map</a>
+    <a class="back" href="${store.href('mps')}">← Lok Sabha map</a>
     <h1>${escapeHtml(store.state.name)} in the Lok Sabha</h1>
     <p class="sub">${mps.length} seats · ${withCases} members with declared criminal cases</p>
     <ul class="ac-list">
@@ -87,4 +123,28 @@ export function renderMps(el, param) {
         </li>`;
   }).join('')}
     </ul>`;
+}
+
+export function renderMps(el, param) {
+  const mps = store.mps;
+
+  if (!mps.length) {
+    el.innerHTML = `<p class="empty">No members of parliament are profiled for
+      ${escapeHtml(store.state.name)} yet. <a href="${store.href()}">Back to map</a></p>`;
+    return;
+  }
+
+  // "all" is the list; a number is one seat; nothing is the map. A seat
+  // number can never be the word "all", so the two cannot collide.
+  if (param === 'all') { renderMpList(el, mps); return; }
+
+  if (param) {
+    const one = mps.find((m) => String(m.constituency.number) === String(param));
+    el.innerHTML = one
+      ? profile(one)
+      : `<p class="empty">No such seat. <a href="${store.href('mps')}">All MPs</a></p>`;
+    return;
+  }
+
+  renderMpMap(el, mps);
 }
