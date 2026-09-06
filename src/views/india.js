@@ -60,7 +60,7 @@ export function renderIndia(el) {
       hrefFor: seatHref,
       missingText: (id) => {
         const s = seatOf.get(id);
-        return s ? `${s.name} (${s.stateName}) — no member's record has been read for this seat yet.`
+        return s ? `${s.name} (${s.stateName}): no member's record has been read for this seat yet.`
           : 'No record for that seat yet.';
       },
       note: `${CASE_DISCLAIMER} A seat's boundary is its assembly segments joined together.
@@ -129,7 +129,7 @@ export function renderIndia(el) {
       navigator.geolocation.getCurrentPosition(({ coords }) => {
         const id = seatAtPoint(coords.longitude, coords.latitude);
         if (id == null) {
-          hero.status.textContent = 'That point is not inside a seat on this map — Assam and '
+          hero.status.textContent = 'That point is not inside a seat on this map. Assam and '
             + 'Jammu & Kashmir are not drawn here. Try searching instead.';
           return;
         }

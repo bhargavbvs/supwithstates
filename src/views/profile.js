@@ -105,8 +105,8 @@ export function assetsSection(rep) {
   const owedLine = owes === 0
     ? 'No liabilities declared'
     : share >= 2
-      ? `Liabilities — ${share.toFixed(share >= 10 ? 0 : 1)}× what they declared owning`
-      : `Liabilities — ${Math.round(share * 100)}% of what they declared owning`;
+      ? `Liabilities: ${share.toFixed(share >= 10 ? 0 : 1)}× what they declared owning`
+      : `Liabilities: ${Math.round(share * 100)}% of what they declared owning`;
 
   return `
     <section>
@@ -116,7 +116,7 @@ export function assetsSection(rep) {
         <span class="worth-value">${formatRupees(worth)}</span>
         <span class="worth-label">${worth < 0
     ? 'Declared liabilities are larger than declared assets'
-    : 'Net worth — what they own, less what they owe'}</span>
+    : 'Net worth: what they own, less what they owe'}</span>
       </div>
 
       <div class="ledger-row">

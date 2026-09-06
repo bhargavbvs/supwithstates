@@ -3,7 +3,7 @@ export const CASE_DISCLAIMER =
   'Pending cases are allegations, not convictions.';
 
 export function formatRupees(n) {
-  if (!Number.isFinite(n)) return '—';
+  if (!Number.isFinite(n)) return '-';
   // Sixty-one members declare liabilities larger than their assets, so net
   // worth can be negative — and every comparison below is against a
   // positive threshold, which sent those down the last branch and printed
@@ -20,7 +20,7 @@ export function formatRupees(n) {
 // that scale and wraps to two lines in a narrow stat card; "₹11,415 Cr"
 // doesn't.
 export function formatRupeesCompact(n) {
-  if (!Number.isFinite(n)) return '—';
+  if (!Number.isFinite(n)) return '-';
   if (n >= 1e7) return `₹${Math.round(n / 1e7).toLocaleString('en-IN')} Cr`;
   return formatRupees(n);
 }

@@ -75,7 +75,7 @@ function renderMpMap(el, mps) {
         { value: formatRupeesCompact(assets), label: 'total declared assets' },
       ],
       hrefFor: (id) => (byNo.has(id) ? store.href(`mps/${id}`) : null),
-      missingText: (id) => `${nameOf.get(id) ?? 'That seat'} — no member's record has been read yet.`,
+      missingText: (id) => `${nameOf.get(id) ?? 'That seat'}: no member's record has been read yet.`,
       note: `${CASE_DISCLAIMER}
         <a href="${store.href('mps/all')}">See them as a list</a>.`,
       search: {

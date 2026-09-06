@@ -10,9 +10,9 @@ record.
 
 We read them from two places:
 
-- **[MyNeta]({{myneta}})** — a project of the Association for Democratic Reforms
+- **[MyNeta]({{myneta}})**: a project of the Association for Democratic Reforms
   (ADR), which digitises and publishes every candidate's affidavit.
-- **ECI affidavits** — the original filings.
+- **ECI affidavits**: the original filings.
 
 Where ADR's published data and the ECI's original affidavit disagree, **the ECI
 version is authoritative**. ADR says so themselves.
@@ -26,17 +26,17 @@ judgment about guilt.
 
 **Pending cases are allegations, not convictions.** Cases in Indian politics are
 often filed across party lines and remain pending for years. A pending case does
-not mean someone did something wrong — it means a case exists in court.
+not mean someone did something wrong. It means a case exists in court.
 
 Three separate numbers are shown for every member:
 
-- **Total declared criminal cases** — every pending case the candidate listed.
-- **Serious declared cases** — where the maximum punishment is five years or
+- **Total declared criminal cases**: every pending case the candidate listed.
+- **Serious declared cases**: where the maximum punishment is five years or
   more. That category is ADR's definition, not ours. For some elections ADR
   publishes only the list of who has declared such a case and not how many each
   has; where that is so, the record says which of the two we know and never
   guesses the other.
-- **Convictions** — where a court has found the person guilty. Always shown
+- **Convictions**: where a court has found the person guilty. Always shown
   separately, never folded into the total.
 
 ## What "declared assets" means
@@ -52,13 +52,13 @@ Amounts are in rupees, shown in crores or lakhs for readability.
 Most of the photographs here are **the one the candidate filed with their own
 affidavit**, published by ADR alongside it and credited as such.
 
-For four state elections ADR published almost none — Manipur, Punjab and
-Himachal Pradesh in 2022, and Gujarat — and its pages carry the picture frame
+For four state elections ADR published almost none (Manipur, Punjab and
+Himachal Pradesh in 2022, and Gujarat), and its pages carry the picture frame
 with no file in it. Those members' photographs come instead from Wikipedia,
 under licences that permit republication, credited on the page.
 
 A photograph is only taken from an article that **proves it is about that
-legislator** — by naming the constituency they hold, or by naming both their
+legislator**, by naming the constituency they hold, or by naming both their
 state's assembly and their party. Where that cannot be shown, no photograph is
 used and the page shows their initials. A wrong face on a named person is worse
 than no face.
@@ -69,7 +69,7 @@ Where a state's budget is shown, the figures come from **PRS Legislative
 Research**, an independent institute that reads each state's Annual Financial
 Statement and budget documents and publishes an analysis of them. We read that
 analysis, not the state's own scanned volumes, because it is the only form these
-numbers exist in that anyone can check line by line — and every figure links
+numbers exist in that anyone can check line by line, and every figure links
 back to the document it was taken from.
 
 They are **budget estimates**: what the state has said it plans to spend, not
@@ -97,7 +97,7 @@ neighbour's outline.
 
 If something is wrong, we want to know. Write to
 [{{corrections}}](mailto:{{corrections}}) with the constituency, what looks
-wrong, and — if you have it — the ECI affidavit that shows the correct figure.
+wrong, and, if you have it, the ECI affidavit that shows the correct figure.
 We check it against the original and update the record.
 
 Every profile carries the affidavit it was read from and the date it was

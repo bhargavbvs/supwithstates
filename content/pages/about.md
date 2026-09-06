@@ -3,7 +3,7 @@
 ## What is this?
 
 A free, non-commercial site that shows who represents your assembly constituency
-in {{state}} — and what they declared about themselves before they were elected.
+in {{state}}, and what they declared about themselves before they were elected.
 
 Every member filed a sworn affidavit with the Election Commission before the
 {{year}} election, covering their education, declared criminal cases, assets and

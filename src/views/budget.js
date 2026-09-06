@@ -29,7 +29,7 @@ const arrow = (up) => '<svg class="chg-arrow" viewBox="0 0 12 12" aria-hidden="t
  *  that carries its number and one that does not. The lede says once what
  *  a crore is, for a reader who does not already know. */
 function crore(n) {
-  if (!Number.isFinite(n)) return '—';
+  if (!Number.isFinite(n)) return '-';
   if (n >= 100000) return `₹${(n / 100000).toFixed(2)} lakh cr`;
   return `₹${n.toLocaleString('en-IN')} cr`;
 }
@@ -127,7 +127,7 @@ export function renderBudget(el, param) {
     <section>
       <h2>${hasFiscal ? 'Debt and deficits' : "The state's economy"}</h2>
       ${!hasFiscal ? '' : `<p class="sub">The figures a state's finances are usually judged on, each
-        as a share of the size of the state's economy — which is how they are set, compared and
+        as a share of the size of the state's economy, which is how they are set, compared and
         capped.</p>`}
       ${!h.gsdp ? '' : `
       <p class="gsdp">
@@ -142,7 +142,7 @@ export function renderBudget(el, param) {
         <div>
           <dt>Fiscal deficit</dt>
           <dd><b>${b.fiscal.fiscalDeficit.budgeted}%</b> of the state's economy</dd>
-          <dd class="fiscal-note">Everything it spends beyond what it receives — the borrowed part of the bar below.
+          <dd class="fiscal-note">Everything it spends beyond what it receives: the borrowed part of the bar below.
             ${b.fiscal.fiscalDeficitCeilingPctGsdp == null ? ''
     : `The centre's limit for states is ${b.fiscal.fiscalDeficitCeilingPctGsdp}%.`}</dd>
         </div>`}
@@ -153,9 +153,9 @@ export function renderBudget(el, param) {
           <dd class="fiscal-note">${{
     surplus: `It takes in more for its running costs than it spends on them, so it is not borrowing
               to pay for salaries, pensions and interest.`,
-    balance: `It expects to take in exactly what its running costs come to — neither borrowing for
+    balance: `It expects to take in exactly what its running costs come to, neither borrowing for
               them nor putting anything by.`,
-    deficit: `Borrowing that pays for running costs rather than for anything built or bought —
+    deficit: `Borrowing that pays for running costs rather than for anything built or bought:
               salaries, pensions, interest.`,
   }[b.fiscal.revenueBalance.kind]}</dd>
         </div>`}
@@ -166,7 +166,7 @@ export function renderBudget(el, param) {
           <dd class="fiscal-note">Everything borrowed and not yet repaid, added up over the years.</dd>
         </div>`}
       </dl>`}
-      ${h.gsdp ? '' : `<p class="sub">"the state's economy" is its GSDP — the value of everything
+      ${h.gsdp ? '' : `<p class="sub">"the state's economy" is its GSDP, the value of everything
         produced in the state in a year.</p>`}
     </section>`;
 
@@ -182,7 +182,7 @@ export function renderBudget(el, param) {
       </nav>`}
     <p class="lede">A budget is a plan for the year: how much money the state thinks it will get,
       and what it means to spend it on. Everything below is that plan, not what has been spent.
-      Money is in crore — one crore is ten million rupees — written <b>cr</b>.</p>
+      Money is in crore (one crore is ten million rupees), written <b>cr</b>.</p>
 
     ${debt}
 
@@ -236,7 +236,7 @@ export function renderBudget(el, param) {
       <div id="treemap" role="img"
         aria-label="${escapeHtml(b.sectors.map((s) => `${s.name} ${crore(s.budgeted)}`).join(', '))}, everything else ${crore(rest)}"></div>
       <p class="sub" style="margin-top:0.9rem">The same spending as a list. Beside each one is how much
-        more, or less, it is than ${escapeHtml(lastYear)} — comparing this year's plan with what last
+        more, or less, it is than ${escapeHtml(lastYear)}, comparing this year's plan with what last
         year's spending was finally revised to.</p>
       ${sectorRows}
     </section>
@@ -245,7 +245,7 @@ export function renderBudget(el, param) {
     <section>
       <h2>Year by year</h2>
       <p class="sub">The same three lines across the years the budget reports. They are not the same
-        kind of number — ${escapeHtml(b.years.map((y) => `${y.label} is what was ${y.kind}`).join(', '))} —
+        kind of number (${escapeHtml(b.years.map((y) => `${y.label} is what was ${y.kind}`).join(', '))}),
         so each bar says which it is.</p>
       ${['netExpenditure', 'netReceipts', 'fiscalDeficit'].map((key) => {
     const row = b.overYears[key];
@@ -270,7 +270,7 @@ export function renderBudget(el, param) {
     <section>
       <h2>What it pays for</h2>
       <p class="sub">Things the budget names one by one, with a figure beside each. This is not all
-        the spending above — it is the part the budget talks about by name.</p>
+        the spending above: it is the part the budget talks about by name.</p>
       <ul class="alloc-list">
         ${allocations.map((a) => `
           <li>
@@ -283,7 +283,7 @@ export function renderBudget(el, param) {
     <section class="sources">
       <h2>Sources</h2>
       <p>Compiled by ${escapeHtml(b.source.name)} from the state's own Annual Financial Statement and
-         budget documents. Figures are budget estimates for ${escapeHtml(b.year)} — what the state plans
+         budget documents. Figures are budget estimates for ${escapeHtml(b.year)}: what the state plans
          to spend, not what it has spent.</p>
       <ul>
         <li><a href="${escapeHtml(b.source.analysis)}">${escapeHtml(b.source.name)}: budget analysis</a></li>
@@ -339,7 +339,7 @@ export function renderBudget(el, param) {
     box.innerHTML = treemap(items, w, hgt).map(({ x, y, w: tw, h: th, item }) => `
       <div class="tm-tile ${item.other ? 'tm-other' : `tm-${Math.min(item.rank, 9)}`}"
         style="left:${x.toFixed(2)}px;top:${y.toFixed(2)}px;width:${tw.toFixed(2)}px;height:${th.toFixed(2)}px"
-        title="${escapeHtml(`${item.official ?? item.name} — ${crore(item.value)}`)}">
+        title="${escapeHtml(`${item.official ?? item.name}: ${crore(item.value)}`)}">
         ${tw > 70 ? `<span class="tm-name">${escapeHtml(item.name)}</span>` : ''}
         <span class="tm-amt" data-value="${item.value}" data-share="${item.share}">${crore(item.value)}</span>
       </div>`).join('');

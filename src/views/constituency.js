@@ -33,7 +33,7 @@ export function renderConstituency(el, param) {
   // --- Party defection notice ---
   const defected = rep.party_changed
     ? `<p class="defection">Elected on <b>${escapeHtml(rep.elected_party)}</b>, now <b>${escapeHtml(rep.current_party)}</b>
-       (${escapeHtml(rep.party_changed.date)}) — <a href="${escapeHtml(rep.party_changed.source_url)}">source</a></p>`
+       (${escapeHtml(rep.party_changed.date)}) · <a href="${escapeHtml(rep.party_changed.source_url)}">source</a></p>`
     : '';
 
   const seatLine = `${escapeHtml(ac.name)} (AC ${ac.number})`

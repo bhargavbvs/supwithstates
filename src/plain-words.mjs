@@ -19,7 +19,7 @@ const SECTORS = {
   'Welfare of SC, ST, OBC, and Minorities': 'Pensions and support for scheduled castes, tribes and other groups',
   'Education, Sports, Arts and Culture': 'Schools, colleges and teachers',
   'Health and Family Welfare': 'Hospitals, clinics and doctors',
-  'Rural Development': 'Villages — roads, work schemes, housing',
+  'Rural Development': 'Villages: roads, work schemes, housing',
   'Irrigation and Flood Control': 'Canals, dams and keeping rivers from flooding',
   'Agriculture and Allied Activities': 'Farming, and helping farmers',
   Energy: 'Electricity',
@@ -38,7 +38,7 @@ const RECEIPTS = {
   'Share in Central Taxes': 'Its share of taxes collected for the whole country',
   'Grants-in-aid from Centre': 'Grants sent by the central government',
   'Non-debt Capital Receipts': 'Money from selling things it owns, and loans repaid to it',
-  'Fiscal Deficit': 'Borrowed — it has to pay this back later',
+  'Fiscal Deficit': 'Borrowed: it has to pay this back later',
 };
 
 /** The plain phrase for an official name, or null where none is written.
