@@ -219,6 +219,10 @@ body[data-hero="map"] #app {
 #map {
   position: absolute;
   inset: 0;
+  /* Room to breathe. Fitted edge to edge, the northernmost tip sat hard
+     against the header and the whole country read as cut off even though
+     all of it was drawn. */
+  padding: 1.4rem 1.2rem 1.2rem;
   background: linear-gradient(160deg, #ebf3f0 0%, var(--bg) 55%);
   display: flex;
   align-items: center;
@@ -453,6 +457,28 @@ path.district-line {
   transition: border-color 100ms ease, color 100ms ease;
 }
 
+/* It opens something, so it says so: the same caret the header menus use,
+   turned to point down once it is open. Without it the control read as a
+   label rather than a button. */
+#filters-toggle::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.4rem;
+  border: 0.28em solid transparent;
+  border-top-color: currentColor;
+  transform: translateY(0.15em);
+  transition: transform 120ms ease;
+}
+
+#filters-toggle[aria-expanded="true"]::after {
+  transform: translateY(-0.1em) rotate(180deg);
+}
+
+#filters-toggle[aria-expanded="true"] {
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
 #filters-toggle:hover {
   border-color: var(--accent);
   color: var(--accent-ink);
@@ -551,7 +577,7 @@ path.district-line {
    covers sea rather than seats. Only where the panel is beside the map: on
    a phone it sits below, and the map has the full width. */
 @media (min-width: 900px) {
-  #map.panel-inset { padding-left: 374px; }
+  #map.panel-inset { padding-left: 386px; }
 }
 
 #map-overlay {

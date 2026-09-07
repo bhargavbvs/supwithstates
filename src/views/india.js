@@ -63,13 +63,11 @@ export function renderIndia(el) {
         return s ? `${s.name} (${s.stateName}): no member's record has been read for this seat yet.`
           : 'No record for that seat yet.';
       },
-      note: `${CASE_DISCLAIMER} A seat's boundary is its assembly segments joined together.
-        ${noRecord > 0 ? `${noRecord} seat${noRecord === 1 ? '' : 's'} here
-        ${noRecord === 1 ? 'has' : 'have'} no member's record read yet.` : ''}
-        ${!(mapData.notCovered ?? []).length ? '' : `${
-  mapData.notCovered.map(escapeHtml).join(' and ')} ${mapData.notCovered.length === 1 ? 'is' : 'are'}
-        drawn in grey: their boundary files carry no parliamentary seat, so the seats inside
-        ${mapData.notCovered.length === 1 ? 'it' : 'them'} cannot be drawn from what is here.`}`,
+      note: `${CASE_DISCLAIMER}
+        ${!(mapData.notCovered ?? []).length ? '' : `Grey: ${
+  mapData.notCovered.map(escapeHtml).join(' and ')}, whose boundary files carry no parliamentary seat.`}
+        ${noRecord > 0 ? `${noRecord} seat${noRecord === 1 ? '' : 's'}
+        ${noRecord === 1 ? 'has' : 'have'} no record yet.` : ''}`,
       search: {
         placeholder: 'Find an MP or a Lok Sabha seat',
         run: (q) => {
