@@ -50,7 +50,8 @@ function paintChrome(view) {
       [store.href('districts'), 'Districts', ['districts', 'district']],
     ]],
     ['MPs', [
-      [store.href('mps'), `${store.state.name} in the Lok Sabha`, ['mps']],
+      [store.href('mps'), 'Map', ['mps']],
+      [store.href('mps/all'), 'All MPs', ['mps']],
       ['#/india', 'Every MP in India', ['india']],
     ]],
     ['More', [

@@ -93,7 +93,7 @@ export function renderBudget(el, param) {
         <div class="spend-track">
           <span class="spend-fill" style="width:${pct(s.budgeted, widest).toFixed(1)}%"></span>
         </div>
-        <p class="spend-share">${sectorShare.get(s.name)}% of everything the state spends${
+        <p class="spend-share">${sectorShare.get(s.name)}%${
   diff == null ? '' : ` · ${change}`}</p>
       </div>`;
   }).join('');
@@ -126,15 +126,14 @@ export function renderBudget(el, param) {
   const debt = (!hasFiscal && !h.gsdp) ? '' : `
     <section>
       <h2>${hasFiscal ? 'Debt and deficits' : "The state's economy"}</h2>
-      ${!hasFiscal ? '' : `<p class="sub">The figures a state's finances are usually judged on, each
-        as a share of the size of the state's economy, which is how they are set, compared and
-        capped.</p>`}
+      ${!hasFiscal ? '' : `<p class="sub">Each as a share of the state's economy, which is how they are set
+        and capped.</p>`}
       ${!h.gsdp ? '' : `
       <p class="gsdp">
         <span class="gsdp-label">The state's economy · GSDP</span>
         <b class="gsdp-amt">${crore(h.gsdp)}</b>
-        <span class="gsdp-note">the value of everything produced in the state in a year.${
-  hasFiscal ? ' Each figure below is a share of this.' : ''}</span>
+        <span class="gsdp-note">everything produced in the state in a year.${
+  hasFiscal ? ' Each figure below is a share of it.' : ''}</span>
       </p>`}
       ${!hasFiscal ? '' : `
       <dl class="fiscal">
@@ -180,9 +179,8 @@ export function renderBudget(el, param) {
           class="year-tab${x.year === b.year ? ' on' : ''}"${x.year === b.year ? ' aria-current="true"' : ''}>${
   escapeHtml(x.year)}</a>`).join('')}
       </nav>`}
-    <p class="lede">A budget is a plan for the year: how much money the state thinks it will get,
-      and what it means to spend it on. Everything below is that plan, not what has been spent.
-      Money is in crore (one crore is ten million rupees), written <b>cr</b>.</p>
+    <p class="lede">The state's plan for the year, not what it has spent.
+      Money is in crore, written <b>cr</b>.</p>
 
     ${debt}
 
@@ -204,13 +202,13 @@ export function renderBudget(el, param) {
         <li><i class="sw have"></i>${crore(h.netReceipts)}</li>
         <li><i class="sw borrow"></i>${crore(h.fiscalDeficit)}</li>
       </ul>
-      <p class="split-total">${crore(h.netExpenditure)} to spend in all. The borrowed part is what the
-        budget calls the <b>fiscal deficit</b>.</p>
+      <p class="split-total">${crore(h.netExpenditure)} in all. The borrowed part is the
+        <b>fiscal deficit</b>.</p>
     </section>
 
     <section>
       <h2>Where the money comes from</h2>
-      <p class="sub">Not all of it is the state's own. Of everything it plans to spend this year:</p>
+      <p class="sub">Of everything it plans to spend this year:</p>
       <div class="r100" role="img" aria-label="${escapeHtml(r100.map((p) => `${p.share}% ${p.name}`).join(', '))}">
         ${r100.map((p) => `<span class="r100-seg ${p.cls}" style="width:${p.share}%"></span>`).join('')}
       </div>
@@ -230,23 +228,20 @@ export function renderBudget(el, param) {
 
     <section>
       <h2>Where it goes</h2>
-      <p class="sub">Each block is one thing the state spends on, and its size is the money: a block
-        twice as big is twice the rupees. The percentage is that block's share of everything the state
-        spends, so all eleven add up to 100. The grey block is everything else put together.</p>
+      <p class="sub">Block size is the money; the percentage is its share of all spending.
+        Grey is everything else.</p>
       <div id="treemap" role="img"
         aria-label="${escapeHtml(b.sectors.map((s) => `${s.name} ${crore(s.budgeted)}`).join(', '))}, everything else ${crore(rest)}"></div>
-      <p class="sub" style="margin-top:0.9rem">The same spending as a list. Beside each one is how much
-        more, or less, it is than ${escapeHtml(lastYear)}, comparing this year's plan with what last
-        year's spending was finally revised to.</p>
+      <p class="sub" style="margin-top:0.9rem">The same spending as a list: each one's share of
+        all spending, and the change from ${escapeHtml(lastYear)}'s revised figure.</p>
       ${sectorRows}
     </section>
 
     ${!b.years || !b.overYears ? '' : `
     <section>
       <h2>Year by year</h2>
-      <p class="sub">The same three lines across the years the budget reports. They are not the same
-        kind of number (${escapeHtml(b.years.map((y) => `${y.label} is what was ${y.kind}`).join(', '))}),
-        so each bar says which it is.</p>
+      <p class="sub">Not the same kind of number from year to year, so each bar says which
+        it is.</p>
       ${['netExpenditure', 'netReceipts', 'fiscalDeficit'].map((key) => {
     const row = b.overYears[key];
     const label = { netExpenditure: 'Spending', netReceipts: 'Money it has', fiscalDeficit: 'Borrowed' }[key];
@@ -269,8 +264,7 @@ export function renderBudget(el, param) {
 
     <section>
       <h2>What it pays for</h2>
-      <p class="sub">Things the budget names one by one, with a figure beside each. This is not all
-        the spending above: it is the part the budget talks about by name.</p>
+      <p class="sub">Not all the spending above, only the part the budget names one by one.</p>
       <ul class="alloc-list">
         ${allocations.map((a) => `
           <li>
@@ -282,16 +276,14 @@ export function renderBudget(el, param) {
 
     <section class="sources">
       <h2>Sources</h2>
-      <p>Compiled by ${escapeHtml(b.source.name)} from the state's own Annual Financial Statement and
-         budget documents. Figures are budget estimates for ${escapeHtml(b.year)}: what the state plans
-         to spend, not what it has spent.</p>
+      <p>Compiled by ${escapeHtml(b.source.name)} from the state's own budget documents. Figures are
+         budget estimates for ${escapeHtml(b.year)}: what the state plans to spend.</p>
       <ul>
         <li><a href="${escapeHtml(b.source.analysis)}">${escapeHtml(b.source.name)}: budget analysis</a></li>
         <li><a href="${escapeHtml(b.source.pdf)}">The analysis as published (PDF)</a></li>
       </ul>
-      <p>The plain wording on this page is ours, to make the budget readable. The official name of
-         every heading is printed underneath it, so any figure here can be found in the source
-         document by the name it uses there.</p>
+      <p>The plain wording is ours. The official name is printed under each heading, so any
+         figure here can be found in the source.</p>
       <p class="retrieved">Retrieved ${escapeHtml(b.source.retrieved)}</p>
     </section>`;
 
