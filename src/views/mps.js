@@ -68,7 +68,9 @@ function renderMpMap(el, mps) {
       mapData,
       records: mps,
       seats: mapData.constituencies.length,
-      title: `${store.state.name} in the Lok Sabha`,
+      title: 'What your MP declared on oath',
+      blurb: `Every Lok Sabha seat in ${escapeHtml(store.state.name)}, `
+        + 'coloured by the criminal cases its winner declared to the Election Commission.',
       stats: [
         { value: mapData.constituencies.length, label: 'Lok Sabha seats' },
         { value: `${Math.round((withCases / mps.length) * 100)}%`, label: 'with declared criminal cases' },
@@ -79,7 +81,7 @@ function renderMpMap(el, mps) {
       note: `${CASE_DISCLAIMER}
         <a href="${store.href('mps/all')}">See them as a list</a>.`,
       search: {
-        placeholder: 'Find an MP or a Lok Sabha seat',
+        placeholder: 'Lok Sabha seat or MP',
         run: (q) => {
           const t = q.toLowerCase();
           return mps.filter((m) => m.representative.name.toLowerCase().includes(t)

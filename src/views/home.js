@@ -67,6 +67,11 @@ export function renderHome(el) {
         <span class="panel-toggle-text">Hide</span>
       </button>
       <div id="panel-body">
+      <div class="panel-head">
+        <h1>What your MLA declared on oath</h1>
+        <p>Every assembly seat in ${escapeHtml(state.name)}, coloured by the criminal cases its
+          winner declared to the Election Commission.</p>
+      </div>
       <section id="stats">
         <div class="stat"><b>${state.assembly_size}</b><span>constituencies</span></div>
         <div class="stat"><b>${stats.pctWithDeclaredCases}%</b><span>with declared criminal cases</span></div>
@@ -216,7 +221,7 @@ export function renderHome(el) {
   const slot = el.querySelector('#search-slot');
   slot.innerHTML = `
     <div class="search-box">
-      <input id="q" type="search" placeholder="Find your constituency, district or MLA"
+      <input id="q" type="search" placeholder="Constituency, district or MLA"
              autocomplete="off" aria-label="Find your constituency" />
       <ul id="results" role="listbox"></ul>
     </div>

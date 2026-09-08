@@ -50,7 +50,9 @@ export function renderIndia(el) {
       mapData,
       records,
       seats,
-      title: 'Every MP in India',
+      title: 'What your MP declared on oath',
+      blurb: 'Every Lok Sabha seat in India, coloured by the criminal cases its winner declared '
+        + 'to the Election Commission.',
       panelInset: true,
       stats: [
         { value: seats, label: 'seats on the map' },
@@ -69,7 +71,7 @@ export function renderIndia(el) {
         ${noRecord > 0 ? `${noRecord} seat${noRecord === 1 ? '' : 's'}
         ${noRecord === 1 ? 'has' : 'have'} no record yet.` : ''}`,
       search: {
-        placeholder: 'Find an MP or a Lok Sabha seat',
+        placeholder: 'Lok Sabha seat, MP or state',
         run: (q) => {
           const t = q.toLowerCase();
           return records.filter((r) => r.representative.name.toLowerCase().includes(t)

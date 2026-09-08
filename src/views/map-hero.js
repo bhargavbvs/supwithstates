@@ -36,7 +36,8 @@ const chips = (dim, entries, colored = false) => entries.map(([value, n]) => {
  * @param mapData     projected map: { viewBox, constituencies, districts }
  * @param records     members, keyed to the map by constituency.number
  * @param seats       how many shapes the map draws (may exceed records)
- * @param title       screen-reader heading for the page
+ * @param title       the page's heading, shown
+ * @param blurb       one line under it saying what is being looked at
  * @param stats       [{ value, label }] for the panel
  * @param hrefFor     (id) => url, or null where there is no record
  * @param missingText (id) => what to say when a shape has no record
@@ -45,7 +46,8 @@ const chips = (dim, entries, colored = false) => entries.map(([value, n]) => {
  * @param panelInset  true where the panel would otherwise cover the subject
  */
 export function mountMapHero(el, {
-  mapData, records, seats, title, stats, hrefFor, missingText, note, search, panelInset = false,
+  mapData, records, seats, title, blurb, stats, hrefFor, missingText, note, search,
+  panelInset = false,
 }) {
   // The full-bleed layout follows what is actually on the page, not what the
   // route is called: /mps is a map, a list and a profile at different times,
@@ -64,7 +66,10 @@ export function mountMapHero(el, {
         <span class="panel-toggle-text">Hide</span>
       </button>
       <div id="panel-body">
-      <h1 class="sr-only">${escapeHtml(title)}</h1>
+      <div class="panel-head">
+        <h1>${escapeHtml(title)}</h1>
+        ${blurb ? `<p>${blurb}</p>` : ''}
+      </div>
       <section id="stats">
         ${stats.map((s) => `<div class="stat"><b>${s.value}</b><span>${escapeHtml(s.label)}</span></div>`).join('')}
       </section>

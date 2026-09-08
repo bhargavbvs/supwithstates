@@ -76,8 +76,8 @@ function paintChrome(view) {
   }).join('');
 
   document.getElementById('site-header').innerHTML = `
-    <a href="${view === 'india' ? '#/india' : store.href()}" class="logo">ssup with ${
-  view === 'india' ? 'India' : escapeHtml(store.state.name)}</a>
+    <a href="${view === 'india' ? '#/india' : store.href()}" class="logo">
+      <b>On Oath</b><span>${view === 'india' ? 'India' : escapeHtml(store.state.name)}</span></a>
     <nav>
       ${markup}
       <label class="state-switch">
@@ -143,7 +143,13 @@ async function boot() {
     if (route.state) store.remember(route.state);
 
     const view = views[route.view] ? route.view : 'home';
-    document.title = view === 'india' ? 'Every MP in India' : `ssup with ${store.state.name}`;
+    // The tab, and anything that quotes the page, should say what it is.
+    const where = view === 'india' ? 'India' : store.state.name;
+    document.title = `On Oath · what your ${view === 'india' || view === 'mps' ? 'MP' : 'MLA'} `
+      + `declared · ${where}`;
+    document.querySelector('meta[name="description"]')?.setAttribute('content',
+      `The criminal cases, assets and education every legislator in ${where} declared on oath to `
+      + 'the Election Commission before they were elected.');
     paintChrome(view);
     app.innerHTML = '';
     delete document.body.dataset.hero;

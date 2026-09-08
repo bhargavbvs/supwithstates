@@ -594,6 +594,40 @@ path.district-line {
   border: 1px solid rgba(255, 255, 255, 0.6);
 }
 
+/* The page had no heading at all: a reader landed on a coloured map with a
+   legend and had to work out for themselves whose seats these were and what
+   the colours meant. It says so now, before the numbers. */
+.panel-head {
+  margin: 0 0 0.9rem;
+}
+
+.panel-head h1 {
+  margin: 0 0 0.35rem;
+  font-family: var(--font-display);
+  font-size: 1.32rem;
+  line-height: 1.15;
+  color: var(--ink);
+}
+
+.panel-head p {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--body);
+}
+
+/* The wordmark carries the site's name and the place it is showing, so the
+   name stays the name and does not change per state. */
+.logo b { font-weight: 700; }
+
+.logo span {
+  margin-left: 0.5rem;
+  padding-left: 0.55rem;
+  border-left: 1px solid var(--line);
+  font-weight: 400;
+  color: var(--muted);
+}
+
 #stats {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

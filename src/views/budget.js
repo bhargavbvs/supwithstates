@@ -171,7 +171,7 @@ export function renderBudget(el, param) {
 
   el.innerHTML = `
     <a class="back" href="${store.href()}">← Map</a>
-    <h1>${escapeHtml(store.state.name)}'s budget</h1>
+    <h1>Where ${escapeHtml(store.state.name)} spends your money</h1>
     <p class="sub">${escapeHtml(b.year)} · every figure as the state budgeted it</p>
     ${all.length < 2 ? '' : `
       <nav class="year-pick" aria-label="Budget year">
@@ -179,7 +179,7 @@ export function renderBudget(el, param) {
           class="year-tab${x.year === b.year ? ' on' : ''}"${x.year === b.year ? ' aria-current="true"' : ''}>${
   escapeHtml(x.year)}</a>`).join('')}
       </nav>`}
-    <p class="lede">The state's plan for the year, not what it has spent.
+    <p class="lede">The government's plan for the year, not a record of what it has spent.
       Money is in crore, written <b>cr</b>.</p>
 
     ${debt}
